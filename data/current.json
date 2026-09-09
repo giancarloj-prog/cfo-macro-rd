@@ -91,9 +91,44 @@
       "value": -1.4,
       "period": "2025",
       "source": "BCRD"
+    },
+    "itbis_total_operations": {
+      "value": 865548.2187723191,
+      "period": "2026-07",
+      "source": "DGII"
+    },
+    "itbis_total_operations_yoy": {
+      "value": 8.739819768903212,
+      "period": "2026-07",
+      "source": "DGII"
+    },
+    "itbis_taxed_operations": {
+      "value": 310067.5214974787,
+      "period": "2026-07",
+      "source": "DGII"
+    },
+    "itbis_taxed_operations_yoy": {
+      "value": 3.8970501770626997,
+      "period": "2026-07",
+      "source": "DGII"
+    },
+    "itbis_revenue": {
+      "value": 20559.574350600004,
+      "period": "2026-08",
+      "source": "DGII"
+    },
+    "itbis_revenue_yoy": {
+      "value": 10.463168574187854,
+      "period": "2026-08",
+      "source": "DGII"
+    },
+    "itbis_taxed_share": {
+      "value": 35.82325222011015,
+      "period": "2026-07",
+      "source": "DGII"
     }
   },
-  "automation_check_utc": "2026-09-09T12:27:26+00:00",
+  "automation_check_utc": "2026-09-09T12:54:51+00:00",
   "source_health": {
     "bcrd": {
       "ok": true,
@@ -115,6 +150,16 @@
         "gdp_growth",
         "current_account_gdp"
       ]
+    },
+    "dgii": {
+      "ok": true,
+      "url": "https://www.dgii.gov.do/estadisticas/Operaciones-Recaudaciones-ITBIS/Paginas/default.aspx",
+      "updated_fields": [
+        "itbis_total_operations",
+        "itbis_taxed_operations",
+        "itbis_revenue"
+      ],
+      "errors": {}
     }
   },
   "updated_fields": [
