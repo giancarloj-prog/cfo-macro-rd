@@ -24,9 +24,10 @@ h1{font-size:clamp(30px,4vw,52px);letter-spacing:-.045em;margin:0}.sub{color:var
 .chart svg{width:100%;height:205px;overflow:visible}.chart text{fill:var(--muted);font-size:10px}
 .chart .gridline{stroke:#203a59;stroke-width:1}.chart .line{fill:none;stroke-width:2.5}.legend{display:flex;gap:12px;flex-wrap:wrap;font-size:10px;color:var(--muted);margin-top:4px}
 .dgii{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px}
+.fiscal{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px}
 @media(max-width:1000px){.grid5{grid-template-columns:repeat(3,1fr)}.watchgrid{grid-template-columns:repeat(2,1fr)}}
-@media(max-width:1000px){.dgii{grid-template-columns:repeat(2,1fr)}}
-@media(max-width:650px){.charts{grid-template-columns:1fr}.wrap{padding:16px}header{display:block}.badge{display:inline-block;margin-top:12px}.grid5{grid-template-columns:repeat(2,1fr)}.ext{grid-template-columns:1fr}.watchgrid,.dgii{grid-template-columns:1fr}.card{min-height:126px;padding:14px}.v{font-size:28px}.sub{font-size:13px}}
+@media(max-width:1000px){.dgii,.fiscal{grid-template-columns:repeat(2,1fr)}}
+@media(max-width:650px){.charts{grid-template-columns:1fr}.wrap{padding:16px}header{display:block}.badge{display:inline-block;margin-top:12px}.grid5{grid-template-columns:repeat(2,1fr)}.ext{grid-template-columns:1fr}.watchgrid,.dgii,.fiscal{grid-template-columns:1fr}.card{min-height:126px;padding:14px}.v{font-size:28px}.sub{font-size:13px}}
 </style></head><body><main class="wrap">
 <header><div><h1>CFO Macro Dashboard — RD</h1><div class="sub">Resumen macroeconómico y financiero para toma de decisiones · República Dominicana</div></div><div class="badge" id="stamp">Actualizando…</div></header>
 <div class="sec">CFO Snapshot</div><div class="grid5" id="snapshot"></div>
@@ -37,12 +38,15 @@ h1{font-size:clamp(30px,4vw,52px);letter-spacing:-.045em;margin:0}.sub{color:var
 <div class="sec">Actividad económica & recaudación — DGII</div><div class="dgii" id="dgii"></div>
 <div class="charts" id="dgiiCharts" style="margin-top:12px"></div>
 <div class="foot">Fuente: DGII, Operaciones y Recaudaciones ITBIS (IVA). Valores en RD$ millones; cifras preliminares sujetas a rectificación.</div>
+<div class="sec">Sector fiscal — Hacienda</div><div class="fiscal" id="fiscal"></div>
+<div class="charts" id="fiscalCharts" style="margin-top:12px"></div>
+<div class="foot">Fuente: Ministerio de Hacienda y Economía. Valores acumulados en RD$ millones. El balance simple y el financiamiento neto son cálculos del dashboard a partir de los indicadores publicados.</div>
 </main><script>
 const M=["ene","feb","mar","abr","may","jun","jul","ago","sep","oct","nov","dic"];
 const per=p=>{if(!p)return"—";let a=p.split("-");if(a.length===3)return`${+a[2]} ${M[+a[1]-1]} ${a[0]}`;if(a.length===2)return`${M[+a[1]-1]} ${a[0]}`;return p};
 const g=(d,k)=>d.series?.[k]||{};
 function card(label,x,fmt="pct",extra="",pill="BCRD"){
- let n=x.value,v=n==null?"—":fmt==="pct"?`${Number(n).toFixed(2)}%`:fmt==="fx"?Number(n).toFixed(2):fmt==="usd"?`US$${Number(n).toLocaleString("en-US",{maximumFractionDigits:1})} MM`:fmt==="rdmm"?`RD$${Number(n).toLocaleString("en-US",{maximumFractionDigits:0})} MM`:Number(n).toFixed(1);
+ let n=x.value,v=n==null?"—":fmt==="pct"?`${Number(n).toFixed(2)}%`:fmt==="fx"?Number(n).toFixed(2):fmt==="usd"?`US$${Number(n).toLocaleString("en-US",{maximumFractionDigits:1})} MM`:fmt==="rdmm"?`${Number(n)<0?"−":""}RD$${Math.abs(Number(n)).toLocaleString("en-US",{maximumFractionDigits:0})} MM`:Number(n).toFixed(1);
  return`<div class="card"><div class="k">${label}</div><div class="v">${v}</div><div class="meta">${per(x.period)}${extra?`<br>${extra}`:""}</div><span class="pill">${pill}</span></div>`
 }
 
@@ -123,6 +127,25 @@ Promise.all([fetch("data/current.json?ts="+Date.now()).then(r=>r.json()),fetch("
  ],"usd")+
  lineChart("Recaudación ITBIS","Recaudación mensual · RD$ MM",revPeriods.map(short),[
   {name:"Recaudación",values:revPeriods.map(k=>mo.itbis_revenue?.[k])}
+ ],"usd");
+
+ document.getElementById("fiscal").innerHTML=
+ card("Ingresos",g(d,"fiscal_income"),"rdmm","Acumulado publicado","Hacienda")+
+ card("Gastos",g(d,"fiscal_expense"),"rdmm","Acumulado publicado","Hacienda")+
+ card("Balance simple",g(d,"budget_balance_simple"),"rdmm","Ingresos − gastos","Cálculo")+
+ card("Financiamiento neto",g(d,"net_financing"),"rdmm","Fuentes − aplicaciones","Cálculo");
+
+ const fi=h.fiscal||{};
+ const fiscalPeriods=lastPeriods(fi.fiscal_income,8);
+ const fiscalLabels=fiscalPeriods.map(k=>{let a=k.split("-");return `${+a[2]} ${M[+a[1]-1]}`});
+ document.getElementById("fiscalCharts").innerHTML=
+ lineChart("Ejecución fiscal acumulada","Ingresos y gastos publicados · RD$ MM",fiscalLabels,[
+  {name:"Ingresos",values:fiscalPeriods.map(k=>fi.fiscal_income?.[k])},
+  {name:"Gastos",values:fiscalPeriods.map(k=>fi.fiscal_expense?.[k])}
+ ],"usd")+
+ lineChart("Balance y financiamiento","Cálculos acumulados · RD$ MM",fiscalLabels,[
+  {name:"Balance simple",values:fiscalPeriods.map(k=>fi.budget_balance_simple?.[k])},
+  {name:"Financiamiento neto",values:fiscalPeriods.map(k=>fi.net_financing?.[k])}
  ],"usd");
 }).catch(e=>{document.getElementById("stamp").textContent="Error cargando datos";console.error(e)});
 </script></body></html>
