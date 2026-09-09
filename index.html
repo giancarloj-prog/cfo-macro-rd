@@ -1,60 +1,60 @@
 <!doctype html>
-<html lang="es">
-<head>
-<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>CFO Macro Dashboard — RD</title>
+<html lang="es"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>CFO Macro Dashboard RD</title>
 <style>
-:root{--bg:#07111f;--panel:#0d1b2d;--line:#203a59;--text:#f3f7fc;--muted:#93a8c4;--blue:#76a9ff;--green:#42d3a0;--yellow:#f3bf4f;--red:#ff7777}
-*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font-family:Inter,system-ui,-apple-system,Segoe UI,sans-serif}
-.wrap{max-width:1500px;margin:auto;padding:28px}.head{display:flex;justify-content:space-between;gap:20px;align-items:flex-start;margin-bottom:28px}
-h1{font-size:clamp(34px,5vw,66px);margin:0 0 8px;letter-spacing:-.04em}.sub{color:var(--muted);font-size:18px}.stamp{border:1px solid var(--line);border-radius:24px;padding:10px 16px;color:var(--muted);white-space:nowrap}
-.section{margin:32px 0 14px;font-size:14px;text-transform:uppercase;letter-spacing:.12em;color:var(--blue);font-weight:800}
-.grid{display:grid;grid-template-columns:repeat(4,1fr);gap:16px}.card,.watch{background:var(--panel);border:1px solid var(--line);border-radius:24px;padding:24px}
-.label{color:var(--muted);font-size:15px;text-transform:uppercase;letter-spacing:.07em}.value{font-size:42px;font-weight:800;margin:12px 0 6px;letter-spacing:-.03em}
-.meta{color:var(--muted);line-height:1.5;min-height:46px}.tag{display:inline-block;margin-top:12px;padding:6px 12px;border-radius:20px;background:#142b4c;color:var(--blue);font-size:13px}
-.watchgrid{display:grid;grid-template-columns:repeat(2,1fr);gap:14px}.watch{border-left-width:5px}.watch.yellow{border-left-color:var(--yellow)}.watch.green{border-left-color:var(--green)}.watch.red{border-left-color:var(--red)}
-.watch h3{margin:0 0 8px;font-size:18px}.watch p{margin:0;color:var(--muted);line-height:1.5}.foot{margin-top:30px;color:var(--muted);font-size:13px}
-@media(max-width:900px){.grid{grid-template-columns:repeat(2,1fr)}.head{display:block}.stamp{display:inline-block;margin-top:16px}.watchgrid{grid-template-columns:1fr}}
-@media(max-width:540px){.wrap{padding:18px}.grid{grid-template-columns:1fr}.card{padding:20px}.value{font-size:38px}h1{font-size:40px}.sub{font-size:16px}}
-</style>
-</head>
-<body><main class="wrap">
-<div class="head"><div><h1>CFO Macro Dashboard — RD</h1><div class="sub">Resumen macroeconómico y financiero para toma de decisiones · República Dominicana</div></div><div class="stamp" id="stamp">Actualizando…</div></div>
-<div class="section">Mercado cambiario</div><div class="grid" id="fx"></div>
-<div class="section">Financiamiento</div><div class="grid" id="fin"></div>
-<div class="section">Actividad & precios</div><div class="grid" id="act"></div>
-<div class="section">Sector externo</div><div class="grid" id="ext"></div>
-<div class="section">CFO Watch</div><div class="watchgrid" id="watch"></div>
-<div class="foot">Fuente primaria: Banco Central de la República Dominicana (BCRD). Los períodos mostrados corresponden al último dato publicado para cada indicador.</div>
-</main>
-<script>
+:root{--bg:#08111f;--panel:#0e1c2f;--line:#203a59;--text:#f5f8fc;--muted:#91a5c0;--blue:#79aaff;--green:#48d2a0;--yellow:#f2bd4e;--red:#ff7777}
+*{box-sizing:border-box}body{margin:0;background:linear-gradient(180deg,#07101d,#091525);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Arial,sans-serif}
+.wrap{max-width:1500px;margin:auto;padding:22px 26px 34px}
+header{display:flex;justify-content:space-between;align-items:flex-start;gap:16px;margin-bottom:20px}
+h1{font-size:clamp(30px,4vw,52px);letter-spacing:-.045em;margin:0}.sub{color:var(--muted);margin-top:7px;font-size:15px}
+.badge{border:1px solid var(--line);border-radius:999px;padding:8px 13px;color:var(--muted);font-size:13px;white-space:nowrap}
+.sec{font-size:12px;font-weight:800;letter-spacing:.12em;color:var(--blue);text-transform:uppercase;margin:22px 0 9px}
+.grid5{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:12px}
+.card{background:rgba(14,28,47,.92);border:1px solid var(--line);border-radius:18px;padding:16px;min-height:138px}
+.k{font-size:12px;color:var(--muted);text-transform:uppercase;letter-spacing:.055em}.v{font-size:30px;font-weight:800;letter-spacing:-.04em;margin:8px 0 4px}
+.meta{font-size:13px;color:var(--muted);line-height:1.4}.pill{display:inline-block;margin-top:10px;background:#142d51;color:var(--blue);font-size:11px;padding:5px 9px;border-radius:999px}
+.watchgrid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px}.watch{background:rgba(14,28,47,.92);border:1px solid var(--line);border-top:3px solid var(--green);border-radius:16px;padding:14px;min-height:110px}
+.watch.yellow{border-top-color:var(--yellow)}.watch.red{border-top-color:var(--red)}.watch h3{font-size:14px;margin:0 0 7px}.watch p{font-size:12.5px;line-height:1.45;color:var(--muted);margin:0}
+.ext{display:grid;grid-template-columns:repeat(3,1fr);gap:12px}.ext .card{min-height:120px}
+.foot{font-size:11px;color:var(--muted);margin-top:22px}
+@media(max-width:1000px){.grid5{grid-template-columns:repeat(3,1fr)}.watchgrid{grid-template-columns:repeat(2,1fr)}}
+@media(max-width:650px){.wrap{padding:16px}header{display:block}.badge{display:inline-block;margin-top:12px}.grid5{grid-template-columns:repeat(2,1fr)}.ext{grid-template-columns:1fr}.watchgrid{grid-template-columns:1fr}.card{min-height:126px;padding:14px}.v{font-size:28px}.sub{font-size:13px}}
+</style></head><body><main class="wrap">
+<header><div><h1>CFO Macro Dashboard — RD</h1><div class="sub">Resumen macroeconómico y financiero para toma de decisiones · República Dominicana</div></div><div class="badge" id="stamp">Actualizando…</div></header>
+<div class="sec">CFO Snapshot</div><div class="grid5" id="snapshot"></div>
+<div class="sec">Financiamiento & Macro</div><div class="grid5" id="macro"></div>
+<div class="sec">CFO Watch</div><div class="watchgrid" id="watch"></div>
+<div class="sec">Sector externo</div><div class="ext" id="external"></div>
+<div class="foot">Fuente primaria: Banco Central de la República Dominicana (BCRD). Cada tarjeta conserva el período del último dato publicado para ese indicador.</div>
+</main><script>
 const M=["ene","feb","mar","abr","may","jun","jul","ago","sep","oct","nov","dic"];
-function period(p){if(!p)return "—";let x=p.split("-");if(x.length===3)return `${+x[2]} ${M[+x[1]-1]} ${x[0]}`;if(x.length===2)return `${M[+x[1]-1]} ${x[0]}`;return p}
-function get(d,k){return d.series?.[k]||{}}
-function card(label,x,fmt="pct",extra="",tag="BCRD"){
- let v=x.value; let val=v==null?"—":fmt==="pct"?`${Number(v).toFixed(2)}%`:fmt==="fx"?Number(v).toFixed(2):fmt==="usd"?`US$${Number(v).toLocaleString("en-US",{minimumFractionDigits:1,maximumFractionDigits:1})} MM`:Number(v).toFixed(1);
- return `<div class="card"><div class="label">${label}</div><div class="value">${val}</div><div class="meta">${period(x.period)}${extra?`<br>${extra}`:""}</div><span class="tag">${tag}</span></div>`
+const per=p=>{if(!p)return"—";let a=p.split("-");if(a.length===3)return`${+a[2]} ${M[+a[1]-1]} ${a[0]}`;if(a.length===2)return`${M[+a[1]-1]} ${a[0]}`;return p};
+const g=(d,k)=>d.series?.[k]||{};
+function card(label,x,fmt="pct",extra="",pill="BCRD"){
+ let n=x.value,v=n==null?"—":fmt==="pct"?`${Number(n).toFixed(2)}%`:fmt==="fx"?Number(n).toFixed(2):fmt==="usd"?`US$${Number(n).toLocaleString("en-US",{maximumFractionDigits:1})} MM`:Number(n).toFixed(1);
+ return`<div class="card"><div class="k">${label}</div><div class="v">${v}</div><div class="meta">${per(x.period)}${extra?`<br>${extra}`:""}</div><span class="pill">${pill}</span></div>`
 }
 fetch("data/current.json?ts="+Date.now()).then(r=>r.json()).then(d=>{
- document.getElementById("stamp").textContent="Actualizado · "+period(d.as_of);
- let sell=get(d,"usd_dop_sell"),buy=get(d,"usd_dop_buy");
- document.getElementById("fx").innerHTML=card("USD/DOP venta",sell,"fx",`Compra: ${buy.value==null?"—":Number(buy.value).toFixed(2)}`,"Último dato validado");
- document.getElementById("fin").innerHTML=
-  card("Tasa activa",get(d,"active_rate"),"pct","Prom. ponderado banca múltiple")+
-  card("Tasa pasiva",get(d,"passive_rate"),"pct","Prom. ponderado banca múltiple")+
-  card("Interbancaria",get(d,"interbank_rate"),"pct","Promedio ponderado")+
-  card("TPM",get(d,"policy_rate"),"pct","Tasa de política monetaria");
- document.getElementById("act").innerHTML=
-  card("Inflación YoY",get(d,"inflation_yoy"),"pct",get(d,"inflation_monthly").value!=null?`Mensual: ${Number(get(d,"inflation_monthly").value).toFixed(2)}%`:"")+
-  card("Inflación subyacente",get(d,"core_inflation_yoy"),"pct","Meta BCRD: 4% ± 1%")+
-  card("IMAE YoY",get(d,"imae_yoy"),"pct",get(d,"imae_ytd").value!=null?`Acumulado: ${Number(get(d,"imae_ytd").value).toFixed(2)}%`:"")+
-  card("Crédito privado",get(d,"private_credit_yoy"),"pct","Variación interanual")+
-  card("PIB",get(d,"gdp_growth"),"pct","Crecimiento anual");
- document.getElementById("ext").innerHTML=
-  card("Reservas brutas",get(d,"gross_reserves"),"usd","Reservas internacionales")+
-  card("Reservas netas",get(d,"net_reserves"),"usd","Reservas internacionales")+
-  card("Cuenta corriente / PIB",get(d,"current_account_gdp"),"pct","Balance externo");
+ document.getElementById("stamp").textContent="Actualizado · "+per(d.as_of);
+ let buy=g(d,"usd_dop_buy");
+ document.getElementById("snapshot").innerHTML=
+ card("USD/DOP venta",g(d,"usd_dop_sell"),"fx",`Compra: ${buy.value==null?"—":Number(buy.value).toFixed(2)}`,"Último validado")+
+ card("Tasa activa",g(d,"active_rate"),"pct","Banca múltiple","Costo bancario")+
+ card("Inflación YoY",g(d,"inflation_yoy"),"pct",g(d,"inflation_monthly").value!=null?`Mensual: ${Number(g(d,"inflation_monthly").value).toFixed(2)}%`:"","Precios")+
+ card("IMAE YoY",g(d,"imae_yoy"),"pct",g(d,"imae_ytd").value!=null?`Acum.: ${Number(g(d,"imae_ytd").value).toFixed(2)}%`:"","Actividad")+
+ card("Reservas brutas",g(d,"gross_reserves"),"usd","","Sector externo");
+ document.getElementById("macro").innerHTML=
+ card("TPM",g(d,"policy_rate"),"pct","Política monetaria")+
+ card("Interbancaria",g(d,"interbank_rate"),"pct","Prom. ponderado")+
+ card("Tasa pasiva",g(d,"passive_rate"),"pct","Banca múltiple")+
+ card("Crédito privado",g(d,"private_credit_yoy"),"pct","Variación interanual")+
+ card("PIB",g(d,"gdp_growth"),"pct","Crecimiento anual");
  let w=d.cfo_watch||[];
- document.getElementById("watch").innerHTML=w.length?w.map(x=>`<div class="watch ${x.level||"green"}"><h3>${x.title}</h3><p>${x.text}</p></div>`).join(""):`<div class="watch"><h3>Sin alertas</h3><p>No hay señales generadas en la última ejecución.</p></div>`;
+ document.getElementById("watch").innerHTML=w.map(x=>`<div class="watch ${x.level||"green"}"><h3>${x.title}</h3><p>${x.text}</p></div>`).join("")||`<div class="watch"><h3>Sin alertas</h3><p>No hay señales generadas.</p></div>`;
+ document.getElementById("external").innerHTML=
+ card("Reservas netas",g(d,"net_reserves"),"usd","Reservas internacionales")+
+ card("Cuenta corriente / PIB",g(d,"current_account_gdp"),"pct","Balance externo")+
+ card("Inflación subyacente",g(d,"core_inflation_yoy"),"pct","Meta BCRD: 4% ± 1%");
 }).catch(e=>{document.getElementById("stamp").textContent="Error cargando datos";console.error(e)});
 </script></body></html>
