@@ -18,15 +18,20 @@ h1{font-size:clamp(30px,4vw,52px);letter-spacing:-.045em;margin:0}.sub{color:var
 .watch.yellow{border-top-color:var(--yellow)}.watch.red{border-top-color:var(--red)}.watch h3{font-size:14px;margin:0 0 7px}.watch p{font-size:12.5px;line-height:1.45;color:var(--muted);margin:0}
 .ext{display:grid;grid-template-columns:repeat(3,1fr);gap:12px}.ext .card{min-height:120px}
 .foot{font-size:11px;color:var(--muted);margin-top:22px}
+.charts{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}
+.chart{background:rgba(14,28,47,.92);border:1px solid var(--line);border-radius:18px;padding:16px;min-height:270px}
+.chart h3{font-size:14px;margin:0 0 3px}.chart .desc{font-size:11px;color:var(--muted);margin-bottom:10px}
+.chart svg{width:100%;height:205px;overflow:visible}.chart text{fill:var(--muted);font-size:10px}
+.chart .gridline{stroke:#203a59;stroke-width:1}.chart .line{fill:none;stroke-width:2.5}.legend{display:flex;gap:12px;flex-wrap:wrap;font-size:10px;color:var(--muted);margin-top:4px}
 @media(max-width:1000px){.grid5{grid-template-columns:repeat(3,1fr)}.watchgrid{grid-template-columns:repeat(2,1fr)}}
-@media(max-width:650px){.wrap{padding:16px}header{display:block}.badge{display:inline-block;margin-top:12px}.grid5{grid-template-columns:repeat(2,1fr)}.ext{grid-template-columns:1fr}.watchgrid{grid-template-columns:1fr}.card{min-height:126px;padding:14px}.v{font-size:28px}.sub{font-size:13px}}
+@media(max-width:650px){.charts{grid-template-columns:1fr}.wrap{padding:16px}header{display:block}.badge{display:inline-block;margin-top:12px}.grid5{grid-template-columns:repeat(2,1fr)}.ext{grid-template-columns:1fr}.watchgrid{grid-template-columns:1fr}.card{min-height:126px;padding:14px}.v{font-size:28px}.sub{font-size:13px}}
 </style></head><body><main class="wrap">
 <header><div><h1>CFO Macro Dashboard — RD</h1><div class="sub">Resumen macroeconómico y financiero para toma de decisiones · República Dominicana</div></div><div class="badge" id="stamp">Actualizando…</div></header>
 <div class="sec">CFO Snapshot</div><div class="grid5" id="snapshot"></div>
 <div class="sec">Financiamiento & Macro</div><div class="grid5" id="macro"></div>
 <div class="sec">CFO Watch</div><div class="watchgrid" id="watch"></div>
 <div class="sec">Sector externo</div><div class="ext" id="external"></div>
-<div class="foot">Fuente primaria: Banco Central de la República Dominicana (BCRD). Cada tarjeta conserva el período del último dato publicado para ese indicador.</div>
+<div class="sec">Tendencias</div><div class="charts" id="charts"></div><div class="foot">Fuente primaria: Banco Central de la República Dominicana (BCRD). Cada tarjeta conserva el período del último dato publicado para ese indicador.</div>
 </main><script>
 const M=["ene","feb","mar","abr","may","jun","jul","ago","sep","oct","nov","dic"];
 const per=p=>{if(!p)return"—";let a=p.split("-");if(a.length===3)return`${+a[2]} ${M[+a[1]-1]} ${a[0]}`;if(a.length===2)return`${M[+a[1]-1]} ${a[0]}`;return p};
@@ -35,7 +40,21 @@ function card(label,x,fmt="pct",extra="",pill="BCRD"){
  let n=x.value,v=n==null?"—":fmt==="pct"?`${Number(n).toFixed(2)}%`:fmt==="fx"?Number(n).toFixed(2):fmt==="usd"?`US$${Number(n).toLocaleString("en-US",{maximumFractionDigits:1})} MM`:Number(n).toFixed(1);
  return`<div class="card"><div class="k">${label}</div><div class="v">${v}</div><div class="meta">${per(x.period)}${extra?`<br>${extra}`:""}</div><span class="pill">${pill}</span></div>`
 }
-fetch("data/current.json?ts="+Date.now()).then(r=>r.json()).then(d=>{
+
+function lineChart(title,desc,labels,series,format="pct"){
+ const W=520,H=190,L=38,R=12,T=14,B=28, vals=series.flatMap(s=>s.values.filter(v=>v!=null));
+ let min=Math.min(...vals),max=Math.max(...vals); let pad=(max-min)*.18||1; min-=pad;max+=pad;
+ const x=i=>L+(W-L-R)*(labels.length===1?.5:i/(labels.length-1));
+ const y=v=>T+(H-T-B)*(max-v)/(max-min);
+ const colors=["#79aaff","#48d2a0","#f2bd4e","#d18cff"];
+ let grid=[0,.25,.5,.75,1].map(q=>{let yy=T+(H-T-B)*q,val=max-(max-min)*q;return `<line class="gridline" x1="${L}" y1="${yy}" x2="${W-R}" y2="${yy}"/><text x="2" y="${yy+3}">${format==="usd"?Math.round(val).toLocaleString("en-US"):val.toFixed(1)+"%"}</text>`}).join("");
+ let lines=series.map((s,j)=>{let pts=s.values.map((v,i)=>v==null?null:`${x(i)},${y(v)}`).filter(Boolean).join(" ");return `<polyline class="line" stroke="${colors[j]}" points="${pts}"/>`}).join("");
+ let xl=labels.map((a,i)=>`<text text-anchor="middle" x="${x(i)}" y="${H-5}">${a}</text>`).join("");
+ let leg=series.map((s,j)=>`<span><b style="color:${colors[j]}">●</b> ${s.name}</span>`).join("");
+ return `<div class="chart"><h3>${title}</h3><div class="desc">${desc}</div><svg viewBox="0 0 ${W} ${H}" preserveAspectRatio="none">${grid}${lines}${xl}</svg><div class="legend">${leg}</div></div>`;
+}
+
+Promise.all([fetch("data/current.json?ts="+Date.now()).then(r=>r.json()),fetch("data/history.json?ts="+Date.now()).then(r=>r.json())]).then(([d,h])=>{
  document.getElementById("stamp").textContent="Actualizado · "+per(d.as_of);
  let buy=g(d,"usd_dop_buy");
  document.getElementById("snapshot").innerHTML=
@@ -52,6 +71,30 @@ fetch("data/current.json?ts="+Date.now()).then(r=>r.json()).then(d=>{
  card("PIB",g(d,"gdp_growth"),"pct","Crecimiento anual");
  let w=d.cfo_watch||[];
  document.getElementById("watch").innerHTML=w.map(x=>`<div class="watch ${x.level||"green"}"><h3>${x.title}</h3><p>${x.text}</p></div>`).join("")||`<div class="watch"><h3>Sin alertas</h3><p>No hay señales generadas.</p></div>`;
+
+ let mo=h.monthly||{}, daily=h.daily||{};
+ const labs=["may","jun","jul","ago"];
+ document.getElementById("charts").innerHTML=
+ lineChart("Tasas bancarias & TPM","Promedios ponderados mensuales · %",labs,[
+  {name:"Activa",values:["2026-05","2026-06","2026-07","2026-08"].map(k=>mo.active_rate?.[k])},
+  {name:"Pasiva",values:["2026-05","2026-06","2026-07","2026-08"].map(k=>mo.passive_rate?.[k])},
+  {name:"Interbancaria",values:["2026-05","2026-06","2026-07","2026-08"].map(k=>mo.interbank_rate?.[k])},
+  {name:"TPM",values:["2026-05","2026-06","2026-07","2026-08"].map(k=>mo.policy_rate?.[k])}
+ ])+
+ lineChart("Inflación","Interanual general vs. subyacente · %",labs,[
+  {name:"General",values:["2026-05","2026-06","2026-07","2026-08"].map(k=>mo.inflation_yoy?.[k])},
+  {name:"Subyacente",values:["2026-05","2026-06","2026-07","2026-08"].map(k=>mo.core_inflation_yoy?.[k])}
+ ])+
+ lineChart("Actividad económica","IMAE interanual · %",["abr","may","jun","jul"],[
+  {name:"IMAE",values:["2026-04","2026-05","2026-06","2026-07"].map(k=>mo.imae_yoy?.[k])}
+ ])+
+ lineChart("Reservas internacionales","Reservas brutas mensuales · US$ MM",labs,[
+  {name:"Brutas",values:["2026-05","2026-06","2026-07","2026-08"].map(k=>mo.gross_reserves?.[k])}
+ ],"usd")+
+ lineChart("USD/DOP","Venta BCRD · puntos históricos validados",Object.keys(daily.usd_dop_sell||{}).sort().map(k=>{let a=k.split("-");return `${+a[2]} ${M[+a[1]-1]}`}),[
+  {name:"Venta",values:Object.keys(daily.usd_dop_sell||{}).sort().map(k=>daily.usd_dop_sell[k])}
+ ],"fx");
+
  document.getElementById("external").innerHTML=
  card("Reservas netas",g(d,"net_reserves"),"usd","Reservas internacionales")+
  card("Cuenta corriente / PIB",g(d,"current_account_gdp"),"pct","Balance externo")+
