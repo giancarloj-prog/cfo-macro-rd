@@ -117,7 +117,7 @@ def main():
             hist["daily"].setdefault(key, {})
             hist["daily"][key][x["period"]] = x["value"]
     hist["updated_utc"] = p["automation_check_utc"]
-    hist_path.write_text(json.dumps(hist, ensure_ascii=False, indent=2)+"\\n", encoding="utf-8")
+    hist_path.write_text(json.dumps(hist, ensure_ascii=False, indent=2)+"\n", encoding="utf-8")
     DATA.write_text(json.dumps(p,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
     print("Updated:", ", ".join(u) if u else "none")
 
