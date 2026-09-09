@@ -1,0 +1,61 @@
+{
+  "as_of": "2026-09-08",
+  "status": "seed",
+  "series": {
+    "usd_dop_sell": {
+      "value": 58.9622,
+      "period": "2026-09-07",
+      "source": "BCRD"
+    },
+    "usd_dop_buy": {
+      "value": 58.58,
+      "period": "2026-09-07",
+      "source": "BCRD"
+    },
+    "active_rate": {
+      "value": 14.08,
+      "period": "2026-08",
+      "source": "BCRD"
+    },
+    "passive_rate": {
+      "value": 7.37,
+      "period": "2026-08",
+      "source": "BCRD"
+    },
+    "interbank_rate": {
+      "value": 8.45,
+      "period": "2026-08",
+      "source": "BCRD"
+    },
+    "policy_rate": {
+      "value": 5.25,
+      "period": "2026-09",
+      "source": "BCRD"
+    },
+    "inflation_yoy": {
+      "value": 5.13,
+      "period": "2026-08",
+      "source": "BCRD"
+    },
+    "core_inflation_yoy": {
+      "value": 4.76,
+      "period": "2026-08",
+      "source": "BCRD"
+    },
+    "imae_yoy": {
+      "value": 4.6,
+      "period": "2026-07",
+      "source": "BCRD"
+    },
+    "private_credit_yoy": {
+      "value": 7.6,
+      "period": "2026-08",
+      "source": "BCRD"
+    },
+    "gross_reserves_usd_mm": {
+      "value": 15434.2,
+      "period": "2026-08",
+      "source": "BCRD"
+    }
+  }
+}
