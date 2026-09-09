@@ -23,8 +23,10 @@ h1{font-size:clamp(30px,4vw,52px);letter-spacing:-.045em;margin:0}.sub{color:var
 .chart h3{font-size:14px;margin:0 0 3px}.chart .desc{font-size:11px;color:var(--muted);margin-bottom:10px}
 .chart svg{width:100%;height:205px;overflow:visible}.chart text{fill:var(--muted);font-size:10px}
 .chart .gridline{stroke:#203a59;stroke-width:1}.chart .line{fill:none;stroke-width:2.5}.legend{display:flex;gap:12px;flex-wrap:wrap;font-size:10px;color:var(--muted);margin-top:4px}
+.dgii{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px}
 @media(max-width:1000px){.grid5{grid-template-columns:repeat(3,1fr)}.watchgrid{grid-template-columns:repeat(2,1fr)}}
-@media(max-width:650px){.charts{grid-template-columns:1fr}.wrap{padding:16px}header{display:block}.badge{display:inline-block;margin-top:12px}.grid5{grid-template-columns:repeat(2,1fr)}.ext{grid-template-columns:1fr}.watchgrid{grid-template-columns:1fr}.card{min-height:126px;padding:14px}.v{font-size:28px}.sub{font-size:13px}}
+@media(max-width:1000px){.dgii{grid-template-columns:repeat(2,1fr)}}
+@media(max-width:650px){.charts{grid-template-columns:1fr}.wrap{padding:16px}header{display:block}.badge{display:inline-block;margin-top:12px}.grid5{grid-template-columns:repeat(2,1fr)}.ext{grid-template-columns:1fr}.watchgrid,.dgii{grid-template-columns:1fr}.card{min-height:126px;padding:14px}.v{font-size:28px}.sub{font-size:13px}}
 </style></head><body><main class="wrap">
 <header><div><h1>CFO Macro Dashboard — RD</h1><div class="sub">Resumen macroeconómico y financiero para toma de decisiones · República Dominicana</div></div><div class="badge" id="stamp">Actualizando…</div></header>
 <div class="sec">CFO Snapshot</div><div class="grid5" id="snapshot"></div>
@@ -32,12 +34,15 @@ h1{font-size:clamp(30px,4vw,52px);letter-spacing:-.045em;margin:0}.sub{color:var
 <div class="sec">CFO Watch</div><div class="watchgrid" id="watch"></div>
 <div class="sec">Sector externo</div><div class="ext" id="external"></div>
 <div class="sec">Tendencias</div><div class="charts" id="charts"></div><div class="foot">Fuente primaria: Banco Central de la República Dominicana (BCRD). Cada tarjeta conserva el período del último dato publicado para ese indicador.</div>
+<div class="sec">Actividad económica & recaudación — DGII</div><div class="dgii" id="dgii"></div>
+<div class="charts" id="dgiiCharts" style="margin-top:12px"></div>
+<div class="foot">Fuente: DGII, Operaciones y Recaudaciones ITBIS (IVA). Valores en RD$ millones; cifras preliminares sujetas a rectificación.</div>
 </main><script>
 const M=["ene","feb","mar","abr","may","jun","jul","ago","sep","oct","nov","dic"];
 const per=p=>{if(!p)return"—";let a=p.split("-");if(a.length===3)return`${+a[2]} ${M[+a[1]-1]} ${a[0]}`;if(a.length===2)return`${M[+a[1]-1]} ${a[0]}`;return p};
 const g=(d,k)=>d.series?.[k]||{};
 function card(label,x,fmt="pct",extra="",pill="BCRD"){
- let n=x.value,v=n==null?"—":fmt==="pct"?`${Number(n).toFixed(2)}%`:fmt==="fx"?Number(n).toFixed(2):fmt==="usd"?`US$${Number(n).toLocaleString("en-US",{maximumFractionDigits:1})} MM`:Number(n).toFixed(1);
+ let n=x.value,v=n==null?"—":fmt==="pct"?`${Number(n).toFixed(2)}%`:fmt==="fx"?Number(n).toFixed(2):fmt==="usd"?`US$${Number(n).toLocaleString("en-US",{maximumFractionDigits:1})} MM`:fmt==="rdmm"?`RD$${Number(n).toLocaleString("en-US",{maximumFractionDigits:0})} MM`:Number(n).toFixed(1);
  return`<div class="card"><div class="k">${label}</div><div class="v">${v}</div><div class="meta">${per(x.period)}${extra?`<br>${extra}`:""}</div><span class="pill">${pill}</span></div>`
 }
 
@@ -99,5 +104,25 @@ Promise.all([fetch("data/current.json?ts="+Date.now()).then(r=>r.json()),fetch("
  card("Reservas netas",g(d,"net_reserves"),"usd","Reservas internacionales")+
  card("Cuenta corriente / PIB",g(d,"current_account_gdp"),"pct","Balance externo")+
  card("Inflación subyacente",g(d,"core_inflation_yoy"),"pct","Meta BCRD: 4% ± 1%");
+
+ const yoy=k=>g(d,k+"_yoy").value==null?"Variación YoY: —":`Variación YoY: ${Number(g(d,k+"_yoy").value).toFixed(1)}%`;
+ document.getElementById("dgii").innerHTML=
+ card("Operaciones totales",g(d,"itbis_total_operations"),"rdmm",yoy("itbis_total_operations"),"DGII")+
+ card("Operaciones gravadas",g(d,"itbis_taxed_operations"),"rdmm",yoy("itbis_taxed_operations"),"DGII")+
+ card("Proporción gravada",g(d,"itbis_taxed_share"),"pct","Gravadas / operaciones totales","DGII")+
+ card("Recaudación ITBIS",g(d,"itbis_revenue"),"rdmm",yoy("itbis_revenue"),"DGII");
+
+ const lastPeriods=(obj,n=8)=>Object.keys(obj||{}).sort().slice(-n);
+ const opsPeriods=lastPeriods(mo.itbis_total_operations,8);
+ const revPeriods=lastPeriods(mo.itbis_revenue,8);
+ const short=p=>{let a=p.split("-");return M[+a[1]-1]};
+ document.getElementById("dgiiCharts").innerHTML=
+ lineChart("Operaciones declaradas","Totales vs. gravadas · RD$ MM",opsPeriods.map(short),[
+  {name:"Totales",values:opsPeriods.map(k=>mo.itbis_total_operations?.[k])},
+  {name:"Gravadas",values:opsPeriods.map(k=>mo.itbis_taxed_operations?.[k])}
+ ],"usd")+
+ lineChart("Recaudación ITBIS","Recaudación mensual · RD$ MM",revPeriods.map(short),[
+  {name:"Recaudación",values:revPeriods.map(k=>mo.itbis_revenue?.[k])}
+ ],"usd");
 }).catch(e=>{document.getElementById("stamp").textContent="Error cargando datos";console.error(e)});
 </script></body></html>
