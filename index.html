@@ -130,20 +130,20 @@ Promise.all([fetch("data/current.json?ts="+Date.now()).then(r=>r.json()),fetch("
  ],"usd");
 
  document.getElementById("fiscal").innerHTML=
- card("Ingresos",g(d,"fiscal_income"),"rdmm","Acumulado publicado","Hacienda")+
- card("Gastos",g(d,"fiscal_expense"),"rdmm","Acumulado publicado","Hacienda")+
- card("Balance simple",g(d,"budget_balance_simple"),"rdmm","Ingresos − gastos","Cálculo")+
- card("Financiamiento neto",g(d,"net_financing"),"rdmm","Fuentes − aplicaciones","Cálculo");
+ card("Ingresos",g(d,"fiscal_income"),"rdmm",g(d,"fiscal_income_yoy").value==null?"Acumulado publicado":`Último mes: ${Number(g(d,"fiscal_income_yoy").value).toFixed(1)}% YoY`,"Hacienda")+
+ card("Gastos",g(d,"fiscal_expense"),"rdmm",g(d,"fiscal_expense_yoy").value==null?"Acumulado publicado":`Último mes: ${Number(g(d,"fiscal_expense_yoy").value).toFixed(1)}% YoY`,"Hacienda")+
+ card("Balance simple",g(d,"budget_balance_simple"),"rdmm",g(d,"budget_balance_yoy_change").value==null?"Ingresos − gastos":`Cambio YoY mensual: ${Number(g(d,"budget_balance_yoy_change").value)<0?"−":"+"}RD$${Math.abs(Number(g(d,"budget_balance_yoy_change").value)).toLocaleString("en-US",{maximumFractionDigits:0})} MM`,"Cálculo")+
+ card("Ejecución ingresos",g(d,"fiscal_income_execution_pct"),"pct",g(d,"fiscal_expected_execution_pct").value==null?"Acumulado / presupuesto":`Referencia temporal: ${Number(g(d,"fiscal_expected_execution_pct").value).toFixed(1)}%`,"DIGEPRES");
 
- const fi=h.fiscal||{};
- const fiscalPeriods=lastPeriods(fi.fiscal_income,8);
- const fiscalLabels=fiscalPeriods.map(k=>{let a=k.split("-");return `${+a[2]} ${M[+a[1]-1]}`});
+ const fi=h.fiscal_monthly||{};
+ const fiscalPeriods=lastPeriods(fi.fiscal_income,12);
+ const fiscalLabels=fiscalPeriods.map(k=>{let a=k.split("-");return `${M[+a[1]-1]} ${a[0].slice(2)}`});
  document.getElementById("fiscalCharts").innerHTML=
- lineChart("Ejecución fiscal acumulada","Ingresos y gastos publicados · RD$ MM",fiscalLabels,[
+ lineChart("Ejecución fiscal mensual","Ingresos y gastos comparables · RD$ MM",fiscalLabels,[
   {name:"Ingresos",values:fiscalPeriods.map(k=>fi.fiscal_income?.[k])},
   {name:"Gastos",values:fiscalPeriods.map(k=>fi.fiscal_expense?.[k])}
  ],"usd")+
- lineChart("Balance y financiamiento","Cálculos acumulados · RD$ MM",fiscalLabels,[
+ lineChart("Balance y financiamiento","Resultados mensuales comparables · RD$ MM",fiscalLabels,[
   {name:"Balance simple",values:fiscalPeriods.map(k=>fi.budget_balance_simple?.[k])},
   {name:"Financiamiento neto",values:fiscalPeriods.map(k=>fi.net_financing?.[k])}
  ],"usd");

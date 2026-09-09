@@ -1,6 +1,6 @@
 {
   "as_of": "2026-09-09",
-  "status": "live-bcrd-dgii-hacienda-v1",
+  "status": "live-bcrd-dgii-hacienda-v2",
   "series": {
     "usd_dop_sell": {
       "value": 58.8666,
@@ -156,9 +156,34 @@
       "value": 298140.12,
       "period": "2026-09-04",
       "source": "Hacienda"
+    },
+    "fiscal_income_yoy": {
+      "value": -9.913334628162751,
+      "period": "2026-07",
+      "source": "DIGEPRES"
+    },
+    "fiscal_expense_yoy": {
+      "value": 12.789228027470845,
+      "period": "2026-07",
+      "source": "DIGEPRES"
+    },
+    "budget_balance_yoy_change": {
+      "value": -27952.430630890063,
+      "period": "2026-07",
+      "source": "DIGEPRES"
+    },
+    "fiscal_income_execution_pct": {
+      "value": 57.03663190925731,
+      "period": "2026-07",
+      "source": "DIGEPRES"
+    },
+    "fiscal_expected_execution_pct": {
+      "value": 58.333333333333336,
+      "period": "2026-07",
+      "source": "Cálculo"
     }
   },
-  "automation_check_utc": "2026-09-09T13:21:51+00:00",
+  "automation_check_utc": "2026-09-09T14:05:02+00:00",
   "source_health": {
     "bcrd": {
       "ok": true,
@@ -203,6 +228,13 @@
         "budget_balance_simple",
         "net_financing"
       ]
+    },
+    "digepres_history": {
+      "ok": true,
+      "url": "https://digepres.gob.do/ejecucion-presupuestaria-2026/",
+      "parsed_files": 0,
+      "latest_period": "2026-07",
+      "errors": {}
     }
   },
   "updated_fields": [
@@ -241,6 +273,16 @@
       "level": "green",
       "title": "Sector externo: reservas",
       "text": "Las reservas internacionales brutas se sitúan en US$15,434.2 millones."
+    },
+    {
+      "level": "yellow",
+      "title": "Hacienda: gasto supera ingresos",
+      "text": "El gasto mensual crece 12.8% interanual frente a -9.9% de los ingresos, una brecha de 22.7 puntos."
+    },
+    {
+      "level": "red",
+      "title": "Hacienda: deterioro fiscal",
+      "text": "El balance mensual se deterioró en RD$27,952 MM frente al mismo mes del año anterior."
     }
   ]
 }
