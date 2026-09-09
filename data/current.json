@@ -183,7 +183,7 @@
       "source": "Cálculo"
     }
   },
-  "automation_check_utc": "2026-09-09T14:09:39+00:00",
+  "automation_check_utc": "2026-09-09T14:05:02+00:00",
   "source_health": {
     "bcrd": {
       "ok": true,
@@ -273,6 +273,11 @@
       "level": "green",
       "title": "Sector externo: reservas",
       "text": "Las reservas internacionales brutas se sitúan en US$15,434.2 millones."
+    },
+    {
+      "level": "green",
+      "title": "DGII: actividad formal estable",
+      "text": "Las operaciones declaradas crecen 8.7% interanual, 3.6 puntos por encima de la inflación. No se activan alertas de desaceleración real ni divergencia tributaria."
     },
     {
       "level": "yellow",

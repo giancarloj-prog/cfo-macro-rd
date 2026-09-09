@@ -339,6 +339,7 @@ def watch(p, hist):
         items.append({"level":"green","title":"Sector externo: reservas","text":f"Las reservas internacionales brutas se sitúan en US${r:,.1f} millones."})
 
     # DGII: real activity, sustained deceleration and collection divergence.
+    dgii_alert_count=len(items)
     ops_yoy=s.get("itbis_total_operations_yoy",{}).get("value")
     if ops_yoy is not None and inf is not None and ops_yoy < inf:
         items.append({"level":"red","title":"DGII: actividad real debilitándose","text":f"Las operaciones declaradas crecen {ops_yoy:.1f}% interanual, por debajo de la inflación de {inf:.1f}%; implica una contracción real aproximada."})
@@ -354,6 +355,10 @@ def watch(p, hist):
     revenue_yoy=s.get("itbis_revenue_yoy",{}).get("value")
     if revenue_yoy is not None and ops_yoy is not None and revenue_yoy-ops_yoy>=5:
         items.append({"level":"yellow","title":"DGII: divergencia tributaria","text":f"La recaudación ITBIS crece {revenue_yoy:.1f}% frente a {ops_yoy:.1f}% en operaciones; la brecha puede reflejar fiscalización, composición o pagos extraordinarios."})
+    if len(items)==dgii_alert_count and ops_yoy is not None:
+        real_gap=ops_yoy-inf if inf is not None else None
+        detail=f", {real_gap:.1f} puntos por encima de la inflación" if real_gap is not None else ""
+        items.append({"level":"green","title":"DGII: actividad formal estable","text":f"Las operaciones declaradas crecen {ops_yoy:.1f}% interanual{detail}. No se activan alertas de desaceleración real ni divergencia tributaria."})
 
     # Hacienda/DIGEPRES: comparable monthly fiscal signals.
     income_yoy=s.get("fiscal_income_yoy",{}).get("value")
