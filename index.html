@@ -53,19 +53,19 @@ footer{color:var(--muted);font-size:11px;text-align:center;padding:18px 0 6px}
     <h1>CFO Macro Dashboard — RD</h1>
     <div class="sub">Resumen macroeconómico y financiero para toma de decisiones · República Dominicana</div>
   </div>
-  <div class="badge">Snapshot · 8 Sep 2026</div>
+  <div class="badge" id="snapshot">Actualizando…</div>
 </header>
 
 <div class="grid">
-  <div class="card"><div class="k">USD/DOP venta</div><div class="value">58.96</div><div class="meta">7 Sep 2026 · BCRD<br>Compra: 58.58</div><span class="chip good">FX estable / apreciación YTD</span></div>
-  <div class="card"><div class="k">Tasa activa</div><div class="value">14.08%</div><div class="meta">Prom. ponderado banca múltiple<br>Agosto 2026</div><span class="chip warn">+29 pb vs julio</span></div>
-  <div class="card"><div class="k">Tasa pasiva</div><div class="value">7.37%</div><div class="meta">Prom. ponderado banca múltiple<br>Agosto 2026</div><span class="chip info">≈ estable vs julio</span></div>
-  <div class="card"><div class="k">TPM</div><div class="value">5.25%</div><div class="meta">Tasa de política monetaria<br>Septiembre 2026</div><span class="chip info">Sin cambio</span></div>
+  <div class="card"><div class="k">USD/DOP venta</div><div class="value" id="fxSell">—</div><div class="meta" id="fxMeta">Cargando…</div><span class="chip info">Último dato validado</span></div>
+  <div class="card"><div class="k">Tasa activa</div><div class="value" id="activeRate">—</div><div class="meta" id="activeMeta">Cargando…</div><span class="chip warn">Costo bancario</span></div>
+  <div class="card"><div class="k">Tasa pasiva</div><div class="value" id="passiveRate">—</div><div class="meta" id="passiveMeta">Cargando…</div><span class="chip info">Captaciones</span></div>
+  <div class="card"><div class="k">TPM</div><div class="value" id="policyRate">—</div><div class="meta" id="policyMeta">Cargando…</div><span class="chip info">Política monetaria</span></div>
 
-  <div class="card"><div class="k">Inflación YoY</div><div class="value">5.13%</div><div class="meta">Agosto 2026 · IPC<br>Mensual: +0.38%</div><span class="chip warn">Sobre techo meta 5.0%</span></div>
-  <div class="card"><div class="k">Inflación subyacente</div><div class="value">4.76%</div><div class="meta">Agosto 2026<br>Meta BCRD: 4% ± 1%</div><span class="chip good">Dentro de rango</span></div>
-  <div class="card"><div class="k">IMAE YoY</div><div class="value">4.6%</div><div class="meta">Julio 2026<br>Ene–Jul: +4.5%</div><span class="chip good">Actividad sólida</span></div>
-  <div class="card"><div class="k">Crédito privado</div><div class="value">7.6%</div><div class="meta">Variación YoY total<br>Agosto 2026</div><span class="chip warn">Modera vs junio</span></div>
+  <div class="card"><div class="k">Inflación YoY</div><div class="value" id="inflation">—</div><div class="meta" id="inflationMeta">Cargando…</div><span class="chip warn" id="inflationChip">Meta 4% ± 1%</span></div>
+  <div class="card"><div class="k">Inflación subyacente</div><div class="value" id="coreInflation">—</div><div class="meta" id="coreMeta">Cargando…</div><span class="chip good">Meta BCRD: 4% ± 1%</span></div>
+  <div class="card"><div class="k">IMAE YoY</div><div class="value" id="imae">—</div><div class="meta" id="imaeMeta">Cargando…</div><span class="chip good">Actividad económica</span></div>
+  <div class="card"><div class="k">Crédito privado</div><div class="value" id="credit">—</div><div class="meta" id="creditMeta">Cargando…</div><span class="chip info">Variación YoY total</span></div>
 </div>
 
 <div class="section">
@@ -149,7 +149,25 @@ footer{color:var(--muted);font-size:11px;text-align:center;padding:18px 0 6px}
  </div>
 </div>
 
-<footer>CFO Macro Dashboard RD · Publicación web V1</footer>
+<footer>CFO Macro Dashboard RD · Publicación web V2 · BCRD automático</footer>
 </div>
+<script>
+const pct=v=>Number(v).toFixed(2)+"%";
+const per=p=>{if(!p)return "—"; if(/^\d{4}-\d{2}$/.test(p)){const [y,m]=p.split("-");return new Intl.DateTimeFormat("es-DO",{month:"long",year:"numeric",timeZone:"UTC"}).format(new Date(Date.UTC(+y,+m-1,1)));} return p;};
+const val=(s,k)=>s[k]?.value;
+fetch("data/current.json?ts="+Date.now()).then(r=>r.json()).then(d=>{
+ const s=d.series||{};
+ document.getElementById("snapshot").textContent="Actualizado · "+d.as_of;
+ if(val(s,"usd_dop_sell")!=null){fxSell.textContent=Number(val(s,"usd_dop_sell")).toFixed(2);fxMeta.innerHTML=per(s.usd_dop_sell.period)+" · BCRD<br>Compra: "+Number(val(s,"usd_dop_buy")).toFixed(2);}
+ activeRate.textContent=pct(val(s,"active_rate")); activeMeta.innerHTML="Prom. ponderado banca múltiple<br>"+per(s.active_rate?.period);
+ passiveRate.textContent=pct(val(s,"passive_rate")); passiveMeta.innerHTML="Prom. ponderado banca múltiple<br>"+per(s.passive_rate?.period);
+ policyRate.textContent=pct(val(s,"policy_rate")); policyMeta.innerHTML="Tasa de política monetaria<br>"+per(s.policy_rate?.period);
+ inflation.textContent=pct(val(s,"inflation_yoy")); inflationMeta.innerHTML=per(s.inflation_yoy?.period)+" · IPC"+(val(s,"inflation_monthly")!=null?"<br>Mensual: "+pct(val(s,"inflation_monthly")):"");
+ const inf=val(s,"inflation_yoy"); inflationChip.textContent=inf>5?"Sobre techo meta 5.0%":"Dentro de rango meta"; inflationChip.className="chip "+(inf>5?"warn":"good");
+ coreInflation.textContent=pct(val(s,"core_inflation_yoy")); coreMeta.innerHTML=per(s.core_inflation_yoy?.period)+"<br>Meta BCRD: 4% ± 1%";
+ imae.textContent=pct(val(s,"imae_yoy")); imaeMeta.innerHTML=per(s.imae_yoy?.period)+(val(s,"imae_ytd")!=null?"<br>Acumulado: "+pct(val(s,"imae_ytd")):"");
+ credit.textContent=pct(val(s,"private_credit_yoy")); creditMeta.innerHTML="Variación YoY total<br>"+per(s.private_credit_yoy?.period);
+}).catch(e=>{document.getElementById("snapshot").textContent="Último snapshot disponible"; console.error(e);});
+</script>
 </body>
 </html>
