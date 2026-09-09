@@ -1,8 +1,6 @@
-"""CFO Macro RD — BCRD updater v2.1
-
-Reads the public BCRD homepage and updates only values that pass
-label-based validation. If a field cannot be parsed, the last validated
-value is kept. FX parsing is anchored to the "Tipo de cambio" block.
+"""CFO Macro RD — BCRD updater v3.
+Updates validated BCRD homepage indicators and generates CFO Watch rules.
+Keeps the last validated value whenever a field cannot be parsed.
 """
 from pathlib import Path
 from datetime import datetime, timezone
@@ -12,114 +10,94 @@ from bs4 import BeautifulSoup
 ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / "data" / "current.json"
 BCRD = "https://www.bancentral.gov.do/"
-UA = {"User-Agent": "Mozilla/5.0 (compatible; CFOMacro-RD/2.1; +GitHub-Pages)"}
+UA = {"User-Agent": "Mozilla/5.0 (compatible; CFOMacro-RD/3.0; +GitHub-Pages)"}
+MONTHS = {"enero":"01","febrero":"02","marzo":"03","abril":"04","mayo":"05","junio":"06",
+          "julio":"07","agosto":"08","septiembre":"09","octubre":"10","noviembre":"11","diciembre":"12"}
 
-MONTHS = {
-    "enero":"01","febrero":"02","marzo":"03","abril":"04","mayo":"05","junio":"06",
-    "julio":"07","agosto":"08","septiembre":"09","octubre":"10","noviembre":"11","diciembre":"12"
-}
+def norm(s): return re.sub(r"\s+", " ", s.replace("\xa0"," ")).strip()
+def per(month, year): return f"{year}-{MONTHS[month.lower()]}"
+def num(s): return float(s.replace(",", ""))
 
-def norm(s):
-    return re.sub(r"\s+", " ", s.replace("\xa0", " ")).strip()
-
-def period(month, year):
-    return f"{year}-{MONTHS[month.lower()]}"
-
-def set_series(payload, key, value, per, source="BCRD"):
-    if value is None or per is None:
-        return False
-    payload["series"][key] = {"value": value, "period": per, "source": source}
+def setv(p,k,v,period,source="BCRD"):
+    if v is None or period is None: return False
+    p.setdefault("series",{})[k]={"value":v,"period":period,"source":source}
     return True
 
-def parse_fx(text):
-    # Anchor tightly to BCRD's macro block:
-    # "Tipo de cambio 8 de Septiembre 2026 Compra 58.6307 | Venta 58.8666"
-    pat = (
-        r"Tipo de cambio\s+(\d{1,2})\s+de\s+"
-        r"(enero|febrero|marzo|abril|mayo|junio|julio|agosto|septiembre|octubre|noviembre|diciembre)"
-        r"\s+(\d{4}).{0,120}?Compra\s+(\d{1,3}\.\d{4}).{0,80}?Venta\s+(\d{1,3}\.\d{4})"
-    )
-    m = re.search(pat, text, re.I | re.S)
-    if not m:
-        return None
-    day, month, year, buy, sell = m.groups()
-    per = f"{year}-{MONTHS[month.lower()]}-{int(day):02d}"
-    buy, sell = float(buy), float(sell)
-    # Sanity checks for DOP/USD and spread direction.
-    if not (30 < buy < 100 and 30 < sell < 100 and sell >= buy):
-        return None
-    return buy, sell, per
+def fx(text):
+    m=re.search(r"Tipo de cambio\s+(\d{1,2})\s+de\s+(enero|febrero|marzo|abril|mayo|junio|julio|agosto|septiembre|octubre|noviembre|diciembre)\s+(\d{4}).{0,140}?Compra\s+(\d{1,3}\.\d{4}).{0,100}?Venta\s+(\d{1,3}\.\d{4})",text,re.I|re.S)
+    if not m:return None
+    d,mo,y,b,s=m.groups(); b=float(b); s=float(s)
+    if not (30<b<100 and 30<s<100 and s>=b): return None
+    return b,s,f"{y}-{MONTHS[mo.lower()]}-{int(d):02d}"
 
-def find_pct(text, pattern):
-    m = re.search(pattern, text, re.I | re.S)
-    return float(m.group(1)) if m else None
+def watch(p):
+    s=p["series"]; items=[]
+    inf=s.get("inflation_yoy",{}).get("value")
+    if inf is not None:
+        if inf>5:
+            items.append({"level":"yellow","title":"Inflación: vigilancia","text":f"La inflación interanual se ubica en {inf:.2f}%, por encima del techo de 5.0% del rango meta del BCRD."})
+        else:
+            items.append({"level":"green","title":"Inflación: dentro de meta","text":f"La inflación interanual se ubica en {inf:.2f}%, dentro del rango meta de 3%-5%."})
+    a=s.get("active_rate",{}).get("value"); pol=s.get("policy_rate",{}).get("value")
+    if a is not None and pol is not None:
+        items.append({"level":"yellow" if a-pol>=8 else "green","title":"Financiamiento: spread bancario","text":f"La tasa activa promedio es {a:.2f}% frente a una TPM de {pol:.2f}%, un diferencial de {a-pol:.2f} puntos porcentuales."})
+    im=s.get("imae_yoy",{}).get("value")
+    if im is not None:
+        items.append({"level":"green" if im>=4 else "yellow","title":"Actividad económica","text":f"El IMAE registra crecimiento interanual de {im:.1f}% en el último dato publicado."})
+    r=s.get("gross_reserves",{}).get("value")
+    if r is not None:
+        items.append({"level":"green","title":"Sector externo: reservas","text":f"Las reservas internacionales brutas se sitúan en US${r:,.1f} millones."})
+    p["cfo_watch"]=items
 
 def main():
-    payload = json.loads(DATA.read_text(encoding="utf-8"))
-    r = requests.get(BCRD, headers=UA, timeout=30)
-    r.raise_for_status()
-    text = norm(BeautifulSoup(r.text, "html.parser").get_text(" ", strip=True))
+    p=json.loads(DATA.read_text(encoding="utf-8"))
+    r=requests.get(BCRD,headers=UA,timeout=30); r.raise_for_status()
+    text=norm(BeautifulSoup(r.text,"html.parser").get_text(" ",strip=True))
+    u=[]
+    z=fx(text)
+    if z:
+        b,s,period=z
+        for k,v in [("usd_dop_buy",b),("usd_dop_sell",s)]:
+            if setv(p,k,v,period):u.append(k)
 
-    updated = []
+    patterns=[
+      ("inflation_yoy",r"Inflación\s*\(variación %\)\s*(\w+)\s+(\d{4}).{0,180}?Interanual\s+(\d+(?:\.\d+)?)%"),
+      ("core_inflation_yoy",r"Inflación subyacente\s*(\w+)\s+(\d{4}).{0,180}?Interanual\s+(\d+(?:\.\d+)?)%"),
+      ("policy_rate",r"Tasa de política monetaria\s*(\w+)\s+(\d{4})\s+(\d+(?:\.\d+)?)%"),
+      ("imae_yoy",r"IMAE original.*?(\w+)\s+(\d{4})\s+(\d+(?:\.\d+)?)%")
+    ]
+    for k,pat in patterns:
+        m=re.search(pat,text,re.I|re.S)
+        if m and m.group(1).lower() in MONTHS and setv(p,k,float(m.group(3)),per(m.group(1),m.group(2))):u.append(k)
 
-    fx = parse_fx(text)
-    if fx:
-        buy, sell, per = fx
-        if set_series(payload, "usd_dop_buy", buy, per): updated.append("usd_dop_buy")
-        if set_series(payload, "usd_dop_sell", sell, per): updated.append("usd_dop_sell")
-
-    # Monthly/other macro indicators, anchored to labels on the BCRD homepage.
-    m = re.search(r"Inflación\s*\(variación %\)\s*(\w+)\s+(\d{4}).{0,160}?Interanual\s+(\d+(?:\.\d+)?)%", text, re.I|re.S)
+    m=re.search(r"Tasas de interés\s*\(promedio ponderado\)\s*(\w+)\s+(\d{4}).{0,300}?Interbancaria\s+(\d+(?:\.\d+)?)%.{0,140}?Activa\s*B\.?M\.?\s+(\d+(?:\.\d+)?)%.{0,140}?Pasiva\s*B\.?M\.?\s+(\d+(?:\.\d+)?)%",text,re.I|re.S)
     if m and m.group(1).lower() in MONTHS:
-        if set_series(payload, "inflation_yoy", float(m.group(3)), period(m.group(1), m.group(2))):
-            updated.append("inflation_yoy")
+        period=per(m.group(1),m.group(2))
+        for k,v in [("interbank_rate",m.group(3)),("active_rate",m.group(4)),("passive_rate",m.group(5))]:
+            if setv(p,k,float(v),period):u.append(k)
 
-    m = re.search(r"Inflación subyacente\s*(\w+)\s+(\d{4}).{0,160}?Interanual\s+(\d+(?:\.\d+)?)%", text, re.I|re.S)
+    m=re.search(r"Préstamos privados.*?(\w+)\s+(\d{4}).{0,200}?Mon\.?\s*nacional\s+(\d+(?:\.\d+)?)%.{0,120}?Total\s+(\d+(?:\.\d+)?)%",text,re.I|re.S)
+    if m and m.group(1).lower() in MONTHS and setv(p,"private_credit_yoy",float(m.group(4)),per(m.group(1),m.group(2))):u.append("private_credit_yoy")
+
+    m=re.search(r"Reservas internacionales\s*\(en US\$ MM\)\s*(\w+)\s+(\d{4}).{0,180}?Brutas\s+\$?([\d,]+(?:\.\d+)?).{0,100}?Netas\s+\$?([\d,]+(?:\.\d+)?)",text,re.I|re.S)
     if m and m.group(1).lower() in MONTHS:
-        if set_series(payload, "core_inflation_yoy", float(m.group(3)), period(m.group(1), m.group(2))):
-            updated.append("core_inflation_yoy")
+        period=per(m.group(1),m.group(2))
+        for k,v in [("gross_reserves",m.group(3)),("net_reserves",m.group(4))]:
+            if setv(p,k,num(v),period):u.append(k)
 
-    m = re.search(r"Tasa de política monetaria\s*(\w+)\s+(\d{4})\s+(\d+(?:\.\d+)?)%", text, re.I|re.S)
-    if m and m.group(1).lower() in MONTHS:
-        if set_series(payload, "policy_rate", float(m.group(3)), period(m.group(1), m.group(2))):
-            updated.append("policy_rate")
+    m=re.search(r"Producto Interno Bruto\s*\(variación % interanual\).*?Ene-Dic\s+(\d{4})\s+(\d+(?:\.\d+)?)%",text,re.I|re.S)
+    if m and setv(p,"gdp_growth",float(m.group(2)),m.group(1)):u.append("gdp_growth")
 
-    m = re.search(r"Tasas de interés\s*\(promedio ponderado\)\s*(\w+)\s+(\d{4}).{0,250}?Interbancaria\s+(\d+(?:\.\d+)?)%.{0,120}?Activa\s*B\.?M\.?\s+(\d+(?:\.\d+)?)%.{0,120}?Pasiva\s*B\.?M\.?\s+(\d+(?:\.\d+)?)%", text, re.I|re.S)
-    if m and m.group(1).lower() in MONTHS:
-        per = period(m.group(1), m.group(2))
-        for key, val in [("interbank_rate", m.group(3)), ("active_rate", m.group(4)), ("passive_rate", m.group(5))]:
-            if set_series(payload, key, float(val), per): updated.append(key)
+    m=re.search(r"Cuenta corriente\s*\(como % del PIB\).*?2025\s+(-?\d+(?:\.\d+)?)%",text,re.I|re.S)
+    if m and setv(p,"current_account_gdp",float(m.group(1)),"2025"):u.append("current_account_gdp")
 
-    m = re.search(r"Préstamos privados.*?(\w+)\s+(\d{4}).{0,180}?Mon\.?\s*nacional\s+(\d+(?:\.\d+)?)%.{0,100}?Total\s+(\d+(?:\.\d+)?)%", text, re.I|re.S)
-    if m and m.group(1).lower() in MONTHS:
-        if set_series(payload, "private_credit_yoy", float(m.group(4)), period(m.group(1), m.group(2))):
-            updated.append("private_credit_yoy")
+    watch(p)
+    p["as_of"]=datetime.now(timezone.utc).date().isoformat()
+    p["status"]="live-bcrd-v3"
+    p["automation_check_utc"]=datetime.now(timezone.utc).isoformat(timespec="seconds")
+    p["updated_fields"]=u
+    p.setdefault("source_health",{})["bcrd"]={"ok":True,"url":BCRD,"http_status":r.status_code,"updated_fields":u}
+    DATA.write_text(json.dumps(p,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
+    print("Updated:", ", ".join(u) if u else "none")
 
-    m = re.search(r"IMAE original.*?(\w+)\s+(\d{4})\s+(\d+(?:\.\d+)?)%", text, re.I|re.S)
-    if m and m.group(1).lower() in MONTHS:
-        if set_series(payload, "imae_yoy", float(m.group(3)), period(m.group(1), m.group(2))):
-            updated.append("imae_yoy")
-
-    # Audit metadata: distinguish a successful run from actual refreshed fields.
-    payload["as_of"] = datetime.now(timezone.utc).date().isoformat()
-    payload["status"] = "live-bcrd"
-    payload["automation_check_utc"] = datetime.now(timezone.utc).isoformat(timespec="seconds")
-    payload["updated_fields"] = updated
-    payload["source_health"] = payload.get("source_health", {})
-    payload["source_health"]["bcrd"] = {
-        "ok": True,
-        "url": BCRD,
-        "http_status": r.status_code,
-        "updated_fields": updated
-    }
-
-    DATA.write_text(json.dumps(payload, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-    print("BCRD update complete.")
-    print("Updated fields:", ", ".join(updated) if updated else "none")
-    if fx:
-        print(f"FX validated: buy={fx[0]:.4f}, sell={fx[1]:.4f}, period={fx[2]}")
-    else:
-        print("FX not parsed; previous validated FX retained.")
-
-if __name__ == "__main__":
-    main()
+if __name__=="__main__": main()
