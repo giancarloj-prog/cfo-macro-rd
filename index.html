@@ -48,7 +48,7 @@ function lineChart(title,desc,labels,series,format="pct"){
  const y=v=>T+(H-T-B)*(max-v)/(max-min);
  const colors=["#79aaff","#48d2a0","#f2bd4e","#d18cff"];
  let grid=[0,.25,.5,.75,1].map(q=>{let yy=T+(H-T-B)*q,val=max-(max-min)*q;return `<line class="gridline" x1="${L}" y1="${yy}" x2="${W-R}" y2="${yy}"/><text x="2" y="${yy+3}">${format==="usd"?Math.round(val).toLocaleString("en-US"):val.toFixed(1)+"%"}</text>`}).join("");
- let lines=series.map((s,j)=>{let pts=s.values.map((v,i)=>v==null?null:`${x(i)},${y(v)}`).filter(Boolean).join(" ");return `<polyline class="line" stroke="${colors[j]}" points="${pts}"/>`}).join("");
+ let lines=series.map((s,j)=>{let good=s.values.map((v,i)=>v==null?null:{v,i}).filter(Boolean);let pts=good.map(o=>`${x(o.i)},${y(o.v)}`).join(" ");let dots=good.map(o=>`<circle cx="${x(o.i)}" cy="${y(o.v)}" r="3.2" fill="${colors[j]}"/>`).join("");return `<polyline class="line" stroke="${colors[j]}" points="${pts}"/>${dots}`}).join("");
  let xl=labels.map((a,i)=>`<text text-anchor="middle" x="${x(i)}" y="${H-5}">${a}</text>`).join("");
  let leg=series.map((s,j)=>`<span><b style="color:${colors[j]}">●</b> ${s.name}</span>`).join("");
  return `<div class="chart"><h3>${title}</h3><div class="desc">${desc}</div><svg viewBox="0 0 ${W} ${H}" preserveAspectRatio="none">${grid}${lines}${xl}</svg><div class="legend">${leg}</div></div>`;
