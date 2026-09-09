@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   schedule:
   # Horarios en UTC: 13:00 = 9:00 AM RD / 17:00 = 1:00 PM RD
-  - cron: "0 13 * * 1-5"
+  - cron: "15 11 * * 1-5"
   - cron: "0 17 * * 1-5"
   push:
     branches: ["main"]
