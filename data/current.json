@@ -1,6 +1,6 @@
 {
   "as_of": "2026-09-09",
-  "status": "live-bcrd-v3",
+  "status": "live-bcrd-dgii-hacienda-v1",
   "series": {
     "usd_dop_sell": {
       "value": 58.8666,
@@ -126,9 +126,39 @@
       "value": 35.82325222011015,
       "period": "2026-07",
       "source": "DGII"
+    },
+    "fiscal_income": {
+      "value": 892399.25,
+      "period": "2026-09-04",
+      "source": "Hacienda"
+    },
+    "fiscal_expense": {
+      "value": 1077026.29,
+      "period": "2026-09-04",
+      "source": "Hacienda"
+    },
+    "financial_sources": {
+      "value": 362762.21,
+      "period": "2026-09-04",
+      "source": "Hacienda"
+    },
+    "financial_applications": {
+      "value": 64622.09,
+      "period": "2026-09-04",
+      "source": "Hacienda"
+    },
+    "budget_balance_simple": {
+      "value": -184627.04000000004,
+      "period": "2026-09-04",
+      "source": "Hacienda"
+    },
+    "net_financing": {
+      "value": 298140.12,
+      "period": "2026-09-04",
+      "source": "Hacienda"
     }
   },
-  "automation_check_utc": "2026-09-09T13:14:12+00:00",
+  "automation_check_utc": "2026-09-09T13:21:51+00:00",
   "source_health": {
     "bcrd": {
       "ok": true,
@@ -160,6 +190,19 @@
         "itbis_revenue"
       ],
       "errors": {}
+    },
+    "hacienda": {
+      "ok": true,
+      "url": "https://www.hacienda.gob.do/",
+      "http_status": 200,
+      "updated_fields": [
+        "fiscal_income",
+        "fiscal_expense",
+        "financial_sources",
+        "financial_applications",
+        "budget_balance_simple",
+        "net_financing"
+      ]
     }
   },
   "updated_fields": [

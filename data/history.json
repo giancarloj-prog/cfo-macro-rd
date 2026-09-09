@@ -143,5 +143,25 @@
     }
   },
   "note": "Base histórica V4 con BCRD y DGII. La automatización conserva estos puntos y agrega o actualiza nuevos períodos.",
-  "updated_utc": "2026-09-09T13:14:12+00:00"
+  "updated_utc": "2026-09-09T13:21:51+00:00",
+  "fiscal": {
+    "fiscal_income": {
+      "2026-09-04": 892399.25
+    },
+    "fiscal_expense": {
+      "2026-09-04": 1077026.29
+    },
+    "financial_sources": {
+      "2026-09-04": 362762.21
+    },
+    "financial_applications": {
+      "2026-09-04": 64622.09
+    },
+    "budget_balance_simple": {
+      "2026-09-04": -184627.04000000004
+    },
+    "net_financing": {
+      "2026-09-04": 298140.12
+    }
+  }
 }
