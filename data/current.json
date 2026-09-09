@@ -3,13 +3,13 @@
   "status": "live-bcrd",
   "series": {
     "usd_dop_sell": {
-      "value": 58.9622,
-      "period": "2026-09-07",
+      "value": 58.8666,
+      "period": "2026-09-08",
       "source": "BCRD"
     },
     "usd_dop_buy": {
-      "value": 58.58,
-      "period": "2026-09-07",
+      "value": 58.6307,
+      "period": "2026-09-08",
       "source": "BCRD"
     },
     "active_rate": {
@@ -73,23 +73,36 @@
       "source": "BCRD"
     }
   },
-  "automation_check_utc": "2026-09-09T01:52:29.188239+00:00",
+  "automation_check_utc": "2026-09-09T01:58:26+00:00",
   "source_health": {
     "bcrd": {
       "ok": true,
+      "url": "https://www.bancentral.gov.do/",
+      "http_status": 200,
       "updated_fields": [
-        "active_rate",
-        "core_inflation_yoy",
-        "imae_yoy",
-        "imae_ytd",
-        "inflation_monthly",
+        "usd_dop_buy",
+        "usd_dop_sell",
         "inflation_yoy",
-        "inflation_ytd",
-        "interbank_rate",
-        "passive_rate",
+        "core_inflation_yoy",
         "policy_rate",
-        "private_credit_yoy"
+        "interbank_rate",
+        "active_rate",
+        "passive_rate",
+        "private_credit_yoy",
+        "imae_yoy"
       ]
     }
-  }
+  },
+  "updated_fields": [
+    "usd_dop_buy",
+    "usd_dop_sell",
+    "inflation_yoy",
+    "core_inflation_yoy",
+    "policy_rate",
+    "interbank_rate",
+    "active_rate",
+    "passive_rate",
+    "private_credit_yoy",
+    "imae_yoy"
+  ]
 }
