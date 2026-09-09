@@ -97,6 +97,27 @@ def main():
     p["automation_check_utc"]=datetime.now(timezone.utc).isoformat(timespec="seconds")
     p["updated_fields"]=u
     p.setdefault("source_health",{})["bcrd"]={"ok":True,"url":BCRD,"http_status":r.status_code,"updated_fields":u}
+    # Maintain a compact monthly history used by the dashboard charts.
+    hist_path = ROOT / "data" / "history.json"
+    try:
+        hist = json.loads(hist_path.read_text(encoding="utf-8")) if hist_path.exists() else {}
+    except Exception:
+        hist = {}
+    hist.setdefault("monthly", {})
+    for key in ["active_rate","passive_rate","interbank_rate","policy_rate","inflation_yoy",
+                "core_inflation_yoy","imae_yoy","gross_reserves","net_reserves","private_credit_yoy"]:
+        x = p.get("series", {}).get(key)
+        if x and x.get("period") and x.get("value") is not None:
+            hist["monthly"].setdefault(key, {})
+            hist["monthly"][key][x["period"]] = x["value"]
+    hist.setdefault("daily", {})
+    for key in ["usd_dop_buy","usd_dop_sell"]:
+        x = p.get("series", {}).get(key)
+        if x and x.get("period") and x.get("value") is not None:
+            hist["daily"].setdefault(key, {})
+            hist["daily"][key][x["period"]] = x["value"]
+    hist["updated_utc"] = p["automation_check_utc"]
+    hist_path.write_text(json.dumps(hist, ensure_ascii=False, indent=2)+"\\n", encoding="utf-8")
     DATA.write_text(json.dumps(p,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
     print("Updated:", ", ".join(u) if u else "none")
 
