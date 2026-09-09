@@ -58,13 +58,14 @@
       "source": "BCRD"
     }
   },
-  "automation_check_utc": "2026-09-09T01:36:53.603835+00:00",
+  "automation_check_utc": "2026-09-09T01:47:00.601302+00:00",
   "source_health": {
     "bcrd": {
       "ok": true
     },
     "dgii_itbis": {
-      "ok": true
+      "ok": false,
+      "error": "403 Client Error: Forbidden for url: https://dgii.gov.do/estadisticas/Operaciones-Recaudaciones-ITBIS/Paginas/default.aspx"
     },
     "hacienda": {
       "ok": true
