@@ -1,6 +1,6 @@
 {
-  "as_of": "2026-09-08",
-  "status": "seed",
+  "as_of": "2026-09-09",
+  "status": "live-bcrd",
   "series": {
     "usd_dop_sell": {
       "value": 58.9622,
@@ -56,18 +56,40 @@
       "value": 15434.2,
       "period": "2026-08",
       "source": "BCRD"
+    },
+    "inflation_ytd": {
+      "value": 2.6,
+      "period": "2026-08",
+      "source": "BCRD"
+    },
+    "inflation_monthly": {
+      "value": 0.38,
+      "period": "2026-08",
+      "source": "BCRD"
+    },
+    "imae_ytd": {
+      "value": 4.5,
+      "period": "2026-07",
+      "source": "BCRD"
     }
   },
-  "automation_check_utc": "2026-09-09T01:48:36.026649+00:00",
+  "automation_check_utc": "2026-09-09T01:50:00.324935+00:00",
   "source_health": {
     "bcrd": {
-      "ok": true
-    },
-    "dgii_itbis": {
-      "ok": true
-    },
-    "hacienda": {
-      "ok": true
+      "ok": true,
+      "updated_fields": [
+        "active_rate",
+        "core_inflation_yoy",
+        "imae_yoy",
+        "imae_ytd",
+        "inflation_monthly",
+        "inflation_yoy",
+        "inflation_ytd",
+        "interbank_rate",
+        "passive_rate",
+        "policy_rate",
+        "private_credit_yoy"
+      ]
     }
   }
 }
