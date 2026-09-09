@@ -1,6 +1,6 @@
 {
   "as_of": "2026-09-09",
-  "status": "live-bcrd",
+  "status": "live-bcrd-v3",
   "series": {
     "usd_dop_sell": {
       "value": 58.8666,
@@ -71,9 +71,29 @@
       "value": 4.5,
       "period": "2026-07",
       "source": "BCRD"
+    },
+    "gross_reserves": {
+      "value": 15434.2,
+      "period": "2026-08",
+      "source": "BCRD"
+    },
+    "net_reserves": {
+      "value": 15429.5,
+      "period": "2026-08",
+      "source": "BCRD"
+    },
+    "gdp_growth": {
+      "value": 2.1,
+      "period": "2025",
+      "source": "BCRD"
+    },
+    "current_account_gdp": {
+      "value": -1.4,
+      "period": "2025",
+      "source": "BCRD"
     }
   },
-  "automation_check_utc": "2026-09-09T01:59:37+00:00",
+  "automation_check_utc": "2026-09-09T02:05:58+00:00",
   "source_health": {
     "bcrd": {
       "ok": true,
@@ -85,11 +105,15 @@
         "inflation_yoy",
         "core_inflation_yoy",
         "policy_rate",
+        "imae_yoy",
         "interbank_rate",
         "active_rate",
         "passive_rate",
         "private_credit_yoy",
-        "imae_yoy"
+        "gross_reserves",
+        "net_reserves",
+        "gdp_growth",
+        "current_account_gdp"
       ]
     }
   },
@@ -99,10 +123,36 @@
     "inflation_yoy",
     "core_inflation_yoy",
     "policy_rate",
+    "imae_yoy",
     "interbank_rate",
     "active_rate",
     "passive_rate",
     "private_credit_yoy",
-    "imae_yoy"
+    "gross_reserves",
+    "net_reserves",
+    "gdp_growth",
+    "current_account_gdp"
+  ],
+  "cfo_watch": [
+    {
+      "level": "yellow",
+      "title": "Inflación: vigilancia",
+      "text": "La inflación interanual se ubica en 5.13%, por encima del techo de 5.0% del rango meta del BCRD."
+    },
+    {
+      "level": "yellow",
+      "title": "Financiamiento: spread bancario",
+      "text": "La tasa activa promedio es 14.08% frente a una TPM de 5.25%, un diferencial de 8.83 puntos porcentuales."
+    },
+    {
+      "level": "green",
+      "title": "Actividad económica",
+      "text": "El IMAE registra crecimiento interanual de 4.6% en el último dato publicado."
+    },
+    {
+      "level": "green",
+      "title": "Sector externo: reservas",
+      "text": "Las reservas internacionales brutas se sitúan en US$15,434.2 millones."
+    }
   ]
 }
