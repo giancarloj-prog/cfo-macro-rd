@@ -158,32 +158,32 @@
       "source": "Hacienda"
     },
     "fiscal_income_yoy": {
-      "value": -9.913334628162751,
-      "period": "2026-07",
+      "value": 4.8310434368151745,
+      "period": "2026-08",
       "source": "DIGEPRES"
     },
     "fiscal_expense_yoy": {
-      "value": 12.789228027470845,
-      "period": "2026-07",
+      "value": 11.700187549574448,
+      "period": "2026-08",
       "source": "DIGEPRES"
     },
     "budget_balance_yoy_change": {
-      "value": -27952.430630890063,
-      "period": "2026-07",
+      "value": -9943.315049300018,
+      "period": "2026-08",
       "source": "DIGEPRES"
     },
     "fiscal_income_execution_pct": {
-      "value": 57.03663190925731,
-      "period": "2026-07",
+      "value": 62.68151379563427,
+      "period": "2026-08",
       "source": "DIGEPRES"
     },
     "fiscal_expected_execution_pct": {
-      "value": 58.333333333333336,
-      "period": "2026-07",
+      "value": 66.66666666666666,
+      "period": "2026-08",
       "source": "Cálculo"
     }
   },
-  "automation_check_utc": "2026-09-15T11:28:28+00:00",
+  "automation_check_utc": "2026-09-15T17:13:45+00:00",
   "source_health": {
     "bcrd": {
       "ok": true,
@@ -232,8 +232,8 @@
     "digepres_history": {
       "ok": true,
       "url": "https://digepres.gob.do/ejecucion-presupuestaria-2026/",
-      "parsed_files": 0,
-      "latest_period": "2026-07",
+      "parsed_files": 1,
+      "latest_period": "2026-08",
       "errors": {}
     }
   },
@@ -282,12 +282,12 @@
     {
       "level": "yellow",
       "title": "Hacienda: gasto supera ingresos",
-      "text": "El gasto mensual crece 12.8% interanual frente a -9.9% de los ingresos, una brecha de 22.7 puntos."
+      "text": "El gasto mensual crece 11.7% interanual frente a 4.8% de los ingresos, una brecha de 6.9 puntos."
     },
     {
       "level": "red",
       "title": "Hacienda: deterioro fiscal",
-      "text": "El balance mensual se deterioró en RD$27,952 MM frente al mismo mes del año anterior."
+      "text": "El balance mensual se deterioró en RD$9,943 MM frente al mismo mes del año anterior."
     }
   ]
 }
