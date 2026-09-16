@@ -113,12 +113,12 @@
       "source": "DGII"
     },
     "itbis_revenue": {
-      "value": 20559.574350600004,
+      "value": 20559.68192375,
       "period": "2026-08",
       "source": "DGII"
     },
     "itbis_revenue_yoy": {
-      "value": 10.463168574187854,
+      "value": 10.463746546805353,
       "period": "2026-08",
       "source": "DGII"
     },
@@ -183,7 +183,7 @@
       "source": "Cálculo"
     }
   },
-  "automation_check_utc": "2026-09-16T11:29:17+00:00",
+  "automation_check_utc": "2026-09-16T17:13:32+00:00",
   "source_health": {
     "bcrd": {
       "ok": true,
