@@ -1,15 +1,15 @@
 {
-  "as_of": "2026-09-17",
+  "as_of": "2026-09-18",
   "status": "live-bcrd-dgii-hacienda-v2",
   "series": {
     "usd_dop_sell": {
-      "value": 59.1386,
-      "period": "2026-09-16",
+      "value": 59.3318,
+      "period": "2026-09-17",
       "source": "BCRD"
     },
     "usd_dop_buy": {
-      "value": 58.8321,
-      "period": "2026-09-16",
+      "value": 58.9582,
+      "period": "2026-09-17",
       "source": "BCRD"
     },
     "active_rate": {
@@ -183,7 +183,7 @@
       "source": "Cálculo"
     }
   },
-  "automation_check_utc": "2026-09-17T17:13:05+00:00",
+  "automation_check_utc": "2026-09-18T11:27:18+00:00",
   "source_health": {
     "bcrd": {
       "ok": true,
