@@ -128,33 +128,33 @@
       "source": "DGII"
     },
     "fiscal_income": {
-      "value": 944857.19,
-      "period": "2026-09-18",
+      "value": 966279.87,
+      "period": "2026-09-25",
       "source": "Hacienda"
     },
     "fiscal_expense": {
-      "value": 1166978.54,
-      "period": "2026-09-18",
+      "value": 1176383.4,
+      "period": "2026-09-25",
       "source": "Hacienda"
     },
     "financial_sources": {
       "value": 410806.99,
-      "period": "2026-09-18",
+      "period": "2026-09-25",
       "source": "Hacienda"
     },
     "financial_applications": {
-      "value": 68257.69,
-      "period": "2026-09-18",
+      "value": 68498.03,
+      "period": "2026-09-25",
       "source": "Hacienda"
     },
     "budget_balance_simple": {
-      "value": -222121.3500000001,
-      "period": "2026-09-18",
+      "value": -210103.5299999999,
+      "period": "2026-09-25",
       "source": "Hacienda"
     },
     "net_financing": {
-      "value": 342549.3,
-      "period": "2026-09-18",
+      "value": 342308.95999999996,
+      "period": "2026-09-25",
       "source": "Hacienda"
     },
     "fiscal_income_yoy": {
@@ -183,7 +183,7 @@
       "source": "Cálculo"
     }
   },
-  "automation_check_utc": "2026-09-28T11:31:50+00:00",
+  "automation_check_utc": "2026-09-28T17:15:24+00:00",
   "source_health": {
     "bcrd": {
       "ok": true,
