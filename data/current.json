@@ -1,15 +1,15 @@
 {
-  "as_of": "2026-09-28",
+  "as_of": "2026-09-29",
   "status": "live-bcrd-dgii-hacienda-v2",
   "series": {
     "usd_dop_sell": {
-      "value": 59.645,
-      "period": "2026-09-25",
+      "value": 59.5577,
+      "period": "2026-09-28",
       "source": "BCRD"
     },
     "usd_dop_buy": {
-      "value": 59.277,
-      "period": "2026-09-25",
+      "value": 59.2669,
+      "period": "2026-09-28",
       "source": "BCRD"
     },
     "active_rate": {
@@ -43,8 +43,8 @@
       "source": "BCRD"
     },
     "imae_yoy": {
-      "value": 4.6,
-      "period": "2026-07",
+      "value": 3.8,
+      "period": "2026-08",
       "source": "BCRD"
     },
     "private_credit_yoy": {
@@ -183,7 +183,7 @@
       "source": "Cálculo"
     }
   },
-  "automation_check_utc": "2026-09-28T17:15:24+00:00",
+  "automation_check_utc": "2026-09-29T11:30:24+00:00",
   "source_health": {
     "bcrd": {
       "ok": true,
@@ -265,9 +265,9 @@
       "text": "La tasa activa promedio es 14.08% frente a una TPM de 5.25%, un diferencial de 8.83 puntos porcentuales."
     },
     {
-      "level": "green",
+      "level": "yellow",
       "title": "Actividad económica",
-      "text": "El IMAE registra crecimiento interanual de 4.6% en el último dato publicado."
+      "text": "El IMAE registra crecimiento interanual de 3.8% en el último dato publicado."
     },
     {
       "level": "green",
