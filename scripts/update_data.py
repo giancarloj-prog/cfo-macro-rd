@@ -378,6 +378,7 @@ def main():
     p=json.loads(DATA.read_text(encoding="utf-8"))
     r=requests.get(BCRD,headers=UA,timeout=30); r.raise_for_status()
     text=norm(BeautifulSoup(r.text,"html.parser").get_text(" ",strip=True))
+    print("TPM DEBUG:", [x for x in re.findall(r".{0,120}política monetaria.{0,200}", text, re.I)][:10])
     u=[]
     z=fx(text)
     if z:
