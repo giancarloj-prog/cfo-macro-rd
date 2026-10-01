@@ -378,7 +378,6 @@ def main():
     p=json.loads(DATA.read_text(encoding="utf-8"))
     r=requests.get(BCRD,headers=UA,timeout=30); r.raise_for_status()
     text=norm(BeautifulSoup(r.text,"html.parser").get_text(" ",strip=True))
-    print("TPM DEBUG:", [x for x in re.findall(r".{0,120}política monetaria.{0,200}", text, re.I)][:10])
     u=[]
     z=fx(text)
     if z:
@@ -396,14 +395,14 @@ def main():
         m=re.search(pat,text,re.I|re.S)
         if m and m.group(1).lower() in MONTHS and setv(p,k,float(m.group(3)),per(m.group(1),m.group(2))):u.append(k)
 
-        # TPM: prioritize latest BCRD monetary policy decision.
-    # Existing macroeconomic table remains the fallback.
+            # TPM: prioritize the latest monetary policy decision published by BCRD.
+    # The macroeconomic table remains the fallback.
     tpm_decision = re.search(
         r"(enero|febrero|marzo|abril|mayo|junio|julio|agosto|septiembre|octubre|noviembre|diciembre)"
-        r"\s+(\d{1,2}),?\s+(\d{4}).{0,180}?"
-        r"BCRD\s+(?:mantiene|reduce|incrementa).*?"
-        r"tasa de política monetaria.*?"
-        r"(?:a|en)\s+(\d+(?:\.\d+)?)\s*%",
+        r"\s+(\d{1,2}),?\s+(\d{4})\s+"
+        r"BCRD\s+(?:mantiene|reduce|incrementa)"
+        r".{0,250}?tasa de política monetaria"
+        r".{0,150}?(\d+(?:\.\d+)?)\s*%\s+anual",
         text,
         re.I | re.S
     )
