@@ -394,24 +394,26 @@ def main():
     for k,pat in patterns:
         m=re.search(pat,text,re.I|re.S)
         if m and m.group(1).lower() in MONTHS and setv(p,k,float(m.group(3)),per(m.group(1),m.group(2))):u.append(k)
-# TPM: prioritize the latest monetary policy decision published by BCRD.
-# The macroeconomic table above remains as fallback if this cannot be parsed.
-tpm_decision = re.search(
-    r"(enero|febrero|marzo|abril|mayo|junio|julio|agosto|septiembre|octubre|noviembre|diciembre)"
-    r"\s+(\d{1,2}),?\s+(\d{4}).{0,180}?"
-    r"BCRD\s+(?:mantiene|reduce|incrementa).*?"
-    r"tasa de política monetaria.*?"
-    r"(?:a|en)\s+(\d+(?:\.\d+)?)\s*%",
-    text,
-    re.I | re.S
-)
 
-if tpm_decision:
-    tpm_period = per(tpm_decision.group(1), tpm_decision.group(3))
-    tpm_value = float(tpm_decision.group(4))
-    if setv(p, "policy_rate", tpm_value, tpm_period):
-        if "policy_rate" not in u:
-            u.append("policy_rate")
+        # TPM: prioritize latest BCRD monetary policy decision.
+    # Existing macroeconomic table remains the fallback.
+    tpm_decision = re.search(
+        r"(enero|febrero|marzo|abril|mayo|junio|julio|agosto|septiembre|octubre|noviembre|diciembre)"
+        r"\s+(\d{1,2}),?\s+(\d{4}).{0,180}?"
+        r"BCRD\s+(?:mantiene|reduce|incrementa).*?"
+        r"tasa de política monetaria.*?"
+        r"(?:a|en)\s+(\d+(?:\.\d+)?)\s*%",
+        text,
+        re.I | re.S
+    )
+
+    if tpm_decision:
+        tpm_period = per(tpm_decision.group(1), tpm_decision.group(3))
+        tpm_value = float(tpm_decision.group(4))
+        if setv(p, "policy_rate", tpm_value, tpm_period):
+            if "policy_rate" not in u:
+                u.append("policy_rate")
+
     m=re.search(r"Tasas de interés\s*\(promedio ponderado\)\s*(\w+)\s+(\d{4}).{0,300}?Interbancaria\s+(\d+(?:\.\d+)?)%.{0,140}?Activa\s*B\.?M\.?\s+(\d+(?:\.\d+)?)%.{0,140}?Pasiva\s*B\.?M\.?\s+(\d+(?:\.\d+)?)%",text,re.I|re.S)
     if m and m.group(1).lower() in MONTHS:
         period=per(m.group(1),m.group(2))
