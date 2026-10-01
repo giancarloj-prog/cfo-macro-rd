@@ -23,7 +23,8 @@
       "2026-06": 5.25,
       "2026-07": 5.25,
       "2026-08": 5.25,
-      "2026-09": 5.25
+      "2026-09": 5.25,
+      "2026-10": 5.5
     },
     "inflation_yoy": {
       "2026-05": 5.35,
@@ -174,7 +175,7 @@
     }
   },
   "note": "Base histórica V4 con BCRD y DGII. La automatización conserva estos puntos y agrega o actualiza nuevos períodos.",
-  "updated_utc": "2026-10-01T13:49:20+00:00",
+  "updated_utc": "2026-10-01T14:01:47+00:00",
   "fiscal": {
     "fiscal_income": {
       "2026-09-04": 892399.25,
