@@ -93,23 +93,23 @@
       "source": "BCRD"
     },
     "itbis_total_operations": {
-      "value": 865548.2187723191,
-      "period": "2026-07",
+      "value": 850869.3074225234,
+      "period": "2026-08",
       "source": "DGII"
     },
     "itbis_total_operations_yoy": {
-      "value": 8.739819768903212,
-      "period": "2026-07",
+      "value": 8.250074230444216,
+      "period": "2026-08",
       "source": "DGII"
     },
     "itbis_taxed_operations": {
-      "value": 310067.5214974787,
-      "period": "2026-07",
+      "value": 305944.8775339406,
+      "period": "2026-08",
       "source": "DGII"
     },
     "itbis_taxed_operations_yoy": {
-      "value": 3.8970501770626997,
-      "period": "2026-07",
+      "value": 3.9000488078989815,
+      "period": "2026-08",
       "source": "DGII"
     },
     "itbis_revenue": {
@@ -123,8 +123,8 @@
       "source": "DGII"
     },
     "itbis_taxed_share": {
-      "value": 35.82325222011015,
-      "period": "2026-07",
+      "value": 35.956741518943396,
+      "period": "2026-08",
       "source": "DGII"
     },
     "fiscal_income": {
@@ -183,7 +183,7 @@
       "source": "Cálculo"
     }
   },
-  "automation_check_utc": "2026-10-05T11:33:55+00:00",
+  "automation_check_utc": "2026-10-05T17:14:46+00:00",
   "source_health": {
     "bcrd": {
       "ok": true,
@@ -275,9 +275,9 @@
       "text": "Las reservas internacionales brutas se sitúan en US$15,239.9 millones."
     },
     {
-      "level": "green",
-      "title": "DGII: actividad formal estable",
-      "text": "Las operaciones declaradas crecen 8.7% interanual, 3.6 puntos por encima de la inflación. No se activan alertas de desaceleración real ni divergencia tributaria."
+      "level": "yellow",
+      "title": "DGII: desaceleración sostenida",
+      "text": "El crecimiento interanual de las operaciones se ha moderado durante tres meses consecutivos (18.6% → 8.7% → 8.3%)."
     },
     {
       "level": "yellow",
