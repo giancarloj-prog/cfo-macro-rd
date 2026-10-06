@@ -113,13 +113,13 @@
       "source": "DGII"
     },
     "itbis_revenue": {
-      "value": 20559.68192375,
-      "period": "2026-08",
+      "value": 20309.339006259997,
+      "period": "2026-09",
       "source": "DGII"
     },
     "itbis_revenue_yoy": {
-      "value": 10.463746546805353,
-      "period": "2026-08",
+      "value": 16.395219338053458,
+      "period": "2026-09",
       "source": "DGII"
     },
     "itbis_taxed_share": {
@@ -183,7 +183,7 @@
       "source": "Cálculo"
     }
   },
-  "automation_check_utc": "2026-10-06T11:31:36+00:00",
+  "automation_check_utc": "2026-10-06T17:14:36+00:00",
   "source_health": {
     "bcrd": {
       "ok": true,
@@ -278,6 +278,11 @@
       "level": "yellow",
       "title": "DGII: desaceleración sostenida",
       "text": "El crecimiento interanual de las operaciones se ha moderado durante tres meses consecutivos (18.6% → 8.7% → 8.3%)."
+    },
+    {
+      "level": "yellow",
+      "title": "DGII: divergencia tributaria",
+      "text": "La recaudación ITBIS crece 16.4% frente a 8.3% en operaciones; la brecha puede reflejar fiscalización, composición o pagos extraordinarios."
     },
     {
       "level": "yellow",
