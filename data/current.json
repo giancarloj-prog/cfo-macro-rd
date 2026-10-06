@@ -1,15 +1,15 @@
 {
-  "as_of": "2026-10-05",
+  "as_of": "2026-10-06",
   "status": "live-bcrd-dgii-hacienda-v2",
   "series": {
     "usd_dop_sell": {
-      "value": 60.6902,
-      "period": "2026-10-02",
+      "value": 61.0999,
+      "period": "2026-10-05",
       "source": "BCRD"
     },
     "usd_dop_buy": {
-      "value": 60.1698,
-      "period": "2026-10-02",
+      "value": 60.3569,
+      "period": "2026-10-05",
       "source": "BCRD"
     },
     "active_rate": {
@@ -128,33 +128,33 @@
       "source": "DGII"
     },
     "fiscal_income": {
-      "value": 966279.87,
-      "period": "2026-09-25",
+      "value": 993227.02,
+      "period": "2026-10-02",
       "source": "Hacienda"
     },
     "fiscal_expense": {
       "value": 1176383.4,
-      "period": "2026-09-25",
+      "period": "2026-10-02",
       "source": "Hacienda"
     },
     "financial_sources": {
-      "value": 410806.99,
-      "period": "2026-09-25",
+      "value": 422185.41,
+      "period": "2026-10-02",
       "source": "Hacienda"
     },
     "financial_applications": {
       "value": 68498.03,
-      "period": "2026-09-25",
+      "period": "2026-10-02",
       "source": "Hacienda"
     },
     "budget_balance_simple": {
-      "value": -210103.5299999999,
-      "period": "2026-09-25",
+      "value": -183156.3799999999,
+      "period": "2026-10-02",
       "source": "Hacienda"
     },
     "net_financing": {
-      "value": 342308.95999999996,
-      "period": "2026-09-25",
+      "value": 353687.38,
+      "period": "2026-10-02",
       "source": "Hacienda"
     },
     "fiscal_income_yoy": {
@@ -183,7 +183,7 @@
       "source": "Cálculo"
     }
   },
-  "automation_check_utc": "2026-10-05T17:14:46+00:00",
+  "automation_check_utc": "2026-10-06T11:31:36+00:00",
   "source_health": {
     "bcrd": {
       "ok": true,
