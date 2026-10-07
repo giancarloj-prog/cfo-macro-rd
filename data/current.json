@@ -48,8 +48,8 @@
       "source": "BCRD"
     },
     "private_credit_yoy": {
-      "value": 7.6,
-      "period": "2026-08",
+      "value": 8.1,
+      "period": "2026-09",
       "source": "BCRD"
     },
     "gross_reserves_usd_mm": {
@@ -183,7 +183,7 @@
       "source": "Cálculo"
     }
   },
-  "automation_check_utc": "2026-10-07T11:32:33+00:00",
+  "automation_check_utc": "2026-10-07T17:21:34+00:00",
   "source_health": {
     "bcrd": {
       "ok": true,
