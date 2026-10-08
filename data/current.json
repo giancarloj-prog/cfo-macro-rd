@@ -1,15 +1,15 @@
 {
-  "as_of": "2026-10-07",
+  "as_of": "2026-10-08",
   "status": "live-bcrd-dgii-hacienda-v2",
   "series": {
     "usd_dop_sell": {
-      "value": 61.4111,
-      "period": "2026-10-06",
+      "value": 61.6077,
+      "period": "2026-10-07",
       "source": "BCRD"
     },
     "usd_dop_buy": {
-      "value": 60.8522,
-      "period": "2026-10-06",
+      "value": 61.0606,
+      "period": "2026-10-07",
       "source": "BCRD"
     },
     "active_rate": {
@@ -183,7 +183,7 @@
       "source": "Cálculo"
     }
   },
-  "automation_check_utc": "2026-10-07T17:21:34+00:00",
+  "automation_check_utc": "2026-10-08T11:33:31+00:00",
   "source_health": {
     "bcrd": {
       "ok": true,
@@ -196,9 +196,6 @@
         "core_inflation_yoy",
         "policy_rate",
         "imae_yoy",
-        "interbank_rate",
-        "active_rate",
-        "passive_rate",
         "private_credit_yoy",
         "gross_reserves",
         "net_reserves",
@@ -244,9 +241,6 @@
     "core_inflation_yoy",
     "policy_rate",
     "imae_yoy",
-    "interbank_rate",
-    "active_rate",
-    "passive_rate",
     "private_credit_yoy",
     "gross_reserves",
     "net_reserves",
