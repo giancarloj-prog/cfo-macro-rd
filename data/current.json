@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-12",
+  "as_of": "2026-10-13",
   "status": "live-bcrd-dgii-hacienda-v2",
   "series": {
     "usd_dop_sell": {
@@ -33,13 +33,13 @@
       "source": "BCRD"
     },
     "inflation_yoy": {
-      "value": 5.13,
-      "period": "2026-08",
+      "value": 5.12,
+      "period": "2026-09",
       "source": "BCRD"
     },
     "core_inflation_yoy": {
-      "value": 4.76,
-      "period": "2026-08",
+      "value": 4.61,
+      "period": "2026-09",
       "source": "BCRD"
     },
     "imae_yoy": {
@@ -183,7 +183,7 @@
       "source": "Cálculo"
     }
   },
-  "automation_check_utc": "2026-10-12T23:33:09+00:00",
+  "automation_check_utc": "2026-10-13T18:20:24+00:00",
   "source_health": {
     "bcrd": {
       "ok": true,
@@ -251,7 +251,7 @@
     {
       "level": "yellow",
       "title": "Inflación: vigilancia",
-      "text": "La inflación interanual se ubica en 5.13%, por encima del techo de 5.0% del rango meta del BCRD."
+      "text": "La inflación interanual se ubica en 5.12%, por encima del techo de 5.0% del rango meta del BCRD."
     },
     {
       "level": "yellow",
