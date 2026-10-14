@@ -158,32 +158,32 @@
       "source": "Hacienda"
     },
     "fiscal_income_yoy": {
-      "value": 4.8310434368151745,
-      "period": "2026-08",
+      "value": 12.789132681695348,
+      "period": "2026-09",
       "source": "DIGEPRES"
     },
     "fiscal_expense_yoy": {
-      "value": 11.700187549574448,
-      "period": "2026-08",
+      "value": 23.359222792703548,
+      "period": "2026-09",
       "source": "DIGEPRES"
     },
     "budget_balance_yoy_change": {
-      "value": -9943.315049300018,
-      "period": "2026-08",
+      "value": -13386.167073180113,
+      "period": "2026-09",
       "source": "DIGEPRES"
     },
     "fiscal_income_execution_pct": {
-      "value": 62.68151379563427,
-      "period": "2026-08",
+      "value": 70.43673037796685,
+      "period": "2026-09",
       "source": "DIGEPRES"
     },
     "fiscal_expected_execution_pct": {
-      "value": 66.66666666666666,
-      "period": "2026-08",
+      "value": 75.0,
+      "period": "2026-09",
       "source": "Cálculo"
     }
   },
-  "automation_check_utc": "2026-10-14T15:50:04+00:00",
+  "automation_check_utc": "2026-10-14T20:31:45+00:00",
   "source_health": {
     "bcrd": {
       "ok": true,
@@ -229,8 +229,8 @@
     "digepres_history": {
       "ok": true,
       "url": "https://digepres.gob.do/ejecucion-presupuestaria-2026/",
-      "parsed_files": 0,
-      "latest_period": "2026-08",
+      "parsed_files": 1,
+      "latest_period": "2026-09",
       "errors": {}
     }
   },
@@ -281,12 +281,12 @@
     {
       "level": "yellow",
       "title": "Hacienda: gasto supera ingresos",
-      "text": "El gasto mensual crece 11.7% interanual frente a 4.8% de los ingresos, una brecha de 6.9 puntos."
+      "text": "El gasto mensual crece 23.4% interanual frente a 12.8% de los ingresos, una brecha de 10.6 puntos."
     },
     {
       "level": "red",
       "title": "Hacienda: deterioro fiscal",
-      "text": "El balance mensual se deterioró en RD$9,943 MM frente al mismo mes del año anterior."
+      "text": "El balance mensual se deterioró en RD$13,386 MM frente al mismo mes del año anterior."
     }
   ]
 }
