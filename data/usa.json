@@ -1,0 +1,76 @@
+{
+  "series": {
+    "fed_rate": {
+      "value": 4.0,
+      "lower": 3.75,
+      "upper": 4.0,
+      "period": "2026-09-17",
+      "source": "Federal Reserve",
+      "url": "https://www.federalreserve.gov/monetarypolicy/openmarket.htm",
+      "unit": "percent_range",
+      "verified_at": "2026-10-15T22:23:05+00:00"
+    },
+    "treasury_10y": {
+      "value": 5.19,
+      "period": "2026-10-14",
+      "source": "Federal Reserve · FRED (DGS10)",
+      "url": "https://fred.stlouisfed.org/series/DGS10",
+      "unit": "percent",
+      "verified_at": "2026-10-15T22:23:05+00:00"
+    },
+    "ism_manufacturing": {
+      "value": 54.5,
+      "period": "2026-09",
+      "source": "ISM",
+      "url": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/pmi/september/",
+      "unit": "index",
+      "verified_at": "2026-10-15T22:22:38+00:00",
+      "verification_method": "Revisión de la publicación pública de la fuente"
+    },
+    "ism_services": {
+      "value": 54.9,
+      "period": "2026-09",
+      "source": "ISM",
+      "url": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/services/september/",
+      "unit": "index",
+      "verified_at": "2026-10-15T22:22:38+00:00",
+      "verification_method": "Revisión de la publicación pública de la fuente"
+    },
+    "world_container_index": {
+      "value": 4485.0,
+      "period": "2026-10-15",
+      "source": "Drewry",
+      "url": "https://www.drewry.co.uk/supply-chain-advisors/supply-chain-expertise/world-container-index-assessed-by-drewry",
+      "unit": "usd_40ft",
+      "verified_at": "2026-10-15T22:23:05+00:00"
+    }
+  },
+  "checked_at": "2026-10-15T22:23:05+00:00",
+  "source_health": {
+    "fed_rate": {
+      "ok": true,
+      "checked_at": "2026-10-15T22:23:05+00:00",
+      "error": null
+    },
+    "treasury_10y": {
+      "ok": true,
+      "checked_at": "2026-10-15T22:23:05+00:00",
+      "error": null
+    },
+    "ism_manufacturing": {
+      "ok": false,
+      "checked_at": "2026-10-15T22:23:05+00:00",
+      "error": "La fuente exige acceso interactivo; se conserva el último dato verificado"
+    },
+    "ism_services": {
+      "ok": false,
+      "checked_at": "2026-10-15T22:23:05+00:00",
+      "error": "La fuente exige acceso interactivo; se conserva el último dato verificado"
+    },
+    "world_container_index": {
+      "ok": true,
+      "checked_at": "2026-10-15T22:23:05+00:00",
+      "error": null
+    }
+  }
+}

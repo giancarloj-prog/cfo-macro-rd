@@ -28,9 +28,11 @@ h1{font-size:clamp(30px,4vw,52px);letter-spacing:-.045em;margin:0}.sub{color:var
 @media(max-width:1000px){.grid5{grid-template-columns:repeat(3,1fr)}.watchgrid{grid-template-columns:repeat(2,1fr)}}
 @media(max-width:1000px){.dgii,.fiscal{grid-template-columns:repeat(2,1fr)}}
 @media(max-width:650px){.charts{grid-template-columns:1fr}.wrap{padding:16px}header{display:block}.badge{display:inline-block;margin-top:12px}.grid5{grid-template-columns:repeat(2,1fr)}.ext{grid-template-columns:1fr}.watchgrid,.dgii,.fiscal{grid-template-columns:1fr}.card{min-height:126px;padding:14px}.v{font-size:28px}.sub{font-size:13px}}
+nav{display:flex;gap:8px;flex-wrap:wrap;margin:16px 0 22px}button.tab{font:inherit;cursor:pointer;border:1px solid var(--line);border-radius:999px;background:var(--panel);color:var(--muted);padding:10px 18px}button.tab[aria-selected="true"]{background:#1d4071;color:#fff;border-color:var(--blue)}[hidden]{display:none!important}a{color:var(--blue)}.source-note{font-size:12px;color:var(--muted);line-height:1.6;margin-top:12px}.usa-card .v{font-size:28px}.usa-card .meta{min-height:58px}.source-warning{color:var(--yellow)}
 </style></head><body><main class="wrap">
 <header><div><h1>CFO Macro Dashboard — RD</h1><div class="sub">Resumen macroeconómico y financiero para toma de decisiones · República Dominicana</div></div><div class="badge" id="stamp">Actualizando…</div></header>
-<div id="health" class="foot" role="status"></div><div class="sec">CFO Snapshot</div><div class="grid5" id="snapshot"></div>
+<nav aria-label="Secciones del dashboard"><button class="tab" id="tab-rd" role="tab" aria-controls="panel-rd" aria-selected="true">República Dominicana</button><button class="tab" id="tab-usa" role="tab" aria-controls="panel-usa" aria-selected="false">USA & logística global</button></nav>
+<section id="panel-rd" role="tabpanel" aria-labelledby="tab-rd"><div id="health" class="foot" role="status"></div><div class="sec">CFO Snapshot</div><div class="grid5" id="snapshot"></div>
 <div class="sec">Financiamiento & Macro</div><div class="grid5" id="macro"></div>
 <div class="sec">CFO Watch</div><div class="watchgrid" id="watch"></div>
 <div class="sec">Sector externo</div><div class="ext" id="external"></div>
@@ -41,7 +43,11 @@ h1{font-size:clamp(30px,4vw,52px);letter-spacing:-.045em;margin:0}.sub{color:var
 <div class="sec">Sector fiscal — Hacienda</div><div class="fiscal" id="fiscal"></div>
 <div class="charts" id="fiscalCharts" style="margin-top:12px"></div>
 <div class="foot">Fuente: Ministerio de Hacienda y Economía. Valores acumulados en RD$ millones. El balance simple y el financiamiento neto son cálculos del dashboard a partir de los indicadores publicados.</div>
+</section><section id="panel-usa" role="tabpanel" aria-labelledby="tab-usa" hidden><div class="sec">USA & logística global</div><p class="source-note">Cada indicador muestra el período del dato y la última verificación. Fed: rango objetivo vigente. Treasury: última observación diaria publicada. PMI: mensual. WCI: semanal, referencia global de fletes.</p><div class="grid5" id="usaCards"></div><div class="source-note" id="usaHealth" role="status"></div><div class="sec">Cómo leerlos</div><div class="ext"><div class="card"><h3>Financiamiento en USD</h3><div class="meta">La Fed señala la política monetaria de corto plazo. El Treasury a 10 años sirve de referencia para rendimientos y financiamiento de mayor plazo.</div></div><div class="card"><h3>Actividad de USA</h3><div class="meta">PMI superior a 50 indica expansión del sector; inferior a 50, contracción. Es un índice de difusión: 54.5 no significa crecimiento de 54.5%.</div></div><div class="card"><h3>Costos logísticos globales</h3><div class="meta">WCI: USD por contenedor de 40 pies en rutas principales. Orienta sobre el mercado global; la tarifa de cada importación depende de su ruta y condiciones.</div></div></div></section>
 </main><script>
+for(const name of ['rd','usa'])document.getElementById('tab-'+name).addEventListener('click',()=>{for(const id of ['rd','usa']){document.getElementById('panel-'+id).hidden=id!==name;document.getElementById('tab-'+id).setAttribute('aria-selected',String(id===name));}});
+const esc=v=>String(v??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const safeURL=u=>{try{const x=new URL(u);return x.protocol==='https:'?x.href:'#'}catch{return '#'}};
 const M=["ene","feb","mar","abr","may","jun","jul","ago","sep","oct","nov","dic"];
 const per=p=>{if(!p)return"—";let a=p.split("-");if(a.length===3)return`${+a[2]} ${M[+a[1]-1]} ${a[0]}`;if(a.length===2)return`${M[+a[1]-1]} ${a[0]}`;return p};
 const g=(d,k)=>d.series?.[k]||{};
@@ -155,4 +161,9 @@ Promise.all([fetch("data/current.json?ts="+Date.now()).then(r=>r.json()),fetch("
   {name:"Financiamiento neto",values:fiscalPeriods.map(k=>fi.net_financing?.[k])}
  ],"usd");
 }).catch(e=>{document.getElementById("stamp").textContent="Error cargando datos";console.error(e)});
+fetch('data/usa.json?ts='+Date.now()).then(r=>{if(!r.ok)throw Error(r.status);return r.json()}).then(d=>{
+ const names={fed_rate:'Fed Funds · rango objetivo',treasury_10y:'Treasury · 10 años',ism_manufacturing:'ISM PMI · Manufacturing',ism_services:'ISM PMI · Services',world_container_index:'World Container Index'};
+ document.getElementById('usaCards').innerHTML=Object.entries(names).map(([k,label])=>{const x=d.series?.[k]||{},health=d.source_health?.[k];let val='—';if(x.value!=null)val=x.unit==='percent_range'?`${Number(x.lower).toFixed(2)}–${Number(x.upper).toFixed(2)}%`:x.unit==='percent'?`${Number(x.value).toFixed(2)}%`:x.unit==='usd_40ft'?`US$${Number(x.value).toLocaleString('en-US',{maximumFractionDigits:0})}`:Number(x.value).toFixed(1);return `<div class="card usa-card"><div class="k">${label}</div><div class="v">${val}</div><div class="meta">${per(x.period)}${x.unit==='usd_40ft'?'<br>por contenedor de 40 pies':''}${x.unit==='index'?'<br>'+ (x.value>50?'Expansión del sector':x.value<50?'Contracción del sector':'Sin cambio del sector'):''}</div><a class="pill" href="${esc(safeURL(x.url))}" target="_blank" rel="noopener noreferrer">${esc(x.source||'Fuente')}</a><div class="source-note">Verificado: ${x.verified_at?new Date(x.verified_at).toLocaleString('es-DO',{timeZone:'America/Santo_Domingo'}):'Pendiente'}${health?.ok===false?'<br><span class="source-warning">Consulta automática incompleta; se conserva el último dato verificado.</span>':''}</div></div>`}).join('');
+ document.getElementById('usaHealth').textContent='Último intento de actualización: '+new Date(d.checked_at).toLocaleString('es-DO',{timeZone:'America/Santo_Domingo'});
+}).catch(()=>document.getElementById('usaHealth').textContent='No se pudieron cargar los indicadores USA.');
 </script></body></html>
