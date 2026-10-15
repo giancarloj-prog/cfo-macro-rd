@@ -8,7 +8,7 @@
       "source": "Federal Reserve",
       "url": "https://www.federalreserve.gov/monetarypolicy/openmarket.htm",
       "unit": "percent_range",
-      "verified_at": "2026-10-15T22:24:25+00:00"
+      "verified_at": "2026-10-15T22:26:07+00:00"
     },
     "treasury_10y": {
       "value": 5.19,
@@ -16,25 +16,25 @@
       "source": "Federal Reserve · FRED (DGS10)",
       "url": "https://fred.stlouisfed.org/series/DGS10",
       "unit": "percent",
-      "verified_at": "2026-10-15T22:23:05+00:00"
+      "verified_at": "2026-10-15T22:26:07+00:00"
     },
     "ism_manufacturing": {
       "value": 54.5,
       "period": "2026-09",
-      "source": "ISM",
-      "url": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/pmi/september/",
+      "source": "ISM · comunicado oficial",
+      "url": "https://www.prnewswire.com/news-releases/manufacturing-pmi-at-54-5-september-2026-ism-manufacturing-pmi-report-302894520.html",
+      "report_url": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/pmi/september/",
       "unit": "index",
-      "verified_at": "2026-10-15T22:22:38+00:00",
-      "verification_method": "Revisión de la publicación pública de la fuente"
+      "verified_at": "2026-10-15T22:26:07+00:00"
     },
     "ism_services": {
       "value": 54.9,
       "period": "2026-09",
-      "source": "ISM",
-      "url": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/services/september/",
+      "source": "ISM · comunicado oficial",
+      "url": "https://www.prnewswire.com/news-releases/services-pmi-at-54-9-september-2026-ism-services-pmi-report-302898421.html",
+      "report_url": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/services/september/",
       "unit": "index",
-      "verified_at": "2026-10-15T22:22:38+00:00",
-      "verification_method": "Revisión de la publicación pública de la fuente"
+      "verified_at": "2026-10-15T22:26:07+00:00"
     },
     "world_container_index": {
       "value": 4485.0,
@@ -42,34 +42,34 @@
       "source": "Drewry",
       "url": "https://www.drewry.co.uk/supply-chain-advisors/supply-chain-expertise/world-container-index-assessed-by-drewry",
       "unit": "usd_40ft",
-      "verified_at": "2026-10-15T22:24:25+00:00"
+      "verified_at": "2026-10-15T22:26:07+00:00"
     }
   },
-  "checked_at": "2026-10-15T22:24:25+00:00",
+  "checked_at": "2026-10-15T22:26:07+00:00",
   "source_health": {
     "fed_rate": {
       "ok": true,
-      "checked_at": "2026-10-15T22:24:25+00:00",
+      "checked_at": "2026-10-15T22:26:07+00:00",
       "error": null
     },
     "treasury_10y": {
-      "ok": false,
-      "checked_at": "2026-10-15T22:24:25+00:00",
-      "error": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=35)"
+      "ok": true,
+      "checked_at": "2026-10-15T22:26:07+00:00",
+      "error": null
     },
     "ism_manufacturing": {
-      "ok": false,
-      "checked_at": "2026-10-15T22:24:25+00:00",
-      "error": "La fuente exige acceso interactivo; se conserva el último dato verificado"
+      "ok": true,
+      "checked_at": "2026-10-15T22:26:07+00:00",
+      "error": null
     },
     "ism_services": {
-      "ok": false,
-      "checked_at": "2026-10-15T22:24:25+00:00",
-      "error": "La fuente exige acceso interactivo; se conserva el último dato verificado"
+      "ok": true,
+      "checked_at": "2026-10-15T22:26:07+00:00",
+      "error": null
     },
     "world_container_index": {
       "ok": true,
-      "checked_at": "2026-10-15T22:24:25+00:00",
+      "checked_at": "2026-10-15T22:26:07+00:00",
       "error": null
     }
   }

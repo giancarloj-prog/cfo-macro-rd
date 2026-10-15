@@ -16,7 +16,10 @@ MONTHS = {m.lower():i for i,m in enumerate(('January February March April May Ju
 UA = {'User-Agent':'Mozilla/5.0 (compatible; CFO-Macro-Dashboard/1.0)'}
 
 def page(url):
-    r = requests.get(url, headers=UA, timeout=35)
+    try:
+        r = requests.get(url, headers=UA, timeout=35)
+    except (requests.Timeout, requests.ConnectionError):
+        r = requests.get(url, headers=UA, timeout=35)
     r.raise_for_status()
     if 'login.aspx' in r.url.lower() or 'captcha_form' in r.text:
         raise ValueError('La fuente exige acceso interactivo; se conserva el último dato verificado')
@@ -76,6 +79,28 @@ def pmi(kind, previous):
             if not 0 <= v <= 100: raise ValueError('PMI fuera de rango')
             return {'value':v,'period':p,'source':'ISM','url':url,'unit':'index'}
         except Exception as exc: errors.append(str(exc))
+    # ISM also publishes its own releases on PR Newswire. Discover only from
+    # the issuer's page, then verify the issuer and the report heading.
+    wire='https://www.prnewswire.com/news/institute-for-supply-management/'
+    try:
+        listing=page(wire)
+        links=[]
+        for a in listing.find_all('a',href=True):
+            href=a['href']
+            if '/news-releases/'+label.lower()+'-pmi-at-' in href:
+                url=urljoin(wire,href)
+                if url not in links: links.append(url)
+        for url in links[:2]:
+            soup=page(url)
+            if not re.search(r'News provided by\s+Institute for Supply Management',text(soup),re.I):
+                continue
+            heading=' '.join(h.get_text(' ',strip=True) for h in soup.find_all('h1')).replace('®','')
+            value=re.search(label+r'\s+PMI\s+at\s+([\d.]+)%',heading,re.I)
+            period=re.search(r'('+'|'.join(MONTHS)+r')\s+(20\d{2})\s+ISM\s+'+label,heading,re.I)
+            if value and period and 0 <= float(value[1]) <= 100:
+                return {'value':float(value[1]),'period':f'{period[2]}-{MONTHS[period[1].lower()]:02d}', 'source':'ISM · comunicado oficial', 'url':url,'report_url':urljoin(ISM,f'{sub}/{period[1].lower()}/'),'unit':'index'}
+        raise ValueError('No se encontró un comunicado de ISM fechado')
+    except Exception as exc: errors.append(str(exc))
     raise ValueError('; '.join(errors))
 
 def containers():
