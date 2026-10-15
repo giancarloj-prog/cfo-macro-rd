@@ -1,15 +1,15 @@
 {
-  "as_of": "2026-10-14",
+  "as_of": "2026-10-15",
   "status": "live-bcrd-dgii-hacienda-v2",
   "series": {
     "usd_dop_sell": {
-      "value": 61.5396,
-      "period": "2026-10-13",
+      "value": 61.6788,
+      "period": "2026-10-14",
       "source": "BCRD"
     },
     "usd_dop_buy": {
-      "value": 61.1149,
-      "period": "2026-10-13",
+      "value": 61.1477,
+      "period": "2026-10-14",
       "source": "BCRD"
     },
     "active_rate": {
@@ -183,7 +183,7 @@
       "source": "Cálculo"
     }
   },
-  "automation_check_utc": "2026-10-14T20:31:45+00:00",
+  "automation_check_utc": "2026-10-15T15:37:00+00:00",
   "source_health": {
     "bcrd": {
       "ok": true,
@@ -229,7 +229,7 @@
     "digepres_history": {
       "ok": true,
       "url": "https://digepres.gob.do/ejecucion-presupuestaria-2026/",
-      "parsed_files": 1,
+      "parsed_files": 0,
       "latest_period": "2026-09",
       "errors": {}
     }
