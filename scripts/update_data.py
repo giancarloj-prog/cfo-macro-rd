@@ -257,10 +257,13 @@ def update_fiscal_history(p, hist):
                 target = fiscal_month_from_url(url)
                 if target and url.lower().endswith((".xlsx", ".xls")) and url not in links:
                     links.append(url)
+            latest_link_period = max(("-".join(fiscal_month_from_url(url)) for url in links), default="")
             for url in links:
                 target_year, target_month = fiscal_month_from_url(url)
                 period = f"{target_year}-{target_month}"
-                if period in fiscal.get("fiscal_income", {}):
+                # Revalidate the latest workbook each run, including revisions;
+                # reuse older observations already downloaded successfully.
+                if period in fiscal.get("fiscal_income", {}) and period != latest_link_period:
                     continue
                 try:
                     response = requests.get(url, headers=UA, timeout=90)
@@ -301,7 +304,7 @@ def update_fiscal_history(p, hist):
             setv(p, "fiscal_expected_execution_pct", int(month) / 12 * 100, latest, "Cálculo")
 
     p.setdefault("source_health", {})["digepres_history"] = {
-        "ok": bool(periods),
+        "ok": bool(parsed) and not errors,
         "url": DIGEPRES_EXECUTION.format(year=2026),
         "parsed_files": parsed,
         "latest_period": periods[-1] if periods else None,
@@ -326,6 +329,8 @@ def watch(p, hist):
     if inf is not None:
         if inf>5:
             items.append({"level":"yellow","title":"Inflación: vigilancia","text":f"La inflación interanual se ubica en {inf:.2f}%, por encima del techo de 5.0% del rango meta del BCRD."})
+        elif inf < 3:
+            items.append({"level":"yellow","title":"Inflación: bajo la meta","text":f"La inflación interanual se ubica en {inf:.2f}%, por debajo del piso de 3.0% del rango meta del BCRD."})
         else:
             items.append({"level":"green","title":"Inflación: dentro de meta","text":f"La inflación interanual se ubica en {inf:.2f}%, dentro del rango meta de 3%-5%."})
     a=s.get("active_rate",{}).get("value"); pol=s.get("policy_rate",{}).get("value")
@@ -341,8 +346,10 @@ def watch(p, hist):
     # DGII: real activity, sustained deceleration and collection divergence.
     dgii_alert_count=len(items)
     ops_yoy=s.get("itbis_total_operations_yoy",{}).get("value")
-    if ops_yoy is not None and inf is not None and ops_yoy < inf:
-        items.append({"level":"red","title":"DGII: actividad real debilitándose","text":f"Las operaciones declaradas crecen {ops_yoy:.1f}% interanual, por debajo de la inflación de {inf:.1f}%; implica una contracción real aproximada."})
+    ops_period = s.get("itbis_total_operations", {}).get("period")
+    same_period_inf = inf if s.get("inflation_yoy", {}).get("period") == ops_period else hist.get("monthly", {}).get("inflation_yoy", {}).get(ops_period)
+    if ops_yoy is not None and same_period_inf is not None and ops_yoy < same_period_inf:
+        items.append({"level":"red","title":"DGII: actividad real debilitándose","text":f"Las operaciones declaradas crecen {ops_yoy:.1f}% interanual, por debajo de la inflación de {same_period_inf:.1f}% del mismo mes ({ops_period}); sugiere debilidad real, con diferencias de cobertura entre ambas series."})
     monthly=hist.get("monthly",{})
     ops=monthly.get("itbis_total_operations",{})
     op_periods=sorted(ops)
@@ -353,12 +360,12 @@ def watch(p, hist):
     if len(yoy_path)>=3 and yoy_path[-3] > yoy_path[-2] > yoy_path[-1]:
         items.append({"level":"yellow","title":"DGII: desaceleración sostenida","text":f"El crecimiento interanual de las operaciones se ha moderado durante tres meses consecutivos ({yoy_path[-3]:.1f}% → {yoy_path[-2]:.1f}% → {yoy_path[-1]:.1f}%)."})
     revenue_yoy=s.get("itbis_revenue_yoy",{}).get("value")
-    if revenue_yoy is not None and ops_yoy is not None and revenue_yoy-ops_yoy>=5:
+    if s.get("itbis_revenue_yoy", {}).get("period") == ops_period and revenue_yoy is not None and ops_yoy is not None and revenue_yoy-ops_yoy>=5:
         items.append({"level":"yellow","title":"DGII: divergencia tributaria","text":f"La recaudación ITBIS crece {revenue_yoy:.1f}% frente a {ops_yoy:.1f}% en operaciones; la brecha puede reflejar fiscalización, composición o pagos extraordinarios."})
     if len(items)==dgii_alert_count and ops_yoy is not None:
-        real_gap=ops_yoy-inf if inf is not None else None
+        real_gap=ops_yoy-same_period_inf if same_period_inf is not None else None
         detail=f", {real_gap:.1f} puntos por encima de la inflación" if real_gap is not None else ""
-        items.append({"level":"green","title":"DGII: actividad formal estable","text":f"Las operaciones declaradas crecen {ops_yoy:.1f}% interanual{detail}. No se activan alertas de desaceleración real ni divergencia tributaria."})
+        items.append({"level":"green","title":"DGII: actividad formal estable","text":f"Las operaciones declaradas crecen {ops_yoy:.1f}% interanual{detail}. No se activan alertas en las comparaciones disponibles para el mismo período."})
 
     # Hacienda/DIGEPRES: comparable monthly fiscal signals.
     income_yoy=s.get("fiscal_income_yoy",{}).get("value")
@@ -410,15 +417,24 @@ def main():
     if tpm_decision:
         tpm_period = per(tpm_decision.group(1), tpm_decision.group(3))
         tpm_value = float(tpm_decision.group(4))
-        if setv(p, "policy_rate", tpm_value, tpm_period):
+        if tpm_period >= p["series"].get("policy_rate", {}).get("period", "") and setv(p, "policy_rate", tpm_value, tpm_period):
             if "policy_rate" not in u:
                 u.append("policy_rate")
 
-    m=re.search(r"Tasas de interés\s*\(promedio ponderado\)\s*(\w+)\s+(\d{4}).{0,300}?Interbancaria\s+(\d+(?:\.\d+)?)%.{0,140}?Activa\s*B\.?M\.?\s+(\d+(?:\.\d+)?)%.{0,140}?Pasiva\s*B\.?M\.?\s+(\d+(?:\.\d+)?)%",text,re.I|re.S)
+    m=re.search(r"Tasas de interés\s*\(promedio ponderado\)\s*(\w+)\s+(\d{4}).{0,300}?(?:Interbancaria|Interb\.?\s*Total)\s+(\d+(?:\.\d+)?)%.{0,140}?Activa\s*B\.?M\.?\s+(\d+(?:\.\d+)?)%.{0,140}?Pasiva\s*B\.?M\.?\s+(\d+(?:\.\d+)?)%",text,re.I|re.S)
     if m and m.group(1).lower() in MONTHS:
         period=per(m.group(1),m.group(2))
         for k,v in [("interbank_rate",m.group(3)),("active_rate",m.group(4)),("passive_rate",m.group(5))]:
             if setv(p,k,float(v),period):u.append(k)
+
+    # Parse the supplemental values from the same dated source block.
+    m = re.search(r"Inflación\s*\(variación %\)\s*(\w+)\s+(\d{4})\s+Interanual\s+[\d.]+%\s+Acumulada\s+([\d.]+)%\s+Mensual\s+([\d.]+)%", text, re.I)
+    if m and m.group(1).lower() in MONTHS:
+        for key, value in [("inflation_ytd", m.group(3)), ("inflation_monthly", m.group(4))]:
+            if setv(p, key, float(value), per(m.group(1), m.group(2))): u.append(key)
+    m = re.search(r"IMAE original.{0,120}?(\w+)\s+(\d{4})\s+[-\d.]+%\s+Ene-\w+\s+(\d{4})\s+([-\d.]+)%", text, re.I)
+    if m and m.group(1).lower() in MONTHS and m.group(2) == m.group(3):
+        if setv(p, "imae_ytd", float(m.group(4)), per(m.group(1), m.group(2))): u.append("imae_ytd")
 
     m=re.search(r"Préstamos privados.*?(\w+)\s+(\d{4}).{0,200}?Mon\.?\s*nacional\s+(\d+(?:\.\d+)?)%.{0,120}?Total\s+(\d+(?:\.\d+)?)%",text,re.I|re.S)
     if m and m.group(1).lower() in MONTHS and setv(p,"private_credit_yoy",float(m.group(4)),per(m.group(1),m.group(2))):u.append("private_credit_yoy")
@@ -435,6 +451,11 @@ def main():
     m=re.search(r"Cuenta corriente\s*\(como % del PIB\).*?2025\s+(-?\d+(?:\.\d+)?)%",text,re.I|re.S)
     if m and setv(p,"current_account_gdp",float(m.group(1)),"2025"):u.append("current_account_gdp")
 
+    # Keep the legacy reserves key consistent for existing consumers.
+    if "gross_reserves" in u:
+        x = p["series"]["gross_reserves"]
+        setv(p, "gross_reserves_usd_mm", x["value"], x["period"])
+
     # Maintain a compact monthly history used by the dashboard charts.
     hist_path = ROOT / "data" / "history.json"
     try:
@@ -449,8 +470,13 @@ def main():
     p["as_of"]=datetime.now(timezone.utc).date().isoformat()
     p["status"]="live-bcrd-dgii-hacienda-v2"
     p["automation_check_utc"]=datetime.now(timezone.utc).isoformat(timespec="seconds")
-    p["updated_fields"]=u
-    p.setdefault("source_health",{})["bcrd"]={"ok":True,"url":BCRD,"http_status":r.status_code,"updated_fields":u}
+    p["updated_fields"]=u + dgii_updated + hacienda_updated
+    expected = {"usd_dop_buy", "usd_dop_sell", "active_rate", "passive_rate", "interbank_rate", "policy_rate", "inflation_yoy", "inflation_ytd", "inflation_monthly", "core_inflation_yoy", "imae_yoy", "imae_ytd", "private_credit_yoy", "gross_reserves", "net_reserves", "gdp_growth", "current_account_gdp"}
+    missing = sorted(expected - set(u))
+    p.setdefault("source_health",{})["bcrd"]={"ok":not missing,"url":BCRD,"http_status":r.status_code,"updated_fields":u,"missing_fields":missing}
+    for key in u:
+        p["series"][key]["verified_at"] = p["automation_check_utc"]
+        p["series"][key]["url"] = BCRD
     hist.setdefault("monthly", {})
     for key in ["active_rate","passive_rate","interbank_rate","policy_rate","inflation_yoy",
                 "core_inflation_yoy","imae_yoy","gross_reserves","net_reserves","private_credit_yoy"]:

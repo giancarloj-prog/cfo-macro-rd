@@ -30,7 +30,7 @@ h1{font-size:clamp(30px,4vw,52px);letter-spacing:-.045em;margin:0}.sub{color:var
 @media(max-width:650px){.charts{grid-template-columns:1fr}.wrap{padding:16px}header{display:block}.badge{display:inline-block;margin-top:12px}.grid5{grid-template-columns:repeat(2,1fr)}.ext{grid-template-columns:1fr}.watchgrid,.dgii,.fiscal{grid-template-columns:1fr}.card{min-height:126px;padding:14px}.v{font-size:28px}.sub{font-size:13px}}
 </style></head><body><main class="wrap">
 <header><div><h1>CFO Macro Dashboard — RD</h1><div class="sub">Resumen macroeconómico y financiero para toma de decisiones · República Dominicana</div></div><div class="badge" id="stamp">Actualizando…</div></header>
-<div class="sec">CFO Snapshot</div><div class="grid5" id="snapshot"></div>
+<div id="health" class="foot" role="status"></div><div class="sec">CFO Snapshot</div><div class="grid5" id="snapshot"></div>
 <div class="sec">Financiamiento & Macro</div><div class="grid5" id="macro"></div>
 <div class="sec">CFO Watch</div><div class="watchgrid" id="watch"></div>
 <div class="sec">Sector externo</div><div class="ext" id="external"></div>
@@ -51,12 +51,13 @@ function card(label,x,fmt="pct",extra="",pill="BCRD"){
 }
 
 function lineChart(title,desc,labels,series,format="pct"){
- const W=520,H=190,L=38,R=12,T=14,B=28, vals=series.flatMap(s=>s.values.filter(v=>v!=null));
+ const W=520,H=190,L=38,R=12,T=14,B=28, vals=series.flatMap(s=>s.values.filter(v=>v!=null && Number.isFinite(v)));
+ if(!vals.length)return `<div class="chart"><h3>${title}</h3><div class="desc">Sin observaciones verificadas.</div></div>`;
  let min=Math.min(...vals),max=Math.max(...vals); let pad=(max-min)*.18||1; min-=pad;max+=pad;
  const x=i=>L+(W-L-R)*(labels.length===1?.5:i/(labels.length-1));
  const y=v=>T+(H-T-B)*(max-v)/(max-min);
  const colors=["#79aaff","#48d2a0","#f2bd4e","#d18cff"];
- let grid=[0,.25,.5,.75,1].map(q=>{let yy=T+(H-T-B)*q,val=max-(max-min)*q;return `<line class="gridline" x1="${L}" y1="${yy}" x2="${W-R}" y2="${yy}"/><text x="2" y="${yy+3}">${format==="usd"?Math.round(val).toLocaleString("en-US"):val.toFixed(1)+"%"}</text>`}).join("");
+ let grid=[0,.25,.5,.75,1].map(q=>{let yy=T+(H-T-B)*q,val=max-(max-min)*q;return `<line class="gridline" x1="${L}" y1="${yy}" x2="${W-R}" y2="${yy}"/><text x="2" y="${yy+3}">${format==="usd"?Math.round(val).toLocaleString("en-US"):val.toFixed(1)+(format==="pct"?"%":"")}</text>`}).join("");
  let lines=series.map((s,j)=>{let good=s.values.map((v,i)=>v==null?null:{v,i}).filter(Boolean);let pts=good.map(o=>`${x(o.i)},${y(o.v)}`).join(" ");let dots=good.map(o=>`<circle cx="${x(o.i)}" cy="${y(o.v)}" r="3.2" fill="${colors[j]}"/>`).join("");return `<polyline class="line" stroke="${colors[j]}" points="${pts}"/>${dots}`}).join("");
  let xl=labels.map((a,i)=>`<text text-anchor="middle" x="${x(i)}" y="${H-5}">${a}</text>`).join("");
  let leg=series.map((s,j)=>`<span><b style="color:${colors[j]}">●</b> ${s.name}</span>`).join("");
@@ -64,7 +65,8 @@ function lineChart(title,desc,labels,series,format="pct"){
 }
 
 Promise.all([fetch("data/current.json?ts="+Date.now()).then(r=>r.json()),fetch("data/history.json?ts="+Date.now()).then(r=>r.json())]).then(([d,h])=>{
- document.getElementById("stamp").textContent="Actualizado · "+per(d.as_of);
+ document.getElementById("stamp").textContent="Última consulta · "+per(d.as_of);
+ document.getElementById("health").textContent=Object.entries(d.source_health||{}).filter(([k,v])=>!v.ok).map(([k])=>`${k}: verificación incompleta; se conserva el dato anterior.`).join(" · ");
  let buy=g(d,"usd_dop_buy");
  document.getElementById("snapshot").innerHTML=
  card("USD/DOP venta",g(d,"usd_dop_sell"),"fx",`Compra: ${buy.value==null?"—":Number(buy.value).toFixed(2)}`,"Último validado")+
@@ -82,23 +84,28 @@ Promise.all([fetch("data/current.json?ts="+Date.now()).then(r=>r.json()),fetch("
  document.getElementById("watch").innerHTML=w.map(x=>`<div class="watch ${x.level||"green"}"><h3>${x.title}</h3><p>${x.text}</p></div>`).join("")||`<div class="watch"><h3>Sin alertas</h3><p>No hay señales generadas.</p></div>`;
 
  let mo=h.monthly||{}, daily=h.daily||{};
- const labs=["may","jun","jul","ago"];
+ const recent=(...keys)=>[...new Set(keys.flatMap(k=>Object.keys(mo[k]||{})))].sort().slice(-8);
+ const ratePeriods=recent("active_rate","passive_rate","interbank_rate","policy_rate");
+ const infPeriods=recent("inflation_yoy","core_inflation_yoy");
+ const imaePeriods=recent("imae_yoy");
+ const reservesPeriods=recent("gross_reserves");
+ const label=p=>per(p);
  document.getElementById("charts").innerHTML=
- lineChart("Tasas bancarias & TPM","Promedios ponderados mensuales · %",labs,[
-  {name:"Activa",values:["2026-05","2026-06","2026-07","2026-08"].map(k=>mo.active_rate?.[k])},
-  {name:"Pasiva",values:["2026-05","2026-06","2026-07","2026-08"].map(k=>mo.passive_rate?.[k])},
-  {name:"Interbancaria",values:["2026-05","2026-06","2026-07","2026-08"].map(k=>mo.interbank_rate?.[k])},
-  {name:"TPM",values:["2026-05","2026-06","2026-07","2026-08"].map(k=>mo.policy_rate?.[k])}
+ lineChart("Tasas bancarias & TPM","Promedios ponderados mensuales · %",ratePeriods.map(label),[
+  {name:"Activa",values:ratePeriods.map(k=>mo.active_rate?.[k])},
+  {name:"Pasiva",values:ratePeriods.map(k=>mo.passive_rate?.[k])},
+  {name:"Interbancaria",values:ratePeriods.map(k=>mo.interbank_rate?.[k])},
+  {name:"TPM",values:ratePeriods.map(k=>mo.policy_rate?.[k])}
  ])+
- lineChart("Inflación","Interanual general vs. subyacente · %",labs,[
-  {name:"General",values:["2026-05","2026-06","2026-07","2026-08"].map(k=>mo.inflation_yoy?.[k])},
-  {name:"Subyacente",values:["2026-05","2026-06","2026-07","2026-08"].map(k=>mo.core_inflation_yoy?.[k])}
+ lineChart("Inflación","Interanual general vs. subyacente · %",infPeriods.map(label),[
+  {name:"General",values:infPeriods.map(k=>mo.inflation_yoy?.[k])},
+  {name:"Subyacente",values:infPeriods.map(k=>mo.core_inflation_yoy?.[k])}
  ])+
- lineChart("Actividad económica","IMAE interanual · %",["abr","may","jun","jul"],[
-  {name:"IMAE",values:["2026-04","2026-05","2026-06","2026-07"].map(k=>mo.imae_yoy?.[k])}
+ lineChart("Actividad económica","IMAE interanual · %",imaePeriods.map(label),[
+  {name:"IMAE",values:imaePeriods.map(k=>mo.imae_yoy?.[k])}
  ])+
- lineChart("Reservas internacionales","Reservas brutas mensuales · US$ MM",labs,[
-  {name:"Brutas",values:["2026-05","2026-06","2026-07","2026-08"].map(k=>mo.gross_reserves?.[k])}
+ lineChart("Reservas internacionales","Reservas brutas mensuales · US$ MM",reservesPeriods.map(label),[
+  {name:"Brutas",values:reservesPeriods.map(k=>mo.gross_reserves?.[k])}
  ],"usd")+
  lineChart("USD/DOP","Venta BCRD · puntos históricos validados",Object.keys(daily.usd_dop_sell||{}).sort().map(k=>{let a=k.split("-");return `${+a[2]} ${M[+a[1]-1]}`}),[
   {name:"Venta",values:Object.keys(daily.usd_dop_sell||{}).sort().map(k=>daily.usd_dop_sell[k])}
@@ -130,8 +137,8 @@ Promise.all([fetch("data/current.json?ts="+Date.now()).then(r=>r.json()),fetch("
  ],"usd");
 
  document.getElementById("fiscal").innerHTML=
- card("Ingresos",g(d,"fiscal_income"),"rdmm",g(d,"fiscal_income_yoy").value==null?"Acumulado publicado":`Último mes: ${Number(g(d,"fiscal_income_yoy").value).toFixed(1)}% YoY`,"Hacienda")+
- card("Gastos",g(d,"fiscal_expense"),"rdmm",g(d,"fiscal_expense_yoy").value==null?"Acumulado publicado":`Último mes: ${Number(g(d,"fiscal_expense_yoy").value).toFixed(1)}% YoY`,"Hacienda")+
+ card("Ingresos",g(d,"fiscal_income"),"rdmm",g(d,"fiscal_income_yoy").value==null?"Acumulado publicado":`Mes ${per(g(d,"fiscal_income_yoy").period)}: ${Number(g(d,"fiscal_income_yoy").value).toFixed(1)}% YoY`,"Hacienda")+
+ card("Gastos",g(d,"fiscal_expense"),"rdmm",g(d,"fiscal_expense_yoy").value==null?"Acumulado publicado":`Mes ${per(g(d,"fiscal_expense_yoy").period)}: ${Number(g(d,"fiscal_expense_yoy").value).toFixed(1)}% YoY`,"Hacienda")+
  card("Balance simple",g(d,"budget_balance_simple"),"rdmm",g(d,"budget_balance_yoy_change").value==null?"Ingresos − gastos":`Cambio YoY mensual: ${Number(g(d,"budget_balance_yoy_change").value)<0?"−":"+"}RD$${Math.abs(Number(g(d,"budget_balance_yoy_change").value)).toLocaleString("en-US",{maximumFractionDigits:0})} MM`,"Cálculo")+
  card("Ejecución ingresos",g(d,"fiscal_income_execution_pct"),"pct",g(d,"fiscal_expected_execution_pct").value==null?"Acumulado / presupuesto":`Referencia temporal: ${Number(g(d,"fiscal_expected_execution_pct").value).toFixed(1)}%`,"DIGEPRES");
 
