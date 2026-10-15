@@ -8,7 +8,7 @@
       "source": "Federal Reserve",
       "url": "https://www.federalreserve.gov/monetarypolicy/openmarket.htm",
       "unit": "percent_range",
-      "verified_at": "2026-10-15T22:23:05+00:00"
+      "verified_at": "2026-10-15T22:24:25+00:00"
     },
     "treasury_10y": {
       "value": 5.19,
@@ -42,34 +42,34 @@
       "source": "Drewry",
       "url": "https://www.drewry.co.uk/supply-chain-advisors/supply-chain-expertise/world-container-index-assessed-by-drewry",
       "unit": "usd_40ft",
-      "verified_at": "2026-10-15T22:23:05+00:00"
+      "verified_at": "2026-10-15T22:24:25+00:00"
     }
   },
-  "checked_at": "2026-10-15T22:23:05+00:00",
+  "checked_at": "2026-10-15T22:24:25+00:00",
   "source_health": {
     "fed_rate": {
       "ok": true,
-      "checked_at": "2026-10-15T22:23:05+00:00",
+      "checked_at": "2026-10-15T22:24:25+00:00",
       "error": null
     },
     "treasury_10y": {
-      "ok": true,
-      "checked_at": "2026-10-15T22:23:05+00:00",
-      "error": null
+      "ok": false,
+      "checked_at": "2026-10-15T22:24:25+00:00",
+      "error": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=35)"
     },
     "ism_manufacturing": {
       "ok": false,
-      "checked_at": "2026-10-15T22:23:05+00:00",
+      "checked_at": "2026-10-15T22:24:25+00:00",
       "error": "La fuente exige acceso interactivo; se conserva el último dato verificado"
     },
     "ism_services": {
       "ok": false,
-      "checked_at": "2026-10-15T22:23:05+00:00",
+      "checked_at": "2026-10-15T22:24:25+00:00",
       "error": "La fuente exige acceso interactivo; se conserva el último dato verificado"
     },
     "world_container_index": {
       "ok": true,
-      "checked_at": "2026-10-15T22:23:05+00:00",
+      "checked_at": "2026-10-15T22:24:25+00:00",
       "error": null
     }
   }
