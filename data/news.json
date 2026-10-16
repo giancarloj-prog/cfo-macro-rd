@@ -1,7 +1,7 @@
 {
   "date": "2026-10-16",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-16T10:14:05+00:00",
+  "checked_at": "2026-10-16T10:20:54+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -34,7 +34,7 @@
     "europa": {
       "ok": true,
       "error": null,
-      "count": 5
+      "count": 6
     },
     "global": {
       "ok": true,
@@ -43,6 +43,16 @@
     }
   },
   "items": [
+    {
+      "title": "Bradford gang members jailed for drugs and money laundering offences",
+      "publisher": "BBC",
+      "publisher_url": "http://news.bbc.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9aTEw2WmJMemhKRmdfc0w1a1QtdUlMSHlJY2Z4UjAzdjhoUzUzOUVUZDVZcTMweGIyQ1hNaUZFcDB6VmlSQTdTUVpuSGlaRDdoTFJ1MjBJU1h0dVJ0aUE?oc=5",
+      "published_at": "2026-10-16T10:17:50+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
     {
       "title": "Buscan aplicar 4.8 millones de vacunas",
       "publisher": "El Universal",

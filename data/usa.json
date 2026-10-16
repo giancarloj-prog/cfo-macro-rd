@@ -8,7 +8,7 @@
       "source": "Federal Reserve",
       "url": "https://www.federalreserve.gov/monetarypolicy/openmarket.htm",
       "unit": "percent_range",
-      "verified_at": "2026-10-16T10:14:03+00:00"
+      "verified_at": "2026-10-16T10:20:51+00:00"
     },
     "treasury_10y": {
       "value": 5.19,
@@ -16,7 +16,7 @@
       "source": "Federal Reserve · H.15",
       "url": "https://www.federalreserve.gov/releases/h15/",
       "unit": "percent",
-      "verified_at": "2026-10-16T10:14:03+00:00"
+      "verified_at": "2026-10-16T10:20:51+00:00"
     },
     "ism_manufacturing": {
       "value": 54.5,
@@ -24,7 +24,7 @@
       "source": "ISM",
       "url": "https://www.prnewswire.com/news-releases/manufacturing-pmi-at-54-5-september-2026-ism-manufacturing-pmi-report-302894520.html",
       "unit": "index",
-      "verified_at": "2026-10-16T10:14:03+00:00"
+      "verified_at": "2026-10-16T10:20:51+00:00"
     },
     "ism_services": {
       "value": 54.9,
@@ -32,7 +32,7 @@
       "source": "ISM",
       "url": "https://www.prnewswire.com/news-releases/services-pmi-at-54-9-september-2026-ism-services-pmi-report-302898421.html",
       "unit": "index",
-      "verified_at": "2026-10-16T10:14:03+00:00"
+      "verified_at": "2026-10-16T10:20:51+00:00"
     },
     "world_container_index": {
       "value": 4485.0,
@@ -40,34 +40,34 @@
       "source": "Drewry",
       "url": "https://www.drewry.co.uk/supply-chain-advisors/supply-chain-expertise/world-container-index-assessed-by-drewry",
       "unit": "usd_40ft",
-      "verified_at": "2026-10-16T10:14:03+00:00"
+      "verified_at": "2026-10-16T10:20:51+00:00"
     }
   },
-  "checked_at": "2026-10-16T10:14:03+00:00",
+  "checked_at": "2026-10-16T10:20:51+00:00",
   "source_health": {
     "fed_rate": {
       "ok": true,
-      "checked_at": "2026-10-16T10:14:03+00:00",
+      "checked_at": "2026-10-16T10:20:51+00:00",
       "error": null
     },
     "treasury_10y": {
       "ok": true,
-      "checked_at": "2026-10-16T10:14:03+00:00",
+      "checked_at": "2026-10-16T10:20:51+00:00",
       "error": null
     },
     "ism_manufacturing": {
       "ok": true,
-      "checked_at": "2026-10-16T10:14:03+00:00",
+      "checked_at": "2026-10-16T10:20:51+00:00",
       "error": null
     },
     "ism_services": {
       "ok": true,
-      "checked_at": "2026-10-16T10:14:03+00:00",
+      "checked_at": "2026-10-16T10:20:51+00:00",
       "error": null
     },
     "world_container_index": {
       "ok": true,
-      "checked_at": "2026-10-16T10:14:03+00:00",
+      "checked_at": "2026-10-16T10:20:51+00:00",
       "error": null
     }
   }
