@@ -44,26 +44,22 @@
   el('inputsWatch').innerHTML=watches.join('');
  }
  function renderCatalogue(){
-  const type=el('inputsType').value,q=el('inputsSearch').value.normalize('NFD').replace(/\p{Diacritic}/gu,'').toLowerCase();
-  let entries=[...(data.catalogue?.actives||[]).map(x=>({...x,type:'api'})),...(data.catalogue?.excipients||[]).map(x=>({...x,type:'excipiente'}))];
-  entries=entries.filter(x=>(type==='all'||x.type===type)&&x.name.normalize('NFD').replace(/\p{Diacritic}/gu,'').toLowerCase().includes(q)).sort((a,b)=>a.name.localeCompare(b.name,'es'));
-  const verifiedFDA=data.source_health?.fda?.ok===true;
+  const q=el('inputsSearch').value.normalize('NFD').replace(/\p{Diacritic}/gu,'').toLowerCase();
+  const entries=[...(data.catalogue?.actives||[]).map(x=>({...x,type:'api'})),...(data.catalogue?.excipients||[]).map(x=>({...x,type:'excipiente'}))]
+   .filter(x=>x.signal&&Number.isFinite(data.series?.[x.signal]?.value))
+   .filter(x=>x.name.normalize('NFD').replace(/\p{Diacritic}/gu,'').toLowerCase().includes(q))
+   .sort((a,b)=>a.name.localeCompare(b.name,'es'));
   el('inputsCatalogueBody').innerHTML=entries.map(x=>{
-   const fda=x.type==='api'?data.fda?.items?.find(y=>y.name===x.name):null;
-   const signal=x.signal?data.series?.[x.signal]:null;
-   const price=signal?`${esc(signal.name)}: ${num(signal.value)}<br><span class="source-note">${esc(signal.unit)} · ${month(signal.period)}<br>Referencia indirecta${old(signal)||data.source_health?.[x.signal]?.ok===false?' · revisar vigencia':''}</span>`:'Sin serie pública comparable integrada';
-   let availability=x.type==='excipiente'?'Sin medición pública específica integrada':!fda?'Consulta FDA pendiente':fda.count?`<span class="inputs-count">${fda.count} presentaciones con estado Current en FDA</span>`:'Sin coincidencias en faltantes vigentes FDA';
-   if(x.type==='api')availability+=`<div class="source-note">Medicamento terminado · EE. UU.${!verifiedFDA?' · consulta incompleta; último registro':''}</div>`;
-   const detail=fda?.count?`<details><summary>Ver registros públicos FDA</summary><ul>${fda.presentations.map(p=>`<li><strong>${esc(p.presentation||p.generic_name)}</strong><br>${esc(p.company_name)}<br>Disponibilidad reportada: ${esc(p.availability||'No especificada')}<br>Motivo: ${esc(p.shortage_reason||'No especificado')}<br>Actualización del registro: ${esc(p.update_date||'No indicada')}</li>`).join('')}</ul></details>`:'';
-   return `<tr><td>${esc(x.name)}<br><span class="inputs-label">${x.type==='api'?'Principio activo':'Excipiente'}</span></td><td>${price}</td><td>${availability}${detail}</td><td>${esc(x.note||'Comparar sustancia, sal, pureza, mercado, fecha y condiciones antes de interpretar referencias de precios.')}</td></tr>`;
-  }).join('')||'<tr><td colspan="4">No hay materiales que coincidan con la búsqueda.</td></tr>';
-  el('inputsCatalogueCount').textContent=`${entries.length} sustancias · Catálogo genérico en orden alfabético. Los faltantes FDA no cubren todos los mercados ni todos los APIs; una ausencia de coincidencias no demuestra disponibilidad.`;
+   const signal=data.series[x.signal];
+   const price=`${esc(signal.name)}: ${num(signal.value)}<br><span class="source-note">${esc(signal.unit)} · ${month(signal.period)}<br>Referencia indirecta${old(signal)||data.source_health?.[x.signal]?.ok===false?' · revisar vigencia':''}<br>${link(signal.url,signal.source)}</span>`;
+   return `<tr><td>${esc(x.name)}<br><span class="inputs-label">${x.type==='api'?'Principio activo':'Excipiente'}</span></td><td>${price}</td><td>${esc(x.note||signal.scope)}</td></tr>`;
+  }).join('')||'<tr><td colspan="3">No hay materiales con datos que coincidan con la búsqueda.</td></tr>';
+  el('inputsCatalogueCount').textContent=`${entries.length} sustancias con referencia numérica pública · Orden alfabético. Solo se muestran materiales con datos de una serie integrada; las referencias son indirectas y no equivalen al precio de grado farmacéutico.`;
  }
- el('inputsType').addEventListener('change',()=>{if(data)renderCatalogue()});
  el('inputsSearch').addEventListener('input',()=>{if(data)renderCatalogue()});
  fetch('data/inputs.json?ts='+Date.now()).then(r=>{if(!r.ok)throw Error(r.status);return r.json()}).then(d=>{
   data=d;el('inputsCards').innerHTML=Object.keys(expected).map(card).join('');renderWatch();renderCatalogue();
   el('inputsStatus').textContent=`Consulta automática: ${checked(d.checked_at)} (RD). Cada tarjeta conserva el período publicado y la última verificación exitosa.`;
   el('inputsFDAStatus').textContent=d.fda?`FDA · Base actualizada: ${d.fda.last_updated} · Verificada: ${checked(d.fda.verified_at)} (RD). ${d.source_health?.fda?.ok===false?'No se pudo renovar la consulta; se conserva el registro anterior.':''}`:'FDA: sin una consulta completa validada; no se infiere ausencia de faltantes.';
- }).catch(()=>{el('inputsStatus').textContent='No se pudieron cargar las señales externas. Intenta recargar. No se infiere disponibilidad a partir de este fallo.';el('inputsCatalogueBody').innerHTML='<tr><td colspan="4">Datos no disponibles.</td></tr>';});
+ }).catch(()=>{el('inputsStatus').textContent='No se pudieron cargar las señales externas. Intenta recargar. No se infiere disponibilidad a partir de este fallo.';el('inputsCatalogueBody').innerHTML='<tr><td colspan="3">Datos no disponibles.</td></tr>';});
 })();

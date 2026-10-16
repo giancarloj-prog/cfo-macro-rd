@@ -19,7 +19,7 @@ GitHub Actions verifica y publica todos los días, incluidos fines de semana, a 
 3. Noticias farmacéuticas: filtro por región y búsqueda por texto. Las noticias de días anteriores se ocultan también en el navegador, incluso si una actualización falla.
 
 4. PIB por actividad: últimas cuatro tasas trimestrales YoY, selector de actividades y desgloses, comparación de actividades principales, últimos 12 meses y acumulado del año.
-5. Insumos y abastecimiento: aluminio, resinas termoplásticas, corrugado, cajas plegadizas, etanol, azúcar y presión logística global. Catálogo genérico alfabético de principios activos y excipientes, con cobertura explícita y registros FDA Current asociados a familias genéricas. Sin series específicas comparables para muchos APIs y excipientes: se informa la falta de cobertura y se ofrece acceso externo a fuentes de referencia.
+5. Insumos y abastecimiento: aluminio, resinas termoplásticas, corrugado, cajas plegadizas, etanol, azúcar y presión logística global. Tabla alfabética que muestra exclusivamente sustancias con referencias numéricas públicas integradas; omite materiales sin serie disponible. Las señales FDA Current se mantienen como contexto separado en CFO Watch.
 
 Esta pestaña utiliza exclusivamente datos públicos. No contiene registros empresariales de compras, inventarios, contratos, proveedores, precios negociados o prioridades de abastecimiento. El catálogo genérico no identifica un portafolio de compras empresarial. Los umbrales del CFO Watch son orientativos: precios 5/10/20% (amarillo) y 10/20/30% (rojo) a 1/3/12 meses; GSCPI 1 y 2 desviaciones estándar. No se activan nuevas alertas numéricas con una consulta fallida o una observación de más de 120 días.
 
