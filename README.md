@@ -8,6 +8,7 @@ GitHub Actions verifica y publica todos los días, incluidos fines de semana, a 
 
 - `scripts/update_data.py`: BCRD, archivos XLSX de DGII, Hacienda y DIGEPRES. Conserva el último dato si falla una fuente y muestra el estado de la consulta.
 - `scripts/update_usa.py`: rango objetivo de la Fed, Treasury nominal a 10 años (H.15, alternativa FRED DGS10), PMI Manufacturing y Services de ISM, y WCI de Drewry. Los PMI se buscan en ISM y, como alternativa, en los comunicados emitidos por ISM en PR Newswire. Cada observación conserva período, fuente y fecha de verificación; un fallo no renueva esa fecha.
+- `scripts/update_gdp.py`: PIB real trimestral por actividad. Descubre el Excel vigente del BCRD, comprueba las tasas oficiales contra los índices y mueve la ventana de cuatro trimestres al publicarse uno nuevo. Relee el histórico para incorporar revisiones. Los últimos 12 meses se calculan por actividad; no se suman índices entre actividades.
 - `scripts/update_news.py`: busca titulares farmacéuticos en medios seleccionados mediante Google News RSS. Valida medio, tema y fecha en `America/Santo_Domingo`; elimina duplicados y reemplaza el listado diario. Las consultas se dividen en grupos cortos de medios para evitar que el buscador descarte términos. No se almacenan artículos completos ni se presenta un archivo histórico; los cambios de JSON permanecen en el historial normal de Git. Los enlaces del agregador redirigen al artículo original; algunos medios tienen suscripción. La selección no pretende cobertura exhaustiva de toda la prensa.
 
 ## Pestañas
@@ -15,6 +16,8 @@ GitHub Actions verifica y publica todos los días, incluidos fines de semana, a 
 1. República Dominicana: indicadores, CFO Watch y gráficos con períodos dinámicos.
 2. USA & logística global: Fed, Treasury, PMI y WCI (USD por contenedor de 40 pies; referencia global).
 3. Noticias farmacéuticas: filtro por región y búsqueda por texto. Las noticias de días anteriores se ocultan también en el navegador, incluso si una actualización falla.
+
+4. PIB por actividad: últimas cuatro tasas trimestrales YoY, selector de actividades y desgloses, comparación de actividades principales, últimos 12 meses y acumulado del año.
 
 ## Verificación local
 
