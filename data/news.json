@@ -1,7 +1,7 @@
 {
   "date": "2026-10-16",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-16T14:50:31+00:00",
+  "checked_at": "2026-10-16T15:23:29+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -34,7 +34,7 @@
     "europa": {
       "ok": true,
       "error": null,
-      "count": 17
+      "count": 16
     },
     "global": {
       "ok": true,
@@ -209,6 +209,16 @@
       "regions": [
         "europa",
         "global"
+      ]
+    },
+    {
+      "title": "Bradford gang members jailed for drugs and money laundering offences",
+      "publisher": "BBC",
+      "publisher_url": "https://www.bbc.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5maFhZUkRYNVR0ZlNaN09vYTVMMlN5dC13bVVaLXJkTU9GNE96c1NfMGdzVklfR0ZEczkycW9YbHdmazVZT3ZqWFctT3JITUR1Z0xNV3hBNG1nMFNFQWc?oc=5",
+      "published_at": "2026-10-16T10:17:50+00:00",
+      "regions": [
+        "europa"
       ]
     },
     {
