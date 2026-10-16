@@ -1,7 +1,7 @@
 {
   "date": "2026-10-16",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-16T14:46:56+00:00",
+  "checked_at": "2026-10-16T14:50:31+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -34,7 +34,7 @@
     "europa": {
       "ok": true,
       "error": null,
-      "count": 16
+      "count": 17
     },
     "global": {
       "ok": true,
