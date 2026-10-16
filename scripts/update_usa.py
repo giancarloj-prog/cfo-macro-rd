@@ -198,10 +198,75 @@ def containers():
     if month is None or not 100 <= value <= 50000: raise ValueError('WCI inválido')
     return {'value':value,'period':f'{m[3]}-{month:02d}-{int(m[1]):02d}','source':'Drewry','url':WCI,'unit':'usd_40ft'}
 
+COMMODITIES = {
+    'wti': ('DCOILWTICO', 'usd_barrel', 'WTI spot · Cushing, Oklahoma · US$/barril'),
+    'diesel': ('DDFUELUSGULF', 'usd_gallon', 'Diésel ULSD spot · Costa del Golfo, EE. UU. · US$/galón'),
+    'gasoline': ('DGASUSGULF', 'usd_gallon', 'Gasolina regular convencional spot · Costa del Golfo, EE. UU. · US$/galón'),
+}
+
+def commodity(key):
+    series, unit, description = COMMODITIES[key]
+    url = 'https://fred.stlouisfed.org/series/' + series
+    content = text(page(url))
+    m = re.search(r'Observations\s+(\d{4}-\d{2}-\d{2}):\s*(-?[\d,]+(?:\.\d+)?)', content)
+    if not m: raise ValueError('No hay observación fechada de ' + series)
+    value = float(m[2].replace(',', ''))
+    if not -100 <= value <= 10000: raise ValueError('Precio fuera de rango')
+    if m[1] > datetime.now(timezone.utc).date().isoformat(): raise ValueError('Observación futura')
+    return dict(value=value, period=m[1], unit=unit, source='EIA · FRED', url=url, description=description, series_id=series)
+
+def gold(now=None):
+    # GC=F is a futures reference, explicitly identified rather than labeled spot.
+    url='https://query1.finance.yahoo.com/v8/finance/chart/GC%3DF?range=5d&interval=1d'
+    r=requests.get(url,headers=UA,timeout=35);r.raise_for_status()
+    x=r.json()['chart']['result'][0]
+    if x['meta'].get('symbol')!='GC=F': raise ValueError('Contrato de oro incorrecto')
+    now=now or datetime.now(timezone.utc)
+    end=datetime.fromtimestamp(x['meta']['currentTradingPeriod']['regular']['end'],timezone.utc)
+    tz=ZoneInfo(x['meta'].get('exchangeTimezoneName','America/New_York'))
+    observations=[]
+    for ts,value in zip(x['timestamp'],x['indicators']['quote'][0]['close']):
+        day=datetime.fromtimestamp(ts,timezone.utc).astimezone(tz).date()
+        if value is None or day>now.astimezone(tz).date():continue
+        if day>=end.astimezone(tz).date() and now<end+timedelta(minutes=30):continue
+        if 0<float(value)<100000:observations.append((day.isoformat(),round(float(value),2)))
+    if not observations:raise ValueError('Sin sesión completada de oro')
+    period,value=max(observations)
+    return dict(value=value,period=period,unit='usd_oz',source='Yahoo Finance · COMEX',url='https://finance.yahoo.com/quote/GC=F/',description='Futuros de oro · GC=F · último cierre diario · US$/onza troy')
+
+def parse_remittances(content, url):
+    pattern=(r'entre enero y ('+'|'.join({'enero':1,'febrero':2,'marzo':3,'abril':4,'mayo':5,'junio':6,'julio':7,'agosto':8,'septiembre':9,'octubre':10,'noviembre':11,'diciembre':12})+
+             r') de (20\d{2}),? las remesas recibidas alcanzaron.{0,50}?US\$\s*([\d,]+\.\d+) millones.{0,180}?(aumento|disminución).{0,100}?un\s+([\d.]+)\s*%.{0,100}?mismo per[ií]odo.{0,30}?(20\d{2})')
+    months={'enero':1,'febrero':2,'marzo':3,'abril':4,'mayo':5,'junio':6,'julio':7,'agosto':8,'septiembre':9,'octubre':10,'noviembre':11,'diciembre':12}
+    found=[]
+    for m in re.finditer(pattern,content,re.I):
+        if int(m[6])!=int(m[2])-1:continue
+        period=f'{m[2]}-{months[m[1].lower()]:02d}'
+        if period>datetime.now(timezone.utc).strftime('%Y-%m'):continue
+        value=float(m[3].replace(',',''));yoy=float(m[5])*(-1 if m[4].lower()=='disminución' else 1)
+        if value<=0 or not -100<yoy<100:continue
+        found.append(dict(value=value,period=period,yoy=yoy,unit='usd_million',source='Banco Central · BCRD',url=url,description=f'Enero–{m[1].lower()} {m[2]} · YoY frente al mismo período de {m[6]}'))
+    if not found:raise ValueError('Falta acumulado de remesas con comparación del mismo período')
+    return max(found,key=lambda x:x['period'])
+
+def remittances():
+    base='https://www.bancentral.gov.do'
+    def post(path, data):
+        r=requests.post(base+path,data=data,headers=UA,timeout=35);r.raise_for_status()
+        p=r.json()
+        return json.loads(p) if isinstance(p,str) else p
+    listing=post('/Home/GetArticles',dict(requestIsFromPortal='true',filter='Remesas',languageName='es',categoryCode='CAT-037',skipCount=0,maxResultCount=10))
+    items=listing['result']['items']
+    candidates=[x for x in items if 'remesas' in x.get('title','').lower() and x.get('isActive')]
+    if not candidates:raise ValueError('Sin comunicado de remesas')
+    latest=max(candidates,key=lambda x:x['creationTime'])
+    content=post('/Home/GetContentForRender',dict(id=latest['id'],languageName='es'))['result']['article']['content']
+    return parse_remittances(text(BeautifulSoup(content,'html.parser')),base+'/a/d/'+latest['stringId'])
+
 def main():
     p=json.loads(DATA.read_text()) if DATA.exists() else {'series':{}}
     now=datetime.now(timezone.utc).isoformat(timespec='seconds')
-    jobs={'inflation_us_yoy':inflation_us,'sp500':sp500,'fed_rate':fed,'treasury_10y':treasury,'ism_manufacturing':lambda:pmi('manufacturing',p['series'].get('ism_manufacturing',{})),'ism_services':lambda:pmi('services',p['series'].get('ism_services',{})),'world_container_index':containers}
+    jobs={'wti':lambda:commodity('wti'),'diesel':lambda:commodity('diesel'),'gasoline':lambda:commodity('gasoline'),'gold':gold,'remittances_ytd':remittances,'inflation_us_yoy':inflation_us,'sp500':sp500,'fed_rate':fed,'treasury_10y':treasury,'ism_manufacturing':lambda:pmi('manufacturing',p['series'].get('ism_manufacturing',{})),'ism_services':lambda:pmi('services',p['series'].get('ism_services',{})),'world_container_index':containers}
     def run(k):
         try:
             x=jobs[k]()
