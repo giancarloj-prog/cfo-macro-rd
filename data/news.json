@@ -1,7 +1,7 @@
 {
   "date": "2026-10-16",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-16T19:31:58+00:00",
+  "checked_at": "2026-10-16T19:46:53+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -29,20 +29,41 @@
     "usa": {
       "ok": true,
       "error": null,
-      "count": 12
+      "count": 13
     },
     "europa": {
       "ok": true,
       "error": null,
-      "count": 13
+      "count": 15
     },
     "global": {
       "ok": true,
       "error": null,
-      "count": 11
+      "count": 12
     }
   },
   "items": [
+    {
+      "title": "Trump's pharma holdings surged as drugmakers benefited from Medicare price negotiation carveouts, Democrats allege",
+      "publisher": "Fierce Pharma",
+      "publisher_url": "https://www.fiercepharma.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSC1id2RqSDJ0RGtRWFFrb0hUdjZ4aVI0cTlQVHZvLTc4ZHIwM3NMVXVyX2c4RldPRkpveE9JNTJoR2Rfd1Bub3huUmVSaEZFVFRMLWxzbF9kYWZndVhhVGFwb2I2cm1qSU02SjdBWFYwc1hhNjNScEZvRzBCd1gyNU1BcFJhUlhETzdQZWF5UklSRWNYNTJnUTV1cjFuNVVGT2VxYTQzWXBSQVpDWk4xMFpSMlJfRVhmWkFB?oc=5",
+      "published_at": "2026-10-16T18:50:41+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Liverpool School of Tropical Medicine warns of potential redundancies",
+      "publisher": "BBC",
+      "publisher_url": "https://www.bbc.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9aWC1fOWtVaXFoN1hvN3NVN1ZRcGhRZXgzN3pRQm5iS1B6aFRCZ2tzeXBnYmpPM0YzNktSb0l0bDhZWTlkSzlfTXhvamJLX2NaRGlCdGRteEp3N2FXbFE?oc=5",
+      "published_at": "2026-10-16T16:38:31+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
     {
       "title": "Iambic CEO on taking an AI drug company public",
       "publisher": "BioPharma Dive",
@@ -61,6 +82,7 @@
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTnpzZWRTbnhGYTlYUWJscGJmYzN2ZGFXTm5iZUg2TVpUVWNZNzdtY082UW9OZEtLakdIeUlvVDJDUWZjZ3lPMGVuYmhHWllBdERldkJVYklzWUlIQUt0UzNfQVJYQ3ktYVQ1SkVmZnpRTURWMnRNN3FCZWRrSF9YTjdpSElyYnFvMzNFT2RpOFFFcnNhY0FfNW12eWdLZ0toTWptVlYzUDd0Zm1KYmtnMW1Law?oc=5",
       "published_at": "2026-10-16T16:26:58+00:00",
       "regions": [
+        "europa",
         "global",
         "usa"
       ]
