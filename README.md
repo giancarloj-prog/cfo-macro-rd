@@ -1,29 +1,29 @@
-# CFO Macro Dashboard — República Dominicana
+# CFO Macro Dashboard — RD, USA y noticias farmacéuticas
 
-Repositorio listo para publicar el dashboard HTML en GitHub Pages.
+Dashboard publicado en https://giancarloj-prog.github.io/cfo-macro-rd/.
 
-## Publicación inicial
-1. Crea un repositorio en GitHub, por ejemplo `cfo-macro-rd`.
-2. Sube **todo el contenido de esta carpeta**, incluyendo `.github`.
-3. En GitHub: **Settings → Pages → Build and deployment → Source: GitHub Actions**.
-4. Abre **Actions** y ejecuta `Update and publish CFO Macro RD` una vez.
-5. GitHub Pages mostrará la URL publicada.
+## Actualización
 
-## Automatización configurada
-- Lunes a viernes ~7:15 AM hora de Santo Domingo.
-- Verifica disponibilidad de BCRD, DGII y Hacienda.
-- Conserva el último snapshot validado si una fuente falla.
-- Publica el sitio mediante GitHub Pages.
+GitHub Actions verifica y publica todos los días, incluidos fines de semana, a las 7:15 AM, 1:00 PM y 6:00 PM de Santo Domingo (UTC−4). Los horarios son aproximados y dependen de la disponibilidad de GitHub Actions. También se puede ejecutar manualmente el workflow.
 
-## Estado de integración
-La infraestructura de actualización/publicación ya está lista.
-`data/current.json` contiene el snapshot inicial validado.
-La extracción automática de cada serie se incorpora fuente por fuente después de
-validar el contrato de descarga/API oficial; no se hace scraping silencioso de
-valores financieros sin validación.
+- `scripts/update_data.py`: BCRD, archivos XLSX de DGII, Hacienda y DIGEPRES. Conserva el último dato si falla una fuente y muestra el estado de la consulta.
+- `scripts/update_usa.py`: rango objetivo de la Fed, Treasury nominal a 10 años (H.15, alternativa FRED DGS10), PMI Manufacturing y Services de ISM, y WCI de Drewry. Los PMI se buscan en ISM y, como alternativa, en los comunicados emitidos por ISM en PR Newswire. Cada observación conserva período, fuente y fecha de verificación; un fallo no renueva esa fecha.
+- `scripts/update_news.py`: busca titulares farmacéuticos en medios seleccionados mediante Google News RSS. Valida medio, tema y fecha en `America/Santo_Domingo`; elimina duplicados y reemplaza el listado diario. Las consultas se dividen en grupos cortos de medios para evitar que el buscador descarte términos. No se almacenan artículos completos ni se presenta un archivo histórico; los cambios de JSON permanecen en el historial normal de Git. Los enlaces del agregador redirigen al artículo original; algunos medios tienen suscripción. La selección no pretende cobertura exhaustiva de toda la prensa.
 
-## Próxima integración
-1. BCRD: FX, TPM, tasas, IPC, IMAE, crédito, reservas.
-2. DGII: operaciones totales/gravadas ITBIS y recaudación.
-3. Hacienda: balance/ingresos/ejecución fiscal.
-4. Validaciones de período, rango y variaciones antes de publicar.
+## Pestañas
+
+1. República Dominicana: indicadores, CFO Watch y gráficos con períodos dinámicos.
+2. USA & logística global: Fed, Treasury, PMI y WCI (USD por contenedor de 40 pies; referencia global).
+3. Noticias farmacéuticas: filtro por región y búsqueda por texto. Las noticias de días anteriores se ocultan también en el navegador, incluso si una actualización falla.
+
+## Verificación local
+
+```bash
+pip install -r requirements.txt
+python -m unittest discover -s tests
+python scripts/update_data.py
+python scripts/update_usa.py
+python scripts/update_news.py
+```
+
+Los fallos de una fuente macro no impiden ejecutar y publicar las noticias. Cada lector informa su estado; el éxito del workflow no implica que todas las fuentes hayan respondido. Los datos mensuales conservan su mes publicado y no se presentan como observaciones del día.

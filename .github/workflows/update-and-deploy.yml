@@ -3,9 +3,10 @@ name: Update and publish CFO Macro RD
 on:
   workflow_dispatch:
   schedule:
-  # Horarios en UTC: 13:00 = 9:00 AM RD / 17:00 = 1:00 PM RD
-  - cron: "15 11 * * 1-5"
-  - cron: "0 17 * * 1-5"
+  # Todos los días, hora RD: 7:15 AM, 1:00 PM y 6:00 PM.
+  - cron: "15 11 * * *"
+  - cron: "0 17 * * *"
+  - cron: "0 22 * * *"
   push:
     branches: ["main"]
 
@@ -27,13 +28,17 @@ jobs:
         with:
           python-version: "3.12"
       - run: pip install -r requirements.txt
+      - run: python -m unittest discover -s tests
       - run: python scripts/update_data.py
+        continue-on-error: true
       - run: python scripts/update_usa.py
+        continue-on-error: true
+      - run: python scripts/update_news.py
       - name: Save validated data/health status
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/current.json data/history.json data/usa.json
+          git add data/current.json data/history.json data/usa.json data/news.json
           git diff --cached --quiet || git commit -m "Automated macro data check"
           git pull --rebase origin main
           git push

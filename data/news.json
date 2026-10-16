@@ -1,0 +1,140 @@
+{
+  "date": "2026-10-16",
+  "timezone": "America/Santo_Domingo",
+  "checked_at": "2026-10-16T10:11:50+00:00",
+  "regions": {
+    "rd": "República Dominicana",
+    "centroamerica": "Centroamérica",
+    "mexico": "México",
+    "usa": "USA",
+    "europa": "Europa",
+    "global": "Global"
+  },
+  "source_health": {
+    "rd": {
+      "ok": true,
+      "error": null,
+      "count": 0
+    },
+    "centroamerica": {
+      "ok": true,
+      "error": null,
+      "count": 0
+    },
+    "mexico": {
+      "ok": true,
+      "error": null,
+      "count": 2
+    },
+    "usa": {
+      "ok": true,
+      "error": null,
+      "count": 2
+    },
+    "europa": {
+      "ok": true,
+      "error": null,
+      "count": 5
+    },
+    "global": {
+      "ok": true,
+      "error": null,
+      "count": 2
+    }
+  },
+  "items": [
+    {
+      "title": "Buscan aplicar 4.8 millones de vacunas",
+      "publisher": "El Universal",
+      "publisher_url": "https://www.eluniversal.com.mx",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQM19HTFUweURJdnAxS251MTVWY2l3OEh5NFlpUE5jQU9qdUxoX1M2Ny1EN0dJdU0xNGhWcUFQSXVzVHczSm9MUUI5Rl83R1otWjlvMGdoeU9OZU9EbXZTMWxOaHdaVnRERU9wM3Z5SGViVWM0TnplaDlnTmUtN0k0MVdjOWFjQdIBmgFBVV95cUxNUkVNZGUwZDdOZUlsblJNT0lheGRTRHQ5dHp3V2N5TTZIN19xT0Q0QW1tTE1ZNGprVEVYd29qR3paV3VuZVBZd3BzU2ZqUFlCRXN4UkRVZjZ6SURIdGNITVl0X296Ql9JT1VTUFNBX2JBU0VKSjJEMmpCcUhHY3N0TVpIdUpaZDRwN1ZrbkVWVnBuTTAxR190MWNB?oc=5",
+      "published_at": "2026-10-16T09:57:24+00:00",
+      "regions": [
+        "mexico"
+      ]
+    },
+    {
+      "title": "RevMed nears EU okay for pancreatic cancer drug Rasonque",
+      "publisher": "pharmaphorum",
+      "publisher_url": "https://pharmaphorum.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQmQ5d29qMm5HU0ZsZWpMMkF6b0kzazhGU1hFenBhWGxNaXQxa000LUU4ZFlWc0JOZWcyQ3FvV0E1Z1dBbER2bm1pSnBGaVI5NUFmVWxCd3ZaampTSzFHODAyWlAtN19zelZZVndKeHJQQ19scEk0U3VyYnpHb1NwZHF6aTlqVGxhbEE?oc=5",
+      "published_at": "2026-10-16T09:32:19+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "Drugmakers, PhRMA seek to intervene in hospitals' 340B rebate challenge",
+      "publisher": "Fierce Healthcare",
+      "publisher_url": "https://www.fiercepharma.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUkxVeF8wX2hPVW12TjFnWWtsU3JCZlB2LUdFWE1sZ3ZqYnVmcFJDUFYwWnVtcjFkWWZiSEFnRUdESF9Hem5Temt0YXZlRnE2UWVjR1pvZUVVQXRsOEdrd3I3NUp1bkZvSElhTzg2ZXNCT2M5REUxYVhaN185UEZXbW93bUlfUlRyZVFJeHE0T2h3VklEbTI5ZFlmdzM0UmZNX1RENV9yTQ?oc=5",
+      "published_at": "2026-10-16T08:44:36+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "China proposes adding 40 AI, biotech, solar technologies to export control list",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMWNnS1haU3c5T3lybTBzQUNxZF9lMmhWaFp0Yk5UbzhDdklobHpkRHk2dExFU1dWZmVMVENFNEVLOW9JWDdscm15VDhObXhhc1JwYjlIelZjeFJuMG9jVERmTHRNRTZtSlBRYndNc2IxZTRkdWtPUGdlWDhoSEZQTHVZNzIwMFUzWVhjT3gxUWl1X2VpM1VOM29BZElFRjlaek1uRDFQb2N5aF9FTlF4U1N4WFZRVmtyUTBLdmVJc0Rzb3E2NkZ5ZQ?oc=5",
+      "published_at": "2026-10-16T08:43:39+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "I thought I knew why patients stopped taking their medicine. I was wrong",
+      "publisher": "STAT",
+      "publisher_url": "https://www.statnews.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdUc0SWxxcXM1THJHUC1aTV90UHZjeWV1MC00ME9qRlpmOXhwcWxZdFA4dXdKejE0Wk9NQ3E3NVRkNmw0ME02NENLbmNvbVdid0liVFJqcDYwendiZjNHSXVDY21tLXFENDdtbVdIY3ZkSFp3TVctd0I3QXJaX2Exb0w2ZUJPaWpTMXN4SFpmdTNncld1cmx4VTEzMzk2NTA4U1g3cDF0LVdfckt3ZEE?oc=5",
+      "published_at": "2026-10-16T08:33:10+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "AI in drug discovery & development: News watch, October 2026",
+      "publisher": "pharmaphorum",
+      "publisher_url": "https://pharmaphorum.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcHhRVVIzR014YWxkeGZlV1liMUFWU2NCNmNWNGRpSWtzckxreFVKajF3WklXWjRhVDJBanV3RzNZRmN4X0xBWm9SLXktVE1uZXUzZ0t0aDJ4OUtXcVptaGdqQmwyUjRZenVINjBxZFRPYkFFUzFwa1NId2J6b0xONm1KcHpwZXJRN0l3?oc=5",
+      "published_at": "2026-10-16T08:09:56+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "UE busca aliarse con México para convertirlo en centro de producción de medicamentos",
+      "publisher": "Milenio",
+      "publisher_url": "https://www.milenio.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYktJZ2JyQnNGUlNEYmw0VS02a3Z6YkNrbmdLdEdFSnFVSUN0WmJBbTNSMTlrYkJ6b2xILXduRnNNb1JzRnFIRVg3WGRCamdKam9WbkJWbVhMNGhXWFVOQVdlblZ4eUg1c3BLbTVmbjlhNEphNUlpdzVYRTRURFF1ZTUxNVFGMHJvN0dFeFRUZkJ1WVVOcjdkQ3B3Q2pHNWhz0gGgAUFVX3lxTE41NnV0YXZRT3JOUVNsdGhQT0xhU0YzX200em5rUF9uTEk1b2JPSVNYMTdjVF9yNWtmYWlITlE1cTIzWU9jNGJZVUlrb0YyTUJxd0dpOTN4a1ZHYURTa0VFdVJoQUFKSzlZb3Vqa2t2R0hNZzhGX0MxZllnTE00bXZ0TEhnRlh2ZHpPUUVpamZtaUVDU2c4Y25lSFI3WUhuZ2w?oc=5",
+      "published_at": "2026-10-16T07:40:00+00:00",
+      "regions": [
+        "mexico"
+      ]
+    },
+    {
+      "title": "FDA Approves Genentech's Enspryng, a First-in-Class IL-6R Inhibitor, as the First and Only At-Home Subcutaneous Treatment Option for Thyroid Eye Disease (TED) – Company Announcement - FT.com",
+      "publisher": "Financial Times",
+      "publisher_url": "https://markets.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcFZqVGRRZnhGUEo2NHJHcDVMOGNtVG1hVWliMjJKa0kyNFktc3RhMEp3LVVfelZFMmVfOC1HQXQtZG9SX1dHdkRMdms5aHZaa2IxaW4tYVRTeHdlUk9DbjBxUTZobnF6ZGsxdGVtNklnZ2NCdDE5YXhDVkhHcnlvdE9TT2VDczFQay1acnprbEgtQ2o1VDRhTUpzZUdWazZNaEJMX1F3?oc=5",
+      "published_at": "2026-10-16T05:00:00+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "Breakingviews - COMMENTARY: China biotech's ingenuity extends to dealmaking",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZWkyd01BTjNXLTRZSU1LTWp3VlNIcy1vOThieVVpN0JHQTNRbjZ6cmx1ZHc0OC1FNURNTzFldFJSVWhWY09ITmNYdXNQSjBMVTZtaVpaZUo1VU1HdWZQX1lnb1FneHlJQTlCbVNBZ1NhVDBpVVgtLTgwZkRhRzJFZzFtcFZSY1VtWWNyR0tHTXEwM2NzdzVEMHRscktaU1lfeHN3RGtlMA?oc=5",
+      "published_at": "2026-10-16T04:23:00+00:00",
+      "regions": [
+        "europa"
+      ]
+    }
+  ],
+  "discovery": "Google News RSS · medios seleccionados; enlaces al agregador redirigen a la publicación original"
+}

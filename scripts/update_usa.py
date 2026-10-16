@@ -49,7 +49,7 @@ def fed():
     period,lo,hi=max(observations)
     return {'value':hi,'lower':lo,'upper':hi,'period':period,'source':'Federal Reserve','url':FED,'unit':'percent_range'}
 
-def treasury():
+def treasury_fred():
     soup=page(FRED)
     content=text(soup)
     # The date must be attached to an observation, not the page update timestamp.
@@ -58,6 +58,33 @@ def treasury():
     value=float(m[2])
     if not 0 <= value <= 30: raise ValueError('DGS10 fuera de rango')
     return {'value':value,'period':m[1],'source':'Federal Reserve · FRED (DGS10)','url':FRED,'unit':'percent'}
+
+def treasury():
+    url='https://www.federalreserve.gov/releases/h15/'
+    try:
+        soup=page(url)
+        for table in soup.find_all('table'):
+            rows=table.find_all('tr')
+            if not rows: continue
+            headers=[c.get_text(' ',strip=True).replace('*','') for c in rows[0].find_all(['th','td'])]
+            dates={}
+            for i,h in enumerate(headers):
+                try:dates[i]=datetime.strptime(h,'%Y %b %d').date().isoformat()
+                except ValueError:pass
+            nominal=False
+            for row in rows[1:]:
+                cells=[c.get_text(' ',strip=True) for c in row.find_all(['th','td'])]
+                if not cells: continue
+                if re.match(r'^Nominal\b',cells[0]):nominal=True
+                if re.match(r'^Inflation indexed\b',cells[0]):nominal=False
+                if nominal and cells[0]=='10-year':
+                    observations=[(dates[i],float(cells[i])) for i in dates if i<len(cells) and re.fullmatch(r'\d+(?:\.\d+)?',cells[i])]
+                    if observations:
+                        period,value=max(observations)
+                        if 0 <= value <= 30:return {'value':value,'period':period,'source':'Federal Reserve · H.15','url':url,'unit':'percent'}
+        raise ValueError('No se encontró el rendimiento nominal a 10 años con fecha')
+    except (requests.RequestException,ValueError):
+        return treasury_fred()
 
 def pmi(kind, previous):
     sub='pmi' if kind=='manufacturing' else 'services'
