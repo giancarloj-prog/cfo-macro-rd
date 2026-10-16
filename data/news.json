@@ -1,7 +1,7 @@
 {
   "date": "2026-10-16",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-16T10:20:54+00:00",
+  "checked_at": "2026-10-16T10:44:04+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -29,25 +29,25 @@
     "usa": {
       "ok": true,
       "error": null,
-      "count": 2
+      "count": 3
     },
     "europa": {
       "ok": true,
       "error": null,
-      "count": 6
+      "count": 7
     },
     "global": {
       "ok": true,
       "error": null,
-      "count": 2
+      "count": 3
     }
   },
   "items": [
     {
-      "title": "Bradford gang members jailed for drugs and money laundering offences",
+      "title": "Gang jailed for drug dealing and money laundering",
       "publisher": "BBC",
-      "publisher_url": "http://news.bbc.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9aTEw2WmJMemhKRmdfc0w1a1QtdUlMSHlJY2Z4UjAzdjhoUzUzOUVUZDVZcTMweGIyQ1hNaUZFcDB6VmlSQTdTUVpuSGlaRDdoTFJ1MjBJU1h0dVJ0aUE?oc=5",
+      "publisher_url": "https://www.bbc.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5maFhZUkRYNVR0ZlNaN09vYTVMMlN5dC13bVVaLXJkTU9GNE96c1NfMGdzVklfR0ZEczkycW9YbHdmazVZT3ZqWFctT3JITUR1Z0xNV3hBNG1nMFNFQWc?oc=5",
       "published_at": "2026-10-16T10:17:50+00:00",
       "regions": [
         "europa"
@@ -91,7 +91,9 @@
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMWNnS1haU3c5T3lybTBzQUNxZF9lMmhWaFp0Yk5UbzhDdklobHpkRHk2dExFU1dWZmVMVENFNEVLOW9JWDdscm15VDhObXhhc1JwYjlIelZjeFJuMG9jVERmTHRNRTZtSlBRYndNc2IxZTRkdWtPUGdlWDhoSEZQTHVZNzIwMFUzWVhjT3gxUWl1X2VpM1VOM29BZElFRjlaek1uRDFQb2N5aF9FTlF4U1N4WFZRVmtyUTBLdmVJc0Rzb3E2NkZ5ZQ?oc=5",
       "published_at": "2026-10-16T08:43:39+00:00",
       "regions": [
-        "europa"
+        "europa",
+        "global",
+        "usa"
       ]
     },
     {
