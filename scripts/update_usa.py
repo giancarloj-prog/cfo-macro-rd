@@ -86,6 +86,38 @@ def treasury():
     except (requests.RequestException,ValueError):
         return treasury_fred()
 
+CPI='https://www.bls.gov/news.release/cpi.nr0.htm'
+SP500='https://fred.stlouisfed.org/series/SP500'
+
+def inflation_us():
+    try:
+        content=text(page(CPI))
+        period=re.search(r'CONSUMER PRICE INDEX\s*[-–]\s*('+'|'.join(MONTHS)+r')\s+(20\d{2})',content,re.I)
+        rate=re.search(r'Over the last 12 months, the all items index (increased|decreased|declined|rose|fell)\s+([\d.]+)\s+percent',content,re.I)
+        if not period or not rate:raise ValueError('Faltan el mes y la inflación general CPI-U interanual')
+        value=float(rate[2])*(-1 if rate[1].lower() in ('decreased','declined','fell') else 1)
+        if not -30 <= value <= 100:raise ValueError('CPI-U interanual fuera de rango')
+        return {'value':value,'period':f'{period[2]}-{MONTHS[period[1].lower()]:02d}','source':'BLS · CPI-U','url':CPI,'unit':'percent','description':'Inflación general interanual · sin ajuste estacional'}
+    except (requests.RequestException,ValueError):
+        url='https://api.bls.gov/publicAPI/v1/timeseries/data/CUUR0000SA0'
+        r=requests.get(url,headers=UA,timeout=35);r.raise_for_status();payload=r.json()
+        if payload.get('status')!='REQUEST_SUCCEEDED':raise ValueError('BLS API no disponible')
+        series=payload['Results']['series']
+        if not series or series[0]['seriesID']!='CUUR0000SA0':raise ValueError('Serie CPI-U incorrecta')
+        values={f"{x['year']}-{int(x['period'][1:]):02d}":float(x['value']) for x in series[0]['data'] if re.fullmatch(r'M(?:0[1-9]|1[0-2])',x['period'])}
+        latest=max(values);prior=f'{int(latest[:4])-1}{latest[4:]}'
+        if prior not in values or values[prior]<=0:raise ValueError('Falta el mes comparable del CPI-U')
+        value=round((values[latest]/values[prior]-1)*100,1)
+        return {'value':value,'period':latest,'source':'BLS · CPI-U','url':CPI,'unit':'percent','series_id':'CUUR0000SA0','description':'Inflación general interanual · sin ajuste estacional'}
+
+def sp500():
+    content=text(page(SP500))
+    m=re.search(r'Observations\s+(\d{4}-\d{2}-\d{2}):\s*([\d,]+(?:\.\d+)?)',content)
+    if not m:raise ValueError('No se encontró un cierre fechado del S&P 500')
+    value=float(m[2].replace(',',''))
+    if not 100 <= value <= 100000:raise ValueError('S&P 500 fuera de rango')
+    return {'value':value,'period':m[1],'source':'S&P Dow Jones Indices · FRED','url':SP500,'unit':'index_points','description':'Último cierre publicado · puntos del índice'}
+
 def pmi(kind, previous):
     sub='pmi' if kind=='manufacturing' else 'services'
     label='Manufacturing' if kind=='manufacturing' else 'Services'
@@ -142,7 +174,7 @@ def containers():
 def main():
     p=json.loads(DATA.read_text()) if DATA.exists() else {'series':{}}
     now=datetime.now(timezone.utc).isoformat(timespec='seconds')
-    jobs={'fed_rate':fed,'treasury_10y':treasury,'ism_manufacturing':lambda:pmi('manufacturing',p['series'].get('ism_manufacturing',{})),'ism_services':lambda:pmi('services',p['series'].get('ism_services',{})),'world_container_index':containers}
+    jobs={'inflation_us_yoy':inflation_us,'sp500':sp500,'fed_rate':fed,'treasury_10y':treasury,'ism_manufacturing':lambda:pmi('manufacturing',p['series'].get('ism_manufacturing',{})),'ism_services':lambda:pmi('services',p['series'].get('ism_services',{})),'world_container_index':containers}
     def run(k):
         try:
             x=jobs[k]()
