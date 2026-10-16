@@ -208,7 +208,7 @@
     }
   },
   "note": "Base histórica V4 con BCRD y DGII. La automatización conserva estos puntos y agrega o actualiza nuevos períodos.",
-  "updated_utc": "2026-10-16T15:22:16+00:00",
+  "updated_utc": "2026-10-16T19:30:20+00:00",
   "fiscal": {
     "fiscal_income": {
       "2026-09-04": 892399.25,

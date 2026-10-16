@@ -1,7 +1,7 @@
 {
   "date": "2026-10-16",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-16T15:23:29+00:00",
+  "checked_at": "2026-10-16T19:31:58+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -29,26 +29,91 @@
     "usa": {
       "ok": true,
       "error": null,
-      "count": 10
+      "count": 12
     },
     "europa": {
       "ok": true,
       "error": null,
-      "count": 16
+      "count": 13
     },
     "global": {
       "ok": true,
       "error": null,
-      "count": 10
+      "count": 11
     }
   },
   "items": [
+    {
+      "title": "Iambic CEO on taking an AI drug company public",
+      "publisher": "BioPharma Dive",
+      "publisher_url": "https://www.biopharmadive.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPa1BJVUFsOFdRNTJ1SEVOeDVnZHhjMjN2c3BfLXBLYWVFSy1FVGJnTUg1aTk2bmliUXZtQk13X1NnYlhoUmR1UXFhNGZ1S2hjYlM4WHpyS1lGanBvdVg3QXB3WjBFbWxlbWR0NG1VU0JLQlVCNHdZcjE1Y29raExiNEVlUnpsZlQ1SWJXUjNvN0tYdWhOeVAzc0dn?oc=5",
+      "published_at": "2026-10-16T16:30:41+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "US FDA sets up board to oversee drug exclusivity determinations",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTnpzZWRTbnhGYTlYUWJscGJmYzN2ZGFXTm5iZUg2TVpUVWNZNzdtY082UW9OZEtLakdIeUlvVDJDUWZjZ3lPMGVuYmhHWllBdERldkJVYklzWUlIQUt0UzNfQVJYQ3ktYVQ1SkVmZnpRTURWMnRNN3FCZWRrSF9YTjdpSElyYnFvMzNFT2RpOFFFcnNhY0FfNW12eWdLZ0toTWptVlYzUDd0Zm1KYmtnMW1Law?oc=5",
+      "published_at": "2026-10-16T16:26:58+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "The Biotech Growth Trust PLC - Transaction in Own Shares – Company Announcement",
+      "publisher": "Financial Times",
+      "publisher_url": "https://markets.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPenMwMUpfZC1rWEpUX0M5V2JPWW5PRHpfZXBJSHBuQS1TbUVtSGstVjVVMWFnaHF2ODQ5cDRWTmhEZlVuMEt4Z0NfZE1JTW95dWJlT3RjVy1VWjJmODFtQjB0YTFxOF94YjlTa2dnWlBWdUN6M1dnTUJSbU1IMmVRTC0yWXplUWFYdjFZSFQ4Y29CZnpp?oc=5",
+      "published_at": "2026-10-16T16:24:00+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "Trump increased investments in drugmakers that benefited from Medicare exemptions, Democrats say",
+      "publisher": "AP News",
+      "publisher_url": "https://apnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNE45aEJ5TTExZmJlbkNyalU5czVGUUs1cXRPZ1Ntb1lKN1dCeldVYmhQcVFiNGc4TWN2WWl3dExLbWNqTjNYakhxeHJ4MlpQZFR4cFIxS19TdVg1SFMxTnlKQmdZOFZoczdRakh2NHVnOUtUcEtXTXU2NXhvelgtU3AyakxsakhaZFN3MGc4M2ltNlFCSWVROGpqcUhMWUhWNW9UbkUzbWMtMHZfcDA3NGFlVmZYcVAt?oc=5",
+      "published_at": "2026-10-16T16:05:00+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Eli Lilly's weight-loss pill wins EU drug regulator's backing",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUTZHdm94VW1Ya3BOUDQtTjB5UjRIOUc1RGJKM09ubjlUcWZtS3Q0RU1PbnYxT21wUEUydXh6MXdqUXphU1JXRnJaM0padHMwZUotVGJ2YVlfNUs5c0ctbGJpUUEtVXg3dl9QYVl6VllubGNzeFZQWkNINk9KWmdna3RpQlV5ekxJVkdRZ2tDUFhUYTBoQUJLNFNldXRBMkhqYWc?oc=5",
+      "published_at": "2026-10-16T15:31:27+00:00",
+      "regions": [
+        "europa",
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Covid vaccine compensation scheme set for overhaul after Inquiry criticism",
+      "publisher": "BBC",
+      "publisher_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBPcjBweDlFc0RidFYyRVlTeS1lQl8wbDZmOFJ6dTdkR2ZzRllQVVpRLVV1Sl9YbjdKSEszRVlJU3JhVEFzOTA1QUx3UzJTRXFiblU4RTBScldrSDg?oc=5",
+      "published_at": "2026-10-16T15:02:46+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
     {
       "title": "Pharmalittle: We're reading about an HHS peptide push, Trump's pharma stock holdings, and more",
       "publisher": "STAT",
       "publisher_url": "https://www.statnews.com",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTHlDdkx4ajB2M2NReEY5UTMycGFUNFFsUlZGYmctT1RCcnpaWnlmamRScXBKTUIzSGpGTmluUkY2aXJtMTBEamdTYTJEZVFWd21WSWloSmR1YVZwRmEwaS14S0ZYNGpwcWRDNjN6b3BWemtPVE9zMzd0MENkSF82N0NxOGwxQktXNWROVHNqeHZtblZXWHc?oc=5",
-      "published_at": "2026-10-16T13:53:43+00:00",
+      "published_at": "2026-10-16T14:19:30+00:00",
       "regions": [
         "global",
         "usa"
@@ -87,28 +152,6 @@
       ]
     },
     {
-      "title": "Eli Lilly's weight-loss pill wins EU drug regulator's backing",
-      "publisher": "Reuters",
-      "publisher_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUTZHdm94VW1Ya3BOUDQtTjB5UjRIOUc1RGJKM09ubjlUcWZtS3Q0RU1PbnYxT21wUEUydXh6MXdqUXphU1JXRnJaM0padHMwZUotVGJ2YVlfNUs5c0ctbGJpUUEtVXg3dl9QYVl6VllubGNzeFZQWkNINk9KWmdna3RpQlV5ekxJVkdRZ2tDUFhUYTBoQUJLNFNldXRBMkhqYWc?oc=5",
-      "published_at": "2026-10-16T13:19:03+00:00",
-      "regions": [
-        "europa",
-        "global",
-        "usa"
-      ]
-    },
-    {
-      "title": "Armed police arrest group on suspicion of drug supply in Chesterfield",
-      "publisher": "BBC",
-      "publisher_url": "https://www.bbc.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBXekhQVEVqZlZjMWd4T1Z0dlNjMENWdVBaODFobzZOSkZKamhWaGVIZzBQUmQzNWtyU01Gb0Z4cVJRaVpud0JSWlJSamZydGJpVmJ3c0tVdWxUM1RDT0E?oc=5",
-      "published_at": "2026-10-16T12:31:49+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
       "title": "Actinium Pharmaceuticals Announces Oral and Poster Presentations at EANM 2026 Highlighting Broad Antitumor Activity of ATNM-400 Across Lung, Colorectal and Ovarian Cancer Models – Company Announcement",
       "publisher": "Financial Times",
       "publisher_url": "https://markets.ft.com",
@@ -129,16 +172,6 @@
       ]
     },
     {
-      "title": "Trump increased investments in drugmakers that benefited from Medicare exemptions, Democrats say",
-      "publisher": "AP News",
-      "publisher_url": "https://apnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNE45aEJ5TTExZmJlbkNyalU5czVGUUs1cXRPZ1Ntb1lKN1dCeldVYmhQcVFiNGc4TWN2WWl3dExLbWNqTjNYakhxeHJ4MlpQZFR4cFIxS19TdVg1SFMxTnlKQmdZOFZoczdRakh2NHVnOUtUcEtXTXU2NXhvelgtU3AyakxsakhaZFN3MGc4M2ltNlFCSWVROGpqcUhMWUhWNW9UbkUzbWMtMHZfcDA3NGFlVmZYcVAt?oc=5",
-      "published_at": "2026-10-16T12:01:00+00:00",
-      "regions": [
-        "global"
-      ]
-    },
-    {
       "title": "Fierce Pharma Asia—Roche’s $1.2B obesity deal; Asahi Kasei’s FDA nod; Verastem’s KRAS boon",
       "publisher": "Fierce Pharma",
       "publisher_url": "https://www.fiercepharma.com",
@@ -147,16 +180,6 @@
       "regions": [
         "global",
         "usa"
-      ]
-    },
-    {
-      "title": "Samurai sword, £70k and gun seized in drug raids",
-      "publisher": "BBC",
-      "publisher_url": "https://www.bbc.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9SVjJHQzZoeWt1M1JselZvNm5tWmxBX193OThJdnc0MDQyU2JFX1pRNzlMc1kzaDZ0VFNMZ1U3clVBWFQzcjRfSFBlMjJKQnZaVld4aUp1czVub2o3SGc?oc=5",
-      "published_at": "2026-10-16T11:52:16+00:00",
-      "regions": [
-        "europa"
       ]
     },
     {
@@ -212,16 +235,6 @@
       ]
     },
     {
-      "title": "Bradford gang members jailed for drugs and money laundering offences",
-      "publisher": "BBC",
-      "publisher_url": "https://www.bbc.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5maFhZUkRYNVR0ZlNaN09vYTVMMlN5dC13bVVaLXJkTU9GNE96c1NfMGdzVklfR0ZEczkycW9YbHdmazVZT3ZqWFctT3JITUR1Z0xNV3hBNG1nMFNFQWc?oc=5",
-      "published_at": "2026-10-16T10:17:50+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
       "title": "Buscan aplicar 4.8 millones de vacunas",
       "publisher": "El Universal",
       "publisher_url": "https://www.eluniversal.com.mx",
@@ -262,17 +275,6 @@
       ]
     },
     {
-      "title": "Drugmakers, PhRMA seek to intervene in hospitals' 340B rebate challenge",
-      "publisher": "Fierce Healthcare",
-      "publisher_url": "https://www.fiercepharma.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUkxVeF8wX2hPVW12TjFnWWtsU3JCZlB2LUdFWE1sZ3ZqYnVmcFJDUFYwWnVtcjFkWWZiSEFnRUdESF9Hem5Temt0YXZlRnE2UWVjR1pvZUVVQXRsOEdrd3I3NUp1bkZvSElhTzg2ZXNCT2M5REUxYVhaN185UEZXbW93bUlfUlRyZVFJeHE0T2h3VklEbTI5ZFlmdzM0UmZNX1RENV9yTQ?oc=5",
-      "published_at": "2026-10-16T08:44:36+00:00",
-      "regions": [
-        "global",
-        "usa"
-      ]
-    },
-    {
       "title": "I thought I knew why patients stopped taking their medicine. I was wrong",
       "publisher": "STAT",
       "publisher_url": "https://www.statnews.com",
@@ -295,7 +297,7 @@
     },
     {
       "title": "UE busca aliarse con México para convertirlo en centro de producción de medicamentos",
-      "publisher": "Milenio",
+      "publisher": "MILENIO",
       "publisher_url": "https://www.milenio.com",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYktJZ2JyQnNGUlNEYmw0VS02a3Z6YkNrbmdLdEdFSnFVSUN0WmJBbTNSMTlrYkJ6b2xILXduRnNNb1JzRnFIRVg3WGRCamdKam9WbkJWbVhMNGhXWFVOQVdlblZ4eUg1c3BLbTVmbjlhNEphNUlpdzVYRTRURFF1ZTUxNVFGMHJvN0dFeFRUZkJ1WVVOcjdkQ3B3Q2pHNWhz0gGgAUFVX3lxTE41NnV0YXZRT3JOUVNsdGhQT0xhU0YzX200em5rUF9uTEk1b2JPSVNYMTdjVF9yNWtmYWlITlE1cTIzWU9jNGJZVUlrb0YyTUJxd0dpOTN4a1ZHYURTa0VFdVJoQUFKSzlZb3Vqa2t2R0hNZzhGX0MxZllnTE00bXZ0TEhnRlh2ZHpPUUVpamZtaUVDU2c4Y25lSFI3WUhuZ2w?oc=5",
       "published_at": "2026-10-16T07:40:00+00:00",
@@ -309,16 +311,6 @@
       "publisher_url": "https://markets.ft.com",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcFZqVGRRZnhGUEo2NHJHcDVMOGNtVG1hVWliMjJKa0kyNFktc3RhMEp3LVVfelZFMmVfOC1HQXQtZG9SX1dHdkRMdms5aHZaa2IxaW4tYVRTeHdlUk9DbjBxUTZobnF6ZGsxdGVtNklnZ2NCdDE5YXhDVkhHcnlvdE9TT2VDczFQay1acnprbEgtQ2o1VDRhTUpzZUdWazZNaEJMX1F3?oc=5",
       "published_at": "2026-10-16T05:00:00+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "Breakingviews - COMMENTARY: China biotech's ingenuity extends to dealmaking",
-      "publisher": "Reuters",
-      "publisher_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZWkyd01BTjNXLTRZSU1LTWp3VlNIcy1vOThieVVpN0JHQTNRbjZ6cmx1ZHc0OC1FNURNTzFldFJSVWhWY09ITmNYdXNQSjBMVTZtaVpaZUo1VU1HdWZQX1lnb1FneHlJQTlCbVNBZ1NhVDBpVVgtLTgwZkRhRzJFZzFtcFZSY1VtWWNyR0tHTXEwM2NzdzVEMHRscktaU1lfeHN3RGtlMA?oc=5",
-      "published_at": "2026-10-16T04:23:00+00:00",
       "regions": [
         "europa"
       ]
