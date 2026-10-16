@@ -1,7 +1,7 @@
 {
   "date": "2026-10-16",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-16T10:44:04+00:00",
+  "checked_at": "2026-10-16T14:46:56+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -29,28 +29,186 @@
     "usa": {
       "ok": true,
       "error": null,
-      "count": 3
+      "count": 10
     },
     "europa": {
       "ok": true,
       "error": null,
-      "count": 7
+      "count": 16
     },
     "global": {
       "ok": true,
       "error": null,
-      "count": 3
+      "count": 10
     }
   },
   "items": [
     {
-      "title": "Gang jailed for drug dealing and money laundering",
-      "publisher": "BBC",
-      "publisher_url": "https://www.bbc.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5maFhZUkRYNVR0ZlNaN09vYTVMMlN5dC13bVVaLXJkTU9GNE96c1NfMGdzVklfR0ZEczkycW9YbHdmazVZT3ZqWFctT3JITUR1Z0xNV3hBNG1nMFNFQWc?oc=5",
-      "published_at": "2026-10-16T10:17:50+00:00",
+      "title": "Pharmalittle: We're reading about an HHS peptide push, Trump's pharma stock holdings, and more",
+      "publisher": "STAT",
+      "publisher_url": "https://www.statnews.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTHlDdkx4ajB2M2NReEY5UTMycGFUNFFsUlZGYmctT1RCcnpaWnlmamRScXBKTUIzSGpGTmluUkY2aXJtMTBEamdTYTJEZVFWd21WSWloSmR1YVZwRmEwaS14S0ZYNGpwcWRDNjN6b3BWemtPVE9zMzd0MENkSF82N0NxOGwxQktXNWROVHNqeHZtblZXWHc?oc=5",
+      "published_at": "2026-10-16T13:53:43+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "RevMed’s pancreatic cancer drug nears European approval",
+      "publisher": "STAT",
+      "publisher_url": "https://www.statnews.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWTAxSGdaYVhsdWpMXy0wTkhlUHptM2ExQmZSTk4xd2dhQU9ObWNwWlBwUzZmZllkSTlwRGZXbmZhZndPRDhNUU5hbGxXdGNvWWotVUluMmc2QWFiaEZtRG81bWxmRld4anZFbnhQNExTMlNXeG9DV1BNUWFJdHJZbDdmbzY1dkN0MkEya1NBRjRjbkFuSi1vWUxHNWJIZWJpb1lnaGNR?oc=5",
+      "published_at": "2026-10-16T13:43:10+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "RNAi biotech City hauls in $200m in upsized IPO",
+      "publisher": "pharmaphorum",
+      "publisher_url": "https://pharmaphorum.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1aVDZ5Y3BvTzdKZG5wXzdkMDdvc3lnV05XdlpWN19qV2RLNHJRODNWRXZBWWpETUtPazIycGtpVkdDajVCRVktcFBkNFY4OXBBSEN1Zk4zWnprc09MNjV5Ym4wYlk1dktOcnlRTG1ZTDZZdW1Wa0RyYll3?oc=5",
+      "published_at": "2026-10-16T13:34:52+00:00",
       "regions": [
         "europa"
+      ]
+    },
+    {
+      "title": "Roche makes class-first push into thyroid eye disease with new FDA nod for Enspryng",
+      "publisher": "Fierce Pharma",
+      "publisher_url": "https://www.fiercepharma.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPY01xdGFxMzBtR3Bna0FYRWxRc0RtQkw5SU1pY2tUWkRsODgxX0R2eWRycVZVUGIyc3p1amFINkVQNmRvdVIxcFB0WEd4MDlsS21uUmZ1bHVoa1p6ZUJ3aUF6Wl9kZmhaRk9oN0FqQk5GY0VnSEplS2w4OG9oVi1HR0JmNFBXSmdha3FVdVUwaUxFckhza0RqV0o4dE00NzEzenJ5ZHBTSkg?oc=5",
+      "published_at": "2026-10-16T13:26:03+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Eli Lilly's weight-loss pill wins EU drug regulator's backing",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUTZHdm94VW1Ya3BOUDQtTjB5UjRIOUc1RGJKM09ubjlUcWZtS3Q0RU1PbnYxT21wUEUydXh6MXdqUXphU1JXRnJaM0padHMwZUotVGJ2YVlfNUs5c0ctbGJpUUEtVXg3dl9QYVl6VllubGNzeFZQWkNINk9KWmdna3RpQlV5ekxJVkdRZ2tDUFhUYTBoQUJLNFNldXRBMkhqYWc?oc=5",
+      "published_at": "2026-10-16T13:19:03+00:00",
+      "regions": [
+        "europa",
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Armed police arrest group on suspicion of drug supply in Chesterfield",
+      "publisher": "BBC",
+      "publisher_url": "https://www.bbc.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBXekhQVEVqZlZjMWd4T1Z0dlNjMENWdVBaODFobzZOSkZKamhWaGVIZzBQUmQzNWtyU01Gb0Z4cVJRaVpud0JSWlJSamZydGJpVmJ3c0tVdWxUM1RDT0E?oc=5",
+      "published_at": "2026-10-16T12:31:49+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "Actinium Pharmaceuticals Announces Oral and Poster Presentations at EANM 2026 Highlighting Broad Antitumor Activity of ATNM-400 Across Lung, Colorectal and Ovarian Cancer Models – Company Announcement",
+      "publisher": "Financial Times",
+      "publisher_url": "https://markets.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQT0hNN09nd0l0U3VSNzdycE9rQ3JiVmNQUURxcHRWYlRwb21mSUtEMTBQcXMyblJtR1N2Uk5ua2RhRVFRWXlrcXFjQWR0MmpGYzAzNU1HNEFqdjJSSWZ6enZPaEtJcjY2eEhPLUNNTGhZNjRuTmZKWHRkQnB4U1Jxa2VFMFhBMlNfX3FFSmJUMWZBRUR5OWJMcw?oc=5",
+      "published_at": "2026-10-16T12:30:00+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "From Taiwan to the World: PharmaEssentia Expands Global Reach With New Drug Approvals, Overseas Investments",
+      "publisher": "Financial Times",
+      "publisher_url": "https://markets.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTmRBNl8wV3dtTGtmbzZOT2d4Yi1NXzlYYm9KU01uZGh4VG4tRF9sdFpRZjN5X3hIcjRZTUlPZDNaUUlaTldIdzg3OVNZTS1nd2VHQmFYTGpPbEtzWnBKOWtCTWNJZ1ZrNWxNSVRoMUxEZ3Uxdm5VZFA5QXZMWjRwMnBUWXpZTk5STzNGbjJza3I5WmdYQzd0Y3RFcmREVG1jenp2emZB?oc=5",
+      "published_at": "2026-10-16T12:01:00+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "Trump increased investments in drugmakers that benefited from Medicare exemptions, Democrats say",
+      "publisher": "AP News",
+      "publisher_url": "https://apnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNE45aEJ5TTExZmJlbkNyalU5czVGUUs1cXRPZ1Ntb1lKN1dCeldVYmhQcVFiNGc4TWN2WWl3dExLbWNqTjNYakhxeHJ4MlpQZFR4cFIxS19TdVg1SFMxTnlKQmdZOFZoczdRakh2NHVnOUtUcEtXTXU2NXhvelgtU3AyakxsakhaZFN3MGc4M2ltNlFCSWVROGpqcUhMWUhWNW9UbkUzbWMtMHZfcDA3NGFlVmZYcVAt?oc=5",
+      "published_at": "2026-10-16T12:01:00+00:00",
+      "regions": [
+        "global"
+      ]
+    },
+    {
+      "title": "Fierce Pharma Asia—Roche’s $1.2B obesity deal; Asahi Kasei’s FDA nod; Verastem’s KRAS boon",
+      "publisher": "Fierce Pharma",
+      "publisher_url": "https://www.fiercepharma.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWnZzbGJBVzRuMlpXdmMwaFdlSC0xTmVjOEtPOEFBYjRhaGs4ZTl1WFY4OEs2c3U5eWxtWUFldEZkTXcwbGctODZHbVlTZllLcTg5dHhoRVJIdkt4V3R5RHZDN2NOS0g1VDVDbDNIbTl6MnpaeWZNYU5KbEJBblpRNXdTcUphbjhJbmFlOVlKaUVvZ0FMQ0pVSHV0MjhLZw?oc=5",
+      "published_at": "2026-10-16T11:57:53+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Samurai sword, £70k and gun seized in drug raids",
+      "publisher": "BBC",
+      "publisher_url": "https://www.bbc.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9SVjJHQzZoeWt1M1JselZvNm5tWmxBX193OThJdnc0MDQyU2JFX1pRNzlMc1kzaDZ0VFNMZ1U3clVBWFQzcjRfSFBlMjJKQnZaVld4aUp1czVub2o3SGc?oc=5",
+      "published_at": "2026-10-16T11:52:16+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "Actinium Pharmaceuticals Appoints Radiopharmaceutical Industry Veteran Sean Maenpaa as Senior Vice President, Business Development – Company Announcement - FT.com",
+      "publisher": "Financial Times",
+      "publisher_url": "https://markets.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcjlEcmJlcXUxUU9DaGEwaU9ZYnhzd0YwQ1YtNEhRaUdpbkh0UklfaTRjblRKbU9xNnAzcS1PeG1zUGpTRVJGX0xlZ1U1RnN3MzhDaGlsZXN0V1pweUQ2VUJzNDhRbFVrUHl5OUc2YlBXeUZuWUprLVpoWWhybkZONkZsdUhwNWhUMlFMdXl2dnNnTTBURE1iSw?oc=5",
+      "published_at": "2026-10-16T11:30:00+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "Ironwood Pharmaceuticals Appoints Tammi Gaskins as Chief Executive Officer – Company Announcement",
+      "publisher": "Financial Times",
+      "publisher_url": "https://markets.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZGtVeFFOUWZJLWJ5Y2lOdTZfdmlmMWgtZE0tMzRfU2lmVHhwZzkzVjZZSHRUMWVicXJHQTlvWWp1Uk1wU3RaSGIzSmFPOEREVURIZGNVYUVnLWlRQzFlQ1VKWjl3aDdzYWNPVWZFWXRJNjVyVGdNNTNJQ3lJNGJXQmhQdF9ncXdtZ3FJNERfOVFJS2I5QkVlT2N1VGhHaXJsQWZ3eVh3?oc=5",
+      "published_at": "2026-10-16T11:30:00+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "Next-gen RNAi drugmaker City prices $200M IPO",
+      "publisher": "BioPharma Dive",
+      "publisher_url": "https://www.biopharmadive.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQU2xOX25FbElYTnN6NVNRc3pfVWNmaHNpY1h5dHlEanpUZk9KdXRVTy0xSjZobS1ySjN0UjNqSnBzRXNHMkRNTzQxNmtoY2llUHJXaGdSeG5NaXU1dW41STJIckRidHR6LWtoa3hwRWVhcUtKWmxKX1F0UTRGRl9ra2VoYU5QbTFm?oc=5",
+      "published_at": "2026-10-16T10:53:31+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "FDA clears Roche's Enspryng for thyroid eye disease",
+      "publisher": "pharmaphorum",
+      "publisher_url": "https://pharmaphorum.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPT1BIRHVpZFpzRTNkLUhtTWsxMC1VVnRNdHJKSV9ZczhiOUtrMzQ3LWJjcVFPUWRQWkZZNzYwTXJQaUpSVHYtWGItUmpzU2VXQTJPNkFObTA2MEZTTWZXRDZQelVJNGVZc0NndnRzUzhkTEhvRDYwaG5EaWpfSkQ2a0NB?oc=5",
+      "published_at": "2026-10-16T10:43:03+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "Gang jailed for drug dealing and money laundering",
+      "publisher": "BBC",
+      "publisher_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fREhITF83QndwbWpEdUlMSmxfVDdrWHhFcWZvaVFRUmFpVnpRRXlnaFdHcmVvMGlMR3BtcGEwakFJSmR6RTJSNmlQOXAySWZ0VWlVZGUwd2lMeWc?oc=5",
+      "published_at": "2026-10-16T10:17:50+00:00",
+      "regions": [
+        "europa",
+        "global"
       ]
     },
     {
@@ -74,24 +232,32 @@
       ]
     },
     {
+      "title": "Trump Hasn’t Lowered Drug Prices for These Voters",
+      "publisher": "The New York Times",
+      "publisher_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQenBxWTBYNVpDV1FVaW5XM0RzeFktWXNLMm1GUDllNUNMcE1JSThoRFd5TWtLZVpvbTVoV2ZpOEVwRlR3blV1RHdVWGR0Zk5nclQtQW9tNFRQSGhieXg0RWw1WnJsQTVBVlFjbE4tWmhhQkpRa084Vzdld3BmdE1hQjR3SlB2TjE4R2JBQlV0N1dCZ01pcDZodXZ6Vm5vXzg?oc=5",
+      "published_at": "2026-10-16T09:01:22+00:00",
+      "regions": [
+        "usa"
+      ]
+    },
+    {
+      "title": "Is Longevity Medicine Going Mainstream?",
+      "publisher": "The New York Times",
+      "publisher_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSGFscjdlVkpSTGZWNTBfOGJJcUdUbk5YYXJqT3A3WF9PUFdONy1QZDV5YWlLQk54NzlBdGlDbDlScUhlTk44NTVoLVNydXM5ckNYOVRTS3BWeVBMVTFBVDY1T2hiVGJ5UXI4Wkl0LWc0eXNya0Nkd2xNM1RZcDV1YVNJNDQ?oc=5",
+      "published_at": "2026-10-16T09:00:20+00:00",
+      "regions": [
+        "usa"
+      ]
+    },
+    {
       "title": "Drugmakers, PhRMA seek to intervene in hospitals' 340B rebate challenge",
       "publisher": "Fierce Healthcare",
       "publisher_url": "https://www.fiercepharma.com",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUkxVeF8wX2hPVW12TjFnWWtsU3JCZlB2LUdFWE1sZ3ZqYnVmcFJDUFYwWnVtcjFkWWZiSEFnRUdESF9Hem5Temt0YXZlRnE2UWVjR1pvZUVVQXRsOEdrd3I3NUp1bkZvSElhTzg2ZXNCT2M5REUxYVhaN185UEZXbW93bUlfUlRyZVFJeHE0T2h3VklEbTI5ZFlmdzM0UmZNX1RENV9yTQ?oc=5",
       "published_at": "2026-10-16T08:44:36+00:00",
       "regions": [
-        "global",
-        "usa"
-      ]
-    },
-    {
-      "title": "China proposes adding 40 AI, biotech, solar technologies to export control list",
-      "publisher": "Reuters",
-      "publisher_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMWNnS1haU3c5T3lybTBzQUNxZF9lMmhWaFp0Yk5UbzhDdklobHpkRHk2dExFU1dWZmVMVENFNEVLOW9JWDdscm15VDhObXhhc1JwYjlIelZjeFJuMG9jVERmTHRNRTZtSlBRYndNc2IxZTRkdWtPUGdlWDhoSEZQTHVZNzIwMFUzWVhjT3gxUWl1X2VpM1VOM29BZElFRjlaek1uRDFQb2N5aF9FTlF4U1N4WFZRVmtyUTBLdmVJc0Rzb3E2NkZ5ZQ?oc=5",
-      "published_at": "2026-10-16T08:43:39+00:00",
-      "regions": [
-        "europa",
         "global",
         "usa"
       ]
@@ -108,10 +274,10 @@
       ]
     },
     {
-      "title": "AI in drug discovery & development: News watch, October 2026",
+      "title": "AI in drug discovery and development: news watch",
       "publisher": "pharmaphorum",
       "publisher_url": "https://pharmaphorum.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcHhRVVIzR014YWxkeGZlV1liMUFWU2NCNmNWNGRpSWtzckxreFVKajF3WklXWjRhVDJBanV3RzNZRmN4X0xBWm9SLXktVE1uZXUzZ0t0aDJ4OUtXcVptaGdqQmwyUjRZenVINjBxZFRPYkFFUzFwa1NId2J6b0xONm1KcHpwZXJRN0l3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZldEZEVDQWlianFNMW12T0swVmFYQ051cFNvNjZsbkt5YTJ0YnhOWGdBV29BTHo3RW1BSFBOWVBoc2lSSUlVOWxvV3RHTlptNk9JZWFFcG1aMDlWa25qaDFaRU9CQXloaUhoRWM0anh0MHk0ZG9Xc1V2bGRocmJzekNR?oc=5",
       "published_at": "2026-10-16T08:09:56+00:00",
       "regions": [
         "europa"
