@@ -1,7 +1,7 @@
 {
   "date": "2026-10-16",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-16T19:46:53+00:00",
+  "checked_at": "2026-10-16T23:38:40+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -19,7 +19,7 @@
     "centroamerica": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 1
     },
     "mexico": {
       "ok": true,
@@ -29,20 +29,50 @@
     "usa": {
       "ok": true,
       "error": null,
-      "count": 13
+      "count": 14
     },
     "europa": {
       "ok": true,
       "error": null,
-      "count": 15
+      "count": 21
     },
     "global": {
       "ok": true,
       "error": null,
-      "count": 12
+      "count": 13
     }
   },
   "items": [
+    {
+      "title": "Adulto mayor viajó por medicamentos y murió atropellado en la carretera CA-5",
+      "publisher": "LaPrensa.hn",
+      "publisher_url": "https://www.laprensa.hn",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNHk4YVVJSlNXcmMwOXJkVUpyWVd5VnJiS1RVOWp2UGhIUExpSEVCbjgycXBMMllLVmlhSzVHdXQ1OGJ1M1h4OW5fRkFEaHFhY2lINC1zbk5nQ0dpcGt5VlR0aW1XVnhWUjB6QjdBdWtrUnRPdjJHZ1BFYzBOODgtbnpMZHJvcnZ6Mk5fLTB4MlNNMUdkaWZUTGZ4OWlBN3VLRDZ2bWZ4ZEFaTUE?oc=5",
+      "published_at": "2026-10-16T21:15:00+00:00",
+      "regions": [
+        "centroamerica"
+      ]
+    },
+    {
+      "title": "Viatris Receives U.S. FDA Approval for RYZUMVI® for the Treatment of Presbyopia – Company Announcement",
+      "publisher": "Financial Times",
+      "publisher_url": "https://markets.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMVRQSkxQbE9hLVYtUnpkY3hyVmplY0otNEZqZURJN2xqaEdHSUdFWlJoUXpOMF9LbmRzRFU4OGVqTUdzcS0zaGNqUmFhTGlqY2VhdWxkX3dibFJMWDNkRE5fNnczdE1yczRDUU9WOVktUnBEcW1TOVFFYWpIcXROTjZMVmZud0JJbFBSdnR3U010VEMwa2dRLQ?oc=5",
+      "published_at": "2026-10-16T20:05:00+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "Kennedy Pledged to Advance Anti-Vaccine Group’s Agenda. Here’s What He Is Doing.",
+      "publisher": "The New York Times",
+      "publisher_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE92SEN5Q2VPcEVrSEQzT2xNcW13cF9raWdvMWJqN0dobU0xcFVCcW42Uk9DMmdiS2VkVGQ4OThZQ1o5ZGdkYm41bkg0eXIxdnJuT29xNkZZQnlYZldSWC1mU2ltN1lXbUFOOVZYaUxCMVl1QmtJN05N?oc=5",
+      "published_at": "2026-10-16T18:57:45+00:00",
+      "regions": [
+        "usa"
+      ]
+    },
     {
       "title": "Trump's pharma holdings surged as drugmakers benefited from Medicare price negotiation carveouts, Democrats allege",
       "publisher": "Fierce Pharma",
@@ -52,6 +82,17 @@
       "regions": [
         "global",
         "usa"
+      ]
+    },
+    {
+      "title": "Liverpool School of Tropical Medicine warns of cuts",
+      "publisher": "BBC",
+      "publisher_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DeVVvZ3NCazdxTzdtU3pQMVRzbllXZXdxNU9xYUJ5eGk1cm1lcTFHM013VjgteFhTb0RrSXFpaEFWekZqaHhfM1VDUThpdENlWlRJc1VDY0NfbG8?oc=5",
+      "published_at": "2026-10-16T16:38:31+00:00",
+      "regions": [
+        "europa",
+        "global"
       ]
     },
     {
@@ -93,6 +134,16 @@
       "publisher_url": "https://markets.ft.com",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPenMwMUpfZC1rWEpUX0M5V2JPWW5PRHpfZXBJSHBuQS1TbUVtSGstVjVVMWFnaHF2ODQ5cDRWTmhEZlVuMEt4Z0NfZE1JTW95dWJlT3RjVy1VWjJmODFtQjB0YTFxOF94YjlTa2dnWlBWdUN6M1dnTUJSbU1IMmVRTC0yWXplUWFYdjFZSFQ4Y29CZnpp?oc=5",
       "published_at": "2026-10-16T16:24:00+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "Stockport Drug and Rape Trial: Pensioner Admits Rape",
+      "publisher": "BBC",
+      "publisher_url": "https://www.bbc.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9NYVBJem1RWjJLYXpTUDlndVBtekVrcTgyQkhnd0xmMU5qRmpYZV92SFhySXBNVWpRdlpTX2h1dC03WU51NEZ3X2t2WUdkWjIzdWpVTA?oc=5",
+      "published_at": "2026-10-16T16:14:09+00:00",
       "regions": [
         "europa"
       ]
@@ -174,11 +225,41 @@
       ]
     },
     {
+      "title": "Armed police arrest group on suspicion of drug supply in Chesterfield",
+      "publisher": "BBC",
+      "publisher_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYTNOTnFnV3hCMXZNY29QVjVkVWVoa0oyZUd4aW5UYVoxc2s4SXU2OFVvTlFkVElCd3R3R2p3MGRpS3hiaDM2Wlc1bUp1Njg4bzFiTXNUOHBXMFhSRDlBQjZZN2YwV0hmcExHa0VXT3FpalVVV0pqUmRLcnMwTVdnZDI3a0dHNWJIYlVNaS1selViU1dkY2FXaXdZSVhCNVFqRGxHTFMwbms0em9wZVE3Yks0eE1BdVRwMi1Vc1c5RmRfNjJwbUx4RHdnU3dLRXVjaklF?oc=5",
+      "published_at": "2026-10-16T12:31:49+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
       "title": "Actinium Pharmaceuticals Announces Oral and Poster Presentations at EANM 2026 Highlighting Broad Antitumor Activity of ATNM-400 Across Lung, Colorectal and Ovarian Cancer Models – Company Announcement",
       "publisher": "Financial Times",
       "publisher_url": "https://markets.ft.com",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQT0hNN09nd0l0U3VSNzdycE9rQ3JiVmNQUURxcHRWYlRwb21mSUtEMTBQcXMyblJtR1N2Uk5ua2RhRVFRWXlrcXFjQWR0MmpGYzAzNU1HNEFqdjJSSWZ6enZPaEtJcjY2eEhPLUNNTGhZNjRuTmZKWHRkQnB4U1Jxa2VFMFhBMlNfX3FFSmJUMWZBRUR5OWJMcw?oc=5",
       "published_at": "2026-10-16T12:30:00+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "From PV to ET to PMF, PharmaEssentia Has Come A Long Way in Fighting Diseases – Company Announcement",
+      "publisher": "Financial Times",
+      "publisher_url": "https://markets.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVzZXbVpydDVaOGxCaENxZzhoYTFWeHduT29IbDN2eVRVVmI0SjF4bTdrWXlEZDRHLWRIeGpvU3VDZk9rTEtmdGpqZ08xNjlNSzBqRG16SEdBby1seEFSVF9rRV9NVGdsOEZ4ZEs3Y08wcXk0OGJYVmx1SEFaRnBSa213WkpIOTlJMjI1c1RnUmtaaHpsRXk5VzdQU2djdkxtcldvMlFn?oc=5",
+      "published_at": "2026-10-16T12:15:00+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "From Taiwan to the World: PharmaEssentia Builds a Scientist-Led, Fully Integrated Global Biopharmaceutical Company with Patients at Its Core – Company Announcement",
+      "publisher": "Financial Times",
+      "publisher_url": "https://markets.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONTlpQm9ZQTdkRGxhbFpHTUFISzJyanVJZ2tGazluXzAzT1FQUms2ejNtWDY2RG14NFNES2RJaW9Tamx4cjNMbzhZZElzSy1PMjU0ZERoU0xrbE45RU1kZ2pmRTJWSVNUT0xKSXQ5Y2VUd3hsV0NxR2R3ZFJBVU5rVmdKekxqRWhrZ0t0UnBRS1IwVjZ5SGZCUjdqUWZyQThfcldGUm53?oc=5",
+      "published_at": "2026-10-16T12:12:00+00:00",
       "regions": [
         "europa"
       ]
@@ -209,16 +290,6 @@
       "publisher": "Financial Times",
       "publisher_url": "https://markets.ft.com",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcjlEcmJlcXUxUU9DaGEwaU9ZYnhzd0YwQ1YtNEhRaUdpbkh0UklfaTRjblRKbU9xNnAzcS1PeG1zUGpTRVJGX0xlZ1U1RnN3MzhDaGlsZXN0V1pweUQ2VUJzNDhRbFVrUHl5OUc2YlBXeUZuWUprLVpoWWhybkZONkZsdUhwNWhUMlFMdXl2dnNnTTBURE1iSw?oc=5",
-      "published_at": "2026-10-16T11:30:00+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "Ironwood Pharmaceuticals Appoints Tammi Gaskins as Chief Executive Officer – Company Announcement",
-      "publisher": "Financial Times",
-      "publisher_url": "https://markets.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZGtVeFFOUWZJLWJ5Y2lOdTZfdmlmMWgtZE0tMzRfU2lmVHhwZzkzVjZZSHRUMWVicXJHQTlvWWp1Uk1wU3RaSGIzSmFPOEREVURIZGNVYUVnLWlRQzFlQ1VKWjl3aDdzYWNPVWZFWXRJNjVyVGdNNTNJQ3lJNGJXQmhQdF9ncXdtZ3FJNERfOVFJS2I5QkVlT2N1VGhHaXJsQWZ3eVh3?oc=5",
       "published_at": "2026-10-16T11:30:00+00:00",
       "regions": [
         "europa"

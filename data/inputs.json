@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-16T19:46:26+00:00",
+  "checked_at": "2026-10-16T23:38:13+00:00",
   "series": {
     "aluminum": {
       "name": "Aluminio primario",
@@ -1841,48 +1841,48 @@
       ],
       "period": "2026-09",
       "value": 1.28,
-      "verified_at": "2026-10-16T19:46:26+00:00"
+      "verified_at": "2026-10-16T23:38:13+00:00"
     }
   },
   "source_health": {
     "aluminum": {
       "ok": false,
-      "checked_at": "2026-10-16T19:46:26+00:00",
+      "checked_at": "2026-10-16T23:38:13+00:00",
       "error": "ReadTimeout: fuente no verificable en esta consulta"
     },
     "resins": {
       "ok": false,
-      "checked_at": "2026-10-16T19:46:26+00:00",
+      "checked_at": "2026-10-16T23:38:13+00:00",
       "error": "ReadTimeout: fuente no verificable en esta consulta"
     },
     "corrugated": {
       "ok": false,
-      "checked_at": "2026-10-16T19:46:26+00:00",
+      "checked_at": "2026-10-16T23:38:13+00:00",
       "error": "ReadTimeout: fuente no verificable en esta consulta"
     },
     "paperboard": {
       "ok": false,
-      "checked_at": "2026-10-16T19:46:26+00:00",
+      "checked_at": "2026-10-16T23:38:13+00:00",
       "error": "ReadTimeout: fuente no verificable en esta consulta"
     },
     "ethanol": {
       "ok": false,
-      "checked_at": "2026-10-16T19:46:26+00:00",
+      "checked_at": "2026-10-16T23:38:13+00:00",
       "error": "ReadTimeout: fuente no verificable en esta consulta"
     },
     "sugar": {
       "ok": false,
-      "checked_at": "2026-10-16T19:46:26+00:00",
+      "checked_at": "2026-10-16T23:38:13+00:00",
       "error": "ReadTimeout: fuente no verificable en esta consulta"
     },
     "gscpi": {
       "ok": true,
-      "checked_at": "2026-10-16T19:46:26+00:00",
+      "checked_at": "2026-10-16T23:38:13+00:00",
       "error": null
     },
     "fda": {
       "ok": true,
-      "checked_at": "2026-10-16T19:46:26+00:00",
+      "checked_at": "2026-10-16T23:38:13+00:00",
       "error": null
     }
   },
@@ -2245,6 +2245,6 @@
         "presentations": []
       }
     ],
-    "verified_at": "2026-10-16T19:46:26+00:00"
+    "verified_at": "2026-10-16T23:38:13+00:00"
   }
 }
