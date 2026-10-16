@@ -1,6 +1,7 @@
 """Read public primary sources; preserve dated observations when a source fails."""
 from pathlib import Path
 from datetime import datetime, timezone, timedelta
+from zoneinfo import ZoneInfo
 from concurrent.futures import ThreadPoolExecutor
 from urllib.parse import urljoin
 import json, re, requests
@@ -104,19 +105,45 @@ def inflation_us():
         if payload.get('status')!='REQUEST_SUCCEEDED':raise ValueError('BLS API no disponible')
         series=payload['Results']['series']
         if not series or series[0]['seriesID']!='CUUR0000SA0':raise ValueError('Serie CPI-U incorrecta')
-        values={f"{x['year']}-{int(x['period'][1:]):02d}":float(x['value']) for x in series[0]['data'] if re.fullmatch(r'M(?:0[1-9]|1[0-2])',x['period'])}
+        values={f"{x['year']}-{int(x['period'][1:]):02d}":float(x['value']) for x in series[0]['data'] if re.fullmatch(r'M(?:0[1-9]|1[0-2])',x['period']) and re.fullmatch(r'-?\d+(?:\.\d+)?',str(x['value']))}
         latest=max(values);prior=f'{int(latest[:4])-1}{latest[4:]}'
         if prior not in values or values[prior]<=0:raise ValueError('Falta el mes comparable del CPI-U')
         value=round((values[latest]/values[prior]-1)*100,1)
         return {'value':value,'period':latest,'source':'BLS · CPI-U','url':CPI,'unit':'percent','series_id':'CUUR0000SA0','description':'Inflación general interanual · sin ajuste estacional'}
 
-def sp500():
+def sp500_fred():
     content=text(page(SP500))
     m=re.search(r'Observations\s+(\d{4}-\d{2}-\d{2}):\s*([\d,]+(?:\.\d+)?)',content)
     if not m:raise ValueError('No se encontró un cierre fechado del S&P 500')
     value=float(m[2].replace(',',''))
     if not 100 <= value <= 100000:raise ValueError('S&P 500 fuera de rango')
     return {'value':value,'period':m[1],'source':'S&P Dow Jones Indices · FRED','url':SP500,'unit':'index_points','description':'Último cierre publicado · puntos del índice'}
+
+def sp500_yahoo(now=None):
+    url='https://query1.finance.yahoo.com/v8/finance/chart/%5EGSPC?range=5d&interval=1d'
+    r=requests.get(url,headers={'User-Agent':'Mozilla/5.0'},timeout=25);r.raise_for_status()
+    results=r.json().get('chart',{}).get('result')
+    if not results:raise ValueError('No se recibieron cierres del S&P 500')
+    x=results[0];meta=x['meta']
+    if meta.get('symbol')!='^GSPC':raise ValueError('Símbolo incorrecto: se requiere el índice S&P 500')
+    tz=ZoneInfo('America/New_York');now=now or datetime.now(timezone.utc)
+    regular_end=datetime.fromtimestamp(meta['currentTradingPeriod']['regular']['end'],timezone.utc)
+    session_day=regular_end.astimezone(tz).date()
+    closes=x['indicators']['quote'][0]['close'];observations=[]
+    for ts,value in zip(x['timestamp'],closes):
+        day=datetime.fromtimestamp(ts,timezone.utc).astimezone(tz).date()
+        if value is None or day>now.astimezone(tz).date():continue
+        # A daily candle for the current session is still an intraday quote.
+        if day>=session_day and now<regular_end+timedelta(minutes=15):continue
+        value=float(value)
+        if 100 <= value <= 100000:observations.append((day.isoformat(),round(value,2)))
+    if not observations:raise ValueError('No hay una sesión completada del S&P 500')
+    period,value=max(observations)
+    return {'value':value,'period':period,'source':'Yahoo Finance · S&P 500','url':'https://finance.yahoo.com/quote/%5EGSPC/','unit':'index_points','description':'Último cierre publicado · puntos del índice'}
+
+def sp500():
+    try:return sp500_fred()
+    except (requests.RequestException,ValueError):return sp500_yahoo()
 
 def pmi(kind, previous):
     sub='pmi' if kind=='manufacturing' else 'services'
