@@ -200,8 +200,6 @@ def containers():
 
 COMMODITIES = {
     'wti': ('DCOILWTICO', 'usd_barrel', 'WTI spot · Cushing, Oklahoma · US$/barril'),
-    'diesel': ('DDFUELUSGULF', 'usd_gallon', 'Diésel ULSD spot · Costa del Golfo, EE. UU. · US$/galón'),
-    'gasoline': ('DGASUSGULF', 'usd_gallon', 'Gasolina regular convencional spot · Costa del Golfo, EE. UU. · US$/galón'),
 }
 
 def commodity(key):
@@ -265,8 +263,11 @@ def remittances():
 
 def main():
     p=json.loads(DATA.read_text()) if DATA.exists() else {'series':{}}
+    for removed in ('diesel','gasoline'):
+        p.get('series',{}).pop(removed,None)
+        p.get('source_health',{}).pop(removed,None)
     now=datetime.now(timezone.utc).isoformat(timespec='seconds')
-    jobs={'wti':lambda:commodity('wti'),'diesel':lambda:commodity('diesel'),'gasoline':lambda:commodity('gasoline'),'gold':gold,'remittances_ytd':remittances,'inflation_us_yoy':inflation_us,'sp500':sp500,'fed_rate':fed,'treasury_10y':treasury,'ism_manufacturing':lambda:pmi('manufacturing',p['series'].get('ism_manufacturing',{})),'ism_services':lambda:pmi('services',p['series'].get('ism_services',{})),'world_container_index':containers}
+    jobs={'wti':lambda:commodity('wti'),'gold':gold,'remittances_ytd':remittances,'inflation_us_yoy':inflation_us,'sp500':sp500,'fed_rate':fed,'treasury_10y':treasury,'ism_manufacturing':lambda:pmi('manufacturing',p['series'].get('ism_manufacturing',{})),'ism_services':lambda:pmi('services',p['series'].get('ism_services',{})),'world_container_index':containers}
     def run(k):
         try:
             x=jobs[k]()

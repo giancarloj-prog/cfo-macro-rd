@@ -71,26 +71,6 @@
       "series_id": "DCOILWTICO",
       "verified_at": "2026-10-16T22:00:12+00:00"
     },
-    "diesel": {
-      "value": 4.844,
-      "period": "2026-10-14",
-      "unit": "usd_gallon",
-      "source": "EIA · FRED",
-      "url": "https://fred.stlouisfed.org/series/DDFUELUSGULF",
-      "description": "Diésel ULSD spot · Costa del Golfo, EE. UU. · US$/galón",
-      "series_id": "DDFUELUSGULF",
-      "verified_at": "2026-10-16T22:00:12+00:00"
-    },
-    "gasoline": {
-      "value": 3.525,
-      "period": "2026-10-14",
-      "unit": "usd_gallon",
-      "source": "EIA · FRED",
-      "url": "https://fred.stlouisfed.org/series/DGASUSGULF",
-      "description": "Gasolina regular convencional spot · Costa del Golfo, EE. UU. · US$/galón",
-      "series_id": "DGASUSGULF",
-      "verified_at": "2026-10-16T22:00:12+00:00"
-    },
     "gold": {
       "value": 4170.1,
       "period": "2026-10-15",
@@ -114,16 +94,6 @@
   "checked_at": "2026-10-16T23:37:01+00:00",
   "source_health": {
     "wti": {
-      "ok": false,
-      "checked_at": "2026-10-16T23:37:01+00:00",
-      "error": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=35)"
-    },
-    "diesel": {
-      "ok": false,
-      "checked_at": "2026-10-16T23:37:01+00:00",
-      "error": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=35)"
-    },
-    "gasoline": {
       "ok": false,
       "checked_at": "2026-10-16T23:37:01+00:00",
       "error": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=35)"
