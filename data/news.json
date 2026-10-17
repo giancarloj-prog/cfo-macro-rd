@@ -1,7 +1,7 @@
 {
   "date": "2026-10-17",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-17T14:13:14+00:00",
+  "checked_at": "2026-10-17T18:58:10+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -24,7 +24,7 @@
     "mexico": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 4
     },
     "usa": {
       "ok": true,
@@ -34,7 +34,7 @@
     "europa": {
       "ok": true,
       "error": null,
-      "count": 2
+      "count": 1
     },
     "global": {
       "ok": true,
@@ -44,11 +44,41 @@
   },
   "items": [
     {
-      "title": "Cupón Farmacias del Ahorro: hasta 70% en Octubre 2026",
+      "title": "Inicia campaña de vacunación contra Influenza y COVID en Guanajuato por temporada invernal; suman más de 900 p",
+      "publisher": "Milenio",
+      "publisher_url": "https://www.milenio.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObnJuS2ZJbmlaOUc2SFlHSE9tcnFrdF9GYy12NHEwS2hRQlBkcmFWdnF1dGtYNkVrRTVEVC1INFNJNFBOYVRHWnNXblNGLVRKbVE4YXVGUDMyWGhQbUI5RWdPLU1KandMc3BWTTNVLTFkQVpGcjh6UnhaWVQ3dXgzNGU5eXlhVUhMeUw2MW9RTXVtODlTU0Z5QWd5QnNjbkHSAZ8BQVVfeXFMT0VMcVN1QTE1YmljX2dNRDBZNzZPcm1DT09NbUp2RVl3aU1YY0tOV3ZjRHAwcTRyN1lHSFg0MHlHbERlb2JKZHRLb1d5aGVBeko3clhGNG54Zm4taU9neVhXa1VxeFpKTjZEeWNUUC0tbXBjT0VSX1BEdnlrZkRSSjYxd2s2ZE5yYkFYQi1mZzBTYjZ5MFIyZm9NRFpUWXpr?oc=5",
+      "published_at": "2026-10-17T18:28:00+00:00",
+      "regions": [
+        "mexico"
+      ]
+    },
+    {
+      "title": "Perfilan a Hidalgo como potencia clave para el sector farmacéutico",
+      "publisher": "Milenio",
+      "publisher_url": "https://amp.milenio.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbGkyOS1vLUNnODRlcDluMk1OM3JoMUZsLTJ5MjVVdlI3dVNPbm12YVpETXdsZHMwV0h4Y08xb2NwbHJ4MWNFeDQtWVlRdnFkUWhpV2dlSmp4NE9IUURIVlNjdUZkX2pMUUd5WHBnUVNxcTBUV091MVZwTW9Hckd0SnhaY0JtUU80YTktQVpPVmFoZ3fSAZMBQVVfeXFMT2xpMjktby1DZzg0ZXA5bjJNTjNyaDFGbC0yeTI1VXZSN3VTT25tdmFaRE13bGRzMFdIeGNPMW9jcGxyeDFjRXg0LVlZUXZxZFFoaVdnZUpqeDRPSFFESFZTY3VGZF9qTFFHeVhwZ1FTcXEwVFdPdTFWcE1vR3JHdEp4WmNCbVFPNGE5LUFaT1ZhaGd3?oc=5",
+      "published_at": "2026-10-17T16:53:36+00:00",
+      "regions": [
+        "mexico"
+      ]
+    },
+    {
+      "title": "Microgravedad: Diseñar medicamentos en el espacio exterior ya no es ciencia ficción, es ciencia aplicada",
+      "publisher": "El Economista",
+      "publisher_url": "https://www.eleconomista.com.mx",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTEVJXzR1amh2UU1ndzQtZkdkVXZ5R2ZDUldGWkxReUNVYVZyZDNDelQ2VnQ0QkYyUHVDVGNRcUZnc3lPVklRTkdYbFc4dG82Y3ZIWG5qNC1IelRZZUg5QWQ3V05QTXZXLTFBUVE5dE1oSERsbndmZjV1cUQwU3pYbzZrSVpFNkNFOENKOGpzbTFkdEdONG16WFN5b3QzN3F4MGY1ZXFDaDh3ZGhrcUg1YjBFa21Gd1BVZEFEa1RJVk90aHpDVEFQazd2aU5CSzUzbUlfbUZIcHdsSnZaN3fSAeMBQVVfeXFMUG05bmwtNmFuTGNBZ19kS1IzRjRBbnhRbmE1OUFjYkJWMzd2SFlyT2FNUFpMQ3RBUm1JVWM5cDJlTldCTTU5dXExQWJNNHlxa1I2em1fM0g2N0JIUTMxWHdYRmdaZ1FXekVyV3VmR2hGelNlcVNTcGdnejA0U0hGWGY4SWtBWmRTakNoTlpWQW9oOHU4X0ZMTW1VZ3RUeklDU3VPc09LUXJuMGZ1QW1Iay1wWXNnZWxEel8zSGUwT2tZSmdrZl9ERkhhdER6Qnp5WVBfMlVRMEl1RjFzVEctdDUtUnc?oc=5",
+      "published_at": "2026-10-17T15:46:44+00:00",
+      "regions": [
+        "mexico"
+      ]
+    },
+    {
+      "title": "Cupón Farmacias del Ahorro en Octubre 2026",
       "publisher": "El Universal",
       "publisher_url": "https://www.eluniversal.com.mx",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVnI0QTNHaVkxbzBYemh6MWZfVjFvT2prNlU0SS1VVE54UHpiU196eTlBVS1zWk0wM3FNbXhrSWlxLXZLZkVjejZ0allBM2w4SFBlSE9BVEJybUVoYWdtRXJsMFlKYi1VNWtaY3gyVUVJQ0w2cmZIc21fRmxPOTBpRUJB?oc=5",
-      "published_at": "2026-10-17T14:10:00+00:00",
+      "published_at": "2026-10-17T14:33:00+00:00",
       "regions": [
         "mexico"
       ]
@@ -59,16 +89,6 @@
       "publisher_url": "https://markets.ft.com",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSVJFYmc0UGVCMW80Zm90SktEbng2ZlNxSlZWSFllZDJLa2M0d0FKR056Vmk1ZkVPejZZNXVNSjRuNE1zYklvcUpPb1pMQk05cWxWTng2OFZ0SzlQc1JNd0c2NGJpWWFlaVpfQ2wwcGh4TWJ2V2l6VEw3VGVLdi11UnBKR0Y0dVRMdTB4ZkdxREtIc0haMWJnUlhJc01rd3BoOHp6dUZR?oc=5",
       "published_at": "2026-10-17T12:30:00+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "Cinclus Pharma",
-      "publisher": "pharmaphorum",
-      "publisher_url": "https://pharmaphorum.com",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5fN3VLRTllSVFNLTNia3FtdzFDYmNTM01qX0xpUFljdEkyU3MzTGttdks3QUNwU2tJV0hleWVyRkRXbGRoc25HUTllX2V1amtRWDJaQnln?oc=5",
-      "published_at": "2026-10-17T04:53:26+00:00",
       "regions": [
         "europa"
       ]
