@@ -1,7 +1,7 @@
 {
   "date": "2026-10-16",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-16T23:38:40+00:00",
+  "checked_at": "2026-10-17T00:03:32+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -85,6 +85,16 @@
       ]
     },
     {
+      "title": "Arthritis drug gives hope for people with alopecia",
+      "publisher": "BBC",
+      "publisher_url": "https://www.bbc.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5kRElWU3o2VXZGU0dwdFBhZUU3MENONzFDTEE3c1d4bFpDNFE1LWl0dzdCX0hVcHFnVlE1MERncHUwZ1VBY3ZTMjYzdjNVUW9vYkxz?oc=5",
+      "published_at": "2026-10-16T17:34:44+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
       "title": "Liverpool School of Tropical Medicine warns of cuts",
       "publisher": "BBC",
       "publisher_url": "https://www.bbc.com",
@@ -134,16 +144,6 @@
       "publisher_url": "https://markets.ft.com",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPenMwMUpfZC1rWEpUX0M5V2JPWW5PRHpfZXBJSHBuQS1TbUVtSGstVjVVMWFnaHF2ODQ5cDRWTmhEZlVuMEt4Z0NfZE1JTW95dWJlT3RjVy1VWjJmODFtQjB0YTFxOF94YjlTa2dnWlBWdUN6M1dnTUJSbU1IMmVRTC0yWXplUWFYdjFZSFQ4Y29CZnpp?oc=5",
       "published_at": "2026-10-16T16:24:00+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "Stockport Drug and Rape Trial: Pensioner Admits Rape",
-      "publisher": "BBC",
-      "publisher_url": "https://www.bbc.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9NYVBJem1RWjJLYXpTUDlndVBtekVrcTgyQkhnd0xmMU5qRmpYZV92SFhySXBNVWpRdlpTX2h1dC03WU51NEZ3X2t2WUdkWjIzdWpVTA?oc=5",
-      "published_at": "2026-10-16T16:14:09+00:00",
       "regions": [
         "europa"
       ]
