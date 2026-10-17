@@ -1,7 +1,7 @@
 {
   "date": "2026-10-17",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-17T18:58:10+00:00",
+  "checked_at": "2026-10-17T23:41:50+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -14,7 +14,7 @@
     "rd": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 2
     },
     "centroamerica": {
       "ok": true,
@@ -24,25 +24,55 @@
     "mexico": {
       "ok": true,
       "error": null,
-      "count": 4
+      "count": 6
     },
     "usa": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 1
     },
     "europa": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 4
     },
     "global": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 1
     }
   },
   "items": [
+    {
+      "title": "IMSS y SNTSS continúan negociaciones sobre incremento salarial, abasto de medicamentos y equipo",
+      "publisher": "Milenio",
+      "publisher_url": "https://amp.milenio.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNX3JCZG5SUXdIeWZkQXZOWVdCX0EzU2trbWVWNDhyLURZaDhFc1JHNkJYRE93QVNFVl9aYnF2SUVZb0VNa2VGNWlsVjFLWVFHQXQ4RjNwNl9LNkJrWFVsN3dmQ1oyTERwdmxQdktCS1M0ZXl1bHU2b293MTdmREhEQ1VwZjd1eGd5V3BoWEhJN0hqczR20gGUAUFVX3lxTE1fckJkblJRd0h5ZmRBdk5ZV0JfQTNTa2ttZVY0OHItRFloOEVzUkc2QlhET3dBU0VWX1picXZJRVlvRU1rZUY1aWxWMUtZUUdBdDhGM3A2X0s2QmtYVWw3d2ZDWjJMRHB2bFB2S0JLUzRleXVsdTZvb3cxN2ZESERDVXBmN3V4Z3lXcGhYSEk3SGpzNHY?oc=5",
+      "published_at": "2026-10-17T23:09:32+00:00",
+      "regions": [
+        "mexico"
+      ]
+    },
+    {
+      "title": "Trump promete a Kentucky una planta farmacéutica si votan por los republicanos",
+      "publisher": "El Nuevo Diario",
+      "publisher_url": "https://elnuevodiario.com.do",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNT1RwNFR4aUkxbjc4UjlhcWtxSG9IUU9XQWFDUC14bVJkSUpMRDBtX1YybEhodGZsbzNURVctWjlfcmt0X3hCYlVsS3RweDNWV2xzRzFkM1lKQzhlN25UblZaUHlnZ3UwNDNYc3BxcHNQcE1hOWxjMDdnUkljNWtHb0J3NW92VkZPUHVjOGQ1WFdOb2lCbHdJejhGRnRabWM0MkhrMVpGcDJBQkUz?oc=5",
+      "published_at": "2026-10-17T22:25:51+00:00",
+      "regions": [
+        "rd"
+      ]
+    },
+    {
+      "title": "Vacuna VPH: A qué edad se aplica, cuánto cuesta y para qué sirve",
+      "publisher": "Milenio",
+      "publisher_url": "https://www.milenio.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZmVZck9RYzhRdnlONTVsb25NTGVaMjR4amZBSnRzckJPMURSSWhueUEwZGk0N1duM201SE1EZGhjZEVwbTFhUHI2YXVJOTB3WXVHTkNHSS1FcmVCMzdUZnpnSjVSQ2dITVVZYWRzbFJZMDJXczFqUHUyajZXNVVxVlEzNmNTNG82RVlPcFJOSTF2RUFrSWpKMtIBmAFBVV95cUxQYU5pNnh1ODJFRlJLd0RJYnozT1RXWEh4ZEQ1S3ozb1BqbHZjRlQyWTlTTURFZ0dBVW01bU4wR0Vpal9uR2UxSEYyazl4SEN5MjZQRzVZeDlRd1hrLWU0RERMTDNIbUtXMWNfaFVqRmxhdUpwN2dCSWFGc2taaWJtWmlFaDU4bUNXN2hDaTF3YURUUFJHNXkxTw?oc=5",
+      "published_at": "2026-10-17T20:38:00+00:00",
+      "regions": [
+        "mexico"
+      ]
+    },
     {
       "title": "Inicia campaña de vacunación contra Influenza y COVID en Guanajuato por temporada invernal; suman más de 900 p",
       "publisher": "Milenio",
@@ -51,6 +81,16 @@
       "published_at": "2026-10-17T18:28:00+00:00",
       "regions": [
         "mexico"
+      ]
+    },
+    {
+      "title": "Teva Pharmaceutical Industries Limited, TEVA1N:MEX profile",
+      "publisher": "Financial Times",
+      "publisher_url": "https://markets.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1vQWh1cmQwR0t3NkE2dGZfc3E5QmdfczVQcEJab1l0Rk9ucVBOQVdQbFFYa0NhZUdvMzVaZUN4T1prWjBfNXFNTHllXzBuSjNxa2tucC1BRjM1UF9Xam5iVnhTaERpTVpuTDZCOUZiWHlXZ0xPR0E?oc=5",
+      "published_at": "2026-10-17T17:37:34+00:00",
+      "regions": [
+        "europa"
       ]
     },
     {
@@ -89,6 +129,28 @@
       "publisher_url": "https://markets.ft.com",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSVJFYmc0UGVCMW80Zm90SktEbng2ZlNxSlZWSFllZDJLa2M0d0FKR056Vmk1ZkVPejZZNXVNSjRuNE1zYklvcUpPb1pMQk05cWxWTng2OFZ0SzlQc1JNd0c2NGJpWWFlaVpfQ2wwcGh4TWJ2V2l6VEw3VGVLdi11UnBKR0Y0dVRMdTB4ZkdxREtIc0haMWJnUlhJc01rd3BoOHp6dUZR?oc=5",
       "published_at": "2026-10-17T12:30:00+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "FDA flags Edwards heart-valve delivery system issue after death, injury",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOalc5TDdscm1MdXk4eDdPdENIaFJ4Tml5Y0Q1Y29NUW9SRnBZQUxRRVk2SWdkaVpVNmRac2toa2JjcGFYUDY1akhJWTRkN0JzZ0F2YzJxVGZqZndQQU5zbWlzWm4ta245WjdNRUpVWVVHZVRfZVQyVjZaa0I5UDd0SUdFd0QzMTd0WWh6QVQ0QUxhYlZTekJHbVQ1a3dxcE1DRUVYczdmal9nZTBacjAzTU1ULXBQNXpaMTNPblltY2E?oc=5",
+      "published_at": "2026-10-17T06:32:55+00:00",
+      "regions": [
+        "europa",
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Cinclus Pharma",
+      "publisher": "pharmaphorum",
+      "publisher_url": "https://pharmaphorum.com",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5fN3VLRTllSVFNLTNia3FtdzFDYmNTM01qX0xpUFljdEkyU3MzTGttdks3QUNwU2tJV0hleWVyRkRXbGRoc25HUTllX2V1amtRWDJaQnln?oc=5",
+      "published_at": "2026-10-17T04:53:26+00:00",
       "regions": [
         "europa"
       ]
