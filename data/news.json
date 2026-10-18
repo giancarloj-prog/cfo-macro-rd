@@ -1,7 +1,7 @@
 {
   "date": "2026-10-18",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-18T14:35:12+00:00",
+  "checked_at": "2026-10-18T19:05:20+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -29,7 +29,7 @@
     "usa": {
       "ok": true,
       "error": null,
-      "count": 2
+      "count": 0
     },
     "europa": {
       "ok": true,
@@ -39,27 +39,27 @@
     "global": {
       "ok": true,
       "error": null,
-      "count": 6
+      "count": 5
     }
   },
   "items": [
     {
-      "title": "Gwynedd drug dealer Arthur Hughes has £80,000 of assets confiscated",
-      "publisher": "BBC",
-      "publisher_url": "https://www.bbc.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5wanhwSVdTSkdkekNab0xZejFHaXZvMDlvMl9ENjdUT1hxSHVPekZSYVQ0c3BhbGVva3BkMVZmeG1QTjVFazdPR2U4c2U5cVpzYjEzR0VaYl9WQVVzQWc?oc=5",
-      "published_at": "2026-10-18T14:25:56+00:00",
+      "title": "The next ayahuasca? Gabon fights to protect sacred plant from US drug companies",
+      "publisher": "The Guardian",
+      "publisher_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNd0RBMXc2TUdRc1FKZlNHNjJzWUV6TXpxcF9MdlBkWG9UcVozUUNPdlhtcE1aekhrZjl5SkFWeFZOX2Mxd1NsTjFKaWo3dm11bnB6cC1kdGk3Rk00azBJcDlGUzJPaWhYNGlqaGlEX3BqZkM3NjJrb1lmbmEzcThZT1ptUmg5VWp0OE5wUHBVMjEwREg4Mnpxd2lvbDEyU3prNmFJOVE5dTJXNWZ4NXpReUFhZkxsTE9xV0loQXJwMm1pLWs3MW90UlB2bm1NWnpNOElRcEdTVQ?oc=5",
+      "published_at": "2026-10-18T16:42:00+00:00",
       "regions": [
         "europa",
         "global"
       ]
     },
     {
-      "title": "The next ayahuasca? Gabon fights to protect sacred plant from US drug companies",
-      "publisher": "The Guardian",
-      "publisher_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNd0RBMXc2TUdRc1FKZlNHNjJzWUV6TXpxcF9MdlBkWG9UcVozUUNPdlhtcE1aekhrZjl5SkFWeFZOX2Mxd1NsTjFKaWo3dm11bnB6cC1kdGk3Rk00azBJcDlGUzJPaWhYNGlqaGlEX3BqZkM3NjJrb1lmbmEzcThZT1ptUmg5VWp0OE5wUHBVMjEwREg4Mnpxd2lvbDEyU3prNmFJOVE5dTJXNWZ4NXpReUFhZkxsTE9xV0loQXJwMm1pLWs3MW90UlB2bm1NWnpNOElRcEdTVQ?oc=5",
-      "published_at": "2026-10-18T13:00:00+00:00",
+      "title": "Gwynedd drug dealer Arthur Hughes has £80,000 of assets confiscated",
+      "publisher": "BBC",
+      "publisher_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TRUNMNEo5ck9lN0R3LVRjV1ZYM0VlNzNEY1R3NGc2LUtSZWVPNTZGYmtvNnZBelhEOXpscDg3SUcweEpocXhyZDVQbjZFSmVOd2FKNWxacGxzZTA?oc=5",
+      "published_at": "2026-10-18T14:26:24+00:00",
       "regions": [
         "europa",
         "global"
@@ -72,29 +72,7 @@
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYkkwM0RDdmdmQ1ktLWJBS05mMmp0SmNveGE5ZGRVWmNaYVA1czQwVEpSTGF0aXRSSVpYaGNYZ2tVVVVtN3Q0VUpqS1cxaVVMd3hUNkxPVEdhN2xfeHU3VjhuTkVoSlVJWDYxSXpSMkNiNUVOMGU2VUhWUTdBZUhzeUpidFhUTkhpZVFOOVRmYUV6alA3TC1BMTdYR2lJYktuZUI2UVZGMm5Wajg0MmNfMTg4NzJqeXVhVmpwNkVmbEpKbmhiUEJKUWQ4aTA3cmJTR0FR?oc=5",
       "published_at": "2026-10-18T11:27:03+00:00",
       "regions": [
-        "europa",
-        "global",
-        "usa"
-      ]
-    },
-    {
-      "title": "Legend Biotech Corp. ADR (LEGN) Stock Price Today - The Wall Street Journal",
-      "publisher": "WSJ",
-      "publisher_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42QkMxZjZHSGlWOTJtR0lMeDFtTi1YWmlkd0JHQVZhNFRkMDR0REhfbVdqaGpTaWZrN0FlRUw5aHRlbFhCZFBJQS00RUh0Y3FFeHZ4NA?oc=5",
-      "published_at": "2026-10-18T08:03:23+00:00",
-      "regions": [
-        "usa"
-      ]
-    },
-    {
-      "title": "- Fierce Pharma",
-      "publisher": "Fierce Pharma",
-      "publisher_url": "https://fp-resources.fiercepharma.com",
-      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOMndvYVdNZk0tMW1KME1JQXllRTZfLU45ek5laUctT1lCd1VyTnJaZVJaNlNfS0FPRlp4cTU0S1lpdW91V1pyRV80QVR2VmRzTlQtYTkxc3kwZWY4Sk9uVzJjX0VOQXNvczB1TlZWZllkNTVWMllCTU1wdE80TjlxT3N3aGptZzFZNzh1MEUtak5uMjY2UnBzT0lBMTNtYzZLOUFyUWYweHcyVjhkbWEtR1Q1UEZWS3ZtZGZhNDlzUnVSTTUyVkQ0bVA1WWhxZlY2Z1Bpekc0TEg1OG93WFZwVlRIamVITm1OdWM4RzE2MkRkaHk2TWJyUmplejFxaEdodG1HWXI4SWYzSEpxSkNIdVVB?oc=5",
-      "published_at": "2026-10-18T07:09:11+00:00",
-      "regions": [
-        "global"
+        "europa"
       ]
     },
     {
@@ -104,7 +82,8 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE41QUN1YWM2Z2pJYkZ0U2ZDa0h6dG1WY2g1SWYtRzlneVlfTEY1YU56MDVWWG9ScTFuOUpxSEZRSjlRZEh0UFcwZXZpNjRyMHRuU0pPaHd2amg?oc=5",
       "published_at": "2026-10-18T05:30:16+00:00",
       "regions": [
-        "europa"
+        "europa",
+        "global"
       ]
     },
     {
