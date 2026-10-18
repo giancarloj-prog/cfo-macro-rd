@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-17",
+  "date": "2026-10-18",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-17T23:41:50+00:00",
+  "checked_at": "2026-10-18T14:35:12+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -14,7 +14,7 @@
     "rd": {
       "ok": true,
       "error": null,
-      "count": 2
+      "count": 0
     },
     "centroamerica": {
       "ok": true,
@@ -24,121 +24,53 @@
     "mexico": {
       "ok": true,
       "error": null,
-      "count": 6
+      "count": 0
     },
     "usa": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 2
     },
     "europa": {
       "ok": true,
       "error": null,
-      "count": 4
+      "count": 7
     },
     "global": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 6
     }
   },
   "items": [
     {
-      "title": "IMSS y SNTSS continúan negociaciones sobre incremento salarial, abasto de medicamentos y equipo",
-      "publisher": "Milenio",
-      "publisher_url": "https://amp.milenio.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNX3JCZG5SUXdIeWZkQXZOWVdCX0EzU2trbWVWNDhyLURZaDhFc1JHNkJYRE93QVNFVl9aYnF2SUVZb0VNa2VGNWlsVjFLWVFHQXQ4RjNwNl9LNkJrWFVsN3dmQ1oyTERwdmxQdktCS1M0ZXl1bHU2b293MTdmREhEQ1VwZjd1eGd5V3BoWEhJN0hqczR20gGUAUFVX3lxTE1fckJkblJRd0h5ZmRBdk5ZV0JfQTNTa2ttZVY0OHItRFloOEVzUkc2QlhET3dBU0VWX1picXZJRVlvRU1rZUY1aWxWMUtZUUdBdDhGM3A2X0s2QmtYVWw3d2ZDWjJMRHB2bFB2S0JLUzRleXVsdTZvb3cxN2ZESERDVXBmN3V4Z3lXcGhYSEk3SGpzNHY?oc=5",
-      "published_at": "2026-10-17T23:09:32+00:00",
+      "title": "Gwynedd drug dealer Arthur Hughes has £80,000 of assets confiscated",
+      "publisher": "BBC",
+      "publisher_url": "https://www.bbc.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5wanhwSVdTSkdkekNab0xZejFHaXZvMDlvMl9ENjdUT1hxSHVPekZSYVQ0c3BhbGVva3BkMVZmeG1QTjVFazdPR2U4c2U5cVpzYjEzR0VaYl9WQVVzQWc?oc=5",
+      "published_at": "2026-10-18T14:25:56+00:00",
       "regions": [
-        "mexico"
+        "europa",
+        "global"
       ]
     },
     {
-      "title": "Trump promete a Kentucky una planta farmacéutica si votan por los republicanos",
-      "publisher": "El Nuevo Diario",
-      "publisher_url": "https://elnuevodiario.com.do",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNT1RwNFR4aUkxbjc4UjlhcWtxSG9IUU9XQWFDUC14bVJkSUpMRDBtX1YybEhodGZsbzNURVctWjlfcmt0X3hCYlVsS3RweDNWV2xzRzFkM1lKQzhlN25UblZaUHlnZ3UwNDNYc3BxcHNQcE1hOWxjMDdnUkljNWtHb0J3NW92VkZPUHVjOGQ1WFdOb2lCbHdJejhGRnRabWM0MkhrMVpGcDJBQkUz?oc=5",
-      "published_at": "2026-10-17T22:25:51+00:00",
+      "title": "The next ayahuasca? Gabon fights to protect sacred plant from US drug companies",
+      "publisher": "The Guardian",
+      "publisher_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNd0RBMXc2TUdRc1FKZlNHNjJzWUV6TXpxcF9MdlBkWG9UcVozUUNPdlhtcE1aekhrZjl5SkFWeFZOX2Mxd1NsTjFKaWo3dm11bnB6cC1kdGk3Rk00azBJcDlGUzJPaWhYNGlqaGlEX3BqZkM3NjJrb1lmbmEzcThZT1ptUmg5VWp0OE5wUHBVMjEwREg4Mnpxd2lvbDEyU3prNmFJOVE5dTJXNWZ4NXpReUFhZkxsTE9xV0loQXJwMm1pLWs3MW90UlB2bm1NWnpNOElRcEdTVQ?oc=5",
+      "published_at": "2026-10-18T13:00:00+00:00",
       "regions": [
-        "rd"
+        "europa",
+        "global"
       ]
     },
     {
-      "title": "Vacuna VPH: A qué edad se aplica, cuánto cuesta y para qué sirve",
-      "publisher": "Milenio",
-      "publisher_url": "https://www.milenio.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZmVZck9RYzhRdnlONTVsb25NTGVaMjR4amZBSnRzckJPMURSSWhueUEwZGk0N1duM201SE1EZGhjZEVwbTFhUHI2YXVJOTB3WXVHTkNHSS1FcmVCMzdUZnpnSjVSQ2dITVVZYWRzbFJZMDJXczFqUHUyajZXNVVxVlEzNmNTNG82RVlPcFJOSTF2RUFrSWpKMtIBmAFBVV95cUxQYU5pNnh1ODJFRlJLd0RJYnozT1RXWEh4ZEQ1S3ozb1BqbHZjRlQyWTlTTURFZ0dBVW01bU4wR0Vpal9uR2UxSEYyazl4SEN5MjZQRzVZeDlRd1hrLWU0RERMTDNIbUtXMWNfaFVqRmxhdUpwN2dCSWFGc2taaWJtWmlFaDU4bUNXN2hDaTF3YURUUFJHNXkxTw?oc=5",
-      "published_at": "2026-10-17T20:38:00+00:00",
-      "regions": [
-        "mexico"
-      ]
-    },
-    {
-      "title": "Inicia campaña de vacunación contra Influenza y COVID en Guanajuato por temporada invernal; suman más de 900 p",
-      "publisher": "Milenio",
-      "publisher_url": "https://www.milenio.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObnJuS2ZJbmlaOUc2SFlHSE9tcnFrdF9GYy12NHEwS2hRQlBkcmFWdnF1dGtYNkVrRTVEVC1INFNJNFBOYVRHWnNXblNGLVRKbVE4YXVGUDMyWGhQbUI5RWdPLU1KandMc3BWTTNVLTFkQVpGcjh6UnhaWVQ3dXgzNGU5eXlhVUhMeUw2MW9RTXVtODlTU0Z5QWd5QnNjbkHSAZ8BQVVfeXFMT0VMcVN1QTE1YmljX2dNRDBZNzZPcm1DT09NbUp2RVl3aU1YY0tOV3ZjRHAwcTRyN1lHSFg0MHlHbERlb2JKZHRLb1d5aGVBeko3clhGNG54Zm4taU9neVhXa1VxeFpKTjZEeWNUUC0tbXBjT0VSX1BEdnlrZkRSSjYxd2s2ZE5yYkFYQi1mZzBTYjZ5MFIyZm9NRFpUWXpr?oc=5",
-      "published_at": "2026-10-17T18:28:00+00:00",
-      "regions": [
-        "mexico"
-      ]
-    },
-    {
-      "title": "Teva Pharmaceutical Industries Limited, TEVA1N:MEX profile",
-      "publisher": "Financial Times",
-      "publisher_url": "https://markets.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1vQWh1cmQwR0t3NkE2dGZfc3E5QmdfczVQcEJab1l0Rk9ucVBOQVdQbFFYa0NhZUdvMzVaZUN4T1prWjBfNXFNTHllXzBuSjNxa2tucC1BRjM1UF9Xam5iVnhTaERpTVpuTDZCOUZiWHlXZ0xPR0E?oc=5",
-      "published_at": "2026-10-17T17:37:34+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "Perfilan a Hidalgo como potencia clave para el sector farmacéutico",
-      "publisher": "Milenio",
-      "publisher_url": "https://amp.milenio.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbGkyOS1vLUNnODRlcDluMk1OM3JoMUZsLTJ5MjVVdlI3dVNPbm12YVpETXdsZHMwV0h4Y08xb2NwbHJ4MWNFeDQtWVlRdnFkUWhpV2dlSmp4NE9IUURIVlNjdUZkX2pMUUd5WHBnUVNxcTBUV091MVZwTW9Hckd0SnhaY0JtUU80YTktQVpPVmFoZ3fSAZMBQVVfeXFMT2xpMjktby1DZzg0ZXA5bjJNTjNyaDFGbC0yeTI1VXZSN3VTT25tdmFaRE13bGRzMFdIeGNPMW9jcGxyeDFjRXg0LVlZUXZxZFFoaVdnZUpqeDRPSFFESFZTY3VGZF9qTFFHeVhwZ1FTcXEwVFdPdTFWcE1vR3JHdEp4WmNCbVFPNGE5LUFaT1ZhaGd3?oc=5",
-      "published_at": "2026-10-17T16:53:36+00:00",
-      "regions": [
-        "mexico"
-      ]
-    },
-    {
-      "title": "Microgravedad: Diseñar medicamentos en el espacio exterior ya no es ciencia ficción, es ciencia aplicada",
-      "publisher": "El Economista",
-      "publisher_url": "https://www.eleconomista.com.mx",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTEVJXzR1amh2UU1ndzQtZkdkVXZ5R2ZDUldGWkxReUNVYVZyZDNDelQ2VnQ0QkYyUHVDVGNRcUZnc3lPVklRTkdYbFc4dG82Y3ZIWG5qNC1IelRZZUg5QWQ3V05QTXZXLTFBUVE5dE1oSERsbndmZjV1cUQwU3pYbzZrSVpFNkNFOENKOGpzbTFkdEdONG16WFN5b3QzN3F4MGY1ZXFDaDh3ZGhrcUg1YjBFa21Gd1BVZEFEa1RJVk90aHpDVEFQazd2aU5CSzUzbUlfbUZIcHdsSnZaN3fSAeMBQVVfeXFMUG05bmwtNmFuTGNBZ19kS1IzRjRBbnhRbmE1OUFjYkJWMzd2SFlyT2FNUFpMQ3RBUm1JVWM5cDJlTldCTTU5dXExQWJNNHlxa1I2em1fM0g2N0JIUTMxWHdYRmdaZ1FXekVyV3VmR2hGelNlcVNTcGdnejA0U0hGWGY4SWtBWmRTakNoTlpWQW9oOHU4X0ZMTW1VZ3RUeklDU3VPc09LUXJuMGZ1QW1Iay1wWXNnZWxEel8zSGUwT2tZSmdrZl9ERkhhdER6Qnp5WVBfMlVRMEl1RjFzVEctdDUtUnc?oc=5",
-      "published_at": "2026-10-17T15:46:44+00:00",
-      "regions": [
-        "mexico"
-      ]
-    },
-    {
-      "title": "Cupón Farmacias del Ahorro en Octubre 2026",
-      "publisher": "El Universal",
-      "publisher_url": "https://www.eluniversal.com.mx",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVnI0QTNHaVkxbzBYemh6MWZfVjFvT2prNlU0SS1VVE54UHpiU196eTlBVS1zWk0wM3FNbXhrSWlxLXZLZkVjejZ0allBM2w4SFBlSE9BVEJybUVoYWdtRXJsMFlKYi1VNWtaY3gyVUVJQ0w2cmZIc21fRmxPOTBpRUJB?oc=5",
-      "published_at": "2026-10-17T14:33:00+00:00",
-      "regions": [
-        "mexico"
-      ]
-    },
-    {
-      "title": "Prostate Cancer Foundation Expands Radiopharmaceutical Think Tank as Field Enters Pivotal Growth Phase",
-      "publisher": "Financial Times",
-      "publisher_url": "https://markets.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSVJFYmc0UGVCMW80Zm90SktEbng2ZlNxSlZWSFllZDJLa2M0d0FKR056Vmk1ZkVPejZZNXVNSjRuNE1zYklvcUpPb1pMQk05cWxWTng2OFZ0SzlQc1JNd0c2NGJpWWFlaVpfQ2wwcGh4TWJ2V2l6VEw3VGVLdi11UnBKR0Y0dVRMdTB4ZkdxREtIc0haMWJnUlhJc01rd3BoOHp6dUZR?oc=5",
-      "published_at": "2026-10-17T12:30:00+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "FDA flags Edwards heart-valve delivery system issue after death, injury",
+      "title": "India widens cancer drug price caps, lowering prices of 137 medicines",
       "publisher": "Reuters",
       "publisher_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOalc5TDdscm1MdXk4eDdPdENIaFJ4Tml5Y0Q1Y29NUW9SRnBZQUxRRVk2SWdkaVpVNmRac2toa2JjcGFYUDY1akhJWTRkN0JzZ0F2YzJxVGZqZndQQU5zbWlzWm4ta245WjdNRUpVWVVHZVRfZVQyVjZaa0I5UDd0SUdFd0QzMTd0WWh6QVQ0QUxhYlZTekJHbVQ1a3dxcE1DRUVYczdmal9nZTBacjAzTU1ULXBQNXpaMTNPblltY2E?oc=5",
-      "published_at": "2026-10-17T06:32:55+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYkkwM0RDdmdmQ1ktLWJBS05mMmp0SmNveGE5ZGRVWmNaYVA1czQwVEpSTGF0aXRSSVpYaGNYZ2tVVVVtN3Q0VUpqS1cxaVVMd3hUNkxPVEdhN2xfeHU3VjhuTkVoSlVJWDYxSXpSMkNiNUVOMGU2VUhWUTdBZUhzeUpidFhUTkhpZVFOOVRmYUV6alA3TC1BMTdYR2lJYktuZUI2UVZGMm5Wajg0MmNfMTg4NzJqeXVhVmpwNkVmbEpKbmhiUEJKUWQ4aTA3cmJTR0FR?oc=5",
+      "published_at": "2026-10-18T11:27:03+00:00",
       "regions": [
         "europa",
         "global",
@@ -146,13 +78,55 @@
       ]
     },
     {
-      "title": "Cinclus Pharma",
-      "publisher": "pharmaphorum",
-      "publisher_url": "https://pharmaphorum.com",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5fN3VLRTllSVFNLTNia3FtdzFDYmNTM01qX0xpUFljdEkyU3MzTGttdks3QUNwU2tJV0hleWVyRkRXbGRoc25HUTllX2V1amtRWDJaQnln?oc=5",
-      "published_at": "2026-10-17T04:53:26+00:00",
+      "title": "Legend Biotech Corp. ADR (LEGN) Stock Price Today - The Wall Street Journal",
+      "publisher": "WSJ",
+      "publisher_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42QkMxZjZHSGlWOTJtR0lMeDFtTi1YWmlkd0JHQVZhNFRkMDR0REhfbVdqaGpTaWZrN0FlRUw5aHRlbFhCZFBJQS00RUh0Y3FFeHZ4NA?oc=5",
+      "published_at": "2026-10-18T08:03:23+00:00",
+      "regions": [
+        "usa"
+      ]
+    },
+    {
+      "title": "- Fierce Pharma",
+      "publisher": "Fierce Pharma",
+      "publisher_url": "https://fp-resources.fiercepharma.com",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOMndvYVdNZk0tMW1KME1JQXllRTZfLU45ek5laUctT1lCd1VyTnJaZVJaNlNfS0FPRlp4cTU0S1lpdW91V1pyRV80QVR2VmRzTlQtYTkxc3kwZWY4Sk9uVzJjX0VOQXNvczB1TlZWZllkNTVWMllCTU1wdE80TjlxT3N3aGptZzFZNzh1MEUtak5uMjY2UnBzT0lBMTNtYzZLOUFyUWYweHcyVjhkbWEtR1Q1UEZWS3ZtZGZhNDlzUnVSTTUyVkQ0bVA1WWhxZlY2Z1Bpekc0TEg1OG93WFZwVlRIamVITm1OdWM4RzE2MkRkaHk2TWJyUmplejFxaEdodG1HWXI4SWYzSEpxSkNIdVVB?oc=5",
+      "published_at": "2026-10-18T07:09:11+00:00",
+      "regions": [
+        "global"
+      ]
+    },
+    {
+      "title": "Every scrap of paper checked: Police hunting for synthetic drugs in Chicago jail",
+      "publisher": "BBC",
+      "publisher_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE41QUN1YWM2Z2pJYkZ0U2ZDa0h6dG1WY2g1SWYtRzlneVlfTEY1YU56MDVWWG9ScTFuOUpxSEZRSjlRZEh0UFcwZXZpNjRyMHRuU0pPaHd2amg?oc=5",
+      "published_at": "2026-10-18T05:30:16+00:00",
       "regions": [
         "europa"
+      ]
+    },
+    {
+      "title": "Southend MP vows to help teenager access life-changing drug",
+      "publisher": "BBC",
+      "publisher_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5VmZNcGVOYnFYdDVGbXZEYWdmVWJJRzlTNXdmbzVZc3VUQ2RnVlRNSUhQc3FkVG0xTnZRWmhlaDlSZnpwbVE1ZTZpanc1ODBfSmJ6a3F1azl5TDA?oc=5",
+      "published_at": "2026-10-18T05:27:00+00:00",
+      "regions": [
+        "europa",
+        "global"
+      ]
+    },
+    {
+      "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
+      "publisher": "BBC",
+      "publisher_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ldlVLNTBNb1FyQll1MG8wbVMtdkg2Q2FxeTBMUURDLWpyYm1aNXpmLVA3Tmd5RTdnUnJuT1NHQU9mY1B4LU13OUxXa2RieWxrNGlleFliUDVJZ1U?oc=5",
+      "published_at": "2026-10-18T05:04:31+00:00",
+      "regions": [
+        "europa",
+        "global"
       ]
     }
   ],
