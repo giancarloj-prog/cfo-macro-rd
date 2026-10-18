@@ -1,7 +1,7 @@
 {
   "date": "2026-10-18",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-18T19:05:20+00:00",
+  "checked_at": "2026-10-18T23:51:13+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -24,25 +24,108 @@
     "mexico": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 1
     },
     "usa": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 1
     },
     "europa": {
       "ok": true,
       "error": null,
-      "count": 7
+      "count": 15
     },
     "global": {
       "ok": true,
       "error": null,
-      "count": 5
+      "count": 9
     }
   },
   "items": [
+    {
+      "title": "Detectan venta de medicamentos e insumos del sector salud en Mercado Libre y Facebook",
+      "publisher": "El Economista",
+      "publisher_url": "https://www.eleconomista.com.mx",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPS05vMnR1Qk56Um9MbmxPRGtEclk2SHlRNGxrNGtCc2xmQXJrZzdCZWdfRXB0UVhiUVlHcGtVMk4tV3BoREc2OUhQN3QycWtSY2RuWHY5emlOVGJGUWp4bFRXSXlwZUNBcE5zdzVMNklQZ2x4bVVNMEpoQ1p2MGxOUG94NlV0SWttZEtRbkl0VV9qZXlWc2dzb3A4M0tzLW5WLVJucVV4MDlmOUV4a19LNUQ2T3ZsZ3FyNm9yYWNaNEtGdUlla0I0RFJsNDczWUto0gHWAUFVX3lxTFBDM09mM05Bc3dsLW8yYjRtZVFjSGU5cFFZOUhxM2NJd3d1WF85YlV6QjZub0QtSnNzUEN2bFV0RkI5bVNya21uRWw1Tlh4ajRiUEM3X3N6Z09GRG5JSG1femFSaEFuZnB5aEc1cTRldzl6dEtfX2xEbGd4YmtvRFdPSGQyMWhJVElRUFBLU0JvNFpDbzZIZHlYdmZXLVl2WWVfdE5jYmNSTlpWQmlzWGJ5VlpGcmF1bVQzSTRTaWI3Yjh2dE9STnhfaVlERHNNb1RnbG1RakE?oc=5",
+      "published_at": "2026-10-18T22:21:39+00:00",
+      "regions": [
+        "mexico"
+      ]
+    },
+    {
+      "title": "AbbVie to Present Data at the 2026 European Society for Medical Oncology (ESMO) Congress Highlighting Progress Across its Expanding Solid Tumor Portfolio – Company Announcement - FT.com",
+      "publisher": "Financial Times",
+      "publisher_url": "https://markets.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPajZsczFkRE84aVg3N1NGcHB3Z1psVjVmaHZaVERpbi0tLXJKUXRvdm1DdlVfY0ZfOU1iYks2cXNVT2xRNXBTbXBaeTNIaEVDZnBYdVE1VlptbnVSOEduaHQwRHdXNEowMEJJQXgwUGJ0ZEh6NGktdl9XSnJaTXo0SWN1ZDJ1TVR1eTJEUnFyVjBxN1dXQmFDRw?oc=5",
+      "published_at": "2026-10-18T22:10:00+00:00",
+      "regions": [
+        "europa",
+        "global"
+      ]
+    },
+    {
+      "title": "ESMO 2026 Presentations Deepen the Evidence Base for Natera's Oncology Portfolio and Leadership in Ultrasensitive MRD Technology – Company Announcement - FT.com",
+      "publisher": "Financial Times",
+      "publisher_url": "https://markets.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOR2FSNTNPRWFISDZ5ZlgzYXoxMTc1eElSd3BEZ19FWHV5aE9MUThwZFdvY0VYenc5NUg0QVlGWF9ySWRoSjdIR1ZKeFF4TW03bGVob1puUVM1RnZMZEJxQk1NMERjdmtmOFk4Wm93Y295aDFGZ0l2MldhcVhFanNEWkV4ZE8zalZld05NN3IyOGtqZGp0RjIwYkw3WW42NUd1LXdsbUV3?oc=5",
+      "published_at": "2026-10-18T22:10:00+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "Lilly to showcase advances across its oncology pipeline at the 2026 European Society for Medical Oncology (ESMO) Congress – Company Announcement - FT.com",
+      "publisher": "Financial Times",
+      "publisher_url": "https://markets.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNWtzQ00wbHVLSlE3QVQ5VU55Wmg4N2VJdmVmT2xnbFp0emxIVVpITS1odFgyaEN6TW5KLWJScXc0NWZ6WFd1cUZIRGVtb1FVUXFNLTlMdHFOVkZNTXdKUU1UaVNMaEVTS2RfdklrTEhlVldmYVU0amh5dTgwZElDei15U2hYaU84UVFUeFZKZkJNOEpHOUVhNw?oc=5",
+      "published_at": "2026-10-18T22:05:00+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "Veradermics to Hold Conference Call to Discuss Topline Results from Phase 3 '304' Clinical Trial of VDPHL01 in Males with Mild-to-Moderate Pattern Hair Loss – Company Announcement - FT.com",
+      "publisher": "Financial Times",
+      "publisher_url": "https://markets.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNUo0SmFtcVhCbFZqS3ZYYVZsQTRWTzlQcVFlZzd4d0psOS0tSU00VWZuNjJCbmc1bVV1TVhRUnEyUDVvbGVRZGhfcTAwRmZqbG1Tb2Jidm53V2g5VEtDX2RiZkQtcndockI3X0VNTzA5UWk1bHpIanRfN3dqUGRFU2tzTVhYWnpwZVpKYXhocGdBQzFLY3p4Q09MX2R3c19oQUFZeS1n?oc=5",
+      "published_at": "2026-10-18T22:00:00+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
+      "publisher": "BBC",
+      "publisher_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1tZ2twUno2NV9DQnl1c09sZ0VPa3o1N194TmV1d2otYk9pb1Vsb2pLaUhMd0JxWWxwSVhKS29WWEhURVpMb2ttbnNfS3phbjVzdnR0QkJOc3M?oc=5",
+      "published_at": "2026-10-18T21:00:22+00:00",
+      "regions": [
+        "europa",
+        "global"
+      ]
+    },
+    {
+      "title": "Eikon Therapeutics Announces Availability of Seven Abstracts for Presentation at the European Society for Medical Oncology Congress – Company Announcement - FT.com",
+      "publisher": "Financial Times",
+      "publisher_url": "https://markets.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSWQwY2JMeHMyWThmTHFaS2FlbVozN0Zlb1hrczl4NklNeEhCNzV6LThqYU9FTmZZV1dVcUV5c3JfUndKMXB4al90ejAyM3VPZUpWdk1ORzZER2tNVG5nY200aVhHTkNWRnlFMW55elZrSW12bGZ0Y0FreXZIWkRNcVhrWF9OMWxyUTFQdl9QV2VqV21zYmFJ?oc=5",
+      "published_at": "2026-10-18T20:05:00+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "Disc Medicine to Host Corporate Webcast to Discuss Topline Results from the APOLLO Phase 3 Trial of Bitopertin in Erythropoietic Protoporphyria (EPP) – Company Announcement - FT.com",
+      "publisher": "Financial Times",
+      "publisher_url": "https://markets.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQemp3NHdoUEZRTlRRUzNEa0UyRnp6TzhNdTZjSGJqSTJSU01OME1ZNWtIUV9icUhlWUJLejE5UzNnU2g3Z3ZxRFFBLUZpRGRtMnBjSlRWaWE1WkN6OGhlYXpUdnZEa1BxRFdCWjhlZFZDWnBHV3E5R1lkWmFOaU1SVlQ0dnY4bE41TXFaSGVFMHU3bjduLW1V?oc=5",
+      "published_at": "2026-10-18T19:00:00+00:00",
+      "regions": [
+        "europa",
+        "global"
+      ]
+    },
     {
       "title": "The next ayahuasca? Gabon fights to protect sacred plant from US drug companies",
       "publisher": "The Guardian",
@@ -72,7 +155,9 @@
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYkkwM0RDdmdmQ1ktLWJBS05mMmp0SmNveGE5ZGRVWmNaYVA1czQwVEpSTGF0aXRSSVpYaGNYZ2tVVVVtN3Q0VUpqS1cxaVVMd3hUNkxPVEdhN2xfeHU3VjhuTkVoSlVJWDYxSXpSMkNiNUVOMGU2VUhWUTdBZUhzeUpidFhUTkhpZVFOOVRmYUV6alA3TC1BMTdYR2lJYktuZUI2UVZGMm5Wajg0MmNfMTg4NzJqeXVhVmpwNkVmbEpKbmhiUEJKUWQ4aTA3cmJTR0FR?oc=5",
       "published_at": "2026-10-18T11:27:03+00:00",
       "regions": [
-        "europa"
+        "europa",
+        "global",
+        "usa"
       ]
     },
     {
