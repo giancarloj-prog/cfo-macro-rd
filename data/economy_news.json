@@ -1,7 +1,7 @@
 {
   "date": "2026-10-19",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-19T13:51:17+00:00",
+  "checked_at": "2026-10-19T17:28:59+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -23,7 +23,7 @@
     "bcrd": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 3
     },
     "fiscal": {
       "ok": true,
@@ -33,22 +33,22 @@
     "dgii": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 2
     },
     "finance": {
       "ok": true,
       "error": null,
-      "count": 2
+      "count": 3
     },
     "securities": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 1
     },
     "economy": {
       "ok": true,
       "error": null,
-      "count": 3
+      "count": 7
     },
     "economist_andy": {
       "ok": true,
@@ -82,6 +82,103 @@
     }
   },
   "items": [
+    {
+      "title": "DGII informan que 100 mil contribuyentes ya son emisores electrónicos",
+      "publisher": "El Nuevo Diario",
+      "publisher_url": "https://elnuevodiario.com.do",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOThpSnAxTFJDVTN4bFJzNnZNRXVxR1FRRUZPM2tJVnNMOENaeF9pb1ltTW5Vd3REM0hvcHFLY1BxQjAxX2JCRHdIdkctd0ZHWnhtdFdVRVlXZjFZNkZDX1dfTHpkM0paMXVmcmltUV9zNHBUNUVwMFZHMnlZY1RybDZEcVp1b2F6MkpPZU9GU2hrOEhWdnRKbktDdWtnc2Zl?oc=5",
+      "published_at": "2026-10-19T17:06:41+00:00",
+      "topics": [
+        "dgii",
+        "economy"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "dgii",
+        "economy"
+      ]
+    },
+    {
+      "title": "Intellisys plantea convertir el talento tecnológico en motor de las exportaciones dominicanas",
+      "publisher": "Periódico elDinero",
+      "publisher_url": "https://eldinero.com.do",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdEtSNUR6OF9KbWRvLUZaWm1jZnQySWNZZzdUaENMTG5OMkRCTnZZdDVpby1lT29KdTdQVzdYeWs5UHVYWlF3N0tVWmZZMW5RNUdaUllMUktUQ3F0LUJNakl5MDRSVTd6QXp2TVJRWTZGeWlMZHpmM3BmQ1NBLTFYTG0wbDREbHZXcWFqYUQ1cnFuUllveUEzYVpRNF95UHZSZmY3MUtwMl9oczBhQnN5anY0cm5ybEM5M3ltWHROU1k1MDA?oc=5",
+      "published_at": "2026-10-19T16:04:14+00:00",
+      "topics": [
+        "economy"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "economy"
+      ]
+    },
+    {
+      "title": "SIMV lleva una experiencia de educación financiera a plazas comerciales del Distrito Nacional",
+      "publisher": "El Nuevo Diario",
+      "publisher_url": "https://elnuevodiario.com.do",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSEZzOTM4anFwTW85QmtKMHgzRV9NN1doSldEN2RjZDlzUmtsYWJrYll0ejByRzhsRDRKN3pOeXBxZXE0WjFPODdBc1ZpNVUydFVzVzI0SzJ1akJydGR0SHpCNURjcG9XTGM0dVlsWXc2QnhuQVhJRGZ3NThqQUpyODhGUV9TdTdPcVBWT0pHVXBNTkRlZDNub0w3N0lMampRa09yeHBmS3huaVFaclhiakk1VXNHX0c0cTdWXy1fV1A?oc=5",
+      "published_at": "2026-10-19T15:56:40+00:00",
+      "topics": [
+        "securities"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "securities"
+      ]
+    },
+    {
+      "title": "Tasas de interés al alza: Los tres sectores que terminan pagando la factura económica",
+      "publisher": "El Nuevo Diario",
+      "publisher_url": "https://elnuevodiario.com.do",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONUxOd3ludU1nY2dIelRTZmJFMGJJZDZiaEhiaVZSNkdGekJ6bGFDNmQ2X0lvSkp5cmZkcmIyNjBQdzRVVE9RR1ZucXRFSUNkcWJEMTFiZXZEZXRCeFNxYkpEWnZPc3VIdVREeVhyWmNXOGc0WUhSTXJ5M1cxdDdZWk9QdGlmQ2llVkRDdlhjOUk2Sm5XOWNVUldkald5V2owMy16bzVJVGwxTDUtUXJkUEZpZC0?oc=5",
+      "published_at": "2026-10-19T14:52:02+00:00",
+      "topics": [
+        "bcrd",
+        "economy",
+        "finance"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "bcrd",
+        "economy",
+        "finance"
+      ]
+    },
+    {
+      "title": "Mujeres rurales en República Dominicana enfrentan más pobreza y menos empleo",
+      "publisher": "Diario Libre",
+      "publisher_url": "https://www.diariolibre.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWWZYTExFVjJzSEFWQ0FLamVjR2M2VmVEQS1pZHRPV2x4WEtPX00yM0hiQUNfUlVoaHZBVTlZVkV1NU9XSnc4N2pueW0wRkhxcVc1TlNZS29nR05LamNfR0xtdm5kT19JMkJEaE1mVW5hbVIycWpGZEhtTkNHTEZjN0dqUkowVGNSTjJZcF9mOFRkRnVZSVluSm5hSXZFUkxZWVpTa3QyNnBLWldOSUZ5QkZ6MDZXSG_SAbwBQVVfeXFMTmI2UF8tWks0eGp5ZklxZXdGTHZUNFhST1d2VjkxSkYyWkRXekMtMGxTLW40dXNXT2dodWZhSjZTNlktN2dEamRhLXhQZEZaVUFWMXhlVXJGWU5BcS1xQXNJZE9zcEpCX1g2RmlUckxpNTZKUXFESHpXckg4MUM1dDV5dDFRSkloc2dSeWlaQ0JqQzlhUXJ4X3dVN0tCa2VSUnZRSGdhdFUtQ01vdU5HN2Z0cG03UEIxZGdkVGk?oc=5",
+      "published_at": "2026-10-19T14:15:00+00:00",
+      "topics": [
+        "economy"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "economy"
+      ]
+    },
+    {
+      "title": "Conozca la tasa de cambio del dólar en los principales bancos de RD",
+      "publisher": "Periódico elDinero",
+      "publisher_url": "https://eldinero.com.do",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPN1NSejJZcUlOMXpfa1lZaG1mQ2x3NFZ3bTVDS182ckFCM0hjcXVWQVN2TGdrQlpwMDBkQ2ZkVldDaHFEMnRsTk9ZUDVIZWFUNTBTMXJaU0tYUWhDRVpPSllhb0g2aTdueUxIQ2FKSTk1N1V6Vmo1NHliTHZ1TmJtTHdhbl9qbTRaQWs0Z2hTU2pDX2Fab0J3MlFDQlNscVhVTW9V?oc=5",
+      "published_at": "2026-10-19T13:58:20+00:00",
+      "topics": [
+        "bcrd",
+        "finance"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "bcrd"
+      ]
+    },
     {
       "title": "Proponen a DGII considerar limitaciones de las pymes para implementar la facturación electrónica",
       "publisher": "Periódico elDinero",
@@ -119,11 +216,13 @@
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBiRlloLUg5OXRaMkJVM09ET250Z2M1U29pekJzSkRSSVl1bFhIX1l5alBjUmtiNXV4TEJ0UEdCVDZGYmppdm9ZUXN1YW5OSXdvM3VmTDVRZk5lT3NiRG16aUU3UUFkWnVTaEV0cDYzUnlrRnNIbnVYd3haS3E?oc=5",
       "published_at": "2026-10-19T11:00:00+00:00",
       "topics": [
+        "bcrd",
         "economy"
       ],
       "economists": [],
       "economist_match": null,
       "searches": [
+        "bcrd",
         "economy"
       ]
     },
