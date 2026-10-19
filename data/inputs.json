@@ -1,279 +1,15 @@
 {
-  "checked_at": "2026-10-19T13:17:37+00:00",
+  "checked_at": "2026-10-19T13:30:46+00:00",
   "series": {
-    "aluminum": {
-      "name": "Aluminio primario",
-      "series_id": "PALUMUSDM",
-      "source": "FMI · FRED",
-      "unit": "USD / tonelada",
-      "scope": "Referencia mundial del metal base; no es precio de foil farmacéutico.",
-      "category": "empaque",
-      "id": "aluminum",
-      "url": "https://fred.stlouisfed.org/series/PALUMUSDM",
-      "history": [
-        {
-          "period": "2021-07",
-          "value": 2497.635455
-        },
-        {
-          "period": "2021-08",
-          "value": 2602.991905
-        },
-        {
-          "period": "2021-09",
-          "value": 2834.556818
-        },
-        {
-          "period": "2021-10",
-          "value": 2934.39381
-        },
-        {
-          "period": "2021-11",
-          "value": 2636.452273
-        },
-        {
-          "period": "2021-12",
-          "value": 2695.531429
-        },
-        {
-          "period": "2022-01",
-          "value": 3005.9805
-        },
-        {
-          "period": "2022-02",
-          "value": 3245.7855
-        },
-        {
-          "period": "2022-03",
-          "value": 3498.373043
-        },
-        {
-          "period": "2022-04",
-          "value": 3246.990476
-        },
-        {
-          "period": "2022-05",
-          "value": 2839.505455
-        },
-        {
-          "period": "2022-06",
-          "value": 2575.669545
-        },
-        {
-          "period": "2022-07",
-          "value": 2408.423333
-        },
-        {
-          "period": "2022-08",
-          "value": 2433.916087
-        },
-        {
-          "period": "2022-09",
-          "value": 2224.755909
-        },
-        {
-          "period": "2022-10",
-          "value": 2255.535238
-        },
-        {
-          "period": "2022-11",
-          "value": 2350.716364
-        },
-        {
-          "period": "2022-12",
-          "value": 2398.206818
-        },
-        {
-          "period": "2023-01",
-          "value": 2494.900909
-        },
-        {
-          "period": "2023-02",
-          "value": 2416.1815
-        },
-        {
-          "period": "2023-03",
-          "value": 2296.416957
-        },
-        {
-          "period": "2023-04",
-          "value": 2338.131
-        },
-        {
-          "period": "2023-05",
-          "value": 2274.012609
-        },
-        {
-          "period": "2023-06",
-          "value": 2184.753636
-        },
-        {
-          "period": "2023-07",
-          "value": 2159.732381
-        },
-        {
-          "period": "2023-08",
-          "value": 2135.581739
-        },
-        {
-          "period": "2023-09",
-          "value": 2184.67381
-        },
-        {
-          "period": "2023-10",
-          "value": 2194.390909
-        },
-        {
-          "period": "2023-11",
-          "value": 2202.255455
-        },
-        {
-          "period": "2023-12",
-          "value": 2192.005238
-        },
-        {
-          "period": "2024-01",
-          "value": 2201.566522
-        },
-        {
-          "period": "2024-02",
-          "value": 2179.457143
-        },
-        {
-          "period": "2024-03",
-          "value": 2229.441905
-        },
-        {
-          "period": "2024-04",
-          "value": 2499.228182
-        },
-        {
-          "period": "2024-05",
-          "value": 2566.318696
-        },
-        {
-          "period": "2024-06",
-          "value": 2497.6055
-        },
-        {
-          "period": "2024-07",
-          "value": 2349.125217
-        },
-        {
-          "period": "2024-08",
-          "value": 2352.467273
-        },
-        {
-          "period": "2024-09",
-          "value": 2457.478095
-        },
-        {
-          "period": "2024-10",
-          "value": 2595.583043
-        },
-        {
-          "period": "2024-11",
-          "value": 2582.188571
-        },
-        {
-          "period": "2024-12",
-          "value": 2540.882273
-        },
-        {
-          "period": "2025-01",
-          "value": 2571.370435
-        },
-        {
-          "period": "2025-02",
-          "value": 2655.7725
-        },
-        {
-          "period": "2025-03",
-          "value": 2651.598571
-        },
-        {
-          "period": "2025-04",
-          "value": 2367.800455
-        },
-        {
-          "period": "2025-05",
-          "value": 2447.344091
-        },
-        {
-          "period": "2025-06",
-          "value": 2525.959048
-        },
-        {
-          "period": "2025-07",
-          "value": 2606.37087
-        },
-        {
-          "period": "2025-08",
-          "value": 2598.735714
-        },
-        {
-          "period": "2025-09",
-          "value": 2654.479091
-        },
-        {
-          "period": "2025-10",
-          "value": 2793.086957
-        },
-        {
-          "period": "2025-11",
-          "value": 2819.0615
-        },
-        {
-          "period": "2025-12",
-          "value": 2875.897727
-        },
-        {
-          "period": "2026-01",
-          "value": 3133.982727
-        },
-        {
-          "period": "2026-02",
-          "value": 3065.1885
-        },
-        {
-          "period": "2026-03",
-          "value": 3372.952727
-        },
-        {
-          "period": "2026-04",
-          "value": 3594.379091
-        },
-        {
-          "period": "2026-05",
-          "value": 3658.221429
-        },
-        {
-          "period": "2026-06",
-          "value": 3438.847273
-        },
-        {
-          "period": "2026-07",
-          "value": 3158.265
-        }
-      ],
-      "period": "2026-07",
-      "value": 3158.265,
-      "changes": {
-        "mom": -8.16,
-        "qoq": -12.13,
-        "yoy": 21.17
-      },
-      "verified_at": "2026-10-16T18:43:18+00:00"
-    },
     "resins": {
       "name": "Resinas termoplásticas",
       "series_id": "WPU0662",
-      "source": "BLS · FRED",
+      "source": "BLS · fuente directa",
       "unit": "Índice PPI",
       "scope": "Canasta de resinas en EE. UU.; señal amplia para plásticos. No mide específicamente PVC, PVDC ni PET farmacéutico.",
       "category": "empaque",
       "id": "resins",
-      "url": "https://fred.stlouisfed.org/series/WPU0662",
+      "url": "https://data.bls.gov/timeseries/WPU0662",
       "history": [
         {
           "period": "2021-09",
@@ -527,17 +263,17 @@
         "qoq": -8.56,
         "yoy": 6.7
       },
-      "verified_at": "2026-10-16T18:43:18+00:00"
+      "verified_at": "2026-10-19T13:30:46+00:00"
     },
     "corrugated": {
       "name": "Cartón corrugado",
       "series_id": "PCU32221132221105",
-      "source": "BLS · FRED",
+      "source": "BLS · fuente directa",
       "unit": "Índice PPI",
       "scope": "Láminas y rollos de cartón corrugado en EE. UU.; no es una cotización de cajas en RD.",
       "category": "empaque",
       "id": "corrugated",
-      "url": "https://fred.stlouisfed.org/series/PCU32221132221105",
+      "url": "https://data.bls.gov/timeseries/PCU32221132221105",
       "history": [
         {
           "period": "2021-09",
@@ -791,17 +527,17 @@
         "qoq": 5.11,
         "yoy": 7.95
       },
-      "verified_at": "2026-10-16T18:43:18+00:00"
+      "verified_at": "2026-10-19T13:30:46+00:00"
     },
     "paperboard": {
       "name": "Cajas plegadizas",
       "series_id": "WPU09150336",
-      "source": "BLS · FRED",
+      "source": "BLS · fuente directa",
       "unit": "Índice PPI",
       "scope": "Cajas, empaques y componentes de cartón plegadizo en EE. UU.; referencia externa.",
       "category": "empaque",
       "id": "paperboard",
-      "url": "https://fred.stlouisfed.org/series/WPU09150336",
+      "url": "https://data.bls.gov/timeseries/WPU09150336",
       "history": [
         {
           "period": "2021-09",
@@ -1055,17 +791,17 @@
         "qoq": 1.7,
         "yoy": -4.29
       },
-      "verified_at": "2026-10-16T18:43:18+00:00"
+      "verified_at": "2026-10-19T13:30:46+00:00"
     },
     "ethanol": {
       "name": "Etanol",
       "series_id": "WPU06140341",
-      "source": "BLS · FRED",
+      "source": "BLS · fuente directa",
       "unit": "Índice PPI",
       "scope": "Etanol en EE. UU.; no distingue concentración, grado farmacéutico ni precio local. No representa isopropanol.",
       "category": "excipiente",
       "id": "ethanol",
-      "url": "https://fred.stlouisfed.org/series/WPU06140341",
+      "url": "https://data.bls.gov/timeseries/WPU06140341",
       "history": [
         {
           "period": "2021-09",
@@ -1319,271 +1055,539 @@
         "qoq": 4.89,
         "yoy": 5.36
       },
-      "verified_at": "2026-10-16T18:43:18+00:00"
+      "verified_at": "2026-10-19T13:30:46+00:00"
     },
-    "sugar": {
-      "name": "Azúcar mundial",
-      "series_id": "PSUGAISAUSDM",
-      "source": "FMI · FRED",
-      "unit": "Centavos USD / libra",
-      "scope": "Azúcar No. 11; referencia upstream para sacarosa. No cotiza sacarosa farmacéutica, mezclas de compresión directa ni polioles.",
-      "category": "excipiente",
-      "id": "sugar",
-      "url": "https://fred.stlouisfed.org/series/PSUGAISAUSDM",
+    "aluminum": {
+      "name": "Aluminio primario",
+      "series_id": "WB_ALUMINUM",
+      "source": "Banco Mundial · Pink Sheet",
+      "unit": "USD / tonelada",
+      "scope": "Aluminio primario LME, referencia del Banco Mundial; no es precio de foil farmacéutico.",
+      "category": "empaque",
+      "id": "aluminum",
+      "url": "https://www.worldbank.org/en/research/commodity-markets",
       "history": [
         {
-          "period": "2021-07",
-          "value": 17.714762
-        },
-        {
-          "period": "2021-08",
-          "value": 19.383636
-        },
-        {
           "period": "2021-09",
-          "value": 19.264286
+          "value": 2835.0
         },
         {
           "period": "2021-10",
-          "value": 19.619048
+          "value": 2934.0
         },
         {
           "period": "2021-11",
-          "value": 19.74619
+          "value": 2636.0
         },
         {
           "period": "2021-12",
-          "value": 19.167273
+          "value": 2696.0
         },
         {
           "period": "2022-01",
-          "value": 18.461
+          "value": 3006.0
         },
         {
           "period": "2022-02",
-          "value": 18.203158
+          "value": 3246.0
         },
         {
           "period": "2022-03",
-          "value": 19.107826
+          "value": 3498.0
         },
         {
           "period": "2022-04",
-          "value": 19.699048
+          "value": 3244.0
         },
         {
           "period": "2022-05",
-          "value": 19.280909
+          "value": 2830.0
         },
         {
           "period": "2022-06",
-          "value": 18.794091
+          "value": 2563.0
         },
         {
           "period": "2022-07",
-          "value": 18.34
+          "value": 2408.0
         },
         {
           "period": "2022-08",
-          "value": 18.062609
+          "value": 2431.0
         },
         {
           "period": "2022-09",
-          "value": 18.185909
+          "value": 2225.0
         },
         {
           "period": "2022-10",
-          "value": 18.300952
+          "value": 2256.0
         },
         {
           "period": "2022-11",
-          "value": 19.405909
+          "value": 2351.0
         },
         {
           "period": "2022-12",
-          "value": 20.065
+          "value": 2402.0
         },
         {
           "period": "2023-01",
-          "value": 19.943182
+          "value": 2502.0
         },
         {
           "period": "2023-02",
-          "value": 21.4035
+          "value": 2416.0
         },
         {
           "period": "2023-03",
-          "value": 20.961739
+          "value": 2296.0
         },
         {
           "period": "2023-04",
-          "value": 24.582
+          "value": 2343.0
         },
         {
           "period": "2023-05",
-          "value": 25.729565
+          "value": 2269.0
         },
         {
           "period": "2023-06",
-          "value": 24.762273
+          "value": 2185.0
         },
         {
           "period": "2023-07",
-          "value": 24.008095
+          "value": 2160.0
         },
         {
           "period": "2023-08",
-          "value": 24.193043
+          "value": 2137.0
         },
         {
           "period": "2023-09",
-          "value": 26.56381
+          "value": 2185.0
         },
         {
           "period": "2023-10",
-          "value": 26.903636
+          "value": 2192.0
         },
         {
           "period": "2023-11",
-          "value": 27.309545
+          "value": 2202.0
         },
         {
           "period": "2023-12",
-          "value": 22.145714
+          "value": 2182.0
         },
         {
           "period": "2024-01",
-          "value": 22.474783
+          "value": 2193.0
         },
         {
           "period": "2024-02",
-          "value": 23.341905
+          "value": 2179.0
         },
         {
           "period": "2024-03",
-          "value": 21.769048
+          "value": 2226.0
         },
         {
           "period": "2024-04",
-          "value": 20.647273
+          "value": 2506.0
         },
         {
           "period": "2024-05",
-          "value": 18.799565
+          "value": 2565.0
         },
         {
           "period": "2024-06",
-          "value": 19.1695
+          "value": 2498.0
         },
         {
           "period": "2024-07",
-          "value": 19.351739
+          "value": 2349.0
         },
         {
           "period": "2024-08",
-          "value": 18.419545
+          "value": 2344.0
         },
         {
           "period": "2024-09",
-          "value": 20.624762
+          "value": 2450.0
         },
         {
           "period": "2024-10",
-          "value": 22.355217
+          "value": 2596.0
         },
         {
           "period": "2024-11",
-          "value": 21.655238
+          "value": 2582.0
         },
         {
           "period": "2024-12",
-          "value": 20.311818
+          "value": 2541.0
         },
         {
           "period": "2025-01",
-          "value": 18.93
+          "value": 2573.0
         },
         {
           "period": "2025-02",
-          "value": 20.1855
+          "value": 2658.0
         },
         {
           "period": "2025-03",
-          "value": 19.05619
+          "value": 2658.0
         },
         {
           "period": "2025-04",
-          "value": 18.171818
+          "value": 2372.0
         },
         {
           "period": "2025-05",
-          "value": 17.431364
+          "value": 2449.0
         },
         {
           "period": "2025-06",
-          "value": 16.22619
+          "value": 2526.0
         },
         {
           "period": "2025-07",
-          "value": 16.364783
+          "value": 2606.0
         },
         {
           "period": "2025-08",
-          "value": 16.389524
+          "value": 2597.0
         },
         {
           "period": "2025-09",
-          "value": 15.79
+          "value": 2653.0
         },
         {
           "period": "2025-10",
-          "value": 15.558696
+          "value": 2793.0
         },
         {
           "period": "2025-11",
-          "value": 14.623
+          "value": 2819.0
         },
         {
           "period": "2025-12",
-          "value": 14.935
+          "value": 2876.0
         },
         {
           "period": "2026-01",
-          "value": 14.785909
+          "value": 3142.0
         },
         {
           "period": "2026-02",
-          "value": 14.2015
+          "value": 3065.0
         },
         {
           "period": "2026-03",
-          "value": 14.796364
+          "value": 3373.0
         },
         {
           "period": "2026-04",
-          "value": 14.09
+          "value": 3600.0
         },
         {
           "period": "2026-05",
-          "value": 14.770476
+          "value": 3666.0
         },
         {
           "period": "2026-06",
-          "value": 13.907727
+          "value": 3439.0
         },
         {
           "period": "2026-07",
-          "value": 14.812273
+          "value": 3161.0
+        },
+        {
+          "period": "2026-08",
+          "value": 3251.0
+        },
+        {
+          "period": "2026-09",
+          "value": 3283.0
         }
       ],
-      "period": "2026-07",
-      "value": 14.812273,
+      "period": "2026-09",
+      "value": 3283.0,
       "changes": {
-        "mom": 6.5,
-        "qoq": 5.13,
-        "yoy": -9.49
+        "mom": 0.98,
+        "qoq": -4.54,
+        "yoy": 23.75
       },
-      "verified_at": "2026-10-16T18:43:18+00:00"
+      "download_url": "https://thedocs.worldbank.org/en/doc/74e8be41ceb20fa0da750cda2f6b9e4e-0050012026/related/CMO-Historical-Data-Monthly.xlsx",
+      "methodology": "Histórico completo reconstruido con Banco Mundial; no se empalma con FMI/FRED.",
+      "verified_at": "2026-10-19T13:30:46+00:00"
+    },
+    "sugar": {
+      "name": "Azúcar mundial",
+      "series_id": "WB_SUGAR_WORLD",
+      "source": "Banco Mundial · Pink Sheet",
+      "unit": "Centavos USD / libra",
+      "scope": "Precio mundial del azúcar; referencia indirecta para sacarosa. No cotiza sacarosa farmacéutica, mezclas de compresión directa ni polioles.",
+      "category": "excipiente",
+      "id": "sugar",
+      "url": "https://www.worldbank.org/en/research/commodity-markets",
+      "history": [
+        {
+          "period": "2021-09",
+          "value": 19.504472
+        },
+        {
+          "period": "2021-10",
+          "value": 19.05088
+        },
+        {
+          "period": "2021-11",
+          "value": 19.504472
+        },
+        {
+          "period": "2021-12",
+          "value": 19.05088
+        },
+        {
+          "period": "2022-01",
+          "value": 18.143695
+        },
+        {
+          "period": "2022-02",
+          "value": 17.690102
+        },
+        {
+          "period": "2022-03",
+          "value": 19.05088
+        },
+        {
+          "period": "2022-04",
+          "value": 19.504472
+        },
+        {
+          "period": "2022-05",
+          "value": 19.504472
+        },
+        {
+          "period": "2022-06",
+          "value": 19.05088
+        },
+        {
+          "period": "2022-07",
+          "value": 18.143695
+        },
+        {
+          "period": "2022-08",
+          "value": 17.690102
+        },
+        {
+          "period": "2022-09",
+          "value": 17.690102
+        },
+        {
+          "period": "2022-10",
+          "value": 17.690102
+        },
+        {
+          "period": "2022-11",
+          "value": 18.597287
+        },
+        {
+          "period": "2022-12",
+          "value": 19.05088
+        },
+        {
+          "period": "2023-01",
+          "value": 19.05088
+        },
+        {
+          "period": "2023-02",
+          "value": 20.411657
+        },
+        {
+          "period": "2023-03",
+          "value": 20.411657
+        },
+        {
+          "period": "2023-04",
+          "value": 24.040396
+        },
+        {
+          "period": "2023-05",
+          "value": 25.401173
+        },
+        {
+          "period": "2023-06",
+          "value": 24.493988
+        },
+        {
+          "period": "2023-07",
+          "value": 23.586803
+        },
+        {
+          "period": "2023-08",
+          "value": 24.040396
+        },
+        {
+          "period": "2023-09",
+          "value": 26.308357
+        },
+        {
+          "period": "2023-10",
+          "value": 25.854765
+        },
+        {
+          "period": "2023-11",
+          "value": 25.854765
+        },
+        {
+          "period": "2023-12",
+          "value": 21.772434
+        },
+        {
+          "period": "2024-01",
+          "value": 21.772434
+        },
+        {
+          "period": "2024-02",
+          "value": 22.679619
+        },
+        {
+          "period": "2024-03",
+          "value": 21.772434
+        },
+        {
+          "period": "2024-04",
+          "value": 20.411657
+        },
+        {
+          "period": "2024-05",
+          "value": 19.05088
+        },
+        {
+          "period": "2024-06",
+          "value": 19.504472
+        },
+        {
+          "period": "2024-07",
+          "value": 19.504472
+        },
+        {
+          "period": "2024-08",
+          "value": 18.597287
+        },
+        {
+          "period": "2024-09",
+          "value": 20.411657
+        },
+        {
+          "period": "2024-10",
+          "value": 20.865249
+        },
+        {
+          "period": "2024-11",
+          "value": 20.411657
+        },
+        {
+          "period": "2024-12",
+          "value": 19.958064
+        },
+        {
+          "period": "2025-01",
+          "value": 18.143695
+        },
+        {
+          "period": "2025-02",
+          "value": 19.05088
+        },
+        {
+          "period": "2025-03",
+          "value": 19.05088
+        },
+        {
+          "period": "2025-04",
+          "value": 18.143695
+        },
+        {
+          "period": "2025-05",
+          "value": 17.690102
+        },
+        {
+          "period": "2025-06",
+          "value": 16.782918
+        },
+        {
+          "period": "2025-07",
+          "value": 16.782918
+        },
+        {
+          "period": "2025-08",
+          "value": 16.782918
+        },
+        {
+          "period": "2025-09",
+          "value": 15.875733
+        },
+        {
+          "period": "2025-10",
+          "value": 15.422141
+        },
+        {
+          "period": "2025-11",
+          "value": 14.514956
+        },
+        {
+          "period": "2025-12",
+          "value": 14.514956
+        },
+        {
+          "period": "2026-01",
+          "value": 14.514956
+        },
+        {
+          "period": "2026-02",
+          "value": 14.061363
+        },
+        {
+          "period": "2026-03",
+          "value": 14.968548
+        },
+        {
+          "period": "2026-04",
+          "value": 14.514956
+        },
+        {
+          "period": "2026-05",
+          "value": 15.422141
+        },
+        {
+          "period": "2026-06",
+          "value": 14.514956
+        },
+        {
+          "period": "2026-07",
+          "value": 15.422141
+        },
+        {
+          "period": "2026-08",
+          "value": 17.23651
+        },
+        {
+          "period": "2026-09",
+          "value": 18.597287
+        }
+      ],
+      "period": "2026-09",
+      "value": 18.597287,
+      "changes": {
+        "mom": 7.89,
+        "qoq": 28.12,
+        "yoy": 17.14
+      },
+      "download_url": "https://thedocs.worldbank.org/en/doc/74e8be41ceb20fa0da750cda2f6b9e4e-0050012026/related/CMO-Historical-Data-Monthly.xlsx",
+      "methodology": "Histórico completo reconstruido con Banco Mundial; no se empalma con FMI/FRED.",
+      "verified_at": "2026-10-19T13:30:46+00:00"
     },
     "gscpi": {
       "id": "gscpi",
@@ -1841,48 +1845,48 @@
       ],
       "period": "2026-09",
       "value": 1.28,
-      "verified_at": "2026-10-19T13:17:37+00:00"
+      "verified_at": "2026-10-19T13:30:46+00:00"
     }
   },
   "source_health": {
-    "aluminum": {
-      "ok": false,
-      "checked_at": "2026-10-19T13:17:37+00:00",
-      "error": "ReadTimeout: fuente no verificable en esta consulta"
-    },
     "resins": {
-      "ok": false,
-      "checked_at": "2026-10-19T13:17:37+00:00",
-      "error": "ReadTimeout: fuente no verificable en esta consulta"
+      "ok": true,
+      "checked_at": "2026-10-19T13:30:46+00:00",
+      "error": null
     },
     "corrugated": {
-      "ok": false,
-      "checked_at": "2026-10-19T13:17:37+00:00",
-      "error": "ReadTimeout: fuente no verificable en esta consulta"
+      "ok": true,
+      "checked_at": "2026-10-19T13:30:46+00:00",
+      "error": null
     },
     "paperboard": {
-      "ok": false,
-      "checked_at": "2026-10-19T13:17:37+00:00",
-      "error": "ReadTimeout: fuente no verificable en esta consulta"
+      "ok": true,
+      "checked_at": "2026-10-19T13:30:46+00:00",
+      "error": null
     },
     "ethanol": {
-      "ok": false,
-      "checked_at": "2026-10-19T13:17:37+00:00",
-      "error": "ReadTimeout: fuente no verificable en esta consulta"
+      "ok": true,
+      "checked_at": "2026-10-19T13:30:46+00:00",
+      "error": null
+    },
+    "aluminum": {
+      "ok": true,
+      "checked_at": "2026-10-19T13:30:46+00:00",
+      "error": null
     },
     "sugar": {
-      "ok": false,
-      "checked_at": "2026-10-19T13:17:37+00:00",
-      "error": "ReadTimeout: fuente no verificable en esta consulta"
+      "ok": true,
+      "checked_at": "2026-10-19T13:30:46+00:00",
+      "error": null
     },
     "gscpi": {
       "ok": true,
-      "checked_at": "2026-10-19T13:17:37+00:00",
+      "checked_at": "2026-10-19T13:30:46+00:00",
       "error": null
     },
     "fda": {
       "ok": true,
-      "checked_at": "2026-10-19T13:17:37+00:00",
+      "checked_at": "2026-10-19T13:30:46+00:00",
       "error": null
     }
   },
@@ -2245,6 +2249,6 @@
         "presentations": []
       }
     ],
-    "verified_at": "2026-10-19T13:17:37+00:00"
+    "verified_at": "2026-10-19T13:30:46+00:00"
   }
 }

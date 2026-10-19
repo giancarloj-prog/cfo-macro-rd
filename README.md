@@ -35,3 +35,7 @@ python scripts/update_inputs.py
 ```
 
 Los fallos de una fuente macro no impiden ejecutar y publicar las noticias. Cada lector informa su estado; el éxito del workflow no implica que todas las fuentes hayan respondido. Los datos mensuales conservan su mes publicado y no se presentan como observaciones del día.
+
+### Fuentes directas de insumos
+
+Los cuatro PPI se consultan en una sola solicitud a la API pública BLS v1, sin registro ni clave, para los últimos seis años. Aluminio y azúcar se descargan del Excel mensual vigente enlazado por la página Commodity Markets del Banco Mundial; no se fija un enlace anual de archivo. Los históricos se reemplazan completos por fuente; no se empalman con FMI/FRED. Azúcar: US$/kg × 100 × 0.45359237 = centavos US$/libra. Se conservan meses comparables exactos para variaciones a 1, 3 y 12 meses y el último histórico verificado ante fallos o regresión del período. El flujo programado existente ejecuta estas consultas sin cuentas adicionales.
