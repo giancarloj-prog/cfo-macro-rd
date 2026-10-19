@@ -1,0 +1,166 @@
+{
+  "date": "2026-10-19",
+  "timezone": "America/Santo_Domingo",
+  "checked_at": "2026-10-19T13:48:11+00:00",
+  "topics": {
+    "bcrd": "Banco Central",
+    "fiscal": "Hacienda y finanzas públicas",
+    "dgii": "DGII e impuestos",
+    "finance": "Sector financiero",
+    "securities": "Mercado de valores",
+    "economy": "Economía dominicana",
+    "opinion": "Opinión y economistas"
+  },
+  "economists": {
+    "andy": "Andy Dauhajre",
+    "jaime": "Jaime Aristy Escuder",
+    "juan_ariel": "Juan Ariel Jiménez",
+    "raul": "Raúl Ovalle",
+    "jose_luis": "José Luis de Ramón",
+    "nassim": "Nassim Alemany"
+  },
+  "source_health": {
+    "bcrd": {
+      "ok": true,
+      "error": null,
+      "count": 0
+    },
+    "fiscal": {
+      "ok": true,
+      "error": null,
+      "count": 1
+    },
+    "dgii": {
+      "ok": true,
+      "error": null,
+      "count": 1
+    },
+    "finance": {
+      "ok": true,
+      "error": null,
+      "count": 2
+    },
+    "securities": {
+      "ok": true,
+      "error": null,
+      "count": 0
+    },
+    "economy": {
+      "ok": true,
+      "error": null,
+      "count": 3
+    },
+    "economist_andy": {
+      "ok": true,
+      "error": null,
+      "count": 0
+    },
+    "economist_jaime": {
+      "ok": true,
+      "error": null,
+      "count": 0
+    },
+    "economist_juan_ariel": {
+      "ok": true,
+      "error": null,
+      "count": 0
+    },
+    "economist_raul": {
+      "ok": true,
+      "error": null,
+      "count": 0
+    },
+    "economist_jose_luis": {
+      "ok": true,
+      "error": null,
+      "count": 0
+    },
+    "economist_nassim": {
+      "ok": true,
+      "error": null,
+      "count": 0
+    }
+  },
+  "items": [
+    {
+      "title": "Proponen a DGII considerar limitaciones de las pymes para implementar la facturación electrónica",
+      "publisher": "Periódico elDinero",
+      "publisher_url": "https://eldinero.com.do",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQmE3dmZydXVGdHg4X3JLUFZXcDNYWUlCMkdRakZKc0k0RGpZTEQwdUhGTjh5QlRLX09FeGFkNTFZQ09HLUZWeW5fRFZRZ3pQVXRCa1BsWEdoUERhTjZRbVd3SFlkdkhndjh1VVRwYmFFSUlQdnN5WHBLcjZiRGVQMlY2YjA2WlFSWE5obWFadHMzTmJ0T1cwd3F0cmhPWDZrQjdtT2QtNlJKa21BQWh4bVptSmdiR21OWE1MSmo4eDBMNmFpbzlv?oc=5",
+      "published_at": "2026-10-19T12:43:51+00:00",
+      "topics": [
+        "dgii"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "dgii"
+      ]
+    },
+    {
+      "title": "Embajada dominicana en Rusia anuncia programa para dominicanos que buscan empleo",
+      "publisher": "El Dia.com.do",
+      "publisher_url": "https://eldia.com.do",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcm1XZmliWmRNRW1BZkVJbUJDRER2eVd3MWZQRHlMN2ZuRDFVUTF0bHFXSmh5aWJldmtFa2diZzB4SXRRcmtXeWdLYW05VjdmSzVPUlhyX3ZoNnh5cGg3MWZ4VWx4QW1PLVdkQlNxMEVfVzZJYy1yRnFoYmREbkpXdHJfUzd0VUJNZXFFSmdzbE1ySDFGOTVUQjhRck16a1lBUmN3Tg?oc=5",
+      "published_at": "2026-10-19T12:39:10+00:00",
+      "topics": [
+        "economy"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "economy"
+      ]
+    },
+    {
+      "title": "¿Por qué es tan importante el crecimiento económico?",
+      "publisher": "El Dia.com.do",
+      "publisher_url": "https://eldia.com.do",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBiRlloLUg5OXRaMkJVM09ET250Z2M1U29pekJzSkRSSVl1bFhIX1l5alBjUmtiNXV4TEJ0UEdCVDZGYmppdm9ZUXN1YW5OSXdvM3VmTDVRZk5lT3NiRG16aUU3UUFkWnVTaEV0cDYzUnlrRnNIbnVYd3haS3E?oc=5",
+      "published_at": "2026-10-19T11:00:00+00:00",
+      "topics": [
+        "economy"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "economy"
+      ]
+    },
+    {
+      "title": "Petróleo caro, deuda creciente y déficit fiscal presionan las perspectivas de la economía dominicana",
+      "publisher": "Diario Libre",
+      "publisher_url": "https://www.diariolibre.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMDhhSWFWYWxNeGJQckRZRFpWZkZSSzNSa01YdmJBc1N0YVlQTnJicFdUcHloV3dLckwxQjRGNEFoU2VfYURxZzlGdXFYelBvZTh2a1dqWm5QQ3M2aWI3ZWZWS0tJTmhVQnVRTFhRX2ZKNGFkaElpalN1cWVWaDlVYWlRbFZvbXd1SEhWcWF1UnlRTU9zUF9ENWJ2bEphMEJzU2FnYzA3ZlBsRnJnM0l0d2pUTUxJQdIBuwFBVV95cUxONEFKcjk5bnhpcnZaajdwUkMwdUpvdlEtdkJxVzFJbmJVRWlRQTdhYW4tQktqa2E5UURKLWxlUmdmWk53YXJDRTNQSEU5Z3ZCcWxWWEtZb1lGMFpubGpycmlJREd4VzFpWk1scVlqeGltNHNMRDk1ZHlXX3lrbmlVODZxdkstMHFmSUQ1eUZ4LXdtMWlQQ0g2UlZwOXBqUDIxZ1pqekFpWFhNeGUtZll1SnExRzJSTDF1bHJF?oc=5",
+      "published_at": "2026-10-19T04:01:00+00:00",
+      "topics": [
+        "economy",
+        "finance",
+        "fiscal"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "economy",
+        "finance",
+        "fiscal"
+      ]
+    },
+    {
+      "title": "Pensiones bajo presión: el espejo chileno",
+      "publisher": "El Dia.com.do",
+      "publisher_url": "https://eldia.com.do",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1NdERKcGhwQTV5VFN4MlpkWEE3Ny0tbHRhUl9LMG1xZ054X0o3VmFLNHFRbmtWZTVhbzNXdXJMQ0xtWVNBbFV4Uk51WFViVXpEOWRncUxiNkZsSzBKNTh2S3UyajV5NWREZ0lqRnlBSQ?oc=5",
+      "published_at": "2026-10-19T04:01:00+00:00",
+      "topics": [
+        "finance"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "finance"
+      ]
+    }
+  ],
+  "discovery": "Google News RSS · medios dominicanos seleccionados y fuentes oficiales; cobertura no exhaustiva."
+}

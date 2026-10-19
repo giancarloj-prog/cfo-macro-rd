@@ -39,3 +39,9 @@ Los fallos de una fuente macro no impiden ejecutar y publicar las noticias. Cada
 ### Fuentes directas de insumos
 
 Los cuatro PPI se consultan en una sola solicitud a la API pública BLS v1, sin registro ni clave, para los últimos seis años. Aluminio y azúcar se descargan del Excel mensual vigente enlazado por la página Commodity Markets del Banco Mundial; no se fija un enlace anual de archivo. Los históricos se reemplazan completos por fuente; no se empalman con FMI/FRED. Azúcar: US$/kg × 100 × 0.45359237 = centavos US$/libra. Se conservan meses comparables exactos para variaciones a 1, 3 y 12 meses y el último histórico verificado ante fallos o regresión del período. El flujo programado existente ejecuta estas consultas sin cuentas adicionales.
+
+### Noticias económicas y financieras RD
+
+La pestaña Noticias económicas RD lee `data/economy_news.json`. El actualizador `scripts/update_economy_news.py` busca titulares públicos en Google News RSS de medios dominicanos seleccionados y dominios oficiales; cubre Banco Central, Hacienda, DGII, finanzas, valores y economía. Busca además Andy Dauhajre, Jaime Aristy Escuder, Juan Ariel Jiménez, Raúl Ovalle, José Luis de Ramón y Nassim Alemany. Las coincidencias por nombre no se presentan como autoría confirmada; la interfaz identifica cuando solo proceden de la búsqueda. La lista de economistas y aliases se puede ampliar en ECONOMISTS.
+
+Se ejecuta con las actualizaciones existentes (7:15, 13:00 y 18:00, hora RD, sujeto a retrasos de GitHub). Solo admite artículos del día dominicano, conserva descubrimientos durante ese día, combina duplicados por medio/titular y reinicia el conjunto al cambiar de día incluso si falla la fuente. La pantalla recarga el JSON cada cinco minutos y oculta registros de otro día sin esperar un despliegue. La cobertura no es exhaustiva; no hay archivo visible de días previos ni resúmenes inventados.

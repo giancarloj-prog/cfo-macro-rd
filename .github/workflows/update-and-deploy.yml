@@ -37,12 +37,13 @@ jobs:
         continue-on-error: true
       - run: python scripts/update_inputs.py
         continue-on-error: true
+      - run: python scripts/update_economy_news.py
       - run: python scripts/update_news.py
       - name: Save validated data/health status
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/current.json data/history.json data/usa.json data/news.json data/gdp.json data/inputs.json
+          git add data/current.json data/history.json data/usa.json data/news.json data/economy_news.json data/gdp.json data/inputs.json
           git diff --cached --quiet || git commit -m "Automated macro data check"
           git pull --rebase origin main
           git push
