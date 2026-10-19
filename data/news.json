@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-18",
+  "date": "2026-10-19",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-18T23:51:13+00:00",
+  "checked_at": "2026-10-19T13:18:04+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -19,7 +19,7 @@
     "centroamerica": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 1
     },
     "mexico": {
       "ok": true,
@@ -29,131 +29,78 @@
     "usa": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 9
     },
     "europa": {
       "ok": true,
       "error": null,
-      "count": 15
+      "count": 16
     },
     "global": {
       "ok": true,
       "error": null,
-      "count": 9
+      "count": 10
     }
   },
   "items": [
     {
-      "title": "Detectan venta de medicamentos e insumos del sector salud en Mercado Libre y Facebook",
-      "publisher": "El Economista",
-      "publisher_url": "https://www.eleconomista.com.mx",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPS05vMnR1Qk56Um9MbmxPRGtEclk2SHlRNGxrNGtCc2xmQXJrZzdCZWdfRXB0UVhiUVlHcGtVMk4tV3BoREc2OUhQN3QycWtSY2RuWHY5emlOVGJGUWp4bFRXSXlwZUNBcE5zdzVMNklQZ2x4bVVNMEpoQ1p2MGxOUG94NlV0SWttZEtRbkl0VV9qZXlWc2dzb3A4M0tzLW5WLVJucVV4MDlmOUV4a19LNUQ2T3ZsZ3FyNm9yYWNaNEtGdUlla0I0RFJsNDczWUto0gHWAUFVX3lxTFBDM09mM05Bc3dsLW8yYjRtZVFjSGU5cFFZOUhxM2NJd3d1WF85YlV6QjZub0QtSnNzUEN2bFV0RkI5bVNya21uRWw1Tlh4ajRiUEM3X3N6Z09GRG5JSG1femFSaEFuZnB5aEc1cTRldzl6dEtfX2xEbGd4YmtvRFdPSGQyMWhJVElRUFBLU0JvNFpDbzZIZHlYdmZXLVl2WWVfdE5jYmNSTlpWQmlzWGJ5VlpGcmF1bVQzSTRTaWI3Yjh2dE9STnhfaVlERHNNb1RnbG1RakE?oc=5",
-      "published_at": "2026-10-18T22:21:39+00:00",
+      "title": "The Next Chapter for AI in Clinical Trials",
+      "publisher": "Fierce Pharma",
+      "publisher_url": "https://www.fiercepharma.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1wM002blFDMVR5eHUtTkx6ajU2eHBNLUtlZzlONzNrcC1PbHRxb0F6N05KY055dEF3MnFSbTBEMUNaN2JvSmU3RVREOFpQUWtKaG1KRmNPOGRfTUdfM0x2STNmZkN5czVzWWZBTDRRczBHNW5CODBqNXhR?oc=5",
+      "published_at": "2026-10-19T13:00:00+00:00",
       "regions": [
-        "mexico"
+        "global",
+        "usa"
       ]
     },
     {
-      "title": "AbbVie to Present Data at the 2026 European Society for Medical Oncology (ESMO) Congress Highlighting Progress Across its Expanding Solid Tumor Portfolio – Company Announcement - FT.com",
-      "publisher": "Financial Times",
-      "publisher_url": "https://markets.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPajZsczFkRE84aVg3N1NGcHB3Z1psVjVmaHZaVERpbi0tLXJKUXRvdm1DdlVfY0ZfOU1iYks2cXNVT2xRNXBTbXBaeTNIaEVDZnBYdVE1VlptbnVSOEduaHQwRHdXNEowMEJJQXgwUGJ0ZEh6NGktdl9XSnJaTXo0SWN1ZDJ1TVR1eTJEUnFyVjBxN1dXQmFDRw?oc=5",
-      "published_at": "2026-10-18T22:10:00+00:00",
+      "title": "Germany’s Merck to Buy U.K. Biotech Silence Therapeutics for $1.3 Billion",
+      "publisher": "WSJ",
+      "publisher_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQS2IxMzhfeTJQa3c0T3dGazN0MnB0VWZXYlpxRDlNdVE3WXoyQUZJYUo3dnlRZVRMckUzZzRvUlVhUXR3UEJRaGlleFNwUmc2UGowYjVOdVRVR3hBREM0eFpxckdHQWVFQnF6VTZEMjYxMFkweVV6R1FnZkdTTTBZWXZqNXdfWU1zTjZDMDZIcGRGWXVTTDg1QlpGbjAyX2JGeUQ2UjFNQkNob2RNNEh3VzN3?oc=5",
+      "published_at": "2026-10-19T12:48:00+00:00",
       "regions": [
-        "europa",
-        "global"
+        "global",
+        "usa"
       ]
     },
     {
-      "title": "ESMO 2026 Presentations Deepen the Evidence Base for Natera's Oncology Portfolio and Leadership in Ultrasensitive MRD Technology – Company Announcement - FT.com",
-      "publisher": "Financial Times",
-      "publisher_url": "https://markets.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOR2FSNTNPRWFISDZ5ZlgzYXoxMTc1eElSd3BEZ19FWHV5aE9MUThwZFdvY0VYenc5NUg0QVlGWF9ySWRoSjdIR1ZKeFF4TW03bGVob1puUVM1RnZMZEJxQk1NMERjdmtmOFk4Wm93Y295aDFGZ0l2MldhcVhFanNEWkV4ZE8zalZld05NN3IyOGtqZGp0RjIwYkw3WW42NUd1LXdsbUV3?oc=5",
-      "published_at": "2026-10-18T22:10:00+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "Lilly to showcase advances across its oncology pipeline at the 2026 European Society for Medical Oncology (ESMO) Congress – Company Announcement - FT.com",
-      "publisher": "Financial Times",
-      "publisher_url": "https://markets.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNWtzQ00wbHVLSlE3QVQ5VU55Wmg4N2VJdmVmT2xnbFp0emxIVVpITS1odFgyaEN6TW5KLWJScXc0NWZ6WFd1cUZIRGVtb1FVUXFNLTlMdHFOVkZNTXdKUU1UaVNMaEVTS2RfdklrTEhlVldmYVU0amh5dTgwZElDei15U2hYaU84UVFUeFZKZkJNOEpHOUVhNw?oc=5",
-      "published_at": "2026-10-18T22:05:00+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "Veradermics to Hold Conference Call to Discuss Topline Results from Phase 3 '304' Clinical Trial of VDPHL01 in Males with Mild-to-Moderate Pattern Hair Loss – Company Announcement - FT.com",
-      "publisher": "Financial Times",
-      "publisher_url": "https://markets.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNUo0SmFtcVhCbFZqS3ZYYVZsQTRWTzlQcVFlZzd4d0psOS0tSU00VWZuNjJCbmc1bVV1TVhRUnEyUDVvbGVRZGhfcTAwRmZqbG1Tb2Jidm53V2g5VEtDX2RiZkQtcndockI3X0VNTzA5UWk1bHpIanRfN3dqUGRFU2tzTVhYWnpwZVpKYXhocGdBQzFLY3p4Q09MX2R3c19oQUFZeS1n?oc=5",
-      "published_at": "2026-10-18T22:00:00+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
+      "title": "Birmingham drug driver who hit girl then blamed seizure jailed",
       "publisher": "BBC",
-      "publisher_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1tZ2twUno2NV9DQnl1c09sZ0VPa3o1N194TmV1d2otYk9pb1Vsb2pLaUhMd0JxWWxwSVhKS29WWEhURVpMb2ttbnNfS3phbjVzdnR0QkJOc3M?oc=5",
-      "published_at": "2026-10-18T21:00:22+00:00",
-      "regions": [
-        "europa",
-        "global"
-      ]
-    },
-    {
-      "title": "Eikon Therapeutics Announces Availability of Seven Abstracts for Presentation at the European Society for Medical Oncology Congress – Company Announcement - FT.com",
-      "publisher": "Financial Times",
-      "publisher_url": "https://markets.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSWQwY2JMeHMyWThmTHFaS2FlbVozN0Zlb1hrczl4NklNeEhCNzV6LThqYU9FTmZZV1dVcUV5c3JfUndKMXB4al90ejAyM3VPZUpWdk1ORzZER2tNVG5nY200aVhHTkNWRnlFMW55elZrSW12bGZ0Y0FreXZIWkRNcVhrWF9OMWxyUTFQdl9QV2VqV21zYmFJ?oc=5",
-      "published_at": "2026-10-18T20:05:00+00:00",
+      "publisher_url": "https://www.bbc.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5WZXp0bzJlc1JNQUpLdHVsT1ktTkVscjBZSWQ1alc1cDR1TTgzTG1hN3FGU3FfQkFzT3pDWG9HMGJvQ0RoUVF3V0Z6OWhpTEpqS0dhRFl3UE5rQ1dDakE?oc=5",
+      "published_at": "2026-10-19T12:16:25+00:00",
       "regions": [
         "europa"
       ]
     },
     {
-      "title": "Disc Medicine to Host Corporate Webcast to Discuss Topline Results from the APOLLO Phase 3 Trial of Bitopertin in Erythropoietic Protoporphyria (EPP) – Company Announcement - FT.com",
-      "publisher": "Financial Times",
-      "publisher_url": "https://markets.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQemp3NHdoUEZRTlRRUzNEa0UyRnp6TzhNdTZjSGJqSTJSU01OME1ZNWtIUV9icUhlWUJLejE5UzNnU2g3Z3ZxRFFBLUZpRGRtMnBjSlRWaWE1WkN6OGhlYXpUdnZEa1BxRFdCWjhlZFZDWnBHV3E5R1lkWmFOaU1SVlQ0dnY4bE41TXFaSGVFMHU3bjduLW1V?oc=5",
-      "published_at": "2026-10-18T19:00:00+00:00",
-      "regions": [
-        "europa",
-        "global"
-      ]
-    },
-    {
-      "title": "The next ayahuasca? Gabon fights to protect sacred plant from US drug companies",
-      "publisher": "The Guardian",
-      "publisher_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNd0RBMXc2TUdRc1FKZlNHNjJzWUV6TXpxcF9MdlBkWG9UcVozUUNPdlhtcE1aekhrZjl5SkFWeFZOX2Mxd1NsTjFKaWo3dm11bnB6cC1kdGk3Rk00azBJcDlGUzJPaWhYNGlqaGlEX3BqZkM3NjJrb1lmbmEzcThZT1ptUmg5VWp0OE5wUHBVMjEwREg4Mnpxd2lvbDEyU3prNmFJOVE5dTJXNWZ4NXpReUFhZkxsTE9xV0loQXJwMm1pLWs3MW90UlB2bm1NWnpNOElRcEdTVQ?oc=5",
-      "published_at": "2026-10-18T16:42:00+00:00",
-      "regions": [
-        "europa",
-        "global"
-      ]
-    },
-    {
-      "title": "Gwynedd drug dealer Arthur Hughes has £80,000 of assets confiscated",
-      "publisher": "BBC",
-      "publisher_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TRUNMNEo5ck9lN0R3LVRjV1ZYM0VlNzNEY1R3NGc2LUtSZWVPNTZGYmtvNnZBelhEOXpscDg3SUcweEpocXhyZDVQbjZFSmVOd2FKNWxacGxzZTA?oc=5",
-      "published_at": "2026-10-18T14:26:24+00:00",
-      "regions": [
-        "europa",
-        "global"
-      ]
-    },
-    {
-      "title": "India widens cancer drug price caps, lowering prices of 137 medicines",
+      "title": "EyePoint to halve workforce after experimental drug fails second late-stage trial",
       "publisher": "Reuters",
       "publisher_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYkkwM0RDdmdmQ1ktLWJBS05mMmp0SmNveGE5ZGRVWmNaYVA1czQwVEpSTGF0aXRSSVpYaGNYZ2tVVVVtN3Q0VUpqS1cxaVVMd3hUNkxPVEdhN2xfeHU3VjhuTkVoSlVJWDYxSXpSMkNiNUVOMGU2VUhWUTdBZUhzeUpidFhUTkhpZVFOOVRmYUV6alA3TC1BMTdYR2lJYktuZUI2UVZGMm5Wajg0MmNfMTg4NzJqeXVhVmpwNkVmbEpKbmhiUEJKUWQ4aTA3cmJTR0FR?oc=5",
-      "published_at": "2026-10-18T11:27:03+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbU1HY1hHV0FBd3JPVmhzSXVGRmZTNHpBOHp3U2lOSGFkcVpMaGVuS0cwLXUyOGk2cWxsbjlzNnNwdEw3Nl9tWjJSRTZvLVRaNmdXNjFzaFA5NnQ0X0tJZExla2M0emU5NGk5TGhtTmt1eExTZGJvWGlYbnFyMnVWMWxLbjZvY1E4SGdxY1ZDak80UlN6WTM3Mjh5RTloUXVmSHFva0VpaGJYTEUyYVgzSDZRMl9hbHVlMFdMSG5lT1g0aFRpMEdKMzh6OA?oc=5",
+      "published_at": "2026-10-19T12:08:25+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "Disc Medicine's rare disease drug succeeds in late-stage trial",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcndwdDRESE9HcTUwa3lSOTFub2hJbEs1djBXam9SYzE5WjJwcS1ydEtJZ3VkcF8wV2pGNU1SV3lNcFhsbjNlYkN5VjJFMkF5Q1BfVkI2TkRaUW1ndFJ3azJsSWhKTXNXM2dyalotQmMybVlxQ19BRmFPRTV3MEtoZ3V3WFRlcE5UVXJIS3VOZ2VHa0tNNEt6aDVHWXVXMGZVZXJJNjg4aWxMLUZEaEpJSlR2UUpLd2gtOUJGVFZvdzhmeEJRd3FrbmVn?oc=5",
+      "published_at": "2026-10-19T12:06:36+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "Fed sees AI boom adding to inflation headache, but others may pay for the medicine",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbWZLVGpmVmN6M1o1UUJnRXhSMmVWdjY2Mm4tR0IyeXk0OHZzOVRPamx6eEdEVjhEUHVXMlkzeFhoWkg4Qnl0a3lYQ0xJdWNzVHcydDA0NFdVb0ctbEVoMExGek50RHoxWF9TRThVMXRENDhWV2RUbVRGOVhvOEtoTmlTS1NlZGk0UldmSEY4N0tRVVRBeWc5SmJqRGlaVWwzeHRPa1hHZDNHZ3UxUjhwZHBGQXo0YlIw?oc=5",
+      "published_at": "2026-10-19T11:35:47+00:00",
       "regions": [
         "europa",
         "global",
@@ -161,33 +108,180 @@
       ]
     },
     {
-      "title": "Every scrap of paper checked: Police hunting for synthetic drugs in Chicago jail",
-      "publisher": "BBC",
-      "publisher_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE41QUN1YWM2Z2pJYkZ0U2ZDa0h6dG1WY2g1SWYtRzlneVlfTEY1YU56MDVWWG9ScTFuOUpxSEZRSjlRZEh0UFcwZXZpNjRyMHRuU0pPaHd2amg?oc=5",
-      "published_at": "2026-10-18T05:30:16+00:00",
+      "title": "Veradermics' oral hair-loss drug shown to boost hair growth in late-stage study",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUG9Sd25BdEpKc2wxMmRZYlEwSmlsd3QxRk51bEtZakZya2JITDlKWXIyb3RvR054YUxjSWRiMmJ6TnRnSk50dGFzQmZlUm90TzFHMTlPZjZYbnFERjZzXzM3ZE5hRFpmX1hEbDM0M1ltbXdKV2lGMnI4RjJ2NVg0MjdfaEQ4b01LOFlEcDhZV1pLTGU1eTdmNEZiejhpd0FHT2p5RGpxTkdEWmN2NnFhTjNWUkRtcG9MMFhaQjBxWkZQUDZjR1Y0UVhLdjFtaENiYU1TZlpqTzRTV05H?oc=5",
+      "published_at": "2026-10-19T11:32:43+00:00",
       "regions": [
-        "europa",
-        "global"
+        "europa"
       ]
     },
     {
-      "title": "Southend MP vows to help teenager access life-changing drug",
-      "publisher": "BBC",
-      "publisher_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5VmZNcGVOYnFYdDVGbXZEYWdmVWJJRzlTNXdmbzVZc3VUQ2RnVlRNSUhQc3FkVG0xTnZRWmhlaDlSZnpwbVE1ZTZpanc1ODBfSmJ6a3F1azl5TDA?oc=5",
-      "published_at": "2026-10-18T05:27:00+00:00",
+      "title": "Actinium Pharmaceuticals to Showcase ATNM-400's First-in-Human Clinical Data in Prostate Cancer and Preclinical Results in Lung Cancer Supporting Pan-Tumor Potential Today at EANM 2026 – Company Announcement - FT.com",
+      "publisher": "Financial Times",
+      "publisher_url": "https://markets.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOGRGNXZKU1F1UGFQa0oxZktSVks1bTZpdGFWYTJBcDNNSUFWOVNoUmRjbWZmVkdPc1VOakZBdzI3dTV2QUEyOUNOMV8xaTFYNEkteHh4V1RyY1NPRDBaRTFGazhZemx5cXpMQ29YUThZbzlFQ2lONGx3YUdEMHpPLTlZSG1nbmd0MFhJRnFvM05MUTczX3VOeQ?oc=5",
+      "published_at": "2026-10-19T11:30:00+00:00",
       "regions": [
-        "europa",
-        "global"
+        "europa"
       ]
     },
     {
-      "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
+      "title": "HK-listed Metis TechBio, Eli Lilly strike drug-delivery deal worth up to $1.1 billion",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNdUVXdWoyYzFOX2oyZWZGVFhYeFdLdlVjaHhzSjIzWXR2NnRDUGtXVWxFWHQ5a3Y1TklNTkhtQTlUeHBqWUQzWUpuNkFhTW0tcDhzck9ma3gxVm1BQjZnWTQ3UkhMRUJJSmFMWjFKTkpPSjBPS2ZOeElDZ2FKbFRzdC1jVUdyMEREaHhxdkpQZDJNQWRZdmkwZDF5R09hMkRCSG9NYUtkZjZ5VHRxNS1qOWVCdFdKV0dnR19oRmxjWlhqakl6ZTJtWFhYLVNZU2REMEdrbjZSMGNpSW8?oc=5",
+      "published_at": "2026-10-19T11:26:40+00:00",
+      "regions": [
+        "europa",
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Watch: Drug driver banned after crashing into pole in Oxfordshire",
+      "publisher": "BBC",
+      "publisher_url": "https://www.bbc.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE54UndrVzhoSFVkcEFTc0RfTmczb0xZaXZaWFFpd0NCOHhKNGVjSlROS1BGRmJKVWdESy1fYWVPOVZKeFV2NUxKRkNFY2xUUzRzNkNlYU9CTzhBY2Qwc2c?oc=5",
+      "published_at": "2026-10-19T11:04:09+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "From strategy to scale: How Saudi Arabia is building a biotech ecosystem",
+      "publisher": "BioPharma Dive",
+      "publisher_url": "https://www.biopharmadive.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTDlLU0xreTVZU1pCTVRKSUt6VGJ6NDZUeDlMejBaUzFiYU83clpOdDI5Y3BYSE5kNmdzRUk0WXhCOC1wU05DTmhtZG92Mjlib3BlRXRfV3g5ajBaTTg0WEhDVGU0RXkyZHJyZlBwQkFTaHhBRmRaVlJET2w0TE4wbThSSl95ZnROdnN0SE9FUkQ3THRfLWEyTE5rRXdBSTYtT1R6Ulk4TXh1d2RqOGNxcGx6MWJWZw?oc=5",
+      "published_at": "2026-10-19T11:00:19+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "China's Hansoh Pharma strikes drug deal with Roche worth over $15 billion",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOc0dwVmRRdXlaNnBlQmlkVnQ1SFdFZzRWdXVJcU9xYm1uRUh5alBpZl9hYVZVSDdjUzQycEJXei1xXzBTeTFacnFBUm5HM0paV0o2TTZldk5aVWs0cWdyS1lZUXp3TmZwajhwaTNIYUtyckxLaEFORmpfQW1DSjlMTm5yRm9EYXIwWXNOdW9Od1hZaTFLa2dWRm9PZXRSYkg3WTc3ZWdxNWtXN21UY3E3RTEyeFNtcTFPajJUcWlUQVZ1a0Vyenc?oc=5",
+      "published_at": "2026-10-19T10:58:39+00:00",
+      "regions": [
+        "europa",
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "BeOne Medicines Highlights Rapidly Accelerating Solid Tumor Franchise at ESMO 2026 – Company Announcement",
+      "publisher": "Financial Times",
+      "publisher_url": "https://markets.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTlNFT2YyeTRNaHhNWUk3VldZVmExS1VZbFhuWVdvUUFIdUhhOThkbjRRaGs0cnBmLV9jZGRPcW9hX09kU2Z4aTl5QlZMa2JYdnliczVzMEtCNm9GbDcwNkJlajlNczd6NE9RTHNBRHp2NDNKeWpTWmdvdEtqNElIeVRPNS1WVTV6SC1ILWlybFRreGFTUzdwdVNQUlBSMEc4b1dxTUtB?oc=5",
+      "published_at": "2026-10-19T10:00:00+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "Cherry or tabasco? Perfumers test weight-loss drug users' appetite for food-inspired scents",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbnpyZUxyMk1YNWg3QmZscE1xc3A0Z3V3OXFRajhLUmF6NFV6UjU0UzFvMFhtRXRlMEt2MGZpcjFBWGYzX1ZLLXpGb1QxWVM3Vl83ekRJTGY2VnpXNXhQeG9CVGxfQk45MVpaTVRGTVM4NkNXemx3VlJYMDZ2b2JROFN0WFJFdDBTVU5TZ0tWa2VhTzJjS0tJN1k4ZGRvODV2c0pKU3pZZ29jRWJDeGFFSzVsMFpCd0czcU1BclVrTk1rRWp6Y0J5bmRFejJ6WlozMzl4dHdn?oc=5",
+      "published_at": "2026-10-19T09:22:15+00:00",
+      "regions": [
+        "europa",
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Data reveal is promising for GSK's lung cancer drug ris-rez",
+      "publisher": "pharmaphorum",
+      "publisher_url": "https://pharmaphorum.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORVBSVTBQNGdIUjNtVFppWUllUGRDU3Y3QTZtUmFGRFJRSmYwaF8tYWMzRUZmYlFEazFCUkhRNWhYVHktWmppSDFoMGpxVmhLNEFxYjIwMFdPWFpmeWdhS09HX2JvcGkzZDhDLXJDdUw0NzBVMXRaWjZfdm16cWhFcmZ2YTdMVXds?oc=5",
+      "published_at": "2026-10-19T08:58:04+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "Gilead’s IBD drug eliminated symptoms for patients, mid-stage study finds",
+      "publisher": "STAT",
+      "publisher_url": "https://www.statnews.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUi1SV2dKUXl3LU9jNFpUSXZFZE9KbVBweHh6bXRzRGRMeEExcE5UOXVZaXd2NVBvQk45R3ZCZVU4Q3E5eEdTZFBMeElQYjJDT1hfU0s0RWFMaFM1alJNZnFXUUNPOGRldUtWNWpldjBKT0tvbXN0NDFzSXZzcVRVTg?oc=5",
+      "published_at": "2026-10-19T08:38:14+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Does Isomorphic Labs have what it takes to revolutionize drugmaking?",
+      "publisher": "STAT",
+      "publisher_url": "https://www.statnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdEFNVDJCVVhfWmhGMUp0Nnd0U2xzSFlYaWJZSV9XM3hjaG5BZ1NPQXh5aVVjZ2ZhcFlFT21oZjEydmZVb3BwWjUzd3hsczJsZF9MTDhhZXVWZjR6bHl2NmtheFhnTGZ2RGVqdWRKUlZKRXp2aFhpYnllcEM1ajV2Wkhpa01PVml4?oc=5",
+      "published_at": "2026-10-19T08:33:14+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "From reactive to predictive: How data is redefining pharma logistics",
+      "publisher": "pharmaphorum",
+      "publisher_url": "https://pharmaphorum.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdG5IM3dNVGFrUUUzTG0wNzRvNjdGWXc2VWVyb1BiV2IzYXYxbVlUX3BWdmxQTk5wLUtVQjlTNkZteVV6ZlBwR3oyZVJfMFNmbjNPSjY3VUZxajN0MlV2dzZ2ajNnN0FtaGVtYkFUcTZIZ0NpdF8xUEo1aUlnYWFlcU5kSG9XQnMyb0JBdA?oc=5",
+      "published_at": "2026-10-19T08:30:00+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "Cancer biotech Nouscom adds €120m, and other financings",
+      "publisher": "pharmaphorum",
+      "publisher_url": "https://pharmaphorum.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTUNXNDBfYUtoT3puU1dBMjNWSmRHMzdCUDhOSEV4Unk3bHViQnd2ZlV1bURoVFVnMUU5Nm84WVRSb2w1S25rbllzTEJIcnhCNmxKR3NEdk4xNjYzNU9xeExoUXU1VkVVcEh5b2RVRlUzV2FrUEVCbmxRb2luWm82c2Jsd25VWUl3Z0c1WHBn?oc=5",
+      "published_at": "2026-10-19T08:05:57+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "Homemade, synthetic drugs sweeping the US",
+      "publisher": "BBC",
+      "publisher_url": "https://www.bbc.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1HbWFQN3gyTTRoYnA5Um02M0I0WU4xck03ajRmVXh4WU1jM0RJOFBTVkVvWjl6S0VPT0ZHRzdYRWhrcGxQQ2xWZmdEYjFQZGhqc0ZhNXRFalFiX3JpM1E?oc=5",
+      "published_at": "2026-10-19T07:12:33+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "CCSS evalúa utilizar las terapias GLP-1 para tratar la obesidad. Conozca cómo funcionan estos medicamentos y cuánto peso se puede perder",
+      "publisher": "La Nación Costa Rica",
+      "publisher_url": "https://www.nacion.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTi00UkNPSURpUGJfZ3ZDRm5ZMzVPb1VXS1lqRWQteW1PdGpPV0hWVE5uMG10Q1VQNHExWFJ0ZUJyY1ZhVzVKdUZtYU4zMGVtcEZmRm1YS2h3YWtvZjBVeVAwX0M0allJbnJEWENVVkpVdFcxN1pQZmdkUGVYTHN4bGl4UDgwelpnMkYxS3RpOUtoRHJadFhjM3JhdHZkMXN4TWFBeFM4NFFVWWNLbWc?oc=5",
+      "published_at": "2026-10-19T07:00:00+00:00",
+      "regions": [
+        "centroamerica"
+      ]
+    },
+    {
+      "title": "Intervención de las farmacias privadas para combatir el desabasto",
+      "publisher": "Milenio",
+      "publisher_url": "https://www.milenio.com",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxObndjb05EYjBBZHlkRnhZMnA2M1BKek9UNWRtMUlqTFlnX1RGS2JGdTFkWC1YU1BfUHZCZFNsaFJITkFKcFltTDUxU0lMVjd1TUhES2dYdGNERldCNEQwZm5WYjFXbGtpcFo1WXBTcVFCNDFJUjlMWDRmZG4xTW1Wc2Zpay03Y2daOWd5cXBBSDRuT3Vod1VCS1pQa2hUSmdfM2ljN3FxYzRyTGhMQkNqcFJtblF5bGMzM3FqLWhCVktqbWxRbjJ0RS1vTE5oa2hWZzM0SjQ5OExzR2FiT3lRN3I2UlBUODVtOUQ5QlgtNXh6U1ROaVHSAfYBQVVfeXFMT3JOSWFPVTBJbGM3amt2eU5Icm10RGdtVTdZQzdUSFFpdEJHLW9BWWRHd29abW1GaFZXdElFLWJybWZ1MmhOdi1tYlFXeDQxTTlzdk95Rk45WVhZcmFSaXB1a1Rzck9fazhCem1sdlRyVFpUejNuYWpsYm5zQlloRzdIYWhVeUFUQkRsUEd0VVBwb012Qy10aWs2b0hwQ3VDOXdnemhpSUo4eHVSMUlzUW9RTVV6cGRTV21uNHc5WThpeDRuaWtnVk9BYU0yVVpPZTFWQkdzZUhZTjJIRzhGeXdORlRXWUxFOEdJZmdWVE5aazRGamRR?oc=5",
+      "published_at": "2026-10-19T06:31:31+00:00",
+      "regions": [
+        "mexico"
+      ]
+    },
+    {
+      "title": "Drugs trade",
       "publisher": "BBC",
       "publisher_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ldlVLNTBNb1FyQll1MG8wbVMtdkg2Q2FxeTBMUURDLWpyYm1aNXpmLVA3Tmd5RTdnUnJuT1NHQU9mY1B4LU13OUxXa2RieWxrNGlleFliUDVJZ1U?oc=5",
-      "published_at": "2026-10-18T05:04:31+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5kaG1NcTZUZjlZZHJEd0g0ODFSX05nc1lpYlhiRXRCbllYUldfZUYyNnBXNnMwdG5fWkhGWTJlQzlSV1VOdk9iM1FOQzJnQlNqSEtNRVBqOA?oc=5",
+      "published_at": "2026-10-19T04:41:34+00:00",
       "regions": [
         "europa",
         "global"
