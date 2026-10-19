@@ -1,7 +1,7 @@
 {
   "date": "2026-10-19",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-19T13:33:49+00:00",
+  "checked_at": "2026-10-19T13:51:19+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -29,20 +29,31 @@
     "usa": {
       "ok": true,
       "error": null,
-      "count": 10
+      "count": 12
     },
     "europa": {
       "ok": true,
       "error": null,
-      "count": 15
+      "count": 17
     },
     "global": {
       "ok": true,
       "error": null,
-      "count": 11
+      "count": 13
     }
   },
   "items": [
+    {
+      "title": "Two former Republican lawmakers say the GOP’s vaccine position is a liability",
+      "publisher": "STAT",
+      "publisher_url": "https://www.statnews.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdGtpa3ZBREc3cDVlZDVWb01qX3ZpUUp5enNCX1oycWZ3MHdNaUYyWlFUZEZjV2FQWkVNaUxNWjZiMUNsR09sLWhPdm4zTXVyVTY0MG56dmNEcURLamdROTZBZ1EtOXltaGhFYkhfZjFweWtrNEltdzdsM3pPUm9tS0x1eWZGLU01cVZhcHNKelpDdFFSaVlYcWMxYWRlUGdiTTlyVDdoUXN4aXJHWTBoUjFR?oc=5",
+      "published_at": "2026-10-19T13:43:10+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
     {
       "title": "Pharmalittle: We're reading about Roche investments in Germany, a Gilead bowel disease drug, and more",
       "publisher": "STAT",
@@ -50,6 +61,18 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNHdIdW5rN3IxU0hqVUM4aGduSmEwUkNwUGhHUmdFM0VCaXVJaUJVSUlFTmVEbUtfYWpxWW9WWDFRZEdCai1hUUxkUjA5UmpRQml5cDNoX0xVWFpfRThjYmFYOGIxY0YySmRpVk9xamQxVDZGZVN6YTYwbXRvY3REX2VPb29PY3htd0pPdmpwTm1ldVJuaGhDRDItYmRmaVgwNG9B?oc=5",
       "published_at": "2026-10-19T13:28:44+00:00",
       "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Germany's Merck acquires Silence Therapeutics in $1.3 billion RNA drug deal",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcUlEVktsZWQxcVRvT3N3c0FhbXFaSS0xeDhNY2xWSWQzRDgxWHZ5SjhnUkJERjhsRmVlZHJuWnhkdHlKYUNWMWQ1R3E2MEFUaTgwRkNfOGV1alg3cjA2Nk5ielhPWVZfdWlJaXpMT3lDWEJGdU0yWlI2R0VsZVJ3cGNGaHpreHVxSUd4UUtzbWFkQlhrZjBFdHd0N0xEdGo5Rl9QY2k5UQ?oc=5",
+      "published_at": "2026-10-19T13:24:43+00:00",
+      "regions": [
+        "europa",
         "global",
         "usa"
       ]
@@ -150,16 +173,6 @@
       ]
     },
     {
-      "title": "Metis TechBio inks up to $1.1 billion deal with Eli Lilly for drug delivery tech",
-      "publisher": "Reuters",
-      "publisher_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNdUVXdWoyYzFOX2oyZWZGVFhYeFdLdlVjaHhzSjIzWXR2NnRDUGtXVWxFWHQ5a3Y1TklNTkhtQTlUeHBqWUQzWUpuNkFhTW0tcDhzck9ma3gxVm1BQjZnWTQ3UkhMRUJJSmFMWjFKTkpPSjBPS2ZOeElDZ2FKbFRzdC1jVUdyMEREaHhxdkpQZDJNQWRZdmkwZDF5R09hMkRCSG9NYUtkZjZ5VHRxNS1qOWVCdFdKV0dnR19oRmxjWlhqakl6ZTJtWFhYLVNZU2REMEdrbjZSMGNpSW8?oc=5",
-      "published_at": "2026-10-19T11:26:40+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
       "title": "Watch: Drug driver banned after crashing into pole in Oxfordshire",
       "publisher": "BBC",
       "publisher_url": "https://www.bbc.co.uk",
@@ -190,6 +203,16 @@
         "europa",
         "global",
         "usa"
+      ]
+    },
+    {
+      "title": "Metis TechBio inks up to $1.1 billion deal with Eli Lilly for drug delivery tech",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNdUVXdWoyYzFOX2oyZWZGVFhYeFdLdlVjaHhzSjIzWXR2NnRDUGtXVWxFWHQ5a3Y1TklNTkhtQTlUeHBqWUQzWUpuNkFhTW0tcDhzck9ma3gxVm1BQjZnWTQ3UkhMRUJJSmFMWjFKTkpPSjBPS2ZOeElDZ2FKbFRzdC1jVUdyMEREaHhxdkpQZDJNQWRZdmkwZDF5R09hMkRCSG9NYUtkZjZ5VHRxNS1qOWVCdFdKV0dnR19oRmxjWlhqakl6ZTJtWFhYLVNZU2REMEdrbjZSMGNpSW8?oc=5",
+      "published_at": "2026-10-19T10:37:43+00:00",
+      "regions": [
+        "europa"
       ]
     },
     {
