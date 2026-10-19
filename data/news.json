@@ -1,7 +1,7 @@
 {
   "date": "2026-10-19",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-19T17:29:00+00:00",
+  "checked_at": "2026-10-19T21:19:19+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -24,30 +24,105 @@
     "mexico": {
       "ok": true,
       "error": null,
-      "count": 4
+      "count": 5
     },
     "usa": {
       "ok": true,
       "error": null,
-      "count": 16
+      "count": 18
     },
     "europa": {
       "ok": true,
       "error": null,
-      "count": 22
+      "count": 27
     },
     "global": {
       "ok": true,
       "error": null,
-      "count": 18
+      "count": 21
     }
   },
   "items": [
     {
+      "title": "US Church on frontline of battle against drug known as 'tranq'",
+      "publisher": "BBC",
+      "publisher_url": "https://www.bbc.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5MMTUxXy1sRnJTU2RGeFVkMjVaMC1pYlVjeFFhcFc0dU5ybC1LMnZBWThoaHo0OU84NEF3NThrZHd3eU9DV09iVzUtb1lTVmpneW9jMDMxOUNQVzg?oc=5",
+      "published_at": "2026-10-19T21:06:40+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "Haemonetics Announces FDA Approval of PerQseal® Elite Vascular Closure System",
+      "publisher": "Financial Times",
+      "publisher_url": "https://markets.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZl9pWmhyaFdkWmRrajRVMDJKOXdHMU1jUm9neTk4anR4cXdrUTlsT0JRcURfRWZ1Tl8zNGI5OGIzbXpvR2FtTkMtRkVJaXhuMzJ2dlA5YUNUamRPQWFDdkhfMFoyX0pGQnJaNWIyM3JMdFUyRFJJNVVHOFNtQmtrX1N0MDgzT3lBRjd0MDlOUm9IVEZYZ09fMQ?oc=5",
+      "published_at": "2026-10-19T20:15:00+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "GeneDx Advances Clinical Adoption of Genomic Medicine with 27 Abstracts at ASHG 2026 – Company Announcement",
+      "publisher": "Financial Times",
+      "publisher_url": "https://markets.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRmpIcF9zNE9sbTNYU2Q5QkxSQVZZNzZ1czhGZFd1eDZ2eXNYWE9ycE1KMndXUTlMTjdvSkhDTkxTcDBySTFpM080VlRuXzRUWThjU1g1UUpRVXdjazhoVU9JTFQzN0NBSmhENGRHN3I2dnFzcXpfblBKM2x1V056UmNXT2lJbXhudVlralc4QU1yUGxLdFFFc3REQVVpRUxYT3VsaXVR?oc=5",
+      "published_at": "2026-10-19T20:05:00+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "FGR investiga 36 casos de falsificación de productos de salud; 13 relacionados con medicamentos oncológicos",
+      "publisher": "Milenio",
+      "publisher_url": "https://amp.milenio.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYmRmdng5OVJwU3FJOEJDSmxzX21OandBOU9vZ0RjTkpySjVVRG1Va1lxQ1ZRaEp0YUVVT0dJcU1OTjdHQ0dhYURaZGtmMFdxbkl4MDZQaG9raVVXS19ycVdIcUtFXzFwOU44dUwyeWp1TEdoWkUxN1FRdWxOWW9tRmpRMVkta3lKRHFmTkhKTmhPR2lNUzhYREZ4WFhYR1RM0gGgAUFVX3lxTFBiZGZ2eDk5UnBTcUk4QkNKbHNfbU5qd0E5T29nRGNOSnJKNVVEbVVrWXFDVlFoSnRhRVVPR0lxTU5ON0dDR2FhRFpka2YwV3FuSXgwNlBob2tpVVdLX3JxV0hxS0VfMXA5Tjh1TDJ5anVMR2haRTE3UVF1bE5Zb21GalExWS1reUpEcWZOSEpOaE9HaU1TOFhERnhYWFhHVEw?oc=5",
+      "published_at": "2026-10-19T19:45:00+00:00",
+      "regions": [
+        "mexico"
+      ]
+    },
+    {
+      "title": "Fed sees AI boom adding to inflation headache, but others may pay for the medicine",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbWZLVGpmVmN6M1o1UUJnRXhSMmVWdjY2Mm4tR0IyeXk0OHZzOVRPamx6eEdEVjhEUHVXMlkzeFhoWkg4Qnl0a3lYQ0xJdWNzVHcydDA0NFdVb0ctbEVoMExGek50RHoxWF9TRThVMXRENDhWV2RUbVRGOVhvOEtoTmlTS1NlZGk0UldmSEY4N0tRVVRBeWc5SmJqRGlaVWwzeHRPa1hHZDNHZ3UxUjhwZHBGQXo0YlIw?oc=5",
+      "published_at": "2026-10-19T18:39:36+00:00",
+      "regions": [
+        "europa",
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "EyePoint to halve workforce after experimental drug fails second late-stage trial",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbU1HY1hHV0FBd3JPVmhzSXVGRmZTNHpBOHp3U2lOSGFkcVpMaGVuS0cwLXUyOGk2cWxsbjlzNnNwdEw3Nl9tWjJSRTZvLVRaNmdXNjFzaFA5NnQ0X0tJZExla2M0emU5NGk5TGhtTmt1eExTZGJvWGlYbnFyMnVWMWxLbjZvY1E4SGdxY1ZDak80UlN6WTM3Mjh5RTloUXVmSHFva0VpaGJYTEUyYVgzSDZRMl9hbHVlMFdMSG5lT1g0aFRpMEdKMzh6OA?oc=5",
+      "published_at": "2026-10-19T17:54:09+00:00",
+      "regions": [
+        "europa",
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "GSK’s Jemperli scores FDA approval in rectal cancer, backed by high complete response rate",
+      "publisher": "Fierce Pharma",
+      "publisher_url": "https://www.fiercepharma.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQemktSi15XzNDRmNKcmVyOTU2VVhCSHZPOWR1TllkUkRFV2VvU0pmYXFUU1M2aktPMTRNMFcyY0dBU0hvRGNnOEFKN3Q3X3JQT19BMlk4dHNuR25SN2xhTWRWMXBEcHhPLU5WYXUxbFF2M1VXTnZzYnhfX2JOendwRXhSRlpsMGFyZkE5SUZqNGRJRUhocnpDdjd0Ykc5SDg5NXZ0SHFxWnV6Z0JvTTJLZVBzb2ZxTXkx?oc=5",
+      "published_at": "2026-10-19T17:24:00+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
       "title": "Cofepris cambiará autorización de medicamentos y reforzará vigilancia para retirar productos falsos",
       "publisher": "Milenio",
-      "publisher_url": "https://www.milenio.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMkxzajl5bDE1RFA2VWRhNC1SZFJYSzNTVlcybGdoWl80ejN1Nzd3VXJsVmdOZ29TQS1kWi1tNGZyVzRFUmpYV2ZJN0hTQTVIdHFzZHg2elZnaUpUcDY4VE0xWEg2V1Qtekwtc3ppaThaSE00cUtzVjJfZmZacFdQclZZSUhwUXU0OWtYNlFaUGVpTjF4Ri1ncHhVdG5saXJSNURSQUQtMEJ6ZTDSAasBQVVfeXFMUFZHZzhOaldndGFsYl9pQ09za0ZKTnpJOTg0YlJWVlRHZVJOakwyMmxXMngxRnNJaW8yb1JPRDgxVzFMeERVb1BTT3FrTHNIQUFETzI3aTZKc1hPWFd5NTBCV2VERmdXcnh1bERIRHdFTDNzQWpwckdCS2p0di1NTVczOUJ5OHVSeFB2X1RiakFyLVYtRlB5ZUpnQXMycjFnb0tvUkZDdjNlWFM0?oc=5",
+      "publisher_url": "https://amp.milenio.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVkdnOE5qV2d0YWxiX2lDT3NrRkpOekk5ODRiUlZWVEdlUk5qTDIybFcyeDFGc0lpbzJvUk9EODFXMUx4RFVvUFNPcWtMc0hBQURPMjdpNkpzWE9YV3k1MEJXZURGZ1dyeHVsREhEd0VMM3NBanByR0JLanR2LU1NVzM5Qnk4dVJ4UHZfVGJqQXItVi1GUHllSmdBczJyMWdvS29SRkN2M2VYUzTSAasBQVVfeXFMUFZHZzhOaldndGFsYl9pQ09za0ZKTnpJOTg0YlJWVlRHZVJOakwyMmxXMngxRnNJaW8yb1JPRDgxVzFMeERVb1BTT3FrTHNIQUFETzI3aTZKc1hPWFd5NTBCV2VERmdXcnh1bERIRHdFTDNzQWpwckdCS2p0di1NTVczOUJ5OHVSeFB2X1RiakFyLVYtRlB5ZUpnQXMycjFnb0tvUkZDdjNlWFM0?oc=5",
       "published_at": "2026-10-19T17:06:00+00:00",
       "regions": [
         "mexico"
@@ -65,16 +140,6 @@
       ]
     },
     {
-      "title": "After Dealing Drugs in Las Vegas, He Found Signature Gathering More Lucrative",
-      "publisher": "The New York Times",
-      "publisher_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNjNWcU1KR2FmTEExNUczSWtGWmRjbkJpSDEtT3FkeDJGdUtPVGJldEl4VzljTUs0UVJTVlk1SDAta3F0NEh3WXQ3VHRKZTJ6WVpzNG1RM3IxUlZ5Tjl4dy1UbjlXRkt3aW5UdEFzcFh4bWxBYmJhUWkzdldHazZUQjdQalJkLXY3OGQ4RlYxMGs5OEU?oc=5",
-      "published_at": "2026-10-19T16:41:30+00:00",
-      "regions": [
-        "usa"
-      ]
-    },
-    {
       "title": "'Walk away from drugs' urges family of Waterford arson victims",
       "publisher": "BBC",
       "publisher_url": "https://www.bbc.com",
@@ -83,6 +148,16 @@
       "regions": [
         "europa",
         "global"
+      ]
+    },
+    {
+      "title": "Disc Medicine's late-stage win clears path for approval of sun-allergy pill",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcndwdDRESE9HcTUwa3lSOTFub2hJbEs1djBXam9SYzE5WjJwcS1ydEtJZ3VkcF8wV2pGNU1SV3lNcFhsbjNlYkN5VjJFMkF5Q1BfVkI2TkRaUW1ndFJ3azJsSWhKTXNXM2dyalotQmMybVlxQ19BRmFPRTV3MEtoZ3V3WFRlcE5UVXJIS3VOZ2VHa0tNNEt6aDVHWXVXMGZVZXJJNjg4aWxMLUZEaEpJSlR2UUpLd2gtOUJGVFZvdzhmeEJRd3FrbmVn?oc=5",
+      "published_at": "2026-10-19T16:06:13+00:00",
+      "regions": [
+        "europa"
       ]
     },
     {
@@ -131,7 +206,7 @@
       ]
     },
     {
-      "title": "Roche pauses future Germany investments, joining growing pharma chorus of pullbacks",
+      "title": "Roche pauses future Germany investments, joining growing chorus of pharma pullbacks",
       "publisher": "Fierce Pharma",
       "publisher_url": "https://www.fiercepharma.com",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMXR6Nm4wbDRRQW9ReGtYWnRzUmJ2SjZ1OWdYeG5RWnc2UG1wMjhha2Y1blFabHpOU2t2cE5tZWpGVTVuX2xwZU8wSG92VU5URDNKblFRSGZGRUtEUTdPUnk1Z1hpc015aGh2UVZDSjd0N3JUMW1BbnJJYXg2eXhQQ2dQYU1sQ0xyZUZ5UnF3YUpQMFczLVJPSGFEaWZPM3dzWmUtS29GWTM?oc=5",
@@ -221,7 +296,7 @@
       "publisher": "STAT",
       "publisher_url": "https://www.statnews.com",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNHdIdW5rN3IxU0hqVUM4aGduSmEwUkNwUGhHUmdFM0VCaXVJaUJVSUlFTmVEbUtfYWpxWW9WWDFRZEdCai1hUUxkUjA5UmpRQml5cDNoX0xVWFpfRThjYmFYOGIxY0YySmRpVk9xamQxVDZGZVN6YTYwbXRvY3REX2VPb29PY3htd0pPdmpwTm1ldVJuaGhDRDItYmRmaVgwNG9B?oc=5",
-      "published_at": "2026-10-19T13:28:44+00:00",
+      "published_at": "2026-10-19T13:28:46+00:00",
       "regions": [
         "global",
         "usa"
@@ -234,7 +309,9 @@
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUG9Sd25BdEpKc2wxMmRZYlEwSmlsd3QxRk51bEtZakZya2JITDlKWXIyb3RvR054YUxjSWRiMmJ6TnRnSk50dGFzQmZlUm90TzFHMTlPZjZYbnFERjZzXzM3ZE5hRFpmX1hEbDM0M1ltbXdKV2lGMnI4RjJ2NVg0MjdfaEQ4b01LOFlEcDhZV1pLTGU1eTdmNEZiejhpd0FHT2p5RGpxTkdEWmN2NnFhTjNWUkRtcG9MMFhaQjBxWkZQUDZjR1Y0UVhLdjFtaENiYU1TZlpqTzRTV05H?oc=5",
       "published_at": "2026-10-19T13:20:05+00:00",
       "regions": [
-        "europa"
+        "europa",
+        "global",
+        "usa"
       ]
     },
     {
@@ -249,7 +326,18 @@
       ]
     },
     {
-      "title": "Drug driver struck girl, 13, in Birmingham and blamed seizure",
+      "title": "Germany’s Merck to Buy U.K. Biotech Silence Therapeutics for $1.3 Billion",
+      "publisher": "WSJ",
+      "publisher_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQS2IxMzhfeTJQa3c0T3dGazN0MnB0VWZXYlpxRDlNdVE3WXoyQUZJYUo3dnlRZVRMckUzZzRvUlVhUXR3UEJRaGlleFNwUmc2UGowYjVOdVRVR3hBREM0eFpxckdHQWVFQnF6VTZEMjYxMFkweVV6R1FnZkdTTTBZWXZqNXdfWU1zTjZDMDZIcGRGWXVTTDg1QlpGbjAyX2JGeUQ2UjFNQkNob2RNNEh3VzN3?oc=5",
+      "published_at": "2026-10-19T12:48:00+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Drug driver struck girl, 13, then blamed seizure",
       "publisher": "BBC",
       "publisher_url": "https://www.bbc.com",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5waVlYMFhKVjZaRmxLWEZRME81dU95cGpWMEVvREcxSVFIUmZRMzdZd0VVZGRjdGpuWm1LNG5KMmVsZklfcTNUdFJxbTdXdURmU2JNbzVsa0tVTzQ?oc=5",
@@ -268,40 +356,6 @@
       "regions": [
         "europa",
         "global"
-      ]
-    },
-    {
-      "title": "EyePoint to halve workforce after experimental drug fails second late-stage trial",
-      "publisher": "Reuters",
-      "publisher_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbU1HY1hHV0FBd3JPVmhzSXVGRmZTNHpBOHp3U2lOSGFkcVpMaGVuS0cwLXUyOGk2cWxsbjlzNnNwdEw3Nl9tWjJSRTZvLVRaNmdXNjFzaFA5NnQ0X0tJZExla2M0emU5NGk5TGhtTmt1eExTZGJvWGlYbnFyMnVWMWxLbjZvY1E4SGdxY1ZDak80UlN6WTM3Mjh5RTloUXVmSHFva0VpaGJYTEUyYVgzSDZRMl9hbHVlMFdMSG5lT1g0aFRpMEdKMzh6OA?oc=5",
-      "published_at": "2026-10-19T12:08:25+00:00",
-      "regions": [
-        "europa",
-        "global",
-        "usa"
-      ]
-    },
-    {
-      "title": "Disc Medicine's rare disease drug succeeds in late-stage trial",
-      "publisher": "Reuters",
-      "publisher_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcndwdDRESE9HcTUwa3lSOTFub2hJbEs1djBXam9SYzE5WjJwcS1ydEtJZ3VkcF8wV2pGNU1SV3lNcFhsbjNlYkN5VjJFMkF5Q1BfVkI2TkRaUW1ndFJ3azJsSWhKTXNXM2dyalotQmMybVlxQ19BRmFPRTV3MEtoZ3V3WFRlcE5UVXJIS3VOZ2VHa0tNNEt6aDVHWXVXMGZVZXJJNjg4aWxMLUZEaEpJSlR2UUpLd2gtOUJGVFZvdzhmeEJRd3FrbmVn?oc=5",
-      "published_at": "2026-10-19T12:06:36+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "Fed sees AI boom adding to inflation headache, but others may pay for the medicine",
-      "publisher": "Reuters",
-      "publisher_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbWZLVGpmVmN6M1o1UUJnRXhSMmVWdjY2Mm4tR0IyeXk0OHZzOVRPamx6eEdEVjhEUHVXMlkzeFhoWkg4Qnl0a3lYQ0xJdWNzVHcydDA0NFdVb0ctbEVoMExGek50RHoxWF9TRThVMXRENDhWV2RUbVRGOVhvOEtoTmlTS1NlZGk0UldmSEY4N0tRVVRBeWc5SmJqRGlaVWwzeHRPa1hHZDNHZ3UxUjhwZHBGQXo0YlIw?oc=5",
-      "published_at": "2026-10-19T11:35:47+00:00",
-      "regions": [
-        "europa",
-        "global",
-        "usa"
       ]
     },
     {
@@ -346,6 +400,16 @@
       ]
     },
     {
+      "title": "IDEAYA Biosciences and Servier Announce Data From Three Clinical Trials at ESMO 2026 Supporting the Potential of Darovasertib to Become a Foundational New Therapy for Patients Across the Treatment Journey of Uveal Melanoma – Company Announce",
+      "publisher": "Financial Times",
+      "publisher_url": "https://markets.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNY0x4eEJGUkNzYXVXQjczNmQzSXEyanRGUzd1TFE2bDVua1FMUGVxV2VOVklWeG1tUTRmSDFSWGVjQXdUdEo1UElWNDYxdFllY2dHeHpnQWJkU01QOEs2OUNjR19Nemc3MmotVEZLTVFadS1LU3hZcXdBekI5OHJLb0ROVV9QemdqTnY0WDV4M19WeG5yWVFBZQ?oc=5",
+      "published_at": "2026-10-19T10:00:00+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
       "title": "Data reveal is promising for GSK's lung cancer drug ris-rez",
       "publisher": "pharmaphorum",
       "publisher_url": "https://pharmaphorum.com",
@@ -367,7 +431,7 @@
       ]
     },
     {
-      "title": "Does Isomorphic Labs have what it takes to revolutionize drugmaking?",
+      "title": "Does Isomorphic Labs have what it takes to revolutionize drugmaking? | STAT",
       "publisher": "STAT",
       "publisher_url": "https://www.statnews.com",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdEFNVDJCVVhfWmhGMUp0Nnd0U2xzSFlYaWJZSV9XM3hjaG5BZ1NPQXh5aVVjZ2ZhcFlFT21oZjEydmZVb3BwWjUzd3hsczJsZF9MTDhhZXVWZjR6bHl2NmtheFhnTGZ2RGVqdWRKUlZKRXp2aFhpYnllcEM1ajV2Wkhpa01PVml4?oc=5",

@@ -1,7 +1,7 @@
 {
   "date": "2026-10-19",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-19T17:28:59+00:00",
+  "checked_at": "2026-10-19T21:19:18+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -28,27 +28,27 @@
     "fiscal": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 2
     },
     "dgii": {
       "ok": true,
       "error": null,
-      "count": 2
+      "count": 6
     },
     "finance": {
       "ok": true,
       "error": null,
-      "count": 3
+      "count": 6
     },
     "securities": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 2
     },
     "economy": {
       "ok": true,
       "error": null,
-      "count": 7
+      "count": 6
     },
     "economist_andy": {
       "ok": true,
@@ -82,6 +82,115 @@
     }
   },
   "items": [
+    {
+      "title": "DGJA entrega a la DGII base de datos de establecimientos acogidos al Plan de Regularización",
+      "publisher": "El Nuevo Diario",
+      "publisher_url": "https://elnuevodiario.com.do",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdnphY2FlNXlrem1DODFnTzhuTllab1lSY3ZHMHVVZ3JpOUlad09vTDlVbmlWNWFWZC1VWlg2NTJBRXZBVVdzdzZCaHQzZk5fUEhqdTA3MGRvX3JSdTNiYk9SN29kNXdwUXZNaDh1Q3FfYURHY0ozbS1USktZYUVybVp4R2MxNU5BX2U5MlVEaDZuU1ZiaEdBaFlGeUNjakVBWDZrMzFEY1prTTJISDQzWVFYQ0JLcVN0ZWs3MlVB?oc=5",
+      "published_at": "2026-10-19T19:57:22+00:00",
+      "topics": [
+        "dgii",
+        "economy"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "dgii",
+        "economy"
+      ]
+    },
+    {
+      "title": "DGJA entrega a DGII base de datos de establecimientos acogidos al plan de regularización",
+      "publisher": "Periódico elDinero",
+      "publisher_url": "https://eldinero.com.do",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOLXYzS1czMjF0S0FnNnlKeWtFWV9Hb2tuTzZ2QWZQWE41S2otZll3dnd2LXR4MkUwOWllWXRLeFoyUHNCVzBuNmpIQTVaOHBMUTZQR3d6TGtYbnFpU0w1T2VRczN6N0NxNFh1TkJxNmlwdzRsbFZyM0xoeWc3NGZIdHF3aVRWYUl1VjVwVVI5ZWg5Q3EwNEhTTFpEQmM5djhsbjRCalNpb0NJa2toWE5nRHV3eWhTSHJwMXBFNw?oc=5",
+      "published_at": "2026-10-19T19:44:03+00:00",
+      "topics": [
+        "dgii"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "dgii"
+      ]
+    },
+    {
+      "title": "DGJA entrega a la DGII lista de negocios de juegos de azar para regularizar sus impuestos",
+      "publisher": "Acento",
+      "publisher_url": "https://acento.com.do",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNUd6UVExVVlObzRtS1JudGx3YldRY3AtRHdjR0NzSlVTdTFQU2dTTG5IOVBaaXRTbHhXWVFSTnNiZTZZMWdINHlQZHNISWtkSjlnNUYxalBERWtPekxCTjd0ODYzZ3UxSFVfc0V5SnRMOXZwcmlFVFlZWEtlNHBuUVpnaWdjamtHeVNKTHZ2TzFNdjNMWDFsTVRVanVvXzIycTJ1bTR5QjZNbWRicElHTUpiamdqdlg4V3AxaGlVbGY5WXVEbjBYS0JPSU8zUdIBzgFBVV95cUxQNUd6UVExVVlObzRtS1JudGx3YldRY3AtRHdjR0NzSlVTdTFQU2dTTG5IOVBaaXRTbHhXWVFSTnNiZTZZMWdINHlQZHNISWtkSjlnNUYxalBERWtPekxCTjd0ODYzZ3UxSFVfc0V5SnRMOXZwcmlFVFlZWEtlNHBuUVpnaWdjamtHeVNKTHZ2TzFNdjNMWDFsTVRVanVvXzIycTJ1bTR5QjZNbWRicElHTUpiamdqdlg4V3AxaGlVbGY5WXVEbjBYS0JPSU8zUQ?oc=5",
+      "published_at": "2026-10-19T19:30:24+00:00",
+      "topics": [
+        "dgii"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "dgii"
+      ]
+    },
+    {
+      "title": "DGII alcanza los 100,000 contribuyentes con facturación electrónica",
+      "publisher": "Periódico elDinero",
+      "publisher_url": "https://eldinero.com.do",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZmZ2dktmdHNzd2J2TWxkbUZJS2ZVU0tPU2VCOWtSelZUTFdnY21qNFljOFd1SllOMmdrbG1Ebk1ZalRvSVowNzFMR1pta3FUR0QyNnpPQnJTdXduUWVfOHc5V1FzRDk4UDdxakVJeGRKUGp0cEVHS3pjWjd0YjBraEMtQ2JEaS14MXFWclZQSUtlNkF5cWtkb1FTMDNOeWs?oc=5",
+      "published_at": "2026-10-19T19:19:01+00:00",
+      "topics": [
+        "dgii"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "dgii"
+      ]
+    },
+    {
+      "title": "Acoprovi dice que promueve nuevas alternativas de financiamiento para ampliar desarrollo de vivienda",
+      "publisher": "Periódico elDinero",
+      "publisher_url": "https://eldinero.com.do",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZWlQclo2ZkE5ODNjVjVOc0NyUmhuZlBINWgwRUpwbjh6WEFiSFoyaFRDOHkyczNZX3JnNmc5Sm4yQTVIS2VTN3pZbk1ueUdwdXQ2T1ZhZjIwaWp4TUNXSjFjN0VRVFJrS3dlYTRWU2tJWjI5dy1OWGFPRWlVcWhMVE9kVXpqVnhNQW84b0JJX2dmNVVUeGlQZngxUlJVTEkzNFNTOW05akNNaGxUb2xyRFZsY3ZtMkhPbElwaDBtRm5iRFNiUWl5N3Q0M2o?oc=5",
+      "published_at": "2026-10-19T19:09:46+00:00",
+      "topics": [
+        "finance",
+        "securities"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "finance",
+        "securities"
+      ]
+    },
+    {
+      "title": "La banca habla de inclusión, pero ¿incluye a todos?",
+      "publisher": "eldia.com.do",
+      "publisher_url": "https://eldia.com.do",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9hRlNLSm9xVlJwNG54aEZuS2NVRG1CY1dFdFg3UEM0RzI1NjhTbnFNV1ZCeGpQOHRqbnVkVTlUZ0wtN21FdXBYT1hOQXpBVmJEcjBISzdlT1BDeTRDbGhKVVRXVnV6OVM2UWFfQnNfUTIzTzZKUVptVGJn?oc=5",
+      "published_at": "2026-10-19T18:17:13+00:00",
+      "topics": [
+        "finance"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "finance"
+      ]
+    },
+    {
+      "title": "Bancos apuestan por la inteligencia artificial para mejorar su productividad",
+      "publisher": "Periódico elDinero",
+      "publisher_url": "https://eldinero.com.do",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUGlvZEpyM0EwSF9FR2xXR2k4X3NwdWxicFdBWDhTMnd1OTdxSkpId0V3LXU1cnFpcWRjNThaTlRkOGppamlna1Uzd2NvbzBUS1o4bWVFUy1qSW93LUdUNjRHRDJvaWJRVHBGdVk5ZTlxazA5TW5Bb3RkcGNQQVpXOEI5dTNXU28tVGVGYjdQaWg4MV9na0pBeUc2ZFR4YzBmajRaa0FSSU4zbURu?oc=5",
+      "published_at": "2026-10-19T17:43:55+00:00",
+      "topics": [
+        "finance"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "finance"
+      ]
+    },
     {
       "title": "DGII informan que 100 mil contribuyentes ya son emisores electrónicos",
       "publisher": "El Nuevo Diario",
@@ -146,6 +255,21 @@
         "bcrd",
         "economy",
         "finance"
+      ]
+    },
+    {
+      "title": "FMI valora desempeño económico de RD y manejo de crisis internacional",
+      "publisher": "El Nuevo Diario",
+      "publisher_url": "https://elnuevodiario.com.do",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNc1c5c0F4RGhrQlYyM3ozcnhHcms2ZHlsVlJ5czBYN0J1VXpvc1dTTnhYV0ZWN1FaQ1puWEFQbVFoUXE4aDVCSHZfZlJsTm83TjRYd0RTRUEwNGt5U3F6OVJqRkx6ZE9tRmFqa3lFX3lWc1R1cFVFZFM5TmpZYUE1dTc4a1BVTGhabFJzcURZOFdETzBQdGtjNGpLYncwcVZo?oc=5",
+      "published_at": "2026-10-19T14:16:40+00:00",
+      "topics": [
+        "fiscal"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "fiscal"
       ]
     },
     {
