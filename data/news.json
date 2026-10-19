@@ -1,7 +1,7 @@
 {
   "date": "2026-10-19",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-19T13:18:04+00:00",
+  "checked_at": "2026-10-19T13:33:49+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -29,20 +29,31 @@
     "usa": {
       "ok": true,
       "error": null,
-      "count": 9
+      "count": 10
     },
     "europa": {
       "ok": true,
       "error": null,
-      "count": 16
+      "count": 15
     },
     "global": {
       "ok": true,
       "error": null,
-      "count": 10
+      "count": 11
     }
   },
   "items": [
+    {
+      "title": "Pharmalittle: We're reading about Roche investments in Germany, a Gilead bowel disease drug, and more",
+      "publisher": "STAT",
+      "publisher_url": "https://www.statnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNHdIdW5rN3IxU0hqVUM4aGduSmEwUkNwUGhHUmdFM0VCaXVJaUJVSUlFTmVEbUtfYWpxWW9WWDFRZEdCai1hUUxkUjA5UmpRQml5cDNoX0xVWFpfRThjYmFYOGIxY0YySmRpVk9xamQxVDZGZVN6YTYwbXRvY3REX2VPb29PY3htd0pPdmpwTm1ldVJuaGhDRDItYmRmaVgwNG9B?oc=5",
+      "published_at": "2026-10-19T13:28:44+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
     {
       "title": "The Next Chapter for AI in Clinical Trials",
       "publisher": "Fierce Pharma",
@@ -134,9 +145,18 @@
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNdUVXdWoyYzFOX2oyZWZGVFhYeFdLdlVjaHhzSjIzWXR2NnRDUGtXVWxFWHQ5a3Y1TklNTkhtQTlUeHBqWUQzWUpuNkFhTW0tcDhzck9ma3gxVm1BQjZnWTQ3UkhMRUJJSmFMWjFKTkpPSjBPS2ZOeElDZ2FKbFRzdC1jVUdyMEREaHhxdkpQZDJNQWRZdmkwZDF5R09hMkRCSG9NYUtkZjZ5VHRxNS1qOWVCdFdKV0dnR19oRmxjWlhqakl6ZTJtWFhYLVNZU2REMEdrbjZSMGNpSW8?oc=5",
       "published_at": "2026-10-19T11:26:40+00:00",
       "regions": [
-        "europa",
         "global",
         "usa"
+      ]
+    },
+    {
+      "title": "Metis TechBio inks up to $1.1 billion deal with Eli Lilly for drug delivery tech",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNdUVXdWoyYzFOX2oyZWZGVFhYeFdLdlVjaHhzSjIzWXR2NnRDUGtXVWxFWHQ5a3Y1TklNTkhtQTlUeHBqWUQzWUpuNkFhTW0tcDhzck9ma3gxVm1BQjZnWTQ3UkhMRUJJSmFMWjFKTkpPSjBPS2ZOeElDZ2FKbFRzdC1jVUdyMEREaHhxdkpQZDJNQWRZdmkwZDF5R09hMkRCSG9NYUtkZjZ5VHRxNS1qOWVCdFdKV0dnR19oRmxjWlhqakl6ZTJtWFhYLVNZU2REMEdrbjZSMGNpSW8?oc=5",
+      "published_at": "2026-10-19T11:26:40+00:00",
+      "regions": [
+        "europa"
       ]
     },
     {
@@ -242,16 +262,6 @@
       "publisher_url": "https://pharmaphorum.com",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTUNXNDBfYUtoT3puU1dBMjNWSmRHMzdCUDhOSEV4Unk3bHViQnd2ZlV1bURoVFVnMUU5Nm84WVRSb2w1S25rbllzTEJIcnhCNmxKR3NEdk4xNjYzNU9xeExoUXU1VkVVcEh5b2RVRlUzV2FrUEVCbmxRb2luWm82c2Jsd25VWUl3Z0c1WHBn?oc=5",
       "published_at": "2026-10-19T08:05:57+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "Homemade, synthetic drugs sweeping the US",
-      "publisher": "BBC",
-      "publisher_url": "https://www.bbc.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1HbWFQN3gyTTRoYnA5Um02M0I0WU4xck03ajRmVXh4WU1jM0RJOFBTVkVvWjl6S0VPT0ZHRzdYRWhrcGxQQ2xWZmdEYjFQZGhqc0ZhNXRFalFiX3JpM1E?oc=5",
-      "published_at": "2026-10-19T07:12:33+00:00",
       "regions": [
         "europa"
       ]
