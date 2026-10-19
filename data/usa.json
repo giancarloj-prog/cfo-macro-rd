@@ -65,11 +65,11 @@
       "value": 101.91,
       "period": "2026-10-14",
       "unit": "usd_barrel",
-      "source": "EIA · FRED",
-      "url": "https://fred.stlouisfed.org/series/DCOILWTICO",
-      "description": "WTI spot · Cushing, Oklahoma · US$/barril",
-      "series_id": "DCOILWTICO",
-      "verified_at": "2026-10-16T22:00:12+00:00"
+      "source": "EIA · fuente directa",
+      "url": "https://www.eia.gov/dnav/pet/hist/RWTCD.htm",
+      "description": "WTI spot · Cushing, Oklahoma · US$/barril · último dato publicado",
+      "series_id": "RWTC",
+      "verified_at": "2026-10-19T13:14:58+00:00"
     },
     "gold": {
       "value": 4181.1,
@@ -94,9 +94,9 @@
   "checked_at": "2026-10-18T23:49:36+00:00",
   "source_health": {
     "wti": {
-      "ok": false,
-      "checked_at": "2026-10-18T23:49:36+00:00",
-      "error": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=35)"
+      "ok": true,
+      "checked_at": "2026-10-19T13:14:58+00:00",
+      "error": null
     },
     "gold": {
       "ok": true,

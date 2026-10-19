@@ -213,6 +213,42 @@ def commodity(key):
     if m[1] > datetime.now(timezone.utc).date().isoformat(): raise ValueError('Observación futura')
     return dict(value=value, period=m[1], unit=unit, source='EIA · FRED', url=url, description=description, series_id=series)
 
+EIA_WTI = 'https://www.eia.gov/dnav/pet/hist/RWTCD.htm'
+
+def parse_wti_eia(soup, today=None):
+    heading=text(soup)
+    if not re.search(r'Cushing.*?WTI.*?Spot Price',heading,re.I) or 'Dollars per Barrel' not in heading:
+        raise ValueError('La página no identifica WTI spot en US$/barril')
+    today=today or datetime.now(timezone.utc).date()
+    observations=[]
+    for row in soup.find_all('tr'):
+        cells=row.find_all('td',recursive=False)
+        if len(cells)!=6:continue
+        label=cells[0].get_text(' ',strip=True)
+        m=re.fullmatch(r'(20\d{2})\s+([A-Za-z]{3})-\s*(\d{1,2})\s+to\s+([A-Za-z]{3})-\s*(\d{1,2})',label)
+        if not m:continue
+        start=datetime.strptime(f'{m[1]}-{m[2]}-{m[3]}','%Y-%b-%d').date()
+        if start.weekday()!=0:raise ValueError('Inicio semanal inesperado en EIA')
+        for offset,cell in enumerate(cells[1:]):
+            raw=cell.get_text(strip=True).replace(',','')
+            if not re.fullmatch(r'-?\d+(?:\.\d+)?',raw):continue
+            value=float(raw);day=start+timedelta(days=offset)
+            if day<=today and -100<=value<=10000:observations.append((day.isoformat(),value))
+    if not observations:raise ValueError('EIA sin precios WTI fechados')
+    period,value=max(observations)
+    return dict(value=value,period=period,unit='usd_barrel',source='EIA · fuente directa',url=EIA_WTI,description='WTI spot · Cushing, Oklahoma · US$/barril · último dato publicado',series_id='RWTC')
+
+def wti(previous=None):
+    errors=[]
+    for source,fetcher in [('EIA directa',lambda:parse_wti_eia(page(EIA_WTI))),('FRED',lambda:commodity('wti'))]:
+        try:
+            x=fetcher()
+            if x['period']<(previous or {}).get('period',''):raise ValueError('Período anterior al dato guardado')
+            if errors:x['fallback_note']='Se utilizó FRED porque la consulta directa a EIA no estuvo disponible.'
+            return x
+        except (requests.RequestException,ValueError) as exc:errors.append(source+': '+str(exc))
+    raise ValueError('; '.join(errors))
+
 def gold(now=None):
     # GC=F is a futures reference, explicitly identified rather than labeled spot.
     url='https://query1.finance.yahoo.com/v8/finance/chart/GC%3DF?range=5d&interval=1d'
@@ -267,7 +303,7 @@ def main():
         p.get('series',{}).pop(removed,None)
         p.get('source_health',{}).pop(removed,None)
     now=datetime.now(timezone.utc).isoformat(timespec='seconds')
-    jobs={'wti':lambda:commodity('wti'),'gold':gold,'remittances_ytd':remittances,'inflation_us_yoy':inflation_us,'sp500':sp500,'fed_rate':fed,'treasury_10y':treasury,'ism_manufacturing':lambda:pmi('manufacturing',p['series'].get('ism_manufacturing',{})),'ism_services':lambda:pmi('services',p['series'].get('ism_services',{})),'world_container_index':containers}
+    jobs={'wti':lambda:wti(p['series'].get('wti',{})),'gold':gold,'remittances_ytd':remittances,'inflation_us_yoy':inflation_us,'sp500':sp500,'fed_rate':fed,'treasury_10y':treasury,'ism_manufacturing':lambda:pmi('manufacturing',p['series'].get('ism_manufacturing',{})),'ism_services':lambda:pmi('services',p['series'].get('ism_services',{})),'world_container_index':containers}
     def run(k):
         try:
             x=jobs[k]()
