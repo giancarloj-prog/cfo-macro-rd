@@ -8,7 +8,7 @@ OUT=ROOT/'data'/'cycle_components.json'
 COMPONENTS={
 'leading':[
 ('Manufacturing weekly hours','AWHMAN'),('Initial unemployment claims','ICSA'),
-('Consumer goods and materials new orders',None),('Nondefense capital goods orders ex aircraft','NEWORDER'),
+('Consumer goods and materials new orders',None),('Nondefense capital goods orders ex aircraft',None),
 ('ISM new orders','NAPMNOI'),('Residential building permits','PERMIT'),
 ('S&P 500','SP500'),('Leading Credit Index',None),
 ('10Y Treasury minus federal funds rate','T10YFF'),('Consumer expectations',None)],
@@ -17,7 +17,7 @@ COMPONENTS={
 ('Industrial production','INDPRO'),('Manufacturing and trade sales','CMRMTSPL')],
 'lagging':[
 ('Average duration of unemployment','UEMPMEAN'),('Inventories-to-sales ratio','ISRATIO'),
-('Manufacturing unit labor costs','ULCMFG'),('Bank prime loan rate','MPRIME'),
+('Manufacturing unit labor costs',None),('Bank prime loan rate','MPRIME'),
 ('Commercial and industrial loans','BUSLOANS'),('Consumer credit to income ratio',None),
 ('CPI services inflation','CUSR0000SAS')]}
 def read_series(series):
