@@ -19,6 +19,7 @@ def parse_release(html):
     if not dates or dates[1] not in MONTHS:raise ValueError('Missing dated publication')
     published=f'{dates[3]}-{MONTHS[dates[1]]:02d}-{int(dates[2]):02d}'
     results={}
+    body=body[:8000]
     for key,word in KEYS.items():
         # Must be a US-specific index statement with an explicit reference month, year and index value.
         pattern=(r'The Conference Board '+word+r' Economic Index.{0,65}?\('+('LEI' if key=='leading' else 'CEI' if key=='coincident' else 'LAG')+r'\) for the US '
