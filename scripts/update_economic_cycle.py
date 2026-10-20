@@ -11,7 +11,7 @@ URL='https://www.conference-board.org/topics/us-leading-indicators/'
 MONTHS={m.lower():i for i,m in enumerate('January February March April May June July August September October November December'.split(),1)}
 NAMES={'leading':('Leading','LEI'),'coincident':('Coincident','CEI'),'lagging':('Lagging','LAG')}
 OUT=ROOT/'data'/'economic_cycle.json'
-COMP=ROOT/'data'/'cycle_components.json'
+
 HEADERS={'User-Agent':'Mozilla/5.0 (compatible; CFO-Macro-Dashboard/1.0)'}
 def clean(s):return re.sub(r'\s+',' ',s).strip()
 def monthperiod(m,y):
@@ -52,12 +52,8 @@ def note_link(soup):
     return None
 def main():
     prev=json.loads(OUT.read_text()) if OUT.exists() else {}
-    oldcomp=json.loads(COMP.read_text()) if COMP.exists() else {}
     stamp=datetime.now(timezone.utc).isoformat()
     indexes={'checked_at':stamp,'series':dict(prev.get('series',{})),'source_health':{},'latest_report_date':prev.get('latest_report_date')}
-    components={'checked_at':stamp,'groups':{}}
-    for group,rows in oldcomp.get('groups',{}).items():
-        components['groups'][group]=[{'name':x['name'],'status':'unavailable','history':[],'source':'The Conference Board'} for x in rows]
     try:
         response=requests.get(URL,headers=HEADERS,timeout=35);response.raise_for_status()
         found,published,soup,body=parse(response.text)
@@ -69,23 +65,7 @@ def main():
                 indexes['series'][key]=x
             indexes['source_health'][key]={'ok':bool(x),'error':None if x else 'Index not parsed from official release'}
         indexes['latest_report_date']=published
-        components['report_period']=max(x['period'] for x in found.values())
-        components['report_publication']=published
-        components['report_url']=URL
-        pdf=note_link(soup)
-        if pdf:components['technical_notes_url']=pdf
-        # Component-level numbers are intentionally omitted unless clearly provided in the release.
-        # Store only verbatim, non-numeric aggregate facts when the press release explicitly states them.
-        sentences=re.split(r'(?<=[.!?])\s+',body)
-        components['official_highlights']=[s for s in sentences if
-            (('components' in s.lower() or 'contributions' in s.lower())
-             and any(x in s.lower() for x in ('four out of ten','all components of the cei','consumer expectations','building permits')))
-            ][:4]
     except Exception as exc:
         for key in NAMES:indexes['source_health'][key]={'ok':False,'error':str(exc)[:180]}
-        components['error']=str(exc)[:180]
-        for field in ('report_period','report_publication','report_url','technical_notes_url','official_highlights'):
-            if field in oldcomp:components[field]=oldcomp[field]
     OUT.write_text(json.dumps(indexes,ensure_ascii=False,indent=2)+'\n')
-    COMP.write_text(json.dumps(components,ensure_ascii=False,indent=2)+'\n')
 if __name__=='__main__':main()
