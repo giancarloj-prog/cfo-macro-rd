@@ -100,6 +100,28 @@ def inflation_us():
         if not -30 <= value <= 100:raise ValueError('CPI-U interanual fuera de rango')
         return {'value':value,'period':f'{period[2]}-{MONTHS[period[1].lower()]:02d}','source':'BLS · CPI-U','url':CPI,'unit':'percent','description':'Inflación general interanual · sin ajuste estacional'}
     except (requests.RequestException,ValueError):
+        # FRED mirrors the BLS non-seasonally-adjusted all-items CPI (CPIAUCNS).
+        # This avoids relying solely on the frequently timing-out BLS API.
+        try:
+            import csv, io
+            url='https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCNS'
+            response=requests.get(url,headers=UA,timeout=20)
+            response.raise_for_status()
+            values={}
+            for row in csv.DictReader(io.StringIO(response.text)):
+                date=row.get('observation_date') or row.get('DATE')
+                raw=row.get('CPIAUCNS','')
+                if date and re.fullmatch(r'\\d{4}-\\d{2}-01',date) and re.fullmatch(r'\\d+(?:\\.\\d+)?',raw):
+                    values[date[:7]]=float(raw)
+            if not values:raise ValueError('FRED CPIAUCNS sin observaciones')
+            latest=max(values)
+            prior=f'{int(latest[:4])-1}{latest[4:]}'
+            if prior not in values or values[prior]<=0:raise ValueError('Falta comparación anual en FRED')
+            value=round((values[latest]/values[prior]-1)*100,1)
+            if not -30<=value<=100:raise ValueError('Inflación calculada fuera de rango')
+            return {'value':value,'period':latest,'source':'BLS · CPI-U (vía FRED)','url':'https://fred.stlouisfed.org/series/CPIAUCNS','unit':'percent','series_id':'CPIAUCNS','description':'Inflación general interanual · sin ajuste estacional'}
+        except (requests.RequestException,ValueError,KeyError):
+            pass
         url='https://api.bls.gov/publicAPI/v1/timeseries/data/CUUR0000SA0'
         r=requests.get(url,headers=UA,timeout=35);r.raise_for_status();payload=r.json()
         if payload.get('status')!='REQUEST_SUCCEEDED':raise ValueError('BLS API no disponible')
