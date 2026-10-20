@@ -1,7 +1,7 @@
 {
   "date": "2026-10-20",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-20T17:03:40+00:00",
+  "checked_at": "2026-10-20T20:13:38+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -43,12 +43,12 @@
     "securities": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 2
     },
     "economy": {
       "ok": true,
       "error": null,
-      "count": 2
+      "count": 4
     },
     "economist_andy": {
       "ok": true,
@@ -83,6 +83,21 @@
   },
   "items": [
     {
+      "title": "Ahorro en moneda extranjera concentra el 30.1% de captaciones del sistema financiero dominicano",
+      "publisher": "Periódico elDinero",
+      "publisher_url": "https://eldinero.com.do",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUlA1ZnR5djJaeUFicG53VXZkdXNNQTVnLVVNcXdSVUtKQk9UQlVKU1FEalU0am54d09ERGxZYVFCTFZKRWdCZDhNNlFOVjAzUEVrekw2bVJkS1lkTGF6NnZHa241Uy13alRJMDRSOGpmOHR1Zm1GNUJZWVVQS0pmSHNLX3RSMFMwazNIYTVWaDVtSzluOXJiR1V6eXM3NmVDbGN0R3cwdnlvdXBiX1E5b01BNExpVWx3bmJiU1g3UzJTSHBY?oc=5",
+      "published_at": "2026-10-20T17:34:56+00:00",
+      "topics": [
+        "finance"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "finance"
+      ]
+    },
+    {
       "title": "(VIDEO) Banco Central ofrece recital “Sólo pianistas” con motivo de su 79º aniversario",
       "publisher": "El Nuevo Diario",
       "publisher_url": "https://elnuevodiario.com.do",
@@ -96,6 +111,21 @@
       "economist_match": null,
       "searches": [
         "bcrd"
+      ]
+    },
+    {
+      "title": "La Cepal recomienda a RD diversificar sus exportaciones ante arancel de Estados Unidos",
+      "publisher": "Diario Libre",
+      "publisher_url": "https://www.diariolibre.com",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMW9OX0JNdWQyZDFwUkIzWkhWWWkzUUZweXFxa2dNbGVWQndjTnNNWkhtVzhzYXlzRWxxTS1yMl9HWTBXbXVEbjVGZG44b0YyODRIRXF2OUp2TjlxaVJRWGJOMXhDV2RON3NLZ05GbnpGb1I0NkdleTF0ZjZVN1RTTkN1aXhOcm4tR29JSnd4bVMycGZYUHpQeWN2bW40QXdBR2Rkck9uRDRpSThseDdkaXNJLWdwcW9OVmdFMGZTOE9GeEVVWElKOXNHWGrSAcwBQVVfeXFMTTFvTl9CTXVkMmQxcFJCM1pIVllpM1FGcHlxcWtnTWxlVkJ3Y05zTVpIbVc4c2F5c0VscU0tcjJfR1kwV211RG41RmRuOG9GMjg0SEVxdjlKdk45cWlSUVhiTjF4Q1dkTjdzS2dORm56Rm9SNDZHZXkxdGY2VTdUU05DdWl4TnJuLUdvSUp3eG1TMnBmWFB6UHljdm1uNEF3QUdkZHJPbkQ0aUk4bHg3ZGlzSS1ncHFvTlZnRTBmUzhPRnhFVVhJSjlzR1hq?oc=5",
+      "published_at": "2026-10-20T15:11:40+00:00",
+      "topics": [
+        "economy"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "economy"
       ]
     },
     {
@@ -114,6 +144,21 @@
       "searches": [
         "economy",
         "fiscal"
+      ]
+    },
+    {
+      "title": "CCI Puesto de Bolsa fortalece su presencia en la Zona Norte con nuevas oficinas en Santiago",
+      "publisher": "Listín Diario",
+      "publisher_url": "https://listindiario.com",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxONDA0VThreHd1dThXMUhaVkFRODBqd29KVGl5anE2eDRMVjh4ejNhckxRVjBMMWhubDY2SWtVYkp6czZuUDhncHVxaUlUSTNrZTUwVDFZTzV1YWtUYm0zWmk4RGJQa2YtbjA2ZzdCOVVkX09KRjJfOUtTeDRLMnRRUGxBUHRSbVltc2ZDbjZhMFM5SFdBeThzTHJRQ25wckxaZ0hLSnh3b3pwTGZiYnhEaWFXZ3pNVUFVdUNHem10WTE0ZWF0bGVOZHZScXRiUHV10gHQAUFVX3lxTE40MDRVOGt4d3V1OFcxSFpWQVE4MGp3b0pUaXlqcTZ4NExWOHh6M2FyTFFWMEwxaG5sNjZJa1ViSnpzNm5QOGdwdXFpSVRJM2tlNTBUMVlPNXVha1RibTNaaThEYlBrZi1uMDZnN0I5VWRfT0pGMl85S1N4NEsydFFQbEFQdFJtWW1zZkNuNmEwUzlIV0F5OHNMclFDbnByTFpnSEtKeHdvenBMZmJieERpYVdnek1VQVV1Q0d6bXRZMTRlYXRsZU5kdlJxdGJQdXU?oc=5",
+      "published_at": "2026-10-20T14:39:41+00:00",
+      "topics": [
+        "securities"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "securities"
       ]
     },
     {
@@ -181,6 +226,21 @@
       "searches": [
         "finance",
         "securities"
+      ]
+    },
+    {
+      "title": "El Fondo Monetario valora desempeño económico de la RD",
+      "publisher": "El Caribe",
+      "publisher_url": "https://www.elcaribe.com.do",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPa09wNFBBVlQzZ1RiODNVZGtGZnpOQ2pINmRETE5NTlBaak9RQ0tyWWhyTUJFUWtyUHN2aHVXckNsUlBLVk9Pc2stSjAwaUc4ZFRQMlI2VzZ5LWZqYlJlSmxPYWlZMDMyanZXeTJraGJ3eDd0OUw3LXR4STB0NTQzTUF5OVVWWmI1OFBnZzVhRTlTeTUtbm5qUlFOQ202dlVF?oc=5",
+      "published_at": "2026-10-20T04:00:00+00:00",
+      "topics": [
+        "economy"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "economy"
       ]
     }
   ],

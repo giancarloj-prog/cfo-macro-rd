@@ -1,7 +1,7 @@
 {
   "date": "2026-10-20",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-20T17:03:42+00:00",
+  "checked_at": "2026-10-20T20:13:39+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -24,25 +24,88 @@
     "mexico": {
       "ok": true,
       "error": null,
-      "count": 5
+      "count": 7
     },
     "usa": {
       "ok": true,
       "error": null,
-      "count": 13
+      "count": 14
     },
     "europa": {
       "ok": true,
       "error": null,
-      "count": 15
+      "count": 16
     },
     "global": {
       "ok": true,
       "error": null,
-      "count": 11
+      "count": 13
     }
   },
   "items": [
+    {
+      "title": "RFK Jr’s ‘deities of vaccine research’ raided by police in Guinea-Bissau",
+      "publisher": "The Guardian",
+      "publisher_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNFhEU3praDZvUENMbkZ3bzQ1aEN6QlRkZ0JSakNGZ0hjZHRsYVZ5ekp0aWdZaGdTbjA3MnliV2lCQWxndmYxbFQxZWFTUkZCdkxiNnN4Y21pOGJUV3FCcllDYjNjZDRkYm1JWFlsWWVIOWNtdEh2dDE5cUpNUTBwc18xZ2tVRXpLalNkZnNuTWVjdDNoZkZzYXFYVU9CSU5FMzU4?oc=5",
+      "published_at": "2026-10-20T19:28:00+00:00",
+      "regions": [
+        "europa",
+        "global"
+      ]
+    },
+    {
+      "title": "As weight-loss drug users turn to dietary supplements, doctors and regulators raise flags",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdmVEQzU5MERjQjV6REw2M3MzbUNZZVlmWmpQdkx6RWh5cm5TbVZiSEpXT1ZuNHhKTzBjZW5QYkJ4SWp0M2xJU1pyU1NxZktrSHJUT01GUmo4TmF1VVhJREtQY0tkYWF3UGZOT2dnOC1qNmxQX29ZYjFEN1g3cV9vc2lwdXZCVjdicGtaeWZYeGxNZ0VfdmM3UWJ5SXJLLThfaTdZM0luN2lmSXVxV2tMSWxPVVVUa204RG1jbGU0RG5ERjJXdDB2b1VrUQ?oc=5",
+      "published_at": "2026-10-20T19:18:28+00:00",
+      "regions": [
+        "europa",
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Sheinbaum anuncia ahorro de casi 70,000 millones de pesos en compra de medicamentos",
+      "publisher": "El Economista",
+      "publisher_url": "https://www.eleconomista.com.mx",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObnlwY2J0TlFob3A4RmkyMGE2TVFaQ2ZGTXB4eW5pek1yalFQeXk2NWhMSFBMQU1TVjBMemdCOFhNZEROWUd1Wkd6NnVDcF82ZmRzc0RDWTdhN2xJbjZla0Y5cjI0MkU4VzQwZC1kazZ4UGtWMk1pc1NOZW9OaENZWEI3ZWI5T09WWGM2QVUyb3lsZUlXNzFoX2ZlbXBjRVNzTGFBcWprby01WXYtLUNsdWZlWXAxTHNRdGtWSnp3QlhZaGpVTW9v0gHMAUFVX3lxTE0wd1lVQWRxdmt3UksybS02amU4SzN3YkpULUZtaVRnS3JQU3MwN2t0cFRveWhCYnpoUXdMSVg0WnoyQTZlRzFneEZzUXZ4eldGWjRDUklPdnBDTmpkdVJOYVpab3hiX2dmOFVNbXpOMG5TaEFzeUhtWmM3Zl9UdmNQcnpEMkZHUzl2V0hhbXU1d2YxZ3YzWVR1bGkyd1JpaUEyWnZVRDhEekxZQ0xWc1hTQ0pMWXNwX3Zjcy1WLTFZbGRIOXhzYm5keHljbQ?oc=5",
+      "published_at": "2026-10-20T19:07:23+00:00",
+      "regions": [
+        "mexico"
+      ]
+    },
+    {
+      "title": "¡Protégete del frío! Vacuna contra la influenza GRATIS en La Laguna: dónde y quiénes deben vacunarse",
+      "publisher": "Milenio",
+      "publisher_url": "https://www.milenio.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUkdHWEtFdG12eUdxUDNsaGk2YTAwYTc3cG5kVDhGYlBHMzJiT0tobUktOE9jRl9nWUtwR1plUGd5UFNDcG5xTk5Wa29ERHVJQkx5eENSVThtSkowcG5FYV9kWGE1aDlOaUVjOUFaemUwNjNFR0JQZzlmaHgyUl9Ha0JvcHpiQll2cEo1TGczUUPSAZABQVVfeXFMT09ycjBaNndsNW1Sd2h5LU0wSW9XbVh1Q1RzV0pBXzV2SHVzbWNyUUpWQ3p0SlhvbWZ4V2tUY3BwNFFxN2xNRndaUnF6bXpBTjlhWjZRYmxnTGlENFhOS3luc3VXVXNWamNVRXk2UDZHblVkRnozWDQtMHFlYU15WVBWVEJmUUJna3J5VWxmRHpY?oc=5",
+      "published_at": "2026-10-20T19:03:00+00:00",
+      "regions": [
+        "mexico"
+      ]
+    },
+    {
+      "title": "Why Drug Companies Are Rushing to Market Ketamine Medicines",
+      "publisher": "The New York Times",
+      "publisher_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbHgyZ0VMMmFFQlpnMGNnTmxxRU5oSzhjSUJmRV8tNWtQaVF3MzUzR3I5Q2VPMk0yWk0zUFVQYWN2bmQ3R0stTVljcm9fTlc3RG0wQjZMQjVoYnZEeGlQSW0xYUdVOGNyd01mT3RBZ2JlN0ZkTU9nNzYtN3BXdWtJUTloUmY?oc=5",
+      "published_at": "2026-10-20T17:49:20+00:00",
+      "regions": [
+        "usa"
+      ]
+    },
+    {
+      "title": "Salud señala a 40 empresas por incumplir en compra de medicamentos",
+      "publisher": "Milenio",
+      "publisher_url": "https://www.milenio.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNY2VGOUpfRW85SjBmUjJDbzdPdi1iejlKRzBWOFFfT3BSZUpkd1RaMzdhaDBmWDFOUEg4cWUybUxwQ2hkdFBGb2xxUjNpXzFIOEpEVnVobEx6S293NS1VUzRkb1NtZmYyLS1JTU1RRmFXcy15OEVqT3JlWWJNWWt2SkI1bWFMY3BOZEM3Nl9BNlRQalN50gGUAUFVX3lxTFB4Uy1nb3pGY3FEa3BIdHVENHgzakF6QU1aLVRLMjVyV05Hb3ZsQ21NMzBpYTBOVG11aTMtSXNBSzg0TDNCb2tJT0tvOGJtQUgxR3ZyMlBfWVFqeXg0Q0NRa0tnU25ycGNoLWRTbnMweUkwc2U2NWtEa29HLWxwcHNzVWRtcW8tdHJlOGxWQ0NwelhJdjQ?oc=5",
+      "published_at": "2026-10-20T17:22:49+00:00",
+      "regions": [
+        "mexico"
+      ]
+    },
     {
       "title": "Sun Pharma Announces UNLOXCYT® (cosibelimab-ipdl) Has Received a Category 2A Preferred Designation in the Updated NCCN Guidelines for Locally Advanced Cutaneous Squamous Cell Carcinoma (laCSCC) Patients Who Are Not Candidates for Cura",
       "publisher": "Financial Times",
@@ -120,6 +183,18 @@
       ]
     },
     {
+      "title": "AstraZeneca-Amgen asthma drug hits 69% remission in esophageal disease trial",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRVhRRmJVdENpM1dwVEtJc0xRUk02YmpkM0p0T1ZEc3QtNFdRZWVJMkVxaVYxTFV1VjZocER1SHpYVlhldzRnLVNKdklRcUN5aDAwUkQxWWdJQ0huM2t1R0dsUU10VW04azdEWGVmOHZOUlVHUDJFbDRweXc1bEJKZkpBckZsU1FqOC1lYmpSTmpHNXhKM0FuUDYzd0RJc000VFVLTFlOUTRveEtSOTRQUjNrcFJZTFl1dXVJbjFxdXY1RW81aTR3NUxWUjRJbHhDMEl6NExmMmhGTzB0?oc=5",
+      "published_at": "2026-10-20T16:10:28+00:00",
+      "regions": [
+        "europa",
+        "global",
+        "usa"
+      ]
+    },
+    {
       "title": "Compounded tirzepatide recalled after FDA warning",
       "publisher": "pharmaphorum",
       "publisher_url": "https://pharmaphorum.com",
@@ -130,33 +205,11 @@
       ]
     },
     {
-      "title": "As weight-loss drug users turn to dietary supplements, doctors, regulators raise flags",
-      "publisher": "Reuters",
-      "publisher_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdmVEQzU5MERjQjV6REw2M3MzbUNZZVlmWmpQdkx6RWh5cm5TbVZiSEpXT1ZuNHhKTzBjZW5QYkJ4SWp0M2xJU1pyU1NxZktrSHJUT01GUmo4TmF1VVhJREtQY0tkYWF3UGZOT2dnOC1qNmxQX29ZYjFEN1g3cV9vc2lwdXZCVjdicGtaeWZYeGxNZ0VfdmM3UWJ5SXJLLThfaTdZM0luN2lmSXVxV2tMSWxPVVVUa204RG1jbGU0RG5ERjJXdDB2b1VrUQ?oc=5",
-      "published_at": "2026-10-20T16:07:56+00:00",
-      "regions": [
-        "europa",
-        "global",
-        "usa"
-      ]
-    },
-    {
       "title": "Trabajadores del IMSS protestan en Palacio Nacional por salarios y medicamentos",
       "publisher": "Expansión Política",
       "publisher_url": "https://politica.expansion.mx",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcW5KOXJySUFhNW1aYnJnVFJEOWxlZVk4SjJBUUFSVWtGSnB0MWlMTFkwNURKRHZmZnVwOEhoNlVwZmQ4dnd3Zk81ZkhCY1N5NG05czJWbmlUeUQ4T25pZ3labmEzWk5pX0NSTWZpMU5kakJ4aFItQjVZbnNFVlVSQ1V3R09xQlk4YVHSAZcBQVVfeXFMT1lsNHU0aktXaXJiVllkQ3JPZEhCdGFUa0ljNm5jQ0JxZ1N4X3lKaGtqVTM4MDFPRTQ3cnREUmNzZU1lRDRVdEhheWZlUmFydGtUUDRqaUJqNGt4dkR4QnBGd3Npck9yMDVnNEc2RGNwQ1lCbDUzRER2SjVqeDNVd2NSUF8za3MzeUtmOHlGVnJjclR4QUowdw?oc=5",
       "published_at": "2026-10-20T16:03:00+00:00",
-      "regions": [
-        "mexico"
-      ]
-    },
-    {
-      "title": "Sheinbaum anuncia ahorro de casi 70,000 millones de pesos en compra de medicamentos",
-      "publisher": "El Economista",
-      "publisher_url": "https://www.eleconomista.com.mx",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObnlwY2J0TlFob3A4RmkyMGE2TVFaQ2ZGTXB4eW5pek1yalFQeXk2NWhMSFBMQU1TVjBMemdCOFhNZEROWUd1Wkd6NnVDcF82ZmRzc0RDWTdhN2xJbjZla0Y5cjI0MkU4VzQwZC1kazZ4UGtWMk1pc1NOZW9OaENZWEI3ZWI5T09WWGM2QVUyb3lsZUlXNzFoX2ZlbXBjRVNzTGFBcWprby01WXYtLUNsdWZlWXAxTHNRdGtWSnp3QlhZaGpVTW9v0gHMAUFVX3lxTE0wd1lVQWRxdmt3UksybS02amU4SzN3YkpULUZtaVRnS3JQU3MwN2t0cFRveWhCYnpoUXdMSVg0WnoyQTZlRzFneEZzUXZ4eldGWjRDUklPdnBDTmpkdVJOYVpab3hiX2dmOFVNbXpOMG5TaEFzeUhtWmM3Zl9UdmNQcnpEMkZHUzl2V0hhbXU1d2YxZ3YzWVR1bGkyd1JpaUEyWnZVRDhEekxZQ0xWc1hTQ0pMWXNwX3Zjcy1WLTFZbGRIOXhzYm5keHljbQ?oc=5",
-      "published_at": "2026-10-20T15:46:05+00:00",
       "regions": [
         "mexico"
       ]
@@ -214,7 +267,7 @@
       ]
     },
     {
-      "title": "Gobierno de México transparenta compras de medicamentos: LINK para consultar costos, proveedores y entregas",
+      "title": "Gobierno de México transparenta precios y compras de medicamentos | Link OFICIAL para consultarlos",
       "publisher": "Milenio",
       "publisher_url": "https://www.milenio.com",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRkJjd2JTVVIzdk1xQzVRQnFDeTZlQllvUzh5T3MyOGxmdVNLX2NGYW5lem9rZHc2cFRJOGd3QU12Mmp4OGtPTW5mZ0xpOG1LZm9GQXFGS0dnVy1pbWRQVy14VVVfRmR3NU1zTVptMFYtaXRPNzJDMVpndzJtSHNVOWliZTQ1UWN1VGhiMjhnckItZUtNbjFLaXU1MHJTZ9IBngFBVV95cUxPeEUtU0ZuSFRjbVZ5UzNzeWpzR3dLalBqYm1nNE4ySnpqZkxzdlF1djdCZVp3WDFXSkxVb3BZbFcxbGhZTlc2N3FrR0hTbHpKOV9kbEQtcmI1bWNOYkhMRXVHcHRQcjJzX081anlwZXYyakxtQmlDWGZOUFlRbkpzVHUyNE1ETXlBZTdCX1pVVVpLZmVGa1hyNmVzN09Sdw?oc=5",
@@ -234,13 +287,12 @@
       ]
     },
     {
-      "title": "US FDA issues guidance on apps used with prescription drugs",
-      "publisher": "Reuters",
-      "publisher_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPR1RFRkdmbENVVkRLSmx6cTlBMmtLWTZaLTZtWE1HZ3RvQ2hwNWxkazdhcXc1VkdhY1ZsdGhfMTZZV3F5WjFqbE5FNkVGV3VFeUhmMzJQQzVNWXozdVdkRi1hNUVXVFFfNkFmTEJCT21VaHhnV2o1STNqUXMtMHJxbl8zcVFnS3JpaXM1UTdoRWNud2t1Zk45N0JZaUE1aDdlTjluR3NmNlJBRWNDRUE?oc=5",
-      "published_at": "2026-10-20T14:52:46+00:00",
+      "title": "Pharmalittle: We’re reading about drug launch prices, an AstraZeneca AI deal, and more",
+      "publisher": "STAT",
+      "publisher_url": "https://www.statnews.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUUsxM2VxM1FiVnVoUGl1Ri1KTEFXTVJrUG5uWnJteDc4SjN6LU1FMC0tUEhpVmsyWERkbGRTZ0EtVUMtVWdVTEtXZnVyX3hQc2plWEdGYmxxMkdtVm45VWFjbWZfSlVOUHZyQ01Od0w3a3BkWEtjZ2ZUMHRJbXgta0FnenJRNmY5X1pLZkJIcjk3R3Bj?oc=5",
+      "published_at": "2026-10-20T14:09:10+00:00",
       "regions": [
-        "europa",
         "global",
         "usa"
       ]
@@ -248,32 +300,11 @@
     {
       "title": "Heroin seized as nine arrested in drug raids",
       "publisher": "BBC",
-      "publisher_url": "https://www.bbc.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9xZUpnNDd6LXNjRkdiUkdrSEVibDZvTHdCVzZWMkY3czBBd2YxT1F2b2s4RWFJT0V4MWg0MXFNTDV1WU56aWtjRVJqWUhOT255NGR1RHItbk9mRUE?oc=5",
-      "published_at": "2026-10-20T14:47:33+00:00",
+      "publisher_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ENVhYd0RnZXpmVEEzUVU1TjBHUlJwdnFreXBiT3Q4Vnk0MlhtcjU0T1NqM01maWhBSEVnX18tWWoyMTNULUt2ZHlmYjk1NHBTT0M1WkZEX2g?oc=5",
+      "published_at": "2026-10-20T13:46:37+00:00",
       "regions": [
         "europa"
-      ]
-    },
-    {
-      "title": "Pharmalittle: We’re reading about drug launch prices, an AstraZeneca AI deal, and more",
-      "publisher": "STAT",
-      "publisher_url": "https://www.statnews.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUUsxM2VxM1FiVnVoUGl1Ri1KTEFXTVJrUG5uWnJteDc4SjN6LU1FMC0tUEhpVmsyWERkbGRTZ0EtVUMtVWdVTEtXZnVyX3hQc2plWEdGYmxxMkdtVm45VWFjbWZfSlVOUHZyQ01Od0w3a3BkWEtjZ2ZUMHRJbXgta0FnenJRNmY5X1pLZkJIcjk3R3Bj?oc=5",
-      "published_at": "2026-10-20T14:03:52+00:00",
-      "regions": [
-        "global",
-        "usa"
-      ]
-    },
-    {
-      "title": "Why Drug Companies Are Rushing to Market Ketamine Medicines",
-      "publisher": "The New York Times",
-      "publisher_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbHgyZ0VMMmFFQlpnMGNnTmxxRU5oSzhjSUJmRV8tNWtQaVF3MzUzR3I5Q2VPMk0yWk0zUFVQYWN2bmQ3R0stTVljcm9fTlc3RG0wQjZMQjVoYnZEeGlQSW0xYUdVOGNyd01mT3RBZ2JlN0ZkTU9nNzYtN3BXdWtJUTloUmY?oc=5",
-      "published_at": "2026-10-20T14:00:06+00:00",
-      "regions": [
-        "usa"
       ]
     },
     {
@@ -344,6 +375,17 @@
       "published_at": "2026-10-20T11:15:31+00:00",
       "regions": [
         "europa"
+      ]
+    },
+    {
+      "title": "Drug developer Lycia Therapeutics targets $938 million valuation in US IPO",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMnI3R0lXWnN4alVGb1k2Tm5fcDRNcDdmdnBCYlkzSVVnSmxmQ0VVXy1pVnU5V0c5Tmc4d0NKZXl3d1hvYmVwMXcwY0ZWcnVyNWlCN1RmZkRpaTJvdkJ1X2pQSWRBNVlkYlYyallTY3ZldkRqMi1yM19WN1ZyZVh5WERxdVA2ZFQwcVBkYmdDNmJuOFRwcHVMMzBtT0xSVVFrNjFxbTQteF9oYlFrcXBzamNranBGa2ZVdEpoeUVxa0NUYTkyeGFpTUN2NjNfQnVnbFVETlRtbmhNZw?oc=5",
+      "published_at": "2026-10-20T11:12:25+00:00",
+      "regions": [
+        "global",
+        "usa"
       ]
     },
     {
