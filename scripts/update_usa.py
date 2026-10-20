@@ -111,7 +111,7 @@ def inflation_us():
             for row in csv.DictReader(io.StringIO(response.text)):
                 date=row.get('observation_date') or row.get('DATE')
                 raw=row.get('CPIAUCNS','')
-                if date and re.fullmatch(r'\\d{4}-\\d{2}-01',date) and re.fullmatch(r'\\d+(?:\\.\\d+)?',raw):
+                if date and re.fullmatch(r'\d{4}-\d{2}-01',date) and re.fullmatch(r'\d+(?:\.\d+)?',raw):
                     values[date[:7]]=float(raw)
             if not values:raise ValueError('FRED CPIAUCNS sin observaciones')
             latest=max(values)
