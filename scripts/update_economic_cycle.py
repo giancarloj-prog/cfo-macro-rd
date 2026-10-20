@@ -20,7 +20,9 @@ def main():
     previous=json.loads(OUT.read_text()) if OUT.exists() else {}
     result={'checked_at':datetime.now(timezone.utc).isoformat(),'series':{},'source_health':{}}
     for name in ('leading','coincident','lagging'):
-        result['source_health'][name]={'ok':False,'error':'No se ha validado una serie pública gratuita de The Conference Board; no se publican cifras sustitutas.'}
+        if name in previous.get('series',{}):
+            result['series'][name]=previous['series'][name]
+        result['source_health'][name]={'ok':False,'error':'Último dato publicado disponible; la descarga de nuevos informes aún no está automatizada.'}
     for name,identifier in SERIES.items():
         try:
             history,url=fetch(identifier)
