@@ -1,7 +1,7 @@
 {
   "date": "2026-10-19",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-19T21:19:18+00:00",
+  "checked_at": "2026-10-20T00:52:03+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -28,7 +28,7 @@
     "fiscal": {
       "ok": true,
       "error": null,
-      "count": 2
+      "count": 3
     },
     "dgii": {
       "ok": true,
@@ -38,17 +38,17 @@
     "finance": {
       "ok": true,
       "error": null,
-      "count": 6
+      "count": 5
     },
     "securities": {
       "ok": true,
       "error": null,
-      "count": 2
+      "count": 3
     },
     "economy": {
       "ok": true,
       "error": null,
-      "count": 6
+      "count": 7
     },
     "economist_andy": {
       "ok": true,
@@ -82,6 +82,67 @@
     }
   },
   "items": [
+    {
+      "title": "Gobierno asegura deuda pública consolidada no aumentará este año; proyecta cierre en torno al 57.5 % del PIB",
+      "publisher": "El Nuevo Diario",
+      "publisher_url": "https://elnuevodiario.com.do",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQd3YxUTI4TFZheEU1R2VteTJqRDFrUHlsblBrRWRGN0tQMlRmTllYa2c2MnZqZzBjT2pBc2tjY2l4ZUJBNXUzQnNfcmxYNjNnYWswbFU1MnBEZ1VlWUt6UUZDQ25QZFZZai15WFBlMFdtYTVmOGhQOG1Fcy1RRHI5NnVRNU5UeENjdURFWE5zUXE4VlVrUHhDTHA2VXhFOUI4VHlsVU0zSEJoTkhoUEdRcWNlZndHdXhlUlo0bnk1czFJaUhoZ21USDd6aXhpeW04?oc=5",
+      "published_at": "2026-10-20T00:16:49+00:00",
+      "topics": [
+        "fiscal"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "fiscal"
+      ]
+    },
+    {
+      "title": "Juegos de Azar entrega a DGII base de datos de establecimientos acogidos al Plan de Regularización",
+      "publisher": "Listín Diario",
+      "publisher_url": "https://listindiario.com",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxORUQwdldKYnNCYXMyOWx2eUV1Z25BcXRNTWR2STNWcVJpYkdMdnQ1andRMGxIVGZScFFyMXdJa2dzc1VpcW56OTJSVWJuTmwxQUhQc1hhcndlYU03bDNHWWFGcW5vcm5FcHRleEhaS1phd2o0QkV3Z2VYWGU1YTBGOGJ1N1NtOFF6anNNYV9uRFdZWTYtaXBJMlRyRFFRSUhaNEE3WFRSWmhRU2JLdHB5RlpsTGc5SjIxeGZXMExlSWhFdWdzaDI4bkVhYVJ6UWtKU2ZBY2o2XzVhUUZMYWfSAeMBQVVfeXFMT0hvRDIybDByWHo5ZkY5VjBpbHd3cEpOdTd3bFN4Ukd3ekFtZ05DMXpXaG9uZTdqYmlOYkhwcUVoVHlzZTY1TmdHWURwTDVwVnJPYUlvWU9IQzI1Z2VTc0pxN3BSOWdOeHBPdEtTWDdhOTJLRlI3U2VUaU5tMy16cFppQUVVNW1NSEgzcnFKTUNOQVA3V2JFUzh6a1RjcEhZOTNuOW5uaDIwUzE1RVpFaGRuRnFqemFOeERlNHF3WTJtOTJ4X1VqMXB3X1hpRjFUd0llamVsWDVmeHVxalIyekFzNU0?oc=5",
+      "published_at": "2026-10-19T23:30:27+00:00",
+      "topics": [
+        "dgii"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "dgii"
+      ]
+    },
+    {
+      "title": "Superintendencia de Pensiones plantea hipotecas de hasta 25 años con fondos previsionales",
+      "publisher": "Acento",
+      "publisher_url": "https://acento.com.do",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNjhlLTI5THRZV1ltd0w0ZWpjaW4yVUh6SDBpNndSdTU5dnUyM3RJZDJDVmNhY1IwdXBYZWo2eFNtMWFqMkJ3VTl4T2JZSnphZE5GMEZHQ3JlWFdwLUwyR2ZkZGZDaFpHY2hITUlMVFhEUVlQS2NQQTZFS29UNHFGQklmYjFNVEtZMWpVTGFuQUFCWnF6b0VDeEZBVGZKbEJpSHUxNnBLcTlYUkFrT3ptN25PRGNSMG8xZHVCbkNaUUgwaUp0azdPR20wV08tUdIBzgFBVV95cUxPNjhlLTI5THRZV1ltd0w0ZWpjaW4yVUh6SDBpNndSdTU5dnUyM3RJZDJDVmNhY1IwdXBYZWo2eFNtMWFqMkJ3VTl4T2JZSnphZE5GMEZHQ3JlWFdwLUwyR2ZkZGZDaFpHY2hITUlMVFhEUVlQS2NQQTZFS29UNHFGQklmYjFNVEtZMWpVTGFuQUFCWnF6b0VDeEZBVGZKbEJpSHUxNnBLcTlYUkFrT3ptN25PRGNSMG8xZHVCbkNaUUgwaUp0azdPR20wV08tUQ?oc=5",
+      "published_at": "2026-10-19T23:00:06+00:00",
+      "topics": [
+        "finance",
+        "securities"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "securities"
+      ]
+    },
+    {
+      "title": "DGII informa que 100 mil contribuyentes ya son emisores electrónicos",
+      "publisher": "El Nuevo Diario",
+      "publisher_url": "https://elnuevodiario.com.do",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOThpSnAxTFJDVTN4bFJzNnZNRXVxR1FRRUZPM2tJVnNMOENaeF9pb1ltTW5Vd3REM0hvcHFLY1BxQjAxX2JCRHdIdkctd0ZHWnhtdFdVRVlXZjFZNkZDX1dfTHpkM0paMXVmcmltUV9zNHBUNUVwMFZHMnlZY1RybDZEcVp1b2F6MkpPZU9GU2hrOEhWdnRKbktDdWtnc2Zl?oc=5",
+      "published_at": "2026-10-19T22:16:47+00:00",
+      "topics": [
+        "dgii"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "dgii"
+      ]
+    },
     {
       "title": "DGJA entrega a la DGII base de datos de establecimientos acogidos al Plan de Regularización",
       "publisher": "El Nuevo Diario",
@@ -163,7 +224,7 @@
     },
     {
       "title": "La banca habla de inclusión, pero ¿incluye a todos?",
-      "publisher": "eldia.com.do",
+      "publisher": "El Dia.com.do",
       "publisher_url": "https://eldia.com.do",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9hRlNLSm9xVlJwNG54aEZuS2NVRG1CY1dFdFg3UEM0RzI1NjhTbnFNV1ZCeGpQOHRqbnVkVTlUZ0wtN21FdXBYT1hOQXpBVmJEcjBISzdlT1BDeTRDbGhKVVRXVnV6OVM2UWFfQnNfUTIzTzZKUVptVGJn?oc=5",
       "published_at": "2026-10-19T18:17:13+00:00",
@@ -264,11 +325,13 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNc1c5c0F4RGhrQlYyM3ozcnhHcms2ZHlsVlJ5czBYN0J1VXpvc1dTTnhYV0ZWN1FaQ1puWEFQbVFoUXE4aDVCSHZfZlJsTm83TjRYd0RTRUEwNGt5U3F6OVJqRkx6ZE9tRmFqa3lFX3lWc1R1cFVFZFM5TmpZYUE1dTc4a1BVTGhabFJzcURZOFdETzBQdGtjNGpLYncwcVZo?oc=5",
       "published_at": "2026-10-19T14:16:40+00:00",
       "topics": [
+        "economy",
         "fiscal"
       ],
       "economists": [],
       "economist_match": null,
       "searches": [
+        "economy",
         "fiscal"
       ]
     },
