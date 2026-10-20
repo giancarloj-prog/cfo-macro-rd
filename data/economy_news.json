@@ -1,7 +1,7 @@
 {
   "date": "2026-10-20",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-20T15:40:13+00:00",
+  "checked_at": "2026-10-20T17:03:40+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -23,12 +23,12 @@
     "bcrd": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 2
     },
     "fiscal": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 1
     },
     "dgii": {
       "ok": true,
@@ -82,6 +82,40 @@
     }
   },
   "items": [
+    {
+      "title": "(VIDEO) Banco Central ofrece recital “Sólo pianistas” con motivo de su 79º aniversario",
+      "publisher": "El Nuevo Diario",
+      "publisher_url": "https://elnuevodiario.com.do",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbHotZHdmT3MtWGhJWGl3cHg4a3lndDh0WlI1R3llRmwyUEd6b25UWDBORzNvODVEN1REczhYZEN5SnBpOGl1R3A5b0EwaUNyQjdiSWxzcVUzbHlFNEVlemxLZ3N5Sk1qMEZLMEp0ZDhYZXJ1c2FreS1hM1lyV3FSS2piTlAxY2xBd0tJVkMxUVhjZnFsVlFILXhwZUFfZEs2RUZuMGx5a0dKODM4eDNWcU13?oc=5",
+      "published_at": "2026-10-20T16:47:11+00:00",
+      "topics": [
+        "bcrd",
+        "finance"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "bcrd"
+      ]
+    },
+    {
+      "title": "Banco de España advierte sobre riesgos del petróleo y la deuda para la economía dominicana",
+      "publisher": "Diario Libre",
+      "publisher_url": "https://www.diariolibre.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYkxkUjkxX3J3OEJDWDVRZzR4bjk2UHYxNWpEUUFPakFQYklJcURocjFZb1Fqb0x1OFFnYUlzVGs5WUlnY21uQUJCV1pTQUNsSlNZNHVKM2hkWVBfLWFvNHFZRHdpWUdNTUhSMUZOcWNac3B4THFhR2dzR0RKTlpqQzVGZ2J0UW1wOWRQUE5EQkpMLTlBREpVWXFrYVo5MklhWjVHYWxvdGRfcXJfTXF5azY5WG41ajRFT3dSZUJuUUdfNTDSAcgBQVVfeXFMUC1JMmhMNzJ5Z05jSUotbEZGRy1Cbk9kT1RmVTNTUGtZS3dsdTVCYjZzbzg1TlUzZmF3Y3EzbHBhOTZITEJVRXg5S0p6Qy1USlA2UnBxbndhZG8yaXpLLUUwZUhSTW9Db1F0YXQzUEZ3RHdJdDBMWExOeG81REgzdTRBV1ZudXBuam0tUlpjQ3hYTEM1bTJwamE3a19SRGVuTHk1cWVqUUhjejk3dzBYbEZhRlZzeXFFRmNPcXhTZzVGLWJJX0Z2V0g?oc=5",
+      "published_at": "2026-10-20T14:59:00+00:00",
+      "topics": [
+        "economy",
+        "finance",
+        "fiscal"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "economy",
+        "fiscal"
+      ]
+    },
     {
       "title": "Intellisys busca impulsar las exportaciones dominicanas con talento tecnológico",
       "publisher": "El Caribe",

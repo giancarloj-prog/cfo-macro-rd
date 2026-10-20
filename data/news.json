@@ -1,7 +1,7 @@
 {
   "date": "2026-10-20",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-20T15:40:14+00:00",
+  "checked_at": "2026-10-20T17:03:42+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -24,25 +24,154 @@
     "mexico": {
       "ok": true,
       "error": null,
-      "count": 2
+      "count": 5
     },
     "usa": {
       "ok": true,
       "error": null,
-      "count": 8
+      "count": 13
     },
     "europa": {
       "ok": true,
       "error": null,
-      "count": 13
+      "count": 15
     },
     "global": {
       "ok": true,
       "error": null,
-      "count": 6
+      "count": 11
     }
   },
   "items": [
+    {
+      "title": "Sun Pharma Announces UNLOXCYT® (cosibelimab-ipdl) Has Received a Category 2A Preferred Designation in the Updated NCCN Guidelines for Locally Advanced Cutaneous Squamous Cell Carcinoma (laCSCC) Patients Who Are Not Candidates for Cura",
+      "publisher": "Financial Times",
+      "publisher_url": "https://markets.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUTUwSndCc0pHamlmdTNSZjJkb0dfcTl3eTVJSURNYmx6LS1xUTJMYWYxMTMyQ1c2OS1aT2t5MENaSDVXX0V3REJCVXpzTWl5d0t6YUpKdlYyczBDcW1yT1J3QVZfRWQ3cW9BRlMyWWxiRU9kSkdwRWYxTWxWNTdoM0l4dzBfRnF2WmYwaFB2VzRiMTVSMUpUQQ?oc=5",
+      "published_at": "2026-10-20T16:51:00+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "A bipartisan group of lawmakers urges the FDA to close a peptide loophole",
+      "publisher": "STAT",
+      "publisher_url": "https://www.statnews.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNckVTcGdiQ2o0T090M2NSVWRFMm5JVURHRkJ0cFFrOXVfaUo2eHJSMFVUZWNWWnJZMnpVVll3SjVFOWQ5aWFyZXoyQ2V0OVAtS3lZc1FHWGZiNkxwcWZNWkVLNkxQX25YMGdzeW9QaHVIT2Z1LVBEZHRLLWF6eHJac294UEVtcVJLcnNNUkVCMlNfdW9WRzZNT01WOTNzQUZLcU1uN2NodGhBYl9uR3hodDNnTFNfcHFRY1ZlYw?oc=5",
+      "published_at": "2026-10-20T16:48:49+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Roche continues to look to China for new drugs",
+      "publisher": "STAT",
+      "publisher_url": "https://www.statnews.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbUp2aDFHd3BTRVdRcHVjZ1dqbkVvS2JGZmszakgzZWQ3ZzZyQ2RFSEYtZ1BUV1gzVXFadkRhSVg4UjcwcUcxZUsxWDhFcnJQMlAzazBDemxNb1NxemkxRGdXdW0wVjZkODRtcWloOG9POUFuVDlTYXdlUG04Q2FraGplam9XY2NqTjF3WU4zWWxUQQ?oc=5",
+      "published_at": "2026-10-20T16:43:45+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Most new drugs are still too costly at launch, ICER says",
+      "publisher": "BioPharma Dive",
+      "publisher_url": "https://www.biopharmadive.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcW1GOFowR3B0QjNhQ1hIZUFDVEc1LVpNRXp3dnhDVDlyX1NzNTJndk5fOEtwbTdKUzVzdFAyU05xeHB0TFJSYTJTX05KSW9aMl9uOHpkVWxRSy1KWVJnSG1Sejc4V01mU0ZCYUozUnZ3U256NVA1Nm56WWtkWmFicXZ5RzRhc29zYS1vZ3oxalQ?oc=5",
+      "published_at": "2026-10-20T16:38:25+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Rapport’s epilepsy drug finds surprising success in bipolar trial",
+      "publisher": "BioPharma Dive",
+      "publisher_url": "https://www.biopharmadive.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOXVGaHh1bXlldVhlR1ZuRVZRanJmckprTTRLV0xsSldMYXJnWEVaWXNnUXJvME9BYk50cDRrdXB1NnV2YXhOMTVRVHNlNDJHNU5LeTF6U0hiWTd3SGtZX3BLYUppVFkyb1AyWEtyYXN4ME9Md0FkSjdXT3l6WWxRVjl0YmVnNml5TGNidUE1bHUwOEpNamc4ZHlLNA?oc=5",
+      "published_at": "2026-10-20T16:30:25+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Eduardo Clark anuncia compras directas y subastas inversas para reducir costos de medicamentos",
+      "publisher": "Milenio",
+      "publisher_url": "https://www.milenio.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaVJtWW04ZUcwdFRaSy1lQjU5MWJNbmxUWEhuZTFLWGdDZFphem5ndXI2UGdzZVA5ZXMzaGltbUlrMmVqR0RIZ0s5Y2dLX3h1RkVMWS1GV0F2MVlad1dXb2dHc0pyS2lDeG5XemhNVEhUMXhLVEJxNHBWTW9sUkduVzFzMHA5TUZWYmlyQ2J0VklNUHFqNG9zVWxB0gGaAUFVX3lxTE1JRW8wMXpNRVV1c3ZRSEdvcWZ0MUxwbXFtWk5mdzRVMW5sV3k5dFFFVERGekxJWVplZVpJX08zdlVUeVlCd3ZXQzBodmZnYTVMcDBrREUxSnV2TFpudW5WNmVGZjJiTW1oSnRvY0kyZVdYTV9PSzBvcEppSFhPOVlMUWtIWGxGRW9DUE4tUGVQOGdfRUROVUlIdHc?oc=5",
+      "published_at": "2026-10-20T16:14:47+00:00",
+      "regions": [
+        "mexico"
+      ]
+    },
+    {
+      "title": "AstraZeneca partners with Oracle for AI-driven clinical trials",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWXlaZTY2Vmg3T3c4NVV4STEtUS05REdfNG5IU0tsczFpSHJpOHlWbExOU2dQQmxDSkdBOFh2aFVLMmdISEFjeVFYdXBOX0w0Z0ZRMVEyYTFkcC1ybTVUOVFwZElvT29kaS1DVlFBRVc4c21Yd0hFUEt5TlhpT1ZsTXA0OVpINmVsZ0lUZmt2bEw3ZnF0RFVYZUxKMExPNEJ3RDFodUhlXzROalNfOTAyRQ?oc=5",
+      "published_at": "2026-10-20T16:10:45+00:00",
+      "regions": [
+        "europa",
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Compounded tirzepatide recalled after FDA warning",
+      "publisher": "pharmaphorum",
+      "publisher_url": "https://pharmaphorum.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUWMzc2dNaHlsVnFOaEo0My0wdW1iUHBqZTNMb2VRYkc3UTNWdjhFdmpNUjBYZk42OVRhS184dGwzOEZVU1RrOXE3cDhvSkFvaDdMQnZuaC0zZm1WQkNkbC14UDg0WGw1aUlBRENobVk3MHMxcXVTR1VQVkdYcUM4ZF9tY1NkQQ?oc=5",
+      "published_at": "2026-10-20T16:08:42+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "As weight-loss drug users turn to dietary supplements, doctors, regulators raise flags",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdmVEQzU5MERjQjV6REw2M3MzbUNZZVlmWmpQdkx6RWh5cm5TbVZiSEpXT1ZuNHhKTzBjZW5QYkJ4SWp0M2xJU1pyU1NxZktrSHJUT01GUmo4TmF1VVhJREtQY0tkYWF3UGZOT2dnOC1qNmxQX29ZYjFEN1g3cV9vc2lwdXZCVjdicGtaeWZYeGxNZ0VfdmM3UWJ5SXJLLThfaTdZM0luN2lmSXVxV2tMSWxPVVVUa204RG1jbGU0RG5ERjJXdDB2b1VrUQ?oc=5",
+      "published_at": "2026-10-20T16:07:56+00:00",
+      "regions": [
+        "europa",
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Trabajadores del IMSS protestan en Palacio Nacional por salarios y medicamentos",
+      "publisher": "Expansión Política",
+      "publisher_url": "https://politica.expansion.mx",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcW5KOXJySUFhNW1aYnJnVFJEOWxlZVk4SjJBUUFSVWtGSnB0MWlMTFkwNURKRHZmZnVwOEhoNlVwZmQ4dnd3Zk81ZkhCY1N5NG05czJWbmlUeUQ4T25pZ3labmEzWk5pX0NSTWZpMU5kakJ4aFItQjVZbnNFVlVSQ1V3R09xQlk4YVHSAZcBQVVfeXFMT1lsNHU0aktXaXJiVllkQ3JPZEhCdGFUa0ljNm5jQ0JxZ1N4X3lKaGtqVTM4MDFPRTQ3cnREUmNzZU1lRDRVdEhheWZlUmFydGtUUDRqaUJqNGt4dkR4QnBGd3Npck9yMDVnNEc2RGNwQ1lCbDUzRER2SjVqeDNVd2NSUF8za3MzeUtmOHlGVnJjclR4QUowdw?oc=5",
+      "published_at": "2026-10-20T16:03:00+00:00",
+      "regions": [
+        "mexico"
+      ]
+    },
+    {
+      "title": "Sheinbaum anuncia ahorro de casi 70,000 millones de pesos en compra de medicamentos",
+      "publisher": "El Economista",
+      "publisher_url": "https://www.eleconomista.com.mx",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObnlwY2J0TlFob3A4RmkyMGE2TVFaQ2ZGTXB4eW5pek1yalFQeXk2NWhMSFBMQU1TVjBMemdCOFhNZEROWUd1Wkd6NnVDcF82ZmRzc0RDWTdhN2xJbjZla0Y5cjI0MkU4VzQwZC1kazZ4UGtWMk1pc1NOZW9OaENZWEI3ZWI5T09WWGM2QVUyb3lsZUlXNzFoX2ZlbXBjRVNzTGFBcWprby01WXYtLUNsdWZlWXAxTHNRdGtWSnp3QlhZaGpVTW9v0gHMAUFVX3lxTE0wd1lVQWRxdmt3UksybS02amU4SzN3YkpULUZtaVRnS3JQU3MwN2t0cFRveWhCYnpoUXdMSVg0WnoyQTZlRzFneEZzUXZ4eldGWjRDUklPdnBDTmpkdVJOYVpab3hiX2dmOFVNbXpOMG5TaEFzeUhtWmM3Zl9UdmNQcnpEMkZHUzl2V0hhbXU1d2YxZ3YzWVR1bGkyd1JpaUEyWnZVRDhEekxZQ0xWc1hTQ0pMWXNwX3Zjcy1WLTFZbGRIOXhzYm5keHljbQ?oc=5",
+      "published_at": "2026-10-20T15:46:05+00:00",
+      "regions": [
+        "mexico"
+      ]
+    },
+    {
+      "title": "Antheia lands $80M conditional loan from Trump administration to onshore drug manufacturing",
+      "publisher": "Fierce Pharma",
+      "publisher_url": "https://www.fiercepharma.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOXVseExSd2RVUnNoQTlyTmhmUjdCamU5S2tLSkhINWQ0Z1A4UFJfdGpPVEloQkRyLTloU1hjbVVMMzFZeFcwSm1kR0V0NGZaWHJyUEVhNU5NMzZvYmp4SkNmWm9nbVZYelFfNi1GOU0xX3FoOVlFMnBTSEljRGNSbnZOak9rZ0IxR1ZNWVppLWozTjBJUXliaA?oc=5",
+      "published_at": "2026-10-20T15:35:39+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
     {
       "title": "Cosette lands FDA approval for Evoxac liquid in Sjögren’s disease",
       "publisher": "Fierce Pharma",
@@ -85,16 +214,6 @@
       ]
     },
     {
-      "title": "Why Drug Companies Are Rushing to Market Ketamine Medicines",
-      "publisher": "The New York Times",
-      "publisher_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbHgyZ0VMMmFFQlpnMGNnTmxxRU5oSzhjSUJmRV8tNWtQaVF3MzUzR3I5Q2VPMk0yWk0zUFVQYWN2bmQ3R0stTVljcm9fTlc3RG0wQjZMQjVoYnZEeGlQSW0xYUdVOGNyd01mT3RBZ2JlN0ZkTU9nNzYtN3BXdWtJUTloUmY?oc=5",
-      "published_at": "2026-10-20T15:13:46+00:00",
-      "regions": [
-        "usa"
-      ]
-    },
-    {
       "title": "Gobierno de México transparenta compras de medicamentos: LINK para consultar costos, proveedores y entregas",
       "publisher": "Milenio",
       "publisher_url": "https://www.milenio.com",
@@ -115,15 +234,25 @@
       ]
     },
     {
-      "title": "As weight-loss drug users turn to dietary supplements, doctors, regulators raise flags",
+      "title": "US FDA issues guidance on apps used with prescription drugs",
       "publisher": "Reuters",
       "publisher_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdmVEQzU5MERjQjV6REw2M3MzbUNZZVlmWmpQdkx6RWh5cm5TbVZiSEpXT1ZuNHhKTzBjZW5QYkJ4SWp0M2xJU1pyU1NxZktrSHJUT01GUmo4TmF1VVhJREtQY0tkYWF3UGZOT2dnOC1qNmxQX29ZYjFEN1g3cV9vc2lwdXZCVjdicGtaeWZYeGxNZ0VfdmM3UWJ5SXJLLThfaTdZM0luN2lmSXVxV2tMSWxPVVVUa204RG1jbGU0RG5ERjJXdDB2b1VrUQ?oc=5",
-      "published_at": "2026-10-20T14:28:51+00:00",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPR1RFRkdmbENVVkRLSmx6cTlBMmtLWTZaLTZtWE1HZ3RvQ2hwNWxkazdhcXc1VkdhY1ZsdGhfMTZZV3F5WjFqbE5FNkVGV3VFeUhmMzJQQzVNWXozdVdkRi1hNUVXVFFfNkFmTEJCT21VaHhnV2o1STNqUXMtMHJxbl8zcVFnS3JpaXM1UTdoRWNud2t1Zk45N0JZaUE1aDdlTjluR3NmNlJBRWNDRUE?oc=5",
+      "published_at": "2026-10-20T14:52:46+00:00",
       "regions": [
         "europa",
         "global",
         "usa"
+      ]
+    },
+    {
+      "title": "Heroin seized as nine arrested in drug raids",
+      "publisher": "BBC",
+      "publisher_url": "https://www.bbc.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9xZUpnNDd6LXNjRkdiUkdrSEVibDZvTHdCVzZWMkY3czBBd2YxT1F2b2s4RWFJT0V4MWg0MXFNTDV1WU56aWtjRVJqWUhOT255NGR1RHItbk9mRUE?oc=5",
+      "published_at": "2026-10-20T14:47:33+00:00",
+      "regions": [
+        "europa"
       ]
     },
     {
@@ -138,24 +267,12 @@
       ]
     },
     {
-      "title": "Heroin seized as nine arrested in drug raids",
-      "publisher": "BBC",
-      "publisher_url": "https://www.bbc.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9xZUpnNDd6LXNjRkdiUkdrSEVibDZvTHdCVzZWMkY3czBBd2YxT1F2b2s4RWFJT0V4MWg0MXFNTDV1WU56aWtjRVJqWUhOT255NGR1RHItbk9mRUE?oc=5",
-      "published_at": "2026-10-20T13:46:37+00:00",
+      "title": "Why Drug Companies Are Rushing to Market Ketamine Medicines",
+      "publisher": "The New York Times",
+      "publisher_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbHgyZ0VMMmFFQlpnMGNnTmxxRU5oSzhjSUJmRV8tNWtQaVF3MzUzR3I5Q2VPMk0yWk0zUFVQYWN2bmQ3R0stTVljcm9fTlc3RG0wQjZMQjVoYnZEeGlQSW0xYUdVOGNyd01mT3RBZ2JlN0ZkTU9nNzYtN3BXdWtJUTloUmY?oc=5",
+      "published_at": "2026-10-20T14:00:06+00:00",
       "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "AstraZeneca-Amgen asthma drug hits 69% remission in esophageal disease trial",
-      "publisher": "Reuters",
-      "publisher_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRVhRRmJVdENpM1dwVEtJc0xRUk02YmpkM0p0T1ZEc3QtNFdRZWVJMkVxaVYxTFV1VjZocER1SHpYVlhldzRnLVNKdklRcUN5aDAwUkQxWWdJQ0huM2t1R0dsUU10VW04azdEWGVmOHZOUlVHUDJFbDRweXc1bEJKZkpBckZsU1FqOC1lYmpSTmpHNXhKM0FuUDYzd0RJc000VFVLTFlOUTRveEtSOTRQUjNrcFJZTFl1dXVJbjFxdXY1RW81aTR3NUxWUjRJbHhDMEl6NExmMmhGTzB0?oc=5",
-      "published_at": "2026-10-20T13:01:44+00:00",
-      "regions": [
-        "europa",
-        "global",
         "usa"
       ]
     },
@@ -248,18 +365,6 @@
       "published_at": "2026-10-20T08:07:00+00:00",
       "regions": [
         "europa"
-      ]
-    },
-    {
-      "title": "AstraZeneca partners with Oracle for AI-driven clinical trials",
-      "publisher": "Reuters",
-      "publisher_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWXlaZTY2Vmg3T3c4NVV4STEtUS05REdfNG5IU0tsczFpSHJpOHlWbExOU2dQQmxDSkdBOFh2aFVLMmdISEFjeVFYdXBOX0w0Z0ZRMVEyYTFkcC1ybTVUOVFwZElvT29kaS1DVlFBRVc4c21Yd0hFUEt5TlhpT1ZsTXA0OVpINmVsZ0lUZmt2bEw3ZnF0RFVYZUxKMExPNEJ3RDFodUhlXzROalNfOTAyRQ?oc=5",
-      "published_at": "2026-10-20T07:37:51+00:00",
-      "regions": [
-        "europa",
-        "global",
-        "usa"
       ]
     },
     {
