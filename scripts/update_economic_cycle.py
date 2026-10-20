@@ -36,6 +36,9 @@ def main():
             old=previous.get('series',{}).get(name)
             if old:result['series'][name]=old
             result['source_health'][name]={'ok':False,'error':str(exc)[:220]}
+    for name in ('leading','coincident','lagging'):
+        if name not in result['series'] and name in previous.get('series',{}):
+            result['series'][name]=previous['series'][name]
     OUT.parent.mkdir(exist_ok=True)
     OUT.write_text(json.dumps(result,ensure_ascii=False,indent=2)+'\n')
 if __name__=='__main__':main()
