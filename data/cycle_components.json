@@ -4,133 +4,91 @@
     "leading": [
       {
         "name": "Manufacturing weekly hours",
-        "series_id": "AWHMAN",
-        "status": "unavailable",
-        "history": []
+        "source": "The Conference Board"
       },
       {
         "name": "Initial unemployment claims",
-        "series_id": "ICSA",
-        "status": "unavailable",
-        "history": []
+        "source": "The Conference Board"
       },
       {
         "name": "Consumer goods and materials new orders",
-        "series_id": null,
-        "status": "unavailable",
-        "history": []
+        "source": "The Conference Board"
       },
       {
         "name": "Nondefense capital goods orders ex aircraft",
-        "series_id": null,
-        "status": "unavailable",
-        "history": []
+        "source": "The Conference Board"
       },
       {
         "name": "ISM new orders",
-        "series_id": "NAPMNOI",
-        "status": "unavailable",
-        "history": []
+        "source": "The Conference Board"
       },
       {
         "name": "Residential building permits",
-        "series_id": "PERMIT",
-        "status": "unavailable",
-        "history": []
+        "source": "The Conference Board"
       },
       {
         "name": "S&P 500",
-        "series_id": "SP500",
-        "status": "unavailable",
-        "history": []
+        "source": "The Conference Board"
       },
       {
         "name": "Leading Credit Index",
-        "series_id": null,
-        "status": "unavailable",
-        "history": []
+        "source": "The Conference Board"
       },
       {
         "name": "10Y Treasury minus federal funds rate",
-        "series_id": "T10YFF",
-        "status": "unavailable",
-        "history": []
+        "source": "The Conference Board"
       },
       {
         "name": "Consumer expectations",
-        "series_id": null,
-        "status": "unavailable",
-        "history": []
+        "source": "The Conference Board"
       }
     ],
     "coincident": [
       {
         "name": "Nonfarm payroll employment",
-        "series_id": "PAYEMS",
-        "status": "unavailable",
-        "history": []
+        "source": "The Conference Board"
       },
       {
         "name": "Personal income less transfers",
-        "series_id": "W875RX1",
-        "status": "unavailable",
-        "history": []
+        "source": "The Conference Board"
       },
       {
         "name": "Industrial production",
-        "series_id": "INDPRO",
-        "status": "unavailable",
-        "history": []
+        "source": "The Conference Board"
       },
       {
         "name": "Manufacturing and trade sales",
-        "series_id": "CMRMTSPL",
-        "status": "unavailable",
-        "history": []
+        "source": "The Conference Board"
       }
     ],
     "lagging": [
       {
         "name": "Average duration of unemployment",
-        "series_id": "UEMPMEAN",
-        "status": "unavailable",
-        "history": []
+        "source": "The Conference Board"
       },
       {
         "name": "Inventories-to-sales ratio",
-        "series_id": "ISRATIO",
-        "status": "unavailable",
-        "history": []
+        "source": "The Conference Board"
       },
       {
         "name": "Manufacturing unit labor costs",
-        "series_id": null,
-        "status": "unavailable",
-        "history": []
+        "source": "The Conference Board"
       },
       {
         "name": "Bank prime loan rate",
-        "series_id": "MPRIME",
-        "status": "unavailable",
-        "history": []
+        "source": "The Conference Board"
       },
       {
         "name": "Commercial and industrial loans",
-        "series_id": "BUSLOANS",
-        "status": "unavailable",
-        "history": []
+        "source": "The Conference Board"
       },
       {
         "name": "Consumer credit to income ratio",
-        "series_id": null,
-        "status": "unavailable",
-        "history": []
+        "source": "The Conference Board"
       },
       {
         "name": "CPI services inflation",
-        "series_id": "CUSR0000SAS",
-        "status": "unavailable",
-        "history": []
+        "source": "The Conference Board"
       }
     ]
   }

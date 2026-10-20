@@ -1,17 +1,7 @@
-(async function(){
- const box=document.getElementById('economicCycle');if(!box)return;
- const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
- try{
- const r=await fetch('data/economic_cycle.json?ts='+Date.now());if(!r.ok)throw Error('HTTP '+r.status);
- const data=await r.json();
- box.innerHTML=['leading','coincident','lagging'].map((key)=>{
- const names={leading:'Leading · LEI',coincident:'Coincident · CEI',lagging:'Lagging · LAG'};
- const x=data.series?.[key],health=data.source_health?.[key],entries=Object.entries(x?.history||{}).sort(([a],[b])=>a.localeCompare(b));
- const last=entries.at(-1),prev=entries.at(-2);
- const change=last&&prev&&prev[1]!==0?(100*(last[1]/prev[1]-1)).toFixed(2)+'%':'—';
- const points=entries.length>1?entries.map(([d,v],i)=>{const vals=entries.map(e=>e[1]);const lo=Math.min(...vals),hi=Math.max(...vals),range=hi-lo||1;return (10+i*300/(entries.length-1)).toFixed(1)+','+(85-(v-lo)/range*70).toFixed(1)}).join(' '):'';
- return '<div class="card"><div class="k">'+names[key]+'</div><div class="v">'+(x?Number(x.value).toFixed(1):'—')+'</div><div class="meta">Período: '+esc(x?.period||'sin datos')+' · Cambio mensual: '+change+'</div>'+(points?'<svg viewBox="0 0 320 100" style="width:100%;height:110px" role="img" aria-label="Histórico '+names[key]+'"><polyline fill="none" stroke="#79aaff" stroke-width="2.5" points="'+points+'"/></svg>':'')+'<div class="source-note">'+(health?.ok?'Fuente verificada':'Actualización no verificada; no asumir vigencia')+'</div>'+(x?.url?'<a href="'+esc(x.url)+'" target="_blank" rel="noopener">Fuente</a>':'')+'</div>';
- }).join('');
- document.getElementById('economicCycleStatus').textContent='Última consulta: '+esc(data.checked_at||'—')+'. Los índices de The Conference Board no deben confundirse con PMI. Si la fuente pública no ofrece datos recientes, se muestra la falta de cobertura.';
- }catch(e){box.innerHTML='<div class="empty">No hay datos verificados disponibles.</div>';document.getElementById('economicCycleStatus').textContent='Consulta no disponible: '+esc(e.message);}
-})();
+(async()=>{const box=document.getElementById('economicCycle');if(!box)return;
+const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+try{const r=await fetch('data/economic_cycle.json?ts='+Date.now());if(!r.ok)throw Error(r.status);const d=await r.json();
+const names={leading:'LEI · Leading',coincident:'CEI · Coincident',lagging:'LAG · Lagging'};
+box.innerHTML=Object.keys(names).map(k=>{const x=d.series?.[k],h=d.source_health?.[k];return '<div class="card"><div class="k">'+names[k]+'</div><div class="v">'+(Number.isFinite(x?.value)?Number(x.value).toFixed(1):'—')+'</div><div class="meta">Período: '+esc(x?.period||'No disponible')+' · Variación mensual: '+(Number.isFinite(x?.mom)?(x.mom>0?'+':'')+x.mom.toFixed(1)+'%':'No publicada')+'</div><div class="source-note">'+(h?.ok?'Informe comprobado':'Último dato conservado; consulta no verificada')+'</div><a href="'+esc(x?.url||'https://www.conference-board.org/topics/us-leading-indicators/')+'" target="_blank" rel="noopener">The Conference Board</a></div>'}).join('');
+document.getElementById('economicCycleStatus').textContent='Última comprobación: '+esc(d.checked_at||'—')+'. Fuente exclusiva: The Conference Board. Se conserva el último dato publicado si la consulta falla.';
+}catch(e){box.textContent='Datos oficiales no disponibles';}})();
