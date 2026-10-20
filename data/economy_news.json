@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-19",
+  "date": "2026-10-20",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-20T00:52:03+00:00",
+  "checked_at": "2026-10-20T15:40:13+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -23,32 +23,32 @@
     "bcrd": {
       "ok": true,
       "error": null,
-      "count": 3
+      "count": 1
     },
     "fiscal": {
       "ok": true,
       "error": null,
-      "count": 3
+      "count": 0
     },
     "dgii": {
       "ok": true,
       "error": null,
-      "count": 6
+      "count": 1
     },
     "finance": {
       "ok": true,
       "error": null,
-      "count": 5
+      "count": 2
     },
     "securities": {
       "ok": true,
       "error": null,
-      "count": 3
+      "count": 1
     },
     "economy": {
       "ok": true,
       "error": null,
-      "count": 7
+      "count": 2
     },
     "economist_andy": {
       "ok": true,
@@ -83,279 +83,45 @@
   },
   "items": [
     {
-      "title": "Gobierno asegura deuda pública consolidada no aumentará este año; proyecta cierre en torno al 57.5 % del PIB",
-      "publisher": "El Nuevo Diario",
-      "publisher_url": "https://elnuevodiario.com.do",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQd3YxUTI4TFZheEU1R2VteTJqRDFrUHlsblBrRWRGN0tQMlRmTllYa2c2MnZqZzBjT2pBc2tjY2l4ZUJBNXUzQnNfcmxYNjNnYWswbFU1MnBEZ1VlWUt6UUZDQ25QZFZZai15WFBlMFdtYTVmOGhQOG1Fcy1RRHI5NnVRNU5UeENjdURFWE5zUXE4VlVrUHhDTHA2VXhFOUI4VHlsVU0zSEJoTkhoUEdRcWNlZndHdXhlUlo0bnk1czFJaUhoZ21USDd6aXhpeW04?oc=5",
-      "published_at": "2026-10-20T00:16:49+00:00",
+      "title": "Intellisys busca impulsar las exportaciones dominicanas con talento tecnológico",
+      "publisher": "El Caribe",
+      "publisher_url": "https://www.elcaribe.com.do",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaTYtQUY2dnNsOV84RXl3Zmg0YzRobGF6QTZ5VzhpX1Z4VGZfSUlCUE5qSmRPbm5BeUFzdmdoNXQ5eXJKZzB5czdiVFlLQ1lUbGNnaXNVaGRZWTlSNnN0YnJ2MkRFbXJfVTkxV1c4Q3JQeWstUV9uWFlqTGZQZ2JXWFI4OTNjSzA0a2FhVUxMZE5DbDloUFFiNUkzalcxTzRiUkZKN2lxV2kzd1BSNkZ4dmtPODZXUjZJWndHazlacw?oc=5",
+      "published_at": "2026-10-20T14:30:29+00:00",
       "topics": [
-        "fiscal"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "fiscal"
-      ]
-    },
-    {
-      "title": "Juegos de Azar entrega a DGII base de datos de establecimientos acogidos al Plan de Regularización",
-      "publisher": "Listín Diario",
-      "publisher_url": "https://listindiario.com",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxORUQwdldKYnNCYXMyOWx2eUV1Z25BcXRNTWR2STNWcVJpYkdMdnQ1andRMGxIVGZScFFyMXdJa2dzc1VpcW56OTJSVWJuTmwxQUhQc1hhcndlYU03bDNHWWFGcW5vcm5FcHRleEhaS1phd2o0QkV3Z2VYWGU1YTBGOGJ1N1NtOFF6anNNYV9uRFdZWTYtaXBJMlRyRFFRSUhaNEE3WFRSWmhRU2JLdHB5RlpsTGc5SjIxeGZXMExlSWhFdWdzaDI4bkVhYVJ6UWtKU2ZBY2o2XzVhUUZMYWfSAeMBQVVfeXFMT0hvRDIybDByWHo5ZkY5VjBpbHd3cEpOdTd3bFN4Ukd3ekFtZ05DMXpXaG9uZTdqYmlOYkhwcUVoVHlzZTY1TmdHWURwTDVwVnJPYUlvWU9IQzI1Z2VTc0pxN3BSOWdOeHBPdEtTWDdhOTJLRlI3U2VUaU5tMy16cFppQUVVNW1NSEgzcnFKTUNOQVA3V2JFUzh6a1RjcEhZOTNuOW5uaDIwUzE1RVpFaGRuRnFqemFOeERlNHF3WTJtOTJ4X1VqMXB3X1hpRjFUd0llamVsWDVmeHVxalIyekFzNU0?oc=5",
-      "published_at": "2026-10-19T23:30:27+00:00",
-      "topics": [
-        "dgii"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "dgii"
-      ]
-    },
-    {
-      "title": "Superintendencia de Pensiones plantea hipotecas de hasta 25 años con fondos previsionales",
-      "publisher": "Acento",
-      "publisher_url": "https://acento.com.do",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNjhlLTI5THRZV1ltd0w0ZWpjaW4yVUh6SDBpNndSdTU5dnUyM3RJZDJDVmNhY1IwdXBYZWo2eFNtMWFqMkJ3VTl4T2JZSnphZE5GMEZHQ3JlWFdwLUwyR2ZkZGZDaFpHY2hITUlMVFhEUVlQS2NQQTZFS29UNHFGQklmYjFNVEtZMWpVTGFuQUFCWnF6b0VDeEZBVGZKbEJpSHUxNnBLcTlYUkFrT3ptN25PRGNSMG8xZHVCbkNaUUgwaUp0azdPR20wV08tUdIBzgFBVV95cUxPNjhlLTI5THRZV1ltd0w0ZWpjaW4yVUh6SDBpNndSdTU5dnUyM3RJZDJDVmNhY1IwdXBYZWo2eFNtMWFqMkJ3VTl4T2JZSnphZE5GMEZHQ3JlWFdwLUwyR2ZkZGZDaFpHY2hITUlMVFhEUVlQS2NQQTZFS29UNHFGQklmYjFNVEtZMWpVTGFuQUFCWnF6b0VDeEZBVGZKbEJpSHUxNnBLcTlYUkFrT3ptN25PRGNSMG8xZHVCbkNaUUgwaUp0azdPR20wV08tUQ?oc=5",
-      "published_at": "2026-10-19T23:00:06+00:00",
-      "topics": [
-        "finance",
-        "securities"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "securities"
-      ]
-    },
-    {
-      "title": "DGII informa que 100 mil contribuyentes ya son emisores electrónicos",
-      "publisher": "El Nuevo Diario",
-      "publisher_url": "https://elnuevodiario.com.do",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOThpSnAxTFJDVTN4bFJzNnZNRXVxR1FRRUZPM2tJVnNMOENaeF9pb1ltTW5Vd3REM0hvcHFLY1BxQjAxX2JCRHdIdkctd0ZHWnhtdFdVRVlXZjFZNkZDX1dfTHpkM0paMXVmcmltUV9zNHBUNUVwMFZHMnlZY1RybDZEcVp1b2F6MkpPZU9GU2hrOEhWdnRKbktDdWtnc2Zl?oc=5",
-      "published_at": "2026-10-19T22:16:47+00:00",
-      "topics": [
-        "dgii"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "dgii"
-      ]
-    },
-    {
-      "title": "DGJA entrega a la DGII base de datos de establecimientos acogidos al Plan de Regularización",
-      "publisher": "El Nuevo Diario",
-      "publisher_url": "https://elnuevodiario.com.do",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdnphY2FlNXlrem1DODFnTzhuTllab1lSY3ZHMHVVZ3JpOUlad09vTDlVbmlWNWFWZC1VWlg2NTJBRXZBVVdzdzZCaHQzZk5fUEhqdTA3MGRvX3JSdTNiYk9SN29kNXdwUXZNaDh1Q3FfYURHY0ozbS1USktZYUVybVp4R2MxNU5BX2U5MlVEaDZuU1ZiaEdBaFlGeUNjakVBWDZrMzFEY1prTTJISDQzWVFYQ0JLcVN0ZWs3MlVB?oc=5",
-      "published_at": "2026-10-19T19:57:22+00:00",
-      "topics": [
-        "dgii",
         "economy"
       ],
       "economists": [],
       "economist_match": null,
       "searches": [
-        "dgii",
         "economy"
       ]
     },
     {
-      "title": "DGJA entrega a DGII base de datos de establecimientos acogidos al plan de regularización",
-      "publisher": "Periódico elDinero",
-      "publisher_url": "https://eldinero.com.do",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOLXYzS1czMjF0S0FnNnlKeWtFWV9Hb2tuTzZ2QWZQWE41S2otZll3dnd2LXR4MkUwOWllWXRLeFoyUHNCVzBuNmpIQTVaOHBMUTZQR3d6TGtYbnFpU0w1T2VRczN6N0NxNFh1TkJxNmlwdzRsbFZyM0xoeWc3NGZIdHF3aVRWYUl1VjVwVVI5ZWg5Q3EwNEhTTFpEQmM5djhsbjRCalNpb0NJa2toWE5nRHV3eWhTSHJwMXBFNw?oc=5",
-      "published_at": "2026-10-19T19:44:03+00:00",
-      "topics": [
-        "dgii"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "dgii"
-      ]
-    },
-    {
-      "title": "DGJA entrega a la DGII lista de negocios de juegos de azar para regularizar sus impuestos",
+      "title": "DGII registra 100,000 contribuyentes incorporados a la facturación electrónica",
       "publisher": "Acento",
       "publisher_url": "https://acento.com.do",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNUd6UVExVVlObzRtS1JudGx3YldRY3AtRHdjR0NzSlVTdTFQU2dTTG5IOVBaaXRTbHhXWVFSTnNiZTZZMWdINHlQZHNISWtkSjlnNUYxalBERWtPekxCTjd0ODYzZ3UxSFVfc0V5SnRMOXZwcmlFVFlZWEtlNHBuUVpnaWdjamtHeVNKTHZ2TzFNdjNMWDFsTVRVanVvXzIycTJ1bTR5QjZNbWRicElHTUpiamdqdlg4V3AxaGlVbGY5WXVEbjBYS0JPSU8zUdIBzgFBVV95cUxQNUd6UVExVVlObzRtS1JudGx3YldRY3AtRHdjR0NzSlVTdTFQU2dTTG5IOVBaaXRTbHhXWVFSTnNiZTZZMWdINHlQZHNISWtkSjlnNUYxalBERWtPekxCTjd0ODYzZ3UxSFVfc0V5SnRMOXZwcmlFVFlZWEtlNHBuUVpnaWdjamtHeVNKTHZ2TzFNdjNMWDFsTVRVanVvXzIycTJ1bTR5QjZNbWRicElHTUpiamdqdlg4V3AxaGlVbGY5WXVEbjBYS0JPSU8zUQ?oc=5",
-      "published_at": "2026-10-19T19:30:24+00:00",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZ2h2ZWhpZENMME9YRlc0ZkFOZVRxUzhCbklvTGRELXF5bjBJcC1odE1IbFlXaGFieV9OeWFoeWpLNHdyNnNRbGFwd0RSaFpSeWRHTDZhSE10dDhNX2hLenR1ckRGQ3VxWVBEVkY2a0FLVWhuRFJ0UTM2UWdRM2J1YVNZX2xXWDdPVm9tNWoxUUUxc0R0VVhhMU4tSTlvc05FdDBDWGMzc3dfMHl6VHlVWkdTNlZHZklEQVZhVFVn0gG-AUFVX3lxTE9naHZlaGlkQ0wwT1hGVzRmQU5lVHFTOEJuSW9MZEQtcXluMElwLWh0TUhsWVdoYWJ5X055YWh5aks0d3I2c1FsYXB3RFJoWlJ5ZEdMNmFITXR0OE1faEt6dHVyREZDdXFZUERWRjZrQUtVaG5EUnRRMzZRZ1EzYnVhU1lfbFdYN09Wb201ajFRRTFzRHRVWGExTi1JOW9zTkV0MENYYzNzd18weXpUeVVaR1M2VkdmSURBVmFUVWc?oc=5",
+      "published_at": "2026-10-20T10:00:17+00:00",
       "topics": [
-        "dgii"
+        "dgii",
+        "economy",
+        "finance"
       ],
       "economists": [],
       "economist_match": null,
       "searches": [
-        "dgii"
+        "dgii",
+        "economy",
+        "finance"
       ]
     },
     {
-      "title": "DGII alcanza los 100,000 contribuyentes con facturación electrónica",
-      "publisher": "Periódico elDinero",
-      "publisher_url": "https://eldinero.com.do",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZmZ2dktmdHNzd2J2TWxkbUZJS2ZVU0tPU2VCOWtSelZUTFdnY21qNFljOFd1SllOMmdrbG1Ebk1ZalRvSVowNzFMR1pta3FUR0QyNnpPQnJTdXduUWVfOHc5V1FzRDk4UDdxakVJeGRKUGp0cEVHS3pjWjd0YjBraEMtQ2JEaS14MXFWclZQSUtlNkF5cWtkb1FTMDNOeWs?oc=5",
-      "published_at": "2026-10-19T19:19:01+00:00",
-      "topics": [
-        "dgii"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "dgii"
-      ]
-    },
-    {
-      "title": "Acoprovi dice que promueve nuevas alternativas de financiamiento para ampliar desarrollo de vivienda",
-      "publisher": "Periódico elDinero",
-      "publisher_url": "https://eldinero.com.do",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZWlQclo2ZkE5ODNjVjVOc0NyUmhuZlBINWgwRUpwbjh6WEFiSFoyaFRDOHkyczNZX3JnNmc5Sm4yQTVIS2VTN3pZbk1ueUdwdXQ2T1ZhZjIwaWp4TUNXSjFjN0VRVFJrS3dlYTRWU2tJWjI5dy1OWGFPRWlVcWhMVE9kVXpqVnhNQW84b0JJX2dmNVVUeGlQZngxUlJVTEkzNFNTOW05akNNaGxUb2xyRFZsY3ZtMkhPbElwaDBtRm5iRFNiUWl5N3Q0M2o?oc=5",
-      "published_at": "2026-10-19T19:09:46+00:00",
-      "topics": [
-        "finance",
-        "securities"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "finance",
-        "securities"
-      ]
-    },
-    {
-      "title": "La banca habla de inclusión, pero ¿incluye a todos?",
+      "title": "Banco Central ofrece el recital “Sólo pianistas”",
       "publisher": "El Dia.com.do",
       "publisher_url": "https://eldia.com.do",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9hRlNLSm9xVlJwNG54aEZuS2NVRG1CY1dFdFg3UEM0RzI1NjhTbnFNV1ZCeGpQOHRqbnVkVTlUZ0wtN21FdXBYT1hOQXpBVmJEcjBISzdlT1BDeTRDbGhKVVRXVnV6OVM2UWFfQnNfUTIzTzZKUVptVGJn?oc=5",
-      "published_at": "2026-10-19T18:17:13+00:00",
-      "topics": [
-        "finance"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "finance"
-      ]
-    },
-    {
-      "title": "Bancos apuestan por la inteligencia artificial para mejorar su productividad",
-      "publisher": "Periódico elDinero",
-      "publisher_url": "https://eldinero.com.do",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUGlvZEpyM0EwSF9FR2xXR2k4X3NwdWxicFdBWDhTMnd1OTdxSkpId0V3LXU1cnFpcWRjNThaTlRkOGppamlna1Uzd2NvbzBUS1o4bWVFUy1qSW93LUdUNjRHRDJvaWJRVHBGdVk5ZTlxazA5TW5Bb3RkcGNQQVpXOEI5dTNXU28tVGVGYjdQaWg4MV9na0pBeUc2ZFR4YzBmajRaa0FSSU4zbURu?oc=5",
-      "published_at": "2026-10-19T17:43:55+00:00",
-      "topics": [
-        "finance"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "finance"
-      ]
-    },
-    {
-      "title": "DGII informan que 100 mil contribuyentes ya son emisores electrónicos",
-      "publisher": "El Nuevo Diario",
-      "publisher_url": "https://elnuevodiario.com.do",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOThpSnAxTFJDVTN4bFJzNnZNRXVxR1FRRUZPM2tJVnNMOENaeF9pb1ltTW5Vd3REM0hvcHFLY1BxQjAxX2JCRHdIdkctd0ZHWnhtdFdVRVlXZjFZNkZDX1dfTHpkM0paMXVmcmltUV9zNHBUNUVwMFZHMnlZY1RybDZEcVp1b2F6MkpPZU9GU2hrOEhWdnRKbktDdWtnc2Zl?oc=5",
-      "published_at": "2026-10-19T17:06:41+00:00",
-      "topics": [
-        "dgii",
-        "economy"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "dgii",
-        "economy"
-      ]
-    },
-    {
-      "title": "Intellisys plantea convertir el talento tecnológico en motor de las exportaciones dominicanas",
-      "publisher": "Periódico elDinero",
-      "publisher_url": "https://eldinero.com.do",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdEtSNUR6OF9KbWRvLUZaWm1jZnQySWNZZzdUaENMTG5OMkRCTnZZdDVpby1lT29KdTdQVzdYeWs5UHVYWlF3N0tVWmZZMW5RNUdaUllMUktUQ3F0LUJNakl5MDRSVTd6QXp2TVJRWTZGeWlMZHpmM3BmQ1NBLTFYTG0wbDREbHZXcWFqYUQ1cnFuUllveUEzYVpRNF95UHZSZmY3MUtwMl9oczBhQnN5anY0cm5ybEM5M3ltWHROU1k1MDA?oc=5",
-      "published_at": "2026-10-19T16:04:14+00:00",
-      "topics": [
-        "economy"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "economy"
-      ]
-    },
-    {
-      "title": "SIMV lleva una experiencia de educación financiera a plazas comerciales del Distrito Nacional",
-      "publisher": "El Nuevo Diario",
-      "publisher_url": "https://elnuevodiario.com.do",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSEZzOTM4anFwTW85QmtKMHgzRV9NN1doSldEN2RjZDlzUmtsYWJrYll0ejByRzhsRDRKN3pOeXBxZXE0WjFPODdBc1ZpNVUydFVzVzI0SzJ1akJydGR0SHpCNURjcG9XTGM0dVlsWXc2QnhuQVhJRGZ3NThqQUpyODhGUV9TdTdPcVBWT0pHVXBNTkRlZDNub0w3N0lMampRa09yeHBmS3huaVFaclhiakk1VXNHX0c0cTdWXy1fV1A?oc=5",
-      "published_at": "2026-10-19T15:56:40+00:00",
-      "topics": [
-        "securities"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "securities"
-      ]
-    },
-    {
-      "title": "Tasas de interés al alza: Los tres sectores que terminan pagando la factura económica",
-      "publisher": "El Nuevo Diario",
-      "publisher_url": "https://elnuevodiario.com.do",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONUxOd3ludU1nY2dIelRTZmJFMGJJZDZiaEhiaVZSNkdGekJ6bGFDNmQ2X0lvSkp5cmZkcmIyNjBQdzRVVE9RR1ZucXRFSUNkcWJEMTFiZXZEZXRCeFNxYkpEWnZPc3VIdVREeVhyWmNXOGc0WUhSTXJ5M1cxdDdZWk9QdGlmQ2llVkRDdlhjOUk2Sm5XOWNVUldkald5V2owMy16bzVJVGwxTDUtUXJkUEZpZC0?oc=5",
-      "published_at": "2026-10-19T14:52:02+00:00",
-      "topics": [
-        "bcrd",
-        "economy",
-        "finance"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "bcrd",
-        "economy",
-        "finance"
-      ]
-    },
-    {
-      "title": "FMI valora desempeño económico de RD y manejo de crisis internacional",
-      "publisher": "El Nuevo Diario",
-      "publisher_url": "https://elnuevodiario.com.do",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNc1c5c0F4RGhrQlYyM3ozcnhHcms2ZHlsVlJ5czBYN0J1VXpvc1dTTnhYV0ZWN1FaQ1puWEFQbVFoUXE4aDVCSHZfZlJsTm83TjRYd0RTRUEwNGt5U3F6OVJqRkx6ZE9tRmFqa3lFX3lWc1R1cFVFZFM5TmpZYUE1dTc4a1BVTGhabFJzcURZOFdETzBQdGtjNGpLYncwcVZo?oc=5",
-      "published_at": "2026-10-19T14:16:40+00:00",
-      "topics": [
-        "economy",
-        "fiscal"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "economy",
-        "fiscal"
-      ]
-    },
-    {
-      "title": "Mujeres rurales en República Dominicana enfrentan más pobreza y menos empleo",
-      "publisher": "Diario Libre",
-      "publisher_url": "https://www.diariolibre.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWWZYTExFVjJzSEFWQ0FLamVjR2M2VmVEQS1pZHRPV2x4WEtPX00yM0hiQUNfUlVoaHZBVTlZVkV1NU9XSnc4N2pueW0wRkhxcVc1TlNZS29nR05LamNfR0xtdm5kT19JMkJEaE1mVW5hbVIycWpGZEhtTkNHTEZjN0dqUkowVGNSTjJZcF9mOFRkRnVZSVluSm5hSXZFUkxZWVpTa3QyNnBLWldOSUZ5QkZ6MDZXSG_SAbwBQVVfeXFMTmI2UF8tWks0eGp5ZklxZXdGTHZUNFhST1d2VjkxSkYyWkRXekMtMGxTLW40dXNXT2dodWZhSjZTNlktN2dEamRhLXhQZEZaVUFWMXhlVXJGWU5BcS1xQXNJZE9zcEpCX1g2RmlUckxpNTZKUXFESHpXckg4MUM1dDV5dDFRSkloc2dSeWlaQ0JqQzlhUXJ4X3dVN0tCa2VSUnZRSGdhdFUtQ01vdU5HN2Z0cG03UEIxZGdkVGk?oc=5",
-      "published_at": "2026-10-19T14:15:00+00:00",
-      "topics": [
-        "economy"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "economy"
-      ]
-    },
-    {
-      "title": "Conozca la tasa de cambio del dólar en los principales bancos de RD",
-      "publisher": "Periódico elDinero",
-      "publisher_url": "https://eldinero.com.do",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPN1NSejJZcUlOMXpfa1lZaG1mQ2x3NFZ3bTVDS182ckFCM0hjcXVWQVN2TGdrQlpwMDBkQ2ZkVldDaHFEMnRsTk9ZUDVIZWFUNTBTMXJaU0tYUWhDRVpPSllhb0g2aTdueUxIQ2FKSTk1N1V6Vmo1NHliTHZ1TmJtTHdhbl9qbTRaQWs0Z2hTU2pDX2Fab0J3MlFDQlNscVhVTW9V?oc=5",
-      "published_at": "2026-10-19T13:58:20+00:00",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1tczFGWktXaUJIYmZBMmo1ZURoem8tb0pXY29VdmV3U2ZYSUpKYjJxVkNWM3phS3JpSUt5cUdqd1dQNEw1RFQxdkZnRk14VXdNdDkyY3phWmZBSTc0cGlleWl0NkZkUVhYT3VxM1BvRnhqcjNCQkVR?oc=5",
+      "published_at": "2026-10-20T04:02:00+00:00",
       "topics": [
         "bcrd",
         "finance"
@@ -367,84 +133,20 @@
       ]
     },
     {
-      "title": "Proponen a DGII considerar limitaciones de las pymes para implementar la facturación electrónica",
-      "publisher": "Periódico elDinero",
-      "publisher_url": "https://eldinero.com.do",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQmE3dmZydXVGdHg4X3JLUFZXcDNYWUlCMkdRakZKc0k0RGpZTEQwdUhGTjh5QlRLX09FeGFkNTFZQ09HLUZWeW5fRFZRZ3pQVXRCa1BsWEdoUERhTjZRbVd3SFlkdkhndjh1VVRwYmFFSUlQdnN5WHBLcjZiRGVQMlY2YjA2WlFSWE5obWFadHMzTmJ0T1cwd3F0cmhPWDZrQjdtT2QtNlJKa21BQWh4bVptSmdiR21OWE1MSmo4eDBMNmFpbzlv?oc=5",
-      "published_at": "2026-10-19T12:43:51+00:00",
+      "title": "Acoprovi promueve nuevas alternativas de financiamiento",
+      "publisher": "El Caribe",
+      "publisher_url": "https://www.elcaribe.com.do",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRnBJMUxMTEJjd1VhMkVFNUVIdFpOTmlGNmdWdGZQS09SeVV1QkhPZnZsNWVDZUJjNlFVWjU4aGY0U243bHFjQUNXcWpZbVVkdGpnd2N1R1RrclhLOXB5TDcyTlpmRnF3b3BrWmExcEU4MlFocUZtNUI4a3lrSTFvNi1EUXdUeXcwUjdRaDgxZk96U2doc19mX3Nxa01qSmRFLWc?oc=5",
+      "published_at": "2026-10-20T04:00:00+00:00",
       "topics": [
-        "dgii"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "dgii"
-      ]
-    },
-    {
-      "title": "Embajada dominicana en Rusia anuncia programa para dominicanos que buscan empleo",
-      "publisher": "El Dia.com.do",
-      "publisher_url": "https://eldia.com.do",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcm1XZmliWmRNRW1BZkVJbUJDRER2eVd3MWZQRHlMN2ZuRDFVUTF0bHFXSmh5aWJldmtFa2diZzB4SXRRcmtXeWdLYW05VjdmSzVPUlhyX3ZoNnh5cGg3MWZ4VWx4QW1PLVdkQlNxMEVfVzZJYy1yRnFoYmREbkpXdHJfUzd0VUJNZXFFSmdzbE1ySDFGOTVUQjhRck16a1lBUmN3Tg?oc=5",
-      "published_at": "2026-10-19T12:39:10+00:00",
-      "topics": [
-        "economy"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "economy"
-      ]
-    },
-    {
-      "title": "¿Por qué es tan importante el crecimiento económico?",
-      "publisher": "El Dia.com.do",
-      "publisher_url": "https://eldia.com.do",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBiRlloLUg5OXRaMkJVM09ET250Z2M1U29pekJzSkRSSVl1bFhIX1l5alBjUmtiNXV4TEJ0UEdCVDZGYmppdm9ZUXN1YW5OSXdvM3VmTDVRZk5lT3NiRG16aUU3UUFkWnVTaEV0cDYzUnlrRnNIbnVYd3haS3E?oc=5",
-      "published_at": "2026-10-19T11:00:00+00:00",
-      "topics": [
-        "bcrd",
-        "economy"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "bcrd",
-        "economy"
-      ]
-    },
-    {
-      "title": "Petróleo caro, deuda creciente y déficit fiscal presionan las perspectivas de la economía dominicana",
-      "publisher": "Diario Libre",
-      "publisher_url": "https://www.diariolibre.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMDhhSWFWYWxNeGJQckRZRFpWZkZSSzNSa01YdmJBc1N0YVlQTnJicFdUcHloV3dLckwxQjRGNEFoU2VfYURxZzlGdXFYelBvZTh2a1dqWm5QQ3M2aWI3ZWZWS0tJTmhVQnVRTFhRX2ZKNGFkaElpalN1cWVWaDlVYWlRbFZvbXd1SEhWcWF1UnlRTU9zUF9ENWJ2bEphMEJzU2FnYzA3ZlBsRnJnM0l0d2pUTUxJQdIBuwFBVV95cUxONEFKcjk5bnhpcnZaajdwUkMwdUpvdlEtdkJxVzFJbmJVRWlRQTdhYW4tQktqa2E5UURKLWxlUmdmWk53YXJDRTNQSEU5Z3ZCcWxWWEtZb1lGMFpubGpycmlJREd4VzFpWk1scVlqeGltNHNMRDk1ZHlXX3lrbmlVODZxdkstMHFmSUQ1eUZ4LXdtMWlQQ0g2UlZwOXBqUDIxZ1pqekFpWFhNeGUtZll1SnExRzJSTDF1bHJF?oc=5",
-      "published_at": "2026-10-19T04:01:00+00:00",
-      "topics": [
-        "economy",
         "finance",
-        "fiscal"
+        "securities"
       ],
       "economists": [],
       "economist_match": null,
       "searches": [
-        "economy",
         "finance",
-        "fiscal"
-      ]
-    },
-    {
-      "title": "Pensiones bajo presión: el espejo chileno",
-      "publisher": "El Dia.com.do",
-      "publisher_url": "https://eldia.com.do",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1NdERKcGhwQTV5VFN4MlpkWEE3Ny0tbHRhUl9LMG1xZ054X0o3VmFLNHFRbmtWZTVhbzNXdXJMQ0xtWVNBbFV4Uk51WFViVXpEOWRncUxiNkZsSzBKNTh2S3UyajV5NWREZ0lqRnlBSQ?oc=5",
-      "published_at": "2026-10-19T04:01:00+00:00",
-      "topics": [
-        "finance"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "finance"
+        "securities"
       ]
     }
   ],
