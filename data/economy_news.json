@@ -1,7 +1,7 @@
 {
   "date": "2026-10-20",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-20T20:13:38+00:00",
+  "checked_at": "2026-10-20T21:34:54+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -38,7 +38,7 @@
     "finance": {
       "ok": true,
       "error": null,
-      "count": 2
+      "count": 3
     },
     "securities": {
       "ok": true,
@@ -82,6 +82,21 @@
     }
   },
   "items": [
+    {
+      "title": "Sector arrocero: 30,000 productores y 300,000 empleos conectados por una actividad",
+      "publisher": "Periódico elDinero",
+      "publisher_url": "https://eldinero.com.do",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQUF6REcyc2xIM3ZRSmwxTVk1TFowd21vQVlTeVpicDNuTWJlWExtV05hOXNjdDNqSnZDLWxuWUh4eGw5TGZCT3JzV25KTDhrTEJjUlI0enQ3UXhDMk1zZ2FNUDF1ZjBseVJzU09FVnR6aTU2QmVvT2pMMGpzWkhLU0JUN283SExSZFJESEhOakR6LVN6bVQ1a1JsNE1VNmJMOE1WSjBRNmo5T2d5M1Qzbw?oc=5",
+      "published_at": "2026-10-20T20:00:25+00:00",
+      "topics": [
+        "finance"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "finance"
+      ]
+    },
     {
       "title": "Ahorro en moneda extranjera concentra el 30.1% de captaciones del sistema financiero dominicano",
       "publisher": "Periódico elDinero",

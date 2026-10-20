@@ -1,7 +1,7 @@
 {
   "date": "2026-10-20",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-20T20:13:39+00:00",
+  "checked_at": "2026-10-20T21:34:55+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -24,34 +24,53 @@
     "mexico": {
       "ok": true,
       "error": null,
-      "count": 7
+      "count": 8
     },
     "usa": {
       "ok": true,
       "error": null,
-      "count": 14
+      "count": 15
     },
     "europa": {
       "ok": true,
       "error": null,
-      "count": 16
+      "count": 18
     },
     "global": {
       "ok": true,
       "error": null,
-      "count": 13
+      "count": 14
     }
   },
   "items": [
     {
-      "title": "RFK Jr’s ‘deities of vaccine research’ raided by police in Guinea-Bissau",
-      "publisher": "The Guardian",
-      "publisher_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNFhEU3praDZvUENMbkZ3bzQ1aEN6QlRkZ0JSakNGZ0hjZHRsYVZ5ekp0aWdZaGdTbjA3MnliV2lCQWxndmYxbFQxZWFTUkZCdkxiNnN4Y21pOGJUV3FCcllDYjNjZDRkYm1JWFlsWWVIOWNtdEh2dDE5cUpNUTBwc18xZ2tVRXpLalNkZnNuTWVjdDNoZkZzYXFYVU9CSU5FMzU4?oc=5",
-      "published_at": "2026-10-20T19:28:00+00:00",
+      "title": "Sheinbaum presume que compra consolidada de medicamentos permitió ahorro de 70 mil mdp",
+      "publisher": "Milenio",
+      "publisher_url": "https://www.milenio.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVWotMXRQT2tObFM0UE9VMEdsY3pqeU5wWU5NOTJFaWhqR2RBQ29PS2xBaXJpT0J5U1dZcHd4OG1hNHR2NHQzY3NUTHd2aF8zaW1HZGQyQXN1c2NuRGtUdDgxUWM1Nk5pcUQySVpocWlLNVNzcHFzNE1qajJvT3FTOU1aazlDR3NyYWx0a0dQOWdadG_SAZMBQVVfeXFMTjBYbkZ1bThvTU5KamtlNndvdmhyR056bHpWcVZJdTFqUS1Nb3N5MDlmYURadHlMZXQ3emhtdGV2aDJjOU8yY21YTzBxdGRScWpuM3VGSjVEd2gzTGh2aVdXa1E0VkpfMGZ3T3EwQmNnNmxSeTB6eDZkOFp6eVg1S2FEZ1hneGpLanBCVlVnRVZXeGNn?oc=5",
+      "published_at": "2026-10-20T21:02:57+00:00",
       "regions": [
-        "europa",
-        "global"
+        "mexico"
+      ]
+    },
+    {
+      "title": "US FDA approves GSK's hepatitis B drug, offering patients chance to stop long-term treatment",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNT2t5R0w0ejBHTVE0dTd3SkJRRW5qQUdjazJGRGxGYTBBQWFVM2hIMDVnZ1hldUZDUE5kZk5WWndnbDhldVZNdDlVU3RrOUZFb0VJanFsa0s2QjFfeFJ5RUktZ3pycTVEWFkydTVlc3JCV0FWU3VFdXF5VUdXdVJpaURaN3JreDNpTVpDekRYX1V2LV94c2F2Z2ROQmhoRkZ0NldNXzdwNFhoclNoWGZNbGNHamRfN2NnbXo1aU42cmFIWXdXWVBoNXpoQnRON2tzZno4eFVzSkNQZ3V5aWE3SkQxbw?oc=5",
+      "published_at": "2026-10-20T20:29:36+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "Systech Launches New All-in-One Pharma Packaging and Serialization Stations – Company Announcement",
+      "publisher": "Financial Times",
+      "publisher_url": "https://markets.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTUNDbDJpS2o3VHJEVmFFREtSSG11eEpRWlhzSWZSVjVSdnNWU2RYVnB1WUdBdXJ4OFN4bGNpZEVnZHJuZGRubklPZWlxa2Z6OHFBcWpvempZbkpWWHA4b1lXTlRLVWNsamF5bEdvUmNub0xUbWxONTVlN01LbzVyNm9FRE5ZMks5a1c2bUJoNEk0dkx1bkxjSA?oc=5",
+      "published_at": "2026-10-20T20:15:00+00:00",
+      "regions": [
+        "europa"
       ]
     },
     {
@@ -64,6 +83,17 @@
         "europa",
         "global",
         "usa"
+      ]
+    },
+    {
+      "title": "RFK Jr’s ‘deities of vaccine research’ raided by police in Guinea-Bissau",
+      "publisher": "The Guardian",
+      "publisher_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNFhEU3praDZvUENMbkZ3bzQ1aEN6QlRkZ0JSakNGZ0hjZHRsYVZ5ekp0aWdZaGdTbjA3MnliV2lCQWxndmYxbFQxZWFTUkZCdkxiNnN4Y21pOGJUV3FCcllDYjNjZDRkYm1JWFlsWWVIOWNtdEh2dDE5cUpNUTBwc18xZ2tVRXpLalNkZnNuTWVjdDNoZkZzYXFYVU9CSU5FMzU4?oc=5",
+      "published_at": "2026-10-20T19:18:00+00:00",
+      "regions": [
+        "europa",
+        "global"
       ]
     },
     {
@@ -132,7 +162,7 @@
       "publisher": "STAT",
       "publisher_url": "https://www.statnews.com",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbUp2aDFHd3BTRVdRcHVjZ1dqbkVvS2JGZmszakgzZWQ3ZzZyQ2RFSEYtZ1BUV1gzVXFadkRhSVg4UjcwcUcxZUsxWDhFcnJQMlAzazBDemxNb1NxemkxRGdXdW0wVjZkODRtcWloOG9POUFuVDlTYXdlUG04Q2FraGplam9XY2NqTjF3WU4zWWxUQQ?oc=5",
-      "published_at": "2026-10-20T16:43:45+00:00",
+      "published_at": "2026-10-20T16:43:59+00:00",
       "regions": [
         "global",
         "usa"
@@ -407,6 +437,17 @@
       "published_at": "2026-10-20T08:07:00+00:00",
       "regions": [
         "europa"
+      ]
+    },
+    {
+      "title": "AstraZeneca taps Oracle to help improve recruitment for clinical trials",
+      "publisher": "Fierce Biotech",
+      "publisher_url": "https://www.fiercepharma.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNb182VzRIVUs3NkFTdGtSNFdZUVk2Q215OU1ZaWdLZjFpZmtsZ3V1QTdiWHFhdllwMEdNamNBbFhQZ1E1QzlTOWJBNl9kUkFkcTl2emlwLUtnUTQxYWRJMjFOTVRJaFdmanV6QUJiWWRqVlNmbUx5eXhKc2l4cTd5N2drRTdfRUxWSll5V2NSQzZsRE1vX3VFSmQ4SzFpbElXY3ZR?oc=5",
+      "published_at": "2026-10-20T06:36:40+00:00",
+      "regions": [
+        "global",
+        "usa"
       ]
     },
     {
