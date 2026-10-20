@@ -1,7 +1,7 @@
 {
   "date": "2026-10-20",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-20T22:41:16+00:00",
+  "checked_at": "2026-10-20T23:29:51+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -24,7 +24,7 @@
     "mexico": {
       "ok": true,
       "error": null,
-      "count": 8
+      "count": 9
     },
     "usa": {
       "ok": true,
@@ -34,7 +34,7 @@
     "europa": {
       "ok": true,
       "error": null,
-      "count": 19
+      "count": 17
     },
     "global": {
       "ok": true,
@@ -43,6 +43,16 @@
     }
   },
   "items": [
+    {
+      "title": "SNTSA asegura que desabasto de medicamentos obedece a ineficiencia en la distribución",
+      "publisher": "El Economista",
+      "publisher_url": "https://www.eleconomista.com.mx",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcjY2RFhvdExhVFFma3hYX0trSmpQZlZUbDk0ckVWUnplZF9WS2RWcEhqQnYzZk5Edkp3WVNNLXdyQnQ4S1ZWcW9DZ1ZSNFFEel9mLVBObG9PbkhIYmlZcXFFT2JSdzluUDlLd1FpaEtpQzU1U2l3LXZoT0ttejlOaWpPLVNhOXF5Rkl1TDQtNXdmNHJrTE5KS3E1bmRfY3ZZSmxkN3JpS3Z4bWd0UmVZWkNBbG9SUDZjX3I5M254RkxxZW9ValVzM21zMnHSAdIBQVVfeXFMTmJpX0h2dmVTWHNDWS1Rb2NpeGFHQnFCaVk2WkQxNkM4UmFTUHpQM1dtQng4VTN0RjlWUGFWbS0xTWZmc05PT1pONE9ZQWl4MXY4LXE2Zy1fVUNFQ3VIbFlUelQ1X1o5WHRMcTZ1SldDZkRNMnlCYklSVENXV3VoOTAzS3QxY29mYWNpYnRkUWJKRTZHME1iUVZPUW5XQzZTYXpmWjNVbEl1VERaUTlqdmxoNG40T1ZWbk5odlBCeDFpS1V0UDlnLV9DOUgxS2N0dGl3?oc=5",
+      "published_at": "2026-10-20T23:14:14+00:00",
+      "regions": [
+        "mexico"
+      ]
+    },
     {
       "title": "US FDA approves GSK's hepatitis B drug, offering patients chance to stop long-term treatment",
       "publisher": "Reuters",
@@ -56,8 +66,8 @@
     {
       "title": "Sheinbaum presume que compra consolidada de medicamentos permitió ahorro de 70 mil mdp",
       "publisher": "Milenio",
-      "publisher_url": "https://www.milenio.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVWotMXRQT2tObFM0UE9VMEdsY3pqeU5wWU5NOTJFaWhqR2RBQ29PS2xBaXJpT0J5U1dZcHd4OG1hNHR2NHQzY3NUTHd2aF8zaW1HZGQyQXN1c2NuRGtUdDgxUWM1Nk5pcUQySVpocWlLNVNzcHFzNE1qajJvT3FTOU1aazlDR3NyYWx0a0dQOWdadG_SAZMBQVVfeXFMTjBYbkZ1bThvTU5KamtlNndvdmhyR056bHpWcVZJdTFqUS1Nb3N5MDlmYURadHlMZXQ3emhtdGV2aDJjOU8yY21YTzBxdGRScWpuM3VGSjVEd2gzTGh2aVdXa1E0VkpfMGZ3T3EwQmNnNmxSeTB6eDZkOFp6eVg1S2FEZ1hneGpLanBCVlVnRVZXeGNn?oc=5",
+      "publisher_url": "https://amp.milenio.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMFhuRnVtOG9NTkpqa2U2d292aHJHTnpselZxVkl1MWpRLU1vc3kwOWZhRFp0eUxldDd6aG10ZXZoMmM5TzJjbVhPMHF0ZFJxam4zdUZKNUR3aDNMaHZpV1drUTRWSl8wZndPcTBCY2c2bFJ5MHp4NmQ4Wnp5WDVLYURnWGd4aktqcEJWVWdFVld4Y2fSAZMBQVVfeXFMTjBYbkZ1bThvTU5KamtlNndvdmhyR056bHpWcVZJdTFqUS1Nb3N5MDlmYURadHlMZXQ3emhtdGV2aDJjOU8yY21YTzBxdGRScWpuM3VGSjVEd2gzTGh2aVdXa1E0VkpfMGZ3T3EwQmNnNmxSeTB6eDZkOFp6eVg1S2FEZ1hneGpLanBCVlVnRVZXeGNn?oc=5",
       "published_at": "2026-10-20T21:02:57+00:00",
       "regions": [
         "mexico"
@@ -97,16 +107,6 @@
       ]
     },
     {
-      "title": "Sheinbaum anuncia ahorro de casi 70,000 millones de pesos en compra de medicamentos",
-      "publisher": "El Economista",
-      "publisher_url": "https://www.eleconomista.com.mx",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObnlwY2J0TlFob3A4RmkyMGE2TVFaQ2ZGTXB4eW5pek1yalFQeXk2NWhMSFBMQU1TVjBMemdCOFhNZEROWUd1Wkd6NnVDcF82ZmRzc0RDWTdhN2xJbjZla0Y5cjI0MkU4VzQwZC1kazZ4UGtWMk1pc1NOZW9OaENZWEI3ZWI5T09WWGM2QVUyb3lsZUlXNzFoX2ZlbXBjRVNzTGFBcWprby01WXYtLUNsdWZlWXAxTHNRdGtWSnp3QlhZaGpVTW9v0gHMAUFVX3lxTE0wd1lVQWRxdmt3UksybS02amU4SzN3YkpULUZtaVRnS3JQU3MwN2t0cFRveWhCYnpoUXdMSVg0WnoyQTZlRzFneEZzUXZ4eldGWjRDUklPdnBDTmpkdVJOYVpab3hiX2dmOFVNbXpOMG5TaEFzeUhtWmM3Zl9UdmNQcnpEMkZHUzl2V0hhbXU1d2YxZ3YzWVR1bGkyd1JpaUEyWnZVRDhEekxZQ0xWc1hTQ0pMWXNwX3Zjcy1WLTFZbGRIOXhzYm5keHljbQ?oc=5",
-      "published_at": "2026-10-20T19:07:23+00:00",
-      "regions": [
-        "mexico"
-      ]
-    },
-    {
       "title": "¡Protégete del frío! Vacuna contra la influenza GRATIS en La Laguna: dónde y quiénes deben vacunarse",
       "publisher": "Milenio",
       "publisher_url": "https://www.milenio.com",
@@ -114,6 +114,16 @@
       "published_at": "2026-10-20T19:03:00+00:00",
       "regions": [
         "mexico"
+      ]
+    },
+    {
+      "title": "Why Drug Companies Are Rushing to Market Ketamine Medicines",
+      "publisher": "The New York Times",
+      "publisher_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbHgyZ0VMMmFFQlpnMGNnTmxxRU5oSzhjSUJmRV8tNWtQaVF3MzUzR3I5Q2VPMk0yWk0zUFVQYWN2bmQ3R0stTVljcm9fTlc3RG0wQjZMQjVoYnZEeGlQSW0xYUdVOGNyd01mT3RBZ2JlN0ZkTU9nNzYtN3BXdWtJUTloUmY?oc=5",
+      "published_at": "2026-10-20T17:49:20+00:00",
+      "regions": [
+        "usa"
       ]
     },
     {
@@ -127,6 +137,17 @@
       ]
     },
     {
+      "title": "A bipartisan group of lawmakers urges the FDA to close a peptide loophole",
+      "publisher": "STAT",
+      "publisher_url": "https://www.statnews.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNckVTcGdiQ2o0T090M2NSVWRFMm5JVURHRkJ0cFFrOXVfaUo2eHJSMFVUZWNWWnJZMnpVVll3SjVFOWQ5aWFyZXoyQ2V0OVAtS3lZc1FHWGZiNkxwcWZNWkVLNkxQX25YMGdzeW9QaHVIT2Z1LVBEZHRLLWF6eHJac294UEVtcVJLcnNNUkVCMlNfdW9WRzZNT01WOTNzQUZLcU1uN2NodGhBYl9uR3hodDNnTFNfcHFRY1ZlYw?oc=5",
+      "published_at": "2026-10-20T17:03:13+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
       "title": "Sun Pharma Announces UNLOXCYT® (cosibelimab-ipdl) Has Received a Category 2A Preferred Designation in the Updated NCCN Guidelines for Locally Advanced Cutaneous Squamous Cell Carcinoma (laCSCC) Patients Who Are Not Candidates for Cura",
       "publisher": "Financial Times",
       "publisher_url": "https://markets.ft.com",
@@ -134,17 +155,6 @@
       "published_at": "2026-10-20T16:51:00+00:00",
       "regions": [
         "europa"
-      ]
-    },
-    {
-      "title": "A bipartisan group of lawmakers urges the FDA to close a peptide loophole",
-      "publisher": "STAT",
-      "publisher_url": "https://www.statnews.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNckVTcGdiQ2o0T090M2NSVWRFMm5JVURHRkJ0cFFrOXVfaUo2eHJSMFVUZWNWWnJZMnpVVll3SjVFOWQ5aWFyZXoyQ2V0OVAtS3lZc1FHWGZiNkxwcWZNWkVLNkxQX25YMGdzeW9QaHVIT2Z1LVBEZHRLLWF6eHJac294UEVtcVJLcnNNUkVCMlNfdW9WRzZNT01WOTNzQUZLcU1uN2NodGhBYl9uR3hodDNnTFNfcHFRY1ZlYw?oc=5",
-      "published_at": "2026-10-20T16:48:49+00:00",
-      "regions": [
-        "global",
-        "usa"
       ]
     },
     {
@@ -235,6 +245,16 @@
       ]
     },
     {
+      "title": "Sheinbaum anuncia ahorro de casi 70,000 millones de pesos en compra de medicamentos",
+      "publisher": "El Economista",
+      "publisher_url": "https://www.eleconomista.com.mx",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObnlwY2J0TlFob3A4RmkyMGE2TVFaQ2ZGTXB4eW5pek1yalFQeXk2NWhMSFBMQU1TVjBMemdCOFhNZEROWUd1Wkd6NnVDcF82ZmRzc0RDWTdhN2xJbjZla0Y5cjI0MkU4VzQwZC1kazZ4UGtWMk1pc1NOZW9OaENZWEI3ZWI5T09WWGM2QVUyb3lsZUlXNzFoX2ZlbXBjRVNzTGFBcWprby01WXYtLUNsdWZlWXAxTHNRdGtWSnp3QlhZaGpVTW9v0gHMAUFVX3lxTE0wd1lVQWRxdmt3UksybS02amU4SzN3YkpULUZtaVRnS3JQU3MwN2t0cFRveWhCYnpoUXdMSVg0WnoyQTZlRzFneEZzUXZ4eldGWjRDUklPdnBDTmpkdVJOYVpab3hiX2dmOFVNbXpOMG5TaEFzeUhtWmM3Zl9UdmNQcnpEMkZHUzl2V0hhbXU1d2YxZ3YzWVR1bGkyd1JpaUEyWnZVRDhEekxZQ0xWc1hTQ0pMWXNwX3Zjcy1WLTFZbGRIOXhzYm5keHljbQ?oc=5",
+      "published_at": "2026-10-20T15:46:05+00:00",
+      "regions": [
+        "mexico"
+      ]
+    },
+    {
       "title": "Antheia lands $80M conditional loan from Trump administration to onshore drug manufacturing",
       "publisher": "Fierce Pharma",
       "publisher_url": "https://www.fiercepharma.com",
@@ -318,26 +338,6 @@
       ]
     },
     {
-      "title": "Why Drug Companies Are Rushing to Market Ketamine Medicines",
-      "publisher": "The New York Times",
-      "publisher_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbHgyZ0VMMmFFQlpnMGNnTmxxRU5oSzhjSUJmRV8tNWtQaVF3MzUzR3I5Q2VPMk0yWk0zUFVQYWN2bmQ3R0stTVljcm9fTlc3RG0wQjZMQjVoYnZEeGlQSW0xYUdVOGNyd01mT3RBZ2JlN0ZkTU9nNzYtN3BXdWtJUTloUmY?oc=5",
-      "published_at": "2026-10-20T14:00:06+00:00",
-      "regions": [
-        "usa"
-      ]
-    },
-    {
-      "title": "Heroin seized as nine arrested in drug raids",
-      "publisher": "BBC",
-      "publisher_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ENVhYd0RnZXpmVEEzUVU1TjBHUlJwdnFreXBiT3Q4Vnk0MlhtcjU0T1NqM01maWhBSEVnX18tWWoyMTNULUt2ZHlmYjk1NHBTT0M1WkZEX2g?oc=5",
-      "published_at": "2026-10-20T13:46:37+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
       "title": "Insilico Medicine and Servier Achieve First Milestone in AI-Driven R&D Collaboration, Triggering An undisclosed Milestone Payment – Company Announcement - FT.com",
       "publisher": "Financial Times",
       "publisher_url": "https://markets.ft.com",
@@ -414,7 +414,6 @@
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMnI3R0lXWnN4alVGb1k2Tm5fcDRNcDdmdnBCYlkzSVVnSmxmQ0VVXy1pVnU5V0c5Tmc4d0NKZXl3d1hvYmVwMXcwY0ZWcnVyNWlCN1RmZkRpaTJvdkJ1X2pQSWRBNVlkYlYyallTY3ZldkRqMi1yM19WN1ZyZVh5WERxdVA2ZFQwcVBkYmdDNmJuOFRwcHVMMzBtT0xSVVFrNjFxbTQteF9oYlFrcXBzamNranBGa2ZVdEpoeUVxa0NUYTkyeGFpTUN2NjNfQnVnbFVETlRtbmhNZw?oc=5",
       "published_at": "2026-10-20T11:12:25+00:00",
       "regions": [
-        "europa",
         "global",
         "usa"
       ]
