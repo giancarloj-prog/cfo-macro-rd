@@ -7,10 +7,7 @@
       "mom": -0.1,
       "six_month": -0.1,
       "source": "The Conference Board",
-      "url": "https://www.conference-board.org/topics/us-leading-indicators/",
-      "history": {
-        "2026-08": 99.5
-      }
+      "url": "https://www.conference-board.org/topics/us-leading-indicators/"
     },
     "coincident": {
       "value": 114.9,
@@ -18,10 +15,7 @@
       "mom": 0.1,
       "six_month": 0.4,
       "source": "The Conference Board",
-      "url": "https://www.conference-board.org/topics/us-leading-indicators/",
-      "history": {
-        "2026-08": 114.9
-      }
+      "url": "https://www.conference-board.org/topics/us-leading-indicators/"
     },
     "lagging": {
       "value": 120.6,
@@ -29,10 +23,7 @@
       "mom": 0.2,
       "six_month": 0.9,
       "source": "The Conference Board",
-      "url": "https://www.conference-board.org/topics/us-leading-indicators/",
-      "history": {
-        "2026-08": 120.6
-      }
+      "url": "https://www.conference-board.org/topics/us-leading-indicators/"
     }
   },
   "source_health": {
