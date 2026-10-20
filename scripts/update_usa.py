@@ -120,7 +120,7 @@ def inflation_us():
             value=round((values[latest]/values[prior]-1)*100,1)
             if not -30<=value<=100:raise ValueError('Inflación calculada fuera de rango')
             return {'value':value,'period':latest,'source':'BLS · CPI-U (vía FRED)','url':'https://fred.stlouisfed.org/series/CPIAUCNS','unit':'percent','series_id':'CPIAUCNS','description':'Inflación general interanual · sin ajuste estacional'}
-        except (requests.RequestException,ValueError,KeyError):
+        except (requests.RequestException,ValueError,KeyError,TypeError):
             pass
         url='https://api.bls.gov/publicAPI/v1/timeseries/data/CUUR0000SA0'
         r=requests.get(url,headers=UA,timeout=35);r.raise_for_status();payload=r.json()
