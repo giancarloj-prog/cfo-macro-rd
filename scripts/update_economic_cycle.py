@@ -15,7 +15,7 @@ def parse_release(html):
     start=body.find('Latest Press Release')
     if start<0:raise ValueError('No latest press release section')
     body=body[start:start+13000]
-    dates=re.search(r'Updated:\s*(?:Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday),?\s+([A-Za-z]+)\s+(\d{1,2}),?\s+(20\d{2})',body)
+    dates=re.search(r'(?:Updated:|Release Date:|Published:)\s*(?:Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday)?[,]?[ ]*([A-Za-z]+)\s+(\d{1,2}),?\s+(20\d{2})',body)
     if not dates or dates[1] not in MONTHS:raise ValueError('Missing dated publication')
     published=f'{dates[3]}-{MONTHS[dates[1]]:02d}-{int(dates[2]):02d}'
     results={}
