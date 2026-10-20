@@ -13,9 +13,8 @@ def parse_release(html):
     body=' '.join(soup.get_text(' ',strip=True).split())
     # Only parse the Latest Press Release block, never footer, archived releases or navigation.
     start=body.find('Latest Press Release')
-    end=body.find('Methodology & Technical Notes',start)
-    if start<0 or end<0:raise ValueError('No bounded latest press release')
-    body=body[start:end]
+    if start<0:raise ValueError('No latest press release section')
+    body=body[start:start+13000]
     dates=re.search(r'Updated:\s*(?:Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday),?\s+([A-Za-z]+)\s+(\d{1,2}),?\s+(20\d{2})',body)
     if not dates or dates[1] not in MONTHS:raise ValueError('Missing dated publication')
     published=f'{dates[3]}-{MONTHS[dates[1]]:02d}-{int(dates[2]):02d}'
