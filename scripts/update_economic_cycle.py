@@ -4,7 +4,7 @@ from pathlib import Path
 from datetime import datetime, timezone
 ROOT=Path(__file__).resolve().parents[1]
 OUT=ROOT/'data'/'economic_cycle.json'
-SERIES={'leading':'USSLIND','coincident':'USCOIND','lagging':'USLAGIND'}
+SERIES={}  # No verified free machine-readable Conference Board LEI/CEI/LAG feeds yet.
 def fetch(series):
     url=f'https://fred.stlouisfed.org/graph/fredgraph.csv?id={series}'
     response=requests.get(url,timeout=25,headers={'User-Agent':'CFO-Macro-Dashboard/1.0'})
@@ -19,6 +19,8 @@ def fetch(series):
 def main():
     previous=json.loads(OUT.read_text()) if OUT.exists() else {}
     result={'checked_at':datetime.now(timezone.utc).isoformat(),'series':{},'source_health':{}}
+    for name in ('leading','coincident','lagging'):
+        result['source_health'][name]={'ok':False,'error':'No se ha validado una serie pública gratuita de The Conference Board; no se publican cifras sustitutas.'}
     for name,identifier in SERIES.items():
         try:
             history,url=fetch(identifier)
