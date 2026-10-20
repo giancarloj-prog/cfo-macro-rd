@@ -1,7 +1,7 @@
 {
   "date": "2026-10-20",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-20T21:34:54+00:00",
+  "checked_at": "2026-10-20T22:09:38+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -23,7 +23,7 @@
     "bcrd": {
       "ok": true,
       "error": null,
-      "count": 2
+      "count": 4
     },
     "fiscal": {
       "ok": true,
@@ -83,6 +83,22 @@
   },
   "items": [
     {
+      "title": "Banco Central gana premio a la Oficina de Gestión de Proyectos del Año 2026",
+      "publisher": "Acento",
+      "publisher_url": "https://acento.com.do",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYzVLQU11UTJFZHN6NlhCdjlDNFNJZ3o0a2dNYnhMRFlfeERFMFlBbkstX0VBdUR5TWwxQmxZZ2ppam9yWTdLaVY4dzhRVkNrYVVnQWlJTnBKb0FLOTVrU1dIdExGU0xDMVlKbm96cFoxVGwtanFQeVlDa3dWaEF6cHIyVXR2b28yTnYySzkzRXlBQlNPWnA3eTZlRWJya0tOOFVtUllGWXVoV0o5cnE5aUVpbTJVaFBuLUNZ0gG7AUFVX3lxTFBjNUtBTXVRMkVkc3o2WEJ2OUM0U0lnejRrZ01ieExEWV94REUwWUFuSy1fRUF1RHlNbDFCbFlnamlqb3JZN0tpVjh3OFFWQ2thVWdBaUlOcEpvQUs5NWtTV0h0TEZTTEMxWUpub3pwWjFUbC1qcVB5WUNrd1ZoQXpwcjJVdHZvbzJOdjJLOTNFeUFCU09acDd5NmVFYnJrS044VW1SWUZZdWhXSjlycTlpRWltMlVoUG4tQ1k?oc=5",
+      "published_at": "2026-10-20T21:00:40+00:00",
+      "topics": [
+        "bcrd",
+        "finance"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "bcrd"
+      ]
+    },
+    {
       "title": "Sector arrocero: 30,000 productores y 300,000 empleos conectados por una actividad",
       "publisher": "Periódico elDinero",
       "publisher_url": "https://eldinero.com.do",
@@ -118,6 +134,22 @@
       "publisher_url": "https://elnuevodiario.com.do",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbHotZHdmT3MtWGhJWGl3cHg4a3lndDh0WlI1R3llRmwyUEd6b25UWDBORzNvODVEN1REczhYZEN5SnBpOGl1R3A5b0EwaUNyQjdiSWxzcVUzbHlFNEVlemxLZ3N5Sk1qMEZLMEp0ZDhYZXJ1c2FreS1hM1lyV3FSS2piTlAxY2xBd0tJVkMxUVhjZnFsVlFILXhwZUFfZEs2RUZuMGx5a0dKODM4eDNWcU13?oc=5",
       "published_at": "2026-10-20T16:47:11+00:00",
+      "topics": [
+        "bcrd",
+        "finance"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "bcrd"
+      ]
+    },
+    {
+      "title": "Banco Central obtiene premio “Oficina de Gestión de Proyectos del Año 2026”",
+      "publisher": "El Caribe",
+      "publisher_url": "https://www.elcaribe.com.do",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeEhMRkI1OVdPS1M3QjAwQV92TzE2WWJsN2ttOERFSlc5QkltdGhFdDFYR2JVZy1uTHo4RWF1dWhlLXBYZjNRWkR5cDI2UVFyb1lnOWZLV1NweVJCQ2F3bVNBUDlYbk5teXFweXpfa0tOOVVFYXQ4dXJLUFRnMDB1RVlkSWNyemZEQV9hZTBEWElDZm5vUE9mSWYtdVZLRC1NbDlKb2MwN3lMaTNDT3c?oc=5",
+      "published_at": "2026-10-20T15:53:23+00:00",
       "topics": [
         "bcrd",
         "finance"

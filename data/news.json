@@ -1,7 +1,7 @@
 {
   "date": "2026-10-20",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-20T21:34:55+00:00",
+  "checked_at": "2026-10-20T22:09:39+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -34,7 +34,7 @@
     "europa": {
       "ok": true,
       "error": null,
-      "count": 18
+      "count": 19
     },
     "global": {
       "ok": true,
@@ -44,6 +44,16 @@
   },
   "items": [
     {
+      "title": "US FDA approves GSK's hepatitis B drug, offering patients chance to stop long-term treatment",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNT2t5R0w0ejBHTVE0dTd3SkJRRW5qQUdjazJGRGxGYTBBQWFVM2hIMDVnZ1hldUZDUE5kZk5WWndnbDhldVZNdDlVU3RrOUZFb0VJanFsa0s2QjFfeFJ5RUktZ3pycTVEWFkydTVlc3JCV0FWU3VFdXF5VUdXdVJpaURaN3JreDNpTVpDekRYX1V2LV94c2F2Z2ROQmhoRkZ0NldNXzdwNFhoclNoWGZNbGNHamRfN2NnbXo1aU42cmFIWXdXWVBoNXpoQnRON2tzZno4eFVzSkNQZ3V5aWE3SkQxbw?oc=5",
+      "published_at": "2026-10-20T21:11:32+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
       "title": "Sheinbaum presume que compra consolidada de medicamentos permitió ahorro de 70 mil mdp",
       "publisher": "Milenio",
       "publisher_url": "https://www.milenio.com",
@@ -51,16 +61,6 @@
       "published_at": "2026-10-20T21:02:57+00:00",
       "regions": [
         "mexico"
-      ]
-    },
-    {
-      "title": "US FDA approves GSK's hepatitis B drug, offering patients chance to stop long-term treatment",
-      "publisher": "Reuters",
-      "publisher_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNT2t5R0w0ejBHTVE0dTd3SkJRRW5qQUdjazJGRGxGYTBBQWFVM2hIMDVnZ1hldUZDUE5kZk5WWndnbDhldVZNdDlVU3RrOUZFb0VJanFsa0s2QjFfeFJ5RUktZ3pycTVEWFkydTVlc3JCV0FWU3VFdXF5VUdXdVJpaURaN3JreDNpTVpDekRYX1V2LV94c2F2Z2ROQmhoRkZ0NldNXzdwNFhoclNoWGZNbGNHamRfN2NnbXo1aU42cmFIWXdXWVBoNXpoQnRON2tzZno4eFVzSkNQZ3V5aWE3SkQxbw?oc=5",
-      "published_at": "2026-10-20T20:29:36+00:00",
-      "regions": [
-        "europa"
       ]
     },
     {
@@ -114,16 +114,6 @@
       "published_at": "2026-10-20T19:03:00+00:00",
       "regions": [
         "mexico"
-      ]
-    },
-    {
-      "title": "Why Drug Companies Are Rushing to Market Ketamine Medicines",
-      "publisher": "The New York Times",
-      "publisher_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbHgyZ0VMMmFFQlpnMGNnTmxxRU5oSzhjSUJmRV8tNWtQaVF3MzUzR3I5Q2VPMk0yWk0zUFVQYWN2bmQ3R0stTVljcm9fTlc3RG0wQjZMQjVoYnZEeGlQSW0xYUdVOGNyd01mT3RBZ2JlN0ZkTU9nNzYtN3BXdWtJUTloUmY?oc=5",
-      "published_at": "2026-10-20T17:49:20+00:00",
-      "regions": [
-        "usa"
       ]
     },
     {
@@ -328,6 +318,16 @@
       ]
     },
     {
+      "title": "Why Drug Companies Are Rushing to Market Ketamine Medicines",
+      "publisher": "The New York Times",
+      "publisher_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbHgyZ0VMMmFFQlpnMGNnTmxxRU5oSzhjSUJmRV8tNWtQaVF3MzUzR3I5Q2VPMk0yWk0zUFVQYWN2bmQ3R0stTVljcm9fTlc3RG0wQjZMQjVoYnZEeGlQSW0xYUdVOGNyd01mT3RBZ2JlN0ZkTU9nNzYtN3BXdWtJUTloUmY?oc=5",
+      "published_at": "2026-10-20T14:00:06+00:00",
+      "regions": [
+        "usa"
+      ]
+    },
+    {
       "title": "Heroin seized as nine arrested in drug raids",
       "publisher": "BBC",
       "publisher_url": "https://www.bbc.com",
@@ -414,6 +414,7 @@
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMnI3R0lXWnN4alVGb1k2Tm5fcDRNcDdmdnBCYlkzSVVnSmxmQ0VVXy1pVnU5V0c5Tmc4d0NKZXl3d1hvYmVwMXcwY0ZWcnVyNWlCN1RmZkRpaTJvdkJ1X2pQSWRBNVlkYlYyallTY3ZldkRqMi1yM19WN1ZyZVh5WERxdVA2ZFQwcVBkYmdDNmJuOFRwcHVMMzBtT0xSVVFrNjFxbTQteF9oYlFrcXBzamNranBGa2ZVdEpoeUVxa0NUYTkyeGFpTUN2NjNfQnVnbFVETlRtbmhNZw?oc=5",
       "published_at": "2026-10-20T11:12:25+00:00",
       "regions": [
+        "europa",
         "global",
         "usa"
       ]
