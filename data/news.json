@@ -1,7 +1,7 @@
 {
   "date": "2026-10-21",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-21T15:57:50+00:00",
+  "checked_at": "2026-10-21T20:25:55+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -14,7 +14,7 @@
     "rd": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 2
     },
     "centroamerica": {
       "ok": true,
@@ -24,12 +24,12 @@
     "mexico": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 5
     },
     "usa": {
       "ok": true,
       "error": null,
-      "count": 10
+      "count": 12
     },
     "europa": {
       "ok": true,
@@ -39,16 +39,109 @@
     "global": {
       "ok": true,
       "error": null,
-      "count": 10
+      "count": 12
     }
   },
   "items": [
+    {
+      "title": "Ex-prosecutor charged with treason in Mexico over US drug raid",
+      "publisher": "BBC",
+      "publisher_url": "https://www.bbc.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5KWXFnYWlMUzBDV1hQdnlaV0lIaFFtSVU0S2lRTEpIQkhrcjRvVEhER0tnZmNtVzBtUDRGWmVBU2NyMllkczhrci10RUJGZmdJT2VnMUI2blJINzlURVE?oc=5",
+      "published_at": "2026-10-21T20:19:51+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "Diputado de Bahoruco solicita instalar farmacia de medicamentos de alto costo en la región Enriquillo",
+      "publisher": "El Nuevo Diario",
+      "publisher_url": "https://elnuevodiario.com.do",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPT1RZMHBhNUs4WldKZDQ4NnE5cUtGR2Z0bVFNWlFnaU9yLUZiT29kY2FHZUlkY01ucVRNdWc4WjJ0QTRNSzFVZGQwXzlEc0ppNnYtZHpBVmlEYWl1T2x3MzQxUDU2elFfUmpuSHJNc2RuRUN6cU5NQzQ1ZV9BeEpCNjVUZjJvYWNoT3JpdzNNR3dnR3VocjJ0VlJkOG11eGxETGtTUGtvcDZNUUtoeXl5R2VFaXN2Qk1jN181T1VEWkpRMGpBamg2WHRR?oc=5",
+      "published_at": "2026-10-21T20:11:34+00:00",
+      "regions": [
+        "rd"
+      ]
+    },
+    {
+      "title": "Fármaco experimental contra esclerosis múltiple reduce recaídas en un 55% en ensayos avanzados",
+      "publisher": "Forbes México",
+      "publisher_url": "https://forbes.com.mx",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbEhPZEdCOTdObmRLMGtsSWliSmJVdXpBWHg2V3RpTnpPVDk2ejFxWHF2Yl9GTU93VEVMYkw1SlpGMzliVlJPN1BNODhVZjRvQ3lOOENSMlhfYmxXRnJkMWl5RjlZYnVUQkpaUDBSai1pSjhOaGtnNXNMa0l4SU5QZVdrbEx3LXAyM0NDLUliY3d2OE9rdnFrQ0FmYmhHSmd5R1hhdzZmZGhQX3RhazIydk90VGJmV3c?oc=5",
+      "published_at": "2026-10-21T19:55:00+00:00",
+      "regions": [
+        "mexico"
+      ]
+    },
+    {
+      "title": "La vacuna contra la tuberculosis podría ayudar a combatir cambios cerebrales asociados a la demencia",
+      "publisher": "Diario Libre",
+      "publisher_url": "https://www.diariolibre.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcnYzclFEc25DbGRrNldvOG9hTDJqVk5GdmxpTWFGS3lyYnpSOFh5dkJPSXBGWUNKV2p5djhJZzgzNk9zLUJQMlpyM0FsM2p3alBsWG1YRWpOa3Y0bGNJbkpvUFhQdzIwYVFpbkoyd2VBdWh3R0lLcHJrQkhGUjdYTzJxQk5xVERoXy0xdVY4eVA2ZVNicnRseTdvUDBoZ1lTNVJpSWlEZEQySUxCVUtBckxQWS10SkhPLVlSenlYR0ctMl9qdmJiR1R0RdIB0AFBVV95cUxQNEtaTGU2U0NRYzU5SnhmdW5aMW1Jb3kwREhfSEhYeXluM3hEaGVJVFBzTzNoWWthQ0hleW1iU29WSy1nM0ZUaHlEVk10ODRoZXQ4WE9BeFZ5V1FjNTJLZkg4STc3bVN1S1A2NHozSVdOWTRocEtuTTVNUzltV0k4dVZ0aEpHc3YyNGxvbTFBOWNIQTNzN3B4WEJHeVlycTRkZk5hLVV2X1lwQUxXZVBCZkVLbFdKemhXSThEcWRINFdCeldqcHhzVllid3l4cTRu?oc=5",
+      "published_at": "2026-10-21T19:16:32+00:00",
+      "regions": [
+        "rd"
+      ]
+    },
+    {
+      "title": "Aplicación de vacunas temporada invernal",
+      "publisher": "El Economista",
+      "publisher_url": "https://www.eleconomista.com.mx",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZjNGdWlTVXlxWnJhczM1d2NlN0Vvb3dkWFB2NTVYWDdyR1htUjNSWGJ1OXgxQlBUTkFkU29lNXpwdW1rQ0ZLMnFJSGs1bXJiVTFqaWRmUHVVdXl3VWRJZmJKYmc4a0U1X0hYLU9XOURjOTVGQzgzb0ktek9WNTR4OWdhMXJIRHgxRGRIYjljUUQya29rNGhWWVYyMC1rZ9IBowFBVV95cUxNa2stV2JsNDNDYWc4MWVOblpZVHhnQ2IxSEQzTXNRcDdRcmFad21kaFIxb0dzYmxJM204anpqVWpMS1dxbUJwaWFJN0t3VmxTeVl3cnVGdThCbEZrM2U5MlV4TWdvbFIxeUdkS0tqbnJVRWlSVXAtNW1VYnhLOTMtRjlwdjZ1N2xTbi1tbXNySDE2SEplY1RUNjRINGJCVElTMDJJ?oc=5",
+      "published_at": "2026-10-21T19:04:41+00:00",
+      "regions": [
+        "mexico"
+      ]
+    },
+    {
+      "title": "William Blair Expands Biotech Research as Veteran Analyst Alethia Young Initiates Coverage",
+      "publisher": "Financial Times",
+      "publisher_url": "https://markets.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQX0xaUEJjWGFVYWFOR184VkUyTDlsbGxqbGpWNm1sY2dYY3NHSVlQMEtrOVhZYjdpMnpydUNwYkZRX2RVNXB1alpzT0Q0bTZMT3duTW1ROWFGVU5KbzBLSHRhNWNGM0o0aDFNMTltVUpPeEU2R1FiRGZScUg2U2tnOFZlRHFON25aejlrQmxva2FmTkg4M0pyY0lnYnBFUjF1V1BOV0pB?oc=5",
+      "published_at": "2026-10-21T16:30:00+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "GSK, Ionis win US approval for first-of-its-kind hepatitis B drug",
+      "publisher": "BioPharma Dive",
+      "publisher_url": "https://www.biopharmadive.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYlZIRDZuWlVhZ1ZtMFQyanlZcjdWQ0NIYlpkMkZ0OElndVFOdFpSS3l2RndCbEZoSWs2bU45SjloNEtfSHhyOG5DTnk4b2tlMkxoX09kRG9jbHQ4TVNVNHRReWJpZmtSRlJwWEdfd3l0ZnIxeU41d2d1MVQ0QkNsQjN4RWlDVFdCUVBRaUZhUS1IaU96anVocnEwc3RETDRfY3QtUUZMdUo?oc=5",
+      "published_at": "2026-10-21T16:18:23+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "¿Qué vacunas se aplicarán durante la temporada invernal 2026-2027?",
+      "publisher": "El Economista",
+      "publisher_url": "https://www.eleconomista.com.mx",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdUYtdTU1Z1R2Z1VLZXk2M3JLeGdPS0FLVmNUSEhrX3didENyZENtcW9sN3h3Y2ZMTVp0SnZYc2E1Tjlqbk5xMTZnLVYtcmJIRUtpdkJIYWR2cktIbTNBTXFqbDlmcGpsa0wyWTFTZ1UzY20ydGZXZjhZUjB6ektBSjlaSDRHd3E1VXVQMEU4c3ctcy1LYUhYaG42SWUwblo4djlkYXZLQ1BaYWh3eWfSAbMBQVVfeXFMUFo0UWc2Rms2V1hGNkxUVXN1WnBQdUg2Y3V1YVEyRWVMdlY0YzVPMWZWYktaNGMyVGdKMnN4WVRVRjV4SEJqeEdKRGtxb0FKbDFacDRvTmdtd3BOUFpxSHVaaG16TGNJaVhHeG1SUmZ6R2hNaXlPLTVwVk45dDVGdTF3M1VQNElGVWhQSG9lLUt3ZWJHS1NSZGVxLS1nNEdDdkdNVXJjNFNoRGlqSjA0U0w2X2M?oc=5",
+      "published_at": "2026-10-21T16:05:00+00:00",
+      "regions": [
+        "mexico"
+      ]
+    },
+    {
+      "title": "Cencora to buy American Oncology Network in $2.4 billion deal",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOU0t0eE9yUFVfcDRpdVY3aGtfTlpxV1VYdUltQjNMSUZaUFBtWU5MUWp6QXh1QmxHX1lnTm55X0FxX1c2azZvcFA4MkJLNktFRml0MnVQTlo5eTNHSmlCRmdLbXBiQngtTTZEcndhZi1jM2h1T1Q4T0VadDFVOGhTSmFBbUdwUTFwT21zRjdHd3RFNTd4RlFqSDV5VkJ1SXhQWkZ3T3puaHNEMnZmVGM4a21KZUhvMkFLdlNJaWxkcGh6a2ZHeGhCZQ?oc=5",
+      "published_at": "2026-10-21T16:02:38+00:00",
+      "regions": [
+        "europa",
+        "global",
+        "usa"
+      ]
+    },
     {
       "title": "Roivant, continuing ascent, claims another victory for rare disease drug",
       "publisher": "BioPharma Dive",
       "publisher_url": "https://www.biopharmadive.com",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUHIxbWVBQkQ5NU5GX0JUZ1RMVm9hRm5Gdm9WWkl5WTlia3VIcDFQOHI1bDc2R3dkUTVsMG1MbDA4NmRnN2FqRVJvODhWVGFyVzEzV19hREp6Tk1ZRWdoZ1VwenBBM05YckRORUpkdnB4bGRxZWJpZ18xeFg2MjhLUlZBMzFCMjcxWmJlN0d3?oc=5",
-      "published_at": "2026-10-21T15:35:04+00:00",
+      "published_at": "2026-10-21T15:34:19+00:00",
       "regions": [
         "global",
         "usa"
@@ -65,13 +158,13 @@
       ]
     },
     {
-      "title": "Danaher says it has 'building blocks' for AI drug discovery growth",
-      "publisher": "Reuters",
-      "publisher_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTk5UeEZ6R1ROQS1hNVNZQVJkT0tyRTR0UGxUQ0VYaDRkZGtGMlVrWlJ1SUYxSFRtZkZobEdjb3JpYUxIbEtQVGRJelUxbFhJV1ZDZkFzc3piNTlhWVNzVVo3LTlNTzc2VjdpNWVkd0xJR01scEo5MWpVYlZlYTdmV0RvZmllSnBUdXVYUmM4Yko2LVQ0ano3bVRBRXpfYnVhWXRnTHdzVzBoenF4ZFlaY3gzQQ?oc=5",
-      "published_at": "2026-10-21T15:06:47+00:00",
+      "title": "Sindicato de Salud rechaza robo de medicamentos por parte de sus trabajadores",
+      "publisher": "El Universal",
+      "publisher_url": "https://www.eluniversal.com.mx",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNLV9aQVVlejNwQnJyaWpjTnJiZFZZaVNibVMyd2ctckVKUDNXTWY5Y0N2NU9rMERyeUYxVXZhMHBCT2duS1Bfanc0MVdQeTJSODJfZGc5SlFKeldmS0JoX29QTDR5My1EbGJPMDhoNkpvTDBQc1ZiNVE0S3d4ckZuQlJHV0tTMlBTNUxaSWhVbWlZeHZtcm5jUm9UWkg2NWh3Q2JuQ09hYkphWDgzTTdqWWFrVnQ3d2JQd01oYXRzbmxrdlpVT2VlVkNLNXdTcEpPRWNyc2Y2RGx5cUlpUzZLZGxIVVgwOG5TYnfSAf4BQVVfeXFMUEpiOWFZLVZNYXRFOGpiVVAyYm5uQjQ3WG5uVGtjN2pkTm9ycHB0Z3ZjMmFqb1ZnUnRraXJnSGpHbWY0R001bllhUVZFM3hfcGJKdTBvQjlXZ2VOM1h1ZGx2dk5zajJHdzNEaXZGN1lfMFBjMWFYUHZyNkpQSlpkT2hqdHlMdXJuaHhGMlcyUWVGZUNLbjBreFY1b2xiWlpuTG9XNzZJc0trZkp1cjRpZjVkeUg4Zl9HVGg0dWdFdEpyaFdkdERvTkV0bEZxN29HS2tzejAwRXF1Q1NWYzdIS1hiU2lTSEhZN1U0cG9mUklfT0NCcG45RndFN1hhR1E?oc=5",
+      "published_at": "2026-10-21T15:03:59+00:00",
       "regions": [
-        "europa"
+        "mexico"
       ]
     },
     {
@@ -125,18 +218,6 @@
       "published_at": "2026-10-21T13:17:00+00:00",
       "regions": [
         "europa"
-      ]
-    },
-    {
-      "title": "Cencora to acquire American Oncology Network in $2.4 billion deal",
-      "publisher": "Reuters",
-      "publisher_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOU0t0eE9yUFVfcDRpdVY3aGtfTlpxV1VYdUltQjNMSUZaUFBtWU5MUWp6QXh1QmxHX1lnTm55X0FxX1c2azZvcFA4MkJLNktFRml0MnVQTlo5eTNHSmlCRmdLbXBiQngtTTZEcndhZi1jM2h1T1Q4T0VadDFVOGhTSmFBbUdwUTFwT21zRjdHd3RFNTd4RlFqSDV5VkJ1SXhQWkZ3T3puaHNEMnZmVGM4a21KZUhvMkFLdlNJaWxkcGh6a2ZHeGhCZQ?oc=5",
-      "published_at": "2026-10-21T12:32:25+00:00",
-      "regions": [
-        "europa",
-        "global",
-        "usa"
       ]
     },
     {
@@ -261,6 +342,17 @@
       "published_at": "2026-10-21T06:02:00+00:00",
       "regions": [
         "europa",
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Pharmalittle: We’re reading about drug launch prices, an AstraZeneca AI deal, and more",
+      "publisher": "STAT",
+      "publisher_url": "https://www.statnews.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUUsxM2VxM1FiVnVoUGl1Ri1KTEFXTVJrUG5uWnJteDc4SjN6LU1FMC0tUEhpVmsyWERkbGRTZ0EtVUMtVWdVTEtXZnVyX3hQc2plWEdGYmxxMkdtVm45VWFjbWZfSlVOUHZyQ01Od0w3a3BkWEtjZ2ZUMHRJbXgta0FnenJRNmY5X1pLZkJIcjk3R3Bj?oc=5",
+      "published_at": "2026-10-21T05:14:11+00:00",
+      "regions": [
         "global",
         "usa"
       ]

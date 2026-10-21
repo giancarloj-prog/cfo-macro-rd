@@ -1,7 +1,7 @@
 {
   "date": "2026-10-21",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-21T15:57:48+00:00",
+  "checked_at": "2026-10-21T20:25:54+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -43,12 +43,12 @@
     "securities": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 2
     },
     "economy": {
       "ok": true,
       "error": null,
-      "count": 2
+      "count": 3
     },
     "economist_andy": {
       "ok": true,
@@ -82,6 +82,51 @@
     }
   },
   "items": [
+    {
+      "title": "Superintendente Bournigal: “La educación financiera es un elemento esencial para la protección integral del inversionista”",
+      "publisher": "Periódico elDinero",
+      "publisher_url": "https://eldinero.com.do",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOX1RjX2FwbFN1VjdMcTRBZlY4ZkFNUTJIUm5QQkRtWDR0d2puT25GcHpZLTJfMlBsMzFiVGVwbDhqU2xHcHByR2toN080MjNJbVVwVVQ2SWtSanpIWXZqUjZFRk1KaHdSS2V6YTFVR1Q1VXFRMlFqRHJpd21SeTZoS1gxdlFPMDhKZ0FBeGFHNEVsWFhDcmFZdkRmaDJlZWNnb0RHTWpLS3p6MEwxVnoxcUZIQ1gxWGMwNThkSEFYNUlFcGZTeGljaFFCaUVUNExUanFsX1AzYjFsejJqVVlFUnNqVlVvUQ?oc=5",
+      "published_at": "2026-10-21T20:09:29+00:00",
+      "topics": [
+        "securities"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "securities"
+      ]
+    },
+    {
+      "title": "Delitos Financieros advierte sobre evolución de estafas de inversión y llama a denunciar a tiempo para recuperar fondos",
+      "publisher": "Periódico elDinero",
+      "publisher_url": "https://eldinero.com.do",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOQWY3Z05hbW5VRVc0dUU2Mkd5VFhUaHFTRlhUS1RISlQ1Y1c2akFtd2N6Q01QTFpYRjdENmpURDJUYV9UUzI3bk0xcU81d0J3S1BETVNaS2hqWDRaX1lCTXJSdkZaUGp3R2RlRnIxUU5NZll5Q09SU21ndzl5YmRrU2ZKaFIyTncwbURvOUhsYjdvQ2owdEZxVkdvSHh1d0pEcXJ5RTFHNENsUlN6VjYwZlNWS1FnaGxaVHZRLTZEeEtMMUFsaVhyYXpIQ24wZXlaMUpyZ1VvWkpXWVlub3pJUlJ1bm5jdw?oc=5",
+      "published_at": "2026-10-21T20:03:47+00:00",
+      "topics": [
+        "securities"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "securities"
+      ]
+    },
+    {
+      "title": "AGN presentará obra de Pedro Silverio Álvarez sobre economía, política e instituciones en RD",
+      "publisher": "El Nuevo Diario",
+      "publisher_url": "https://elnuevodiario.com.do",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWlV1S056dUxFbks1cGsyUEo2QWtQVnBsSVpxY3hhZ3FLQzFwVmZBNllpWU1RTE1sdjJfczNjR21uazNJVkM5MGl1VGlaWlJvN0RYU3EyYmJFN3FTQnMydk9oR1dHS1QyNi13MzBBODI1NF95VGZKeEpZemZCMlppbVFwS1pYQklzb1V5c0pGd00yeHBEajVHcktVaVRJc3hNS1d0eHg4aVJWRkVDMk80Wjdld08zNzlTd3o2X1dn?oc=5",
+      "published_at": "2026-10-21T16:31:20+00:00",
+      "topics": [
+        "economy"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "economy"
+      ]
+    },
     {
       "title": "República Dominicana promueve cultura y exportaciones en Corea",
       "publisher": "Hoy Digital",
