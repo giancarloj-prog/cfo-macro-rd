@@ -1,40 +1,44 @@
 {
-  "checked_at": "2026-10-20T00:00:00Z",
+  "checked_at": "2026-10-21T19:26:29.385928+00:00",
   "series": {
     "leading": {
-      "value": 99.5,
       "period": "2026-08",
+      "value": 99.5,
       "mom": -0.1,
-      "six_month": -0.1,
       "source": "The Conference Board",
-      "url": "https://www.conference-board.org/topics/us-leading-indicators/"
+      "url": "https://www.conference-board.org/topics/us-leading-indicators/",
+      "published_at": "2026-09-18"
     },
     "coincident": {
-      "value": 114.9,
       "period": "2026-08",
+      "value": 114.9,
       "mom": 0.1,
-      "six_month": 0.4,
       "source": "The Conference Board",
-      "url": "https://www.conference-board.org/topics/us-leading-indicators/"
+      "url": "https://www.conference-board.org/topics/us-leading-indicators/",
+      "published_at": "2026-09-18"
     },
     "lagging": {
-      "value": 120.6,
       "period": "2026-08",
+      "value": 120.6,
       "mom": 0.2,
-      "six_month": 0.9,
       "source": "The Conference Board",
-      "url": "https://www.conference-board.org/topics/us-leading-indicators/"
+      "url": "https://www.conference-board.org/topics/us-leading-indicators/",
+      "published_at": "2026-09-18"
     }
   },
   "source_health": {
     "leading": {
-      "ok": true
+      "ok": true,
+      "error": null
     },
     "coincident": {
-      "ok": true
+      "ok": true,
+      "error": null
     },
     "lagging": {
-      "ok": true
+      "ok": true,
+      "error": null
     }
-  }
+  },
+  "latest_report_date": "2026-09-18"
 }
