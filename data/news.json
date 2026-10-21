@@ -1,7 +1,7 @@
 {
   "date": "2026-10-21",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-21T20:25:55+00:00",
+  "checked_at": "2026-10-21T20:47:37+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -29,7 +29,7 @@
     "usa": {
       "ok": true,
       "error": null,
-      "count": 12
+      "count": 13
     },
     "europa": {
       "ok": true,
@@ -218,6 +218,16 @@
       "published_at": "2026-10-21T13:17:00+00:00",
       "regions": [
         "europa"
+      ]
+    },
+    {
+      "title": "Why Drug Companies Are Rushing to Market Ketamine Medicines",
+      "publisher": "The New York Times",
+      "publisher_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbHgyZ0VMMmFFQlpnMGNnTmxxRU5oSzhjSUJmRV8tNWtQaVF3MzUzR3I5Q2VPMk0yWk0zUFVQYWN2bmQ3R0stTVljcm9fTlc3RG0wQjZMQjVoYnZEeGlQSW0xYUdVOGNyd01mT3RBZ2JlN0ZkTU9nNzYtN3BXdWtJUTloUmY?oc=5",
+      "published_at": "2026-10-21T12:41:00+00:00",
+      "regions": [
+        "usa"
       ]
     },
     {
