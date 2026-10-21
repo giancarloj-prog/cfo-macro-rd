@@ -1,7 +1,7 @@
 {
   "date": "2026-10-20",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-20T23:29:51+00:00",
+  "checked_at": "2026-10-21T00:17:37+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -19,7 +19,7 @@
     "centroamerica": {
       "ok": true,
       "error": null,
-      "count": 3
+      "count": 4
     },
     "mexico": {
       "ok": true,
@@ -34,7 +34,7 @@
     "europa": {
       "ok": true,
       "error": null,
-      "count": 17
+      "count": 18
     },
     "global": {
       "ok": true,
@@ -43,6 +43,16 @@
     }
   },
   "items": [
+    {
+      "title": "¿Cómo impactará a los pacientes el nuevo modelo de medicamentos de la CCSS? Foro de ‘La Nación’ lo explica",
+      "publisher": "La Nación Costa Rica",
+      "publisher_url": "https://www.nacion.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYU9lQTdNRm5EVU00NHFwa1BiSm1yWXVFbWNUUHI2V0kxQ0pzVW9vdzVMd0hra2ItMzgyejBVVmJQSVZnWElYdlpoNVpyZUkydlJRdzRnOXpWN2dmOVRJamg0TmFRRFZXd2FpZ1p0bFJwVDRXMGlWQzJ6dTZXVzdySUhKT190bGZFY2NiaFVoZUtqZlNtU1Q2ODJ2SjhXLVI4WEUxUjZ6MlR5TF9EVEVXdDVZZ2Y?oc=5",
+      "published_at": "2026-10-21T00:03:47+00:00",
+      "regions": [
+        "centroamerica"
+      ]
+    },
     {
       "title": "SNTSA asegura que desabasto de medicamentos obedece a ineficiencia en la distribución",
       "publisher": "El Economista",
@@ -414,6 +424,7 @@
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMnI3R0lXWnN4alVGb1k2Tm5fcDRNcDdmdnBCYlkzSVVnSmxmQ0VVXy1pVnU5V0c5Tmc4d0NKZXl3d1hvYmVwMXcwY0ZWcnVyNWlCN1RmZkRpaTJvdkJ1X2pQSWRBNVlkYlYyallTY3ZldkRqMi1yM19WN1ZyZVh5WERxdVA2ZFQwcVBkYmdDNmJuOFRwcHVMMzBtT0xSVVFrNjFxbTQteF9oYlFrcXBzamNranBGa2ZVdEpoeUVxa0NUYTkyeGFpTUN2NjNfQnVnbFVETlRtbmhNZw?oc=5",
       "published_at": "2026-10-20T11:12:25+00:00",
       "regions": [
+        "europa",
         "global",
         "usa"
       ]

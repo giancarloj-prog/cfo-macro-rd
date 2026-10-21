@@ -1,7 +1,7 @@
 {
   "date": "2026-10-20",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-20T23:29:50+00:00",
+  "checked_at": "2026-10-21T00:17:36+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -23,7 +23,7 @@
     "bcrd": {
       "ok": true,
       "error": null,
-      "count": 4
+      "count": 5
     },
     "fiscal": {
       "ok": true,
@@ -38,7 +38,7 @@
     "finance": {
       "ok": true,
       "error": null,
-      "count": 3
+      "count": 4
     },
     "securities": {
       "ok": true,
@@ -48,7 +48,7 @@
     "economy": {
       "ok": true,
       "error": null,
-      "count": 4
+      "count": 5
     },
     "economist_andy": {
       "ok": true,
@@ -82,6 +82,38 @@
     }
   },
   "items": [
+    {
+      "title": "¿Por qué siguen aumentando las remesas? RD recibe US$9,489.8 millones",
+      "publisher": "El Caribe",
+      "publisher_url": "https://www.elcaribe.com.do",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZWI0clk5VXpISHJlSGtXZ3dPVGNyenRsY0ZyQk5VRTJ3M1BiN2JpUC1pM1lUSkVJeGFkanBQM1E1RlgydWt6ZVZPbEZEdjV6dlFVYzUyQ0tLaFZEaVdfOG43b3dRVG9VZEROVFkyN0d2U01jQkh3dzB6S1dRT01icGpqT19WT3gxb3A0S3pSYUg4NUs5TDB5SlBSd0wzNFFNa0tYT1EzNDlHYjRWYUZZ?oc=5",
+      "published_at": "2026-10-20T23:32:31+00:00",
+      "topics": [
+        "bcrd",
+        "economy"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "bcrd",
+        "economy"
+      ]
+    },
+    {
+      "title": "Feller Rate ratifica calificación A+ a Qik Banco Digital",
+      "publisher": "Acento",
+      "publisher_url": "https://acento.com.do",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQd2pIcWpYaW0xRVhSMlpidlNwYzlCcUl4WGwteFhDNnh6eHloVVZaYTFBY1lhWmliNlFoRmZtNy1sRkNjX1M1dkxxdFdIQ1JsaXFwMjhUT3VmaHJQdTk3RDRYbDZGbmdTV1FJQW5MRlpSaWZ6c01nUFR6Y3haa0RMbnNNejg3a2xTSGJVaW10MHJULXU0b1hxZUZfQ1RlcEhJ0gGgAUFVX3lxTFB3akhxalhpbTFFWFIyWmJ2U3BjOUJxSXhYbC14WEM2eHp4eWhVVlphMUFjWWFaaWI2UWhGZm03LWxGQ2NfUzV2THF0V0hDUmxpcXAyOFRPdWZoclB1OTdENFhsNkZuZ1NXUUlBbkxGWlJpZnpzTWdQVHpjeFprRExuc016ODdrbFNIYlVpbXQwclQtdTRvWHFlRl9DVGVwSEk?oc=5",
+      "published_at": "2026-10-20T23:00:17+00:00",
+      "topics": [
+        "finance"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "finance"
+      ]
+    },
     {
       "title": "Banco Central gana premio a la Oficina de Gestión de Proyectos del Año 2026",
       "publisher": "Acento",
