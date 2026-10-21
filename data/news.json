@@ -1,7 +1,7 @@
 {
   "date": "2026-10-21",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-21T15:18:25+00:00",
+  "checked_at": "2026-10-21T15:57:50+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -29,20 +29,51 @@
     "usa": {
       "ok": true,
       "error": null,
-      "count": 9
+      "count": 10
     },
     "europa": {
       "ok": true,
       "error": null,
-      "count": 13
+      "count": 14
     },
     "global": {
       "ok": true,
       "error": null,
-      "count": 8
+      "count": 10
     }
   },
   "items": [
+    {
+      "title": "Roivant, continuing ascent, claims another victory for rare disease drug",
+      "publisher": "BioPharma Dive",
+      "publisher_url": "https://www.biopharmadive.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUHIxbWVBQkQ5NU5GX0JUZ1RMVm9hRm5Gdm9WWkl5WTlia3VIcDFQOHI1bDc2R3dkUTVsMG1MbDA4NmRnN2FqRVJvODhWVGFyVzEzV19hREp6Tk1ZRWdoZ1VwenBBM05YckRORUpkdnB4bGRxZWJpZ18xeFg2MjhLUlZBMzFCMjcxWmJlN0d3?oc=5",
+      "published_at": "2026-10-21T15:35:04+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Despite US policy changes, drug prices stay stubbornly high",
+      "publisher": "pharmaphorum",
+      "publisher_url": "https://pharmaphorum.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSjRaMVBUcU5fSjhLMXpLdVB6WWRaOUhGSHM1bmdoUkRIUFJlOXRuRmN4ZUdHV3JLNlZDU3RMSGR2M2FqV3c5RlV6X3RvNFVucHNwMXFSOWFyaW44QjJsN0NGVjlPbHRCbndtcFNhVFZvUTBhNC13UHpGVm5OMy1DMVh6ZFFWQ2dxM3k4SE53SGIwdw?oc=5",
+      "published_at": "2026-10-21T15:28:10+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "Danaher says it has 'building blocks' for AI drug discovery growth",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTk5UeEZ6R1ROQS1hNVNZQVJkT0tyRTR0UGxUQ0VYaDRkZGtGMlVrWlJ1SUYxSFRtZkZobEdjb3JpYUxIbEtQVGRJelUxbFhJV1ZDZkFzc3piNTlhWVNzVVo3LTlNTzc2VjdpNWVkd0xJR01scEo5MWpVYlZlYTdmV0RvZmllSnBUdXVYUmM4Yko2LVQ0ano3bVRBRXpfYnVhWXRnTHdzVzBoenF4ZFlaY3gzQQ?oc=5",
+      "published_at": "2026-10-21T15:06:47+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
     {
       "title": "New US drug launches need price check to counter access impediments, ICER, West Health urge",
       "publisher": "Fierce Pharma",
@@ -63,6 +94,16 @@
       "regions": [
         "global",
         "usa"
+      ]
+    },
+    {
+      "title": "The Biotech Growth Trust PLC - Net Asset Value(s) – Company Announcement",
+      "publisher": "Financial Times",
+      "publisher_url": "https://markets.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUzNMUndSQWFSdUI5dXV1WHNWbFB2eXk5WUI4U3FjYjVZckFHYThteERmUUJScy1NWXBRWkR6bHRyaWkyek9IaWtHZDFCZVo5bFVwNExCWC0yTFdDa09LVGdCc01fR1hWWHhwNUE4OWoyTHdBVlFCWTN6ZjNIRWQxWWp0QnVhU2tvSHpkS3RFcmEycHEz?oc=5",
+      "published_at": "2026-10-21T13:49:00+00:00",
+      "regions": [
+        "europa"
       ]
     },
     {
@@ -87,22 +128,14 @@
       ]
     },
     {
-      "title": "Akeso Announces Summit Therapeutics and ECOG-ACRIN Cancer Research Group Enter into Phase II/III Clinical Trial Collaboration to Evaluate Ivonescimab in First-Line Biliary Tract Cancer – Company Announcement - FT.com",
-      "publisher": "Financial Times",
-      "publisher_url": "https://markets.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZEhzSFdWZ1ZrNGpTdzQwTE5LR1pMZ2IwbVpaMng1UFM3Y3l3TUxCX0NscURXZE1nTWgwbGowQkt6c2FtSlFmbFFaeWRvYl8tUGZjVi1jZkFTR1NuemV3bDJjcFNaVDhidzF2Z0YydW5aajJhY3lLc3FqeXZDZ215VHJxbHd0bVUxTWdFZDhxbWNnRmNnVURURA?oc=5",
-      "published_at": "2026-10-21T12:42:00+00:00",
+      "title": "Cencora to acquire American Oncology Network in $2.4 billion deal",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOU0t0eE9yUFVfcDRpdVY3aGtfTlpxV1VYdUltQjNMSUZaUFBtWU5MUWp6QXh1QmxHX1lnTm55X0FxX1c2azZvcFA4MkJLNktFRml0MnVQTlo5eTNHSmlCRmdLbXBiQngtTTZEcndhZi1jM2h1T1Q4T0VadDFVOGhTSmFBbUdwUTFwT21zRjdHd3RFNTd4RlFqSDV5VkJ1SXhQWkZ3T3puaHNEMnZmVGM4a21KZUhvMkFLdlNJaWxkcGh6a2ZHeGhCZQ?oc=5",
+      "published_at": "2026-10-21T12:32:25+00:00",
       "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "Why Drug Companies Are Rushing to Market Ketamine Medicines",
-      "publisher": "The New York Times",
-      "publisher_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbHgyZ0VMMmFFQlpnMGNnTmxxRU5oSzhjSUJmRV8tNWtQaVF3MzUzR3I5Q2VPMk0yWk0zUFVQYWN2bmQ3R0stTVljcm9fTlc3RG0wQjZMQjVoYnZEeGlQSW0xYUdVOGNyd01mT3RBZ2JlN0ZkTU9nNzYtN3BXdWtJUTloUmY?oc=5",
-      "published_at": "2026-10-21T12:41:00+00:00",
-      "regions": [
+        "europa",
+        "global",
         "usa"
       ]
     },
@@ -169,16 +202,6 @@
       ]
     },
     {
-      "title": "Summit Therapeutics and ECOG-ACRIN Cancer Research Group Enter into Phase II / III Clinical Trial Collaboration to Evaluate Ivonescimab in First-Line Biliary Tract Cancer – Company Announcement - FT.com",
-      "publisher": "Financial Times",
-      "publisher_url": "https://markets.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPLUlHZTJCYnZOcFVaSkhhbmQxYkIyVkFFYl9ERTN3ZG8yUGdMRVNiWlZsenNHdkkzb0YzbDJmSklPTC00U0F3ZFhXZDhhZllqRnVNZWFVQ0k0Y3BPVnBMX3VQSDRZZ1hhTGpIS3RtOWNBckZLMEtQMlNlTXVzekw4Q3BuSUNIOEJEZklSNlJ1VVJmSEsyaG5zMmtTOU4zeVZ4RjdzRWJn?oc=5",
-      "published_at": "2026-10-21T10:05:00+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
       "title": "Mirfield drug dealer ordered to repay more than £250,000",
       "publisher": "BBC",
       "publisher_url": "https://www.bbc.co.uk",
@@ -231,17 +254,7 @@
       ]
     },
     {
-      "title": "WuXi Biologics Receives Top-Honor Jade Award at The Asset Corporate Sustainability Leadership Awards 2026",
-      "publisher": "Financial Times",
-      "publisher_url": "https://markets.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcmpmNkV5bHUwT194R0NTcTI4UmJUUjR0X1ZrV2piUmhXN2FnbVprTGdESnhrZVRGMnNTS2Z4OWtlY1Nhd0hBZnJiMEt0S0NuaUt5bkxuRWRaemtHZGhoUzJZY2tVRk0tTHdyc3M1UlN5MHlJSXFIRHlEdkN3a2NadHhNU1E3bW5QLWpGc1BVcUtmQmEwSFBQSg?oc=5",
-      "published_at": "2026-10-21T06:44:00+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "Focus: Beauty giants target 'Ozempic face' as boom in obesity drugs opens new market",
+      "title": "Beauty giants target 'Ozempic face' as boom in obesity drugs opens new market",
       "publisher": "Reuters",
       "publisher_url": "https://www.reuters.com",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVzBscFc1bVNobHJsZmJJNHE4dmlON3Viekp4ZDd1R2QwdlZaZkZJc1QyTW9aQmhnOGxmUW14NnFWbFlkSWVDbkJiRjdzdjhLODlSMmd1T2hETGxfbXRnaFo2NFE5UG5vbVNWZ21Zd0tWTDM2NExxaVI4bU5zNTlrbHM2dmhiT1ZOVkwzWVItdHlYeTFESEFSMVRla0hPUzFueUdGVl80NS1IbHJlQWhsakRqN0lsbjF3cF9TODFrMA?oc=5",

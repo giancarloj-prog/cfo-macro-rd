@@ -1,7 +1,7 @@
 {
   "date": "2026-10-21",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-21T15:18:24+00:00",
+  "checked_at": "2026-10-21T15:57:48+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -48,7 +48,7 @@
     "economy": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 2
     },
     "economist_andy": {
       "ok": true,
@@ -82,6 +82,21 @@
     }
   },
   "items": [
+    {
+      "title": "República Dominicana promueve cultura y exportaciones en Corea",
+      "publisher": "Hoy Digital",
+      "publisher_url": "https://hoy.com.do",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdG1kY21SOW1HR0FyWE5hNWlfQ1ZmOFNsTzM0UE9KUGF3UnpHRW04c2R5cG9ON2FDem5OaGNfTDJLelN1T2xPZ3ZCckVmTl9FbVhkZGhXWkUzanBxTWJfcVFpR1EyOUVraHk3SlBMc0dkY09sRmpMUWF0UGdPcXQwajZ5MUVYWVdhUzZsRWFKaWgtVmdLV2twdXF2TdIBoAFBVV95cUxQY0w1VzVnQk5iaGVFVEJ5bl9yTTYwaWg1SWwzUzZWbnV3ZFNvcTZvX2Fja2x6MjdsSGEyZVFxdnBxNHNZMTFPbkRZdHFCQm1TOEpjaUt5WllrVzQxb0pjT2VNeTJwVURLdTZWcFFxSENONy1QTno5N1Z6aDB5SjhYQlJYbzU2bVAwWXVHdm5zd2xGb3diSzVRdlFZa3lvOFpT?oc=5",
+      "published_at": "2026-10-21T15:35:55+00:00",
+      "topics": [
+        "economy"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "economy"
+      ]
+    },
     {
       "title": "Más de 283,000 personas ingresaron al sistema financiero dominicano en un año",
       "publisher": "Periódico elDinero",
