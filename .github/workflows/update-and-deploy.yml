@@ -7,6 +7,10 @@ on:
   - cron: "15 11 * * *"
   - cron: "0 17 * * *"
   - cron: "0 22 * * *"
+  # Respaldo ante ejecuciones programadas omitidas por GitHub Actions.
+  - cron: "45 11 * * *"
+  - cron: "30 17 * * *"
+  - cron: "30 22 * * *"
   push:
     branches: ["main"]
 
