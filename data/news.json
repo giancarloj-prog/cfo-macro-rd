@@ -1,7 +1,7 @@
 {
   "date": "2026-10-22",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-22T13:18:20+00:00",
+  "checked_at": "2026-10-22T15:53:56+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -14,7 +14,7 @@
     "rd": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 1
     },
     "centroamerica": {
       "ok": true,
@@ -29,20 +29,136 @@
     "usa": {
       "ok": true,
       "error": null,
-      "count": 4
+      "count": 9
     },
     "europa": {
       "ok": true,
       "error": null,
-      "count": 8
+      "count": 13
     },
     "global": {
       "ok": true,
       "error": null,
-      "count": 4
+      "count": 10
     }
   },
   "items": [
+    {
+      "title": "AZ's Ultomiris adds 5th rare disease feather to cap with FDA IgAN nod",
+      "publisher": "Fierce Pharma",
+      "publisher_url": "https://www.fiercepharma.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNX3NmeWk5R0gwb3pwRm5aTjJjRkVyWi1tN1ZXMlpSajYyT0pkSkdObGZMeVlsbmc4Z0xqRUxCUmF2SEdOeWZkbTYzS1VPU3JUalFOR191ci1YeUxZaUpkeHk0WTBOR0wzWF9rMDVXVk5LSEh6WlMwNFpCaGNKWk5fOThvSnhocEtUTURWdjhyVHBnNkhQNjRsY0V2NEt4a0hGcGQySDlhUzJtdWM5?oc=5",
+      "published_at": "2026-10-22T15:15:50+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Virginia Democrat indicted on federal drug and money laundering charges",
+      "publisher": "The Guardian",
+      "publisher_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUHlIaTlGZU9FR2hxUHlmTy1IanVrd193X25aV3cwbTB0NkFiNFlIYWd0eG5hUTFPZXBTbkh0Nmp1RlpHOFNBc3hmb1d3SUtPLXFkQVNHWUVhWmtIVjNKb29jZHhtSkpYemt5MXVlVjEzTDZBZFE4QTBycnZqMjVyUjBKMlVpdkpkR09vWVdtbkQ4d0JaaWVtREVkZXY3Zw?oc=5",
+      "published_at": "2026-10-22T15:15:00+00:00",
+      "regions": [
+        "europa",
+        "global"
+      ]
+    },
+    {
+      "title": "Lilly breaks ground in Richmond to expand American manufacturing of next-generation cancer medicines, advancing its build-out of 10 new U.S. sites since 2020 – Company Announcement - FT.com",
+      "publisher": "Financial Times",
+      "publisher_url": "https://markets.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONmxISGhUaWYwZ1k2UFhqWkFza0RCeG1YNWRhTmxod2daVUZLVlllZjdmbG5SNGxuUUJqVE1pZnBYb0NLVExzckNQb1JONWc1MV96bnFpZ091TGgxdFNZQ092S0VUQnBkN0NDNlVuWTB3Wm5xbnBKWEkxaTZfanU3Y2prVnBWT3A4Z3h2dGNYQ3lVYUt5VXY2Xw?oc=5",
+      "published_at": "2026-10-22T14:30:00+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "UNICEF and Gavi agree to cut Mosquirix malaria vaccine price by 40%",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZ25sWVNxMk5jeU4wd2V3YzhUTHBtZV9sSUJVVGUtWkxDMW1RUHJTV0lBR2s4Q3VqQ2gyTnFNN0NKSnlwVnBwUkNNMlhnYnRGaWEzcG1ncHViSVc4SG1Tem94ZzJxV1FyaXZ0VFlyTXFLVzNRNjExcFJPTzdnYlk5M2RHUzhDSFU1dGdNUEVPaHNUdkZrelplWGZab2xKd2pqcjVMeDBNSWptSzc0OVhnbjlzTTlVeWwwR2p1TmRMSFZaOXUtTXZYODNsZw?oc=5",
+      "published_at": "2026-10-22T14:29:44+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "AbbVie's skin disease drug reduces lesions in trial, company eyes weight-loss combination",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxON21JQ291ZXpadnFuWmV6UENnVDRfMjZjTFhCTGtTeGd3Qjh4M1FZVU5QRVBLWmkyUm8wNEdkdW1lZFotbGRmNlJ1LVNycGRaWHRXWTJ0WlhIQ1NBcFhOMVpqLTlOSkYwdG8wMGtGVTR1SWs0TGdaLXpRT3RpamJ6ZlV5X0lkZGtIMV9mNHB4blhqamJTLTRGbGtRdjRkOGpyTlYxSEtxNDJVLTdqM3drNEg0bFhOZlQ0X0dpcFdiRGVwTVJsN09GQ2JfMmdOLWVwajBlcHhlZUgtSEhH?oc=5",
+      "published_at": "2026-10-22T14:08:53+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "Virginia state Sen. L. Louise Lucas indicted on drug and money laundering charges",
+      "publisher": "CNN",
+      "publisher_url": "https://www.cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE80QWVMc1dFUVpBVm1SandJbHNHVGwzQzJWUmZIRTMwTWhJbWM2MHR0NGk2RHpzeG83ZVllTDYyT0hGS09uV3V3QTJkd2tIWnBUb1ItVkdURnJwTThfX240SmRibXRIYllfU3NmOEE2Z3ZIRXR0a2ppcHFGTGJOMTQ?oc=5",
+      "published_at": "2026-10-22T13:51:01+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Pharmalittle: We're reading about a U.S. rule on Chinese deals, Belgium refusing Mounjaro coverage, and more",
+      "publisher": "STAT",
+      "publisher_url": "https://www.statnews.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQjJOY0FUc0k2Z0Ryc0JldjdKOUwtVEs3elhZWXRxYXZoWEhxYzdrcmx2RHc5WTR5a2xYLXlWWFV5NGRsUjhNRWVVTUVKb3NlSlZFUjd5ODJwekhOOVNsVTlXYVZ1bmlZeWN4WkZUOHRIWm9fTUkxZVYtNmVmV3ZhbEdDTk1zSUlySW85OGNiMnNfUmdSV0xiT1dhZlRaU2hvNHRrbGExYllWUExqVUcxLQ?oc=5",
+      "published_at": "2026-10-22T13:43:55+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "The Biotech Growth Trust PLC - Net Asset Value(s) – Company Announcement",
+      "publisher": "Financial Times",
+      "publisher_url": "https://markets.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNkRrQXE3MFh1WnJSeUxGT1htNUFaMFVFSXd2c3dGb18zNmpKbHJsYkx6WE1WbnhKbFdtUWlTSVd2QXl3a3BIRE00dEwzVWZfV3hzN3dGZ19zQlRMdkVQN3E3blB3RV9CR0RzOFVVYXJBNHZwRVBkd1R0Z3JqVzNNbnItNFNpNUNPUUYtR3RMdnp5ZzVZ?oc=5",
+      "published_at": "2026-10-22T13:39:00+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "What to expect from the Moderna-Merck cancer vaccine data reveal",
+      "publisher": "STAT",
+      "publisher_url": "https://www.statnews.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbXNEQVpIMjcxOUNPQVA2SmlGMUhIblZycXUyUVFpUWlldDg2ci01UUJiQ3VCWHFuM085WnhmWlRiVHdaeG53NkZDRWV1b1lObDViNFZwVk9sbS1EQ29aVEVOMjM2SFJSMGNoZ1l1Y09HTHBUNkNXZmJoSFRXbjJiV0VOX2lCM0VkMHM4bVBaang4VnBjSFpFS3FEQmVPdWEzdDZXYjV5Sl9oLTdMblE?oc=5",
+      "published_at": "2026-10-22T13:38:55+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Cobertura de 13 medicamentos de alto costo iniciará en octubre de 2027",
+      "publisher": "El Dia.com.do",
+      "publisher_url": "https://eldia.com.do",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNS0lONnhxOElNZW5LYUxLOEhkUk9VNjJINUxKcndQYWFPUjdYU084alRWTHkzdmNsd1c3Mll0VDNUR1BFRlZidThYLWQ3bmRiTHZyb3NBME1ieWNhTUxXN3NMWHg3REFHaWNVaTh1VFlvbF9wSlM2YS10M1Rra3pnRWZzTUY5TGRxdDEtczlsa0Nsc3M1MW4w?oc=5",
+      "published_at": "2026-10-22T13:36:31+00:00",
+      "regions": [
+        "rd"
+      ]
+    },
+    {
+      "title": "FDA has finalized its guidance on apps related to drugs",
+      "publisher": "STAT",
+      "publisher_url": "https://www.statnews.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMXAyZ3Vwel8zaTZiNFB5V1RKTVBkVl9uYl84NHFFeWRMeGlGVUJqUHRBYVQxbnJxQlVsWjlUaVRnQzlZX2hyUlR1MzVYbUlxa0VZZWNaVC1qb1FOS0hpcXg2WVktdHNUZEFRM0RfaGxTcURPY3ZDVHB3U2FLSzdzZUhHX1Z6U19kWDhja0R4V0otWld0dUpDelA2T2VuQQ?oc=5",
+      "published_at": "2026-10-22T13:18:55+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
     {
       "title": "FDA rebukes Baxter over 'repeated' production stumbles in new warning letter",
       "publisher": "Fierce Pharma",
@@ -52,16 +168,6 @@
       "regions": [
         "global",
         "usa"
-      ]
-    },
-    {
-      "title": "SBC Medical Initiates Development of a DNA Methylation Test to Estimate Biological Age – Company Announcement",
-      "publisher": "Financial Times",
-      "publisher_url": "https://markets.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPR3hCM0FuRHplTW5FZDVnaEZNY1J2OEFYR2p0R0FrRlJzVXRLMGhnaVF4eUVwMUVGRGxTSEtkcnJYa1M5TEdtTTlpZG82M25PTURJTzR0X1JwWHk4MlZkV2ZsNkFKc2xhVjg5bG1hQkVDay1RZmZmZjFDek50Yl9wOGdBc3ZiSDQxZGR3SlA0cTBfMWZwdFpQMlliTHNna0hZeVZLdy1n?oc=5",
-      "published_at": "2026-10-22T13:00:00+00:00",
-      "regions": [
-        "europa"
       ]
     },
     {
@@ -81,6 +187,16 @@
       "publisher_url": "https://pharmaphorum.com",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSkZ6dFZZSDV4aVNPc0QyLVd2WFNQUDh0eGI5cnBYSzZEblUzN2ljYWk5bHNXWE00OG1sd3RoVVZrZUNjeGJQUXpoUU1nN0JPc3BRNzdvZ3JhR3l5TkNFMHp6UGNVQVByMHFjQXBZekE4c2JwTGtjSmpDZzRNZXpmbE5TU2U3bHBs?oc=5",
       "published_at": "2026-10-22T12:17:58+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "BioNTech, Gilead to test drug combination in advanced breast cancer trial",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcXBsNThudWZpUGNnRkxwaHBLN29kVDNMZmNxT19Ga2VGQTR2VHhRZV9OQnc2V0VHQlZTS3hET1NsV3M3UC1HZXllalFYOHdEa2JHazZjck9UVXFwamNTNjhjNHJXeVpuUGJNS2VCTVozTmdQOEpHMUI4bzI4ZklFQnRjdXFBdmRHUFhuWGNvRHVtbHlkUmNOOUxXMnFXUmNRVUdzaGZQX01LM0hUUUFDX3pqUlhrR2d0VGVWREpNTS1IejJybzR5ZzAxQ3p2MWNVbm5oag?oc=5",
+      "published_at": "2026-10-22T11:25:44+00:00",
       "regions": [
         "europa"
       ]

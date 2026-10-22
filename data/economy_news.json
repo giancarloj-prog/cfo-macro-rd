@@ -1,7 +1,7 @@
 {
   "date": "2026-10-22",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-22T13:18:19+00:00",
+  "checked_at": "2026-10-22T15:53:55+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -38,7 +38,7 @@
     "finance": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 4
     },
     "securities": {
       "ok": true,
@@ -48,7 +48,7 @@
     "economy": {
       "ok": true,
       "error": null,
-      "count": 5
+      "count": 6
     },
     "economist_andy": {
       "ok": true,
@@ -82,6 +82,38 @@
     }
   },
   "items": [
+    {
+      "title": "RD busca atraer inversión canadiense en tecnología, dispositivos médicos y manufactura avanzada",
+      "publisher": "Diario Libre",
+      "publisher_url": "https://www.diariolibre.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZE4xVnVxTS03aGtzbExXWUZhVXUyS3pyYURvZnEyQXdoaGJPRUxCM3RBT0VvY25WYVpnZ2RobTZwMWZ1WG5XdXEyZWFlQkdhbGYyRjNJeWFuUXY0YXlCZDE5YnV0UkJFMVVFdkhodzNUb1Q2RUJCNElYNUQ2cHNZN1JzY2VsTVRBMDZKaWMtSGdGTnJsZ0M1MktfNGRuM2YyZ3ZXOTVxQjQ5MEo2U1lRSEdSek1JeTEzU1RJZUREQlp2RFIwaGJFVtIBzgFBVV95cUxQcERyUUx5c29PUGtuT3ktbUJVbUNRdDgzU1VZek5DLWNqdjAyWlVHc2hyOWVlQnJtVWlmNHlSd3BFUWh3MUhIVFpncEdwWV84V0VJWmhFSFJLR1ZnbjdKQVJrQ2lsdXV1UWcwVzVqc1pPUEVJVVo5a2ZrVXZsSG5pRDVoRFMyOXZCTF9nUk1iTFNDZDVlSjFVV1VkdnA5MUtxSDZQMm9WbjgxNGV0UFhvUW8xcERPYVpMeEk3Q2RBM2pMQVRQUXlWUUdyOUJBZw?oc=5",
+      "published_at": "2026-10-22T15:08:00+00:00",
+      "topics": [
+        "economy"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "economy"
+      ]
+    },
+    {
+      "title": "RD solicitará inspección de EE.UU. para reanudar exportaciones de mango",
+      "publisher": "Acento",
+      "publisher_url": "https://acento.com.do",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE91VzdONDZRUnpySkQ4Mm9YWjEzc2hDQTlKRklVeEJNWlNKd01JYWJfMzJKa193bDMxSVFPZWZmN0pkTENqX094b18yMkozTTczV0NFWkJGcEZFWHFxdmhrZVpwVHZyUnJk0gFoQVVfeXFMT3VXN040NlFSenJKRDgyb1haMTNzaENBOUpGSVV4Qk1aU0p3TUlhYl8zMkprX3dsMzFJUU9lZmY3SmRMQ2pfT3hvXzIySjNNNzNXQ0VaQkZwRkVYcXF2aGtlWnBUdnJScmQ?oc=5",
+      "published_at": "2026-10-22T14:00:56+00:00",
+      "topics": [
+        "economy",
+        "finance"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "economy",
+        "finance"
+      ]
+    },
     {
       "title": "Haití necesitaría al menos 67 años para alcanzar el nivel económico dominicano, según economista",
       "publisher": "Diario Libre",
@@ -166,6 +198,21 @@
       ]
     },
     {
+      "title": "Envejecimiento poblacional presiona la sostenibilidad de los sistemas de pensiones, según estudio",
+      "publisher": "Acento",
+      "publisher_url": "https://acento.com.do",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNU0l4VEVsakhDRXB6OHdHUmNEZEZLUDBiYV9IaEY2MEVVOFNzS1lQQ0ZIblRBczhPc2ZmckMzaE5xWHJWeUk4QmNfSlFzWVU2Y0lOSVBLeF9aMS1jaUE3VHFsWmdpczlaZm1XREpSVnktTGh5ZXdKUzNuYWNIa0lHOGJtcXl5eTlLYXBVRVFsSVNQV25HeHZPTTJDeExubTlZMHNBZHV1bkFvWndfTnpaLUxMVW5tbVZrRURsXzQ2bzhTQ1lkQzJ0QlF0SFF3eHNVU2hkakNma9IB1wFBVV95cUxNU0l4VEVsakhDRXB6OHdHUmNEZEZLUDBiYV9IaEY2MEVVOFNzS1lQQ0ZIblRBczhPc2ZmckMzaE5xWHJWeUk4QmNfSlFzWVU2Y0lOSVBLeF9aMS1jaUE3VHFsWmdpczlaZm1XREpSVnktTGh5ZXdKUzNuYWNIa0lHOGJtcXl5eTlLYXBVRVFsSVNQV25HeHZPTTJDeExubTlZMHNBZHV1bkFvWndfTnpaLUxMVW5tbVZrRURsXzQ2bzhTQ1lkQzJ0QlF0SFF3eHNVU2hkakNmaw?oc=5",
+      "published_at": "2026-10-22T06:00:46+00:00",
+      "topics": [
+        "finance"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "finance"
+      ]
+    },
+    {
       "title": "Banco Central obtiene un premio gestión proyectos",
       "publisher": "El Dia.com.do",
       "publisher_url": "https://eldia.com.do",
@@ -211,6 +258,7 @@
       "economists": [],
       "economist_match": null,
       "searches": [
+        "finance",
         "fiscal"
       ]
     }
