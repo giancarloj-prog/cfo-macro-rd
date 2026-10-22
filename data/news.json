@@ -1,7 +1,7 @@
 {
   "date": "2026-10-22",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-22T15:53:56+00:00",
+  "checked_at": "2026-10-22T16:03:33+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -12,34 +12,34 @@
   },
   "source_health": {
     "rd": {
-      "ok": true,
-      "error": null,
-      "count": 1
+      "ok": false,
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28medicamentos+OR+farmac%C3%A9utica+OR+farmacia+OR+vacunas%29+%28site%3Alistindiario.com+OR+site%3Adiariolibre.com+OR+site%3Aacento.com.do%29++after%3A2026-10-21+before%3A2026-10-24&hl=es-419&gl=DO&ceid=DO%3Aes-419; 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28medicamentos+OR+farmac%C3%A9utica+OR+farmacia+OR+vacunas%29+%28site%3Aeldia.com.do+OR+site%3Aelnuevodiario.com.do+OR+site%3Ahoy.com.do%29++after%3A2026-10-21+before%3A2026-10-24&hl=es-419&gl=DO&ceid=DO%3Aes-419; 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28medicamentos+OR+farmac%C3%A9utica+OR+farmacia+OR+vacunas%29+%28site%3Aelcaribe.com.do%29++after%3A2026-10-21+before%3A2026-10-24&hl=es-419&gl=DO&ceid=DO%3Aes-419",
+      "count": 0
     },
     "centroamerica": {
-      "ok": true,
-      "error": null,
+      "ok": false,
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28medicamentos+OR+farmac%C3%A9utica+OR+farmacia+OR+vacunas%29+%28site%3Aprensalibre.com+OR+site%3Alahora.gt+OR+site%3Anacion.com%29++after%3A2026-10-21+before%3A2026-10-24&hl=es-419&gl=MX&ceid=MX%3Aes-419; 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28medicamentos+OR+farmac%C3%A9utica+OR+farmacia+OR+vacunas%29+%28site%3Acrhoy.com+OR+site%3Alaprensagrafica.com+OR+site%3Aelsalvador.com%29++after%3A2026-10-21+before%3A2026-10-24&hl=es-419&gl=MX&ceid=MX%3Aes-419; 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28medicamentos+OR+farmac%C3%A9utica+OR+farmacia+OR+vacunas%29+%28site%3Aelmundo.sv+OR+site%3Alaprensa.hn+OR+site%3Aelheraldo.hn%29++after%3A2026-10-21+before%3A2026-10-24&hl=es-419&gl=MX&ceid=MX%3Aes-419; 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28medicamentos+OR+farmac%C3%A9utica+OR+farmacia+OR+vacunas%29+%28site%3Aprensa.com+OR+site%3Alaestrella.com.pa+OR+site%3Alaprensani.com%29++after%3A2026-10-21+before%3A2026-10-24&hl=es-419&gl=MX&ceid=MX%3Aes-419; 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28medicamentos+OR+farmac%C3%A9utica+OR+farmacia+OR+vacunas%29+%28site%3Aconfidencial.digital%29++after%3A2026-10-21+before%3A2026-10-24&hl=es-419&gl=MX&ceid=MX%3Aes-419",
       "count": 0
     },
     "mexico": {
-      "ok": true,
-      "error": null,
-      "count": 1
+      "ok": false,
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28medicamentos+OR+farmac%C3%A9utica+OR+farmacia+OR+vacunas%29+%28site%3Aeluniversal.com.mx+OR+site%3Aeleconomista.com.mx+OR+site%3Aelfinanciero.com.mx%29++after%3A2026-10-21+before%3A2026-10-24&hl=es-419&gl=MX&ceid=MX%3Aes-419; 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28medicamentos+OR+farmac%C3%A9utica+OR+farmacia+OR+vacunas%29+%28site%3Amilenio.com+OR+site%3Aexpansion.mx+OR+site%3Aforbes.com.mx%29++after%3A2026-10-21+before%3A2026-10-24&hl=es-419&gl=MX&ceid=MX%3Aes-419",
+      "count": 0
     },
     "usa": {
-      "ok": true,
-      "error": null,
-      "count": 9
+      "ok": false,
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28pharma+OR+drug+OR+biotech+OR+pharmaceutical+OR+medicine%29+%28site%3Areuters.com+OR+site%3Aapnews.com+OR+site%3Acnn.com%29+%28FDA+OR+US+OR+USA+OR+%22United+States%22+OR+American%29+after%3A2026-10-21+before%3A2026-10-24&hl=en-US&gl=US&ceid=US%3Aen; 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28pharma+OR+drug+OR+biotech+OR+pharmaceutical+OR+medicine%29+%28site%3Awsj.com+OR+site%3Acnbc.com+OR+site%3Anytimes.com%29+%28FDA+OR+US+OR+USA+OR+%22United+States%22+OR+American%29+after%3A2026-10-21+before%3A2026-10-24&hl=en-US&gl=US&ceid=US%3Aen; 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28pharma+OR+drug+OR+biotech+OR+pharmaceutical+OR+medicine%29+%28site%3Astatnews.com+OR+site%3Afiercepharma.com+OR+site%3Abiopharmadive.com%29+%28FDA+OR+US+OR+USA+OR+%22United+States%22+OR+American%29+after%3A2026-10-21+before%3A2026-10-24&hl=en-US&gl=US&ceid=US%3Aen",
+      "count": 0
     },
     "europa": {
-      "ok": true,
-      "error": null,
-      "count": 13
+      "ok": false,
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28pharma+OR+drug+OR+biotech+OR+pharmaceutical+OR+medicine%29+%28site%3Areuters.com+OR+site%3Abbc.com+OR+site%3Abbc.co.uk%29+%28Europe+OR+Europa+OR+European+OR+EU+OR+EMA+OR+UK%29+after%3A2026-10-21+before%3A2026-10-24&hl=en-US&gl=US&ceid=US%3Aen; 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28pharma+OR+drug+OR+biotech+OR+pharmaceutical+OR+medicine%29+%28site%3Aft.com+OR+site%3Atheguardian.com+OR+site%3Aeuronews.com%29+%28Europe+OR+Europa+OR+European+OR+EU+OR+EMA+OR+UK%29+after%3A2026-10-21+before%3A2026-10-24&hl=en-US&gl=US&ceid=US%3Aen; 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28pharma+OR+drug+OR+biotech+OR+pharmaceutical+OR+medicine%29+%28site%3Adw.com+OR+site%3Aelpais.com+OR+site%3Aelmundo.es%29+%28Europe+OR+Europa+OR+European+OR+EU+OR+EMA+OR+UK%29+after%3A2026-10-21+before%3A2026-10-24&hl=en-US&gl=US&ceid=US%3Aen; 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28pharma+OR+drug+OR+biotech+OR+pharmaceutical+OR+medicine%29+%28site%3Aeldiario.es+OR+site%3Apharmaphorum.com%29+%28Europe+OR+Europa+OR+European+OR+EU+OR+EMA+OR+UK%29+after%3A2026-10-21+before%3A2026-10-24&hl=en-US&gl=US&ceid=US%3Aen",
+      "count": 0
     },
     "global": {
-      "ok": true,
-      "error": null,
-      "count": 10
+      "ok": false,
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28pharma+OR+drug+OR+biotech+OR+pharmaceutical+OR+medicine%29+%28site%3Areuters.com+OR+site%3Aapnews.com+OR+site%3Acnn.com%29++after%3A2026-10-21+before%3A2026-10-24&hl=en-US&gl=US&ceid=US%3Aen; 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28pharma+OR+drug+OR+biotech+OR+pharmaceutical+OR+medicine%29+%28site%3Awsj.com+OR+site%3Aft.com+OR+site%3Abbc.com%29++after%3A2026-10-21+before%3A2026-10-24&hl=en-US&gl=US&ceid=US%3Aen; 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28pharma+OR+drug+OR+biotech+OR+pharmaceutical+OR+medicine%29+%28site%3Atheguardian.com+OR+site%3Astatnews.com+OR+site%3Afiercepharma.com%29++after%3A2026-10-21+before%3A2026-10-24&hl=en-US&gl=US&ceid=US%3Aen; 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28pharma+OR+drug+OR+biotech+OR+pharmaceutical+OR+medicine%29+%28site%3Abiopharmadive.com%29++after%3A2026-10-21+before%3A2026-10-24&hl=en-US&gl=US&ceid=US%3Aen",
+      "count": 0
     }
   },
   "items": [

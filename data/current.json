@@ -6,70 +6,70 @@
       "value": 61.3699,
       "period": "2026-10-21",
       "source": "BCRD",
-      "verified_at": "2026-10-22T15:52:40+00:00",
+      "verified_at": "2026-10-22T16:01:42+00:00",
       "url": "https://www.bancentral.gov.do/"
     },
     "usd_dop_buy": {
       "value": 60.9812,
       "period": "2026-10-21",
       "source": "BCRD",
-      "verified_at": "2026-10-22T15:52:40+00:00",
+      "verified_at": "2026-10-22T16:01:42+00:00",
       "url": "https://www.bancentral.gov.do/"
     },
     "active_rate": {
       "value": 13.65,
       "period": "2026-09",
       "source": "BCRD",
-      "verified_at": "2026-10-22T15:52:40+00:00",
+      "verified_at": "2026-10-22T16:01:42+00:00",
       "url": "https://www.bancentral.gov.do/"
     },
     "passive_rate": {
       "value": 6.97,
       "period": "2026-09",
       "source": "BCRD",
-      "verified_at": "2026-10-22T15:52:40+00:00",
+      "verified_at": "2026-10-22T16:01:42+00:00",
       "url": "https://www.bancentral.gov.do/"
     },
     "interbank_rate": {
       "value": 7.17,
       "period": "2026-09",
       "source": "BCRD",
-      "verified_at": "2026-10-22T15:52:40+00:00",
+      "verified_at": "2026-10-22T16:01:42+00:00",
       "url": "https://www.bancentral.gov.do/"
     },
     "policy_rate": {
       "value": 5.5,
       "period": "2026-10",
       "source": "BCRD",
-      "verified_at": "2026-10-22T15:52:40+00:00",
+      "verified_at": "2026-10-22T16:01:42+00:00",
       "url": "https://www.bancentral.gov.do/"
     },
     "inflation_yoy": {
       "value": 5.12,
       "period": "2026-09",
       "source": "BCRD",
-      "verified_at": "2026-10-22T15:52:40+00:00",
+      "verified_at": "2026-10-22T16:01:42+00:00",
       "url": "https://www.bancentral.gov.do/"
     },
     "core_inflation_yoy": {
       "value": 4.61,
       "period": "2026-09",
       "source": "BCRD",
-      "verified_at": "2026-10-22T15:52:40+00:00",
+      "verified_at": "2026-10-22T16:01:42+00:00",
       "url": "https://www.bancentral.gov.do/"
     },
     "imae_yoy": {
       "value": 3.8,
       "period": "2026-08",
       "source": "BCRD",
-      "verified_at": "2026-10-22T15:52:40+00:00",
+      "verified_at": "2026-10-22T16:01:42+00:00",
       "url": "https://www.bancentral.gov.do/"
     },
     "private_credit_yoy": {
       "value": 8.1,
       "period": "2026-09",
       "source": "BCRD",
-      "verified_at": "2026-10-22T15:52:40+00:00",
+      "verified_at": "2026-10-22T16:01:42+00:00",
       "url": "https://www.bancentral.gov.do/"
     },
     "gross_reserves_usd_mm": {
@@ -81,49 +81,49 @@
       "value": 2.93,
       "period": "2026-09",
       "source": "BCRD",
-      "verified_at": "2026-10-22T15:52:40+00:00",
+      "verified_at": "2026-10-22T16:01:42+00:00",
       "url": "https://www.bancentral.gov.do/"
     },
     "inflation_monthly": {
       "value": 0.33,
       "period": "2026-09",
       "source": "BCRD",
-      "verified_at": "2026-10-22T15:52:40+00:00",
+      "verified_at": "2026-10-22T16:01:42+00:00",
       "url": "https://www.bancentral.gov.do/"
     },
     "imae_ytd": {
       "value": 4.5,
       "period": "2026-08",
       "source": "BCRD",
-      "verified_at": "2026-10-22T15:52:40+00:00",
+      "verified_at": "2026-10-22T16:01:42+00:00",
       "url": "https://www.bancentral.gov.do/"
     },
     "gross_reserves": {
       "value": 15239.9,
       "period": "2026-09",
       "source": "BCRD",
-      "verified_at": "2026-10-22T15:52:40+00:00",
+      "verified_at": "2026-10-22T16:01:42+00:00",
       "url": "https://www.bancentral.gov.do/"
     },
     "net_reserves": {
       "value": 15235.2,
       "period": "2026-09",
       "source": "BCRD",
-      "verified_at": "2026-10-22T15:52:40+00:00",
+      "verified_at": "2026-10-22T16:01:42+00:00",
       "url": "https://www.bancentral.gov.do/"
     },
     "gdp_growth": {
       "value": 2.1,
       "period": "2025",
       "source": "BCRD",
-      "verified_at": "2026-10-22T15:52:40+00:00",
+      "verified_at": "2026-10-22T16:01:42+00:00",
       "url": "https://www.bancentral.gov.do/"
     },
     "current_account_gdp": {
       "value": -1.4,
       "period": "2025",
       "source": "BCRD",
-      "verified_at": "2026-10-22T15:52:40+00:00",
+      "verified_at": "2026-10-22T16:01:42+00:00",
       "url": "https://www.bancentral.gov.do/"
     },
     "itbis_total_operations": {
@@ -217,7 +217,7 @@
       "source": "Cálculo"
     }
   },
-  "automation_check_utc": "2026-10-22T15:52:40+00:00",
+  "automation_check_utc": "2026-10-22T16:01:42+00:00",
   "source_health": {
     "bcrd": {
       "ok": true,

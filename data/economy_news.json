@@ -1,7 +1,7 @@
 {
   "date": "2026-10-22",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-22T15:53:55+00:00",
+  "checked_at": "2026-10-22T16:03:19+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -21,63 +21,63 @@
   },
   "source_health": {
     "bcrd": {
-      "ok": true,
-      "error": null,
-      "count": 3
+      "ok": false,
+      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28%22Banco+Central%22+OR+BCRD+OR+%22pol%C3%ADtica+monetaria%22%29+%28%22Rep",
+      "count": 0
     },
     "fiscal": {
-      "ok": true,
-      "error": null,
-      "count": 3
+      "ok": false,
+      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28Hacienda+OR+DIGEPRES+OR+%22deuda+p%C3%BAblica%22+OR+%22presupuesto+nacion",
+      "count": 0
     },
     "dgii": {
-      "ok": true,
-      "error": null,
+      "ok": false,
+      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28DGII+OR+ITBIS+OR+%22reforma+fiscal%22+OR+%22impuestos+internos%22%29+%28%",
       "count": 0
     },
     "finance": {
-      "ok": true,
-      "error": null,
-      "count": 4
+      "ok": false,
+      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28banca+OR+%22sector+financiero%22+OR+%22superintendencia+de+bancos%22+OR+%",
+      "count": 0
     },
     "securities": {
-      "ok": true,
-      "error": null,
+      "ok": false,
+      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28%22mercado+de+valores%22+OR+SIMV+OR+%22puestos+de+bolsa%22+OR+%22bolsa+de",
       "count": 0
     },
     "economy": {
-      "ok": true,
-      "error": null,
-      "count": 6
+      "ok": false,
+      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28econom%C3%ADa+OR+inflaci%C3%B3n+OR+PIB+OR+empleo+OR+remesas+OR+exportacio",
+      "count": 0
     },
     "economist_andy": {
-      "ok": true,
-      "error": null,
+      "ok": false,
+      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28%22Andy+Dauhajre%22+OR+%22Andy+Dahajre%22+OR+%22Andy+Dajuhare%22+OR+%22An",
       "count": 0
     },
     "economist_jaime": {
-      "ok": true,
-      "error": null,
+      "ok": false,
+      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28%22Jaime+Aristy%22+OR+%22Jaime+Aristy+Escuder%22%29+after%3A2026-10-21+be",
       "count": 0
     },
     "economist_juan_ariel": {
-      "ok": true,
-      "error": null,
+      "ok": false,
+      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28%22Juan+Ariel+Jim%C3%A9nez%22+OR+%22Juan+Ariel+Jimenez%22%29+after%3A2026",
       "count": 0
     },
     "economist_raul": {
-      "ok": true,
-      "error": null,
+      "ok": false,
+      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28%22Ra%C3%BAl+Ovalle%22+OR+%22Raul+Ovalle%22%29+after%3A2026-10-21+before%",
       "count": 0
     },
     "economist_jose_luis": {
-      "ok": true,
-      "error": null,
+      "ok": false,
+      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28%22Jos%C3%A9+Luis+de+Ram%C3%B3n%22+OR+%22Jose+Luis+de+Ramon%22%29+after%3",
       "count": 0
     },
     "economist_nassim": {
-      "ok": true,
-      "error": null,
+      "ok": false,
+      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28%22Nassim+Alemany%22%29+after%3A2026-10-21+before%3A2026-10-23&hl=es-419&",
       "count": 0
     }
   },
