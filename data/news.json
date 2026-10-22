@@ -1,7 +1,7 @@
 {
   "date": "2026-10-21",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-21T20:47:37+00:00",
+  "checked_at": "2026-10-22T00:21:47+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -19,7 +19,7 @@
     "centroamerica": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 1
     },
     "mexico": {
       "ok": true,
@@ -29,22 +29,63 @@
     "usa": {
       "ok": true,
       "error": null,
-      "count": 13
+      "count": 15
     },
     "europa": {
       "ok": true,
       "error": null,
-      "count": 14
+      "count": 17
     },
     "global": {
       "ok": true,
       "error": null,
-      "count": 12
+      "count": 15
     }
   },
   "items": [
     {
+      "title": "Honduras lanza carnet digital para consultar el historial de vacunación",
+      "publisher": "www.laprensa.hn",
+      "publisher_url": "https://www.laprensa.hn",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSkdCcU10aDVZTU42Y19Kd3QzN3hmM04xMk5sMWQwTnZDM0ZGaVgzX2VjQzdIdENIQjFoZVFvbXJ0cEFZU001OVo3XzZPOFpjTUNRS2FiTU5rMFY1R0hKTUU0Mm50eF9ZdzJnUTZCQUo2LU1lNUFVT25sVnRkb19Cb1Q0ZWlqYXZUMGpUa1g5dW0tcWg4N3UwRUpxbFpLckhHaEdUbFM4TQ?oc=5",
+      "published_at": "2026-10-21T23:51:22+00:00",
+      "regions": [
+        "centroamerica"
+      ]
+    },
+    {
+      "title": "China’s drugmakers move into the big league",
+      "publisher": "Financial Times",
+      "publisher_url": "https://www.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNU1odlNIWlRYcGFNOTNVcF9kanhjRWFtelhmYl9SV1lneEFpdG1McEprNWlyVnNoc0puUGY4OXpYc3EtRHRsVnB3M1lWSDA4dGxPQTJiRHRlQVFvTEpmQ2ZvczhHdG00cDZsTDhGSHRYZWpka0c0c19JY0Jzejl0eWZDMGI?oc=5",
+      "published_at": "2026-10-21T23:01:08+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "Supernus Announces Orphan Drug Exclusivity for ONAPGO™ (apomorphine HCl)",
+      "publisher": "Financial Times",
+      "publisher_url": "https://markets.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWFEwMU9xOGg1cEZ3UDUyVHFvRnFTWGhoOGlCeW9kQ0xIOEF1SW85YzJPVkJ3QVhkU3pKYlFUQ3M3aHBCWDZ0R1dlLUJWejZrQ2t1dGJ2MDV6bGJHMnY1UE5raDVjaDRJSVNpc1RWU3FqcHBYcl81Zkd4Nno1R0M2ZDlsZXJ2UzcwdHpDY0w3R0ZNbXRTSTlr?oc=5",
+      "published_at": "2026-10-21T21:45:00+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
       "title": "Ex-prosecutor charged with treason in Mexico over US drug raid",
+      "publisher": "BBC",
+      "publisher_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BWGxsTGJ3WllkdTlhbnJDOTdidkJTVUZRLW85NHEwMnB3dXFwQzdsOWt6NjRIZXFCR3FKZnJrY25vb0RmSGswSTJmLXB6WjF0UW84SGlZX00ybmc?oc=5",
+      "published_at": "2026-10-21T20:19:51+00:00",
+      "regions": [
+        "europa",
+        "global"
+      ]
+    },
+    {
+      "title": "Mexico ex-prosecutor charged with treason over US drug raid",
       "publisher": "BBC",
       "publisher_url": "https://www.bbc.co.uk",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5KWXFnYWlMUzBDV1hQdnlaV0lIaFFtSVU0S2lRTEpIQkhrcjRvVEhER0tnZmNtVzBtUDRGWmVBU2NyMllkczhrci10RUJGZmdJT2VnMUI2blJINzlURVE?oc=5",
@@ -74,16 +115,6 @@
       ]
     },
     {
-      "title": "La vacuna contra la tuberculosis podría ayudar a combatir cambios cerebrales asociados a la demencia",
-      "publisher": "Diario Libre",
-      "publisher_url": "https://www.diariolibre.com",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcnYzclFEc25DbGRrNldvOG9hTDJqVk5GdmxpTWFGS3lyYnpSOFh5dkJPSXBGWUNKV2p5djhJZzgzNk9zLUJQMlpyM0FsM2p3alBsWG1YRWpOa3Y0bGNJbkpvUFhQdzIwYVFpbkoyd2VBdWh3R0lLcHJrQkhGUjdYTzJxQk5xVERoXy0xdVY4eVA2ZVNicnRseTdvUDBoZ1lTNVJpSWlEZEQySUxCVUtBckxQWS10SkhPLVlSenlYR0ctMl9qdmJiR1R0RdIB0AFBVV95cUxQNEtaTGU2U0NRYzU5SnhmdW5aMW1Jb3kwREhfSEhYeXluM3hEaGVJVFBzTzNoWWthQ0hleW1iU29WSy1nM0ZUaHlEVk10ODRoZXQ4WE9BeFZ5V1FjNTJLZkg4STc3bVN1S1A2NHozSVdOWTRocEtuTTVNUzltV0k4dVZ0aEpHc3YyNGxvbTFBOWNIQTNzN3B4WEJHeVlycTRkZk5hLVV2X1lwQUxXZVBCZkVLbFdKemhXSThEcWRINFdCeldqcHhzVllid3l4cTRu?oc=5",
-      "published_at": "2026-10-21T19:16:32+00:00",
-      "regions": [
-        "rd"
-      ]
-    },
-    {
       "title": "Aplicación de vacunas temporada invernal",
       "publisher": "El Economista",
       "publisher_url": "https://www.eleconomista.com.mx",
@@ -91,6 +122,49 @@
       "published_at": "2026-10-21T19:04:41+00:00",
       "regions": [
         "mexico"
+      ]
+    },
+    {
+      "title": "Novo valuation beats Tesla on experimental obesity drug data",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5tTnAtV1ZzRnBqUDc1MzJFNGxDTWpQR25QX1ZTUDdsRTJaM0ZmRUFWREdfUnRubUJqZ2JmeXczQjUtWVdydkNyTzFmQWYzN1FfRS1XUEtGbEN1SW1qd0gyNWs3clFaTTg?oc=5",
+      "published_at": "2026-10-21T18:29:19+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "La vacuna contra la tuberculosis podría ayudar a combatir cambios cerebrales asociados a la demencia",
+      "publisher": "Diario Libre",
+      "publisher_url": "https://www.diariolibre.com",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPS1VNc2Y3RkcwQU5qVFRsdHpHaTctVzFGdmx5QjBuSkJzcXdTTGNuS2x1cGJWYVdRUGc4QjFuWUwxV19JQUUxVW5qT21uV3pKdUh6MEJfajd6NklTSlhJeHNmUmFtQzExYklwczhwUEJxclYwMzVjdHJ6VW5fdmRfaTc4MmEzZmlhRF92MlI2cnRjTUtPRjR0eHZvSGVCRWJGT1JYYy1VeFFyeWNVcDVYRWhKS2RHZDRuVUtnOEVDSlItNFNBTGhsaGJ6Z3jSAdIBQVVfeXFMT0F3VTlLcnZsWWRpZmZCVFpDYmhVV3pwNWlPeVR5WmZZcmloaEJDLXRFVFlrY1UwT0E4SldBN3hnRUlEbG9SLVlxWmhRQkI4aWtaeXBBN0dZWXludVJqNWNSQ2VYdjQ2c3o0SUFqVUo3T050TFU5cmNfMHJVVms1U05yekprX1VTcmZJV0ZaVjM3d2xqd2kwck1FS2xSeUo1eXoxTXYwc00wbVZmU19xdjJnemFVU0RDdHdheFRIdkhRT1RNM041Q3RRLVJ5Szdac0dn?oc=5",
+      "published_at": "2026-10-21T18:14:00+00:00",
+      "regions": [
+        "rd"
+      ]
+    },
+    {
+      "title": "Mexico levies rare treason charge against ex-official over US drug operation",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNmZzZFdaWTB1a09QejBFU3ZRamh3NEk3OURSbmdwYm9NS29BaTY0S0NRQ1ZBaW1GU0ZScmhpR0dGdHQ0S1I1TW9pd1Axb1FpLWk1ZUZIdjI4MWZ6WEhQVmNkYnlFa284OTFDT3l1Q2c1WlFYVDNCZ3RCZmY3MFJ0LThxSGhpZ2dXS05kNXJabUhsb2didE9ab1JMNGpHem9vZkFGOHFxa3dJanU4TWFsREZfYmUweldC?oc=5",
+      "published_at": "2026-10-21T17:51:24+00:00",
+      "regions": [
+        "europa",
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Direct-to-patient pharma programs transform drug access: survey",
+      "publisher": "Fierce Pharma",
+      "publisher_url": "https://www.fiercepharma.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQV3BmaUlzYjR2b3J5d1dTTG8wajIwWGRwMDYyY21sdHF3SHhSWFZqUktPRGo1eVFfMkU3ejM4ZGhSNnBSUHB4c21UbkJOamtCSnF1S1pIdkVOaDZ0Ml80Zkt5aTYtVzRORllVYU1mZ2ZETFo0VXN4WWJWME1BVnVLejZkMWI5MWdfd3FDVUVBWl9fRjlSTHFpakdOdEtzVWc?oc=5",
+      "published_at": "2026-10-21T17:24:51+00:00",
+      "regions": [
+        "global",
+        "usa"
       ]
     },
     {
@@ -288,26 +362,6 @@
       "publisher_url": "https://pharmaphorum.com",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNek55OHdRbWRMV1I2dEgxQnFuS2JIZXQyNG9rQXVRZFVYZC12b1dZME1DdmdwSGNSYzF5Q1JqQUhOVHhqa012N3V0M3FUcFdZZ0J6NHdjcG56dEI1azVyN3NkV25UMzlOOHAzZHdzTnIzRm5mQzl4YW5aNG15dExvVXBzcGZHc1N5aGZmQVZNaw?oc=5",
       "published_at": "2026-10-21T10:38:38+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "Mirfield drug dealer ordered to repay more than £250,000",
-      "publisher": "BBC",
-      "publisher_url": "https://www.bbc.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5RY0FyZzNwblVtdzNySUg4b3AwQUhSSmxzWnV4dWlGQVZiTXhDTWNhc0l1V1lWaHgwWVhTMmJFdmFIOXdEUjVNTzFBSlRUdkx2ZlJ4bWVnbE1jd0ZIQ2c?oc=5",
-      "published_at": "2026-10-21T08:57:05+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "Chen Qiyu: Building on \"Affordability & Reliability\", Fosun Expands the Global Reach of Chinese Innovative Drugs",
-      "publisher": "Financial Times",
-      "publisher_url": "https://markets.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNEp6OUFxSWtadm04N1pFSEFJT3V3aUlDMUhjeldtRVNYbzFKQ1pveFRyLXUyRWU1bjBmdFRreVRnM0x6X19LUkcteDRHbjBXRnpYVTN0bjlnS2d5VFd4UkVoek5wLUtCMkVpUXJIU0hudnkzZzByM2VKQ3VXbjZyaDNEbl96a0w5bGtMQ0lTb19lQjFMX1FIRQ?oc=5",
-      "published_at": "2026-10-21T08:45:00+00:00",
       "regions": [
         "europa"
       ]

@@ -1,7 +1,7 @@
 {
   "date": "2026-10-21",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-21T20:47:36+00:00",
+  "checked_at": "2026-10-22T00:21:46+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -28,7 +28,7 @@
     "fiscal": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 0
     },
     "dgii": {
       "ok": true,
@@ -38,7 +38,7 @@
     "finance": {
       "ok": true,
       "error": null,
-      "count": 2
+      "count": 4
     },
     "securities": {
       "ok": true,
@@ -48,7 +48,7 @@
     "economy": {
       "ok": true,
       "error": null,
-      "count": 3
+      "count": 5
     },
     "economist_andy": {
       "ok": true,
@@ -82,6 +82,67 @@
     }
   },
   "items": [
+    {
+      "title": "Sector de bebidas no alcohólicas genera 63,190 empleos y aporta RD$ 15,605 millones en impuestos",
+      "publisher": "Acento",
+      "publisher_url": "https://acento.com.do",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPallKMk16Y2J5NW5ndVhNTkdfY2x2NGZvY3lIOHJKMk45OEh2S0FTTHNZU2J2NjAzazBCMmpPNEIzUkV6ZlltQW02V3dMU1U1Zkl4SDVyV09QRUtuMEF3dVpRRkFEWDNKd1RHWEtKY0tMZ01GMUJrdTF1Q3p3S1RxdUsxd2tRQUpLTjctaVFqTlVMZ2ttZm9IVXVJMk4wMGNtMHgyelRsMHBLdWxOM2xqSGJyQ0dPRkFRc0lCNElKUnZlNFNuMEIzVWFVS3ZDZmJ5UWtN0gHTAUFVX3lxTE9qWUoyTXpjYnk1bmd1WE1OR19jbHY0Zm9jeUg4ckoyTjk4SHZLQVNMc1lTYnY2MDNrMEIyak80QjNSRXpmWW1BbTZXd0xTVTVmSXhINXJXT1BFS24wQXd1WlFGQURYM0p3VEdYS0pjS0xnTUYxQmt1MXVDendLVHF1SzF3a1FBSktONy1pUWpOVUxna21mb0hVdUkyTjAwY20weDJ6VGwwcEt1bE4zbGpIYnJDR09GQVFzSUI0SUpSdmU0U24wQjNVYVVLdkNmYnlRa00?oc=5",
+      "published_at": "2026-10-21T22:00:51+00:00",
+      "topics": [
+        "dgii",
+        "finance"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "finance"
+      ]
+    },
+    {
+      "title": "Raquel Peña participa en encuentro empresarial sobre economía dominicana",
+      "publisher": "El Caribe",
+      "publisher_url": "https://www.elcaribe.com.do",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNU3BzcHNxei1zZEtOUGRRN0tTUUZSdHBTckhYcGJaYzI2enVzUlJQWTdZaTMyS2FJcnFNZEJocGhIOEJ0Z090NjhMTUNtb2VDUmFLM0hJY2xVWmJkTHV0cjVxbTdxdHFIdXJqaVZFMUozeVFWWGdZeXpCZzVpU0Z6LUxHUU9KWnZQQ1lnd1hOZWFlTG9JTS1wNEpLblc4OVdaTVhjcUFQLTVHM3dzaGRwUDloNlAwUQ?oc=5",
+      "published_at": "2026-10-21T21:28:22+00:00",
+      "topics": [
+        "economy"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "economy"
+      ]
+    },
+    {
+      "title": "Vicepresidenta Raquel Peña participa en encuentro empresarial abordó la economía del país",
+      "publisher": "Diario Libre",
+      "publisher_url": "https://www.diariolibre.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQ2gzeWMtd1p1YlBhdklIUmo4TjlXMEJRdHp0eW1YUkpwV0NNQ0o5ZUwyZVJxUXhXRzJhVkFjcXRvS3I5Rm1fZnlCamhlNDRhVE81akFKd1pXNUIwUlFMZTkyam1OZEl0bjNleEc4cWJMblFFZ0FWSWJRdGpCMUcwVzdCTnI5a0I3TDF2WmVTUjNBcFhhdGw3SUVhLVFsaWExMDZHdnVlUElSQWlWREx1TlczUk5YR0VLc0dKaXdYS1hjUnZoYmRabWNkc9IB0AFBVV95cUxQQWtYd0FKRjZlcmdqdW90VGxDeWJYeTBwVzZTRDZEenVhQ0J6cWdBZkFybGwxZ1EwT2x0TjZBc05YMS1TZVljMElpbVJjZy1YakhsbndpazBPVHVkZ25hUDJhSXhsSWRZWllvNV92ZXM0SE1Wbm9WTkpZekdHczRDa0RUakFuUHRiVXhwaWlON0h6QkRCUjQ0ZkJRZnFwa2o0Z3JSaW5NWmRGbF9xb0lGOHRubXVkekR2aU95SU1jM1ZmTVhDT0NRdFl0RkhxTjNq?oc=5",
+      "published_at": "2026-10-21T21:23:00+00:00",
+      "topics": [
+        "economy"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "economy"
+      ]
+    },
+    {
+      "title": "ProDominicana se integra a red regional del BID para atraer inversiones",
+      "publisher": "Acento",
+      "publisher_url": "https://acento.com.do",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPU2ZmYkJpYTBOeFBQa25QYVdOZndoYlM3UUF1OVdnRk83ZW9DVUR0VmlLOFl6UDZ1dFNGWHloZnk3anpEMjVwcDZGVC1TV1RWcWtoMkx6NzNfTWNfQUFSOFlvYVRqWWhLdFp3SkdiV2NQOUs1UzNfWmw3VXNQbGpKeGdmdnVCVmRPa0pYWVVPOF9sNUtWY1pScThEc2xudnRGQUozVGFINURFZzF1LWZVdzlydm9YUdIBtgFBVV95cUxPU2ZmYkJpYTBOeFBQa25QYVdOZndoYlM3UUF1OVdnRk83ZW9DVUR0VmlLOFl6UDZ1dFNGWHloZnk3anpEMjVwcDZGVC1TV1RWcWtoMkx6NzNfTWNfQUFSOFlvYVRqWWhLdFp3SkdiV2NQOUs1UzNfWmw3VXNQbGpKeGdmdnVCVmRPa0pYWVVPOF9sNUtWY1pScThEc2xudnRGQUozVGFINURFZzF1LWZVdzlydm9YUQ?oc=5",
+      "published_at": "2026-10-21T21:00:45+00:00",
+      "topics": [
+        "finance"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "finance"
+      ]
+    },
     {
       "title": "Superintendente Bournigal: “La educación financiera es un elemento esencial para la protección integral del inversionista”",
       "publisher": "Periódico elDinero",
@@ -173,6 +234,21 @@
       ]
     },
     {
+      "title": "Sector financiero ha aportado millones en préstamos para paneles solares",
+      "publisher": "Listín Diario",
+      "publisher_url": "https://listindiario.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNR2JTaDlyNzVXVjlLZVIxQ29zMG5qaVRwSDVfMkdlc3VmbHRvaVhXQWZob2ZudU9rajRaSWhIeU9mQXQxeVNvMGhlRDVxU1VyT3I4YnIxcGJjNlNUZHdJdmltdHZGak5vaU5qWjBpMmFldHlRS2VUVXZvajlka29mRXNsVzRkemd3Z3gzdGIyaFYtV2tUMVVZV3JUSEVSRWVoNndsTlYwOFY3cmZ1VE9CQVd5TV90RWRDdFc3Um9rZExxd9IBxwFBVV95cUxObEdhMmRLRjFsOTg2bDFYV0M1N0xoOHJETERhS1E1dW1LWWNXWTNqemdIZmJMZ3JNSnA4c1kxQlhTdTN2WW1LZ0dCV256OHplRWktejh5LUNGeG5uVWdyNDI0eHY0eEk3S2VXeUJwVDBMYllkbzBBUzRUa2w5N0liMjJWOWZFa1IxV0h6eHp1bzNnVC1RWjIzNXJCbm1JcXNMMV9GNnd2Z29jRVdRWTRMakdrakNVUDZsWW9LZTFmZ051eG81Y21F?oc=5",
+      "published_at": "2026-10-21T04:00:00+00:00",
+      "topics": [
+        "finance"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "finance"
+      ]
+    },
+    {
       "title": "Las advertencias del FMI sobre la deuda pública",
       "publisher": "Hoy Digital",
       "publisher_url": "https://hoy.com.do",
@@ -185,21 +261,6 @@
       "economist_match": null,
       "searches": [
         "fiscal"
-      ]
-    },
-    {
-      "title": "Sector financiero ha aportado millones en préstamos para paneles solares",
-      "publisher": "Listin Diario",
-      "publisher_url": "https://listindiario.com",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObEdhMmRLRjFsOTg2bDFYV0M1N0xoOHJETERhS1E1dW1LWWNXWTNqemdIZmJMZ3JNSnA4c1kxQlhTdTN2WW1LZ0dCV256OHplRWktejh5LUNGeG5uVWdyNDI0eHY0eEk3S2VXeUJwVDBMYllkbzBBUzRUa2w5N0liMjJWOWZFa1IxV0h6eHp1bzNnVC1RWjIzNXJCbm1JcXNMMV9GNnd2Z29jRVdRWTRMakdrakNVUDZsWW9LZTFmZ051eG81Y21F0gHHAUFVX3lxTE5sR2EyZEtGMWw5ODZsMVhXQzU3TGg4ckRMRGFLUTV1bUtZY1dZM2p6Z0hmYkxnck1KcDhzWTFCWFN1M3ZZbUtnR0JXbno4emVFaS16OHktQ0Z4bm5VZ3I0MjR4djR4STdLZVd5QnBUMExiWWRvMEFTNFRrbDk3SWIyMlY5ZkVrUjFXSHp4enVvM2dULVFaMjM1ckJubUlxc0wxX0Y2d3Znb2NFV1FZNExqR2tqQ1VQNmxZb0tlMWZnTnV4bzVjbUU?oc=5",
-      "published_at": "2026-10-21T04:00:00+00:00",
-      "topics": [
-        "finance"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "finance"
       ]
     }
   ],
