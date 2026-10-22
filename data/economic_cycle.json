@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-21T19:26:29.385928+00:00",
+  "checked_at": "2026-10-22T19:19:43.900623+00:00",
   "series": {
     "leading": {
       "period": "2026-08",
@@ -10,26 +10,26 @@
       "published_at": "2026-09-18"
     },
     "coincident": {
-      "period": "2026-08",
-      "value": 114.9,
-      "mom": 0.1,
+      "period": "2026-09",
+      "value": 115.3,
+      "mom": 0.3,
       "source": "The Conference Board",
       "url": "https://www.conference-board.org/topics/us-leading-indicators/",
-      "published_at": "2026-09-18"
+      "published_at": "2026-10-22"
     },
     "lagging": {
-      "period": "2026-08",
-      "value": 120.6,
-      "mom": 0.2,
+      "period": "2026-09",
+      "value": 121.1,
+      "mom": 0.5,
       "source": "The Conference Board",
       "url": "https://www.conference-board.org/topics/us-leading-indicators/",
-      "published_at": "2026-09-18"
+      "published_at": "2026-10-22"
     }
   },
   "source_health": {
     "leading": {
-      "ok": true,
-      "error": null
+      "ok": false,
+      "error": "Index not parsed from official release"
     },
     "coincident": {
       "ok": true,
@@ -40,5 +40,5 @@
       "error": null
     }
   },
-  "latest_report_date": "2026-09-18"
+  "latest_report_date": "2026-10-22"
 }
