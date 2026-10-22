@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-21",
+  "date": "2026-10-22",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-22T00:49:07+00:00",
+  "checked_at": "2026-10-22T13:18:19+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -23,12 +23,12 @@
     "bcrd": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 3
     },
     "fiscal": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 3
     },
     "dgii": {
       "ok": true,
@@ -38,12 +38,12 @@
     "finance": {
       "ok": true,
       "error": null,
-      "count": 4
+      "count": 1
     },
     "securities": {
       "ok": true,
       "error": null,
-      "count": 2
+      "count": 0
     },
     "economy": {
       "ok": true,
@@ -83,42 +83,27 @@
   },
   "items": [
     {
-      "title": "Sector de bebidas no alcohólicas genera 63,190 empleos y aporta RD$ 15,605 millones en impuestos",
-      "publisher": "Acento",
-      "publisher_url": "https://acento.com.do",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPallKMk16Y2J5NW5ndVhNTkdfY2x2NGZvY3lIOHJKMk45OEh2S0FTTHNZU2J2NjAzazBCMmpPNEIzUkV6ZlltQW02V3dMU1U1Zkl4SDVyV09QRUtuMEF3dVpRRkFEWDNKd1RHWEtKY0tMZ01GMUJrdTF1Q3p3S1RxdUsxd2tRQUpLTjctaVFqTlVMZ2ttZm9IVXVJMk4wMGNtMHgyelRsMHBLdWxOM2xqSGJyQ0dPRkFRc0lCNElKUnZlNFNuMEIzVWFVS3ZDZmJ5UWtN0gHTAUFVX3lxTE9qWUoyTXpjYnk1bmd1WE1OR19jbHY0Zm9jeUg4ckoyTjk4SHZLQVNMc1lTYnY2MDNrMEIyak80QjNSRXpmWW1BbTZXd0xTVTVmSXhINXJXT1BFS24wQXd1WlFGQURYM0p3VEdYS0pjS0xnTUYxQmt1MXVDendLVHF1SzF3a1FBSktONy1pUWpOVUxna21mb0hVdUkyTjAwY20weDJ6VGwwcEt1bE4zbGpIYnJDR09GQVFzSUI0SUpSdmU0U24wQjNVYVVLdkNmYnlRa00?oc=5",
-      "published_at": "2026-10-21T22:00:51+00:00",
-      "topics": [
-        "dgii",
-        "finance"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "finance"
-      ]
-    },
-    {
-      "title": "Raquel Peña participa en encuentro empresarial sobre economía dominicana",
-      "publisher": "El Caribe",
-      "publisher_url": "https://www.elcaribe.com.do",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNU3BzcHNxei1zZEtOUGRRN0tTUUZSdHBTckhYcGJaYzI2enVzUlJQWTdZaTMyS2FJcnFNZEJocGhIOEJ0Z090NjhMTUNtb2VDUmFLM0hJY2xVWmJkTHV0cjVxbTdxdHFIdXJqaVZFMUozeVFWWGdZeXpCZzVpU0Z6LUxHUU9KWnZQQ1lnd1hOZWFlTG9JTS1wNEpLblc4OVdaTVhjcUFQLTVHM3dzaGRwUDloNlAwUQ?oc=5",
-      "published_at": "2026-10-21T21:28:22+00:00",
-      "topics": [
-        "economy"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "economy"
-      ]
-    },
-    {
-      "title": "Vicepresidenta Raquel Peña participa en encuentro empresarial abordó la economía del país",
+      "title": "Haití necesitaría al menos 67 años para alcanzar el nivel económico dominicano, según economista",
       "publisher": "Diario Libre",
       "publisher_url": "https://www.diariolibre.com",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQ2gzeWMtd1p1YlBhdklIUmo4TjlXMEJRdHp0eW1YUkpwV0NNQ0o5ZUwyZVJxUXhXRzJhVkFjcXRvS3I5Rm1fZnlCamhlNDRhVE81akFKd1pXNUIwUlFMZTkyam1OZEl0bjNleEc4cWJMblFFZ0FWSWJRdGpCMUcwVzdCTnI5a0I3TDF2WmVTUjNBcFhhdGw3SUVhLVFsaWExMDZHdnVlUElSQWlWREx1TlczUk5YR0VLc0dKaXdYS1hjUnZoYmRabWNkc9IB0AFBVV95cUxQQWtYd0FKRjZlcmdqdW90VGxDeWJYeTBwVzZTRDZEenVhQ0J6cWdBZkFybGwxZ1EwT2x0TjZBc05YMS1TZVljMElpbVJjZy1YakhsbndpazBPVHVkZ25hUDJhSXhsSWRZWllvNV92ZXM0SE1Wbm9WTkpZekdHczRDa0RUakFuUHRiVXhwaWlON0h6QkRCUjQ0ZkJRZnFwa2o0Z3JSaW5NWmRGbF9xb0lGOHRubXVkekR2aU95SU1jM1ZmTVhDT0NRdFl0RkhxTjNq?oc=5",
-      "published_at": "2026-10-21T21:23:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSGIxZ1kyWkFIdzdhcjJoVU5ZdmxENWhxbnhNQ0hzZGh0QmRmSHgzMmFjSFNyZW5wcVIySW1DbnkxS2ZzMmQ0NDNzeUlrQTYwWTN5dm0tUllJdFoyWC1NZUlPcFJCYkp4cmdoeFo2XzhMVllxN2ZzOHJQMnNta1otVm9rVEt3a2hpdS1ER0c2a1hmcmF2MkFlWGpMdzFYSmdWemFtcFZ1WG9TRGRGclhSNlZiZnlQSXBVWHfSAb8BQVVfeXFMTjRNVFIzUXdBQWtzN3pqR1pHTEF5TmxuTGV5OVFzamYwVTZOdkhtdXRVUGlHbFhWVU5tcUVORV9UT1ptbFpsZmdsMFYxQnFjSFBfYm9uUW1UVkw2TkRhN0ZRZmxqeW5PczRwa1ppdFFMQmNBX1hYX0lxb2J4LThXVFpQMi1BZ1V1TFh1OEdCdlc0QmxYcS1GS1p4QnlEdkp0elA0TkViS0tjcjd4OGpScy03WThrQ2VFVG9RQzQ2dDQ?oc=5",
+      "published_at": "2026-10-22T12:02:00+00:00",
+      "topics": [
+        "economy",
+        "opinion"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "economy"
+      ]
+    },
+    {
+      "title": "Entre salarios insuficientes, dólar caro y vivienda costosa, ¿alcanza el dinero para vivir en República Dominicana?",
+      "publisher": "El Dia.com.do",
+      "publisher_url": "https://eldia.com.do",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUFEzVkFBOE5Wd1Z5V01aNWRCdUQxZkp3d0hFbExqdi14cmFEY3lvSnhGWGNxRDktNEJDT3FUQ2Z2MEEtQ1FDVjV4endUTTRWSkhPQ1JmLTJsb0xVM3RHWEY5MHB4WnY1dVJkYl9JZjlJUmN4ckNBbEdIWFU4NUh0SzM5cDNZT09uQWUxdFZ4RGhaQXlnV2M1c2R0ekN5dUdJQXg0cnhBMmRVUXRhOTNmd2RMYkRKdmJnYmItNHR4M0RKdGJSTVpsUVhOUjhuZw?oc=5",
+      "published_at": "2026-10-22T11:00:00+00:00",
       "topics": [
         "economy"
       ],
@@ -129,138 +114,104 @@
       ]
     },
     {
-      "title": "ProDominicana se integra a red regional del BID para atraer inversiones",
-      "publisher": "Acento",
-      "publisher_url": "https://acento.com.do",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPU2ZmYkJpYTBOeFBQa25QYVdOZndoYlM3UUF1OVdnRk83ZW9DVUR0VmlLOFl6UDZ1dFNGWHloZnk3anpEMjVwcDZGVC1TV1RWcWtoMkx6NzNfTWNfQUFSOFlvYVRqWWhLdFp3SkdiV2NQOUs1UzNfWmw3VXNQbGpKeGdmdnVCVmRPa0pYWVVPOF9sNUtWY1pScThEc2xudnRGQUozVGFINURFZzF1LWZVdzlydm9YUdIBtgFBVV95cUxPU2ZmYkJpYTBOeFBQa25QYVdOZndoYlM3UUF1OVdnRk83ZW9DVUR0VmlLOFl6UDZ1dFNGWHloZnk3anpEMjVwcDZGVC1TV1RWcWtoMkx6NzNfTWNfQUFSOFlvYVRqWWhLdFp3SkdiV2NQOUs1UzNfWmw3VXNQbGpKeGdmdnVCVmRPa0pYWVVPOF9sNUtWY1pScThEc2xudnRGQUozVGFINURFZzF1LWZVdzlydm9YUQ?oc=5",
-      "published_at": "2026-10-21T21:00:45+00:00",
-      "topics": [
-        "finance"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "finance"
-      ]
-    },
-    {
-      "title": "Superintendente Bournigal: “La educación financiera es un elemento esencial para la protección integral del inversionista”",
+      "title": "¿Tiene un préstamo? Así impactan los cambios en la tasa de política monetaria",
       "publisher": "Periódico elDinero",
       "publisher_url": "https://eldinero.com.do",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOX1RjX2FwbFN1VjdMcTRBZlY4ZkFNUTJIUm5QQkRtWDR0d2puT25GcHpZLTJfMlBsMzFiVGVwbDhqU2xHcHByR2toN080MjNJbVVwVVQ2SWtSanpIWXZqUjZFRk1KaHdSS2V6YTFVR1Q1VXFRMlFqRHJpd21SeTZoS1gxdlFPMDhKZ0FBeGFHNEVsWFhDcmFZdkRmaDJlZWNnb0RHTWpLS3p6MEwxVnoxcUZIQ1gxWGMwNThkSEFYNUlFcGZTeGljaFFCaUVUNExUanFsX1AzYjFsejJqVVlFUnNqVlVvUQ?oc=5",
-      "published_at": "2026-10-21T20:09:29+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeFNrS2xZUXU2VkpPQzVQU09QWHAzMFFFZ1IyVFZKbktaaFJaRFVFdXFjYmJSZXRiVjRBdkxlZ0w4dXlYMDhNQk03S0NCTXJXcHUxTUUwRjZaSy02WkNiZ3VVUEtmeWZpZER3WnBGWUJUaEhkUVcyM3k4aHVMOS01Q2V0ZllxVldjcl9mczVtMHBYa2RQcVRkNWJoTDV0eEIxY1ZWbkh4bWpKQTA?oc=5",
+      "published_at": "2026-10-22T08:28:43+00:00",
       "topics": [
-        "securities"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "securities"
-      ]
-    },
-    {
-      "title": "Delitos Financieros advierte sobre evolución de estafas de inversión y llama a denunciar a tiempo para recuperar fondos",
-      "publisher": "Periódico elDinero",
-      "publisher_url": "https://eldinero.com.do",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOQWY3Z05hbW5VRVc0dUU2Mkd5VFhUaHFTRlhUS1RISlQ1Y1c2akFtd2N6Q01QTFpYRjdENmpURDJUYV9UUzI3bk0xcU81d0J3S1BETVNaS2hqWDRaX1lCTXJSdkZaUGp3R2RlRnIxUU5NZll5Q09SU21ndzl5YmRrU2ZKaFIyTncwbURvOUhsYjdvQ2owdEZxVkdvSHh1d0pEcXJ5RTFHNENsUlN6VjYwZlNWS1FnaGxaVHZRLTZEeEtMMUFsaVhyYXpIQ24wZXlaMUpyZ1VvWkpXWVlub3pJUlJ1bm5jdw?oc=5",
-      "published_at": "2026-10-21T20:03:47+00:00",
-      "topics": [
-        "securities"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "securities"
-      ]
-    },
-    {
-      "title": "AGN presentará obra de Pedro Silverio Álvarez sobre economía, política e instituciones en RD",
-      "publisher": "El Nuevo Diario",
-      "publisher_url": "https://elnuevodiario.com.do",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWlV1S056dUxFbks1cGsyUEo2QWtQVnBsSVpxY3hhZ3FLQzFwVmZBNllpWU1RTE1sdjJfczNjR21uazNJVkM5MGl1VGlaWlJvN0RYU3EyYmJFN3FTQnMydk9oR1dHS1QyNi13MzBBODI1NF95VGZKeEpZemZCMlppbVFwS1pYQklzb1V5c0pGd00yeHBEajVHcktVaVRJc3hNS1d0eHg4aVJWRkVDMk80Wjdld08zNzlTd3o2X1dn?oc=5",
-      "published_at": "2026-10-21T16:31:20+00:00",
-      "topics": [
-        "economy"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "economy"
-      ]
-    },
-    {
-      "title": "República Dominicana promueve cultura y exportaciones en Corea",
-      "publisher": "Hoy Digital",
-      "publisher_url": "https://hoy.com.do",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdG1kY21SOW1HR0FyWE5hNWlfQ1ZmOFNsTzM0UE9KUGF3UnpHRW04c2R5cG9ON2FDem5OaGNfTDJLelN1T2xPZ3ZCckVmTl9FbVhkZGhXWkUzanBxTWJfcVFpR1EyOUVraHk3SlBMc0dkY09sRmpMUWF0UGdPcXQwajZ5MUVYWVdhUzZsRWFKaWgtVmdLV2twdXF2TdIBoAFBVV95cUxQY0w1VzVnQk5iaGVFVEJ5bl9yTTYwaWg1SWwzUzZWbnV3ZFNvcTZvX2Fja2x6MjdsSGEyZVFxdnBxNHNZMTFPbkRZdHFCQm1TOEpjaUt5WllrVzQxb0pjT2VNeTJwVURLdTZWcFFxSENONy1QTno5N1Z6aDB5SjhYQlJYbzU2bVAwWXVHdm5zd2xGb3diSzVRdlFZa3lvOFpT?oc=5",
-      "published_at": "2026-10-21T15:35:55+00:00",
-      "topics": [
-        "economy"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "economy"
-      ]
-    },
-    {
-      "title": "Más de 283,000 personas ingresaron al sistema financiero dominicano en un año",
-      "publisher": "Periódico elDinero",
-      "publisher_url": "https://eldinero.com.do",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQWI2RTAtU1hFVjl3QjkwdE53c1FpUjhTVGE1V2JrT1FOdUl1c0ZjSWp6Yjh1WHdEYlJnN29la29PUHpmVlZPdEhPeFFDMEdqM1Z0a0V5R0tyOG9YUjVEeUJBUHVkR0g1UUFrcG9ibXhMaGJUajdYTFk1NExNWThKV20tZEVjZ2FMbGNWY1F4a1piNWJYMTN6U0lQVVU3a25PQWxYZDlrSzVFWWRf?oc=5",
-      "published_at": "2026-10-21T12:44:37+00:00",
-      "topics": [
+        "bcrd",
         "finance"
       ],
       "economists": [],
       "economist_match": null,
       "searches": [
+        "bcrd",
         "finance"
       ]
     },
     {
-      "title": "Max Puig pide integrar la prevención climática a la planificación económica dominicana",
-      "publisher": "Acento",
-      "publisher_url": "https://acento.com.do",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbVIzMFp0R2x3bnB5NEhMejRTdDU2Q0stTVBCU2NpZXl3amFBMUNFTVVLYWo2Y3RtOEFKZGREeXU5M0hvNURJN0J6cTdJbzNYT3pFMG44TkNiR19ldlFnWHd6WTk5OVVsZnBFYkRIVzcyR25RWmcwaWFSRjR1MFBYSVp4T2Q5WVhfaHItdHIyTExQS1BpV0pRM0NxdHBqbE5OU0FoMXlOSXNqdlFvOTJqWVdseEtoQkhRelV0a1VmRFp1RDBFMWRueW9n0gHKAUFVX3lxTFBtUjMwWnRHbHducHk0SEx6NFN0NTZDSy1NUEJTY2lleXdqYUExQ0VNVUthajZjdG04QUpkZER5dTkzSG81REk3QnpxN0lvM1hPekUwbjhOQ2JHX2V2UWdYd3pZOTk5VWxmcEViREhXNzJHblFaZzBpYVJGNHUwUFhJWnhPZDlZWF9oci10cjJMTFBLUGlXSlEzQ3F0cGpsTk5TQWgxeU5Jc2p2UW85MmpZV2x4S2hCSFF6VXRrVWZEWnVEMEUxZG55b2c?oc=5",
-      "published_at": "2026-10-21T06:00:48+00:00",
+      "title": "Banco Mundial urge a República Dominicana invertir en capital humano",
+      "publisher": "Periódico elDinero",
+      "publisher_url": "https://eldinero.com.do",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPN29wZmlRWFNkZ21jWlVtN0N1dDFLd1JkT29sOW9fTGZwcTN4anVkQVJlOFNqR3o1ZmVyMU5JNWEtS0N6cWg1dlpRaFlUeGtWNHFXZWZYUDBMQTV6X3lVSWJtZ2J3RkFPR0wxNXFsUDA5aHVyQWJJNEIxalpLUkt5aXFvdmMyN3pDX3o4cHAwNmJfWmVWaUNBdktHOFI1cWQ1ZFE?oc=5",
+      "published_at": "2026-10-22T06:29:09+00:00",
       "topics": [
-        "economy"
+        "bcrd",
+        "economy",
+        "finance"
       ],
       "economists": [],
       "economist_match": null,
       "searches": [
+        "bcrd",
         "economy"
       ]
     },
     {
-      "title": "Las advertencias del FMI sobre la deuda pública",
-      "publisher": "Hoy Digital",
-      "publisher_url": "https://hoy.com.do",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbmg2NS00MW1jRTJpTV9oN0YwSkJqb2xWcjYtdGZFUzROU3dibHRLQ3V0UXV2eng4VV9iNGNaWXd0RlhWMEFSYi15M3BpZGp3cGpTZDJXc1h6NkRIX2V5T0VuUm43a3NrUXBWSXFCOGtJbHF0WXJuT0doaVY0VTBMaVhRdndYN2Nq0gGIAUFVX3lxTFBuaDY1LTQxbWNFMmlNX2g3RjBKQmpvbFZyNi10ZkVTNE5Td2JsdEtDdXRRdXZ6eDhVX2I0Y1pZd3RGWFYwQVJiLXkzcGlkandwalNkMldzWHo2REhfZXlPRW5Sbjdrc2tRcFZJcUI4a0lscXRZcm5PR2hpVjRVMExpWFF2d1g3Y2o?oc=5",
-      "published_at": "2026-10-21T04:00:00+00:00",
+      "title": "Luis Abinader es el jefe de Estado que más ha endeudado a República Dominicana",
+      "publisher": "Periódico elDinero",
+      "publisher_url": "https://eldinero.com.do",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMzlpYXlfMHV3SGg0Z0IzVkVhSkFNcnZ0cnJXdkFXOGVHRlJIMnVjYWJ0QUhVVVc2REpNWVVSU3VXWEw2QUhwZ3Nra2Vaa096OWdtQVJ1azcwYThCdTIzZ1lIZFFvRllCNU84UHdjdEFSS3VVTnZNOGlFQXUwOThYb05SaUVrVTdNbTY3S0tWN2dDOU05ZDA1WXJHVFJld3ZnMktpWk1WT2ctUU9qLTRj?oc=5",
+      "published_at": "2026-10-22T06:29:09+00:00",
       "topics": [
+        "economy",
+        "fiscal"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "economy",
+        "fiscal"
+      ]
+    },
+    {
+      "title": "Banco Central obtiene un premio gestión proyectos",
+      "publisher": "El Dia.com.do",
+      "publisher_url": "https://eldia.com.do",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9HUVFTTDlFVGhjZzcwWGdEVzlIOGtNTFZvbks0NkVYRnl5TG5KSFQweGxXUW9MNUdMY3FUcEM5aDBENzNKc2dBeHdTY1JubllPNGtldTZVNlF3alUwUDV3Yjl6amhjLWFVVEZIcVUwbDdYbjhSYnN2Z3lmdw?oc=5",
+      "published_at": "2026-10-22T04:01:00+00:00",
+      "topics": [
+        "bcrd",
+        "finance"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "bcrd"
+      ]
+    },
+    {
+      "title": "El FMI, la espiral de la deuda y la República Dominicana",
+      "publisher": "Diario Libre",
+      "publisher_url": "https://www.diariolibre.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdEl2bXJWS3VtWVBGWUUwdFVCZUhBc2ExRGt1ME9hLUhDbV9RNktqVDFNUUctZm1oWXNkLWlsTEI1aC1yajllWV9iS080UWw0YndqckJkRE01ZFpfam1VZGcwN3BmaElYSnhCYjBLQ2h5dWlKNF84bnpSUk5DREsybkxUS3p2NFBuN3NKcFlkRjlnX3dhZzh3T0JLSlRfWDFueHduaWtBZXcwZkFxOFZUbXlOdjJmQzVD0gG-AUFVX3lxTE9DaFZxUW5WUkNaUXhzZDIxaEdxLTV1TjFwa0VNa1U2bHIyX1lJcVRXeFhpVzdoYk5qVWlPNXE0LWltRXU0WVE0YnF0aUJ2SEZVZm14akxLWG5SMW9VRUtUYy1Ub3J5RHp3QUJ3RkVrM05hUk1pZlBzcUtnNlFNTTlSd3ozbHVTMmZtVmNZM2NvRm5mVXlOUUtkVkowQ1JReWxvT1BHbGdiNm1ERGU5NFdzam1wd0c5MkRkbk0zdWc?oc=5",
+      "published_at": "2026-10-22T04:01:00+00:00",
+      "topics": [
+        "economy",
+        "fiscal"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "economy",
+        "fiscal"
+      ]
+    },
+    {
+      "title": "Loterías extranjeras sin autorización se venden entre bancas, colmados y verifones",
+      "publisher": "Diario Libre",
+      "publisher_url": "https://www.diariolibre.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMHZmV1c2M2h0Y01yY0RSWmlNanpDR1N5OG80amJDMmFKN0ZTOEp1RzVPWWROWHRGanNNemNsRDF5bzI0WjNmczJsU0UzYmdFNFFvQkFhM3JyekwxcHpCbE1HWlhxVUtQTUNlLXRxU0NTbkF5bGtObFBtR0Z6QksxNG5KV0wyelFwR01CalB1SVJkWDJDZko0ekxMLWxTcngzam1BLThZNGhnUnZiZU5zSnIwa1VLX0JfeFZ1VU1tT3lpQdIBxwFBVV95cUxQZkxqMS0teHdoUGthS05qcGM5TXRqd3l3RFVGQjk0aFRkeldEOGRoejFKc21NRGhsNDlHQU9FaHVTMVcyaFNkangxWEt4YnVyRXlUcEVCTl91VmlCby1aYU9TdXZ5RWROV0x0cHB6WXdRTjJtUWRuOVZIeGNWTnBUZjBOelJnN1VCa0RJMDJmRUwwMF9QTm40ek9VMzItbHFkM1Q4OWFtSHVOaFpiTEFyX0pkY3lMOU41YnpnUDI0N3ZmTzVUWFE0?oc=5",
+      "published_at": "2026-10-22T04:01:00+00:00",
+      "topics": [
+        "finance",
         "fiscal"
       ],
       "economists": [],
       "economist_match": null,
       "searches": [
         "fiscal"
-      ]
-    },
-    {
-      "title": "Sector financiero ha aportado millones en préstamos para paneles solares",
-      "publisher": "Listín Diario",
-      "publisher_url": "https://listindiario.com",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNR2JTaDlyNzVXVjlLZVIxQ29zMG5qaVRwSDVfMkdlc3VmbHRvaVhXQWZob2ZudU9rajRaSWhIeU9mQXQxeVNvMGhlRDVxU1VyT3I4YnIxcGJjNlNUZHdJdmltdHZGak5vaU5qWjBpMmFldHlRS2VUVXZvajlka29mRXNsVzRkemd3Z3gzdGIyaFYtV2tUMVVZV3JUSEVSRWVoNndsTlYwOFY3cmZ1VE9CQVd5TV90RWRDdFc3Um9rZExxd9IBxwFBVV95cUxObEdhMmRLRjFsOTg2bDFYV0M1N0xoOHJETERhS1E1dW1LWWNXWTNqemdIZmJMZ3JNSnA4c1kxQlhTdTN2WW1LZ0dCV256OHplRWktejh5LUNGeG5uVWdyNDI0eHY0eEk3S2VXeUJwVDBMYllkbzBBUzRUa2w5N0liMjJWOWZFa1IxV0h6eHp1bzNnVC1RWjIzNXJCbm1JcXNMMV9GNnd2Z29jRVdRWTRMakdrakNVUDZsWW9LZTFmZ051eG81Y21F?oc=5",
-      "published_at": "2026-10-21T04:00:00+00:00",
-      "topics": [
-        "finance"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "finance"
       ]
     }
   ],
