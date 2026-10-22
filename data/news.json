@@ -1,7 +1,7 @@
 {
   "date": "2026-10-21",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-22T00:21:47+00:00",
+  "checked_at": "2026-10-22T00:49:08+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -19,7 +19,7 @@
     "centroamerica": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 2
     },
     "mexico": {
       "ok": true,
@@ -34,12 +34,12 @@
     "europa": {
       "ok": true,
       "error": null,
-      "count": 17
+      "count": 19
     },
     "global": {
       "ok": true,
       "error": null,
-      "count": 15
+      "count": 16
     }
   },
   "items": [
@@ -54,6 +54,17 @@
       ]
     },
     {
+      "title": "Diabetes and ADHD drugs to be tested on Alzheimer's patients in new study",
+      "publisher": "BBC",
+      "publisher_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45QkFfYVpfQnVuQTdLY0xvdFUtZlJ4c0VfMXpLTDNaZWljMVhsVjNTbE55Q2cwXzdEMllpd2VHRDVPRENyUDY1WUZsb1ZhMUx6VEhTV05PRVhzVGc?oc=5",
+      "published_at": "2026-10-21T23:02:30+00:00",
+      "regions": [
+        "europa",
+        "global"
+      ]
+    },
+    {
       "title": "China’s drugmakers move into the big league",
       "publisher": "Financial Times",
       "publisher_url": "https://www.ft.com",
@@ -64,11 +75,31 @@
       ]
     },
     {
+      "title": "Descuento en medicinas subiría al 25%: ¿qué dicen las farmacias?",
+      "publisher": "La Estrella de Panamá",
+      "publisher_url": "https://www.laestrella.com.pa",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcXJMZVNwbllMVXdNeWNfcUNOVVdMejQ0bHg0V05QYnBadTBWV05lRWpIMWZFWjZtYmc2ams5NFJ0OVBIZUpiVDU5NUNscUdzYzU4T042MUFQMVNzLWl3UUxPelhNWVpjTW5hd2tLaDBQbUpjZ2lZdjk1WWRMMnFuU09PZGVKWkRKZDNBN2NBQ1B1aTU0d3djbjJCTHlHVzJET0xXTDlQdUVpWUwzZ0d6RFJfM09TN0lvTVh5Wkx30gG-AUFVX3lxTE1xckxlU3BuWUxVd015Y19xQ05VV0x6NDRseDRXTlBicFp1MFZXTmVFakgxZkVaNm1iZzZqazk0UnQ5UEhlSmJUNTk1Q2xxR3NjNThPTjYxQVAxU3MtaXdRTE96WE1ZWmNNbmF3a0toMFBtSmNnaVl2OTVZZEwycW5TT09kZUpaREpkM0E3Y0FDUHVpNTR3d2NuMkJMeUdXMkRPTFdMOVB1RWlZTDNnR3pEUl8zT1M3SW9NWHlaTHc?oc=5",
+      "published_at": "2026-10-21T23:00:24+00:00",
+      "regions": [
+        "centroamerica"
+      ]
+    },
+    {
       "title": "Supernus Announces Orphan Drug Exclusivity for ONAPGO™ (apomorphine HCl)",
       "publisher": "Financial Times",
       "publisher_url": "https://markets.ft.com",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWFEwMU9xOGg1cEZ3UDUyVHFvRnFTWGhoOGlCeW9kQ0xIOEF1SW85YzJPVkJ3QVhkU3pKYlFUQ3M3aHBCWDZ0R1dlLUJWejZrQ2t1dGJ2MDV6bGJHMnY1UE5raDVjaDRJSVNpc1RWU3FqcHBYcl81Zkd4Nno1R0M2ZDlsZXJ2UzcwdHpDY0w3R0ZNbXRTSTlr?oc=5",
       "published_at": "2026-10-21T21:45:00+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "Weight-Loss Drugs News | Today's Latest Stories",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9vX1dWYTU5QXRUZVJtY3hfeGF1Y2ZkNlVFUFROeU94azdNMVpSTHdtemZZNWhtSWJ6aUNVNXVSajhOWGRPN3dIYVRpWHhwQmw3YmlBUU4zS3ZRcmVuUTYtNjdNcHl0Q2htc18wM28tNjUzQ3VTZW0wVTFFVVI?oc=5",
+      "published_at": "2026-10-21T21:02:12+00:00",
       "regions": [
         "europa"
       ]
@@ -122,16 +153,6 @@
       "published_at": "2026-10-21T19:04:41+00:00",
       "regions": [
         "mexico"
-      ]
-    },
-    {
-      "title": "Novo valuation beats Tesla on experimental obesity drug data",
-      "publisher": "Reuters",
-      "publisher_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5tTnAtV1ZzRnBqUDc1MzJFNGxDTWpQR25QX1ZTUDdsRTJaM0ZmRUFWREdfUnRubUJqZ2JmeXczQjUtWVdydkNyTzFmQWYzN1FfRS1XUEtGbEN1SW1qd0gyNWs3clFaTTg?oc=5",
-      "published_at": "2026-10-21T18:29:19+00:00",
-      "regions": [
-        "europa"
       ]
     },
     {
@@ -362,6 +383,16 @@
       "publisher_url": "https://pharmaphorum.com",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNek55OHdRbWRMV1I2dEgxQnFuS2JIZXQyNG9rQXVRZFVYZC12b1dZME1DdmdwSGNSYzF5Q1JqQUhOVHhqa012N3V0M3FUcFdZZ0J6NHdjcG56dEI1azVyN3NkV25UMzlOOHAzZHdzTnIzRm5mQzl4YW5aNG15dExvVXBzcGZHc1N5aGZmQVZNaw?oc=5",
       "published_at": "2026-10-21T10:38:38+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "Chen Qiyu: Building on \"Affordability & Reliability\", Fosun Expands the Global Reach of Chinese Innovative Drugs",
+      "publisher": "Financial Times",
+      "publisher_url": "https://markets.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNEp6OUFxSWtadm04N1pFSEFJT3V3aUlDMUhjeldtRVNYbzFKQ1pveFRyLXUyRWU1bjBmdFRreVRnM0x6X19LUkcteDRHbjBXRnpYVTN0bjlnS2d5VFd4UkVoek5wLUtCMkVpUXJIU0hudnkzZzByM2VKQ3VXbjZyaDNEbl96a0w5bGtMQ0lTb19lQjFMX1FIRQ?oc=5",
+      "published_at": "2026-10-21T08:45:00+00:00",
       "regions": [
         "europa"
       ]

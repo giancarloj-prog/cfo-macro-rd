@@ -1,7 +1,7 @@
 {
   "date": "2026-10-21",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-22T00:21:46+00:00",
+  "checked_at": "2026-10-22T00:49:07+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -28,7 +28,7 @@
     "fiscal": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 1
     },
     "dgii": {
       "ok": true,
@@ -234,21 +234,6 @@
       ]
     },
     {
-      "title": "Sector financiero ha aportado millones en préstamos para paneles solares",
-      "publisher": "Listín Diario",
-      "publisher_url": "https://listindiario.com",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNR2JTaDlyNzVXVjlLZVIxQ29zMG5qaVRwSDVfMkdlc3VmbHRvaVhXQWZob2ZudU9rajRaSWhIeU9mQXQxeVNvMGhlRDVxU1VyT3I4YnIxcGJjNlNUZHdJdmltdHZGak5vaU5qWjBpMmFldHlRS2VUVXZvajlka29mRXNsVzRkemd3Z3gzdGIyaFYtV2tUMVVZV3JUSEVSRWVoNndsTlYwOFY3cmZ1VE9CQVd5TV90RWRDdFc3Um9rZExxd9IBxwFBVV95cUxObEdhMmRLRjFsOTg2bDFYV0M1N0xoOHJETERhS1E1dW1LWWNXWTNqemdIZmJMZ3JNSnA4c1kxQlhTdTN2WW1LZ0dCV256OHplRWktejh5LUNGeG5uVWdyNDI0eHY0eEk3S2VXeUJwVDBMYllkbzBBUzRUa2w5N0liMjJWOWZFa1IxV0h6eHp1bzNnVC1RWjIzNXJCbm1JcXNMMV9GNnd2Z29jRVdRWTRMakdrakNVUDZsWW9LZTFmZ051eG81Y21F?oc=5",
-      "published_at": "2026-10-21T04:00:00+00:00",
-      "topics": [
-        "finance"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "finance"
-      ]
-    },
-    {
       "title": "Las advertencias del FMI sobre la deuda pública",
       "publisher": "Hoy Digital",
       "publisher_url": "https://hoy.com.do",
@@ -261,6 +246,21 @@
       "economist_match": null,
       "searches": [
         "fiscal"
+      ]
+    },
+    {
+      "title": "Sector financiero ha aportado millones en préstamos para paneles solares",
+      "publisher": "Listín Diario",
+      "publisher_url": "https://listindiario.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNR2JTaDlyNzVXVjlLZVIxQ29zMG5qaVRwSDVfMkdlc3VmbHRvaVhXQWZob2ZudU9rajRaSWhIeU9mQXQxeVNvMGhlRDVxU1VyT3I4YnIxcGJjNlNUZHdJdmltdHZGak5vaU5qWjBpMmFldHlRS2VUVXZvajlka29mRXNsVzRkemd3Z3gzdGIyaFYtV2tUMVVZV3JUSEVSRWVoNndsTlYwOFY3cmZ1VE9CQVd5TV90RWRDdFc3Um9rZExxd9IBxwFBVV95cUxObEdhMmRLRjFsOTg2bDFYV0M1N0xoOHJETERhS1E1dW1LWWNXWTNqemdIZmJMZ3JNSnA4c1kxQlhTdTN2WW1LZ0dCV256OHplRWktejh5LUNGeG5uVWdyNDI0eHY0eEk3S2VXeUJwVDBMYllkbzBBUzRUa2w5N0liMjJWOWZFa1IxV0h6eHp1bzNnVC1RWjIzNXJCbm1JcXNMMV9GNnd2Z29jRVdRWTRMakdrakNVUDZsWW9LZTFmZ051eG81Y21F?oc=5",
+      "published_at": "2026-10-21T04:00:00+00:00",
+      "topics": [
+        "finance"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "finance"
       ]
     }
   ],
