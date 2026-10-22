@@ -1,7 +1,7 @@
 {
   "date": "2026-10-22",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-22T20:22:34+00:00",
+  "checked_at": "2026-10-22T20:42:33+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -23,7 +23,7 @@
     "bcrd": {
       "ok": true,
       "error": null,
-      "count": 3
+      "count": 2
     },
     "fiscal": {
       "ok": true,
@@ -38,7 +38,7 @@
     "finance": {
       "ok": true,
       "error": null,
-      "count": 2
+      "count": 7
     },
     "securities": {
       "ok": true,
@@ -48,7 +48,7 @@
     "economy": {
       "ok": true,
       "error": null,
-      "count": 5
+      "count": 6
     },
     "economist_andy": {
       "ok": true,
@@ -223,6 +223,21 @@
       ]
     },
     {
+      "title": "Para el 2027, el Gobierno gastará casi mil millones de pesos diarios en intereses sobre la deuda: 40 millones por hora",
+      "publisher": "Acento",
+      "publisher_url": "https://acento.com.do",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQU3ZoSktXcElDUFMyQnNHcTV4RTZhaVRuZllxNFZ6YXFUYnNlSzM2anlva1NQNHJVVG82RHVOa1pQUGZ4amVKTEFnVEF6c1F5UzZMZldZbndLS0FqeXJVZVVLa1c2VFlZOTMyd1lWRUJ1eDRaY0R1X1hsb2UtS1VfaXhqT3lZZ3NBcFZvX0plZEZRRDR4Zmp5WVFtSkJLV05Mak5IV3hpZXEwekNrZGNTanF0RU1Ib0pma3FlaDhFZm1EZUlJaUFoLUhTSGttT3EzQWhhUnVKSUhZcGsweFY0dEtkOUJjTVcxV0czOVhjMjBxZ9IB8gFBVV95cUxQU3ZoSktXcElDUFMyQnNHcTV4RTZhaVRuZllxNFZ6YXFUYnNlSzM2anlva1NQNHJVVG82RHVOa1pQUGZ4amVKTEFnVEF6c1F5UzZMZldZbndLS0FqeXJVZVVLa1c2VFlZOTMyd1lWRUJ1eDRaY0R1X1hsb2UtS1VfaXhqT3lZZ3NBcFZvX0plZEZRRDR4Zmp5WVFtSkJLV05Mak5IV3hpZXEwekNrZGNTanF0RU1Ib0pma3FlaDhFZm1EZUlJaUFoLUhTSGttT3EzQWhhUnVKSUhZcGsweFY0dEtkOUJjTVcxV0czOVhjMjBxZw?oc=5",
+      "published_at": "2026-10-22T07:00:00+00:00",
+      "topics": [
+        "finance"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "finance"
+      ]
+    },
+    {
       "title": "Banco Mundial urge a República Dominicana invertir en capital humano",
       "publisher": "Periódico elDinero",
       "publisher_url": "https://eldinero.com.do",
@@ -273,22 +288,6 @@
       ]
     },
     {
-      "title": "Banco Central obtiene un premio gestión proyectos",
-      "publisher": "El Dia.com.do",
-      "publisher_url": "https://eldia.com.do",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9HUVFTTDlFVGhjZzcwWGdEVzlIOGtNTFZvbks0NkVYRnl5TG5KSFQweGxXUW9MNUdMY3FUcEM5aDBENzNKc2dBeHdTY1JubllPNGtldTZVNlF3alUwUDV3Yjl6amhjLWFVVEZIcVUwbDdYbjhSYnN2Z3lmdw?oc=5",
-      "published_at": "2026-10-22T04:01:00+00:00",
-      "topics": [
-        "bcrd",
-        "finance"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "bcrd"
-      ]
-    },
-    {
       "title": "El FMI, la espiral de la deuda y la República Dominicana",
       "publisher": "Diario Libre",
       "publisher_url": "https://www.diariolibre.com",
@@ -320,6 +319,22 @@
       "searches": [
         "finance",
         "fiscal"
+      ]
+    },
+    {
+      "title": "Banco Central obtiene un premio gestión proyectos",
+      "publisher": "El Dia.com.do",
+      "publisher_url": "https://eldia.com.do",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9HUVFTTDlFVGhjZzcwWGdEVzlIOGtNTFZvbks0NkVYRnl5TG5KSFQweGxXUW9MNUdMY3FUcEM5aDBENzNKc2dBeHdTY1JubllPNGtldTZVNlF3alUwUDV3Yjl6amhjLWFVVEZIcVUwbDdYbjhSYnN2Z3lmdw?oc=5",
+      "published_at": "2026-10-22T04:01:00+00:00",
+      "topics": [
+        "bcrd",
+        "finance"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "bcrd"
       ]
     }
   ],

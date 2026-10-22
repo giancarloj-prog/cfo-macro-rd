@@ -1,7 +1,7 @@
 {
   "date": "2026-10-22",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-22T20:22:35+00:00",
+  "checked_at": "2026-10-22T20:42:34+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -34,7 +34,7 @@
     "europa": {
       "ok": true,
       "error": null,
-      "count": 12
+      "count": 13
     },
     "global": {
       "ok": true,
@@ -43,6 +43,16 @@
     }
   },
   "items": [
+    {
+      "title": "Labcorp, Charles River and FDA Announce Research Collaboration to Advance Preclinical Methods for Evaluating Drug Abuse Potential – Company Announcement - FT.com",
+      "publisher": "Financial Times",
+      "publisher_url": "https://markets.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVUFYckh4bzA4OHBVQkMtSy0wV3BzdldHVGRmcDBYMXA2X3lZRkNTVG1oMl9Wcm1Kdm5VaV9tUFNWUGJaaFZLcjc3aUl2OGtVY0cyMTRwdnRpbzNfaURDc25pb3M3SUMyWlY2ZzlWX180SU5PSmV0Z2FGczZjZ2RXbU10VjBVcVlyTjFfaFNTVzQ4YUZ6RmlUTA?oc=5",
+      "published_at": "2026-10-22T20:30:00+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
     {
       "title": "Moderna, Merck shares fall on eagerly anticipated cancer vaccine results",
       "publisher": "BioPharma Dive",
