@@ -1,7 +1,7 @@
 {
   "date": "2026-10-22",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-22T16:03:33+00:00",
+  "checked_at": "2026-10-22T20:22:35+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -12,37 +12,168 @@
   },
   "source_health": {
     "rd": {
-      "ok": false,
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28medicamentos+OR+farmac%C3%A9utica+OR+farmacia+OR+vacunas%29+%28site%3Alistindiario.com+OR+site%3Adiariolibre.com+OR+site%3Aacento.com.do%29++after%3A2026-10-21+before%3A2026-10-24&hl=es-419&gl=DO&ceid=DO%3Aes-419; 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28medicamentos+OR+farmac%C3%A9utica+OR+farmacia+OR+vacunas%29+%28site%3Aeldia.com.do+OR+site%3Aelnuevodiario.com.do+OR+site%3Ahoy.com.do%29++after%3A2026-10-21+before%3A2026-10-24&hl=es-419&gl=DO&ceid=DO%3Aes-419; 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28medicamentos+OR+farmac%C3%A9utica+OR+farmacia+OR+vacunas%29+%28site%3Aelcaribe.com.do%29++after%3A2026-10-21+before%3A2026-10-24&hl=es-419&gl=DO&ceid=DO%3Aes-419",
-      "count": 0
+      "ok": true,
+      "error": null,
+      "count": 2
     },
     "centroamerica": {
-      "ok": false,
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28medicamentos+OR+farmac%C3%A9utica+OR+farmacia+OR+vacunas%29+%28site%3Aprensalibre.com+OR+site%3Alahora.gt+OR+site%3Anacion.com%29++after%3A2026-10-21+before%3A2026-10-24&hl=es-419&gl=MX&ceid=MX%3Aes-419; 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28medicamentos+OR+farmac%C3%A9utica+OR+farmacia+OR+vacunas%29+%28site%3Acrhoy.com+OR+site%3Alaprensagrafica.com+OR+site%3Aelsalvador.com%29++after%3A2026-10-21+before%3A2026-10-24&hl=es-419&gl=MX&ceid=MX%3Aes-419; 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28medicamentos+OR+farmac%C3%A9utica+OR+farmacia+OR+vacunas%29+%28site%3Aelmundo.sv+OR+site%3Alaprensa.hn+OR+site%3Aelheraldo.hn%29++after%3A2026-10-21+before%3A2026-10-24&hl=es-419&gl=MX&ceid=MX%3Aes-419; 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28medicamentos+OR+farmac%C3%A9utica+OR+farmacia+OR+vacunas%29+%28site%3Aprensa.com+OR+site%3Alaestrella.com.pa+OR+site%3Alaprensani.com%29++after%3A2026-10-21+before%3A2026-10-24&hl=es-419&gl=MX&ceid=MX%3Aes-419; 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28medicamentos+OR+farmac%C3%A9utica+OR+farmacia+OR+vacunas%29+%28site%3Aconfidencial.digital%29++after%3A2026-10-21+before%3A2026-10-24&hl=es-419&gl=MX&ceid=MX%3Aes-419",
+      "ok": true,
+      "error": null,
       "count": 0
     },
     "mexico": {
-      "ok": false,
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28medicamentos+OR+farmac%C3%A9utica+OR+farmacia+OR+vacunas%29+%28site%3Aeluniversal.com.mx+OR+site%3Aeleconomista.com.mx+OR+site%3Aelfinanciero.com.mx%29++after%3A2026-10-21+before%3A2026-10-24&hl=es-419&gl=MX&ceid=MX%3Aes-419; 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28medicamentos+OR+farmac%C3%A9utica+OR+farmacia+OR+vacunas%29+%28site%3Amilenio.com+OR+site%3Aexpansion.mx+OR+site%3Aforbes.com.mx%29++after%3A2026-10-21+before%3A2026-10-24&hl=es-419&gl=MX&ceid=MX%3Aes-419",
-      "count": 0
+      "ok": true,
+      "error": null,
+      "count": 1
     },
     "usa": {
-      "ok": false,
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28pharma+OR+drug+OR+biotech+OR+pharmaceutical+OR+medicine%29+%28site%3Areuters.com+OR+site%3Aapnews.com+OR+site%3Acnn.com%29+%28FDA+OR+US+OR+USA+OR+%22United+States%22+OR+American%29+after%3A2026-10-21+before%3A2026-10-24&hl=en-US&gl=US&ceid=US%3Aen; 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28pharma+OR+drug+OR+biotech+OR+pharmaceutical+OR+medicine%29+%28site%3Awsj.com+OR+site%3Acnbc.com+OR+site%3Anytimes.com%29+%28FDA+OR+US+OR+USA+OR+%22United+States%22+OR+American%29+after%3A2026-10-21+before%3A2026-10-24&hl=en-US&gl=US&ceid=US%3Aen; 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28pharma+OR+drug+OR+biotech+OR+pharmaceutical+OR+medicine%29+%28site%3Astatnews.com+OR+site%3Afiercepharma.com+OR+site%3Abiopharmadive.com%29+%28FDA+OR+US+OR+USA+OR+%22United+States%22+OR+American%29+after%3A2026-10-21+before%3A2026-10-24&hl=en-US&gl=US&ceid=US%3Aen",
-      "count": 0
+      "ok": true,
+      "error": null,
+      "count": 20
     },
     "europa": {
-      "ok": false,
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28pharma+OR+drug+OR+biotech+OR+pharmaceutical+OR+medicine%29+%28site%3Areuters.com+OR+site%3Abbc.com+OR+site%3Abbc.co.uk%29+%28Europe+OR+Europa+OR+European+OR+EU+OR+EMA+OR+UK%29+after%3A2026-10-21+before%3A2026-10-24&hl=en-US&gl=US&ceid=US%3Aen; 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28pharma+OR+drug+OR+biotech+OR+pharmaceutical+OR+medicine%29+%28site%3Aft.com+OR+site%3Atheguardian.com+OR+site%3Aeuronews.com%29+%28Europe+OR+Europa+OR+European+OR+EU+OR+EMA+OR+UK%29+after%3A2026-10-21+before%3A2026-10-24&hl=en-US&gl=US&ceid=US%3Aen; 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28pharma+OR+drug+OR+biotech+OR+pharmaceutical+OR+medicine%29+%28site%3Adw.com+OR+site%3Aelpais.com+OR+site%3Aelmundo.es%29+%28Europe+OR+Europa+OR+European+OR+EU+OR+EMA+OR+UK%29+after%3A2026-10-21+before%3A2026-10-24&hl=en-US&gl=US&ceid=US%3Aen; 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28pharma+OR+drug+OR+biotech+OR+pharmaceutical+OR+medicine%29+%28site%3Aeldiario.es+OR+site%3Apharmaphorum.com%29+%28Europe+OR+Europa+OR+European+OR+EU+OR+EMA+OR+UK%29+after%3A2026-10-21+before%3A2026-10-24&hl=en-US&gl=US&ceid=US%3Aen",
-      "count": 0
+      "ok": true,
+      "error": null,
+      "count": 12
     },
     "global": {
-      "ok": false,
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28pharma+OR+drug+OR+biotech+OR+pharmaceutical+OR+medicine%29+%28site%3Areuters.com+OR+site%3Aapnews.com+OR+site%3Acnn.com%29++after%3A2026-10-21+before%3A2026-10-24&hl=en-US&gl=US&ceid=US%3Aen; 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28pharma+OR+drug+OR+biotech+OR+pharmaceutical+OR+medicine%29+%28site%3Awsj.com+OR+site%3Aft.com+OR+site%3Abbc.com%29++after%3A2026-10-21+before%3A2026-10-24&hl=en-US&gl=US&ceid=US%3Aen; 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28pharma+OR+drug+OR+biotech+OR+pharmaceutical+OR+medicine%29+%28site%3Atheguardian.com+OR+site%3Astatnews.com+OR+site%3Afiercepharma.com%29++after%3A2026-10-21+before%3A2026-10-24&hl=en-US&gl=US&ceid=US%3Aen; 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28pharma+OR+drug+OR+biotech+OR+pharmaceutical+OR+medicine%29+%28site%3Abiopharmadive.com%29++after%3A2026-10-21+before%3A2026-10-24&hl=en-US&gl=US&ceid=US%3Aen",
-      "count": 0
+      "ok": true,
+      "error": null,
+      "count": 20
     }
   },
   "items": [
+    {
+      "title": "Moderna, Merck shares fall on eagerly anticipated cancer vaccine results",
+      "publisher": "BioPharma Dive",
+      "publisher_url": "https://www.biopharmadive.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPY2V2WDFWZ3NTOW1YWjdtUjFKekI4WFM5cTVtSXNDR3M5M1RXaHNJd2w1R0lDZjQ3TE9objBCeEZkSFFWR0FxUVRKalFUTUluNmlzRWpYM2xURkJGeFRlVWpNeUszVmtaOXBXWGhzRXNucm1NR0ZoUXgtV2o0bU5RV3RYVzRhQ0wtYXhSVjhLNmFxa0E0Y24xcGtHX2tIUQ?oc=5",
+      "published_at": "2026-10-22T19:34:19+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Merck/Moderna cancer vaccine cuts risk of melanoma death or recurrence by over 40%",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSXhsdlctOU15SmpPZm9IX2gzemJrTWstX0h6cTZwQmotNjBGOXdWOUFLa0Nob3NpSmY3cmFZLTZUSFRDS2xXVVNySTJhdDNlZURUV2lmaFJhSkpiS3RuN09LRGlpM2ttQklLeTVzWDhsVVlLc3pibG5fZE93QWIzZHk3bFo5NnBZUHhNanhBbng2bDBMbGZibTVhLVFmY3I5YlkyNi1OeHdfYmdNWXV1RHYxdVRFUlZRdV85TFNsVVIxcHV1NUV6MUpB?oc=5",
+      "published_at": "2026-10-22T19:11:44+00:00",
+      "regions": [
+        "europa",
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Detailed data confirm Moderna and Merck cancer vaccine met key endpoints in melanoma trial",
+      "publisher": "STAT",
+      "publisher_url": "https://www.statnews.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUmR1SkF0aDk0cTdscjJVbTQ1bEppUlJOUmZpcDVRZmFYVzNfamstMER4SFlKa0RWbWFsbG9KdE1URGtHbG5aSXBrbUtyNndmSE1tRDFKdXRhNWZURWVmRkhUQVNZdkxNRHBndUhOUjZmV0V4eHRDZ2ZTUWNZRndsVGZTUVJlWWM0MzBnRXVaczZKYW9fZVBKZmh4VQ?oc=5",
+      "published_at": "2026-10-22T19:04:34+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Moderna’s Stock Plummets After Cancer-Vaccine Data Shared on Social Media",
+      "publisher": "WSJ",
+      "publisher_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNN3lFT3FtM2N0ZUk0aDFIMWVOZ25wU1RPcGNpZm54c0NrVmJuTHRXZEtPVVdJcUN0ZC1RangwNWFGWUp4bjdPbEY5VnRZcWo1WlQ3a1UzYkdFWFR3MWh3R3hzcGhpX01WakZzX2JmcnR6M3dwNjVjdGdXajdMSWtWNFA2aDAxRGZBUWdRZzJNUzNQNHRXR2pGejdRNnZxQQ?oc=5",
+      "published_at": "2026-10-22T19:04:00+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Salud Pública anuncia plan para reducir listas de espera de medicamentos de alto costo",
+      "publisher": "Acento",
+      "publisher_url": "https://acento.com.do",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeFdjZ1U0dG43YWtvMjdHVF8xN2MtaE90YlNBTnhFWFExT3UzNEd4b3RjSGZSTmdQcTI0aF9rRk9nTDdYVGV1Wl9oLUYyekJraFFxeEczNUJtaUFMNGJKUnBaLWRaVVgydmRRckZtS2FYVmNmaEZnVTRyT0VYdjN1ZVNURDlsUVM4bHZfdG1DOW9FODFxeTZtaFM5Y1dZVjZ4c0EyWXlidGpaWXA1UG9GbHoybjhxc0RUWmpVVEJ2d041VDJoUmfSAcYBQVVfeXFMTnhXY2dVNHRuN2FrbzI3R1RfMTdjLWhPdGJTQU54RVhRMU91MzRHeG90Y0hmUk5nUHEyNGhfa0ZPZ0w3WFRldVpfaC1GMnpCa2hRcXhHMzVCbWlBTDRiSlJwWi1kWlVYMnZkUXJGbUthWFZjZmhGZ1U0ck9FWHYzdWVTVEQ5bFFTOGx2X3RtQzlvRTgxcXk2bWhTOWNXWVY2eHNBMll5YnRqWllwNVBvRmx6Mm44cXNEVFpqVVRCdndONVQyaFJn?oc=5",
+      "published_at": "2026-10-22T19:00:49+00:00",
+      "regions": [
+        "rd"
+      ]
+    },
+    {
+      "title": "Virginia Democrat indicted on federal drug and money-laundering charges",
+      "publisher": "The Guardian",
+      "publisher_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUHlIaTlGZU9FR2hxUHlmTy1IanVrd193X25aV3cwbTB0NkFiNFlIYWd0eG5hUTFPZXBTbkh0Nmp1RlpHOFNBc3hmb1d3SUtPLXFkQVNHWUVhWmtIVjNKb29jZHhtSkpYemt5MXVlVjEzTDZBZFE4QTBycnZqMjVyUjBKMlVpdkpkR09vWVdtbkQ4d0JaaWVtREVkZXY3Zw?oc=5",
+      "published_at": "2026-10-22T18:58:00+00:00",
+      "regions": [
+        "europa",
+        "global"
+      ]
+    },
+    {
+      "title": "AbbVie skin disorder drug succeeds in late-stage trial, but results miss market expectations",
+      "publisher": "STAT",
+      "publisher_url": "https://www.statnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQ2ZaUHhBVVNlSWI3eEVPTml5TklJcWhxRlhrR1NnbDM3VTQwbG1zZEo2M0pCNWFSVkRJNVhuLS1UVUdCelVaWldKcDBtYnVHQjFuV285VU5qNGtSeHV6bGVfb21mejJySWlzVjhRS0JQc1oyZDVOMlJKaWhibHNibE40X0FrdHd2RDJtMzlNS29UellhcWhYa1A2WE9iSjlQQUIw?oc=5",
+      "published_at": "2026-10-22T18:24:37+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Big pharma accused of ‘free-riding on nature’ as global fund attracts just $7,000",
+      "publisher": "The Guardian",
+      "publisher_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbXM1ZzFDWDQyMXloWElaMUxuWWg1bkZmQU1QUFc3THctSFctZ3drWmJSaXdlUHh4bzh2WllDdFh1VFRiVkN1UnNpMkdEczh0QVdVWDZ0dnNKbEhhQjZYeWJCXzVQZHFWcUMyYk1Hb3g4SWRiY25TaXZnamtVUE5hQ25YRHF3bGk0Z1VCLVhQbzd1SE1yb2VHVDQ1dVNLbXRRdVpnZkJMV1BLWE9OYWk0ZS1OQXFzMTVk?oc=5",
+      "published_at": "2026-10-22T17:32:00+00:00",
+      "regions": [
+        "europa",
+        "global"
+      ]
+    },
+    {
+      "title": "California Drug-Rehab Operator Is Charged in Insurance-Fraud Scheme",
+      "publisher": "WSJ",
+      "publisher_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRjZzVmJOc2pXalB3TzdRSnNEanJXc241Z2xseV9TS2I5ZGtzc29JV2hTakVEc1FrUjBaVDExRHYzdnpnUmMxU0RSWUR3eDhETzR3Z1U5RWhrY1RENWRGdms4MGljSE9WUUdwSXZCbGZXYW1ubXlpanZDbHg0YW4wNDJDSDhqVExuYjRfR3Frdzg2N3RWX1ItTXpCRmM2dkxpT0RpT29jdw?oc=5",
+      "published_at": "2026-10-22T17:04:46+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Biohaven’s previously rejected rare disease drug to get fresh FDA review",
+      "publisher": "BioPharma Dive",
+      "publisher_url": "https://www.biopharmadive.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeHlfMUVHLUlOYmZWcXkzQXRqbWxtS1ZsN2tvTnhJMTd0RW1zVmJoa0JpemJSallqQ1BscnprbFJxWU9feVhqcS1nV1lzOXdMV3ZqSDNKcWhhWDJKZWZ2R2VxS0F2TFVRZ19yc2tHbDRSaXhYSUdOQVlIQU1WcC1OZ2JkQnpSY3dQMlpNR2dITG1fTU1HV3paMWR4d0NtMFE?oc=5",
+      "published_at": "2026-10-22T16:33:33+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Will the Treasury restrict U.S. investment in the Chinese biotech sector?",
+      "publisher": "STAT",
+      "publisher_url": "https://www.statnews.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONTRYV0FRQUs2aFRCVGt3U1NJSTIwS21Bc3dXS3pWamF2b2xBZlJuczZ1aVFWUXZOQjRBSFFsWVNyeGdGSHlQNzZyYkJHenZjdTB5N0xRYVJvSUJXT3NaNlN6YTZkdVVsNmxZdi1wNHdIVG1mVU12dHdjdjJhellHb2tlX3ctbWhGa2d4am9mWmpLN0dpaG5pMm41NU9lbU1wMFZHM3o1SEpEZVBr?oc=5",
+      "published_at": "2026-10-22T16:18:55+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Pharma's 'information arms dealer' is up nearly 80% from an April low. Josh Brown sees more gains",
+      "publisher": "CNBC",
+      "publisher_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORXgwZDZGbDVLQUJXd1dHamNacHZRbHpCTkV4aWZPU0xkWEpNRHZwTE5HMGU4WXVVZExRSGRtbUE2cHZYdjVPM0pzOG4yYTFrbmdfcnZpNU9WLXIxSEY2N3EzZVR6WWhvTzY3ak1feGlTT2t1WDhsX2JsUERiUDVvVXlWRTczeFVkT3cwQmNuS2NKb1hFbkFGSGFGZWptWW1ENERRbTRGa0FmSWRSMjl6QnhnZzZGWnRNMVNoZktXX2VSc0dEYVJqMEN2ZkRrbkdBcVE?oc=5",
+      "published_at": "2026-10-22T15:33:22+00:00",
+      "regions": [
+        "usa"
+      ]
+    },
     {
       "title": "AZ's Ultomiris adds 5th rare disease feather to cap with FDA IgAN nod",
       "publisher": "Fierce Pharma",
@@ -55,14 +186,15 @@
       ]
     },
     {
-      "title": "Virginia Democrat indicted on federal drug and money laundering charges",
-      "publisher": "The Guardian",
-      "publisher_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUHlIaTlGZU9FR2hxUHlmTy1IanVrd193X25aV3cwbTB0NkFiNFlIYWd0eG5hUTFPZXBTbkh0Nmp1RlpHOFNBc3hmb1d3SUtPLXFkQVNHWUVhWmtIVjNKb29jZHhtSkpYemt5MXVlVjEzTDZBZFE4QTBycnZqMjVyUjBKMlVpdkpkR09vWVdtbkQ4d0JaaWVtREVkZXY3Zw?oc=5",
-      "published_at": "2026-10-22T15:15:00+00:00",
+      "title": "AbbVie's skin disease drug reduces lesions in trial, company eyes weight-loss combination",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxON21JQ291ZXpadnFuWmV6UENnVDRfMjZjTFhCTGtTeGd3Qjh4M1FZVU5QRVBLWmkyUm8wNEdkdW1lZFotbGRmNlJ1LVNycGRaWHRXWTJ0WlhIQ1NBcFhOMVpqLTlOSkYwdG8wMGtGVTR1SWs0TGdaLXpRT3RpamJ6ZlV5X0lkZGtIMV9mNHB4blhqamJTLTRGbGtRdjRkOGpyTlYxSEtxNDJVLTdqM3drNEg0bFhOZlQ0X0dpcFdiRGVwTVJsN09GQ2JfMmdOLWVwajBlcHhlZUgtSEhH?oc=5",
+      "published_at": "2026-10-22T15:06:40+00:00",
       "regions": [
         "europa",
-        "global"
+        "global",
+        "usa"
       ]
     },
     {
@@ -71,26 +203,6 @@
       "publisher_url": "https://markets.ft.com",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONmxISGhUaWYwZ1k2UFhqWkFza0RCeG1YNWRhTmxod2daVUZLVlllZjdmbG5SNGxuUUJqVE1pZnBYb0NLVExzckNQb1JONWc1MV96bnFpZ091TGgxdFNZQ092S0VUQnBkN0NDNlVuWTB3Wm5xbnBKWEkxaTZfanU3Y2prVnBWT3A4Z3h2dGNYQ3lVYUt5VXY2Xw?oc=5",
       "published_at": "2026-10-22T14:30:00+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "UNICEF and Gavi agree to cut Mosquirix malaria vaccine price by 40%",
-      "publisher": "Reuters",
-      "publisher_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZ25sWVNxMk5jeU4wd2V3YzhUTHBtZV9sSUJVVGUtWkxDMW1RUHJTV0lBR2s4Q3VqQ2gyTnFNN0NKSnlwVnBwUkNNMlhnYnRGaWEzcG1ncHViSVc4SG1Tem94ZzJxV1FyaXZ0VFlyTXFLVzNRNjExcFJPTzdnYlk5M2RHUzhDSFU1dGdNUEVPaHNUdkZrelplWGZab2xKd2pqcjVMeDBNSWptSzc0OVhnbjlzTTlVeWwwR2p1TmRMSFZaOXUtTXZYODNsZw?oc=5",
-      "published_at": "2026-10-22T14:29:44+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "AbbVie's skin disease drug reduces lesions in trial, company eyes weight-loss combination",
-      "publisher": "Reuters",
-      "publisher_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxON21JQ291ZXpadnFuWmV6UENnVDRfMjZjTFhCTGtTeGd3Qjh4M1FZVU5QRVBLWmkyUm8wNEdkdW1lZFotbGRmNlJ1LVNycGRaWHRXWTJ0WlhIQ1NBcFhOMVpqLTlOSkYwdG8wMGtGVTR1SWs0TGdaLXpRT3RpamJ6ZlV5X0lkZGtIMV9mNHB4blhqamJTLTRGbGtRdjRkOGpyTlYxSEtxNDJVLTdqM3drNEg0bFhOZlQ0X0dpcFdiRGVwTVJsN09GQ2JfMmdOLWVwajBlcHhlZUgtSEhH?oc=5",
-      "published_at": "2026-10-22T14:08:53+00:00",
       "regions": [
         "europa"
       ]
@@ -149,7 +261,7 @@
       ]
     },
     {
-      "title": "FDA has finalized its guidance on apps related to drugs",
+      "title": "FDA finalizes its guidance on apps related to drugs, pharma rejoices",
       "publisher": "STAT",
       "publisher_url": "https://www.statnews.com",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMXAyZ3Vwel8zaTZiNFB5V1RKTVBkVl9uYl84NHFFeWRMeGlGVUJqUHRBYVQxbnJxQlVsWjlUaVRnQzlZX2hyUlR1MzVYbUlxa0VZZWNaVC1qb1FOS0hpcXg2WVktdHNUZEFRM0RfaGxTcURPY3ZDVHB3U2FLSzdzZUhHX1Z6U19kWDhja0R4V0otWld0dUpDelA2T2VuQQ?oc=5",
@@ -198,7 +310,9 @@
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcXBsNThudWZpUGNnRkxwaHBLN29kVDNMZmNxT19Ga2VGQTR2VHhRZV9OQnc2V0VHQlZTS3hET1NsV3M3UC1HZXllalFYOHdEa2JHazZjck9UVXFwamNTNjhjNHJXeVpuUGJNS2VCTVozTmdQOEpHMUI4bzI4ZklFQnRjdXFBdmRHUFhuWGNvRHVtbHlkUmNOOUxXMnFXUmNRVUdzaGZQX01LM0hUUUFDX3pqUlhrR2d0VGVWREpNTS1IejJybzR5ZzAxQ3p2MWNVbm5oag?oc=5",
       "published_at": "2026-10-22T11:25:44+00:00",
       "regions": [
-        "europa"
+        "europa",
+        "global",
+        "usa"
       ]
     },
     {
@@ -242,16 +356,6 @@
       ]
     },
     {
-      "title": "HanchorBio and Aston Sci Join Forces to Unlock the Potential of Next-Generation Immunotherapy Through Cancer Vaccine Combinations – Company Announcement - FT.com",
-      "publisher": "Financial Times",
-      "publisher_url": "https://markets.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcm5FUEF3NXo4bFE3ZUo0TkhvaGRVbWZuWWVzN19rYUdhdWF5bUxVYU9EelRoUWNFelVIWmdVWVJPRWZUVTN6T0JLQVhTVkhkQzA5MWpKNFUtMWFsSUx1b2hrUlNVenhmX0ZCdkMzRklyalRRcDRWSVpBTGpwYTdMZl9NTklLMGQxWG4xdTctSXh0RlFOc1pTSA?oc=5",
-      "published_at": "2026-10-22T10:00:00+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
       "title": "UK trial 'could halve time to test Alzheimer's drugs'",
       "publisher": "pharmaphorum",
       "publisher_url": "https://pharmaphorum.com",
@@ -259,17 +363,6 @@
       "published_at": "2026-10-22T09:08:06+00:00",
       "regions": [
         "europa"
-      ]
-    },
-    {
-      "title": "Big pharma accused of ‘free-riding on nature’ as global fund attracts just $7,000",
-      "publisher": "The Guardian",
-      "publisher_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbXM1ZzFDWDQyMXloWElaMUxuWWg1bkZmQU1QUFc3THctSFctZ3drWmJSaXdlUHh4bzh2WllDdFh1VFRiVkN1UnNpMkdEczh0QVdVWDZ0dnNKbEhhQjZYeWJCXzVQZHFWcUMyYk1Hb3g4SWRiY25TaXZnamtVUE5hQ25YRHF3bGk0Z1VCLVhQbzd1SE1yb2VHVDQ1dVNLbXRRdVpnZkJMV1BLWE9OYWk0ZS1OQXFzMTVk?oc=5",
-      "published_at": "2026-10-22T09:03:00+00:00",
-      "regions": [
-        "europa",
-        "global"
       ]
     },
     {
