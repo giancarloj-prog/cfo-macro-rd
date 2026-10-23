@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-22",
+  "date": "2026-10-23",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-23T00:50:44+00:00",
+  "checked_at": "2026-10-23T12:09:56+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -23,32 +23,32 @@
     "bcrd": {
       "ok": true,
       "error": null,
-      "count": 3
+      "count": 0
     },
     "fiscal": {
       "ok": true,
       "error": null,
-      "count": 4
+      "count": 0
     },
     "dgii": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 0
     },
     "finance": {
       "ok": true,
       "error": null,
-      "count": 7
+      "count": 0
     },
     "securities": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 0
     },
     "economy": {
       "ok": true,
       "error": null,
-      "count": 7
+      "count": 1
     },
     "economist_andy": {
       "ok": true,
@@ -83,58 +83,11 @@
   },
   "items": [
     {
-      "title": "Magín Díaz dice dominicanos podrán costear cena de Nochebuena pese a quejas de situación económica; asegura inflación está controlada",
-      "publisher": "El Nuevo Diario",
-      "publisher_url": "https://elnuevodiario.com.do",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPX0hrOVR3NDBKZTBLZGRPdzNyQjJubzd3Z2Rnd1ZxNXJMaHBtYk51aExHUDhSRlZ3cGxpcUJNRGluQmdzTDhSdzlzS2Vmbjh6X3BjX2JTRUFiZ2s1TUs1NG1xbkQ5d3RnRlFQWElpQUNPT0JXSGdwRUZORkNIT0lwb2g3bjNXVzRQMXRfSVZGWjlyYTZ5OE9aZGNmNURQeFZNLTBueUVUc1o1VGtpMlFtOU12UUowSGpkeHJ0bll3NnJEUXc4OGJ3LWJpS01HbGs1MjJGWEx6QlBxS1hUZjJSMjBMVVBIeHdfZ1VzcVZoZ0RMRmRG?oc=5",
-      "published_at": "2026-10-22T21:04:00+00:00",
-      "topics": [
-        "economy",
-        "fiscal"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "economy",
-        "fiscal"
-      ]
-    },
-    {
-      "title": "Superintendencia de Valores lanza iniciativa para detectar fraudes financieros en RD",
-      "publisher": "Periódico elDinero",
-      "publisher_url": "https://eldinero.com.do",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNFpKXzNrSEFnNU1zTUY4Qi1Gam9VUC1OT2dfWlRibjd5Slp0ckJFcmVncmpweXc1WThtekxVTmtLaUx3UkVhOHVVSk4wcXUyMWQtNUFQbUxBZ1JRTXpwczNQcGhWdDFGcjVBSGh1bHVJVENyMHVuSUR1U0hadVdpUG5IdW5LREQ0azNpVkxCMzVqWWtVdWtDRF9QMXBYcjZMWVJ6WUhNcWQ5TGl4NTBmQzVLbUdLdm8?oc=5",
-      "published_at": "2026-10-22T17:24:23+00:00",
-      "topics": [
-        "securities"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "securities"
-      ]
-    },
-    {
-      "title": "¿Fiscalización o espectáculo? Rosa NG cuestiona el trato a las tiendas chinas en RD",
+      "title": "Pedro Silverio publica “Ensayos de Economía”",
       "publisher": "Hoy Digital",
       "publisher_url": "https://hoy.com.do",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcDNEa1pYc1FTYUtEVzRELUFDbGthcUlBdFdBcGxKN3VQOUNrb1g2WWpIRkN6MGdrRGJ1MHJySzhhV0pLSlpRYXdqTzRnRXljRllKTmhVRllPRS1aYk5hV0xNZmRtYUx2dTBWUDhIVldpZF9yZnlDcGh6VjIydy1KUGNQTGR1QVlpXzl6bWpHTzB3UWpZQlUzenQzb2haWGdWY3Bod1FfMUNjM0du0gGyAUFVX3lxTFBrVk9heVVaUHQ1NExUZmlrLUFzWE5iYkoydGlYV1QyS3NoNmJCMmZlNmo5OWZMeFdrcFY2aUdoVHNtYUNVUGZ2Rm1vbUdxcldsS1hERkxJUDJqQjlzcWlWVTZ1TFVwZl9iZ0dTN01wOUFQN3dUV2dkSTQ3NWZVRVNtTW1BLVZwdGJfZmRfZS1qY0VKcUxRMklwLVF1Z3VWTnJET2hyOHp0ZTFzb1hiTjJaU3c?oc=5",
-      "published_at": "2026-10-22T16:05:02+00:00",
-      "topics": [
-        "dgii"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "dgii"
-      ]
-    },
-    {
-      "title": "RD busca atraer inversión canadiense en tecnología, dispositivos médicos y manufactura avanzada",
-      "publisher": "Diario Libre",
-      "publisher_url": "https://www.diariolibre.com",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZE4xVnVxTS03aGtzbExXWUZhVXUyS3pyYURvZnEyQXdoaGJPRUxCM3RBT0VvY25WYVpnZ2RobTZwMWZ1WG5XdXEyZWFlQkdhbGYyRjNJeWFuUXY0YXlCZDE5YnV0UkJFMVVFdkhodzNUb1Q2RUJCNElYNUQ2cHNZN1JzY2VsTVRBMDZKaWMtSGdGTnJsZ0M1MktfNGRuM2YyZ3ZXOTVxQjQ5MEo2U1lRSEdSek1JeTEzU1RJZUREQlp2RFIwaGJFVtIBzgFBVV95cUxQcERyUUx5c29PUGtuT3ktbUJVbUNRdDgzU1VZek5DLWNqdjAyWlVHc2hyOWVlQnJtVWlmNHlSd3BFUWh3MUhIVFpncEdwWV84V0VJWmhFSFJLR1ZnbjdKQVJrQ2lsdXV1UWcwVzVqc1pPUEVJVVo5a2ZrVXZsSG5pRDVoRFMyOXZCTF9nUk1iTFNDZDVlSjFVV1VkdnA5MUtxSDZQMm9WbjgxNGV0UFhvUW8xcERPYVpMeEk3Q2RBM2pMQVRQUXlWUUdyOUJBZw?oc=5",
-      "published_at": "2026-10-22T15:08:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQm43TWlUb28tWlZfbFFGazgyenRYeEhTR1FvUzhhel9ZYlJDTmlwdDNIOUhhS0ZfcGNZOGlVd1FhaGcyTk9ZTWpZVDRZUUduMVNpelgtY0VKbkVMc3hYakp1UGRFM0prYUFTV1RvMU11YzJSMXczUmRneHdCdkhtVWhSTUhIeDdsMTVB0gGLAUFVX3lxTFBCbjdNaVRvby1aVl9sUUZrODJ6dFh4SFNHUW9TOGF6X1liUkNOaXB0M0g5SGFLRl9wY1k4aVV3UWFoZzJOT1lNallUNFlRR24xU2l6WC1jRUpuRUxzeFhqSnVQZEUzSmthQVNXVG8xTXVjMlIxdzNSZGd4d0J2SG1VaFJNSEh4N2wxNUE?oc=5",
+      "published_at": "2026-10-23T04:00:00+00:00",
       "topics": [
         "economy"
       ],
@@ -142,216 +95,6 @@
       "economist_match": null,
       "searches": [
         "economy"
-      ]
-    },
-    {
-      "title": "RD solicitará inspección de EE.UU. para reanudar exportaciones de mango",
-      "publisher": "Acento",
-      "publisher_url": "https://acento.com.do",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE91VzdONDZRUnpySkQ4Mm9YWjEzc2hDQTlKRklVeEJNWlNKd01JYWJfMzJKa193bDMxSVFPZWZmN0pkTENqX094b18yMkozTTczV0NFWkJGcEZFWHFxdmhrZVpwVHZyUnJk0gFoQVVfeXFMT3VXN040NlFSenJKRDgyb1haMTNzaENBOUpGSVV4Qk1aU0p3TUlhYl8zMkprX3dsMzFJUU9lZmY3SmRMQ2pfT3hvXzIySjNNNzNXQ0VaQkZwRkVYcXF2aGtlWnBUdnJScmQ?oc=5",
-      "published_at": "2026-10-22T14:00:56+00:00",
-      "topics": [
-        "economy",
-        "finance"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "economy",
-        "finance"
-      ]
-    },
-    {
-      "title": "Canciller Ito Bisonó plantea ampliar relación económica con Canadá hacia tecnología y manufactura avanzada",
-      "publisher": "Acento",
-      "publisher_url": "https://acento.com.do",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOT2duWmFKdHRxZ1Jva2ozOTVFMUxnMUFaT3FFUS1rb3E1UGxIVmUtdE5pYnR6eUVEN282cW9GaEhxNWVPcWR0ellEdUJpYlctZmFFcmVROVF1elZRUjJxQmlaRFh6Um9OejI5OEx1WUc5QkNIX0JZcWtOTGJ3c3N6ZVgzaUszMkNLNFVuZkhoaEtzMnVNVHZ3UFFCTzVfam1aOEM2ZHRmOVpNbWx6MEEwTjhBdmd3NFhQLVpBYlppa2NCMjlGT1J1dVpXeDZFTnk0WFhZY19aQmxnY0NhVXpGQVE5eFrSAeQBQVVfeXFMTk9nblphSnR0cWdSb2tqMzk1RTFMZzFBWk9xRVEta29xNVBsSFZlLXROaWJ0enlFRDdvNnFvRmhIcTVlT3FkdHpZRHVCaWJXLWZhRXJlUTlRdXpWUVIycUJpWkRYelJvTnoyOThMdVlHOUJDSF9CWXFrTkxid3NzemVYM2lLMzJDSzRVbmZIaGhLczJ1TVR2d1BRQk81X2ptWjhDNmR0ZjlaTW1sejBBME44QXZndzRYUC1aQWJaaWtjQjI5Rk9SdXVaV3g2RU55NFhYWWNfWkJsZ2NDYVV6RkFROXha?oc=5",
-      "published_at": "2026-10-22T13:00:02+00:00",
-      "topics": [
-        "finance"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "finance"
-      ]
-    },
-    {
-      "title": "Haití necesitaría al menos 67 años para alcanzar el nivel económico dominicano, según economista",
-      "publisher": "Diario Libre",
-      "publisher_url": "https://www.diariolibre.com",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSGIxZ1kyWkFIdzdhcjJoVU5ZdmxENWhxbnhNQ0hzZGh0QmRmSHgzMmFjSFNyZW5wcVIySW1DbnkxS2ZzMmQ0NDNzeUlrQTYwWTN5dm0tUllJdFoyWC1NZUlPcFJCYkp4cmdoeFo2XzhMVllxN2ZzOHJQMnNta1otVm9rVEt3a2hpdS1ER0c2a1hmcmF2MkFlWGpMdzFYSmdWemFtcFZ1WG9TRGRGclhSNlZiZnlQSXBVWHfSAb8BQVVfeXFMTjRNVFIzUXdBQWtzN3pqR1pHTEF5TmxuTGV5OVFzamYwVTZOdkhtdXRVUGlHbFhWVU5tcUVORV9UT1ptbFpsZmdsMFYxQnFjSFBfYm9uUW1UVkw2TkRhN0ZRZmxqeW5PczRwa1ppdFFMQmNBX1hYX0lxb2J4LThXVFpQMi1BZ1V1TFh1OEdCdlc0QmxYcS1GS1p4QnlEdkp0elA0TkViS0tjcjd4OGpScy03WThrQ2VFVG9RQzQ2dDQ?oc=5",
-      "published_at": "2026-10-22T12:02:00+00:00",
-      "topics": [
-        "economy",
-        "opinion"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "economy"
-      ]
-    },
-    {
-      "title": "Proyecto de ley contempla incentivos fiscales para promover la eficiencia energética",
-      "publisher": "Acento",
-      "publisher_url": "https://acento.com.do",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQajJ5Y0VqUGRnZ2xQdHJfWGU3UF9JcGRUd0lPdEFNZDZaT0V6aW1pRFpkS0kwZkt5eFRRRmt2Y0xRQ1Z2X3BPWTYxSXlzTGxjZC1UTGtwWnpIVUsxUzVUMEVNdkF6ODVZbjlWX0ZYRFkwUElCVjRHTHRSZDhXcXhOWTFNMmxQWkFNMGpKV2VZTGhOeF8xeHJJd0dFRkdzdlFfWldoY21PUXZRZklfV09fSW1ucWt4R1dvZzFPTlJyZVhsMmlrYnNr0gHHAUFVX3lxTFBqMnljRWpQZGdnbFB0cl9YZTdQX0lwZFR3SU90QU1kNlpPRXppbWlEWmRLSTBmS3l4VFFGa3ZjTFFDVnZfcE9ZNjFJeXNMbGNkLVRMa3BaekhVSzFTNVQwRU12QXo4NVluOVZfRlhEWTBQSUJWNEdMdFJkOFdxeE5ZMU0ybFBaQU0wakpXZVlMaE54XzF4ckl3R0VGR3N2UV9aV2hjbU9RdlFmSV9XT19JbW5xa3hHV29nMU9OUnJlWGwyaWtic2s?oc=5",
-      "published_at": "2026-10-22T11:00:34+00:00",
-      "topics": [
-        "finance"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "finance"
-      ]
-    },
-    {
-      "title": "Entre salarios insuficientes, dólar caro y vivienda costosa, ¿alcanza el dinero para vivir en República Dominicana?",
-      "publisher": "El Dia.com.do",
-      "publisher_url": "https://eldia.com.do",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUFEzVkFBOE5Wd1Z5V01aNWRCdUQxZkp3d0hFbExqdi14cmFEY3lvSnhGWGNxRDktNEJDT3FUQ2Z2MEEtQ1FDVjV4endUTTRWSkhPQ1JmLTJsb0xVM3RHWEY5MHB4WnY1dVJkYl9JZjlJUmN4ckNBbEdIWFU4NUh0SzM5cDNZT09uQWUxdFZ4RGhaQXlnV2M1c2R0ekN5dUdJQXg0cnhBMmRVUXRhOTNmd2RMYkRKdmJnYmItNHR4M0RKdGJSTVpsUVhOUjhuZw?oc=5",
-      "published_at": "2026-10-22T11:00:00+00:00",
-      "topics": [
-        "economy"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "economy"
-      ]
-    },
-    {
-      "title": "¿Tiene un préstamo? Así impactan los cambios en la tasa de política monetaria",
-      "publisher": "Periódico elDinero",
-      "publisher_url": "https://eldinero.com.do",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeFNrS2xZUXU2VkpPQzVQU09QWHAzMFFFZ1IyVFZKbktaaFJaRFVFdXFjYmJSZXRiVjRBdkxlZ0w4dXlYMDhNQk03S0NCTXJXcHUxTUUwRjZaSy02WkNiZ3VVUEtmeWZpZER3WnBGWUJUaEhkUVcyM3k4aHVMOS01Q2V0ZllxVldjcl9mczVtMHBYa2RQcVRkNWJoTDV0eEIxY1ZWbkh4bWpKQTA?oc=5",
-      "published_at": "2026-10-22T08:28:43+00:00",
-      "topics": [
-        "bcrd",
-        "finance"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "bcrd",
-        "finance"
-      ]
-    },
-    {
-      "title": "Para el 2027, el Gobierno gastará casi mil millones de pesos diarios en intereses sobre la deuda: 40 millones por hora",
-      "publisher": "Acento",
-      "publisher_url": "https://acento.com.do",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQU3ZoSktXcElDUFMyQnNHcTV4RTZhaVRuZllxNFZ6YXFUYnNlSzM2anlva1NQNHJVVG82RHVOa1pQUGZ4amVKTEFnVEF6c1F5UzZMZldZbndLS0FqeXJVZVVLa1c2VFlZOTMyd1lWRUJ1eDRaY0R1X1hsb2UtS1VfaXhqT3lZZ3NBcFZvX0plZEZRRDR4Zmp5WVFtSkJLV05Mak5IV3hpZXEwekNrZGNTanF0RU1Ib0pma3FlaDhFZm1EZUlJaUFoLUhTSGttT3EzQWhhUnVKSUhZcGsweFY0dEtkOUJjTVcxV0czOVhjMjBxZ9IB8gFBVV95cUxQU3ZoSktXcElDUFMyQnNHcTV4RTZhaVRuZllxNFZ6YXFUYnNlSzM2anlva1NQNHJVVG82RHVOa1pQUGZ4amVKTEFnVEF6c1F5UzZMZldZbndLS0FqeXJVZVVLa1c2VFlZOTMyd1lWRUJ1eDRaY0R1X1hsb2UtS1VfaXhqT3lZZ3NBcFZvX0plZEZRRDR4Zmp5WVFtSkJLV05Mak5IV3hpZXEwekNrZGNTanF0RU1Ib0pma3FlaDhFZm1EZUlJaUFoLUhTSGttT3EzQWhhUnVKSUhZcGsweFY0dEtkOUJjTVcxV0czOVhjMjBxZw?oc=5",
-      "published_at": "2026-10-22T07:00:00+00:00",
-      "topics": [
-        "finance"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "finance"
-      ]
-    },
-    {
-      "title": "Banco Mundial urge a República Dominicana invertir en capital humano",
-      "publisher": "Periódico elDinero",
-      "publisher_url": "https://eldinero.com.do",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPN29wZmlRWFNkZ21jWlVtN0N1dDFLd1JkT29sOW9fTGZwcTN4anVkQVJlOFNqR3o1ZmVyMU5JNWEtS0N6cWg1dlpRaFlUeGtWNHFXZWZYUDBMQTV6X3lVSWJtZ2J3RkFPR0wxNXFsUDA5aHVyQWJJNEIxalpLUkt5aXFvdmMyN3pDX3o4cHAwNmJfWmVWaUNBdktHOFI1cWQ1ZFE?oc=5",
-      "published_at": "2026-10-22T06:29:09+00:00",
-      "topics": [
-        "bcrd",
-        "economy",
-        "finance"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "bcrd",
-        "economy"
-      ]
-    },
-    {
-      "title": "Luis Abinader es el jefe de Estado que más ha endeudado a República Dominicana",
-      "publisher": "Periódico elDinero",
-      "publisher_url": "https://eldinero.com.do",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMzlpYXlfMHV3SGg0Z0IzVkVhSkFNcnZ0cnJXdkFXOGVHRlJIMnVjYWJ0QUhVVVc2REpNWVVSU3VXWEw2QUhwZ3Nra2Vaa096OWdtQVJ1azcwYThCdTIzZ1lIZFFvRllCNU84UHdjdEFSS3VVTnZNOGlFQXUwOThYb05SaUVrVTdNbTY3S0tWN2dDOU05ZDA1WXJHVFJld3ZnMktpWk1WT2ctUU9qLTRj?oc=5",
-      "published_at": "2026-10-22T06:29:09+00:00",
-      "topics": [
-        "economy",
-        "fiscal"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "economy",
-        "fiscal"
-      ]
-    },
-    {
-      "title": "Envejecimiento poblacional presiona la sostenibilidad de los sistemas de pensiones, según estudio",
-      "publisher": "Acento",
-      "publisher_url": "https://acento.com.do",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNU0l4VEVsakhDRXB6OHdHUmNEZEZLUDBiYV9IaEY2MEVVOFNzS1lQQ0ZIblRBczhPc2ZmckMzaE5xWHJWeUk4QmNfSlFzWVU2Y0lOSVBLeF9aMS1jaUE3VHFsWmdpczlaZm1XREpSVnktTGh5ZXdKUzNuYWNIa0lHOGJtcXl5eTlLYXBVRVFsSVNQV25HeHZPTTJDeExubTlZMHNBZHV1bkFvWndfTnpaLUxMVW5tbVZrRURsXzQ2bzhTQ1lkQzJ0QlF0SFF3eHNVU2hkakNma9IB1wFBVV95cUxNU0l4VEVsakhDRXB6OHdHUmNEZEZLUDBiYV9IaEY2MEVVOFNzS1lQQ0ZIblRBczhPc2ZmckMzaE5xWHJWeUk4QmNfSlFzWVU2Y0lOSVBLeF9aMS1jaUE3VHFsWmdpczlaZm1XREpSVnktTGh5ZXdKUzNuYWNIa0lHOGJtcXl5eTlLYXBVRVFsSVNQV25HeHZPTTJDeExubTlZMHNBZHV1bkFvWndfTnpaLUxMVW5tbVZrRURsXzQ2bzhTQ1lkQzJ0QlF0SFF3eHNVU2hkakNmaw?oc=5",
-      "published_at": "2026-10-22T06:00:46+00:00",
-      "topics": [
-        "finance"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "finance"
-      ]
-    },
-    {
-      "title": "Banco Central obtiene un premio gestión proyectos",
-      "publisher": "El Dia.com.do",
-      "publisher_url": "https://eldia.com.do",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9HUVFTTDlFVGhjZzcwWGdEVzlIOGtNTFZvbks0NkVYRnl5TG5KSFQweGxXUW9MNUdMY3FUcEM5aDBENzNKc2dBeHdTY1JubllPNGtldTZVNlF3alUwUDV3Yjl6amhjLWFVVEZIcVUwbDdYbjhSYnN2Z3lmdw?oc=5",
-      "published_at": "2026-10-22T04:01:00+00:00",
-      "topics": [
-        "bcrd",
-        "finance"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "bcrd"
-      ]
-    },
-    {
-      "title": "El FMI, la espiral de la deuda y la República Dominicana",
-      "publisher": "Diario Libre",
-      "publisher_url": "https://www.diariolibre.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdEl2bXJWS3VtWVBGWUUwdFVCZUhBc2ExRGt1ME9hLUhDbV9RNktqVDFNUUctZm1oWXNkLWlsTEI1aC1yajllWV9iS080UWw0YndqckJkRE01ZFpfam1VZGcwN3BmaElYSnhCYjBLQ2h5dWlKNF84bnpSUk5DREsybkxUS3p2NFBuN3NKcFlkRjlnX3dhZzh3T0JLSlRfWDFueHduaWtBZXcwZkFxOFZUbXlOdjJmQzVD0gG-AUFVX3lxTE9DaFZxUW5WUkNaUXhzZDIxaEdxLTV1TjFwa0VNa1U2bHIyX1lJcVRXeFhpVzdoYk5qVWlPNXE0LWltRXU0WVE0YnF0aUJ2SEZVZm14akxLWG5SMW9VRUtUYy1Ub3J5RHp3QUJ3RkVrM05hUk1pZlBzcUtnNlFNTTlSd3ozbHVTMmZtVmNZM2NvRm5mVXlOUUtkVkowQ1JReWxvT1BHbGdiNm1ERGU5NFdzam1wd0c5MkRkbk0zdWc?oc=5",
-      "published_at": "2026-10-22T04:01:00+00:00",
-      "topics": [
-        "economy",
-        "fiscal"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "economy",
-        "fiscal"
-      ]
-    },
-    {
-      "title": "Loterías extranjeras sin autorización se venden entre bancas, colmados y verifones",
-      "publisher": "Diario Libre",
-      "publisher_url": "https://www.diariolibre.com",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMHZmV1c2M2h0Y01yY0RSWmlNanpDR1N5OG80amJDMmFKN0ZTOEp1RzVPWWROWHRGanNNemNsRDF5bzI0WjNmczJsU0UzYmdFNFFvQkFhM3JyekwxcHpCbE1HWlhxVUtQTUNlLXRxU0NTbkF5bGtObFBtR0Z6QksxNG5KV0wyelFwR01CalB1SVJkWDJDZko0ekxMLWxTcngzam1BLThZNGhnUnZiZU5zSnIwa1VLX0JfeFZ1VU1tT3lpQdIBxwFBVV95cUxQZkxqMS0teHdoUGthS05qcGM5TXRqd3l3RFVGQjk0aFRkeldEOGRoejFKc21NRGhsNDlHQU9FaHVTMVcyaFNkangxWEt4YnVyRXlUcEVCTl91VmlCby1aYU9TdXZ5RWROV0x0cHB6WXdRTjJtUWRuOVZIeGNWTnBUZjBOelJnN1VCa0RJMDJmRUwwMF9QTm40ek9VMzItbHFkM1Q4OWFtSHVOaFpiTEFyX0pkY3lMOU41YnpnUDI0N3ZmTzVUWFE0?oc=5",
-      "published_at": "2026-10-22T04:01:00+00:00",
-      "topics": [
-        "finance",
-        "fiscal"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "finance",
-        "fiscal"
       ]
     }
   ],
