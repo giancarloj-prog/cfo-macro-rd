@@ -1,7 +1,7 @@
 {
   "date": "2026-10-23",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-23T15:45:25+00:00",
+  "checked_at": "2026-10-23T15:56:46+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -34,7 +34,7 @@
     "europa": {
       "ok": true,
       "error": null,
-      "count": 25
+      "count": 24
     },
     "global": {
       "ok": true,
@@ -55,12 +55,23 @@
       ]
     },
     {
+      "title": "Lincoln-based gang jailed over £2m drugs conspiracy",
+      "publisher": "BBC",
+      "publisher_url": "http://news.bbc.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBmNlFhT3BpOHJpSGhieTFabW0xZm9FaDY5ZGk2RFBtLXdMRUVab1NnLWU0a0s1Sm1ZUTZuaFBjcTFrckNnc3pLRGctOFhHY2x0NVhRZkpYTmdJYTRGTEE?oc=5",
+      "published_at": "2026-10-23T15:11:46+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
       "title": "The Narco Hack review – an epic tale of how detectives’ tech wizardry smashed a billion-euro drugs ring",
       "publisher": "The Guardian",
       "publisher_url": "https://www.theguardian.com",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcV9aV2NGdnFKX0xFLUlHNW1yYWZxYWI4dFBTc29WRjh0dVFPYno0SVZjUFBCTVlMbjJxeGRLV193VV9sd0hSZHhVWFJCYkxoOEU2TVdxNXBsd3VFRExwR3Z0SWN5aEl0V2RaZGItWWJVeVBPNFZKWXF1QnNtRExUdnllM2dpMFRuRkNENzFwMTdtWFJJS1BpSGJkdGZCcFZWQXc?oc=5",
       "published_at": "2026-10-23T15:02:00+00:00",
       "regions": [
+        "europa",
         "global"
       ]
     },
@@ -139,16 +150,6 @@
       ]
     },
     {
-      "title": "Pathos AI Secures $237 Million in Series E Financing to Scale Agentic AI Drug Development Platform and Advance Oncology Pipeline – Company Announcement - FT.com",
-      "publisher": "Financial Times",
-      "publisher_url": "https://markets.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPb2RwRmNFZk9vc1ZEQUMwTmtLNFF2dlh2d3Y4SmVZLXdZYk8yRzdib0hqTnJRSWhOdnBYcjZQOXlGWFBkUDdsTlRnc3dpZzFwMFJRWkVRbE5xanVZVVo3eWctZW84b3dyczJ2RUpJaDg0ZVpaTjZXSEhrY3Z6RDVhSzN2Q1hFNnNZQ1pRM2gxTUkzTTNXeGsyWHJNek1DZUwtOG9HUWxR?oc=5",
-      "published_at": "2026-10-23T13:00:00+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
       "title": "Fierce Pharma Asia—US Treasury homes in on China deals; Hengrui's secret sauce; Samsung Bio's strike developments",
       "publisher": "Fierce Pharma",
       "publisher_url": "https://www.fiercepharma.com",
@@ -186,7 +187,6 @@
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTUU2WGdpVGc5WnlxS3dBSUNOOXB4TUFzRkduVll0ZzFMWlBsTnc4YlZILXVxMURldzZTSUo3UE4wcUw2bXpXWlQ2Nk5vYWFQV0YtNnljUVdUNlVSaFJLZHIwS1lLMC1SRVBuZ0ZpenRUS2VOa2c1Z2lkNDhlbUtRNFFPMjBxR3l1d1B0Z1VGQVNvYllJQV81eFJrMUFOdkozRVRjTXBITV9HYnpNRXBEMTdnRjhmdnc?oc=5",
       "published_at": "2026-10-23T12:06:48+00:00",
       "regions": [
-        "europa",
         "global",
         "usa"
       ]
@@ -357,16 +357,6 @@
       "regions": [
         "europa",
         "global"
-      ]
-    },
-    {
-      "title": "World first personalised cancer vaccine stops disease returning in major trial",
-      "publisher": "BBC",
-      "publisher_url": "http://www.bbc.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAzR2Z0REVBOHlKbU1ZZ09GYTBONWJfY1V2Qld3RHZqZkFfRFFyTkJnOU5vS0d3cU1oQjE1a1Vtd05vODB6ektkWm94dzJ3d252QklTM1kzN0xZbGRs?oc=5",
-      "published_at": "2026-10-23T07:49:02+00:00",
-      "regions": [
-        "europa"
       ]
     },
     {

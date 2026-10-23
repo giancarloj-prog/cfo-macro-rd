@@ -1,7 +1,7 @@
 {
   "date": "2026-10-23",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-23T15:45:24+00:00",
+  "checked_at": "2026-10-23T15:56:45+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -48,7 +48,7 @@
     "economy": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 2
     },
     "economist_andy": {
       "ok": true,
@@ -98,6 +98,21 @@
       "searches": [
         "bcrd",
         "fiscal"
+      ]
+    },
+    {
+      "title": "UASD abre este sábado maestría en economía naranja",
+      "publisher": "Acento",
+      "publisher_url": "https://acento.com.do",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNXdiS3dMLTdZemtnaVR6aXhPWFFRUkJnbEdROHdEXzUtWDBjbHoySVI3MmVfY3BINnNCRXdybFo0VnNHcTNfV3R5TE1hZWprRUhhczNoaDdpWlc5aXRSelpiR25WT3puZXE5X1h2aXk4dG92VzZUa2xPQ2tOTU5mQ3hEZFdYMlJneFFfVE9BekN6YjE3TGZqTtIBmAFBVV95cUxNNXdiS3dMLTdZemtnaVR6aXhPWFFRUkJnbEdROHdEXzUtWDBjbHoySVI3MmVfY3BINnNCRXdybFo0VnNHcTNfV3R5TE1hZWprRUhhczNoaDdpWlc5aXRSelpiR25WT3puZXE5X1h2aXk4dG92VzZUa2xPQ2tOTU5mQ3hEZFdYMlJneFFfVE9BekN6YjE3TGZqTg?oc=5",
+      "published_at": "2026-10-23T12:55:27+00:00",
+      "topics": [
+        "economy"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "economy"
       ]
     },
     {
