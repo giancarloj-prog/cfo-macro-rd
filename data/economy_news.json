@@ -1,7 +1,7 @@
 {
   "date": "2026-10-23",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-23T12:09:56+00:00",
+  "checked_at": "2026-10-23T15:45:24+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -23,12 +23,12 @@
     "bcrd": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 1
     },
     "fiscal": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 1
     },
     "dgii": {
       "ok": true,
@@ -82,6 +82,24 @@
     }
   },
   "items": [
+    {
+      "title": "El Banco Central ha recibido RD$178,677 millones vía la Ley Recapitalización 167-07",
+      "publisher": "Periódico elDinero",
+      "publisher_url": "https://eldinero.com.do",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMk1vemw0ME9XOFNGNUhVaklzT25xVGtyeXc0b1FLMUJyeVBTMlRGLWZSZVNHX1lLZEtWc2RFWEdSYVBBN1NRR3JXM2pxNVFpZU9nb3dyYkRTNGlfbGtsNmNlQktIU2liZTBfc2c2aF9VbC1EWDItaFJCMXFWWnZrcE1iMmVPa3kwemlGTGFrelFfcllIZTB3OEF0TVYtS0lfRC1ycVFlNkJ6NWxuU2tFUjV1cw?oc=5",
+      "published_at": "2026-10-23T13:17:13+00:00",
+      "topics": [
+        "bcrd",
+        "finance",
+        "fiscal"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "bcrd",
+        "fiscal"
+      ]
+    },
     {
       "title": "Pedro Silverio publica “Ensayos de Economía”",
       "publisher": "Hoy Digital",
