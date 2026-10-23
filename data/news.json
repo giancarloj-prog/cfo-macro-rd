@@ -1,7 +1,7 @@
 {
   "date": "2026-10-22",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-22T20:42:34+00:00",
+  "checked_at": "2026-10-23T00:18:08+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -14,7 +14,7 @@
     "rd": {
       "ok": true,
       "error": null,
-      "count": 2
+      "count": 3
     },
     "centroamerica": {
       "ok": true,
@@ -29,20 +29,106 @@
     "usa": {
       "ok": true,
       "error": null,
-      "count": 20
+      "count": 23
     },
     "europa": {
       "ok": true,
       "error": null,
-      "count": 13
+      "count": 17
     },
     "global": {
       "ok": true,
       "error": null,
-      "count": 20
+      "count": 24
     }
   },
   "items": [
+    {
+      "title": "Cancer Vaccine Cuts the Risk of Melanoma Recurrence, Merck and Moderna Report",
+      "publisher": "The New York Times",
+      "publisher_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUkxBT0djR011TW1MZmxEeGFneWJURnJSNkZHdm5jN3RnUFZXZTEwZnBjVGhQZnJXSGprTDhfdi1WNWpueFBWMjRSS2Zsaks5cm9sMUd6OUlWRzNGZkphWnk5SDdmREJtYjFCcGt4V2FvT2NmeklFMlBxOFZOQURvSTNzZTl4eVVDenc?oc=5",
+      "published_at": "2026-10-22T22:48:01+00:00",
+      "regions": [
+        "usa"
+      ]
+    },
+    {
+      "title": "Moderna, Merck shares fall on eagerly anticipated cancer vaccine results",
+      "publisher": "BioPharma Dive",
+      "publisher_url": "https://www.biopharmadive.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPY2V2WDFWZ3NTOW1YWjdtUjFKekI4WFM5cTVtSXNDR3M5M1RXaHNJd2w1R0lDZjQ3TE9objBCeEZkSFFWR0FxUVRKalFUTUluNmlzRWpYM2xURkJGeFRlVWpNeUszVmtaOXBXWGhzRXNucm1NR0ZoUXgtV2o0bU5RV3RYVzRhQ0wtYXhSVjhLNmFxa0E0Y24xcGtHX2tIUQ?oc=5",
+      "published_at": "2026-10-22T22:24:05+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Moderna cae un 17.57 % pese a resultados positivos de vacuna terapéutica contra el cáncer",
+      "publisher": "Diario Libre",
+      "publisher_url": "https://www.diariolibre.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUXZVWnptWTB0dmllNTBXZWJHUTNSNVNrUERtRjhuUWdRZ2wtU3duX0NLQXpyUDFtWGxyckt5UUw3YmF0UUhCbFlGYVhxVXd4Q25CZnJ4UHpacFJoNHp1Ulo1dHpZb0ZJZ3d5UmJDWEV6bzBhVlN6Uk9hRjJMRGc3eElvVktrSUVfNDJPcWZGLTRXek1JUGhCVDdlcllaUF8xSXRaUTFMY29lU0E0UWt4akhHSU9lMTBublk2U2ktVUlYeHFH0gHKAUFVX3lxTE12QjdfWGpXYXdtTGNNNkU0YkFUV1dEcXBERGRER0hSS3d2ZFFnOGFkX04tT3UwYXFldGhmYUJ3ZEowSl92aXpBV200aExfVzBZempnUFNjNWM3LV9SS0g0M08yeE5FNWJDamIzaW9aSHVzem5jX1NHRGd2cEFwSFRETkp3R1NuUDRkRW9QMkVoTTBhcWs2S3Z5RGZVX180NTRSRVIxeG9yNnpLaUQwODlsdjZpUnJKZzUzakZDN1M4MVV6NklYYnp5S2c?oc=5",
+      "published_at": "2026-10-22T21:45:00+00:00",
+      "regions": [
+        "rd"
+      ]
+    },
+    {
+      "title": "Gilead to buy PepStar's inflammation drug program in $1.28 billion deal",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQkJidXpRVE5KbmQ3MV9ZcmhlZGZZY1pNUFdQY2V2a0RVR0lDMTV5MjdxdXFhVG1Xd0RPdzhRbEljSE1zNEt5cDRFcDJGaTZhOTY3Q1JsenRvUE1UMTRqbkZOZEp6UmdGNzdmM09GekRkbDVRNGJmNUtMYmVQbXFpY254bnB4amgyNy1uYkgtT1RROVdZY3hqOFZKemdtOU5mQll1Q2FsY2cxSnRLZEdYMXdVanBoUQ?oc=5",
+      "published_at": "2026-10-22T21:43:59+00:00",
+      "regions": [
+        "europa",
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Aptar Taps Pharma Packaging Veteran Virginie Maes as President of its Pharma Business – Company Announcement",
+      "publisher": "Financial Times",
+      "publisher_url": "https://markets.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeWR3U3lmbUVpR2E3cjM4QklaMmtrT0JocVp4VnQwQ3pOYl9KS2Z4WlkwQ0pVRHB6am0zTHMyNU45U0FLM0ZVQl9ZMTdqUXBMSGk1aTA5NmdiRVd2dWxyTG5ocTR0N2p3SzRnTFMwZ1BOOGpuUWIwVXRzNHVsd09sWkMxU2ZiVDlUWldsb0wwV1RNbDU2elRzUkVhcDhCYVQyYXVNVGVR?oc=5",
+      "published_at": "2026-10-22T21:30:00+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "Merck/Moderna cancer vaccine cuts melanoma death or recurrence risk by 42%, shares fall",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSXhsdlctOU15SmpPZm9IX2gzemJrTWstX0h6cTZwQmotNjBGOXdWOUFLa0Nob3NpSmY3cmFZLTZUSFRDS2xXVVNySTJhdDNlZURUV2lmaFJhSkpiS3RuN09LRGlpM2ttQklLeTVzWDhsVVlLc3pibG5fZE93QWIzZHk3bFo5NnBZUHhNanhBbng2bDBMbGZibTVhLVFmY3I5YlkyNi1OeHdfYmdNWXV1RHYxdVRFUlZRdV85TFNsVVIxcHV1NUV6MUpB?oc=5",
+      "published_at": "2026-10-22T21:25:14+00:00",
+      "regions": [
+        "europa",
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Vacuna de Merck/Moderna reduce más del 40% riesgo de muerte o recurrencia de melanoma",
+      "publisher": "El Economista",
+      "publisher_url": "https://www.eleconomista.com.mx",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWFVwYktBUlpJVVRBYmNMN1A4Sk03SWg5cklidEdabnMzejJxYU1VeHV0bEEwei1KbTdfYlZPcDgxOU9XeVhXWG5GQVYyV0tSRzNPWmZYbjlBX2lNZjEzV0xfdnFvN1Fub2FlbDFxa0J6T3lSME5fY21qNVhEbHc0S1BpYjdmN0NQUTJnOHRQRXdNRkJzMmhoaWVDeHZYMzcyQWNMOF9RVUc2MjhVY3BEZUIwVEViS00tM1dTcDE1S0xJOFdKVXZIdXRB0gHPAUFVX3lxTFBLY2Z1SFdGazUyTHZxVjNVdk1CQ2JiTW4wdUl0aWR1d2hUTVdaajlBY3BPaEp2ZURPeTBPSDdtLWtxTUZXZVNycG1GMkg5eVgxbUJSYXVteE1NYnpYYXFKcHpJTjlGUnBibl94WUdmWDNzZTRJLUVNaUdheUtTUVZUOXpqRHZNTjh5MjVPU19vMEVDcXAzaE00WjBPNWEyZnhkUk96UnQxb3ItTmNiNjVQSWlUNkZkTWJhd2dZNlUwSEl5a1pLbmFiRUl2eDhadw?oc=5",
+      "published_at": "2026-10-22T21:08:28+00:00",
+      "regions": [
+        "mexico"
+      ]
+    },
+    {
+      "title": "Moderna’s Stock Plummets After Cancer-Vaccine Data Shared on Social Media",
+      "publisher": "WSJ",
+      "publisher_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNN3lFT3FtM2N0ZUk0aDFIMWVOZ25wU1RPcGNpZm54c0NrVmJuTHRXZEtPVVdJcUN0ZC1RangwNWFGWUp4bjdPbEY5VnRZcWo1WlQ3a1UzYkdFWFR3MWh3R3hzcGhpX01WakZzX2JmcnR6M3dwNjVjdGdXajdMSWtWNFA2aDAxRGZBUWdRZzJNUzNQNHRXR2pGejdRNnZxQQ?oc=5",
+      "published_at": "2026-10-22T20:30:00+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
     {
       "title": "Labcorp, Charles River and FDA Announce Research Collaboration to Advance Preclinical Methods for Evaluating Drug Abuse Potential – Company Announcement - FT.com",
       "publisher": "Financial Times",
@@ -54,24 +140,22 @@
       ]
     },
     {
-      "title": "Moderna, Merck shares fall on eagerly anticipated cancer vaccine results",
-      "publisher": "BioPharma Dive",
-      "publisher_url": "https://www.biopharmadive.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPY2V2WDFWZ3NTOW1YWjdtUjFKekI4WFM5cTVtSXNDR3M5M1RXaHNJd2w1R0lDZjQ3TE9objBCeEZkSFFWR0FxUVRKalFUTUluNmlzRWpYM2xURkJGeFRlVWpNeUszVmtaOXBXWGhzRXNucm1NR0ZoUXgtV2o0bU5RV3RYVzRhQ0wtYXhSVjhLNmFxa0E0Y24xcGtHX2tIUQ?oc=5",
-      "published_at": "2026-10-22T19:34:19+00:00",
+      "title": "Experimental mRNA vaccine cuts risk melanoma returns by 42%",
+      "publisher": "CNN",
+      "publisher_url": "https://edition.cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1Bc2pNZ0RBd090OEhuUmYwWldJajhvSWoyQjF0aC1EQWl4Ty1hVmlyZzhIWFpHNWo4c1hXMFBIVThfMHc3SXBWeGJ4c0c4N3EyZGlySHZ4U3FLVVRFUkgwNGZ4RDVJaGd1M0RsbC1VNlJWZW5aRS12LQ?oc=5",
+      "published_at": "2026-10-22T20:26:51+00:00",
       "regions": [
-        "global",
-        "usa"
+        "global"
       ]
     },
     {
-      "title": "Merck/Moderna cancer vaccine cuts risk of melanoma death or recurrence by over 40%",
+      "title": "Moderna sheds about $24 billion as cancer vaccine data triggers 'sell-the-news' retreat",
       "publisher": "Reuters",
       "publisher_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSXhsdlctOU15SmpPZm9IX2gzemJrTWstX0h6cTZwQmotNjBGOXdWOUFLa0Nob3NpSmY3cmFZLTZUSFRDS2xXVVNySTJhdDNlZURUV2lmaFJhSkpiS3RuN09LRGlpM2ttQklLeTVzWDhsVVlLc3pibG5fZE93QWIzZHk3bFo5NnBZUHhNanhBbng2bDBMbGZibTVhLVFmY3I5YlkyNi1OeHdfYmdNWXV1RHYxdVRFUlZRdV85TFNsVVIxcHV1NUV6MUpB?oc=5",
-      "published_at": "2026-10-22T19:11:44+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZ1BOSzI0YXVMYUM4c0N6R0RJcXV5d09ud1JYNTdDR19TTHR4WDVMWGdaeXd4Z3pqa3ZNdlY1Q1pKRXd5NlIyZm1aeUVvOTM0V3RwMkRVRjRRZ0w5ZVZKcjd3UUFUVS01WXVNajJram9Lc1U5YklRR3BrR2t6VUxKZkNScF84Q0dwbE9zZmpGT2gyMVZvelZ3ekZqS0FjSzdFdnh2TnYxU1JLYW1lLU10LW4zVkUxS0w2emotdVh5aVVnVmpHcHE5akhOTV9idEpqWS1oOWJTLU9WZEJVRUE?oc=5",
+      "published_at": "2026-10-22T20:22:10+00:00",
       "regions": [
-        "europa",
         "global",
         "usa"
       ]
@@ -81,18 +165,7 @@
       "publisher": "STAT",
       "publisher_url": "https://www.statnews.com",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUmR1SkF0aDk0cTdscjJVbTQ1bEppUlJOUmZpcDVRZmFYVzNfamstMER4SFlKa0RWbWFsbG9KdE1URGtHbG5aSXBrbUtyNndmSE1tRDFKdXRhNWZURWVmRkhUQVNZdkxNRHBndUhOUjZmV0V4eHRDZ2ZTUWNZRndsVGZTUVJlWWM0MzBnRXVaczZKYW9fZVBKZmh4VQ?oc=5",
-      "published_at": "2026-10-22T19:04:34+00:00",
-      "regions": [
-        "global",
-        "usa"
-      ]
-    },
-    {
-      "title": "Moderna’s Stock Plummets After Cancer-Vaccine Data Shared on Social Media",
-      "publisher": "WSJ",
-      "publisher_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNN3lFT3FtM2N0ZUk0aDFIMWVOZ25wU1RPcGNpZm54c0NrVmJuTHRXZEtPVVdJcUN0ZC1RangwNWFGWUp4bjdPbEY5VnRZcWo1WlQ3a1UzYkdFWFR3MWh3R3hzcGhpX01WakZzX2JmcnR6M3dwNjVjdGdXajdMSWtWNFA2aDAxRGZBUWdRZzJNUzNQNHRXR2pGejdRNnZxQQ?oc=5",
-      "published_at": "2026-10-22T19:04:00+00:00",
+      "published_at": "2026-10-22T19:18:55+00:00",
       "regions": [
         "global",
         "usa"
@@ -124,7 +197,7 @@
       "publisher": "STAT",
       "publisher_url": "https://www.statnews.com",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQ2ZaUHhBVVNlSWI3eEVPTml5TklJcWhxRlhrR1NnbDM3VTQwbG1zZEo2M0pCNWFSVkRJNVhuLS1UVUdCelVaWldKcDBtYnVHQjFuV285VU5qNGtSeHV6bGVfb21mejJySWlzVjhRS0JQc1oyZDVOMlJKaWhibHNibE40X0FrdHd2RDJtMzlNS29UellhcWhYa1A2WE9iSjlQQUIw?oc=5",
-      "published_at": "2026-10-22T18:24:37+00:00",
+      "published_at": "2026-10-22T18:28:54+00:00",
       "regions": [
         "global",
         "usa"
@@ -146,10 +219,9 @@
       "publisher": "WSJ",
       "publisher_url": "https://www.wsj.com",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRjZzVmJOc2pXalB3TzdRSnNEanJXc241Z2xseV9TS2I5ZGtzc29JV2hTakVEc1FrUjBaVDExRHYzdnpnUmMxU0RSWUR3eDhETzR3Z1U5RWhrY1RENWRGdms4MGljSE9WUUdwSXZCbGZXYW1ubXlpanZDbHg0YW4wNDJDSDhqVExuYjRfR3Frdzg2N3RWX1ItTXpCRmM2dkxpT0RpT29jdw?oc=5",
-      "published_at": "2026-10-22T17:04:46+00:00",
+      "published_at": "2026-10-22T17:04:00+00:00",
       "regions": [
-        "global",
-        "usa"
+        "global"
       ]
     },
     {
@@ -201,6 +273,18 @@
       "publisher_url": "https://www.reuters.com",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxON21JQ291ZXpadnFuWmV6UENnVDRfMjZjTFhCTGtTeGd3Qjh4M1FZVU5QRVBLWmkyUm8wNEdkdW1lZFotbGRmNlJ1LVNycGRaWHRXWTJ0WlhIQ1NBcFhOMVpqLTlOSkYwdG8wMGtGVTR1SWs0TGdaLXpRT3RpamJ6ZlV5X0lkZGtIMV9mNHB4blhqamJTLTRGbGtRdjRkOGpyTlYxSEtxNDJVLTdqM3drNEg0bFhOZlQ0X0dpcFdiRGVwTVJsN09GQ2JfMmdOLWVwajBlcHhlZUgtSEhH?oc=5",
       "published_at": "2026-10-22T15:06:40+00:00",
+      "regions": [
+        "europa",
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "UNICEF and Gavi agree to cut Mosquirix malaria vaccine price by 40%",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZ25sWVNxMk5jeU4wd2V3YzhUTHBtZV9sSUJVVGUtWkxDMW1RUHJTV0lBR2s4Q3VqQ2gyTnFNN0NKSnlwVnBwUkNNMlhnYnRGaWEzcG1ncHViSVc4SG1Tem94ZzJxV1FyaXZ0VFlyTXFLVzNRNjExcFJPTzdnYlk5M2RHUzhDSFU1dGdNUEVPaHNUdkZrelplWGZab2xKd2pqcjVMeDBNSWptSzc0OVhnbjlzTTlVeWwwR2p1TmRMSFZaOXUtTXZYODNsZw?oc=5",
+      "published_at": "2026-10-22T14:57:28+00:00",
       "regions": [
         "europa",
         "global",
@@ -366,6 +450,16 @@
       ]
     },
     {
+      "title": "HanchorBio and Aston Sci Join Forces to Unlock the Potential of Next-Generation Immunotherapy Through Cancer Vaccine Combinations – Company Announcement - FT.com",
+      "publisher": "Financial Times",
+      "publisher_url": "https://markets.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcm5FUEF3NXo4bFE3ZUo0TkhvaGRVbWZuWWVzN19rYUdhdWF5bUxVYU9EelRoUWNFelVIWmdVWVJPRWZUVTN6T0JLQVhTVkhkQzA5MWpKNFUtMWFsSUx1b2hrUlNVenhmX0ZCdkMzRklyalRRcDRWSVpBTGpwYTdMZl9NTklLMGQxWG4xdTctSXh0RlFOc1pTSA?oc=5",
+      "published_at": "2026-10-22T10:00:00+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
       "title": "UK trial 'could halve time to test Alzheimer's drugs'",
       "publisher": "pharmaphorum",
       "publisher_url": "https://pharmaphorum.com",
@@ -384,16 +478,6 @@
       "regions": [
         "global",
         "usa"
-      ]
-    },
-    {
-      "title": "Cupón Farmacias del Ahorro en Octubre 2026",
-      "publisher": "El Universal",
-      "publisher_url": "https://www.eluniversal.com.mx",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVnI0QTNHaVkxbzBYemh6MWZfVjFvT2prNlU0SS1VVE54UHpiU196eTlBVS1zWk0wM3FNbXhrSWlxLXZLZkVjejZ0allBM2w4SFBlSE9BVEJybUVoYWdtRXJsMFlKYi1VNWtaY3gyVUVJQ0w2cmZIc21fRmxPOTBpRUJB?oc=5",
-      "published_at": "2026-10-22T06:19:00+00:00",
-      "regions": [
-        "mexico"
       ]
     }
   ],

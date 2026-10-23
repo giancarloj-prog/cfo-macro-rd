@@ -1,7 +1,7 @@
 {
   "date": "2026-10-22",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-22T20:42:33+00:00",
+  "checked_at": "2026-10-23T00:18:07+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -23,12 +23,12 @@
     "bcrd": {
       "ok": true,
       "error": null,
-      "count": 2
+      "count": 3
     },
     "fiscal": {
       "ok": true,
       "error": null,
-      "count": 3
+      "count": 4
     },
     "dgii": {
       "ok": true,
@@ -48,7 +48,7 @@
     "economy": {
       "ok": true,
       "error": null,
-      "count": 6
+      "count": 7
     },
     "economist_andy": {
       "ok": true,
@@ -83,11 +83,28 @@
   },
   "items": [
     {
+      "title": "Magín Díaz dice dominicanos podrán costear cena de Nochebuena pese a quejas de situación económica; asegura inflación está controlada",
+      "publisher": "El Nuevo Diario",
+      "publisher_url": "https://elnuevodiario.com.do",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPX0hrOVR3NDBKZTBLZGRPdzNyQjJubzd3Z2Rnd1ZxNXJMaHBtYk51aExHUDhSRlZ3cGxpcUJNRGluQmdzTDhSdzlzS2Vmbjh6X3BjX2JTRUFiZ2s1TUs1NG1xbkQ5d3RnRlFQWElpQUNPT0JXSGdwRUZORkNIT0lwb2g3bjNXVzRQMXRfSVZGWjlyYTZ5OE9aZGNmNURQeFZNLTBueUVUc1o1VGtpMlFtOU12UUowSGpkeHJ0bll3NnJEUXc4OGJ3LWJpS01HbGs1MjJGWEx6QlBxS1hUZjJSMjBMVVBIeHdfZ1VzcVZoZ0RMRmRG?oc=5",
+      "published_at": "2026-10-22T21:04:00+00:00",
+      "topics": [
+        "economy",
+        "fiscal"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "economy",
+        "fiscal"
+      ]
+    },
+    {
       "title": "Superintendencia de Valores lanza iniciativa para detectar fraudes financieros en RD",
       "publisher": "Periódico elDinero",
       "publisher_url": "https://eldinero.com.do",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNFpKXzNrSEFnNU1zTUY4Qi1Gam9VUC1OT2dfWlRibjd5Slp0ckJFcmVncmpweXc1WThtekxVTmtLaUx3UkVhOHVVSk4wcXUyMWQtNUFQbUxBZ1JRTXpwczNQcGhWdDFGcjVBSGh1bHVJVENyMHVuSUR1U0hadVdpUG5IdW5LREQ0azNpVkxCMzVqWWtVdWtDRF9QMXBYcjZMWVJ6WUhNcWQ5TGl4NTBmQzVLbUdLdm8?oc=5",
-      "published_at": "2026-10-22T17:22:21+00:00",
+      "published_at": "2026-10-22T17:24:23+00:00",
       "topics": [
         "securities"
       ],
@@ -288,6 +305,22 @@
       ]
     },
     {
+      "title": "Banco Central obtiene un premio gestión proyectos",
+      "publisher": "El Dia.com.do",
+      "publisher_url": "https://eldia.com.do",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9HUVFTTDlFVGhjZzcwWGdEVzlIOGtNTFZvbks0NkVYRnl5TG5KSFQweGxXUW9MNUdMY3FUcEM5aDBENzNKc2dBeHdTY1JubllPNGtldTZVNlF3alUwUDV3Yjl6amhjLWFVVEZIcVUwbDdYbjhSYnN2Z3lmdw?oc=5",
+      "published_at": "2026-10-22T04:01:00+00:00",
+      "topics": [
+        "bcrd",
+        "finance"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "bcrd"
+      ]
+    },
+    {
       "title": "El FMI, la espiral de la deuda y la República Dominicana",
       "publisher": "Diario Libre",
       "publisher_url": "https://www.diariolibre.com",
@@ -319,22 +352,6 @@
       "searches": [
         "finance",
         "fiscal"
-      ]
-    },
-    {
-      "title": "Banco Central obtiene un premio gestión proyectos",
-      "publisher": "El Dia.com.do",
-      "publisher_url": "https://eldia.com.do",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9HUVFTTDlFVGhjZzcwWGdEVzlIOGtNTFZvbks0NkVYRnl5TG5KSFQweGxXUW9MNUdMY3FUcEM5aDBENzNKc2dBeHdTY1JubllPNGtldTZVNlF3alUwUDV3Yjl6amhjLWFVVEZIcVUwbDdYbjhSYnN2Z3lmdw?oc=5",
-      "published_at": "2026-10-22T04:01:00+00:00",
-      "topics": [
-        "bcrd",
-        "finance"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "bcrd"
       ]
     }
   ],
