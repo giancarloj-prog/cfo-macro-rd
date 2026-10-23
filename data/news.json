@@ -1,7 +1,7 @@
 {
   "date": "2026-10-23",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-23T20:10:16+00:00",
+  "checked_at": "2026-10-23T20:34:42+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -39,7 +39,7 @@
     "global": {
       "ok": true,
       "error": null,
-      "count": 25
+      "count": 24
     }
   },
   "items": [
@@ -198,8 +198,7 @@
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5CYUtzbkJUN0p3Y19rOXZRT3NRTXB3MW4wSE01Zk4zbzRvcS10eG1aOWF1b1Z3a1Q4SXhOQzlyWWtxWno3NHdNcDcxUDZFZ3BKZUg2VGhPLU5FQTQ?oc=5",
       "published_at": "2026-10-23T16:03:05+00:00",
       "regions": [
-        "europa",
-        "global"
+        "europa"
       ]
     },
     {
@@ -576,7 +575,7 @@
       "publisher": "Financial Times",
       "publisher_url": "https://www.ft.com",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNakRVNndEM0JDRlplN1REY0dRd0tKb1JnT3NLX0daNzRNQVRobjVkcVdIZkxGM21QVUc5eUpab3NiVVNrNF9seE5hVjJmMEtKU3dxcFdkNnFFeURLbTlBb0tGZDlDVmk2WFVsakxqTFRnbWkwMW9id0tqdWJ1ejBYcjRjYVU?oc=5",
-      "published_at": "2026-10-23T04:02:31+00:00",
+      "published_at": "2026-10-23T04:00:10+00:00",
       "regions": [
         "europa",
         "global"

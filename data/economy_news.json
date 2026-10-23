@@ -1,7 +1,7 @@
 {
   "date": "2026-10-23",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-23T20:10:15+00:00",
+  "checked_at": "2026-10-23T20:34:41+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -23,12 +23,12 @@
     "bcrd": {
       "ok": true,
       "error": null,
-      "count": 7
+      "count": 8
     },
     "fiscal": {
       "ok": true,
       "error": null,
-      "count": 2
+      "count": 3
     },
     "dgii": {
       "ok": true,
@@ -48,7 +48,7 @@
     "economy": {
       "ok": true,
       "error": null,
-      "count": 11
+      "count": 12
     },
     "economist_andy": {
       "ok": true,
@@ -83,6 +83,21 @@
   },
   "items": [
     {
+      "title": "Ministro de Hacienda propone diálogo nacional por crisis de combustibles",
+      "publisher": "El Caribe",
+      "publisher_url": "https://www.elcaribe.com.do",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNN3lET0hNS180RFpjV1RyODNldG1ucVdSRkw3UHg4eTZTaHBMb0pwUVBHaFJQQ1RBY2R0Wlh2dWQ1OTVsVTBVU3VtTmo1Q1QyMFBnY2hwRTNYTTFnOW8welJ3VmFBbTNabld3SHRYSmttNF9Md0FjS1E1ZzlCTlVXd0xSNV9GZUVNbTdDSDAwbGRiTzBHTExaWjl1blVJMkpMWXlSTDg2TUFyczZ5MlUw?oc=5",
+      "published_at": "2026-10-23T20:13:16+00:00",
+      "topics": [
+        "fiscal"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "fiscal"
+      ]
+    },
+    {
       "title": "DGII publica listado actualizado de sanciones por lavado de activos",
       "publisher": "El Nuevo Diario",
       "publisher_url": "https://elnuevodiario.com.do",
@@ -114,6 +129,21 @@
         "bcrd",
         "economy",
         "finance"
+      ]
+    },
+    {
+      "title": "Valdez Albizu celebra reducción de déficit cuasifiscal y anuncia proyecto de ley sobre el tema",
+      "publisher": "Diario Libre",
+      "publisher_url": "https://www.diariolibre.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQc29kSlZnbkhUV05ELWh4cUFIVnowQjNJVnJZZUp2VXlhVld4M3lnY0R3LW9veU54clVScUEtdVhmSnJyS3ZwSlh6R0RVeFk4V1dVUXJpMWhuMGFVNHdGT0dsdVFoZVJMSUwzT3NwbE1SVEZmVjc5RjRGY0VlTEtiN3V4WDYwbTE3QVJKWC1DMV95WG9TSjFkVW5aVWszdlB5a3JGdDExUWJGbUppMjlaa1lLbzMxeTBwMllQbE16RlZFS1ZZbGZkddIByAFBVV95cUxQc29kSlZnbkhUV05ELWh4cUFIVnowQjNJVnJZZUp2VXlhVld4M3lnY0R3LW9veU54clVScUEtdVhmSnJyS3ZwSlh6R0RVeFk4V1dVUXJpMWhuMGFVNHdGT0dsdVFoZVJMSUwzT3NwbE1SVEZmVjc5RjRGY0VlTEtiN3V4WDYwbTE3QVJKWC1DMV95WG9TSjFkVW5aVWszdlB5a3JGdDExUWJGbUppMjlaa1lLbzMxeTBwMllQbE16RlZFS1ZZbGZkdQ?oc=5",
+      "published_at": "2026-10-23T18:35:00+00:00",
+      "topics": [
+        "fiscal"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "fiscal"
       ]
     },
     {
@@ -209,6 +239,23 @@
       "publisher_url": "https://www.diariolibre.com",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOLUliZmRCUTFOcTJjTzgteXd3Ul9TbGRmNjVEdURic0ZzYmRBbEN0R0hWTXhDTnl0T0lYeW9OTE51N2QySE83ZDlCeFVKSFJyLS1QaDBtVmRoUklpZU1wakNRZENUaFFaYzZaZGoxYndVQnRUX1FLV3VyYTdMUkpqMV80eFlkcUtWV1l0SUxfaFZ2NUQxTzVaLUM2UDZvNG1SY1pHUGszRmRvOWRWV3RnSkRDQi1EX096Zm83dHl3MmR3VWY50gHKAUFVX3lxTE5EcW4xbFZPQmhqSEdlb3U2TGFXWWlhQ0RyaFdxOVlGOFliWXAyc3l4V2huWkplcWU4TF9wU1dXVHhaRmoyVmNxRGM1YjBNTF9rUnhWYjJ6ZFNtWXBHVzhYUS1LU0RtN2g0dW5sNU1wU0lqNG5LOGp6NV95V1J5NUE4bEZQSUtyRENDcGFVN21jX0YtaWVUMUszR2lTYzlyOWZTZzItN1FSb1pSMUFXQTRoaVRLVXpGSW9uUDh6Q0ROOHp5c1o1ZDFNOGc?oc=5",
       "published_at": "2026-10-23T17:26:00+00:00",
+      "topics": [
+        "bcrd",
+        "economy"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "bcrd",
+        "economy"
+      ]
+    },
+    {
+      "title": "¿Qué está impulsando el crecimiento de la economía dominicana en 2026?",
+      "publisher": "Hoy Digital",
+      "publisher_url": "https://hoy.com.do",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSDRLNThTTHNHeVNkZExoSlNSaEtkZlRvU2NWX0RiTFZnYXlpSjlPdk1DMUF6ZmRRN01RR2FCT2R4aUFEX1M3TWwxUXpfMjhrVk5lMXptaTNNMWNqWk1pY0taNjEyZk9wUWZxRHRROVBBUTJJODhKWXdlT1lZTnVIZE9lUlNKSi1pWlFkZFBaZWFZQQ?oc=5",
+      "published_at": "2026-10-23T17:09:09+00:00",
       "topics": [
         "bcrd",
         "economy"
