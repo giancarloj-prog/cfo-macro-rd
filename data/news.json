@@ -1,7 +1,7 @@
 {
   "date": "2026-10-22",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-23T00:18:08+00:00",
+  "checked_at": "2026-10-23T00:50:46+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -34,7 +34,7 @@
     "europa": {
       "ok": true,
       "error": null,
-      "count": 17
+      "count": 15
     },
     "global": {
       "ok": true,
@@ -146,7 +146,8 @@
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1Bc2pNZ0RBd090OEhuUmYwWldJajhvSWoyQjF0aC1EQWl4Ty1hVmlyZzhIWFpHNWo4c1hXMFBIVThfMHc3SXBWeGJ4c0c4N3EyZGlySHZ4U3FLVVRFUkgwNGZ4RDVJaGd1M0RsbC1VNlJWZW5aRS12LQ?oc=5",
       "published_at": "2026-10-22T20:26:51+00:00",
       "regions": [
-        "global"
+        "global",
+        "usa"
       ]
     },
     {
@@ -156,8 +157,7 @@
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZ1BOSzI0YXVMYUM4c0N6R0RJcXV5d09ud1JYNTdDR19TTHR4WDVMWGdaeXd4Z3pqa3ZNdlY1Q1pKRXd5NlIyZm1aeUVvOTM0V3RwMkRVRjRRZ0w5ZVZKcjd3UUFUVS01WXVNajJram9Lc1U5YklRR3BrR2t6VUxKZkNScF84Q0dwbE9zZmpGT2gyMVZvelZ3ekZqS0FjSzdFdnh2TnYxU1JLYW1lLU10LW4zVkUxS0w2emotdVh5aVVnVmpHcHE5akhOTV9idEpqWS1oOWJTLU9WZEJVRUE?oc=5",
       "published_at": "2026-10-22T20:22:10+00:00",
       "regions": [
-        "global",
-        "usa"
+        "global"
       ]
     },
     {
@@ -420,16 +420,6 @@
       ]
     },
     {
-      "title": "Teleflex Announces FDA Breakthrough Device Designation for Freesolve™ Resorbable Magnesium Scaffold",
-      "publisher": "Financial Times",
-      "publisher_url": "https://markets.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNN0ZIUW5JTjVzREdtcTlJQWp0cklnNGpfRXU3dTJOZ3ZKUV9aYmdORDRhaVljc1U0MXFscjVTNnEwUThRYkM2dG1lVXE4S0NvSHZiZzVMQ2ZjLXE4bGVvcVVyWkQ3Xzd0UUJQZ0xpSHNvOUV4RTVNUWtZc3JkMmUxcHJHSGstWXNJbTVCWEE4TjZCVEhkZ3BzbjVaa1VQdW9iMk9vMXln?oc=5",
-      "published_at": "2026-10-22T10:45:00+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
       "title": "New bipartisan bill aims to speed up clinical trials for rare disease treatments",
       "publisher": "CNBC",
       "publisher_url": "https://www.cnbc.com",
@@ -445,16 +435,6 @@
       "publisher_url": "https://pharmaphorum.com",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9Ta2JMY1hRYjVKa0taV3RYNWpkX3Bod2kxS2F4bWh1NjUtWWNzNXVvZjAyZjhlbXhfSnM0ZnJXajZ0aHA5T3NvV3BLMGFZekpaMzA3dW9acHNPRUpra3JmMUQtTnRUWmhhUlRZS2duMDR1Rzd5ZTNwRXBpM0M?oc=5",
       "published_at": "2026-10-22T10:06:24+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "HanchorBio and Aston Sci Join Forces to Unlock the Potential of Next-Generation Immunotherapy Through Cancer Vaccine Combinations – Company Announcement - FT.com",
-      "publisher": "Financial Times",
-      "publisher_url": "https://markets.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcm5FUEF3NXo4bFE3ZUo0TkhvaGRVbWZuWWVzN19rYUdhdWF5bUxVYU9EelRoUWNFelVIWmdVWVJPRWZUVTN6T0JLQVhTVkhkQzA5MWpKNFUtMWFsSUx1b2hrUlNVenhmX0ZCdkMzRklyalRRcDRWSVpBTGpwYTdMZl9NTklLMGQxWG4xdTctSXh0RlFOc1pTSA?oc=5",
-      "published_at": "2026-10-22T10:00:00+00:00",
       "regions": [
         "europa"
       ]
