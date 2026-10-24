@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-23",
+  "date": "2026-10-24",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-24T00:57:42+00:00",
+  "checked_at": "2026-10-24T14:30:54+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -23,22 +23,22 @@
     "bcrd": {
       "ok": true,
       "error": null,
-      "count": 8
+      "count": 0
     },
     "fiscal": {
       "ok": true,
       "error": null,
-      "count": 2
+      "count": 0
     },
     "dgii": {
       "ok": true,
       "error": null,
-      "count": 3
+      "count": 0
     },
     "finance": {
       "ok": true,
       "error": null,
-      "count": 5
+      "count": 1
     },
     "securities": {
       "ok": true,
@@ -48,7 +48,7 @@
     "economy": {
       "ok": true,
       "error": null,
-      "count": 13
+      "count": 2
     },
     "economist_andy": {
       "ok": true,
@@ -83,400 +83,41 @@
   },
   "items": [
     {
-      "title": "Camipe destaca crecimiento de 5.2 % de minas y canteras frente al 4.6 % de la economía",
-      "publisher": "El Nuevo Diario",
-      "publisher_url": "https://elnuevodiario.com.do",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcUg4bFV6MFVWMVk3UFg3WWlJSVd2WHZNVTdwOTBfSExuNnRDYV9JYjZRZ0pvMlUtd2N6RUtoZnJfM0U4bkI5ZVJ4M2IzcHF3dTJ5YUo0VUZ6RElQT2JwNlZ1XzFRWUpqRkJ5OVlkSC1Ud1ppX1V3aVZZaWwtcThHMGJNbnp5NFA2aWlIVS15bmtWM2hIc0dCRzAwemNkS0VZWUJQNE5jYVgzVDlOa0lBektR?oc=5",
-      "published_at": "2026-10-23T20:46:34+00:00",
-      "topics": [
-        "economy"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "economy"
-      ]
-    },
-    {
-      "title": "Gobernador de Banco Central advierte persisten riesgos al alza de la inflación",
-      "publisher": "Diario Libre",
-      "publisher_url": "https://www.diariolibre.com",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZi1ReTUtZS12MmxJWC1lcGZhMUFUdkUtNnlZY2tiNW9nZHJfQlJxWVBNaW5FanZ3MXpSaEFDbjEtQk1VNmNGX0VySVlZcnpLVWZJai1WZ1UxNGhJNHpWdC1IdnY2bTVUV1VmYzAzNnNSM3ZHT3R5UG5uSmYyWURnUmVfdVdpYVVTYlM1V3dfZVd0UnU2S0RpNFptOW5ZMWF5SFhObVZsRHBfZHN0M0ttS29pQ2xXbVNyX09RcXlJemh2ZEJfOTVxNlloakZyODTSAc8BQVVfeXFMT2YtUXk1LWUtdjJsSVgtZXBmYTFBVHZFLTZ5WWNrYjVvZ2RyX0JScVlQTWluRWp2dzF6UmhBQ24xLUJNVTZjRl9FcklZWXJ6S1VmSWotVmdVMTRoSTR6VnQtSHZ2Nm01VFdVZmMwMzZzUjN2R090eVBubkpmMllEZ1JlX3VXaWFVU2JTNVd3X2VXdFJ1NktEaTRabTluWTFheUhYTm1WbERwX2RzdDNLbUtvaUNsV21Tcl9PUXF5SXpodmRCXzk1cTZZaGpGcjg0?oc=5",
-      "published_at": "2026-10-23T20:14:00+00:00",
-      "topics": [
-        "bcrd",
-        "economy",
-        "finance"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "economy"
-      ]
-    },
-    {
-      "title": "Ministro de Hacienda propone diálogo nacional por crisis de combustibles",
-      "publisher": "El Caribe",
-      "publisher_url": "https://www.elcaribe.com.do",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNN3lET0hNS180RFpjV1RyODNldG1ucVdSRkw3UHg4eTZTaHBMb0pwUVBHaFJQQ1RBY2R0Wlh2dWQ1OTVsVTBVU3VtTmo1Q1QyMFBnY2hwRTNYTTFnOW8welJ3VmFBbTNabld3SHRYSmttNF9Md0FjS1E1ZzlCTlVXd0xSNV9GZUVNbTdDSDAwbGRiTzBHTExaWjl1blVJMkpMWXlSTDg2TUFyczZ5MlUw?oc=5",
-      "published_at": "2026-10-23T20:13:16+00:00",
-      "topics": [
-        "fiscal"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "fiscal"
-      ]
-    },
-    {
-      "title": "DGII publica listado actualizado de sanciones por lavado de activos",
-      "publisher": "El Nuevo Diario",
-      "publisher_url": "https://elnuevodiario.com.do",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOT1BqemYtSkJ5VkIwdThpTGVsekVMRXFKYjBBemZ0OHpVdnRVbUJBajZESHBadkQ1XzBxTWtiT09QUDh0eS1uTmtiUE9jY25yeTRKZFZKbTNWd0RsSDNFb1BBUEdmTU0wWm5zeXZqYU4xX3Q5MXkzaFBIYWxlRGNlRG92bE1pd2luaUpKWElPVHMxZzdaUkpHblZkY2g5dw?oc=5",
-      "published_at": "2026-10-23T19:46:40+00:00",
-      "topics": [
-        "dgii"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "dgii"
-      ]
-    },
-    {
-      "title": "La estabilidad macroeconómica no hace ruido; por eso solo se nota cuando falta",
-      "publisher": "Acento",
-      "publisher_url": "https://acento.com.do",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQS2sxbnA2dFVHb0pYZFUwdFRKYnFVd1RMQk1NTDFKMGo2RXRrZWc1UHJ5N2U4WmtWcVhXN19hLUZvYVdxMlRfNUNsUno1T2plTXJ5cFhjem83Rkh6MTlaQ3ZqckhhWkw4OVM5VUJwd2oxS0tOdGhJQkVkcDRDZ0xzZ0NOTm40QzFNQXExY3N0SWRjMzRNWmh1bUlBcXhrRmFmLTJjLVZiUjVJWnJwTmJ0Y3NXYUMtNkpabXNaSzV30gG-AUFVX3lxTFBLazFucDZ0VUdvSlhkVTB0VEpicVV3VExCTU1MMUowajZFdGtlZzVQcnk3ZThaa1ZxWFc3X2EtRm9hV3EyVF81Q2xSejVPamVNcnlwWGN6bzdGSHoxOVpDdmpySGFaTDg5UzlVQnB3ajFLS050aElCRWRwNENnTHNnQ05ObjRDMU1BcTFjc3RJZGMzNE1aaHVtSUFxeGtGYWYtMmMtVmJSNUlacnBOYnRjc1dhQy02Slptc1pLNXc?oc=5",
-      "published_at": "2026-10-23T19:30:47+00:00",
-      "topics": [
-        "finance"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "finance"
-      ]
-    },
-    {
-      "title": "Inflación se modera a 5.12% y economía dominicana crece 4.6% a septiembre",
+      "title": "Los ciclones pueden afectar la economía dominicana durante 15 meses",
       "publisher": "Periódico elDinero",
       "publisher_url": "https://eldinero.com.do",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPT2lBeHJIV2VIZkZhWnp5QkxONXVKMjRyUnZEODBNZzBMNVFVdmprcHhiYmRoZ29NWFNYVnRBZ2pDVlE2SmRBRzNMdmpFN0xzMWE5WFAteS0xM1VfcmE5WTZpblZ4alY4S2d0b25IejQ5QzA3MDRxVjRKX1g3Q3VTeDBxa2dFNHpYSEN5ZDVSMnFOMG11YjB1anNFaGZkOEhuQ2FTNDZn?oc=5",
-      "published_at": "2026-10-23T18:58:26+00:00",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMVRkSEZ6Smp2UWVnaXJManpuNGNhUGszYWlsNE5FRDBtN1otV0ctNTFra1pBWW01VEs1TGo2UGM2SVgwTW5NdnJuZjB4UFY0dEVwVXVnckN0WkU4TWl5NUtEUi1FSWpnT1RSY0ItT000N0RGdEFQeW1xTXhtZmE5YWVNekNUYWdOZ1FvMUY1bExiZERYeFdRb1poZDNCSHE0?oc=5",
+      "published_at": "2026-10-24T12:01:44+00:00",
       "topics": [
-        "bcrd",
-        "economy",
+        "economy"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "economy"
+      ]
+    },
+    {
+      "title": "Pagos electrónicos ganan terreno en Latinoamérica, pero elevan el riesgo de endeudamiento",
+      "publisher": "Periódico elDinero",
+      "publisher_url": "https://eldinero.com.do",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcTRTSldEUDRqTXNOUmxZWHB0YlRXZVlsdE1FRS01c0ZBY0xOTTBFdGdkZ0dneDlqZHFzV0h4N1BFMUx2U1ZCaGwxdVByQlE3cDR0R2RxZmM4cEFZeVdQZ1plcm1qQTJBQjl0aTByMGxhT09nMjRQdTZ5a2Z3cU1QdS1kOUlhSVVGTDkwMlBwT013ZDlHdE9hMngtVUFqcHdxdG1qWFhxTE8tVkF6MmdPMkstNGU1SUlSaHVTUQ?oc=5",
+      "published_at": "2026-10-24T12:01:42+00:00",
+      "topics": [
         "finance"
       ],
       "economists": [],
       "economist_match": null,
       "searches": [
-        "bcrd",
-        "economy",
         "finance"
       ]
     },
     {
-      "title": "Valdez Albizu celebra reducción de déficit cuasifiscal y anuncia proyecto de ley sobre el tema",
-      "publisher": "Diario Libre",
-      "publisher_url": "https://www.diariolibre.com",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZVFnUERCTmZldldwNHJoUXRaT0pteG15WndoNFRsSzdsOFM0S3k2NUcyVXFSTzE2YUNnRno4aDk0V2ZUcVp1NWJ3Z0dROVZyaGlKYjVYNVRIdFhUZ1RxVXFLNlBCTmtKNXMzdFdFaGJFNVVIeS16MG10UXFWUk9GRlgyN2tFNEhMLWR1UnJ1T2FpQjBmUWk0WUFYdm5RRUlWWjREdGxrN3Jjei1JUTN6elRxNDdDaGE5cmp2X1NGR3pGcEnSAcgBQVVfeXFMUHNvZEpWZ25IVFdORC1oeHFBSFZ6MEIzSVZyWWVKdlV5YVZXeDN5Z2NEdy1vb3lOeHJVUnFBLXVYZkpyckt2cEpYekdEVXhZOFdXVVFyaTFobjBhVTR3Rk9HbHVRaGVSTElMM09zcGxNUlRGZlY3OUY0RmNFZUxLYjd1eFg2MG0xN0FSSlgtQzFfeVhvU0oxZFVuWlVrM3ZQeWtyRnQxMVFiRm1KaTI5WmtZS28zMXkwcDJZUGxNekZWRUtWWWxmZHU?oc=5",
-      "published_at": "2026-10-23T18:35:00+00:00",
-      "topics": [
-        "bcrd",
-        "fiscal"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "bcrd",
-        "fiscal"
-      ]
-    },
-    {
-      "title": "Ponen en circulación una obra que analiza la economía y la política dominicana",
-      "publisher": "El Nuevo Diario",
-      "publisher_url": "https://elnuevodiario.com.do",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPQThPcGZpNDg1WmNJMU5sSmI5TUtzS0lKa1ZnM1BhamFyeTlVWnFOQXZYdGlvUWd6cUhxeXFNSTVodmZEMTJ3RmdPOUI0U1p5Z3pINjJEV0RDREhuMUxhRWFTZkRZZENjZHVKc2VtOVNneDhxTGNTRHdCSVJaY2dCRHNtRks5M0toYTIyX0lHU0xYWVgxb2N2U3BVb3ZBWk9xa0pWY1phb3hBUW1vNnE5ejF1cFNlbF9UUVFEcXRZWkVEUFI0UjVobVZxV1duVnZuXzdOdVdXcGFwamUwazI2ZUhR?oc=5",
-      "published_at": "2026-10-23T18:17:14+00:00",
-      "topics": [
-        "economy"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "economy"
-      ]
-    },
-    {
-      "title": "Valdez Albizu anunció que economía RD creció 5.6 % interanual en septiembre 2026",
-      "publisher": "El Nuevo Diario",
-      "publisher_url": "https://elnuevodiario.com.do",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRUZmeUl3XzVQZjM5V1hoNGJoWk5FcVAzMGFwOHdsbllSbHFhaEJhZkxzaXNHcmI3NGRCTWhjdlV6d0I2aUFNOFZETFJMNjdQbDdvS053N1gxendMeE5LaTFKelduNmdEbi1HN0hVMHg0NVRMcmFSNEwyZ1VuMmlSeHFpa1U1VUtfLUh6WXNUbExfVjFRRE1PWjFWdnl3dDFuMjRxSzd5NWY4cEZfSDFGZkdwQnV4SWRhQ2Y0?oc=5",
-      "published_at": "2026-10-23T18:16:10+00:00",
-      "topics": [
-        "economy",
-        "finance"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "economy",
-        "finance"
-      ]
-    },
-    {
-      "title": "Valdez Albizu anunció que la economía dominicana creció 5.6 % interanual en septiembre 2026",
-      "publisher": "El Nuevo Diario",
-      "publisher_url": "https://elnuevodiario.com.do",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRUZmeUl3XzVQZjM5V1hoNGJoWk5FcVAzMGFwOHdsbllSbHFhaEJhZkxzaXNHcmI3NGRCTWhjdlV6d0I2aUFNOFZETFJMNjdQbDdvS053N1gxendMeE5LaTFKelduNmdEbi1HN0hVMHg0NVRMcmFSNEwyZ1VuMmlSeHFpa1U1VUtfLUh6WXNUbExfVjFRRE1PWjFWdnl3dDFuMjRxSzd5NWY4cEZfSDFGZkdwQnV4SWRhQ2Y0?oc=5",
-      "published_at": "2026-10-23T18:16:10+00:00",
-      "topics": [
-        "bcrd",
-        "economy",
-        "finance"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "bcrd",
-        "economy",
-        "finance"
-      ]
-    },
-    {
-      "title": "Ponen en circulación obra que analiza la economía y la política dominicana",
-      "publisher": "El Nuevo Diario",
-      "publisher_url": "https://elnuevodiario.com.do",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSGtETGtva0FxTjBTMndQaDl0RGpieXp4eFowS2tfOERmUlpCNU1Yek5UTWRoR1dnbjlyMVFnR09WQXJfNnluMzhJYkRKdE9EUDRwSW9QOWNsM0lCcDI1cUppZjBkVEE1UzhPeEViLWRpRnRfWVp1YTRucUJ6YjRFNGZKRWhMV3k2VWhmdk1DV0RrLWhOb3V2Z0ttOUwxZmZ6ZjJLR0MzQkdoZkdi?oc=5",
-      "published_at": "2026-10-23T18:15:56+00:00",
-      "topics": [
-        "economy"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "economy"
-      ]
-    },
-    {
-      "title": "Economía dominicana acelera su crecimiento y alcanza 5.6 % en septiembre",
-      "publisher": "El Caribe",
-      "publisher_url": "https://www.elcaribe.com.do",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQ3FheU85WDZxNEFzTFVkNllacVhhSkRmZm01OENVekZOTFYxalJWd1AxOXY5UmM0SnVFRzBTUkQ1MXBfVjhqQ2plYjRJSUkzV2NTVElINTZXNnRuTHktTXhNMjAyTGU0VG9FYVJJdjVkcHptaVdNMVlYeWxaNWdRWUxCeEEtdVRhRklLMUlISF91LUxiVnZfTQ?oc=5",
-      "published_at": "2026-10-23T18:07:41+00:00",
-      "topics": [
-        "bcrd",
-        "economy",
-        "finance"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "bcrd",
-        "economy",
-        "finance"
-      ]
-    },
-    {
-      "title": "Economía dominicana crece 4.6 % hasta septiembre y el BCRD proyecta expansión de 4.5 % para 2026",
-      "publisher": "Acento",
-      "publisher_url": "https://acento.com.do",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWkMzblB0TWlaNlRuU016bUhPVmhwOUdUWjhjMUpycERQbDRvNlRxUzQ2QU12OG1LMXJYOUVpeFNoX1JFcE1wa1lldkVLUU9BQXljMXlnZFAzdFJJa0dKdTE3LWQ5dDFuZkZDVGJNeFBuZE5TcjBjLVlZTmRhdXIxZlowbEhWU2p3aFlqbmxfLTBfeEhnNmxBbnZhUUtxdmUxLWRjc2pXVDlDdGRsZTh0emJBTkk2Y1hJMUM1NjZyVXlOZVUtMmI1UFZhaFJaQi1sMWfSAdIBQVVfeXFMTVpDM25QdE1pWjZUblNNem1IT1ZocDlHVFo4YzFKcnBEUGw0bzZUcVM0NkFNdjhtSzFyWDlFaXhTaF9SRXBNcGtZZXZFS1FPQUF5YzF5Z2RQM3RSSWtHSnUxNy1kOXQxbmZGQ1RiTXhQbmROU3IwYy1ZWU5kYXVyMWZaMGxIVlNqd2hZam5sXy0wX3hIZzZsQW52YVFLcXZlMS1kY3NqV1Q5Q3RkbGU4dHpiQU5JNmNYSTFDNTY2clV5TmVVLTJiNVBWYWhSWkItbDFn?oc=5",
-      "published_at": "2026-10-23T18:04:22+00:00",
-      "topics": [
-        "bcrd",
-        "economy"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "bcrd",
-        "economy"
-      ]
-    },
-    {
-      "title": "Economía dominicana creció 5.6 % interanual en septiembre 2026, afirma Valdez Albizu",
-      "publisher": "El Dia.com.do",
-      "publisher_url": "https://eldia.com.do",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYU1BaUQzVVJUOW93blpXRjgxVGM2djEwLUtjR1QyTjBhMlJRSTctLWNfRURDd0swaUxrZG5aN2d3eWhmM2VMLUsxUENhUUd3ekp0UVkwMVlBNWc1a2ZOZ1VSbDYzZ3lQa0x5WWtmX3BUMGV5RjBZdldVOFFtbmFTQjFHVFM2NDhUdTlsYUN2MDY3NzFmWTZuU0ExdWowUWFIeHRueEVn?oc=5",
-      "published_at": "2026-10-23T18:02:22+00:00",
-      "topics": [
-        "bcrd",
-        "economy"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "bcrd",
-        "economy"
-      ]
-    },
-    {
-      "title": "La economía dominicana crece 5.6 % interanual a septiembre de este año",
-      "publisher": "Diario Libre",
-      "publisher_url": "https://www.diariolibre.com",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOLUliZmRCUTFOcTJjTzgteXd3Ul9TbGRmNjVEdURic0ZzYmRBbEN0R0hWTXhDTnl0T0lYeW9OTE51N2QySE83ZDlCeFVKSFJyLS1QaDBtVmRoUklpZU1wakNRZENUaFFaYzZaZGoxYndVQnRUX1FLV3VyYTdMUkpqMV80eFlkcUtWV1l0SUxfaFZ2NUQxTzVaLUM2UDZvNG1SY1pHUGszRmRvOWRWV3RnSkRDQi1EX096Zm83dHl3MmR3VWY50gHKAUFVX3lxTE5EcW4xbFZPQmhqSEdlb3U2TGFXWWlhQ0RyaFdxOVlGOFliWXAyc3l4V2huWkplcWU4TF9wU1dXVHhaRmoyVmNxRGM1YjBNTF9rUnhWYjJ6ZFNtWXBHVzhYUS1LU0RtN2g0dW5sNU1wU0lqNG5LOGp6NV95V1J5NUE4bEZQSUtyRENDcGFVN21jX0YtaWVUMUszR2lTYzlyOWZTZzItN1FSb1pSMUFXQTRoaVRLVXpGSW9uUDh6Q0ROOHp5c1o1ZDFNOGc?oc=5",
-      "published_at": "2026-10-23T17:26:00+00:00",
-      "topics": [
-        "bcrd",
-        "economy"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "bcrd",
-        "economy"
-      ]
-    },
-    {
-      "title": "¿Qué está impulsando el crecimiento de la economía dominicana en 2026?",
+      "title": "Fuerte crecimiento 5.6% de economía septiembre",
       "publisher": "Hoy Digital",
       "publisher_url": "https://hoy.com.do",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSDRLNThTTHNHeVNkZExoSlNSaEtkZlRvU2NWX0RiTFZnYXlpSjlPdk1DMUF6ZmRRN01RR2FCT2R4aUFEX1M3TWwxUXpfMjhrVk5lMXptaTNNMWNqWk1pY0taNjEyZk9wUWZxRHRROVBBUTJJODhKWXdlT1lZTnVIZE9lUlNKSi1pWlFkZFBaZWFZQdIBlwFBVV95cUxQbmVHVzE3UjZVODJrQUk3aDJOV1hIRE5KeWdtN2dFR1Zfa2ptQkYxSzNTY1duWDRlUjUxQ3ZvTUJTODZmMHAyTS1YZl9JOUVDQ1d0TjM2ZzlEbnZzbERZOURDRVBvQk9DS1RLd1NWTXZmMG5rR1dobkVVWjZpRWlBbHFHa09oLXRtUHFCUXpaOTFFMVVDNVE4?oc=5",
-      "published_at": "2026-10-23T17:09:09+00:00",
-      "topics": [
-        "bcrd",
-        "economy"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "bcrd",
-        "economy"
-      ]
-    },
-    {
-      "title": "Valdez Albizu anunció que la economía dominicana creció 5.6% interanual en septiembre 2026",
-      "publisher": "Periódico elDinero",
-      "publisher_url": "https://eldinero.com.do",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMXY1MkozSzFIR0hLajFDM0wxNkVET3ktc3JQRy1DdGVJaG9iN25ST19xR1hNd3ZYRGxFNUxEcGlhWVZMQTBzbXVIRlJ6OG51bk5rMmU1dGJTWG1XSG9oMXhNN2JYamNSUmk0MXRXLUJuRG1nRURreWtoV21uNkRVMTVsMmgzOHlfQ1I2SkZ3SXR6VWpTdXhCWXdlMTNhM2ZFTFFWSTRVS2htNjJNSWVkd1VwWF81eTdrLVBGOVZR?oc=5",
-      "published_at": "2026-10-23T17:07:45+00:00",
-      "topics": [
-        "finance"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "finance"
-      ]
-    },
-    {
-      "title": "Magín Díaz destaca importancia del sistema antilavado para la estabilidad económica",
-      "publisher": "El Nuevo Diario",
-      "publisher_url": "https://elnuevodiario.com.do",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRWRCRnRndFdGem85QjNsb0NQbG1NSXBCa1FseXhLNkd4YXFGZnRBME9XTDBhT0VFRHlOSno1X3ZwMno3ZkwxMnpYVmVwNXl0Z3RQWHd5MnFEalh3OGpLOTNWZUUwcVNMSHVsRnVLQkcwaWpaaWVXSTM5NEpSYU9rTlg1dFdGcnFmdHhyTWdXSVVhckFwblROSVNWRmVfNDZaM3JuSG5PX1RDTElJMmxZWENvMA?oc=5",
-      "published_at": "2026-10-23T17:03:45+00:00",
-      "topics": [
-        "fiscal"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "fiscal"
-      ]
-    },
-    {
-      "title": "José Lois Malkun: \"No habrá reforma fiscal y el subsidio a combustibles podría elevarse hasta RD$52 mil millones\"",
-      "publisher": "El Nuevo Diario",
-      "publisher_url": "https://elnuevodiario.com.do",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPanRRZk9MdEpTLTk4TmtTcnFTd1pUT2hsbnU5Q09XNDc0WWFFUGlXTVNRX01yb3JRVUJCbW1HTmVhLUtFcTJzdlNaejhMVEQ1TjdhQWVrWFZObUgwNWJENVZua284WlJINVVMYmlHRXZjaU1vWVJyMFE2czVhc0ZGay1DRlc4c2V6SjltcjlKN2l5a1ByZUQwT0I3Qy1DWklCNFhCV21HTnViMGhVcmRsYm5lME9sMTYwUHE2dGc5eTBQbzQxS3VPSFdwWURCZE9PckktQzFn?oc=5",
-      "published_at": "2026-10-23T16:38:34+00:00",
-      "topics": [
-        "dgii"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "dgii"
-      ]
-    },
-    {
-      "title": "Crime Stoppers advierte sobre riesgo de comercio ilícito por impuesto elevado a vapeadores",
-      "publisher": "El Nuevo Diario",
-      "publisher_url": "https://elnuevodiario.com.do",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcWsxT0VoQmZoS05kV25feDlkMmctVExtZFB0Mmx3c1dJbE9oMnhVUTNlVGU5WUd2d1hsLWhRdl8zZWFmQWlKeGM2Y2owWXFWVWFWR2hHcUlXcURPR0JTbXBtLWJMNFVJVEZ5SHFadVRKdWdtUnBOS0tiYW0xbGNDeHQ5QlROdzJKTy1BcDkyRVNJcVVmZldlN3gxMm5KVGQyS09xMGJMQnlmbFpwbmdfdlVUU0dOdEVxa2ExVg?oc=5",
-      "published_at": "2026-10-23T16:27:28+00:00",
-      "topics": [
-        "dgii"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "dgii"
-      ]
-    },
-    {
-      "title": "Caffe Vergnano llega al país en un mercado donde las exportaciones de café crecieron 106.6 %",
-      "publisher": "Acento",
-      "publisher_url": "https://acento.com.do",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOS2tVTEU1ODNLNDFaeFVubklnc0dmb0tZd25HOWpDWVRtZ1BMRXItY01sVFJaV3hQZlc1RkZ1YnlTaHdUMklIaDA2WTIyRGMtcGJlOTdMU3gzZExLV3dZUVlfWjR1b1VJQW82emtEOVNMOVItbHk2YTQxVFNpUUIyTkdabk9wQTNIMlJQX2xJcEV2V2lVSE5tUWVEVl93WFRQSjJ0WFdiVXdsMW5qNE00R0Q1SHh3TkRrbFBJQ1FveldaeTdRblRyVUR4N1ZJS0nSAc8BQVVfeXFMTktrVUxFNTgzSzQxWnhVbm5JZ3NHZm9LWXduRzlqQ1lUbWdQTEVyLWNNbFRSWld4UGZXNUZGdWJ5U2h3VDJJSGgwNlkyMkRjLXBiZTk3TFN4M2RMS1d3WVFZX1o0dW9VSUFvNnprRDlTTDlSLWx5NmE0MVRTaVFCMk5HWm5PcEEzSDJSUF9sSXBFdldpVUhObVFlRFZfd1hUUEoydFhXYlV3bDFuajRNNEdENUh4d05Ea2xQSUNRb3pXWnk3UW5UclVEeDdWSUtJ?oc=5",
-      "published_at": "2026-10-23T15:00:03+00:00",
-      "topics": [
-        "economy"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "economy"
-      ]
-    },
-    {
-      "title": "El Banco Central ha recibido RD$178,677 millones vía la Ley Recapitalización 167-07",
-      "publisher": "Periódico elDinero",
-      "publisher_url": "https://eldinero.com.do",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMk1vemw0ME9XOFNGNUhVaklzT25xVGtyeXc0b1FLMUJyeVBTMlRGLWZSZVNHX1lLZEtWc2RFWEdSYVBBN1NRR3JXM2pxNVFpZU9nb3dyYkRTNGlfbGtsNmNlQktIU2liZTBfc2c2aF9VbC1EWDItaFJCMXFWWnZrcE1iMmVPa3kwemlGTGFrelFfcllIZTB3OEF0TVYtS0lfRC1ycVFlNkJ6NWxuU2tFUjV1cw?oc=5",
-      "published_at": "2026-10-23T13:53:04+00:00",
-      "topics": [
-        "bcrd",
-        "finance",
-        "fiscal"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "bcrd",
-        "fiscal"
-      ]
-    },
-    {
-      "title": "UASD abre este sábado maestría en economía naranja",
-      "publisher": "Acento",
-      "publisher_url": "https://acento.com.do",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNXdiS3dMLTdZemtnaVR6aXhPWFFRUkJnbEdROHdEXzUtWDBjbHoySVI3MmVfY3BINnNCRXdybFo0VnNHcTNfV3R5TE1hZWprRUhhczNoaDdpWlc5aXRSelpiR25WT3puZXE5X1h2aXk4dG92VzZUa2xPQ2tOTU5mQ3hEZFdYMlJneFFfVE9BekN6YjE3TGZqTtIBmAFBVV95cUxNNXdiS3dMLTdZemtnaVR6aXhPWFFRUkJnbEdROHdEXzUtWDBjbHoySVI3MmVfY3BINnNCRXdybFo0VnNHcTNfV3R5TE1hZWprRUhhczNoaDdpWlc5aXRSelpiR25WT3puZXE5X1h2aXk4dG92VzZUa2xPQ2tOTU5mQ3hEZFdYMlJneFFfVE9BekN6YjE3TGZqTg?oc=5",
-      "published_at": "2026-10-23T12:55:27+00:00",
-      "topics": [
-        "economy"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "economy"
-      ]
-    },
-    {
-      "title": "RIU Hotels & Resorts destaca aportes por US$191 millones a la economía dominicana e impulsa el turismo sostenible",
-      "publisher": "El Dia.com.do",
-      "publisher_url": "https://eldia.com.do",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRFFKUlRIWlNXVjZZcXFuNE1aTVJITjVldTE0MmVNV0JRZHN6UkplZEV0SlFRVFBZY1NnbGNuSEdzaHpmU3k0WHJkZlNfUm1QWG5HTWFOZTZjM0ZZa0lvMDBtaWstX2J4MWp0Nm1Zd1VCMmNOVlJadVVpNjlrX0FXVTNXd2dma21pdjA5WmlpdkhrR2N0VlNLY04yMWkzb21EX1U4VlI4b2Q0TkR1X3hJaDUtXzV5R1hBUW9VRUczbkVwUHZfeDNEWUdEUks?oc=5",
-      "published_at": "2026-10-23T11:15:00+00:00",
-      "topics": [
-        "economy"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "economy"
-      ]
-    },
-    {
-      "title": "Pedro Silverio publica “Ensayos de Economía”",
-      "publisher": "Hoy Digital",
-      "publisher_url": "https://hoy.com.do",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQm43TWlUb28tWlZfbFFGazgyenRYeEhTR1FvUzhhel9ZYlJDTmlwdDNIOUhhS0ZfcGNZOGlVd1FhaGcyTk9ZTWpZVDRZUUduMVNpelgtY0VKbkVMc3hYakp1UGRFM0prYUFTV1RvMU11YzJSMXczUmRneHdCdkhtVWhSTUhIeDdsMTVB0gGLAUFVX3lxTFBCbjdNaVRvby1aVl9sUUZrODJ6dFh4SFNHUW9TOGF6X1liUkNOaXB0M0g5SGFLRl9wY1k4aVV3UWFoZzJOT1lNallUNFlRR24xU2l6WC1jRUpuRUxzeFhqSnVQZEUzSmthQVNXVG8xTXVjMlIxdzNSZGd4d0J2SG1VaFJNSEh4N2wxNUE?oc=5",
-      "published_at": "2026-10-23T04:00:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSlNzMG4zZmxJd3dPUWh3clB3bkpLbldEeDFjTFJwU3JVcEgyRk00MnlPTkZtbVV0R2MyeUoyTkVIdnNoTFFER1ZKd3g5VHNVV3YzYmVSRjU3c2lYNHJ4N21xaktzam51SEYycG1UWnFfbzZmRFduVkFmeXpXLUM4bGZyOEM4cGJ2YXZkMVNmc9IBjwFBVV95cUxNSlNzMG4zZmxJd3dPUWh3clB3bkpLbldEeDFjTFJwU3JVcEgyRk00MnlPTkZtbVV0R2MyeUoyTkVIdnNoTFFER1ZKd3g5VHNVV3YzYmVSRjU3c2lYNHJ4N21xaktzam51SEYycG1UWnFfbzZmRFduVkFmeXpXLUM4bGZyOEM4cGJ2YXZkMVNmcw?oc=5",
+      "published_at": "2026-10-24T04:00:00+00:00",
       "topics": [
         "economy"
       ],
