@@ -1,7 +1,7 @@
 {
   "date": "2026-10-23",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-24T00:11:40+00:00",
+  "checked_at": "2026-10-24T00:57:43+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -14,7 +14,7 @@
     "rd": {
       "ok": true,
       "error": null,
-      "count": 4
+      "count": 5
     },
     "centroamerica": {
       "ok": true,
@@ -34,7 +34,7 @@
     "europa": {
       "ok": true,
       "error": null,
-      "count": 24
+      "count": 23
     },
     "global": {
       "ok": true,
@@ -43,6 +43,16 @@
     }
   },
   "items": [
+    {
+      "title": "Comienza ensayo de vacuna contra el brote de ébola que azota RD Congo",
+      "publisher": "El Nuevo Diario",
+      "publisher_url": "https://elnuevodiario.com.do",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeHVaazFVcTk5ZWctR2UtbVZScGlCUWlTUDlfTDFBQ3FnU2pIRTNadlNVbXI3NjdtbGRpQ3U5dXdPazJpSDZBQjl6bTM0ZHkxSGtXR3hVaGM2eTlSMHhBS0c0QkxCYnhaWnlnbkNHVGVudXZyN1V6TkZCNk1Ub0dZajc4WTVEWTFOQ2JsY0NSR0hDczktSzZWVWRMdnpNRWhj?oc=5",
+      "published_at": "2026-10-24T00:22:38+00:00",
+      "regions": [
+        "rd"
+      ]
+    },
     {
       "title": "Defensor del pueblo valora fondo que cubrirá 13 medicamentos de alto costo sin copagos",
       "publisher": "El Nuevo Diario",
@@ -61,6 +71,17 @@
       "published_at": "2026-10-23T21:47:44+00:00",
       "regions": [
         "rd"
+      ]
+    },
+    {
+      "title": "Most cancer drugs approved by European regulators lack a high clinical benefit, analysis finds",
+      "publisher": "STAT",
+      "publisher_url": "https://www.statnews.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSkhObE1IeElQMDFRSEN5QmJnRjdHdHVUOFhramtHbXFIYTZLNXNyUWNySFkycGlMd1J4dmRFQjFSMTRySlZQWi0wOTRtTUxmanNDOEgxZFJTd0tLdlM1TGZqbFlDQ3V2TnFtbTJPRld0M0xRVFN5VWhaZ2RUdlJ2aWVRWkJJRjJ4SzNXZ2xzZWtlZzRTYk1NSXN4XzlCc3ltNmxLWg?oc=5",
+      "published_at": "2026-10-23T21:10:05+00:00",
+      "regions": [
+        "global",
+        "usa"
       ]
     },
     {
@@ -91,17 +112,6 @@
       "publisher_url": "https://www.statnews.com",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ3phMmhYeGpaLUZYQk9fRm5ialJsbVJ2YmJHS3VySDY0TTl5WXQzTlhZSkxwbGFiMmhrVVp1TVliNDRaSGVfTElKXzdlNklXdHFPOHpXMVViZVVFVm1mcHo1WFp6RWxhM3psenZMMV9zZXhwYVhfU2ZlZVpYaklKQlVsakIxRmI0U1UzQUY2TUhFRklKVnJqbDVpYm8tMFk?oc=5",
       "published_at": "2026-10-23T19:24:13+00:00",
-      "regions": [
-        "global",
-        "usa"
-      ]
-    },
-    {
-      "title": "Most cancer drugs approved by European regulators lack a high clinical benefit, analysis finds",
-      "publisher": "STAT",
-      "publisher_url": "https://www.statnews.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSkhObE1IeElQMDFRSEN5QmJnRjdHdHVUOFhramtHbXFIYTZLNXNyUWNySFkycGlMd1J4dmRFQjFSMTRySlZQWi0wOTRtTUxmanNDOEgxZFJTd0tLdlM1TGZqbFlDQ3V2TnFtbTJPRld0M0xRVFN5VWhaZ2RUdlJ2aWVRWkJJRjJ4SzNXZ2xzZWtlZzRTYk1NSXN4XzlCc3ltNmxLWg?oc=5",
-      "published_at": "2026-10-23T18:49:44+00:00",
       "regions": [
         "global",
         "usa"
@@ -198,7 +208,6 @@
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTUU2WGdpVGc5WnlxS3dBSUNOOXB4TUFzRkduVll0ZzFMWlBsTnc4YlZILXVxMURldzZTSUo3UE4wcUw2bXpXWlQ2Nk5vYWFQV0YtNnljUVdUNlVSaFJLZHIwS1lLMC1SRVBuZ0ZpenRUS2VOa2c1Z2lkNDhlbUtRNFFPMjBxR3l1d1B0Z1VGQVNvYllJQV81eFJrMUFOdkozRVRjTXBITV9HYnpNRXBEMTdnRjhmdnc?oc=5",
       "published_at": "2026-10-23T16:26:05+00:00",
       "regions": [
-        "europa",
         "global"
       ]
     },

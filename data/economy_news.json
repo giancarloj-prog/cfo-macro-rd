@@ -1,7 +1,7 @@
 {
   "date": "2026-10-23",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-24T00:11:39+00:00",
+  "checked_at": "2026-10-24T00:57:42+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -23,7 +23,7 @@
     "bcrd": {
       "ok": true,
       "error": null,
-      "count": 9
+      "count": 8
     },
     "fiscal": {
       "ok": true,
@@ -118,7 +118,7 @@
       "title": "Ministro de Hacienda propone diálogo nacional por crisis de combustibles",
       "publisher": "El Caribe",
       "publisher_url": "https://www.elcaribe.com.do",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVXRUV1pRQm8wTmxjWXgwUjhkUmRpZmVrSzA0NmJnYWpXWWhxLW1BVkFTY0hvQldhN3A0RVNMbnBEWTFDdTNoTlNhWHpRVmlXSU1qakNzYnRwQ0JNVGsydVpHQTJMMWwyME1TOERyTTBaS3JvTjNteEtUdFdjNDZtT1lmZGc5OXcwUkk1Rnp4MU1BcUltOWNZaC1rT2dqMG1mNnFKYnhDRDlraUha?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNN3lET0hNS180RFpjV1RyODNldG1ucVdSRkw3UHg4eTZTaHBMb0pwUVBHaFJQQ1RBY2R0Wlh2dWQ1OTVsVTBVU3VtTmo1Q1QyMFBnY2hwRTNYTTFnOW8welJ3VmFBbTNabld3SHRYSmttNF9Md0FjS1E1ZzlCTlVXd0xSNV9GZUVNbTdDSDAwbGRiTzBHTExaWjl1blVJMkpMWXlSTDg2TUFyczZ5MlUw?oc=5",
       "published_at": "2026-10-23T20:13:16+00:00",
       "topics": [
         "fiscal"
@@ -211,6 +211,23 @@
       ]
     },
     {
+      "title": "Valdez Albizu anunció que economía RD creció 5.6 % interanual en septiembre 2026",
+      "publisher": "El Nuevo Diario",
+      "publisher_url": "https://elnuevodiario.com.do",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRUZmeUl3XzVQZjM5V1hoNGJoWk5FcVAzMGFwOHdsbllSbHFhaEJhZkxzaXNHcmI3NGRCTWhjdlV6d0I2aUFNOFZETFJMNjdQbDdvS053N1gxendMeE5LaTFKelduNmdEbi1HN0hVMHg0NVRMcmFSNEwyZ1VuMmlSeHFpa1U1VUtfLUh6WXNUbExfVjFRRE1PWjFWdnl3dDFuMjRxSzd5NWY4cEZfSDFGZkdwQnV4SWRhQ2Y0?oc=5",
+      "published_at": "2026-10-23T18:16:10+00:00",
+      "topics": [
+        "economy",
+        "finance"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "economy",
+        "finance"
+      ]
+    },
+    {
       "title": "Valdez Albizu anunció que la economía dominicana creció 5.6 % interanual en septiembre 2026",
       "publisher": "El Nuevo Diario",
       "publisher_url": "https://elnuevodiario.com.do",
@@ -227,6 +244,21 @@
         "bcrd",
         "economy",
         "finance"
+      ]
+    },
+    {
+      "title": "Ponen en circulación obra que analiza la economía y la política dominicana",
+      "publisher": "El Nuevo Diario",
+      "publisher_url": "https://elnuevodiario.com.do",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSGtETGtva0FxTjBTMndQaDl0RGpieXp4eFowS2tfOERmUlpCNU1Yek5UTWRoR1dnbjlyMVFnR09WQXJfNnluMzhJYkRKdE9EUDRwSW9QOWNsM0lCcDI1cUppZjBkVEE1UzhPeEViLWRpRnRfWVp1YTRucUJ6YjRFNGZKRWhMV3k2VWhmdk1DV0RrLWhOb3V2Z0ttOUwxZmZ6ZjJLR0MzQkdoZkdi?oc=5",
+      "published_at": "2026-10-23T18:15:56+00:00",
+      "topics": [
+        "economy"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "economy"
       ]
     },
     {
