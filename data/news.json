@@ -1,7 +1,7 @@
 {
   "date": "2026-10-23",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-23T20:34:42+00:00",
+  "checked_at": "2026-10-24T00:11:40+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -14,7 +14,7 @@
     "rd": {
       "ok": true,
       "error": null,
-      "count": 2
+      "count": 4
     },
     "centroamerica": {
       "ok": true,
@@ -29,20 +29,62 @@
     "usa": {
       "ok": true,
       "error": null,
-      "count": 18
+      "count": 17
     },
     "europa": {
       "ok": true,
       "error": null,
-      "count": 30
+      "count": 24
     },
     "global": {
       "ok": true,
       "error": null,
-      "count": 24
+      "count": 26
     }
   },
   "items": [
+    {
+      "title": "Defensor del pueblo valora fondo que cubrirá 13 medicamentos de alto costo sin copagos",
+      "publisher": "El Nuevo Diario",
+      "publisher_url": "https://elnuevodiario.com.do",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPV3ZSbW1rMF9FaFVWUGdLUzRMUTZZSkJJVXFIVGl0RTdkMmJuVHpQc1RZUHlwZlFOdkk2ejhaNEh3bVlzNkNKaFAxWEJiUXUxLW8xVmgtbmhzQjBPVGVPaWo0SHZjaTMwY1NfbjV1N1lOclU2SnNKbDJJUmZMTVZGaGVQMHhsb1BSS2s2S0VtRVdMVVh2N0FUQjJwdkxmVmw4dHBsTnFwYjVZYjJ0Qm10WVFaR3VrUFk?oc=5",
+      "published_at": "2026-10-23T22:43:15+00:00",
+      "regions": [
+        "rd"
+      ]
+    },
+    {
+      "title": "FDA aprueba insulina semanal para adultos con diabetes tipo 2",
+      "publisher": "El Caribe",
+      "publisher_url": "https://www.elcaribe.com.do",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNenNqc1lNVnFWZlNSaVFldEd2aXJsX0JiaTlBekFKNTFRQlcyQTYtVXoyV1VydnRZeHMzb3RFUXVSeWhwN0NKQlN5NUVpTGJqWWxOVkhQR1hpYU1vTWFOOGdTRXhKVkpqWGZkYnRzM0pJckt5dk9SRHlMWlMtdXVST0VNcGJ3UW5PUW9KQ2dJTjlKQlFqcG1XYmFsSjc0TEx5cFdnYnhDYTE?oc=5",
+      "published_at": "2026-10-23T21:47:44+00:00",
+      "regions": [
+        "rd"
+      ]
+    },
+    {
+      "title": "Señalan a papás de impedir vacunar a su hijos en Tampico y Madero",
+      "publisher": "Milenio",
+      "publisher_url": "https://www.milenio.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdjBoOTNIYjI4QjRULW85UmVLYWozWWtyckF5MVBNUm9CVmRWM3YyV2o4VmhTdXZpUmlOLWxOOGpicjVZOU8tTTNaNjFIbGpiS0hkUFBoQzZpemZ6MDB0UVhpbWVzbXNCeWZWNFliZXVDOW14dndqb3BxRHBHV2w4R1BKZ01JOE9vaHfSAYoBQVVfeXFMT3ltdmpUeGNyRFFwUGxCeWI0bnhxaFNxRlh4dzFabUE4QnloYVZlWkRvNUpYN0Z6bTdRdzcxd2I0ekV0Q0M4MmZTei1JOGhYSDZUdjdwZ2w3cFBWZm5WSTBqekN6TmpQV05lUU9BSkJqVGZLYUhtRFFwdlRpOEhEbUZfVEw5a1FjN0d3?oc=5",
+      "published_at": "2026-10-23T21:08:24+00:00",
+      "regions": [
+        "mexico"
+      ]
+    },
+    {
+      "title": "EXCLUSIVE: Heineken document reveals worries over weight-loss drugs and beer sales",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQkxjUl8zRFdLRXdOR1Z3SVFsSEc1WElSMG9OZHRJYW52a3hvN3BVOEJBMHk4YnZpQkRwYnRzWF9qeXhRZjF6M0o5c09xVzZ5a0dwOG1aQ2thYlpKV1RlTFBsVWNGcHdpZ2F4Sld3UWFoY1htZDVld1UwZ0x1MnJ0bnZOdVpMZDlEZ3JmRDhQa3Fsam9UZkl0TnB2eHF3eU1CNGZTWlV4Smt4NDJLbXBzQ1ExekxtWm5uTGtCRg?oc=5",
+      "published_at": "2026-10-23T19:49:09+00:00",
+      "regions": [
+        "europa",
+        "global",
+        "usa"
+      ]
+    },
     {
       "title": "Highly anticipated Moderna-Merck melanoma cancer vaccine data arrived early",
       "publisher": "STAT",
@@ -59,7 +101,7 @@
       "publisher": "STAT",
       "publisher_url": "https://www.statnews.com",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSkhObE1IeElQMDFRSEN5QmJnRjdHdHVUOFhramtHbXFIYTZLNXNyUWNySFkycGlMd1J4dmRFQjFSMTRySlZQWi0wOTRtTUxmanNDOEgxZFJTd0tLdlM1TGZqbFlDQ3V2TnFtbTJPRld0M0xRVFN5VWhaZ2RUdlJ2aWVRWkJJRjJ4SzNXZ2xzZWtlZzRTYk1NSXN4XzlCc3ltNmxLWg?oc=5",
-      "published_at": "2026-10-23T18:49:59+00:00",
+      "published_at": "2026-10-23T18:49:44+00:00",
       "regions": [
         "global",
         "usa"
@@ -71,6 +113,16 @@
       "publisher_url": "https://www.eluniversal.com.mx",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNZUFWanpFWklqeVZ6MENhQm05VFZ6R1BGNE9lQVFiUUZfano3dHBLWXBITEhNbHR1NkI0WUR1ZVhYdlpCSEw1d0F0blZCRmpyVUF3TmsxYlI0bWdpR3FrbEFFOEFEVEdqVmNkRHYza1ZGT3Bnc0RBTHFDRDBOczNoZkZRLWtYeTBJVmR5WGpZSEFRRkNqYjB1SVB4R2tmcEtocm4tOGU5V2pnc1B6eTBnNWIwamNKdE14Ul9pQndNNWRDYnhvMlNiNFNVSktCczRiSllLa1lMeHU4WFFJYTFOQzVjMlJxZ9IB-gFBVV95cUxNSHFZMEJMUllIU3B4VFFMb25RT1NaT3kzU0p0R293dXFldUNhWWo4ZURlbG9zbHBaU3BzQXhYLW9LTVNmUUtRaUZmUEQzQ2NZOXBaSWdiNHVrLUlJbXBaSVd4LUVwZWZnSm50Rk5PX0NYaVdoaUh5ZS1IYVhJRkVoV0JqQ2hFb3VhZGoxb0dCSkVTT1BtM3R0cnJSTmUxUnJIU0dpdVlrblkxbGFOc3ozZzU0SUJ0c1NfdjdSRzZFcXZKMjJKVHNnblZxWG5ERzZhWktxbU1seUowU2p1ZHE3dU51Tklzamdmbm5UbGI1XzlER0p3MVJBTTNR?oc=5",
       "published_at": "2026-10-23T18:27:10+00:00",
+      "regions": [
+        "mexico"
+      ]
+    },
+    {
+      "title": "Nanovehículos para transportar fármacos en el organismo",
+      "publisher": "El Universal",
+      "publisher_url": "https://www.eluniversal.com.mx",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQX29FSXcyLVk1WVZuQTJUWGJNVzloUU92YTQ3eVZYSEYxZEw5c3VpY2ZvVHRaTVVEQmg3OUMxbFhKd1dWNi1wbi1XS0l4YVg5Z2JNVm53eFh3LXU5SV9LeFVwSUxwdUNteEpKZVhJQzFkdkYyenJlV2hlblpWTVdDZ3FnNWFpQUlvS0xHMWhyMnNxdEJub3dpcWZuaw?oc=5",
+      "published_at": "2026-10-23T18:25:00+00:00",
       "regions": [
         "mexico"
       ]
@@ -98,16 +150,6 @@
       ]
     },
     {
-      "title": "Novartis presents weaker-than-expected relapse data for multiple sclerosis drug remibrutinib",
-      "publisher": "Reuters",
-      "publisher_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPbmp2bnQ0ZGNIb2puNWVPQ2thVDE1ajJjMTZObHhjMms5VHRubkNkNy1CaEVZd2lBTkhxNVp5NjJvVlZMT2RZOTVnYmZScWRMTW9NcWxIWWRpakZuX0dNem85V3g5dW1kN05DZ1g4VkRyd1hGdUxiQlFfYl81VUJwcElKNU5JS25Pd0F2R3RkTDU1ODZWZ2twNkZvSFNvWjRRdmw0S2xDQ2Z2bWJFT3lsdlJHTWI2dFhHOFBGUEVzN1VJYkRxNlR6OEVaS1I1MEVoTm5Ca0FtaXNISF9IMmdGTg?oc=5",
-      "published_at": "2026-10-23T17:52:09+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
       "title": "Médicos ‘aplauden’ resultados de vacuna contra el melanoma de Moderna que ‘tiró’ acciones en Wall Street",
       "publisher": "El Financiero",
       "publisher_url": "https://www.elfinanciero.com.mx",
@@ -125,16 +167,6 @@
       "published_at": "2026-10-23T17:42:00+00:00",
       "regions": [
         "europa"
-      ]
-    },
-    {
-      "title": "Gobierno usará IA para mejorar las fallas en la distribución de medicamentos en México",
-      "publisher": "Forbes México",
-      "publisher_url": "https://forbes.com.mx",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQV9acS1IWGRkMzFmeUE1UHJ0bDhkWW9NMGRyMDEzMnFveERXN1JWczg4dlJhOEhpS1RxNVdVMnFzZmV3YklJdXlkYTJFTDFhdkNXRENLdEM2aWEwRVo3S3pja3hUMUVlckFJakFrQ1EwZ2h3LXJhYTh6bE5aUmZmX2pUZTBTYW52ZC1BUEhEYjdPRjMxSzd1RHBQMXRkZVJTakhxOWIzNnd3U0JNb2c?oc=5",
-      "published_at": "2026-10-23T16:58:00+00:00",
-      "regions": [
-        "mexico"
       ]
     },
     {
@@ -167,8 +199,7 @@
       "published_at": "2026-10-23T16:26:05+00:00",
       "regions": [
         "europa",
-        "global",
-        "usa"
+        "global"
       ]
     },
     {
@@ -198,7 +229,8 @@
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5CYUtzbkJUN0p3Y19rOXZRT3NRTXB3MW4wSE01Zk4zbzRvcS10eG1aOWF1b1Z3a1Q4SXhOQzlyWWtxWno3NHdNcDcxUDZFZ3BKZUg2VGhPLU5FQTQ?oc=5",
       "published_at": "2026-10-23T16:03:05+00:00",
       "regions": [
-        "europa"
+        "europa",
+        "global"
       ]
     },
     {
@@ -207,6 +239,17 @@
       "publisher_url": "https://www.theguardian.com",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcHpzS291N0RiajhiNHFlMnFuNzBjSG1wTlNyQS1UUDFKaEgxMkw4OGxCdDRYcjFRWUpLMjd3MlNLR3ktd0s3MVFybjAxWG9MX2N3eUZERDFLSjdkcXJvXzllYnQxSmJTQ0JyUFRzRENtcG5vdVJuSmxuMWR2Y3ZtYUNaMFNlNkFqVVVpSThnQzdTNmdqcXBhY292NXJRb1FhVFZJMTd1cm0zNDhkY1hJN1NB?oc=5",
       "published_at": "2026-10-23T15:58:00+00:00",
+      "regions": [
+        "europa",
+        "global"
+      ]
+    },
+    {
+      "title": "Gang jailed over £2m city drugs network",
+      "publisher": "BBC",
+      "publisher_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE90dDFhWU9vbmUxQ3psdy1IakNLUXFHMExoQzNKc3YzTEhlRzNhTmR6UFVxWEdhbG5IZ19EY1ZURTRhMlFKTXpjTmpHV3FTUnhWMWtqci1pcUFWVGs?oc=5",
+      "published_at": "2026-10-23T15:57:58+00:00",
       "regions": [
         "europa",
         "global"
@@ -231,27 +274,6 @@
       "published_at": "2026-10-23T15:23:11+00:00",
       "regions": [
         "usa"
-      ]
-    },
-    {
-      "title": "Gang jailed over £2m city drugs network",
-      "publisher": "BBC",
-      "publisher_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE90dDFhWU9vbmUxQ3psdy1IakNLUXFHMExoQzNKc3YzTEhlRzNhTmR6UFVxWEdhbG5IZ19EY1ZURTRhMlFKTXpjTmpHV3FTUnhWMWtqci1pcUFWVGs?oc=5",
-      "published_at": "2026-10-23T15:11:46+00:00",
-      "regions": [
-        "europa",
-        "global"
-      ]
-    },
-    {
-      "title": "Lincoln-based gang jailed over £2m drugs conspiracy",
-      "publisher": "BBC",
-      "publisher_url": "http://news.bbc.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBmNlFhT3BpOHJpSGhieTFabW0xZm9FaDY5ZGk2RFBtLXdMRUVab1NnLWU0a0s1Sm1ZUTZuaFBjcTFrckNnc3pLRGctOFhHY2x0NVhRZkpYTmdJYTRGTEE?oc=5",
-      "published_at": "2026-10-23T15:11:46+00:00",
-      "regions": [
-        "europa"
       ]
     },
     {
@@ -360,21 +382,22 @@
       ]
     },
     {
+      "title": "Bristol Myers, SystImmune breast cancer drug cuts progression risk in study",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPS0Z6TS10U2FYV3BHVW0zRkplUURaaTZNN0VtVkljaDJZYkVwNTBVUExDUDNkWE1DVHpVazc1dHB1cWNiNXZURTZ3dUhLUjFyN1paSEpKcW9XdVA0R3JmMENjZDhkV0NEdTRhOUt5emdUSUk0ZnFoOFZzZGUzQlNDY0d6R2ZobjY1Y2plRmVObEJCallHcUNaM0g4SUUzem1FRHdDdkszU1hyTEpXN1BZWEhod2pzWmhydDFxVzd2bkFPZnhGdk9fSThFcWQ3QTdMbnVHaEthWm1ZaEk?oc=5",
+      "published_at": "2026-10-23T12:41:39+00:00",
+      "regions": [
+        "europa",
+        "global"
+      ]
+    },
+    {
       "title": "At ESMO 2026, Sun Pharma to Present Long-Term Follow-up Data on UNLOXCYT® (cosibelimab-ipdl) from One of the Largest Prospective Studies in Advanced Cutaneous Squamous Cell Carcinoma (aCSCC) – Company Announcement - FT.com",
       "publisher": "Financial Times",
       "publisher_url": "https://markets.ft.com",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSXhVNW5heDhXd01yeGFDSGJVVVBaQU5sUFJOQ0hQb2NVNU9OS05pclR4NkFHc2NVc1R2bnF1MXZEY0otSkZMOGE5VUJWcjdLQndNeVNYVXVMRXhWTnFEUkNVaDBHU0hjemFoUE1Cb2xKczYwVGdSOXBTTTdFM0VCOWZCSzJjdm91bU5lRzJ3Sm1uTHJ1SnRRNg?oc=5",
       "published_at": "2026-10-23T12:30:00+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "Huddersfield drug dealer jailed for county lines operation",
-      "publisher": "BBC",
-      "publisher_url": "https://www.bbc.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1CLTdyOTZrWjFTQ0FFeFBHOWRKb0x5MV9BZmhjZUNNZlFNVXBDY2xuOVJiaXZzU3VESHUzOE9FY2xFR3FsTDczSEhyWUhJV0psSHh3QkYweVhTUnZDSXc?oc=5",
-      "published_at": "2026-10-23T11:57:52+00:00",
       "regions": [
         "europa"
       ]
@@ -410,16 +433,6 @@
       "published_at": "2026-10-23T10:44:07+00:00",
       "regions": [
         "europa"
-      ]
-    },
-    {
-      "title": "Nanovehículos para transportar fármacos en el organismo",
-      "publisher": "El Universal",
-      "publisher_url": "https://www.eluniversal.com.mx",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQX29FSXcyLVk1WVZuQTJUWGJNVzloUU92YTQ3eVZYSEYxZEw5c3VpY2ZvVHRaTVVEQmg3OUMxbFhKd1dWNi1wbi1XS0l4YVg5Z2JNVm53eFh3LXU5SV9LeFVwSUxwdUNteEpKZVhJQzFkdkYyenJlV2hlblpWTVdDZ3FnNWFpQUlvS0xHMWhyMnNxdEJub3dpcWZuaw?oc=5",
-      "published_at": "2026-10-23T09:31:00+00:00",
-      "regions": [
-        "mexico"
       ]
     },
     {
@@ -497,16 +510,6 @@
       ]
     },
     {
-      "title": "World first personalised cancer vaccine stops disease returning in major trial",
-      "publisher": "BBC",
-      "publisher_url": "http://www.bbc.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAzR2Z0REVBOHlKbU1ZZ09GYTBONWJfY1V2Qld3RHZqZkFfRFFyTkJnOU5vS0d3cU1oQjE1a1Vtd05vODB6ektkWm94dzJ3d252QklTM1kzN0xZbGRs?oc=5",
-      "published_at": "2026-10-23T07:49:02+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
       "title": "Alnylam says Huntington’s drug shows promise in early study",
       "publisher": "STAT",
       "publisher_url": "https://www.statnews.com",
@@ -539,18 +542,6 @@
       ]
     },
     {
-      "title": "EXCLUSIVE: Heineken document reveals worries over weight-loss drugs and beer sales",
-      "publisher": "Reuters",
-      "publisher_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQkxjUl8zRFdLRXdOR1Z3SVFsSEc1WElSMG9OZHRJYW52a3hvN3BVOEJBMHk4YnZpQkRwYnRzWF9qeXhRZjF6M0o5c09xVzZ5a0dwOG1aQ2thYlpKV1RlTFBsVWNGcHdpZ2F4Sld3UWFoY1htZDVld1UwZ0x1MnJ0bnZOdVpMZDlEZ3JmRDhQa3Fsam9UZkl0TnB2eHF3eU1CNGZTWlV4Smt4NDJLbXBzQ1ExekxtWm5uTGtCRg?oc=5",
-      "published_at": "2026-10-23T06:01:00+00:00",
-      "regions": [
-        "europa",
-        "global",
-        "usa"
-      ]
-    },
-    {
       "title": "EQS-Adhoc: BB Biotech AG publishes its interim report – Company Announcement",
       "publisher": "Financial Times",
       "publisher_url": "https://markets.ft.com",
@@ -575,7 +566,7 @@
       "publisher": "Financial Times",
       "publisher_url": "https://www.ft.com",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNakRVNndEM0JDRlplN1REY0dRd0tKb1JnT3NLX0daNzRNQVRobjVkcVdIZkxGM21QVUc5eUpab3NiVVNrNF9seE5hVjJmMEtKU3dxcFdkNnFFeURLbTlBb0tGZDlDVmk2WFVsakxqTFRnbWkwMW9id0tqdWJ1ejBYcjRjYVU?oc=5",
-      "published_at": "2026-10-23T04:00:10+00:00",
+      "published_at": "2026-10-23T04:02:31+00:00",
       "regions": [
         "europa",
         "global"

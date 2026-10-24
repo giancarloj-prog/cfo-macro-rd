@@ -1,7 +1,7 @@
 {
   "date": "2026-10-23",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-23T20:34:41+00:00",
+  "checked_at": "2026-10-24T00:11:39+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -23,12 +23,12 @@
     "bcrd": {
       "ok": true,
       "error": null,
-      "count": 8
+      "count": 9
     },
     "fiscal": {
       "ok": true,
       "error": null,
-      "count": 3
+      "count": 2
     },
     "dgii": {
       "ok": true,
@@ -38,7 +38,7 @@
     "finance": {
       "ok": true,
       "error": null,
-      "count": 4
+      "count": 5
     },
     "securities": {
       "ok": true,
@@ -48,7 +48,7 @@
     "economy": {
       "ok": true,
       "error": null,
-      "count": 12
+      "count": 13
     },
     "economist_andy": {
       "ok": true,
@@ -83,10 +83,42 @@
   },
   "items": [
     {
+      "title": "Camipe destaca crecimiento de 5.2 % de minas y canteras frente al 4.6 % de la economía",
+      "publisher": "El Nuevo Diario",
+      "publisher_url": "https://elnuevodiario.com.do",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcUg4bFV6MFVWMVk3UFg3WWlJSVd2WHZNVTdwOTBfSExuNnRDYV9JYjZRZ0pvMlUtd2N6RUtoZnJfM0U4bkI5ZVJ4M2IzcHF3dTJ5YUo0VUZ6RElQT2JwNlZ1XzFRWUpqRkJ5OVlkSC1Ud1ppX1V3aVZZaWwtcThHMGJNbnp5NFA2aWlIVS15bmtWM2hIc0dCRzAwemNkS0VZWUJQNE5jYVgzVDlOa0lBektR?oc=5",
+      "published_at": "2026-10-23T20:46:34+00:00",
+      "topics": [
+        "economy"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "economy"
+      ]
+    },
+    {
+      "title": "Gobernador de Banco Central advierte persisten riesgos al alza de la inflación",
+      "publisher": "Diario Libre",
+      "publisher_url": "https://www.diariolibre.com",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZi1ReTUtZS12MmxJWC1lcGZhMUFUdkUtNnlZY2tiNW9nZHJfQlJxWVBNaW5FanZ3MXpSaEFDbjEtQk1VNmNGX0VySVlZcnpLVWZJai1WZ1UxNGhJNHpWdC1IdnY2bTVUV1VmYzAzNnNSM3ZHT3R5UG5uSmYyWURnUmVfdVdpYVVTYlM1V3dfZVd0UnU2S0RpNFptOW5ZMWF5SFhObVZsRHBfZHN0M0ttS29pQ2xXbVNyX09RcXlJemh2ZEJfOTVxNlloakZyODTSAc8BQVVfeXFMT2YtUXk1LWUtdjJsSVgtZXBmYTFBVHZFLTZ5WWNrYjVvZ2RyX0JScVlQTWluRWp2dzF6UmhBQ24xLUJNVTZjRl9FcklZWXJ6S1VmSWotVmdVMTRoSTR6VnQtSHZ2Nm01VFdVZmMwMzZzUjN2R090eVBubkpmMllEZ1JlX3VXaWFVU2JTNVd3X2VXdFJ1NktEaTRabTluWTFheUhYTm1WbERwX2RzdDNLbUtvaUNsV21Tcl9PUXF5SXpodmRCXzk1cTZZaGpGcjg0?oc=5",
+      "published_at": "2026-10-23T20:14:00+00:00",
+      "topics": [
+        "bcrd",
+        "economy",
+        "finance"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "economy"
+      ]
+    },
+    {
       "title": "Ministro de Hacienda propone diálogo nacional por crisis de combustibles",
       "publisher": "El Caribe",
       "publisher_url": "https://www.elcaribe.com.do",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNN3lET0hNS180RFpjV1RyODNldG1ucVdSRkw3UHg4eTZTaHBMb0pwUVBHaFJQQ1RBY2R0Wlh2dWQ1OTVsVTBVU3VtTmo1Q1QyMFBnY2hwRTNYTTFnOW8welJ3VmFBbTNabld3SHRYSmttNF9Md0FjS1E1ZzlCTlVXd0xSNV9GZUVNbTdDSDAwbGRiTzBHTExaWjl1blVJMkpMWXlSTDg2TUFyczZ5MlUw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVXRUV1pRQm8wTmxjWXgwUjhkUmRpZmVrSzA0NmJnYWpXWWhxLW1BVkFTY0hvQldhN3A0RVNMbnBEWTFDdTNoTlNhWHpRVmlXSU1qakNzYnRwQ0JNVGsydVpHQTJMMWwyME1TOERyTTBaS3JvTjNteEtUdFdjNDZtT1lmZGc5OXcwUkk1Rnp4MU1BcUltOWNZaC1rT2dqMG1mNnFKYnhDRDlraUha?oc=5",
       "published_at": "2026-10-23T20:13:16+00:00",
       "topics": [
         "fiscal"
@@ -113,6 +145,21 @@
       ]
     },
     {
+      "title": "La estabilidad macroeconómica no hace ruido; por eso solo se nota cuando falta",
+      "publisher": "Acento",
+      "publisher_url": "https://acento.com.do",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQS2sxbnA2dFVHb0pYZFUwdFRKYnFVd1RMQk1NTDFKMGo2RXRrZWc1UHJ5N2U4WmtWcVhXN19hLUZvYVdxMlRfNUNsUno1T2plTXJ5cFhjem83Rkh6MTlaQ3ZqckhhWkw4OVM5VUJwd2oxS0tOdGhJQkVkcDRDZ0xzZ0NOTm40QzFNQXExY3N0SWRjMzRNWmh1bUlBcXhrRmFmLTJjLVZiUjVJWnJwTmJ0Y3NXYUMtNkpabXNaSzV30gG-AUFVX3lxTFBLazFucDZ0VUdvSlhkVTB0VEpicVV3VExCTU1MMUowajZFdGtlZzVQcnk3ZThaa1ZxWFc3X2EtRm9hV3EyVF81Q2xSejVPamVNcnlwWGN6bzdGSHoxOVpDdmpySGFaTDg5UzlVQnB3ajFLS050aElCRWRwNENnTHNnQ05ObjRDMU1BcTFjc3RJZGMzNE1aaHVtSUFxeGtGYWYtMmMtVmJSNUlacnBOYnRjc1dhQy02Slptc1pLNXc?oc=5",
+      "published_at": "2026-10-23T19:30:47+00:00",
+      "topics": [
+        "finance"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "finance"
+      ]
+    },
+    {
       "title": "Inflación se modera a 5.12% y economía dominicana crece 4.6% a septiembre",
       "publisher": "Periódico elDinero",
       "publisher_url": "https://eldinero.com.do",
@@ -135,15 +182,32 @@
       "title": "Valdez Albizu celebra reducción de déficit cuasifiscal y anuncia proyecto de ley sobre el tema",
       "publisher": "Diario Libre",
       "publisher_url": "https://www.diariolibre.com",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQc29kSlZnbkhUV05ELWh4cUFIVnowQjNJVnJZZUp2VXlhVld4M3lnY0R3LW9veU54clVScUEtdVhmSnJyS3ZwSlh6R0RVeFk4V1dVUXJpMWhuMGFVNHdGT0dsdVFoZVJMSUwzT3NwbE1SVEZmVjc5RjRGY0VlTEtiN3V4WDYwbTE3QVJKWC1DMV95WG9TSjFkVW5aVWszdlB5a3JGdDExUWJGbUppMjlaa1lLbzMxeTBwMllQbE16RlZFS1ZZbGZkddIByAFBVV95cUxQc29kSlZnbkhUV05ELWh4cUFIVnowQjNJVnJZZUp2VXlhVld4M3lnY0R3LW9veU54clVScUEtdVhmSnJyS3ZwSlh6R0RVeFk4V1dVUXJpMWhuMGFVNHdGT0dsdVFoZVJMSUwzT3NwbE1SVEZmVjc5RjRGY0VlTEtiN3V4WDYwbTE3QVJKWC1DMV95WG9TSjFkVW5aVWszdlB5a3JGdDExUWJGbUppMjlaa1lLbzMxeTBwMllQbE16RlZFS1ZZbGZkdQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZVFnUERCTmZldldwNHJoUXRaT0pteG15WndoNFRsSzdsOFM0S3k2NUcyVXFSTzE2YUNnRno4aDk0V2ZUcVp1NWJ3Z0dROVZyaGlKYjVYNVRIdFhUZ1RxVXFLNlBCTmtKNXMzdFdFaGJFNVVIeS16MG10UXFWUk9GRlgyN2tFNEhMLWR1UnJ1T2FpQjBmUWk0WUFYdm5RRUlWWjREdGxrN3Jjei1JUTN6elRxNDdDaGE5cmp2X1NGR3pGcEnSAcgBQVVfeXFMUHNvZEpWZ25IVFdORC1oeHFBSFZ6MEIzSVZyWWVKdlV5YVZXeDN5Z2NEdy1vb3lOeHJVUnFBLXVYZkpyckt2cEpYekdEVXhZOFdXVVFyaTFobjBhVTR3Rk9HbHVRaGVSTElMM09zcGxNUlRGZlY3OUY0RmNFZUxLYjd1eFg2MG0xN0FSSlgtQzFfeVhvU0oxZFVuWlVrM3ZQeWtyRnQxMVFiRm1KaTI5WmtZS28zMXkwcDJZUGxNekZWRUtWWWxmZHU?oc=5",
       "published_at": "2026-10-23T18:35:00+00:00",
       "topics": [
+        "bcrd",
         "fiscal"
       ],
       "economists": [],
       "economist_match": null,
       "searches": [
+        "bcrd",
         "fiscal"
+      ]
+    },
+    {
+      "title": "Ponen en circulación una obra que analiza la economía y la política dominicana",
+      "publisher": "El Nuevo Diario",
+      "publisher_url": "https://elnuevodiario.com.do",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPQThPcGZpNDg1WmNJMU5sSmI5TUtzS0lKa1ZnM1BhamFyeTlVWnFOQXZYdGlvUWd6cUhxeXFNSTVodmZEMTJ3RmdPOUI0U1p5Z3pINjJEV0RDREhuMUxhRWFTZkRZZENjZHVKc2VtOVNneDhxTGNTRHdCSVJaY2dCRHNtRks5M0toYTIyX0lHU0xYWVgxb2N2U3BVb3ZBWk9xa0pWY1phb3hBUW1vNnE5ejF1cFNlbF9UUVFEcXRZWkVEUFI0UjVobVZxV1duVnZuXzdOdVdXcGFwamUwazI2ZUhR?oc=5",
+      "published_at": "2026-10-23T18:17:14+00:00",
+      "topics": [
+        "economy"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "economy"
       ]
     },
     {
@@ -163,21 +227,6 @@
         "bcrd",
         "economy",
         "finance"
-      ]
-    },
-    {
-      "title": "Ponen en circulación una obra que analiza la economía y la política dominicana",
-      "publisher": "El Nuevo Diario",
-      "publisher_url": "https://elnuevodiario.com.do",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSGtETGtva0FxTjBTMndQaDl0RGpieXp4eFowS2tfOERmUlpCNU1Yek5UTWRoR1dnbjlyMVFnR09WQXJfNnluMzhJYkRKdE9EUDRwSW9QOWNsM0lCcDI1cUppZjBkVEE1UzhPeEViLWRpRnRfWVp1YTRucUJ6YjRFNGZKRWhMV3k2VWhmdk1DV0RrLWhOb3V2Z0ttOUwxZmZ6ZjJLR0MzQkdoZkdi?oc=5",
-      "published_at": "2026-10-23T18:15:56+00:00",
-      "topics": [
-        "economy"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "economy"
       ]
     },
     {
@@ -218,7 +267,7 @@
     },
     {
       "title": "Economía dominicana creció 5.6 % interanual en septiembre 2026, afirma Valdez Albizu",
-      "publisher": "eldia.com.do",
+      "publisher": "El Dia.com.do",
       "publisher_url": "https://eldia.com.do",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYU1BaUQzVVJUOW93blpXRjgxVGM2djEwLUtjR1QyTjBhMlJRSTctLWNfRURDd0swaUxrZG5aN2d3eWhmM2VMLUsxUENhUUd3ekp0UVkwMVlBNWc1a2ZOZ1VSbDYzZ3lQa0x5WWtmX3BUMGV5RjBZdldVOFFtbmFTQjFHVFM2NDhUdTlsYUN2MDY3NzFmWTZuU0ExdWowUWFIeHRueEVn?oc=5",
       "published_at": "2026-10-23T18:02:22+00:00",
@@ -254,7 +303,7 @@
       "title": "¿Qué está impulsando el crecimiento de la economía dominicana en 2026?",
       "publisher": "Hoy Digital",
       "publisher_url": "https://hoy.com.do",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSDRLNThTTHNHeVNkZExoSlNSaEtkZlRvU2NWX0RiTFZnYXlpSjlPdk1DMUF6ZmRRN01RR2FCT2R4aUFEX1M3TWwxUXpfMjhrVk5lMXptaTNNMWNqWk1pY0taNjEyZk9wUWZxRHRROVBBUTJJODhKWXdlT1lZTnVIZE9lUlNKSi1pWlFkZFBaZWFZQQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSDRLNThTTHNHeVNkZExoSlNSaEtkZlRvU2NWX0RiTFZnYXlpSjlPdk1DMUF6ZmRRN01RR2FCT2R4aUFEX1M3TWwxUXpfMjhrVk5lMXptaTNNMWNqWk1pY0taNjEyZk9wUWZxRHRROVBBUTJJODhKWXdlT1lZTnVIZE9lUlNKSi1pWlFkZFBaZWFZQdIBlwFBVV95cUxQbmVHVzE3UjZVODJrQUk3aDJOV1hIRE5KeWdtN2dFR1Zfa2ptQkYxSzNTY1duWDRlUjUxQ3ZvTUJTODZmMHAyTS1YZl9JOUVDQ1d0TjM2ZzlEbnZzbERZOURDRVBvQk9DS1RLd1NWTXZmMG5rR1dobkVVWjZpRWlBbHFHa09oLXRtUHFCUXpaOTFFMVVDNVE4?oc=5",
       "published_at": "2026-10-23T17:09:09+00:00",
       "topics": [
         "bcrd",
@@ -272,7 +321,7 @@
       "publisher": "Periódico elDinero",
       "publisher_url": "https://eldinero.com.do",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMXY1MkozSzFIR0hLajFDM0wxNkVET3ktc3JQRy1DdGVJaG9iN25ST19xR1hNd3ZYRGxFNUxEcGlhWVZMQTBzbXVIRlJ6OG51bk5rMmU1dGJTWG1XSG9oMXhNN2JYamNSUmk0MXRXLUJuRG1nRURreWtoV21uNkRVMTVsMmgzOHlfQ1I2SkZ3SXR6VWpTdXhCWXdlMTNhM2ZFTFFWSTRVS2htNjJNSWVkd1VwWF81eTdrLVBGOVZR?oc=5",
-      "published_at": "2026-10-23T17:04:33+00:00",
+      "published_at": "2026-10-23T17:07:45+00:00",
       "topics": [
         "finance"
       ],
@@ -310,21 +359,6 @@
       "economist_match": null,
       "searches": [
         "dgii"
-      ]
-    },
-    {
-      "title": "RIU Hotels & Resorts destaca aportes por US$191 millones a la economía dominicana e impulsa el turismo sostenible",
-      "publisher": "El Dia.com.do",
-      "publisher_url": "https://eldia.com.do",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRFFKUlRIWlNXVjZZcXFuNE1aTVJITjVldTE0MmVNV0JRZHN6UkplZEV0SlFRVFBZY1NnbGNuSEdzaHpmU3k0WHJkZlNfUm1QWG5HTWFOZTZjM0ZZa0lvMDBtaWstX2J4MWp0Nm1Zd1VCMmNOVlJadVVpNjlrX0FXVTNXd2dma21pdjA5WmlpdkhrR2N0VlNLY04yMWkzb21EX1U4VlI4b2Q0TkR1X3hJaDUtXzV5R1hBUW9VRUczbkVwUHZfeDNEWUdEUks?oc=5",
-      "published_at": "2026-10-23T16:33:57+00:00",
-      "topics": [
-        "economy"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "economy"
       ]
     },
     {
@@ -381,6 +415,21 @@
       "publisher_url": "https://acento.com.do",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNXdiS3dMLTdZemtnaVR6aXhPWFFRUkJnbEdROHdEXzUtWDBjbHoySVI3MmVfY3BINnNCRXdybFo0VnNHcTNfV3R5TE1hZWprRUhhczNoaDdpWlc5aXRSelpiR25WT3puZXE5X1h2aXk4dG92VzZUa2xPQ2tOTU5mQ3hEZFdYMlJneFFfVE9BekN6YjE3TGZqTtIBmAFBVV95cUxNNXdiS3dMLTdZemtnaVR6aXhPWFFRUkJnbEdROHdEXzUtWDBjbHoySVI3MmVfY3BINnNCRXdybFo0VnNHcTNfV3R5TE1hZWprRUhhczNoaDdpWlc5aXRSelpiR25WT3puZXE5X1h2aXk4dG92VzZUa2xPQ2tOTU5mQ3hEZFdYMlJneFFfVE9BekN6YjE3TGZqTg?oc=5",
       "published_at": "2026-10-23T12:55:27+00:00",
+      "topics": [
+        "economy"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "economy"
+      ]
+    },
+    {
+      "title": "RIU Hotels & Resorts destaca aportes por US$191 millones a la economía dominicana e impulsa el turismo sostenible",
+      "publisher": "El Dia.com.do",
+      "publisher_url": "https://eldia.com.do",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRFFKUlRIWlNXVjZZcXFuNE1aTVJITjVldTE0MmVNV0JRZHN6UkplZEV0SlFRVFBZY1NnbGNuSEdzaHpmU3k0WHJkZlNfUm1QWG5HTWFOZTZjM0ZZa0lvMDBtaWstX2J4MWp0Nm1Zd1VCMmNOVlJadVVpNjlrX0FXVTNXd2dma21pdjA5WmlpdkhrR2N0VlNLY04yMWkzb21EX1U4VlI4b2Q0TkR1X3hJaDUtXzV5R1hBUW9VRUczbkVwUHZfeDNEWUdEUks?oc=5",
+      "published_at": "2026-10-23T11:15:00+00:00",
       "topics": [
         "economy"
       ],
