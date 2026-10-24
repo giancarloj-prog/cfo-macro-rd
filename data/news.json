@@ -1,7 +1,7 @@
 {
   "date": "2026-10-24",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-24T19:09:37+00:00",
+  "checked_at": "2026-10-24T19:38:46+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -34,15 +34,26 @@
     "europa": {
       "ok": true,
       "error": null,
-      "count": 6
+      "count": 8
     },
     "global": {
       "ok": true,
       "error": null,
-      "count": 4
+      "count": 2
     }
   },
   "items": [
+    {
+      "title": "Amgen drug combined with immunotherapy extends survival in lung cancer trial",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNkp5SkpQWTcySnpWVEtXVGN2azJZYnFERjh6WHJBR3NPcEE0TDNGWUVuQ0Q0WF91VnFFVkRYZjF1NFJ3N01XdzVTZzNXQ0F4NlVMMzVZY0JUNldtZW1CS0hSX3d4TUZVZ3lfX2xjeVF6UElWanluMXNOV05ybUdFb2YwbUJ2eGY3NkR0ZUhabWhaMGp5SERfajdZMzlUcGZsX3RULXNZMlI1eTMwbjFxWTlweW5uNHpNTWlVbmVKS2libTlG?oc=5",
+      "published_at": "2026-10-24T18:47:08+00:00",
+      "regions": [
+        "europa",
+        "usa"
+      ]
+    },
     {
       "title": "California Drug-Rehab Operator Is Charged in Insurance-Fraud Scheme",
       "publisher": "WSJ",
@@ -62,18 +73,6 @@
       "published_at": "2026-10-24T16:23:00+00:00",
       "regions": [
         "rd"
-      ]
-    },
-    {
-      "title": "Amgen drug combined with immunotherapy extends survival in lung cancer trial",
-      "publisher": "Reuters",
-      "publisher_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNkp5SkpQWTcySnpWVEtXVGN2azJZYnFERjh6WHJBR3NPcEE0TDNGWUVuQ0Q0WF91VnFFVkRYZjF1NFJ3N01XdzVTZzNXQ0F4NlVMMzVZY0JUNldtZW1CS0hSX3d4TUZVZ3lfX2xjeVF6UElWanluMXNOV05ybUdFb2YwbUJ2eGY3NkR0ZUhabWhaMGp5SERfajdZMzlUcGZsX3RULXNZMlI1eTMwbjFxWTlweW5uNHpNTWlVbmVKS2libTlG?oc=5",
-      "published_at": "2026-10-24T14:33:43+00:00",
-      "regions": [
-        "europa",
-        "global",
-        "usa"
       ]
     },
     {
@@ -100,7 +99,7 @@
       "title": "Biotech stocks are surging. How investors can play the new drug innovation boom",
       "publisher": "CNBC",
       "publisher_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9vV2JtVy12a3VCVnVXeFFDUjNraHdmTVdJM0owMThvRS1jdmlsUWxjclR6OHV0bjVzaXhHdFpDVW53c3JHS1hvWnljNkctc05zTlZxNnVqU1ZldTdhbVZCbnd2SHF5T2NjSmM0LWdFbjVrbmczdk1GSkV2TVBqdw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9vV2JtVy12a3VCVnVXeFFDUjNraHdmTVdJM0owMThvRS1jdmlsUWxjclR6OHV0bjVzaXhHdFpDVW53c3JHS1hvWnljNkctc05zTlZxNnVqU1ZldTdhbVZCbnd2SHF5T2NjSmM0LWdFbjVrbmczdk1GSkV2TVBqd9IBgwFBVV95cUxQVlVjMXNSdVZnZ19FWW1Gbno5d09JY3pqOUF5RTMtLTVpbWoydWszV1FEbmNaUVdicXFZb1RBYjVXMnh3RUhHWExxb2JmS1J3VzdERUlvdmd3N3Y0MzJQUklhSS1VZ0ktSEFSYTFBWWhDd1lCZ2ZOSV9keTk0OWJNdnBiWQ?oc=5",
       "published_at": "2026-10-24T13:10:45+00:00",
       "regions": [
         "usa"
@@ -134,7 +133,6 @@
       "published_at": "2026-10-24T08:18:18+00:00",
       "regions": [
         "europa",
-        "global",
         "usa"
       ]
     },
@@ -147,6 +145,16 @@
       "regions": [
         "europa",
         "global"
+      ]
+    },
+    {
+      "title": "Drugs trade",
+      "publisher": "BBC",
+      "publisher_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5kaG1NcTZUZjlZZHJEd0g0ODFSX05nc1lpYlhiRXRCbllYUldfZUYyNnBXNnMwdG5fWkhGWTJlQzlSV1VOdk9iM1FOQzJnQlNqSEtNRVBqOA?oc=5",
+      "published_at": "2026-10-24T07:36:04+00:00",
+      "regions": [
+        "europa"
       ]
     },
     {
