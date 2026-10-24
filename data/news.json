@@ -1,7 +1,7 @@
 {
   "date": "2026-10-24",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-24T19:38:46+00:00",
+  "checked_at": "2026-10-24T23:54:39+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -14,7 +14,7 @@
     "rd": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 2
     },
     "centroamerica": {
       "ok": true,
@@ -24,25 +24,45 @@
     "mexico": {
       "ok": true,
       "error": null,
-      "count": 2
+      "count": 4
     },
     "usa": {
       "ok": true,
       "error": null,
-      "count": 5
+      "count": 4
     },
     "europa": {
       "ok": true,
       "error": null,
-      "count": 8
+      "count": 9
     },
     "global": {
       "ok": true,
       "error": null,
-      "count": 2
+      "count": 3
     }
   },
   "items": [
+    {
+      "title": "Fármacos para adelgazar transforman el mercado de la industria cosmética y productos de belleza",
+      "publisher": "El Universal",
+      "publisher_url": "https://www.eluniversal.com.mx",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZTZnVTYzakY2RU5MTGFCeGRubWppMmxmZk5lWnhLSWlUWUo2OS0tT3pLUDNyOE1qeHc0SUF1TkZ2bm1zNGJoa1lvVTdZRFNEYVJib0hFZ3lhWnJJWWdWME1EeVBSSHZfbGxVMVNXbkVmbTlBUnVWbU0wc3BoX25PS2plZHNsV3BSR2EwV0xKbVM2S0cxZThZRzhnWFFoNnpIWG5ISDVxcUx6ckVBbDdEbFNEZjl1dkJOb1Y1SFM5RE9LZkxrVFFZYTFhTWt4ODI5?oc=5",
+      "published_at": "2026-10-24T20:57:00+00:00",
+      "regions": [
+        "mexico"
+      ]
+    },
+    {
+      "title": "La estudiante y trabajadora de farmacia que murió al intentar cruzar la Circunvalación Norte",
+      "publisher": "Diario Libre",
+      "publisher_url": "https://www.diariolibre.com",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVnFMZmwwYzBEUmJxYW16NF9ac3lmUlBBV2lKOWdtdVM5Z3pybU44T0lXclc0cEZ5M3YtMU1HVTJub3RfTE5NbVRJanZQRzhGZDZqU3I0LTh0WHVONHhiWEROQTdUQ3JqLTBsWTdyOGU3bG11SVh5UDhNcUxCaktJWTh2LThpcEVQbkFlNDkxR0pBNlR4MjRwZHhzdEJnT01tMzJDQnA4YnZjUEFYMW93THluZUZXYVBYREFUcml6Tm93WUVOTEtacnB1d1NpVDDSAdQBQVVfeXFMTm1aWmZ3b3k4bWlGQ0pQLU9wSXFFOGZuTmlIelpyUE5UV3FQTzRTbTZuUkZnbTcya29pTXh2eDJuRkd2VWFueUc2MHBNRFA4OG9wVHhZSnc4X042ZElpTDBRaWthOEE4RjlFSGpZZ1d3UVd3QXRybmQzUEo2cC0yWjB6MkppS0RZOFdBYzQtWFQ0dTRuZjhhQXduM3ZnTVJ2Rzk0TXQzY1NGWUpjcHlmLWloY1VWZGRJV0F6UGxEMVFKZUdPZkF5MlU1VU9LQ0Q1RERyYjk?oc=5",
+      "published_at": "2026-10-24T18:50:55+00:00",
+      "regions": [
+        "rd"
+      ]
+    },
     {
       "title": "Amgen drug combined with immunotherapy extends survival in lung cancer trial",
       "publisher": "Reuters",
@@ -51,25 +71,25 @@
       "published_at": "2026-10-24T18:47:08+00:00",
       "regions": [
         "europa",
+        "global",
         "usa"
       ]
     },
     {
-      "title": "California Drug-Rehab Operator Is Charged in Insurance-Fraud Scheme",
-      "publisher": "WSJ",
-      "publisher_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRjZzVmJOc2pXalB3TzdRSnNEanJXc241Z2xseV9TS2I5ZGtzc29JV2hTakVEc1FrUjBaVDExRHYzdnpnUmMxU0RSWUR3eDhETzR3Z1U5RWhrY1RENWRGdms4MGljSE9WUUdwSXZCbGZXYW1ubXlpanZDbHg0YW4wNDJDSDhqVExuYjRfR3Frdzg2N3RWX1ItTXpCRmM2dkxpT0RpT29jdw?oc=5",
-      "published_at": "2026-10-24T18:35:22+00:00",
+      "title": "Senado \"congela\" exhortos para buscar solución a crisis del IMSS Bienestar; PAN, PRI y MC piden medicamentos e insumos",
+      "publisher": "El Universal",
+      "publisher_url": "https://www.eluniversal.com.mx",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNSTVtV0t4a0c1NnFoZG4yN0RNQkYwVTI5Yjl3WmN1Q0U3QXFzRTQwWlNLWDRETW9Lc3FSSU1hM3g3Z09EcmNGWTEyamc5aUpmUG1wWUd6VmM1X0d6NHZ4U1ZPVXFEOWpfX1JzaklVM2pHSWdEX1kyclRQYUxzNEpxZWhONm5EazE2YzdpbUxjSkVfc0pEMWdQS0l5WHRQU3ZUOHFZT2tzLUx1YW1WOE1NRnlOWGpRNmJLRFdJdjJRYVloSDJNeWJtSV8yZFM0VWRwTXNRWEozZVEzLW95VDUydEk0TmpqU1VB?oc=5",
+      "published_at": "2026-10-24T18:42:41+00:00",
       "regions": [
-        "global",
-        "usa"
+        "mexico"
       ]
     },
     {
       "title": "BeOne presenta resultados iniciales de fármacos en estudio contra el cáncer de hígado y pulmón",
       "publisher": "Diario Libre",
       "publisher_url": "https://www.diariolibre.com",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWDJQTV9ialdWRF9WXzJVOWo3dUxNLXNpMmM4YzZuODlyU0J4MElGeDRlTG5zODFDZGlGQ3lPNEJ0WHRlb2k2b0RkX1lZYlRlRVZDdkF3UmJYamxfZ3YxVFFpaHRHXzRZS3p2NkNkVmJ0cFhWT1ljVThjaTRWeWozNWJLX0VqNUdCQVNVUDhIZzFSQ1prTGdIUmZhSDdFTmg2X1AxbnhBN0ZxYVVsNGtkZVBkUTB5aTU4aDRNU3NNRWlKZw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWDJQTV9ialdWRF9WXzJVOWo3dUxNLXNpMmM4YzZuODlyU0J4MElGeDRlTG5zODFDZGlGQ3lPNEJ0WHRlb2k2b0RkX1lZYlRlRVZDdkF3UmJYamxfZ3YxVFFpaHRHXzRZS3p2NkNkVmJ0cFhWT1ljVThjaTRWeWozNWJLX0VqNUdCQVNVUDhIZzFSQ1prTGdIUmZhSDdFTmg2X1AxbnhBN0ZxYVVsNGtkZVBkUTB5aTU4aDRNU3NNRWlKZ9IBxwFBVV95cUxNRDZlRUV6VC1JZVdvVXgxdUNPZnlSWVgyODdqbXpDYVM5dk10bktpbGZYNlZNMGRiaHZ4Ym1hQ0RNMDIwNGl4dE5CRUY5aFhJTFNpV1VMbmV3Y19UTG9iRl9PMTc0bXhHZVptTXlnX0QtMkpCQ0xocko5THotem9uc2hiYkdoUHNNZFVwdkowWEhWR0V0VkpFLWJIZ2JNbnUwc1l3dHhTUWlkX0pBbWdval9sdWswV294VFY3UDk3LUhWZTZMYjAw?oc=5",
       "published_at": "2026-10-24T16:23:00+00:00",
       "regions": [
         "rd"
@@ -133,6 +153,7 @@
       "published_at": "2026-10-24T08:18:18+00:00",
       "regions": [
         "europa",
+        "global",
         "usa"
       ]
     },
@@ -153,6 +174,16 @@
       "publisher_url": "https://www.bbc.com",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5kaG1NcTZUZjlZZHJEd0g0ODFSX05nc1lpYlhiRXRCbllYUldfZUYyNnBXNnMwdG5fWkhGWTJlQzlSV1VOdk9iM1FOQzJnQlNqSEtNRVBqOA?oc=5",
       "published_at": "2026-10-24T07:36:04+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "Weight-Loss Drugs News | Today's Latest Stories",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9vX1dWYTU5QXRUZVJtY3hfeGF1Y2ZkNlVFUFROeU94azdNMVpSTHdtemZZNWhtSWJ6aUNVNXVSajhOWGRPN3dIYVRpWHhwQmw3YmlBUU4zS3ZRcmVuUTYtNjdNcHl0Q2htc18wM28tNjUzQ3VTZW0wVTFFVVI?oc=5",
+      "published_at": "2026-10-24T06:38:21+00:00",
       "regions": [
         "europa"
       ]
