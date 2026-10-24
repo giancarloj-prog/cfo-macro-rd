@@ -1,7 +1,7 @@
 {
   "date": "2026-10-24",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-24T14:55:02+00:00",
+  "checked_at": "2026-10-24T19:09:37+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -14,7 +14,7 @@
     "rd": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 1
     },
     "centroamerica": {
       "ok": true,
@@ -29,20 +29,63 @@
     "usa": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 5
     },
     "europa": {
       "ok": true,
       "error": null,
-      "count": 5
+      "count": 6
     },
     "global": {
       "ok": true,
       "error": null,
-      "count": 2
+      "count": 4
     }
   },
   "items": [
+    {
+      "title": "California Drug-Rehab Operator Is Charged in Insurance-Fraud Scheme",
+      "publisher": "WSJ",
+      "publisher_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRjZzVmJOc2pXalB3TzdRSnNEanJXc241Z2xseV9TS2I5ZGtzc29JV2hTakVEc1FrUjBaVDExRHYzdnpnUmMxU0RSWUR3eDhETzR3Z1U5RWhrY1RENWRGdms4MGljSE9WUUdwSXZCbGZXYW1ubXlpanZDbHg0YW4wNDJDSDhqVExuYjRfR3Frdzg2N3RWX1ItTXpCRmM2dkxpT0RpT29jdw?oc=5",
+      "published_at": "2026-10-24T18:35:22+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "BeOne presenta resultados iniciales de fármacos en estudio contra el cáncer de hígado y pulmón",
+      "publisher": "Diario Libre",
+      "publisher_url": "https://www.diariolibre.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWDJQTV9ialdWRF9WXzJVOWo3dUxNLXNpMmM4YzZuODlyU0J4MElGeDRlTG5zODFDZGlGQ3lPNEJ0WHRlb2k2b0RkX1lZYlRlRVZDdkF3UmJYamxfZ3YxVFFpaHRHXzRZS3p2NkNkVmJ0cFhWT1ljVThjaTRWeWozNWJLX0VqNUdCQVNVUDhIZzFSQ1prTGdIUmZhSDdFTmg2X1AxbnhBN0ZxYVVsNGtkZVBkUTB5aTU4aDRNU3NNRWlKZw?oc=5",
+      "published_at": "2026-10-24T16:23:00+00:00",
+      "regions": [
+        "rd"
+      ]
+    },
+    {
+      "title": "Amgen drug combined with immunotherapy extends survival in lung cancer trial",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNkp5SkpQWTcySnpWVEtXVGN2azJZYnFERjh6WHJBR3NPcEE0TDNGWUVuQ0Q0WF91VnFFVkRYZjF1NFJ3N01XdzVTZzNXQ0F4NlVMMzVZY0JUNldtZW1CS0hSX3d4TUZVZ3lfX2xjeVF6UElWanluMXNOV05ybUdFb2YwbUJ2eGY3NkR0ZUhabWhaMGp5SERfajdZMzlUcGZsX3RULXNZMlI1eTMwbjFxWTlweW5uNHpNTWlVbmVKS2libTlG?oc=5",
+      "published_at": "2026-10-24T14:33:43+00:00",
+      "regions": [
+        "europa",
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Amgen says drug combo cuts risk of death by 58% in patients with aggressive lung cancer",
+      "publisher": "CNBC",
+      "publisher_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE95WVdfYTlmN2laSWtJVWVjZkVQMkQ4SVFRQmJkUS0wdVprRXhqZFBPSzZpTEVKZEI5U3VBVzNBQTJJbk8xNTRCREJuV1l1RzUzZnpKQmw3QUl6UU16TWpBaUhOYmdBdk1HaVQ0OEhFdV9wSHZaSnVOV9IBfkFVX3lxTE9Sc0tWZ3AzX2FnOHdBSnJRRmlGaU9uWE1oMnVKdXgwVWEyYnVjeEYtUFZmUVVzSzZpNnZmaHNUNERwZkpicllwNl9uTkhSTU1kbkdUYjV1VTRLOHVrOGY4cThTU3FSWDZwaV9SZTYySXdfSGVvd2VCYmZheVJ0dw?oc=5",
+      "published_at": "2026-10-24T14:30:01+00:00",
+      "regions": [
+        "usa"
+      ]
+    },
     {
       "title": "Así es como el auge de los medicamentos para bajar de peso impulsa a los zapateros y sastres",
       "publisher": "Forbes México",
@@ -51,6 +94,16 @@
       "published_at": "2026-10-24T13:45:00+00:00",
       "regions": [
         "mexico"
+      ]
+    },
+    {
+      "title": "Biotech stocks are surging. How investors can play the new drug innovation boom",
+      "publisher": "CNBC",
+      "publisher_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9vV2JtVy12a3VCVnVXeFFDUjNraHdmTVdJM0owMThvRS1jdmlsUWxjclR6OHV0bjVzaXhHdFpDVW53c3JHS1hvWnljNkctc05zTlZxNnVqU1ZldTdhbVZCbnd2SHF5T2NjSmM0LWdFbjVrbmczdk1GSkV2TVBqdw?oc=5",
+      "published_at": "2026-10-24T13:10:45+00:00",
+      "regions": [
+        "usa"
       ]
     },
     {

@@ -1,7 +1,7 @@
 {
   "date": "2026-10-24",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-24T14:55:01+00:00",
+  "checked_at": "2026-10-24T19:09:36+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -83,26 +83,11 @@
   },
   "items": [
     {
-      "title": "Los ciclones pueden afectar la economía dominicana durante 15 meses",
-      "publisher": "Periódico elDinero",
-      "publisher_url": "https://eldinero.com.do",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMVRkSEZ6Smp2UWVnaXJManpuNGNhUGszYWlsNE5FRDBtN1otV0ctNTFra1pBWW01VEs1TGo2UGM2SVgwTW5NdnJuZjB4UFY0dEVwVXVnckN0WkU4TWl5NUtEUi1FSWpnT1RSY0ItT000N0RGdEFQeW1xTXhtZmE5YWVNekNUYWdOZ1FvMUY1bExiZERYeFdRb1poZDNCSHE0?oc=5",
-      "published_at": "2026-10-24T12:01:44+00:00",
-      "topics": [
-        "economy"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "economy"
-      ]
-    },
-    {
       "title": "Pagos electrónicos ganan terreno en Latinoamérica, pero elevan el riesgo de endeudamiento",
       "publisher": "Periódico elDinero",
       "publisher_url": "https://eldinero.com.do",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcTRTSldEUDRqTXNOUmxZWHB0YlRXZVlsdE1FRS01c0ZBY0xOTTBFdGdkZ0dneDlqZHFzV0h4N1BFMUx2U1ZCaGwxdVByQlE3cDR0R2RxZmM4cEFZeVdQZ1plcm1qQTJBQjl0aTByMGxhT09nMjRQdTZ5a2Z3cU1QdS1kOUlhSVVGTDkwMlBwT013ZDlHdE9hMngtVUFqcHdxdG1qWFhxTE8tVkF6MmdPMkstNGU1SUlSaHVTUQ?oc=5",
-      "published_at": "2026-10-24T12:01:42+00:00",
+      "published_at": "2026-10-24T13:57:28+00:00",
       "topics": [
         "finance"
       ],
@@ -110,6 +95,21 @@
       "economist_match": null,
       "searches": [
         "finance"
+      ]
+    },
+    {
+      "title": "Los ciclones pueden afectar la economía dominicana durante 15 meses",
+      "publisher": "Periódico elDinero",
+      "publisher_url": "https://eldinero.com.do",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMVRkSEZ6Smp2UWVnaXJManpuNGNhUGszYWlsNE5FRDBtN1otV0ctNTFra1pBWW01VEs1TGo2UGM2SVgwTW5NdnJuZjB4UFY0dEVwVXVnckN0WkU4TWl5NUtEUi1FSWpnT1RSY0ItT000N0RGdEFQeW1xTXhtZmE5YWVNekNUYWdOZ1FvMUY1bExiZERYeFdRb1poZDNCSHE0?oc=5",
+      "published_at": "2026-10-24T12:05:21+00:00",
+      "topics": [
+        "economy"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "economy"
       ]
     },
     {
