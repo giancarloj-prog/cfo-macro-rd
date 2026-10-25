@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-24T23:54:31+00:00",
+  "checked_at": "2026-10-25T00:28:32+00:00",
   "series": {
     "resins": {
       "name": "Resinas termoplásticas",
@@ -1321,7 +1321,7 @@
       },
       "download_url": "https://thedocs.worldbank.org/en/doc/74e8be41ceb20fa0da750cda2f6b9e4e-0050012026/related/CMO-Historical-Data-Monthly.xlsx",
       "methodology": "Histórico completo reconstruido con Banco Mundial; no se empalma con FMI/FRED.",
-      "verified_at": "2026-10-24T23:54:31+00:00"
+      "verified_at": "2026-10-25T00:28:32+00:00"
     },
     "sugar": {
       "name": "Azúcar mundial",
@@ -1587,7 +1587,7 @@
       },
       "download_url": "https://thedocs.worldbank.org/en/doc/74e8be41ceb20fa0da750cda2f6b9e4e-0050012026/related/CMO-Historical-Data-Monthly.xlsx",
       "methodology": "Histórico completo reconstruido con Banco Mundial; no se empalma con FMI/FRED.",
-      "verified_at": "2026-10-24T23:54:31+00:00"
+      "verified_at": "2026-10-25T00:28:32+00:00"
     },
     "gscpi": {
       "id": "gscpi",
@@ -1845,48 +1845,48 @@
       ],
       "period": "2026-09",
       "value": 1.28,
-      "verified_at": "2026-10-24T23:54:31+00:00"
+      "verified_at": "2026-10-25T00:28:32+00:00"
     }
   },
   "source_health": {
     "resins": {
       "ok": false,
-      "checked_at": "2026-10-24T23:54:31+00:00",
+      "checked_at": "2026-10-25T00:28:32+00:00",
       "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://api.bls.gov/publicAPI/v1/timeseries/data/"
     },
     "corrugated": {
       "ok": false,
-      "checked_at": "2026-10-24T23:54:31+00:00",
+      "checked_at": "2026-10-25T00:28:32+00:00",
       "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://api.bls.gov/publicAPI/v1/timeseries/data/"
     },
     "paperboard": {
       "ok": false,
-      "checked_at": "2026-10-24T23:54:31+00:00",
+      "checked_at": "2026-10-25T00:28:32+00:00",
       "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://api.bls.gov/publicAPI/v1/timeseries/data/"
     },
     "ethanol": {
       "ok": false,
-      "checked_at": "2026-10-24T23:54:31+00:00",
+      "checked_at": "2026-10-25T00:28:32+00:00",
       "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://api.bls.gov/publicAPI/v1/timeseries/data/"
     },
     "aluminum": {
       "ok": true,
-      "checked_at": "2026-10-24T23:54:31+00:00",
+      "checked_at": "2026-10-25T00:28:32+00:00",
       "error": null
     },
     "sugar": {
       "ok": true,
-      "checked_at": "2026-10-24T23:54:31+00:00",
+      "checked_at": "2026-10-25T00:28:32+00:00",
       "error": null
     },
     "gscpi": {
       "ok": true,
-      "checked_at": "2026-10-24T23:54:31+00:00",
+      "checked_at": "2026-10-25T00:28:32+00:00",
       "error": null
     },
     "fda": {
       "ok": true,
-      "checked_at": "2026-10-24T23:54:31+00:00",
+      "checked_at": "2026-10-25T00:28:32+00:00",
       "error": null
     }
   },
@@ -2249,6 +2249,6 @@
         "presentations": []
       }
     ],
-    "verified_at": "2026-10-24T23:54:31+00:00"
+    "verified_at": "2026-10-25T00:28:32+00:00"
   }
 }

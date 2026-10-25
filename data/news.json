@@ -1,7 +1,7 @@
 {
   "date": "2026-10-24",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-24T23:54:39+00:00",
+  "checked_at": "2026-10-25T00:28:36+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -24,7 +24,7 @@
     "mexico": {
       "ok": true,
       "error": null,
-      "count": 4
+      "count": 5
     },
     "usa": {
       "ok": true,
@@ -39,10 +39,20 @@
     "global": {
       "ok": true,
       "error": null,
-      "count": 3
+      "count": 4
     }
   },
   "items": [
+    {
+      "title": "- Fierce Pharma",
+      "publisher": "Fierce Pharma",
+      "publisher_url": "https://fp-resources.fiercepharma.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPN1JCQUpJSVNNM2tWdU5GMV9qaUM4V2pUdm1xdU9TaHdfMmhwT0dlSEJqTzF2Y3g1ZE1mVGk5SVBqTV9QTzdURDRoZGFfUWJCcnVqbWFfdTNLSTdXTFhOZFJrS2V4VDJsRFR4RnRLU2J3czFjMGZodjdMUE1lNWFYSW5ldDI0ck55N2lZR1Z1T2ZPa2xxRGhQVzJEbXFVUQ?oc=5",
+      "published_at": "2026-10-24T22:30:00+00:00",
+      "regions": [
+        "global"
+      ]
+    },
     {
       "title": "Fármacos para adelgazar transforman el mercado de la industria cosmética y productos de belleza",
       "publisher": "El Universal",
