@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-24",
+  "date": "2026-10-25",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-25T00:28:35+00:00",
+  "checked_at": "2026-10-25T14:58:27+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -38,7 +38,7 @@
     "finance": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 0
     },
     "securities": {
       "ok": true,
@@ -48,7 +48,7 @@
     "economy": {
       "ok": true,
       "error": null,
-      "count": 3
+      "count": 0
     },
     "economist_andy": {
       "ok": true,
@@ -81,67 +81,6 @@
       "count": 0
     }
   },
-  "items": [
-    {
-      "title": "La economía dominicana en 2026 recobra su dinamismo",
-      "publisher": "El Nuevo Diario",
-      "publisher_url": "https://elnuevodiario.com.do",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYlRQMU5OZXZKUFlEb3BzNjRyQ2QtWjE3QzJ4aXdsVjVTQ1ZIVlBGZ09OR2RPLUFYM3JYYXNLZkJORk5PSms5QXJ1cG9vbU81UURuaDRuYkYyZ0lSSlVVdlBPVWRqX2tteGJKUzE2S3RlNEgxYjdIY2U2NVZQd1ZFVVVVUEcxVUJh?oc=5",
-      "published_at": "2026-10-24T23:37:30+00:00",
-      "topics": [
-        "economy"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "economy"
-      ]
-    },
-    {
-      "title": "Pagos electrónicos ganan terreno en Latinoamérica, pero elevan el riesgo de endeudamiento",
-      "publisher": "Periódico elDinero",
-      "publisher_url": "https://eldinero.com.do",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcTRTSldEUDRqTXNOUmxZWHB0YlRXZVlsdE1FRS01c0ZBY0xOTTBFdGdkZ0dneDlqZHFzV0h4N1BFMUx2U1ZCaGwxdVByQlE3cDR0R2RxZmM4cEFZeVdQZ1plcm1qQTJBQjl0aTByMGxhT09nMjRQdTZ5a2Z3cU1QdS1kOUlhSVVGTDkwMlBwT013ZDlHdE9hMngtVUFqcHdxdG1qWFhxTE8tVkF6MmdPMkstNGU1SUlSaHVTUQ?oc=5",
-      "published_at": "2026-10-24T13:57:28+00:00",
-      "topics": [
-        "finance"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "finance"
-      ]
-    },
-    {
-      "title": "Los ciclones pueden afectar la economía dominicana durante 15 meses",
-      "publisher": "Periódico elDinero",
-      "publisher_url": "https://eldinero.com.do",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMVRkSEZ6Smp2UWVnaXJManpuNGNhUGszYWlsNE5FRDBtN1otV0ctNTFra1pBWW01VEs1TGo2UGM2SVgwTW5NdnJuZjB4UFY0dEVwVXVnckN0WkU4TWl5NUtEUi1FSWpnT1RSY0ItT000N0RGdEFQeW1xTXhtZmE5YWVNekNUYWdOZ1FvMUY1bExiZERYeFdRb1poZDNCSHE0?oc=5",
-      "published_at": "2026-10-24T12:05:21+00:00",
-      "topics": [
-        "economy"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "economy"
-      ]
-    },
-    {
-      "title": "Fuerte crecimiento 5.6% de economía septiembre",
-      "publisher": "Hoy Digital",
-      "publisher_url": "https://hoy.com.do",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSlNzMG4zZmxJd3dPUWh3clB3bkpLbldEeDFjTFJwU3JVcEgyRk00MnlPTkZtbVV0R2MyeUoyTkVIdnNoTFFER1ZKd3g5VHNVV3YzYmVSRjU3c2lYNHJ4N21xaktzam51SEYycG1UWnFfbzZmRFduVkFmeXpXLUM4bGZyOEM4cGJ2YXZkMVNmc9IBjwFBVV95cUxNSlNzMG4zZmxJd3dPUWh3clB3bkpLbldEeDFjTFJwU3JVcEgyRk00MnlPTkZtbVV0R2MyeUoyTkVIdnNoTFFER1ZKd3g5VHNVV3YzYmVSRjU3c2lYNHJ4N21xaktzam51SEYycG1UWnFfbzZmRFduVkFmeXpXLUM4bGZyOEM4cGJ2YXZkMVNmcw?oc=5",
-      "published_at": "2026-10-24T04:00:00+00:00",
-      "topics": [
-        "economy"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "economy"
-      ]
-    }
-  ],
+  "items": [],
   "discovery": "Google News RSS · medios dominicanos seleccionados y fuentes oficiales; cobertura no exhaustiva."
 }

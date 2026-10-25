@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-24",
+  "date": "2026-10-25",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-25T00:28:36+00:00",
+  "checked_at": "2026-10-25T14:58:28+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -14,7 +14,7 @@
     "rd": {
       "ok": true,
       "error": null,
-      "count": 2
+      "count": 3
     },
     "centroamerica": {
       "ok": true,
@@ -24,168 +24,106 @@
     "mexico": {
       "ok": true,
       "error": null,
-      "count": 5
+      "count": 2
     },
     "usa": {
       "ok": true,
       "error": null,
-      "count": 4
+      "count": 1
     },
     "europa": {
       "ok": true,
       "error": null,
-      "count": 9
+      "count": 4
     },
     "global": {
       "ok": true,
       "error": null,
-      "count": 4
+      "count": 5
     }
   },
   "items": [
     {
-      "title": "- Fierce Pharma",
-      "publisher": "Fierce Pharma",
-      "publisher_url": "https://fp-resources.fiercepharma.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPN1JCQUpJSVNNM2tWdU5GMV9qaUM4V2pUdm1xdU9TaHdfMmhwT0dlSEJqTzF2Y3g1ZE1mVGk5SVBqTV9QTzdURDRoZGFfUWJCcnVqbWFfdTNLSTdXTFhOZFJrS2V4VDJsRFR4RnRLU2J3czFjMGZodjdMUE1lNWFYSW5ldDI0ck55N2lZR1Z1T2ZPa2xxRGhQVzJEbXFVUQ?oc=5",
-      "published_at": "2026-10-24T22:30:00+00:00",
+      "title": "Koalas are cute, furry, iconic – and dying of chlamydia. But how well does the approved vaccine work?",
+      "publisher": "The Guardian",
+      "publisher_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSnZmejNYdVJEWjdwb2JKdHNaYWtkVGxuMzAyVzJjaTM3SktDd1VPT0pCN2h5NWx2enI1ZjY0ZklqMGJheFZSemtrTnZfRUsyVXBmNmdwRXNYc3diQ3VwanQ1RjBqVWtuZmcyemxETnNjQzFoblV4Vm56SkhfQ05MN3UtZmJoeUFfcXZNaVZiRQ?oc=5",
+      "published_at": "2026-10-25T14:02:00+00:00",
       "regions": [
         "global"
       ]
     },
     {
-      "title": "Fármacos para adelgazar transforman el mercado de la industria cosmética y productos de belleza",
-      "publisher": "El Universal",
-      "publisher_url": "https://www.eluniversal.com.mx",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZTZnVTYzakY2RU5MTGFCeGRubWppMmxmZk5lWnhLSWlUWUo2OS0tT3pLUDNyOE1qeHc0SUF1TkZ2bm1zNGJoa1lvVTdZRFNEYVJib0hFZ3lhWnJJWWdWME1EeVBSSHZfbGxVMVNXbkVmbTlBUnVWbU0wc3BoX25PS2plZHNsV3BSR2EwV0xKbVM2S0cxZThZRzhnWFFoNnpIWG5ISDVxcUx6ckVBbDdEbFNEZjl1dkJOb1Y1SFM5RE9LZkxrVFFZYTFhTWt4ODI5?oc=5",
-      "published_at": "2026-10-24T20:57:00+00:00",
-      "regions": [
-        "mexico"
-      ]
-    },
-    {
-      "title": "La estudiante y trabajadora de farmacia que murió al intentar cruzar la Circunvalación Norte",
-      "publisher": "Diario Libre",
-      "publisher_url": "https://www.diariolibre.com",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVnFMZmwwYzBEUmJxYW16NF9ac3lmUlBBV2lKOWdtdVM5Z3pybU44T0lXclc0cEZ5M3YtMU1HVTJub3RfTE5NbVRJanZQRzhGZDZqU3I0LTh0WHVONHhiWEROQTdUQ3JqLTBsWTdyOGU3bG11SVh5UDhNcUxCaktJWTh2LThpcEVQbkFlNDkxR0pBNlR4MjRwZHhzdEJnT01tMzJDQnA4YnZjUEFYMW93THluZUZXYVBYREFUcml6Tm93WUVOTEtacnB1d1NpVDDSAdQBQVVfeXFMTm1aWmZ3b3k4bWlGQ0pQLU9wSXFFOGZuTmlIelpyUE5UV3FQTzRTbTZuUkZnbTcya29pTXh2eDJuRkd2VWFueUc2MHBNRFA4OG9wVHhZSnc4X042ZElpTDBRaWthOEE4RjlFSGpZZ1d3UVd3QXRybmQzUEo2cC0yWjB6MkppS0RZOFdBYzQtWFQ0dTRuZjhhQXduM3ZnTVJ2Rzk0TXQzY1NGWUpjcHlmLWloY1VWZGRJV0F6UGxEMVFKZUdPZkF5MlU1VU9LQ0Q1RERyYjk?oc=5",
-      "published_at": "2026-10-24T18:50:55+00:00",
-      "regions": [
-        "rd"
-      ]
-    },
-    {
-      "title": "Amgen drug combined with immunotherapy extends survival in lung cancer trial",
-      "publisher": "Reuters",
-      "publisher_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNkp5SkpQWTcySnpWVEtXVGN2azJZYnFERjh6WHJBR3NPcEE0TDNGWUVuQ0Q0WF91VnFFVkRYZjF1NFJ3N01XdzVTZzNXQ0F4NlVMMzVZY0JUNldtZW1CS0hSX3d4TUZVZ3lfX2xjeVF6UElWanluMXNOV05ybUdFb2YwbUJ2eGY3NkR0ZUhabWhaMGp5SERfajdZMzlUcGZsX3RULXNZMlI1eTMwbjFxWTlweW5uNHpNTWlVbmVKS2libTlG?oc=5",
-      "published_at": "2026-10-24T18:47:08+00:00",
-      "regions": [
-        "europa",
-        "global",
-        "usa"
-      ]
-    },
-    {
-      "title": "Senado \"congela\" exhortos para buscar solución a crisis del IMSS Bienestar; PAN, PRI y MC piden medicamentos e insumos",
-      "publisher": "El Universal",
-      "publisher_url": "https://www.eluniversal.com.mx",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNSTVtV0t4a0c1NnFoZG4yN0RNQkYwVTI5Yjl3WmN1Q0U3QXFzRTQwWlNLWDRETW9Lc3FSSU1hM3g3Z09EcmNGWTEyamc5aUpmUG1wWUd6VmM1X0d6NHZ4U1ZPVXFEOWpfX1JzaklVM2pHSWdEX1kyclRQYUxzNEpxZWhONm5EazE2YzdpbUxjSkVfc0pEMWdQS0l5WHRQU3ZUOHFZT2tzLUx1YW1WOE1NRnlOWGpRNmJLRFdJdjJRYVloSDJNeWJtSV8yZFM0VWRwTXNRWEozZVEzLW95VDUydEk0TmpqU1VB?oc=5",
-      "published_at": "2026-10-24T18:42:41+00:00",
-      "regions": [
-        "mexico"
-      ]
-    },
-    {
-      "title": "BeOne presenta resultados iniciales de fármacos en estudio contra el cáncer de hígado y pulmón",
-      "publisher": "Diario Libre",
-      "publisher_url": "https://www.diariolibre.com",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWDJQTV9ialdWRF9WXzJVOWo3dUxNLXNpMmM4YzZuODlyU0J4MElGeDRlTG5zODFDZGlGQ3lPNEJ0WHRlb2k2b0RkX1lZYlRlRVZDdkF3UmJYamxfZ3YxVFFpaHRHXzRZS3p2NkNkVmJ0cFhWT1ljVThjaTRWeWozNWJLX0VqNUdCQVNVUDhIZzFSQ1prTGdIUmZhSDdFTmg2X1AxbnhBN0ZxYVVsNGtkZVBkUTB5aTU4aDRNU3NNRWlKZ9IBxwFBVV95cUxNRDZlRUV6VC1JZVdvVXgxdUNPZnlSWVgyODdqbXpDYVM5dk10bktpbGZYNlZNMGRiaHZ4Ym1hQ0RNMDIwNGl4dE5CRUY5aFhJTFNpV1VMbmV3Y19UTG9iRl9PMTc0bXhHZVptTXlnX0QtMkpCQ0xocko5THotem9uc2hiYkdoUHNNZFVwdkowWEhWR0V0VkpFLWJIZ2JNbnUwc1l3dHhTUWlkX0pBbWdval9sdWswV294VFY3UDk3LUhWZTZMYjAw?oc=5",
-      "published_at": "2026-10-24T16:23:00+00:00",
-      "regions": [
-        "rd"
-      ]
-    },
-    {
-      "title": "Amgen says drug combo cuts risk of death by 58% in patients with aggressive lung cancer",
-      "publisher": "CNBC",
-      "publisher_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE95WVdfYTlmN2laSWtJVWVjZkVQMkQ4SVFRQmJkUS0wdVprRXhqZFBPSzZpTEVKZEI5U3VBVzNBQTJJbk8xNTRCREJuV1l1RzUzZnpKQmw3QUl6UU16TWpBaUhOYmdBdk1HaVQ0OEhFdV9wSHZaSnVOV9IBfkFVX3lxTE9Sc0tWZ3AzX2FnOHdBSnJRRmlGaU9uWE1oMnVKdXgwVWEyYnVjeEYtUFZmUVVzSzZpNnZmaHNUNERwZkpicllwNl9uTkhSTU1kbkdUYjV1VTRLOHVrOGY4cThTU3FSWDZwaV9SZTYySXdfSGVvd2VCYmZheVJ0dw?oc=5",
-      "published_at": "2026-10-24T14:30:01+00:00",
-      "regions": [
-        "usa"
-      ]
-    },
-    {
-      "title": "Así es como el auge de los medicamentos para bajar de peso impulsa a los zapateros y sastres",
+      "title": "El microbioma intestinal podría influir en la respuesta a las vacunas, según un estudio",
       "publisher": "Forbes México",
       "publisher_url": "https://forbes.com.mx",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVnZiTFkxN1Z1YzdSZ29FYnpvUVhMWVE2SjFCck41QjZONHRYbXpodVdjX0ZVMExfU2w1VWh6RmhxZG1NSDRoMklhSWswS01UUTJ0S1NqNlV5ZkVFbllncVd5U1Aya2N5VFppMEl5UFo5eTFWMEJYaGJrYzJfTWtjdjBiTFdEMG44bUJ5OFViVGVvMm1BQlFwWDlNRnE5ZUNBMXFuLVBCTVZFOWQ0dklmOEZpRC11Zw?oc=5",
-      "published_at": "2026-10-24T13:45:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOX19aUC03d2d2M2ZKVGF2aURRSXc4dE9xX1JkdUNZT19nMDdmOGMyR1RPbHRVMEV0X091Zkh0SG1iM1F1RDJlQXRoaG9WdUpxYVBzaXVUTndzR2pQR2lNMnhjMVZZbWhER0FhMjNubjJMNUtRb0VLNkVFZW1aNkwwekdVNFpWTkpOTVVaaDdsTld2V1dadUozWmZSRnF4MEpkS05RQnlncjJOd3dxekE?oc=5",
+      "published_at": "2026-10-25T13:27:00+00:00",
       "regions": [
         "mexico"
       ]
     },
     {
-      "title": "Biotech stocks are surging. How investors can play the new drug innovation boom",
-      "publisher": "CNBC",
-      "publisher_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9vV2JtVy12a3VCVnVXeFFDUjNraHdmTVdJM0owMThvRS1jdmlsUWxjclR6OHV0bjVzaXhHdFpDVW53c3JHS1hvWnljNkctc05zTlZxNnVqU1ZldTdhbVZCbnd2SHF5T2NjSmM0LWdFbjVrbmczdk1GSkV2TVBqd9IBgwFBVV95cUxQVlVjMXNSdVZnZ19FWW1Gbno5d09JY3pqOUF5RTMtLTVpbWoydWszV1FEbmNaUVdicXFZb1RBYjVXMnh3RUhHWExxb2JmS1J3VzdERUlvdmd3N3Y0MzJQUklhSS1VZ0ktSEFSYTFBWWhDd1lCZ2ZOSV9keTk0OWJNdnBiWQ?oc=5",
-      "published_at": "2026-10-24T13:10:45+00:00",
+      "title": "Reciente en variaciones precios medicamentos",
+      "publisher": "Diario Libre",
+      "publisher_url": "https://www.diariolibre.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA3QU11d2hVTVFweXpHYU1lemxmUElDZEpQYVJUNVNZQVJ1MVdGQmtlaC1IUnRKV21PRVktNVhNYlBvUlVmb2pPNWdHVTV4R0dwdTlSUVYyc1hDWFBSVVlaUGNDMExSTmE4RXlOV3lBb3V4NGdETXVHRzJPVGY?oc=5",
+      "published_at": "2026-10-25T13:03:02+00:00",
       "regions": [
-        "usa"
+        "rd"
       ]
     },
     {
-      "title": "ESMO26: Zai and Ideaya showcase DLL3 drugs in lung cancer",
-      "publisher": "pharmaphorum",
-      "publisher_url": "https://pharmaphorum.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNajd2R0VzLUhKQWtuczVodHVmNU5VVktrd0hYdm1PaEhDUHZpWXA4YnZKeWkxNmE3LWNQVkJfZ0xmUE9wTWdZQUVqUTY1X0MzRE1iWHZPcGV4QndjcmJuQlNhWVd4LUtMaUY3Vm1sY29mVTloa1dYRXgxd1FsSzNsYzk1RTJWSnNKeGI0?oc=5",
-      "published_at": "2026-10-24T11:01:15+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "Gobierno federal crea sistema con IA para distribuir medicamentos",
-      "publisher": "Milenio",
-      "publisher_url": "https://www.milenio.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUXBoVEV0T0ZDc0JJN3FUY25xOTNSUUIzbUNFeGdaX1JaVG8zMUc1MEc4eW9fTnNWRktuRGpPM3llLVlYTVBqT3I3YlJfdVpaX2RIUnQ1NnFwTVJYVHItMW9yQkI1UFR0WHpudGM1d3pPUjJ2YWpKYWxpQ1cwZ3VoSmU1QlpuWGo2emJEUC12QlY3aHB3eGNDTElreDVidHAxY1BYdVozUzJxQjBKTVpzdzNpR0PSAbQBQVVfeXFMTWJSRTl0SWpnempxa2Y1dFloT0kxcC1WVmxPcTRYcGRSSS1kMTE3V1RWc0pPNXc4VkU1WHlnZFNlNHpGZTNiOUlkc3RMOUV4STYyQXNyYTE3SkgwU1VweXAyeU9OX2FiQW5JZXBQc2xFYVVkTmxSakRUWlYzdDFaTF9xNUljeklWNFNyQVMxbE5YOF9uMnNKZ2RIVUl0WHRtcWdBYUxvNVV0b3lCU2NENVhjajBl?oc=5",
-      "published_at": "2026-10-24T09:12:39+00:00",
+      "title": "Así controlan el VIH sin medicamentos: Esto sabemos del experimento científico que lo cambió todo",
+      "publisher": "El Financiero",
+      "publisher_url": "https://www.elfinanciero.com.mx",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxONnd1SENNUTZPbGJjLVJmcXR0Rl9VOWtaTUExN3o3V2xQS3hMcS1QN0lPWnRKVXhNNTVURl9CTEdncVpiMVZ2aUw2ZDA5UGZJeTdVdkhrUnFOVTJYcG5Qbi1fX0ZNZFVpS05xYXVJUVFWMUlmdE1tdEJ5TEQtRmRfRGVIMXBzeTlfdmtXTXBnOVVMNHBsXzAyb0VKX3BqbjNlYXdrSUR6YzJKVG0wb01NU2VGRUZucmpUUV9Xd1NUeGxZenVaTmpRT0ZVN2xQZElsazBzVU5zWTF4V3A2eVFHQTZB?oc=5",
+      "published_at": "2026-10-25T13:00:00+00:00",
       "regions": [
         "mexico"
       ]
     },
     {
-      "title": "Johnson & Johnson's prostate cancer drug shrinks tumors in early-stage trial",
-      "publisher": "Reuters",
-      "publisher_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOeWNyU043aUVYSUNOanI5QkZfcjFOc2FET3BDNFh5RXdORFFNcFY4ZVFWNlUzV1gwaFpDNXkzeENNSFlFZVljZzNHdWtuZDlIc1ZJeGhocVpnTjN4QmVJcms4blBfZVpSMm5NWUgzb1NqejhfVnV5MV82Qi1Bakg1R19aVzBFWTZhOURPckU0Z2FHVkxOZVRIa2tMajVmaGlYd3Mwd3ZOXzVjbEp1YWVRXzVLZjdPTTdlZ19laS1MTm5vRlNhYUl1YUdDcXlwaEo5RDNkT2M0Tm9jUQ?oc=5",
-      "published_at": "2026-10-24T08:18:18+00:00",
-      "regions": [
-        "europa",
-        "global",
-        "usa"
-      ]
-    },
-    {
-      "title": "Scarborough man jailed over cryptocurrency drug dealing",
-      "publisher": "BBC",
-      "publisher_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB4b051M1J6dHdvRm5UbEQtaE05WkhuclZJbjRsOWJBb0g4bHhKeUoxMUVvOEtFa0l5Nkp2ZDNVRGhjbFVtOWU3U1BZbkU2YlduMjU5REFvMzVhdTQ?oc=5",
-      "published_at": "2026-10-24T08:00:56+00:00",
+      "title": "How cocaine conquered the UK: in pubs, festivals and workplaces the drug has become an everyday habit",
+      "publisher": "The Guardian",
+      "publisher_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOV1dsZEI4aVU5MUNPS1psakFjbnIwNTM2YmVqMG5UWktIajg3ZVotaTdjSy1rV3pNcWRTOGFLazNnVG91WW1MU0tEd040VUYwb2lOYW5YTmJfQmVvQ3p4bzQ0di05VEVKS3o3ektERnhhT1J5SmdCUnBwYzZHMURsZkhSSDh4a0tYQ0x6REZPVFJ3elFOdGpLaUNFLTMtd1RSUkNfM2h4TmEwSFJIazlwWW4wbkpsNDBITTZ3TEM5TmhmUWRKRFFiSWJ1SXJaaXBNUzc4dVZ0N3RMbFFwR2dzeDlzR2pvT0NfZ0RReTRvTnBaV0wtUWE1MGdLN1paVkJ5d3pmUTNB?oc=5",
+      "published_at": "2026-10-25T12:52:00+00:00",
       "regions": [
         "europa",
         "global"
       ]
     },
     {
-      "title": "Drugs trade",
-      "publisher": "BBC",
-      "publisher_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5kaG1NcTZUZjlZZHJEd0g0ODFSX05nc1lpYlhiRXRCbllYUldfZUYyNnBXNnMwdG5fWkhGWTJlQzlSV1VOdk9iM1FOQzJnQlNqSEtNRVBqOA?oc=5",
-      "published_at": "2026-10-24T07:36:04+00:00",
+      "title": "Measles surge exposes Republicans’ vulnerability on vaccines",
+      "publisher": "Financial Times",
+      "publisher_url": "https://www.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSHdoTFdhS1JQT0JjaDZZWHI0NUVZZ3dDSGZhWGN1eEJhVVpOeEh0bWY0aFl1UThDdFpKenUtVWNEV3gxMW4yZllRRlRuVk96bXVoM1pSbmx4eHk3dlJNVTNVcko5OFAtM0NqWDZlamFMcEJzazd6VmNkY2ZGSktjYXV3Zjg?oc=5",
+      "published_at": "2026-10-25T12:00:03+00:00",
       "regions": [
-        "europa"
+        "europa",
+        "global"
+      ]
+    },
+    {
+      "title": "After a cancer vaccine’s first success, the race is on to expand the impact",
+      "publisher": "STAT",
+      "publisher_url": "https://www.statnews.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNV25nVWJNQ2RLMFMxeW9FU3p4RmdhYURIalhPUnBob1U0aU5YQkhIVzVmd05NbVdtWUN4SFlkYnpvVkFmQXY2UmpxcjJ6QUp1UUc4WTlMRThkVzJ3QmhhQkMwaE0tTlIzUGE0Y0VpMHd0UV9VX1IwcnRyYXpNc1RlRWFxWmo4VUd0WnExdlBzaUdzRVNRXzc0VDFKQnlNWFdRMkdIN0plUQ?oc=5",
+      "published_at": "2026-10-25T08:34:57+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Reciente en diferencias precios farmacias",
+      "publisher": "Diario Libre",
+      "publisher_url": "https://www.diariolibre.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5hZURFWnF4LUtzVHBtSEFESFcwa3pJTTY2Z3hZdGJOV0N0bXRlSTN4QlNPLWNyclR0NVVrWjVTMkpVaUFla2ZUZmd6c0M0ZGVfV1ZJa0J4aWF4OW9VYzhQVFVOU19yX1E3eXphaHY0WWZ1UjBLUFhWZw?oc=5",
+      "published_at": "2026-10-25T06:51:24+00:00",
+      "regions": [
+        "rd"
       ]
     },
     {
@@ -193,29 +131,30 @@
       "publisher": "Reuters",
       "publisher_url": "https://www.reuters.com",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9vX1dWYTU5QXRUZVJtY3hfeGF1Y2ZkNlVFUFROeU94azdNMVpSTHdtemZZNWhtSWJ6aUNVNXVSajhOWGRPN3dIYVRpWHhwQmw3YmlBUU4zS3ZRcmVuUTYtNjdNcHl0Q2htc18wM28tNjUzQ3VTZW0wVTFFVVI?oc=5",
-      "published_at": "2026-10-24T06:38:21+00:00",
+      "published_at": "2026-10-25T05:30:11+00:00",
       "regions": [
         "europa"
       ]
     },
     {
-      "title": "Zymeworks Presents New Phase 1 Data for Folate Receptor Alpha-Targeting Antibody-Drug Conjugate ZW191 at ESMO Congress 2026 – Company Announcement - FT.com",
+      "title": "‘Designer baby’ start-ups test limits of biotech taboo",
       "publisher": "Financial Times",
-      "publisher_url": "https://markets.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPX3dUeUtCVWdNbGk5TU9TMkJ1U0trUDI0TTlJbnJvaS1SV0FnVnpObXpsYVcwQ3Y0S3U2cmNiVlVYdEstZTExT2tleEEzRUNBTmg0OGF6T3BWaEFOUm5MekNVb1B5c212eXFMMklBclNXbmo3ZTQxZjZWTVVEbm9TNmhoZVBtNEtLNThnRnU3UjJqejdWUUNB?oc=5",
-      "published_at": "2026-10-24T04:30:00+00:00",
+      "publisher_url": "https://www.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE90OWFkSjduUnA2X3BNQzFaQ1A5R01MU0tUc2M5dnFUTVluQ01ORXdNUWhMem1uaHh6czRMLTlMNlRxUnA3S3hYZ1ZVV0ZuU1gwU1UybGN2Wm4zVnQzTm91d0pZRUlUTlFFYWRGeWdlclE?oc=5",
+      "published_at": "2026-10-25T05:00:18+00:00",
       "regions": [
-        "europa"
+        "europa",
+        "global"
       ]
     },
     {
-      "title": "Caro Quintero: The legendary drug lord with whom the US will ultimately strike a deal",
-      "publisher": "EL PAÍS English",
-      "publisher_url": "https://english.elpais.com",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQUN4Vl9HQXlkbmdQSWl6d3FwLS1pWnVFUDlNRVBUMkNQR3B5YkxXQTFKc1I1NGluNmJ1VmstNE12UE1IdFlycEt5bHM0elpwZlZ3R2dlMkQ2Mld0c25Uc05uZDNuTDdwbU9MUWJGSlZydERwb3h2b2tqWE5BY1hsRXAtd3ZySndQMGdSQ3JtbUZfZWx3WVlVRnBMNFNPX3BFaUZBaGtBVGoteEtwZzlWZGtxWDJETmlyLS1PNUk0TG14ZnAzdkpQR21mT0VYXzFSTlBpc1pKbEPSAewBQVVfeXFMTVZrUnpiVGVDM2p5ci1FcFhFNlFGTUFOWnl2WjByZzR4cTdUQXNXdjlQVGpaMGQzR2J0WWJrX0Q5SWMzblE4SUo0UFYzWkFjVGxpRzdoWHVOcWs3enNiMGkxV2cya0ZTb1VuTEVvWGN0V3AzcWctX1NuZEZZOXg5MGVKQVJhcFhfUXhmN1pxUW1XU1k3clZma1hGWFRuQ3pxTGVwZ0xnSXRTdjN5R3NIMWpqamRjeVNQejA3OFkwWG1DNl83cFZjWE9GeWdjZkF5VWwzMUE4TGtnNlBmYW54TjdBMjNfdFZqRnN4QlI?oc=5",
-      "published_at": "2026-10-24T04:00:00+00:00",
+      "title": "Una misma receta, precios diferentes: ¿por qué varía el costo de los medicamentos?",
+      "publisher": "Diario Libre",
+      "publisher_url": "https://www.diariolibre.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPS0pNS0xISmt5d01Jb3NyNG9ZSTFXUS1EUWk1T2dxZ2hpa2dFUUFxblVFSTZIUm1HNzJKRDI1ZDJxNGdEb0JSVnNFYjJraVJOaDBONG5IUTFWam9IeGVXTEtEZl9xZEwzeFFmTExhVklISzh3MG10VV9wTGxVTk55VDlCVTQtcmZHcXVGSTZqRmdXTGdDWk85MVgzRDZCRC1jTmUtSTRuTWM3cGQtYUlSOHkyUnh4X1dKYkFZMEowLS1xZ9IBxwFBVV95cUxPLVZQdDVJMF9PN3h5c0NuVFNkQ1BFUHlGM1JsOGNtaXF6YllGVDhpQWRfRHdicGdXdkRqOWRHVDA2ZHhmOTF0WlRfSFpJVnVkXzFYSklDOVp0ZXRicHNnWnZKck9NM0pyNWlJaXJVTkM2T0llTkZKS0JFajRLMkZ6VXQ4bDZqZm9WM2NrLUVYeVVhQUNPSk5MQTZ3dUlTM3BlSG9LREVoaHc5U2YzcmdOX21JSWdaa0d0UWJ6cE05dVBEZlpvaHFr?oc=5",
+      "published_at": "2026-10-25T04:01:00+00:00",
       "regions": [
-        "europa"
+        "rd"
       ]
     }
   ],
