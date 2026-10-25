@@ -1,7 +1,7 @@
 {
   "date": "2026-10-25",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-25T19:50:56+00:00",
+  "checked_at": "2026-10-25T23:43:14+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -24,25 +24,45 @@
     "mexico": {
       "ok": true,
       "error": null,
-      "count": 3
+      "count": 4
     },
     "usa": {
       "ok": true,
       "error": null,
-      "count": 2
+      "count": 3
     },
     "europa": {
       "ok": true,
       "error": null,
-      "count": 5
+      "count": 6
     },
     "global": {
       "ok": true,
       "error": null,
-      "count": 6
+      "count": 7
     }
   },
   "items": [
+    {
+      "title": "Koalas are cute, furry, iconic – and dying of chlamydia. But how well does the approved vaccine work?",
+      "publisher": "The Guardian",
+      "publisher_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSnZmejNYdVJEWjdwb2JKdHNaYWtkVGxuMzAyVzJjaTM3SktDd1VPT0pCN2h5NWx2enI1ZjY0ZklqMGJheFZSemtrTnZfRUsyVXBmNmdwRXNYc3diQ3VwanQ1RjBqVWtuZmcyemxETnNjQzFoblV4Vm56SkhfQ05MN3UtZmJoeUFfcXZNaVZiRQ?oc=5",
+      "published_at": "2026-10-25T22:36:00+00:00",
+      "regions": [
+        "global"
+      ]
+    },
+    {
+      "title": "Roche crea fármaco experimental contra el cáncer de pulmón que redujo riesgo de muerte en 44%",
+      "publisher": "El Economista",
+      "publisher_url": "https://www.eleconomista.com.mx",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYXVUWDdNSHJxV3RnRGlyc0VqMnNDOU03TFZ2d1htZ1Ryb29YQW56dC02akJrbG4tUG5uUzl5a0ZOZ3JIeFp3ZlAwX0JadjZQcTBjQ3J1RnpWdHlHWVJhR2t6SmhSeVhZenFmSWV1UmV2UFZ3ZnZGYVlPZ0c3bFVTUXI1NERnVk5VcGVKTVdZTGl4TXBZSjdpaXZzMy0wTDNsV0ZxQ0p3YU9qSjZ4TkJkZFNBTHhsQThTTDhHLVRIMkROQ2FKUXdxQnhrRdIB0AFBVV95cUxOeE9uOG1KZU5oelpRQ0RIdEV1SUM4VHRRblVvRVhIdFRUZ2pKZUdoRXdsM0tQdkdfSHdxODROS0hoaGlMZDZfZ2stellWeC1BWGJsWGJfdU41LUZhbXd6VnJNeGh0Tk9nZVExN2lxQlhZdWd0MTlmUTlIUGtlOFJiVjZpTVZfSEktUGhKT3lwN2F5dkk5TF8wZHRRS244aHFkejViZDJ4ZEx3WG9rd0o2NjNyZnprYjJBUTNUT1FZTEM4d3V4TENaZXRnbkNvOHY2?oc=5",
+      "published_at": "2026-10-25T19:47:08+00:00",
+      "regions": [
+        "mexico"
+      ]
+    },
     {
       "title": "Takeda to seek Japan approval for gastric cancer drug next year",
       "publisher": "Reuters",
@@ -50,7 +70,9 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNHFMV2JaWk1hZHYwNXRjcExvTHM2eHZONTdEdExUNFJPVlZtTGNPdVBaa05VZWRhY0xPR04wQ1NoQmJ1NmZucFVxUmE2THR1dGVHa2R2cnZQNnh2X3RjNEhJVDMzRkZ5YTY5RF9kWFJzMi1vbjVKMVRzc2pwQ1FzMk1Fdl9QdjRZNk9ncC03djhrdWt4WHpvbnpQUmVSRmlHM09zNF9YTEwyZEFVOVE?oc=5",
       "published_at": "2026-10-25T19:02:52+00:00",
       "regions": [
-        "europa"
+        "europa",
+        "global",
+        "usa"
       ]
     },
     {
@@ -87,16 +109,6 @@
       ]
     },
     {
-      "title": "Koalas are cute, furry, iconic – and dying of chlamydia. But how well does the approved vaccine work?",
-      "publisher": "The Guardian",
-      "publisher_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSnZmejNYdVJEWjdwb2JKdHNaYWtkVGxuMzAyVzJjaTM3SktDd1VPT0pCN2h5NWx2enI1ZjY0ZklqMGJheFZSemtrTnZfRUsyVXBmNmdwRXNYc3diQ3VwanQ1RjBqVWtuZmcyemxETnNjQzFoblV4Vm56SkhfQ05MN3UtZmJoeUFfcXZNaVZiRQ?oc=5",
-      "published_at": "2026-10-25T14:02:00+00:00",
-      "regions": [
-        "global"
-      ]
-    },
-    {
       "title": "El microbioma intestinal podría influir en la respuesta a las vacunas, según un estudio",
       "publisher": "Forbes México",
       "publisher_url": "https://forbes.com.mx",
@@ -104,6 +116,16 @@
       "published_at": "2026-10-25T13:27:00+00:00",
       "regions": [
         "mexico"
+      ]
+    },
+    {
+      "title": "Reciente en variaciones precios medicamentos",
+      "publisher": "Diario Libre",
+      "publisher_url": "https://www.diariolibre.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA3QU11d2hVTVFweXpHYU1lemxmUElDZEpQYVJUNVNZQVJ1MVdGQmtlaC1IUnRKV21PRVktNVhNYlBvUlVmb2pPNWdHVTV4R0dwdTlSUVYyc1hDWFBSVVlaUGNDMExSTmE4RXlOV3lBb3V4NGdETXVHRzJPVGY?oc=5",
+      "published_at": "2026-10-25T13:03:02+00:00",
+      "regions": [
+        "rd"
       ]
     },
     {
@@ -123,6 +145,7 @@
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSHdoTFdhS1JQT0JjaDZZWHI0NUVZZ3dDSGZhWGN1eEJhVVpOeEh0bWY0aFl1UThDdFpKenUtVWNEV3gxMW4yZllRRlRuVk96bXVoM1pSbmx4eHk3dlJNVTNVcko5OFAtM0NqWDZlamFMcEJzazd6VmNkY2ZGSktjYXV3Zjg?oc=5",
       "published_at": "2026-10-25T12:00:03+00:00",
       "regions": [
+        "europa",
         "global"
       ]
     },
@@ -135,16 +158,6 @@
       "regions": [
         "global",
         "usa"
-      ]
-    },
-    {
-      "title": "Reciente en medicamentos principio activo",
-      "publisher": "Diario Libre",
-      "publisher_url": "https://www.diariolibre.com",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1SUXAxb3dNRG9HbHlPb09DelFPa1kyUzZWSGZqVFlfUlZBYVZrajlwdE9mY29jUGFMUkxhLXBzOEdLenpTb3R6NE5WZmxGVTFGcHJxWWR5enBrQURkU1d5cDd2czUxeEluS0Q0RlRZUkdpRzZnYi13Vg?oc=5",
-      "published_at": "2026-10-25T06:54:29+00:00",
-      "regions": [
-        "rd"
       ]
     },
     {

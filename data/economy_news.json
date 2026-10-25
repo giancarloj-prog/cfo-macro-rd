@@ -1,7 +1,7 @@
 {
   "date": "2026-10-25",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-25T19:50:55+00:00",
+  "checked_at": "2026-10-25T23:43:13+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -23,7 +23,7 @@
     "bcrd": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 1
     },
     "fiscal": {
       "ok": true,
@@ -48,7 +48,7 @@
     "economy": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 2
     },
     "economist_andy": {
       "ok": true,
@@ -83,6 +83,21 @@
   },
   "items": [
     {
+      "title": "Los puertos en la Meta RD 2036: protagonistas del desarrollo económico dominicano.",
+      "publisher": "Hoy Digital",
+      "publisher_url": "https://hoy.com.do",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTHZvWjhqTUpqOXphR3lQNnVkNXo3RnZMekZDU0E2NlpaUjU1MTZPZFlIRmtVMHVKNVNzczRfa0VadmtGRFl0TmlQSnUzS21sWmQ1eDBDWk1BQUpuRGx1ZlZIY0FRR0N4S1dqOWxmYXlwMWRtZFBGVWdFVVVieVRCN3V1b2dPSzd1QVVwWEJKN1JCMm1vbGFaRmtXM1BwbE4tVjB5d3VFa25CZ9IBrwFBVV95cUxOSW8wcHRUUmlyYXVqV3NqSjF4ZVRsR2F6cFNITGFpcFJlUlVnQ0hJMmFnVUlGbGg3TTBBLUJqYUhDZWVmQU1iRjFJSG9BeGEzVWdfdzFGXzBCb0dZaXl0U0M0WE9KWHk5My1yOEFnNXhieGQ4RndKblk3QjhBRGNLZTdBazVaY3FlcUhfUkNQeEFqMWVyWkg3RzhlUHVKNTNjclJYdGljQ1JrOXgyWlZV?oc=5",
+      "published_at": "2026-10-25T21:44:28+00:00",
+      "topics": [
+        "economy"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "economy"
+      ]
+    },
+    {
       "title": "Agricultura y FAO acuerdan inversión de US$480,000 para modernizar el sector agropecuario",
       "publisher": "Acento",
       "publisher_url": "https://acento.com.do",
@@ -112,6 +127,22 @@
       "searches": [
         "economy",
         "finance"
+      ]
+    },
+    {
+      "title": "El BanCentral: 79 años impulsando la resiliencia económica",
+      "publisher": "Listín Diario",
+      "publisher_url": "https://listindiario.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVHQzNEJidFlUM093Rl8tWEdGYWJwUHBNaWtKcHFzd09nLTVxNnloTDZKZjg4Rkg1cVNwU1lVdXZYQ3Z6cC1teEhpYi0xMG45Tl94TG5qQmkxVVpyVlFBQlpiZFNwM1ZUWDkwa2w0d0N4U21VMmpIRk4zYzE1ZTczTmllZG5rLVE1TWlfQVBubkVJNE5ZNzhicEpkVUxqVWc5T3ZqZEJic2V1TGVwV2EzNE5jQQ?oc=5",
+      "published_at": "2026-10-25T04:00:00+00:00",
+      "topics": [
+        "bcrd",
+        "finance"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "bcrd"
       ]
     }
   ],
