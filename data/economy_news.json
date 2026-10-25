@@ -1,7 +1,7 @@
 {
   "date": "2026-10-25",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-25T15:04:23+00:00",
+  "checked_at": "2026-10-25T19:23:46+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -38,7 +38,7 @@
     "finance": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 2
     },
     "securities": {
       "ok": true,
@@ -48,7 +48,7 @@
     "economy": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 1
     },
     "economist_andy": {
       "ok": true,
@@ -81,6 +81,39 @@
       "count": 0
     }
   },
-  "items": [],
+  "items": [
+    {
+      "title": "Agricultura y FAO acuerdan inversión de US$480,000 para modernizar el sector agropecuario",
+      "publisher": "Acento",
+      "publisher_url": "https://acento.com.do",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdng4aWVWVVFCeFdkc242UC10TEdwbjNySnVqVFlaWXNtMkU3Vm1OZ3JmLVZuMVVrZ0FJV0l2YW9vcFF5Z3pDcXI5OUNNd2lsN1lkYVB6a2F0cEJlVWQ5VFhKajhCZjZJMXZOLWNtaUE4YkxLYllwNTRMbWt4bkd5N0pZQ0VnRTRyUXFFT0ZtY1hFcW14M1BnbW5IYnNhcHVIUmFDU1ZxQkRwLV91SUtIOE5KU2xJMjVyTHEtTU9uODFKekI4eGlndXlHVdIBywFBVV95cUxOdng4aWVWVVFCeFdkc242UC10TEdwbjNySnVqVFlaWXNtMkU3Vm1OZ3JmLVZuMVVrZ0FJV0l2YW9vcFF5Z3pDcXI5OUNNd2lsN1lkYVB6a2F0cEJlVWQ5VFhKajhCZjZJMXZOLWNtaUE4YkxLYllwNTRMbWt4bkd5N0pZQ0VnRTRyUXFFT0ZtY1hFcW14M1BnbW5IYnNhcHVIUmFDU1ZxQkRwLV91SUtIOE5KU2xJMjVyTHEtTU9uODFKekI4eGlndXlHVQ?oc=5",
+      "published_at": "2026-10-25T17:00:18+00:00",
+      "topics": [
+        "finance"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "finance"
+      ]
+    },
+    {
+      "title": "Banco Popular presentará oportunidades turísticas y de inversión dominicanas en Londres",
+      "publisher": "Acento",
+      "publisher_url": "https://acento.com.do",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPa25CQlcxcFBpdEVLeDdqdi1YTFByZVEwVDY2T1hVd1ZvUE80VHVzUnlmanZjTjBLdV9QaDFpSC1iLWoxd3lERE1zYVVEMlpUQXFsbVlBVkRseW1IN0g4TzJ2eG45enNySVpZd0xIUVNNaW9ScURpeFktR1I3V1N1SWFLeG00MG8zMFJpazVQZW01QjA2WUF3QVZjUkROb29uMFl2V3VkaUxwdDFZODAyMkhyc0hicjJGX0xhN3NwQ3VZUTB4emc2RVRIRGx2QmROSVo4TzVoWdIB1wFBVV95cUxPa25CQlcxcFBpdEVLeDdqdi1YTFByZVEwVDY2T1hVd1ZvUE80VHVzUnlmanZjTjBLdV9QaDFpSC1iLWoxd3lERE1zYVVEMlpUQXFsbVlBVkRseW1IN0g4TzJ2eG45enNySVpZd0xIUVNNaW9ScURpeFktR1I3V1N1SWFLeG00MG8zMFJpazVQZW01QjA2WUF3QVZjUkROb29uMFl2V3VkaUxwdDFZODAyMkhyc0hicjJGX0xhN3NwQ3VZUTB4emc2RVRIRGx2QmROSVo4TzVoWQ?oc=5",
+      "published_at": "2026-10-25T16:30:18+00:00",
+      "topics": [
+        "economy",
+        "finance"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "economy",
+        "finance"
+      ]
+    }
+  ],
   "discovery": "Google News RSS · medios dominicanos seleccionados y fuentes oficiales; cobertura no exhaustiva."
 }

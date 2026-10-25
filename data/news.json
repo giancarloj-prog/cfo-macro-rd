@@ -1,7 +1,7 @@
 {
   "date": "2026-10-25",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-25T15:04:24+00:00",
+  "checked_at": "2026-10-25T19:23:47+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -24,25 +24,68 @@
     "mexico": {
       "ok": true,
       "error": null,
-      "count": 2
+      "count": 3
     },
     "usa": {
       "ok": true,
       "error": null,
-      "count": 2
+      "count": 3
     },
     "europa": {
       "ok": true,
       "error": null,
-      "count": 4
+      "count": 5
     },
     "global": {
       "ok": true,
       "error": null,
-      "count": 5
+      "count": 6
     }
   },
   "items": [
+    {
+      "title": "Takeda to seek Japan approval for gastric cancer drug next year",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNHFMV2JaWk1hZHYwNXRjcExvTHM2eHZONTdEdExUNFJPVlZtTGNPdVBaa05VZWRhY0xPR04wQ1NoQmJ1NmZucFVxUmE2THR1dGVHa2R2cnZQNnh2X3RjNEhJVDMzRkZ5YTY5RF9kWFJzMi1vbjVKMVRzc2pwQ1FzMk1Fdl9QdjRZNk9ncC03djhrdWt4WHpvbnpQUmVSRmlHM09zNF9YTEwyZEFVOVE?oc=5",
+      "published_at": "2026-10-25T19:02:52+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "AstraZeneca's stomach cancer drug extends overall survival, late-stage trial data finds",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQWE1d0RDaXR0T1dzS004NG1pSU9IVjEtNGF5VEVlY3hoVDh2eVYyLUZMZl93ckdRbnpkOVgyXzFXYzlyRmdZbWtaWnJXS2tuUWtNN2R6LXI3STllOWtwX2RVUTc2RUVPTmZhYlRsYWIwcWppeDVHdkRtUlVpRjB1QlVYUTNXSks3SDh4bGJsUkhjN2c0ZkpyNWlOcW0xbWFWSzZmQmpOYXBEYW5SY01CdWVjSEZMVXBtNUpRZjFLb0Z4T1ZCWmRB?oc=5",
+      "published_at": "2026-10-25T18:16:31+00:00",
+      "regions": [
+        "europa",
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Mientras usuarios de medicamentos para perder peso usan suplementos dietéticos, médicos y reguladores emiten alertas",
+      "publisher": "Forbes México",
+      "publisher_url": "https://forbes.com.mx",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQ0FoQi1PeEtxOG1TUng4dTROS0xVVVdCc2I1RjJsWlhnRFU5M2Q0ZEtoN2doeTZKVzdFWGZsYzhkcDVuYnBGSzhNRjZEMmQtTUlZbDNMYzVOMEF3LUczT2xrZDRucmcwdEZoRnJzWHZNMGxrX1JnbUE5M1RQaEJNczdkSmhCdXQxMXhwSWxmZmpDa2ltUUg2YVRWbGNoMVNtWjhESjNnZUhoUUVBVF9XQld1NjVlY1hCY05SQjRwSmZOamlqdUc4TEdDc292SGFJdzZXaQ?oc=5",
+      "published_at": "2026-10-25T17:45:00+00:00",
+      "regions": [
+        "mexico"
+      ]
+    },
+    {
+      "title": "How cocaine conquered the UK: in pubs, festivals and workplaces the drug has become an everyday habit",
+      "publisher": "The Guardian",
+      "publisher_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOV1dsZEI4aVU5MUNPS1psakFjbnIwNTM2YmVqMG5UWktIajg3ZVotaTdjSy1rV3pNcWRTOGFLazNnVG91WW1MU0tEd040VUYwb2lOYW5YTmJfQmVvQ3p4bzQ0di05VEVKS3o3ektERnhhT1J5SmdCUnBwYzZHMURsZkhSSDh4a0tYQ0x6REZPVFJ3elFOdGpLaUNFLTMtd1RSUkNfM2h4TmEwSFJIazlwWW4wbkpsNDBITTZ3TEM5TmhmUWRKRFFiSWJ1SXJaaXBNUzc4dVZ0N3RMbFFwR2dzeDlzR2pvT0NfZ0RReTRvTnBaV0wtUWE1MGdLN1paVkJ5d3pmUTNB?oc=5",
+      "published_at": "2026-10-25T14:35:00+00:00",
+      "regions": [
+        "europa",
+        "global"
+      ]
+    },
     {
       "title": "Koalas are cute, furry, iconic – and dying of chlamydia. But how well does the approved vaccine work?",
       "publisher": "The Guardian",
@@ -64,16 +107,6 @@
       ]
     },
     {
-      "title": "Reciente en variaciones precios medicamentos",
-      "publisher": "Diario Libre",
-      "publisher_url": "https://www.diariolibre.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA3QU11d2hVTVFweXpHYU1lemxmUElDZEpQYVJUNVNZQVJ1MVdGQmtlaC1IUnRKV21PRVktNVhNYlBvUlVmb2pPNWdHVTV4R0dwdTlSUVYyc1hDWFBSVVlaUGNDMExSTmE4RXlOV3lBb3V4NGdETXVHRzJPVGY?oc=5",
-      "published_at": "2026-10-25T13:03:02+00:00",
-      "regions": [
-        "rd"
-      ]
-    },
-    {
       "title": "Así controlan el VIH sin medicamentos: Esto sabemos del experimento científico que lo cambió todo",
       "publisher": "El Financiero",
       "publisher_url": "https://www.elfinanciero.com.mx",
@@ -84,24 +117,12 @@
       ]
     },
     {
-      "title": "How cocaine conquered the UK: in pubs, festivals and workplaces the drug has become an everyday habit",
-      "publisher": "The Guardian",
-      "publisher_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOV1dsZEI4aVU5MUNPS1psakFjbnIwNTM2YmVqMG5UWktIajg3ZVotaTdjSy1rV3pNcWRTOGFLazNnVG91WW1MU0tEd040VUYwb2lOYW5YTmJfQmVvQ3p4bzQ0di05VEVKS3o3ektERnhhT1J5SmdCUnBwYzZHMURsZkhSSDh4a0tYQ0x6REZPVFJ3elFOdGpLaUNFLTMtd1RSUkNfM2h4TmEwSFJIazlwWW4wbkpsNDBITTZ3TEM5TmhmUWRKRFFiSWJ1SXJaaXBNUzc4dVZ0N3RMbFFwR2dzeDlzR2pvT0NfZ0RReTRvTnBaV0wtUWE1MGdLN1paVkJ5d3pmUTNB?oc=5",
-      "published_at": "2026-10-25T12:52:00+00:00",
-      "regions": [
-        "europa",
-        "global"
-      ]
-    },
-    {
       "title": "Measles surge exposes Republicans’ vulnerability on vaccines",
       "publisher": "Financial Times",
       "publisher_url": "https://www.ft.com",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSHdoTFdhS1JQT0JjaDZZWHI0NUVZZ3dDSGZhWGN1eEJhVVpOeEh0bWY0aFl1UThDdFpKenUtVWNEV3gxMW4yZllRRlRuVk96bXVoM1pSbmx4eHk3dlJNVTNVcko5OFAtM0NqWDZlamFMcEJzazd6VmNkY2ZGSktjYXV3Zjg?oc=5",
       "published_at": "2026-10-25T12:00:03+00:00",
       "regions": [
-        "europa",
         "global"
       ]
     },
@@ -114,6 +135,16 @@
       "regions": [
         "global",
         "usa"
+      ]
+    },
+    {
+      "title": "Reciente en medicamentos principio activo",
+      "publisher": "Diario Libre",
+      "publisher_url": "https://www.diariolibre.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1SUXAxb3dNRG9HbHlPb09DelFPa1kyUzZWSGZqVFlfUlZBYVZrajlwdE9mY29jUGFMUkxhLXBzOEdLenpTb3R6NE5WZmxGVTFGcHJxWWR5enBrQURkU1d5cDd2czUxeEluS0Q0RlRZUkdpRzZnYi13Vg?oc=5",
+      "published_at": "2026-10-25T06:54:29+00:00",
+      "regions": [
+        "rd"
       ]
     },
     {
