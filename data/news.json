@@ -1,7 +1,7 @@
 {
   "date": "2026-10-25",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-25T19:23:47+00:00",
+  "checked_at": "2026-10-25T19:50:56+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -29,7 +29,7 @@
     "usa": {
       "ok": true,
       "error": null,
-      "count": 3
+      "count": 2
     },
     "europa": {
       "ok": true,
@@ -155,16 +155,6 @@
       "published_at": "2026-10-25T06:51:24+00:00",
       "regions": [
         "rd"
-      ]
-    },
-    {
-      "title": "Medicus Pharma Ltd. (MDCX) Stock Price Today - The Wall Street Journal",
-      "publisher": "WSJ",
-      "publisher_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE81Q2xId1NYd1pVUjNzaGp2OEtXZGxDNnVCWkhBMVQ5YldSM2J0Z3dTbi16bHZFa0c2UTl1MTlVOXFHTVhoMXdXVmlzYm9HNS1jblhBTA?oc=5",
-      "published_at": "2026-10-25T05:58:38+00:00",
-      "regions": [
-        "usa"
       ]
     },
     {
