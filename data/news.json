@@ -1,7 +1,7 @@
 {
   "date": "2026-10-26",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-26T14:32:13+00:00",
+  "checked_at": "2026-10-26T17:22:08+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -29,20 +29,124 @@
     "usa": {
       "ok": true,
       "error": null,
-      "count": 7
+      "count": 11
     },
     "europa": {
       "ok": true,
       "error": null,
-      "count": 12
+      "count": 16
     },
     "global": {
       "ok": true,
       "error": null,
-      "count": 10
+      "count": 16
     }
   },
   "items": [
+    {
+      "title": "Five biotech updates to read after ESMO this weekend",
+      "publisher": "STAT",
+      "publisher_url": "https://www.statnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYktCMGZDS3hXUmdpT3FmUC1iZTNVUFRjcFFzQjJzLUxNb0hNd3RNLW1uOFdMSEozbGQ5Q2ZjcXo5TGJCZHAyZUZSTHJhN3FfaEJTYjBBY0x1Z045UXdmRE1QQWhwQTFJcFViVUZCenVSaXBpcm5paEFra2ZhQ09wR08td080c0Mwc0w0aWREZ2I4eUg2dkZ5dmlWR25OS204V3c?oc=5",
+      "published_at": "2026-10-26T16:52:30+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "GSK, Hansoh's bone cancer drug delays disease progression in late-stage China study",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNeVF0OEZ3SDI2ZERiTGJTbmtQMFUzMWFvRG5Ham5IMDdsTkpNOWdkZlhRUVNqX29PQVhkd19MQWlGTkN2VnQ4WVk4SUJkVHB0VTRnZ3NHdGxQd1oyQ0NrNTBfQUFZN2JWblZDWmxWMXEtTElSVUdERm1sOFIydjdrZWZOdzY0SXM0dVVDcjctemVNaGJLeDZyWWMwUXNuV0hHR3QxZzJxbEY1QWcwam1QRHF1Y1ZSYk1YVVRWR1R5Qm4zWjlxZjVxMEExOVZ6WldDLTVwa0lRcGQ3ZE96aEVVRGxMTG8?oc=5",
+      "published_at": "2026-10-26T16:30:38+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "House lawmaker probes PBMs for ‘punitive’ audits of independent pharmacies",
+      "publisher": "STAT",
+      "publisher_url": "https://www.statnews.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWjQ2a2NPaDViUVBEOWxRM0p6eElneTkyS21OSmV2UkdPN25keE9WdlBPOW9HVThWVjcxSXZBTUE4cVhieXg0NEh0a1J0cUFuNmpXbHNXd0RLQVRuUnhXdVBCWm9iUEVvbW40RTUwT241SU5IRDFKZG85UXdnUW9kLUN4cG5Obmg4ZFJoQnE1X3pTVTh1NUpIbWJ0YWZvcjQ5QlZLNll3OWJKb1N2a0Vr?oc=5",
+      "published_at": "2026-10-26T16:30:20+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Merck drug extends survival in endometrial cancer trial, wins US priority review",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONEdIZ0VwaGxubUJfcXBfUGhJTnliUTV0ZUU0SFNKdmlqd0VKdFBOSUdqZUFmLWRvT3N3Q0ZGZGd2a2FoejlrLXZXX3NOaThwX2RnbzFTcUREQ2FjOTdnQ2dlQzZQWUg0R1U3ejZJSTBudGNOWWxWY2pEanpuYllLZUlDNXlmX0VqLXJyZnBHSF9kRTktZlpVbmpMUk5zNzA3ZlBrZkZiaHVvYko0YTJGWl9iV0NLVWhhRkZMWDYtS0gwODhkV3NFYU13UWVhNEdwT1AzQkxxTEw?oc=5",
+      "published_at": "2026-10-26T16:30:03+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "Obesity drug developer Corxel to go public in US via SPAC deal",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONW5kN1dIQjhzMnkxTkdZQWdYYXVoeXpWOGZVblZXdW1vTGJta25OeGVVMUoxYm51enFneHo0VkpKeE1aOEczNUNYVmpGVVdkajh5SkFYRWtWRWZHLUdwSS1OTzZkOWFNeDVpTkc4RXVxc3NmWkI5bzdTVU1YYk9XVGFYUXZTYkctOW9id29lMXFmemVpNjBuekxkUVdEVlVpMkRQVWVPekt0SEFveEhtNVh3?oc=5",
+      "published_at": "2026-10-26T16:06:38+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "ESMO ‘26: A cancer vaccine debate, Roche’s KRAS progress and Amgen’s ‘unprecedented’ data",
+      "publisher": "BioPharma Dive",
+      "publisher_url": "https://www.biopharmadive.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRngtaXNBR2xQbF9zdDd3UHhYSU9seGM1Q3ZOOWFsOVJ6MmtTSGcyeks0dmt5X2VCNTJDZW5iS3JzVWpmVkJxYzJpUjZLVXVKZWFRSjMzQTZ1UUkyRGZlU3h1d3RGQzNSTVJGMmtLeHl5UjBxNXhrTkU0S0lDNVRVbVVnYTJCWl9MeG9vbnlYVl92T28xbktYM1RTeU9CbUtPS3NRZQ?oc=5",
+      "published_at": "2026-10-26T16:00:47+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Merck ADC drug cut risk of death by one-third in advanced endometrial cancer",
+      "publisher": "STAT",
+      "publisher_url": "https://www.statnews.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaHJBQ1F3a2FQUGlrTEI5a2NmVV9UZDdzLThpVEFzTi1IazFxbGF0cHZIREQ0elQtOGxtcmlPTU5Gb0pyWDcyYzNMUDF4SXV6R3lKVWg5dHUtcjRuNWdneWJCRF8tbE1nalRQUFlQTjlsdVFEc0tvSmdSU2lVTVVKS0FCd05CcnA4RWQ2dzhkYXRMS0xERXc?oc=5",
+      "published_at": "2026-10-26T15:34:20+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "ESMO26: Taiho Oncology on improving the lives of patients with cancer, their families, and their caregivers",
+      "publisher": "pharmaphorum",
+      "publisher_url": "https://pharmaphorum.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbnYtUThUcDV5TUQzZXF0b0VOZnRmLXF3cE5jaHprM08xOW9CM29EX1Z0bUx3VXdkem13NWV3ZDFnOGZHTjA3YTZyOGlyRnBjZWZmVnlSNS01YU1SYWxCOXN5amRtUXM2d1JHaGctN1U0TVFkbFlIZDg5bDAzRmRjcGZabWFieVJhczdWVWh5TFI2QWNSc29CNEV6UDhDd3NhZllndjZ4a2k5MEd3TUdVZXZvTXNZa1lhZ2lwVWtEN3c?oc=5",
+      "published_at": "2026-10-26T15:25:18+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "Gate proposed for alleyway used by drug users",
+      "publisher": "BBC",
+      "publisher_url": "https://www.bbc.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9wYWpNNndZaG1RSVAtdGNvalhZMmozQy14Q3gwZE9IYTBHSHB4aFZDZ1lPR1B6VWF2U2ttdGVRVXkxRjVGNUl2RkFTc0s5UkVHZ1pRT0xoc0NIWk5NOEE?oc=5",
+      "published_at": "2026-10-26T14:22:56+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "Gate proposed for Peterborough alleyway used by drug users",
+      "publisher": "BBC",
+      "publisher_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBsLUE1UUE4bUQ0MVFwN3lzbjJwWGdPeXVqVnpaTTB3ZU14aDZybGMwYU9xcU5Uai1IalBpQVV2dmsySlJqNERTMmVrN2djU1dDd25GYWZ3aG9adUk?oc=5",
+      "published_at": "2026-10-26T14:22:56+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
     {
       "title": "Bayer gets first approval for stroke drug asundexian",
       "publisher": "pharmaphorum",
@@ -51,6 +155,18 @@
       "published_at": "2026-10-26T14:17:09+00:00",
       "regions": [
         "europa"
+      ]
+    },
+    {
+      "title": "Mankind Pharma's quarterly profit jumps 39% on strong chronic drug demand",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPejdweXE4eUdQU3M0ekM0NS00b3RseFVXMGJWU0ZMQ0FsVFVORXp6SEo1OUR3VFFaaWVidzlHZUtCTU9Rd3BqYVcyTjFha0Q3NG95T2JScmtSdmpIaU9wcWpTWGlOblF1cm9hbW91amdYU29OQWRBOUtPUnJaRlcwSXRlWlQ1Q2Q2TERUSzFtQ2NuSS1GS1cyMlRjUVJDODVwZGVuelNUa3pnTlNUSXFNd0FOMjQ4WGx4N2ZYb0gwY29Qd0xocWhyYWpUMG5sUWh1Z2JqV0I5WQ?oc=5",
+      "published_at": "2026-10-26T13:59:59+00:00",
+      "regions": [
+        "europa",
+        "global",
+        "usa"
       ]
     },
     {
@@ -67,22 +183,12 @@
     {
       "title": "Essex Police confiscate £1m from jailed drug dealers",
       "publisher": "BBC",
-      "publisher_url": "https://www.bbc.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8ycGg1Ung2dW42ZzhTQm1WS0hDb24tS3RGdjcxOWFXVm93cW9VenJ4cHR3SjRiQmdCaFpZZVZyQmFrVllKWnAyYzhKY0RwSDQxM0YzeEZkN3hYenJRVmc?oc=5",
+      "publisher_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB2ODJQMjZ1WHBaUXNjY2NzVlVWbUYtNlNZYm1XczRQOENDZjBCR3Q0UkZRcGF5V3poZGVHUHNwclQyQ2NOWU9hTUk2c3czenYtSTMzWGRzLXozYUE?oc=5",
       "published_at": "2026-10-26T13:42:50+00:00",
       "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "Five biotech updates to read after ESMO this weekend",
-      "publisher": "STAT",
-      "publisher_url": "https://www.statnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYktCMGZDS3hXUmdpT3FmUC1iZTNVUFRjcFFzQjJzLUxNb0hNd3RNLW1uOFdMSEozbGQ5Q2ZjcXo5TGJCZHAyZUZSTHJhN3FfaEJTYjBBY0x1Z045UXdmRE1QQWhwQTFJcFViVUZCenVSaXBpcm5paEFra2ZhQ09wR08td080c0Mwc0w0aWREZ2I4eUg2dkZ5dmlWR25OS204V3c?oc=5",
-      "published_at": "2026-10-26T13:39:20+00:00",
-      "regions": [
-        "global",
-        "usa"
+        "europa",
+        "global"
       ]
     },
     {
@@ -108,20 +214,21 @@
       ]
     },
     {
+      "title": "Drug-dealing Thierry Nevers made over £170K, court hears",
+      "publisher": "BBC",
+      "publisher_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ySjhGZ1lSR0FBYzJBRzZyaHloU1EzUzAwMzFlQ2FRd2RMMDBqTUJBU1BfV3J1Sjk0YVhwN2NoUkMxMkt3X0Jlel9wbm9tY2FhRkVsYkR1OW9PdjQ?oc=5",
+      "published_at": "2026-10-26T12:32:41+00:00",
+      "regions": [
+        "europa",
+        "global"
+      ]
+    },
+    {
       "title": "Drug-dealing footballer made over £170K, court told",
       "publisher": "BBC",
       "publisher_url": "https://www.bbc.co.uk",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzekhfcjlleE1fWXFZTUFXTVdPVE93MXNyY2F1U3NENDRmakh1djN3N2V4UGc3X2hDRzVldGs1OGEwMzRXNDVMUk9LNXNQV0RNVmYtcjFmTHFRLWNVS0E?oc=5",
-      "published_at": "2026-10-26T12:32:41+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "Drug-dealing Thierry Nevers made over £170K, court hears",
-      "publisher": "BBC",
-      "publisher_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOanJ5VENfQ1dBUGM0c3dqVC1FeW15UXBPQ2loTzYwSE54Y2xJajBxNGNpLXNJMEViYTIzNlhyNXhpNVdnNDFQcEpZM3dHOUdEUGgxY0ROTjFCWmc1aEQtM181enJ3alpadzk4ZlI1Q3RrMXR4UG9WcDBVajV2MTh2bVVhdG1JcDJvZTMyTlFPaTVvYURva1FENTVWb0ZCMjA4WExkbFFWY3FtYk1NcVQ2U2R0Ym0wWW1EalFuYVhESDBJelNwZk9ZUWZmd2JodVlYRU84eTR5QWdSQ1Q5bEtRTDJMNA?oc=5",
       "published_at": "2026-10-26T12:32:41+00:00",
       "regions": [
         "europa"
@@ -152,7 +259,7 @@
       "publisher": "WSJ",
       "publisher_url": "https://www.wsj.com",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPX2s0YjdMWkNWM0xRdXlDcm1OVURVLUFId1pic1ZpbU9vTzdxRUlncHZCdjhxLTRzajliTXQwRXdtMDY4b1BzZmVBSGdWSl9rdU1wUlhaaHR2MnExNS1maXZHeWFUOVRWMVFHM1hIcEQ0UlZYV2ZxbGxMRmtVNlZsbWRIWlp5bm5KTWVfWGllVG9OY3ZxY09CMFBxb3h3WTNqYkxSa0gyXy1SZHhGTF83TWJYTVNRZw?oc=5",
-      "published_at": "2026-10-26T11:47:40+00:00",
+      "published_at": "2026-10-26T11:52:00+00:00",
       "regions": [
         "global",
         "usa"
@@ -179,41 +286,11 @@
       ]
     },
     {
-      "title": "Obesity drug developer Corxel to go public in US via SPAC deal",
-      "publisher": "Reuters",
-      "publisher_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONW5kN1dIQjhzMnkxTkdZQWdYYXVoeXpWOGZVblZXdW1vTGJta25OeGVVMUoxYm51enFneHo0VkpKeE1aOEczNUNYVmpGVVdkajh5SkFYRWtWRWZHLUdwSS1OTzZkOWFNeDVpTkc4RXVxc3NmWkI5bzdTVU1YYk9XVGFYUXZTYkctOW9id29lMXFmemVpNjBuekxkUVdEVlVpMkRQVWVPekt0SEFveEhtNVh3?oc=5",
-      "published_at": "2026-10-26T10:55:05+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "Jilin Jian Yisheng Pharmaceutical Co Ltd (002566.SZ) | Stock Price & Latest News",
-      "publisher": "Reuters",
-      "publisher_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1wUmlwWUJYZkZ3d3hqNHRianpWNEhJeXE4TTFoVWRXTnpwdVh1ZGVHdVNreWMtYXplVWRiS0dqUWNMNk5NN1N5V1g1emw1cWRVSEpiMndDQVhJNHZoX05PS3lCSmoxTXFWX2lpNWZzWQ?oc=5",
-      "published_at": "2026-10-26T10:50:31+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
       "title": "31st Edition Strategic Project & Portfolio Management for Pharma",
       "publisher": "pharmaphorum",
       "publisher_url": "https://pharmaphorum.com",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTncyQ0lsRnRhcmhhVGdreDE1VTQybGw0dnladFJpUnhpS2xaMHEteS01bC1FX0pOU0MxZWdyVFlhOVF2MXkwTjUzY3BXWFVMMm9PNWJBZ3RUbzFVT09kR3FLblpfSEZ3MEphMEcyNTNjM1pZNTNyZUVQV1NiTFBFNkxlTEkydXdoY05fdERBb0ktVlFVQ1pYZXlIbUYxcWUz?oc=5",
       "published_at": "2026-10-26T10:18:16+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "Mankind Pharma's quarterly profit jumps 39% on strong chronic drug demand",
-      "publisher": "Reuters",
-      "publisher_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPejdweXE4eUdQU3M0ekM0NS00b3RseFVXMGJWU0ZMQ0FsVFVORXp6SEo1OUR3VFFaaWVidzlHZUtCTU9Rd3BqYVcyTjFha0Q3NG95T2JScmtSdmpIaU9wcWpTWGlOblF1cm9hbW91amdYU29OQWRBOUtPUnJaRlcwSXRlWlQ1Q2Q2TERUSzFtQ2NuSS1GS1cyMlRjUVJDODVwZGVuelNUa3pnTlNUSXFNd0FOMjQ4WGx4N2ZYb0gwY29Qd0xocWhyYWpUMG5sUWh1Z2JqV0I5WQ?oc=5",
-      "published_at": "2026-10-26T10:09:43+00:00",
       "regions": [
         "europa"
       ]
@@ -305,7 +382,7 @@
       "title": "Usuarios afirman en las Farmacias del Pueblo faltan medicinas básicas",
       "publisher": "Listín Diario",
       "publisher_url": "https://listindiario.com",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTDdGOFlaZzRiSGpCbXNjb1hOMkRfMG80MElPMVhiVHhMNGpGbVZnQVdIZmNxOXl6bkxuWHFsVjRkWlVwTlExTHhBWGVBaHJ0NlhaOUdEVi10SkU0bDlaZUJmVUpTRjlsdVprUlVwLThhRjFxcWZVSVFfc1NLY015WXFNLVBhWXFNV1lhLUhxQUo2NVh4TVd6aU9MZ3J4WUVaOTVIZXBZOWFvaDJzanNZYTN2azV1UUc4NEVDX3BoQzdadTI5V2FmcVJJMjc5UjTSAc8BQVVfeXFMTUw3RjhZWmc0YkhqQm1zY29YTjJEXzBvNDBJTzFYYlR4TDRqRm1WZ0FXSGZjcTl5em5MblhxbFY0ZFpVcE5RMUx4QVhlQWhydDZYWjlHRFYtdEpFNGw5WmVCZlVKU0Y5bHVaa1JVcC04YUYxcXFmVUlRX3NTS2NNeVlxTS1QYVlxTVdZYS1IcUFKNjVYeE1XemlPTGdyeFlFWjk1SGVwWTlhb2gyc2pzWWEzdms1dVFHODRFQ19waEM3WnUyOVdhZnFSSTI3OVI0?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOR1ZCZkhJZ0tIbUZPZERfV053N2x0a2FPX0p2NUFySzlVMUxwNFkyQXYtSXhDcDVJWkp4UEU5Tm5fRWdyZnJ4UW8xU1dhTFZpZmtHOW5sWlRGblpnWXJIX2ZJNTNLbGcxZEppdzBCSDRBWWRQd2haUUFsdDVzRXJLcXNqSWNES1lDc19abHk0NENZSUEwVFpVbWVYNjFrUWZ1X3hqZ2dpQ3c5aVB0MEtfVTlaaW1jQlZyWDJablRUQWoxNHlzZ1FOeWFR0gHPAUFVX3lxTE1MN0Y4WVpnNGJIakJtc2NvWE4yRF8wbzQwSU8xWGJUeEw0akZtVmdBV0hmY3E5eXpuTG5YcWxWNGRaVXBOUTFMeEFYZUFocnQ2WFo5R0RWLXRKRTRsOVplQmZVSlNGOWx1WmtSVXAtOGFGMXFxZlVJUV9zU0tjTXlZcU0tUGFZcU1XWWEtSHFBSjY1WHhNV3ppT0xncnhZRVo5NUhlcFk5YW9oMnNqc1lhM3ZrNXVRRzg0RUNfcGhDN1p1MjlXYWZxUkkyNzlSNA?oc=5",
       "published_at": "2026-10-26T04:00:00+00:00",
       "regions": [
         "rd"

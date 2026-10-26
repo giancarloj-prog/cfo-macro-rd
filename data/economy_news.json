@@ -1,7 +1,7 @@
 {
   "date": "2026-10-26",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-26T14:32:11+00:00",
+  "checked_at": "2026-10-26T17:22:07+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -23,7 +23,7 @@
     "bcrd": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 2
     },
     "fiscal": {
       "ok": true,
@@ -33,7 +33,7 @@
     "dgii": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 2
     },
     "finance": {
       "ok": true,
@@ -48,7 +48,7 @@
     "economy": {
       "ok": true,
       "error": null,
-      "count": 4
+      "count": 5
     },
     "economist_andy": {
       "ok": true,
@@ -82,6 +82,23 @@
     }
   },
   "items": [
+    {
+      "title": "DGII reitera grandes contribuyentes locales y medianos deberán emitir facturas electrónicas desde noviembre",
+      "publisher": "El Nuevo Diario",
+      "publisher_url": "https://elnuevodiario.com.do",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUHJfNEt0eHZsUlZYWkFzS1RJcl9sYkVnTjRFci1vVDVuV3BFZEgzQ1JraFRzWW5mdXdQd0JIUThaazE4RmVWZXItbk1mREp6UGwyTzRXbllCLUNLVHdfVXNzR01nTTMtdjV0RmdVMXhHcnVqY3ZKMmVmSl9WVzRyQVBJLV82cmlDMk5mMV9jUmZVOTJNTDhncUtjU21LMG9Oby1leEIxNm9FbXpYRXdCQ0Y3ejlJSXhxTWJ4RHFCYkgzNV9MZExhMlVkaEdVZzJGMVdr?oc=5",
+      "published_at": "2026-10-26T17:02:42+00:00",
+      "topics": [
+        "dgii",
+        "economy"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "dgii",
+        "economy"
+      ]
+    },
     {
       "title": "¿Cuáles son las quejas más frecuentes de los usuarios de la banca?",
       "publisher": "Periódico elDinero",
@@ -164,11 +181,13 @@
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRXVJOUxVVktoYVVYV3kyOGRYQXVTU1lwZDM1YVoteFE3U0c3bW55RHpqMWhmSnNjRnlBQVNaTWNIMjVWTFBIUXBZclBQR2dyLTNqZWVjbTVjd2hrdVh3bFhFSXJna3NoVmtBaEdzWjd5VEVYakY1U0oyYmJxUURROVd6TUtBaGlSanhXdlNyQVNWWS1uLXZuZ1RkM3ltNlM0VUdlcTI4YUo4eUNJdFZhQlF0Q0VncldYcjJzUdIBwgFBVV95cUxPYnYyMFFDckxzdDJEUHFOWkp2dG5nVVlXTW9odEh1QzJpR2pmQjR4aWZiTjJ0MGRxVkFtUUtPVUx2OGdUbV9fbDFOUWNtZVAtdjVsM1IybEZwNFp3OC01Umstd2RTcmxrblY1dU1RaHBGN0VrWVRfbFF4Z3RHVFRUUDlKNUhmVUdGdENzQ3NpLXlQWWwxWVJqVzBqaGtyM0dtYWFYc1lhOGF1WmIyV2FuVmg0WHVPSnNERHJHVlhkaUp5Zw?oc=5",
       "published_at": "2026-10-26T04:02:00+00:00",
       "topics": [
+        "bcrd",
         "economy"
       ],
       "economists": [],
       "economist_match": null,
       "searches": [
+        "bcrd",
         "economy"
       ]
     },
@@ -176,7 +195,7 @@
       "title": "¿Empieza a despejarse el nubarrón cuasifiscal?",
       "publisher": "Hoy Digital",
       "publisher_url": "https://hoy.com.do",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOLUQtZjh6SFpZdzRrOU5jeVQ4QVo3NGNHamQ1bmM2UlQ3MENnRllEZzY5SnU0Z01jNDhxOWdWM0I4Tlh0MFJBV3JWcG92aURiOWNtWEZxSDVUeVlDVGtpa0xyUzFRcDZSanR1RE1NRms0WVptcFMwa3NzRTdTbmJ4Y2dUakpTMXfSAYwBQVVfeXFMTWlwOFNFdHA3eHB3SFBfeGVwbDBlSjRBNXhYSkIzT3g1OGhYQVZVRjRyZy12aVh1OFNBTkx6cE11ZG93TEpmcWJrb2txZ05zZUItVmZ5SXZUMU9jYTZVOXhxRktmS3hwQlhyWUNaN0h6MVlXZFo0dFIxcGNUUV9vMDdVbFNYNEJRck93anM?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaXA4U0V0cDd4cHdIUF94ZXBsMGVKNEE1eFhKQjNPeDU4aFhBVlVGNHJnLXZpWHU4U0FOTHpwTXVkb3dMSmZxYmtva3FnTnNlQi1WZnlJdlQxT2NhNlU5eHFGS2ZLeHBCWHJZQ1o3SHoxWVdkWjR0UjFwY1RRX28wN1VsU1g0QlFyT3dqc9IBjAFBVV95cUxNaXA4U0V0cDd4cHdIUF94ZXBsMGVKNEE1eFhKQjNPeDU4aFhBVlVGNHJnLXZpWHU4U0FOTHpwTXVkb3dMSmZxYmtva3FnTnNlQi1WZnlJdlQxT2NhNlU5eHFGS2ZLeHBCWHJZQ1o3SHoxWVdkWjR0UjFwY1RRX28wN1VsU1g0QlFyT3dqcw?oc=5",
       "published_at": "2026-10-26T04:00:00+00:00",
       "topics": [
         "bcrd",

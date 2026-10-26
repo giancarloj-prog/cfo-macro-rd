@@ -48,7 +48,8 @@
       "2026-05": 4.7,
       "2026-06": 6.4,
       "2026-07": 4.6,
-      "2026-08": 3.8
+      "2026-08": 3.8,
+      "2026-09": 5.6
     },
     "gross_reserves": {
       "2026-05": 15771.1,
@@ -220,7 +221,7 @@
     }
   },
   "note": "Base histórica V4 con BCRD y DGII. La automatización conserva estos puntos y agrega o actualiza nuevos períodos.",
-  "updated_utc": "2026-10-26T14:30:56+00:00",
+  "updated_utc": "2026-10-26T17:20:50+00:00",
   "fiscal": {
     "fiscal_income": {
       "2026-09-04": 892399.25,
