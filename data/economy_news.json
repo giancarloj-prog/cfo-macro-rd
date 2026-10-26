@@ -1,7 +1,7 @@
 {
   "date": "2026-10-26",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-26T17:40:25+00:00",
+  "checked_at": "2026-10-26T21:17:01+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -28,27 +28,27 @@
     "fiscal": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 3
     },
     "dgii": {
       "ok": true,
       "error": null,
-      "count": 2
+      "count": 5
     },
     "finance": {
       "ok": true,
       "error": null,
-      "count": 2
+      "count": 4
     },
     "securities": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 2
     },
     "economy": {
       "ok": true,
       "error": null,
-      "count": 5
+      "count": 7
     },
     "economist_andy": {
       "ok": true,
@@ -83,6 +83,120 @@
   },
   "items": [
     {
+      "title": "Ministro Santos destaca aporte de la minería a la economía tras crecer 17.9% en septiembre",
+      "publisher": "Periódico elDinero",
+      "publisher_url": "https://eldinero.com.do",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTW1lUDdIZHRuZ2EtWFBpOGhvNUQ3Z2lVSnA5bXl5LVVHZ05WTDVib3ZtQWpqc1lIcFpDTmVwU1V1T2FDcmY5cHJYM01aMU5WQTRZN2xTMDRFZDZKZHlRMDhiZjItOVY4UG1vUVQ2ZWdWbDVrTXpXTmhqZ0RBeU14YWM2N3NIdzZoWjhXUEhuLWJ0NS1sTlpfT0RKelN1SG1FNzd0NEdsVmhiQW5nY1A0NlpyU0s3YVp4Q2dZZ2x3?oc=5",
+      "published_at": "2026-10-26T20:47:43+00:00",
+      "topics": [
+        "economy"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "economy"
+      ]
+    },
+    {
+      "title": "Wall Street cierra en verde, con optimismo por la próxima salida a bolsa de Anthropic",
+      "publisher": "Acento",
+      "publisher_url": "https://acento.com.do",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVjM3ZTNyQUN6ME9BQjhKalQ1dmxPY196LUdfUDFFX3poYzRTU0poRGVTQ2F1a1B2MDVrVFZ1MlM5UUh6ak1ETmFrNzZZZC1PdkNRMC1YOUxwdFYydXdETmtCaFpSRzlaeHNIa1VtTzdENTlfUFJSekJ2UGhkT3JlVDVDZEF1UVFPOUx1ZEhLVUo0LW53dmtaNmQ5OG9uWUo3bTNJYmg2SGJXZzVIVUV1UXQxTkdOck9rQkpBSWRTUUo0NHZZWjFz0gHHAUFVX3lxTE9WMzdlM3JBQ3owT0FCOEpqVDV2bE9jX3otR19QMUVfemhjNFNTSmhEZVNDYXVrUHYwNWtUVnUyUzlRSHpqTUROYWs3NllkLU92Q1EwLVg5THB0VjJ1d0ROa0JoWlJHOVp4c0hrVW1PN0Q1OV9QUlJ6QnZQaGRPcmVUNUNkQXVRUU85THVkSEtVSjQtbnd2a1o2ZDk4b25ZSjdtM0liaDZIYldnNUhVRXVRdDFOR05yT2tCSkFJZFNRSjQ0dllaMXM?oc=5",
+      "published_at": "2026-10-26T20:05:13+00:00",
+      "topics": [
+        "finance"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "finance"
+      ]
+    },
+    {
+      "title": "El gasto tributario se estima en RD$458,629.9 millones, equivalente al 4.78% del PIB proyectado",
+      "publisher": "Periódico elDinero",
+      "publisher_url": "https://eldinero.com.do",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSnhDM2xBUnVIdmNEQ2ZOMTRBMTc2VnJwM2VPbmo4Vllmal9rRUVCOW1PQ01QWVpMX2NEV3JZQUFOSmlVTlVHXy0wUnZOeWh5X3ByTTJ3Q3c5T0lCUUtoUExqNXc0b0htc1VEbFFlaG92cU9WeGJGRXItVlRud3FUYmxWRmxyTVJrOE8xdXBMXzhEWkktcHZPMkQ3RjRoUXVXRlFDdFBSUFRVWWJ6NlQzbUc5U1F4RHRxWlkzYW9MUzg?oc=5",
+      "published_at": "2026-10-26T19:47:02+00:00",
+      "topics": [
+        "dgii",
+        "fiscal"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "dgii",
+        "fiscal"
+      ]
+    },
+    {
+      "title": "DGII reitera emisión facturas electrónicas de tipo “E” para Grandes Locales y Medianos contribuyentes desde noviembre",
+      "publisher": "El Nuevo Diario",
+      "publisher_url": "https://elnuevodiario.com.do",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNOVAwZTNmdUV3NklkX3VjTG5XZGFlWkFhdDNaNVBTVmFaWVZIMzJDRFJQZmRRRjQ0clU2dlZHeTBNTU9jWHd3RGNKeVk4ODBzNDN1cUlDdlNkWnp2UkRUMGxvRVBSb0kyRm9YZGFjWmFVNzVwcDBDWC1BeW8yeFhLOEZ2WndYTmZsam44ellzNUNxOEQwYkNKNzV1NVNsRWNBcXRtMXBhUlh3eHFrc2gyOHh6MjN5SGpmLU9oRVpHSERpYWhWeC01ZUYxZExFMGxHVHQ3SDBJbVJvMHFtU2c?oc=5",
+      "published_at": "2026-10-26T19:38:07+00:00",
+      "topics": [
+        "dgii"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "dgii"
+      ]
+    },
+    {
+      "title": "Siete claves vitales para sanear la economía familiar y personal, según especialista",
+      "publisher": "Hoy Digital",
+      "publisher_url": "https://hoy.com.do",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaTVSZEdGNUl4QjhfNS1ydWVYQWo3WTNTLTdIM3B0TjVBLWlqRXRMM3lTQnA1N2J3YXp4NU1kemowTU5BNXRhX3JRTjl4YWxvQmo2M3VHamxGMUt6UlVWVENVWXhPUEpvV0RZUmtYMjkxRnNQVnEzcjJyOHc0c1BjOWNoSHZkS0lPTmdoMHhaV3VEcTZja2JiUWJJX2dyZTdrOFMtVjNWZkxNNUJE0gGyAUFVX3lxTE4zN0pXTnVmUzduY196RHZEd2dGZUlMMzRvZWRGbXBjckVvYW5DS3V5bTljNlcyTVFpYzd2ODBRNTBtekxHSV9UdHhIUWR2bUc0anZPSmZXSXFEQlJObTVWYnVqTG1iNDZVSUszVkRrWG10Sm1TSVNORmxiZzkwbDZVM245WUwxdHdrS2FPa21xUk93NU5aemNibzZ5RDVJNnpxWGE0RHBudC16RTQ4RWpVQVE?oc=5",
+      "published_at": "2026-10-26T19:09:57+00:00",
+      "topics": [
+        "economy"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "economy"
+      ]
+    },
+    {
+      "title": "Estado dejará de percibir RD$ 458,629 millones por gastos tributarios en 2027",
+      "publisher": "Acento",
+      "publisher_url": "https://acento.com.do",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONm5iQlNtVEp6dDVpZEoxYVNfRnlSU3NLcGw1MURxV1RyeV96bktrTnNJaUpqNTE4R2Nsamh1TVFRQWE4T0RkelFjNTFMcDd0Q043Yjl1aWlRT3cwOGZYZmVTWmlGSTR3NHo0djAtQkxZVlVic2pEaVFpaUlERDNrZVV0VnZQQy1ERGd3TzE3eU1vakNlcExIMXBacEZzQXQ4cm1TcGRiRndRR19ZcmVIVzJvOVdlNGNDWV9B0gG7AUFVX3lxTE42bmJCU21USnp0NWlkSjFhU19GeVJTc0twbDUxRHFXVHJ5X3puS2tOc0lpSmo1MThHY2xqaHVNUVFBYThPRGR6UWM1MUxwN3RDTjdiOXVpaVFPdzA4ZlhmZVNaaUZJNHc0ejR2MC1CTFlWVWJzakRpUWlpSUREM2tlVXRWdlBDLUREZ3dPMTd5TW9qQ2VwTEgxcFpwRnNBdDhybVNwZGJGd1FHX1lyZUhXMm85V2U0Y0NZX0E?oc=5",
+      "published_at": "2026-10-26T18:00:21+00:00",
+      "topics": [
+        "dgii",
+        "economy",
+        "finance",
+        "fiscal",
+        "securities"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "economy",
+        "finance",
+        "fiscal",
+        "securities"
+      ]
+    },
+    {
+      "title": "DGII recauda RD$79,291.7 millones en septiembre de 2026, un 17.1% más interanual",
+      "publisher": "Periódico elDinero",
+      "publisher_url": "https://eldinero.com.do",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNl8zc2FVNVFiZEtmMWlwcThkRDlRNFh0em5RSkdtRmN5OV9xNlpMWjFhVmtoTWF3OW54NkZWUnFiZ29GN1dxLWRZTGR1dC12OEJTT2ZVSEp4UWxKenRVLVpKeXlRdm91U2o2d3JPdDByWWRqMVRQYVhoSHB5YTZ2XzA3TXpjWU9hcmMyZUpjWkM0X0tmR3M1Nk50V1c1M1p3Vlp4LWtGbEN1TmNF?oc=5",
+      "published_at": "2026-10-26T17:42:12+00:00",
+      "topics": [
+        "dgii"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "dgii"
+      ]
+    },
+    {
       "title": "DGII reitera contribuyentes de grandes locales y medianos deberán emitir facturas electrónicas desde noviembre",
       "publisher": "El Nuevo Diario",
       "publisher_url": "https://elnuevodiario.com.do",
@@ -114,6 +228,21 @@
       "searches": [
         "dgii",
         "economy"
+      ]
+    },
+    {
+      "title": "Olivares afirma que regulación de bancas busca proteger empleos de mujeres",
+      "publisher": "Acento",
+      "publisher_url": "https://acento.com.do",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVWVaYXZwdFVMVFBZOFNEQTlfeUs5Z2JoaEx3ZkpsSEpOWmxIcXVUcTdxZjczeHZqdEs1SzNfOFlMSVhyNWNzcG5vd0hyMjJVUG93Wm9Jd0lGWXdCbHg2amxtR2hudmFHbXk2S3YzdmZTNmRrRG5sUlpfN1lXWmpMd3ZjMzBfTjNoZ2NuQUhibXlyVzJJNjRSaWd6dW5RamdpNHljWVEzU29TY3NXMkFneTVPYU5oNkgtNkHSAboBQVVfeXFMTlVlWmF2cHRVTFRQWThTREE5X3lLOWdiaGhMd2ZKbEhKTlpsSHF1VHE3cWY3M3h2anRLNUszXzhZTElYcjVjc3Bub3dIcjIyVVBvd1pvSXdJRll3Qmx4NmpsbUdobnZhR215Nkt2M3ZmUzZka0RubFJaXzdZV1pqTHd2YzMwX04zaGdjbkFIYm15clcySTY0UmlnenVuUWpnaTR5Y1lRM1NvU2NzVzJBZ3k1T2FOaDZILTZB?oc=5",
+      "published_at": "2026-10-26T17:00:51+00:00",
+      "topics": [
+        "finance"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "finance"
       ]
     },
     {
@@ -151,7 +280,7 @@
       "publisher": "El Nuevo Diario",
       "publisher_url": "https://elnuevodiario.com.do",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOY29DcUdzc3c0VlJMYjlOVy1CV2JrdXBMbXhISTY0QjkxT0JBdEN3QWViT2V6TUxCTFVGNkpUSm12SDc0UTB1ZTROclkyMVNpUEtadXJZWEgtUDEwQ0lJeXFZNUlwU0dKbjhGbUJURWlMZURqV1VVRnZiSDhnODVULXZZM21kSld4SThHV1VqcE0zQTM0UmlKdDQwM0RxUm5uYTJ5T3RrSFotamxCVDdyQzRZLURaRlNVaWNxSW9SUUNwa2JFUUM5U2JaWUc2R19NWnh4Tg?oc=5",
-      "published_at": "2026-10-26T14:01:29+00:00",
+      "published_at": "2026-10-26T14:10:51+00:00",
       "topics": [
         "securities"
       ],
@@ -166,7 +295,7 @@
       "publisher": "Periódico elDinero",
       "publisher_url": "https://eldinero.com.do",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPczg3bEsxV2VkQTNKajgzOUhuWS1NTEJ2S3FiNVNEZjJLZlk4ekdiY1RpQnc5XzZFRzBvZVVfTGd5R2ZvZWk2VzNsS3dfN2tYeXNWODZTZGtmZGF5bXpMWHVqODROQW0xenpGbUprQllreXIzVzZVUV90UmpKS3NNb21jZzFwMC11RXhOX1NWaUpCeWU5ek9VYTlQdzRhTGRtZkFr?oc=5",
-      "published_at": "2026-10-26T12:46:37+00:00",
+      "published_at": "2026-10-26T13:00:13+00:00",
       "topics": [
         "dgii"
       ],
