@@ -1,7 +1,7 @@
 {
   "date": "2026-10-26",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-26T17:22:08+00:00",
+  "checked_at": "2026-10-26T17:40:26+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -39,10 +39,21 @@
     "global": {
       "ok": true,
       "error": null,
-      "count": 16
+      "count": 21
     }
   },
   "items": [
+    {
+      "title": "Incyte pancreatic cancer medicine induces lasting tumor responses, company says at ESMO",
+      "publisher": "STAT",
+      "publisher_url": "https://www.statnews.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONnY1aHA0UER3TlpIMkVTQnpLVHV1R2o5R3JVeUpHNDd6NEQ1WllaRV9pRXg4S2lpTlptaDhnZTJlNV9ST2lhZXI4cG44LTBjM3VSVUxoelVTUWxBUkUtNXBXY3pnZ3RwOERTVjhHbGo1bHBvcER0NC1ERzdpWnhialhpVGxITEVZa1VTM3ZR?oc=5",
+      "published_at": "2026-10-26T17:24:20+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
     {
       "title": "Five biotech updates to read after ESMO this weekend",
       "publisher": "STAT",
@@ -128,6 +139,16 @@
       ]
     },
     {
+      "title": "Next-Gen Drug Significantly Prevents Return of and Death From Endometrial Cancer – Company Announcement",
+      "publisher": "Financial Times",
+      "publisher_url": "https://markets.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVDVIRTVXU0VUbGtHOE1RV1R2bEpUSk51TGFGcXFTSFVCc3F1dTR2TUlyd1FMcjJpVm01c29XMWJRaEFpNDgxd3NVTHduRlUwS1VCbzdlWDBvcnZVNDFQM052X2d3aF9CUVdTSG9GejBYUm80aS1aTHVQdUhVR3NUbWk1bnItQ1VUaTB3cDgwU2J1NVQzSXMxNA?oc=5",
+      "published_at": "2026-10-26T14:43:00+00:00",
+      "regions": [
+        "global"
+      ]
+    },
+    {
       "title": "Gate proposed for alleyway used by drug users",
       "publisher": "BBC",
       "publisher_url": "https://www.bbc.co.uk",
@@ -170,17 +191,6 @@
       ]
     },
     {
-      "title": "Incyte pancreatic cancer medicine induces lasting tumor responses, company says at ESMO",
-      "publisher": "STAT",
-      "publisher_url": "https://www.statnews.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONnY1aHA0UER3TlpIMkVTQnpLVHV1R2o5R3JVeUpHNDd6NEQ1WllaRV9pRXg4S2lpTlptaDhnZTJlNV9ST2lhZXI4cG44LTBjM3VSVUxoelVTUWxBUkUtNXBXY3pnZ3RwOERTVjhHbGo1bHBvcER0NC1ERzdpWnhialhpVGxITEVZa1VTM3ZR?oc=5",
-      "published_at": "2026-10-26T13:58:59+00:00",
-      "regions": [
-        "global",
-        "usa"
-      ]
-    },
-    {
       "title": "Essex Police confiscate £1m from jailed drug dealers",
       "publisher": "BBC",
       "publisher_url": "https://www.bbc.com",
@@ -214,6 +224,26 @@
       ]
     },
     {
+      "title": "Insilico Medicine Reports 40% ORR at 130 mg for Pan-TEAD Inhibitor ISM6331 Designed Using Generative AI in Heavily Pretreated Mesothelioma at ESMO 2026 – Company Announcement - FT.com",
+      "publisher": "Financial Times",
+      "publisher_url": "https://markets.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZzF0QUFOb25VMllrSUpEV09QWnpkSkpURzMzMTBnWWVBTUJGYUFKTFNnRU1KNW05VUlOZjE5Q2FaR3ZRR1J5WXljY3B4WW9tdnYyUFhxN1ZnSTE4a1A1Vlg4LVMzaXM5bXJ6TU5RZUJFTktTRDI3c1g0eWc4NlF4MXlxUF9qOEV0UFZ4a1J3MjUwVXFoOEdZLQ?oc=5",
+      "published_at": "2026-10-26T13:00:00+00:00",
+      "regions": [
+        "global"
+      ]
+    },
+    {
+      "title": "The Biotech Growth Trust PLC - Net Asset Value(s) – Company Announcement",
+      "publisher": "Financial Times",
+      "publisher_url": "https://markets.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRTBSSXdST0prQTJHSW1hME5VakNubHNOaUhSX3I0Z1FUcFBrWFBIVWNLWjlObXhBZFJDLWN6cU45bnRfcklIN0dMZm5JR1AxNS0ycmZrdE5EYWE5YVJoMGUwMDh3MTNNTk96VGdEOTNnaDJJdWxuRHM1ZUxQeTN1Zlk1dEhLeW44cDVVelFyMkZRVzhn?oc=5",
+      "published_at": "2026-10-26T12:55:00+00:00",
+      "regions": [
+        "global"
+      ]
+    },
+    {
       "title": "Drug-dealing Thierry Nevers made over £170K, court hears",
       "publisher": "BBC",
       "publisher_url": "https://www.bbc.com",
@@ -235,6 +265,16 @@
       ]
     },
     {
+      "title": "Treasury to Limit Chinese Biotech Deals, But Still Allow Licensing",
+      "publisher": "WSJ",
+      "publisher_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNQmVBbjRDZEZvUkh6azF6aW91anIwWnFteHFSbHhReDB2bU5vYjcxVmRXV3lpd0JCdlJpWGFoRkpRc3NfeTk5eVhMRDR3QVpMbHNFN2NvcFg2anZCRm1HYkNmWVNFb3FPM0gzYmtwWWQzbVJXRk1pMGt3aXZxZ2JIR2xlRmk3MEdGdHlqQlN5MTlrQjdERWpyYUNVYmZYZncyZ1c2bk15VWFyanFZay1RS1pUdkJnUmRBaXVGblZORzNhNDZSNUZSWGJHTUpwWUNNZ3RDR21LUk5rQlJoTlpfYWwzcFdIcm5kTmtGNlRlQjJUX3hTaUxBdQ?oc=5",
+      "published_at": "2026-10-26T12:22:17+00:00",
+      "regions": [
+        "global"
+      ]
+    },
+    {
       "title": "Carnet digital: Así puede consultar qué vacunas tienen y cuáles les faltan a sus hijos",
       "publisher": "www.laprensa.hn",
       "publisher_url": "https://www.laprensa.hn",
@@ -252,6 +292,16 @@
       "published_at": "2026-10-26T12:01:54+00:00",
       "regions": [
         "europa"
+      ]
+    },
+    {
+      "title": "Walmart Expands Better Care Services, Powered by General Medicine's Healthcare Store – Company Announcement",
+      "publisher": "Financial Times",
+      "publisher_url": "https://markets.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQT0ZxY0g2a0xsOG5HZ0xSamZrNEdGbWNYWFM3S2FLaGFNRWEwbHp0WkpiNmJVbHNSR3kwa1FnOVp1LXRtWF91TnNOT1oxS1NhT2IzcE11d3NHenljU2NEZ1FiVlZFNWpnVEVfa0gtOExaVEVjTWxMYmpEbFloLVVfbF9idndMaWpvQ2pPNkxTYVpLaHdmRkF5c2JxNVRCT2NvanV2LTZ3?oc=5",
+      "published_at": "2026-10-26T12:00:00+00:00",
+      "regions": [
+        "global"
       ]
     },
     {

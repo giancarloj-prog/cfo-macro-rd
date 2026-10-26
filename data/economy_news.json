@@ -1,7 +1,7 @@
 {
   "date": "2026-10-26",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-26T17:22:07+00:00",
+  "checked_at": "2026-10-26T17:40:25+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -38,7 +38,7 @@
     "finance": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 2
     },
     "securities": {
       "ok": true,
@@ -83,6 +83,23 @@
   },
   "items": [
     {
+      "title": "DGII reitera contribuyentes de grandes locales y medianos deberán emitir facturas electrónicas desde noviembre",
+      "publisher": "El Nuevo Diario",
+      "publisher_url": "https://elnuevodiario.com.do",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNT2RES2VZcGg0XzRSMktFV1ZkSkFVTXo3eEhydzhZVnpTcmFYTmM5LXVYT0RMQ1dzRHgtUk00M2ZPUnlnYjZ6VHFQb0NxUjdyeTFMYjlLZXZwb19qQS1YTzhJQnFsdmJab3Z4SC1UY2JIMVA1bWlucmxyZ1pLUlg1VE9fOU96RDRDQk9CR2hGVHhkYnVhdWtiNU15cTEyc1A3VnpMNnNiWnVmZi02ZkZzcFZhNXlCQlAxTmM0c0hqV1N4azExSG40YWVKNEJpVzVyN2ZaeGpjVQ?oc=5",
+      "published_at": "2026-10-26T17:27:49+00:00",
+      "topics": [
+        "dgii",
+        "economy"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "dgii",
+        "economy"
+      ]
+    },
+    {
       "title": "DGII reitera grandes contribuyentes locales y medianos deberán emitir facturas electrónicas desde noviembre",
       "publisher": "El Nuevo Diario",
       "publisher_url": "https://elnuevodiario.com.do",
@@ -97,6 +114,21 @@
       "searches": [
         "dgii",
         "economy"
+      ]
+    },
+    {
+      "title": "Banreservas es reconocido como el Banco Más Seguro de República Dominicana en 2026",
+      "publisher": "Diario Libre",
+      "publisher_url": "https://www.diariolibre.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWEpYZXk4QkhPSFRPT05mblBUMjc4SEJsZnoyT2xGck5CUjV6Y0FRalNLaWhWQ1IwMUFpakV0a1dLVFJFd0plNnliSEtVaWpBNVI4T2x5SlpYZm43dkRWVlVMd0NTRVpmM0sxN1lHR0xPSnpUZHBXNmNNSGFBRzE1RUdNS0Nwb1poOVpfWWxHTURDS0todEZEV1JNcHFuXzNnRGdRcEtLS0hmTXBqVUJQVWtzTjFzSmZyT0gyUNIBwgFBVV95cUxOa1o3WUhkTk94aExwd0Eza2NXblY3Q280MnQyWmxOQ3hNcVNPakR2V0Q5Q1F3T3A3aThyelNEU0xjSHREVTNTdHBadS11MGhVcE1WUFk1MEpvNW5Nd2V3ZllRbVo0MnlFV0pTUGJJaTBzSFFFVFJOREdLSGl1OWx1ZDd4Xy1FOVR6MndxUnRmcW1aTkV2OVF0VUZqTTgwR2JPdDdJMFAtRE9odTIyTExkUmVSc3Jxd2o3Y1dTNkNMV25oQQ?oc=5",
+      "published_at": "2026-10-26T16:30:00+00:00",
+      "topics": [
+        "finance"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "finance"
       ]
     },
     {
