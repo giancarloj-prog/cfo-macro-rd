@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-25",
+  "date": "2026-10-26",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-26T00:34:52+00:00",
+  "checked_at": "2026-10-26T14:32:11+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -28,27 +28,27 @@
     "fiscal": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 1
     },
     "dgii": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 1
     },
     "finance": {
       "ok": true,
       "error": null,
-      "count": 2
+      "count": 1
     },
     "securities": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 1
     },
     "economy": {
       "ok": true,
       "error": null,
-      "count": 3
+      "count": 4
     },
     "economist_andy": {
       "ok": true,
@@ -83,11 +83,71 @@
   },
   "items": [
     {
-      "title": "Los puertos en la Meta RD 2036: protagonistas del desarrollo económico dominicano.",
+      "title": "¿Cuáles son las quejas más frecuentes de los usuarios de la banca?",
+      "publisher": "Periódico elDinero",
+      "publisher_url": "https://eldinero.com.do",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQX20xdFVKem9LOWtpclJtSi14R1ZHcFNXZm1NOExsdlFmSnZaZlBDRERrU3pjOGNRNjdTOE55dUpGXzRpVndscDJWWFBSZTg4bWxMN1VWQ3RLS3ZXa3JTVjhnWk03c2ZFVHlFejZTZ2txTDVta0dzS3Nnd0N0Q0VWYzhsTkxaOTNXYjQzbV8wUk8yaU9jOEI1ZlZob3A?oc=5",
+      "published_at": "2026-10-26T14:21:25+00:00",
+      "topics": [
+        "finance"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "finance"
+      ]
+    },
+    {
+      "title": "Picnic Financiero impacta a 50 participantes con educación financiera en el marco del Día Mundial del Ahorro",
+      "publisher": "El Nuevo Diario",
+      "publisher_url": "https://elnuevodiario.com.do",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOY29DcUdzc3c0VlJMYjlOVy1CV2JrdXBMbXhISTY0QjkxT0JBdEN3QWViT2V6TUxCTFVGNkpUSm12SDc0UTB1ZTROclkyMVNpUEtadXJZWEgtUDEwQ0lJeXFZNUlwU0dKbjhGbUJURWlMZURqV1VVRnZiSDhnODVULXZZM21kSld4SThHV1VqcE0zQTM0UmlKdDQwM0RxUm5uYTJ5T3RrSFotamxCVDdyQzRZLURaRlNVaWNxSW9SUUNwa2JFUUM5U2JaWUc2R19NWnh4Tg?oc=5",
+      "published_at": "2026-10-26T14:01:29+00:00",
+      "topics": [
+        "securities"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "securities"
+      ]
+    },
+    {
+      "title": "La minería aportó RD$26,773.5 millones en impuestos en enero-septiembre",
+      "publisher": "Periódico elDinero",
+      "publisher_url": "https://eldinero.com.do",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPczg3bEsxV2VkQTNKajgzOUhuWS1NTEJ2S3FiNVNEZjJLZlk4ekdiY1RpQnc5XzZFRzBvZVVfTGd5R2ZvZWk2VzNsS3dfN2tYeXNWODZTZGtmZGF5bXpMWHVqODROQW0xenpGbUprQllreXIzVzZVUV90UmpKS3NNb21jZzFwMC11RXhOX1NWaUpCeWU5ek9VYTlQdzRhTGRtZkFr?oc=5",
+      "published_at": "2026-10-26T12:46:37+00:00",
+      "topics": [
+        "dgii"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "dgii"
+      ]
+    },
+    {
+      "title": "Estancamiento secular de la economía mundial y las políticas para el crecimiento",
+      "publisher": "El Dia.com.do",
+      "publisher_url": "https://eldia.com.do",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSFNoQnJZYjM3Mlc2UWpIUjAtSEtzV2xDNlNlbVdqSkh0ekdMXzJVZGVEMjNXYmdld1Utc1RHeDQ3aUVnV0J1TWxDU0FELXBoNnhiYWx6LW5LZ2hBQnpuMGhRX2N2YzB2ZDFEQ2ZZQkt0WnZ0ZG82NXJ2bWVCa3BnMnNuck9QWVV4am5qd0dEandWRmxtVGxTODA3S3lJazRoT29rNw?oc=5",
+      "published_at": "2026-10-26T11:00:00+00:00",
+      "topics": [
+        "economy"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "economy"
+      ]
+    },
+    {
+      "title": "Resiliencia de la economía supera choques petroleros",
       "publisher": "Hoy Digital",
       "publisher_url": "https://hoy.com.do",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTHZvWjhqTUpqOXphR3lQNnVkNXo3RnZMekZDU0E2NlpaUjU1MTZPZFlIRmtVMHVKNVNzczRfa0VadmtGRFl0TmlQSnUzS21sWmQ1eDBDWk1BQUpuRGx1ZlZIY0FRR0N4S1dqOWxmYXlwMWRtZFBGVWdFVVVieVRCN3V1b2dPSzd1QVVwWEJKN1JCMm1vbGFaRmtXM1BwbE4tVjB5d3VFa25CZ9IBrwFBVV95cUxOSW8wcHRUUmlyYXVqV3NqSjF4ZVRsR2F6cFNITGFpcFJlUlVnQ0hJMmFnVUlGbGg3TTBBLUJqYUhDZWVmQU1iRjFJSG9BeGEzVWdfdzFGXzBCb0dZaXl0U0M0WE9KWHk5My1yOEFnNXhieGQ4RndKblk3QjhBRGNLZTdBazVaY3FlcUhfUkNQeEFqMWVyWkg3RzhlUHVKNTNjclJYdGljQ1JrOXgyWlZV?oc=5",
-      "published_at": "2026-10-25T21:44:28+00:00",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTmduM2RfcVIyMFYwNlR5X3o3MXViUldiYTJjcWxldjZoS2hWOUdrSl8zNE1zU0JqZkNMQWFYMGNWYlJUaFJGUlpJUkdUTk55XzBmcWxwZFNfajJ0Z09UQnRFNzRnTEhTNFU2SFowV3RLZ0lnY2JCdXNfS2VWVTVnZUdKd3RtcFJ2bnRjNXJGNNIBlAFBVV95cUxNOW5vV1IwclNEM2pMVkxCWFZqNG5ZS0sxd3BQQU9uWjBCVFIzLUhWTFJTdmVmUlVlZElYMXpSemtxZHU3Z1F4NXRDMTFGZGtDOUx2VkdPQVFsckFoazZVM2lteUZsYkFVeG1PQXU4cUlCMUFJMmRsT3R1bTVZRUJhdkZ5N3ZGc0ZzUUlDSzZCVFlhTjZQ?oc=5",
+      "published_at": "2026-10-26T04:05:00+00:00",
       "topics": [
         "economy"
       ],
@@ -98,11 +158,11 @@
       ]
     },
     {
-      "title": "El futuro del empleo, las empresas y la educación frente a la IA",
-      "publisher": "El Caribe",
-      "publisher_url": "https://www.elcaribe.com.do",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQ19zN01QSzgxM3JTYjFvczVUaXNzQ2VSQW1GdmhnM2x4VDdzd05pQnJDc3B1X3czLXdkbjdWckc1QjI4QzRKbVJSQXRZUWFoVmlJbVE0ak4tVVFabHI3bWtlTFI4YVktdzJKVzA5WmpkbGYyVFdUT3pLMHNPd0VFNlZQZXJlbURHRUxuNU9iYXBmYzNaeVR0UjEyVmRFM25PX2hWQzc1ZHFiZw?oc=5",
-      "published_at": "2026-10-25T21:32:30+00:00",
+      "title": "Varios organismos mejoran las proyecciones económicas del país",
+      "publisher": "Diario Libre",
+      "publisher_url": "https://www.diariolibre.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRXVJOUxVVktoYVVYV3kyOGRYQXVTU1lwZDM1YVoteFE3U0c3bW55RHpqMWhmSnNjRnlBQVNaTWNIMjVWTFBIUXBZclBQR2dyLTNqZWVjbTVjd2hrdVh3bFhFSXJna3NoVmtBaEdzWjd5VEVYakY1U0oyYmJxUURROVd6TUtBaGlSanhXdlNyQVNWWS1uLXZuZ1RkM3ltNlM0VUdlcTI4YUo4eUNJdFZhQlF0Q0VncldYcjJzUdIBwgFBVV95cUxPYnYyMFFDckxzdDJEUHFOWkp2dG5nVVlXTW9odEh1QzJpR2pmQjR4aWZiTjJ0MGRxVkFtUUtPVUx2OGdUbV9fbDFOUWNtZVAtdjVsM1IybEZwNFp3OC01Umstd2RTcmxrblY1dU1RaHBGN0VrWVRfbFF4Z3RHVFRUUDlKNUhmVUdGdENzQ3NpLXlQWWwxWVJqVzBqaGtyM0dtYWFYc1lhOGF1WmIyV2FuVmg0WHVPSnNERHJHVlhkaUp5Zw?oc=5",
+      "published_at": "2026-10-26T04:02:00+00:00",
       "topics": [
         "economy"
       ],
@@ -113,51 +173,22 @@
       ]
     },
     {
-      "title": "Agricultura y FAO acuerdan inversión de US$480,000 para modernizar el sector agropecuario",
-      "publisher": "Acento",
-      "publisher_url": "https://acento.com.do",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdng4aWVWVVFCeFdkc242UC10TEdwbjNySnVqVFlaWXNtMkU3Vm1OZ3JmLVZuMVVrZ0FJV0l2YW9vcFF5Z3pDcXI5OUNNd2lsN1lkYVB6a2F0cEJlVWQ5VFhKajhCZjZJMXZOLWNtaUE4YkxLYllwNTRMbWt4bkd5N0pZQ0VnRTRyUXFFT0ZtY1hFcW14M1BnbW5IYnNhcHVIUmFDU1ZxQkRwLV91SUtIOE5KU2xJMjVyTHEtTU9uODFKekI4eGlndXlHVdIBywFBVV95cUxOdng4aWVWVVFCeFdkc242UC10TEdwbjNySnVqVFlaWXNtMkU3Vm1OZ3JmLVZuMVVrZ0FJV0l2YW9vcFF5Z3pDcXI5OUNNd2lsN1lkYVB6a2F0cEJlVWQ5VFhKajhCZjZJMXZOLWNtaUE4YkxLYllwNTRMbWt4bkd5N0pZQ0VnRTRyUXFFT0ZtY1hFcW14M1BnbW5IYnNhcHVIUmFDU1ZxQkRwLV91SUtIOE5KU2xJMjVyTHEtTU9uODFKekI4eGlndXlHVQ?oc=5",
-      "published_at": "2026-10-25T17:00:18+00:00",
-      "topics": [
-        "finance"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "finance"
-      ]
-    },
-    {
-      "title": "Banco Popular presentará oportunidades turísticas y de inversión dominicanas en Londres",
-      "publisher": "Acento",
-      "publisher_url": "https://acento.com.do",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPa25CQlcxcFBpdEVLeDdqdi1YTFByZVEwVDY2T1hVd1ZvUE80VHVzUnlmanZjTjBLdV9QaDFpSC1iLWoxd3lERE1zYVVEMlpUQXFsbVlBVkRseW1IN0g4TzJ2eG45enNySVpZd0xIUVNNaW9ScURpeFktR1I3V1N1SWFLeG00MG8zMFJpazVQZW01QjA2WUF3QVZjUkROb29uMFl2V3VkaUxwdDFZODAyMkhyc0hicjJGX0xhN3NwQ3VZUTB4emc2RVRIRGx2QmROSVo4TzVoWdIB1wFBVV95cUxPa25CQlcxcFBpdEVLeDdqdi1YTFByZVEwVDY2T1hVd1ZvUE80VHVzUnlmanZjTjBLdV9QaDFpSC1iLWoxd3lERE1zYVVEMlpUQXFsbVlBVkRseW1IN0g4TzJ2eG45enNySVpZd0xIUVNNaW9ScURpeFktR1I3V1N1SWFLeG00MG8zMFJpazVQZW01QjA2WUF3QVZjUkROb29uMFl2V3VkaUxwdDFZODAyMkhyc0hicjJGX0xhN3NwQ3VZUTB4emc2RVRIRGx2QmROSVo4TzVoWQ?oc=5",
-      "published_at": "2026-10-25T16:30:18+00:00",
-      "topics": [
-        "economy",
-        "finance"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "economy",
-        "finance"
-      ]
-    },
-    {
-      "title": "El BanCentral: 79 años impulsando la resiliencia económica",
-      "publisher": "Listín Diario",
-      "publisher_url": "https://listindiario.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVHQzNEJidFlUM093Rl8tWEdGYWJwUHBNaWtKcHFzd09nLTVxNnloTDZKZjg4Rkg1cVNwU1lVdXZYQ3Z6cC1teEhpYi0xMG45Tl94TG5qQmkxVVpyVlFBQlpiZFNwM1ZUWDkwa2w0d0N4U21VMmpIRk4zYzE1ZTczTmllZG5rLVE1TWlfQVBubkVJNE5ZNzhicEpkVUxqVWc5T3ZqZEJic2V1TGVwV2EzNE5jQQ?oc=5",
-      "published_at": "2026-10-25T04:00:00+00:00",
+      "title": "¿Empieza a despejarse el nubarrón cuasifiscal?",
+      "publisher": "Hoy Digital",
+      "publisher_url": "https://hoy.com.do",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOLUQtZjh6SFpZdzRrOU5jeVQ4QVo3NGNHamQ1bmM2UlQ3MENnRllEZzY5SnU0Z01jNDhxOWdWM0I4Tlh0MFJBV3JWcG92aURiOWNtWEZxSDVUeVlDVGtpa0xyUzFRcDZSanR1RE1NRms0WVptcFMwa3NzRTdTbmJ4Y2dUakpTMXfSAYwBQVVfeXFMTWlwOFNFdHA3eHB3SFBfeGVwbDBlSjRBNXhYSkIzT3g1OGhYQVZVRjRyZy12aVh1OFNBTkx6cE11ZG93TEpmcWJrb2txZ05zZUItVmZ5SXZUMU9jYTZVOXhxRktmS3hwQlhyWUNaN0h6MVlXZFo0dFIxcGNUUV9vMDdVbFNYNEJRck93anM?oc=5",
+      "published_at": "2026-10-26T04:00:00+00:00",
       "topics": [
         "bcrd",
-        "finance"
+        "economy",
+        "fiscal"
       ],
       "economists": [],
       "economist_match": null,
       "searches": [
-        "bcrd"
+        "bcrd",
+        "economy",
+        "fiscal"
       ]
     }
   ],
