@@ -1,7 +1,7 @@
 {
   "date": "2026-10-25",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-25T23:43:13+00:00",
+  "checked_at": "2026-10-26T00:34:52+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -48,7 +48,7 @@
     "economy": {
       "ok": true,
       "error": null,
-      "count": 2
+      "count": 3
     },
     "economist_andy": {
       "ok": true,
@@ -88,6 +88,21 @@
       "publisher_url": "https://hoy.com.do",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTHZvWjhqTUpqOXphR3lQNnVkNXo3RnZMekZDU0E2NlpaUjU1MTZPZFlIRmtVMHVKNVNzczRfa0VadmtGRFl0TmlQSnUzS21sWmQ1eDBDWk1BQUpuRGx1ZlZIY0FRR0N4S1dqOWxmYXlwMWRtZFBGVWdFVVVieVRCN3V1b2dPSzd1QVVwWEJKN1JCMm1vbGFaRmtXM1BwbE4tVjB5d3VFa25CZ9IBrwFBVV95cUxOSW8wcHRUUmlyYXVqV3NqSjF4ZVRsR2F6cFNITGFpcFJlUlVnQ0hJMmFnVUlGbGg3TTBBLUJqYUhDZWVmQU1iRjFJSG9BeGEzVWdfdzFGXzBCb0dZaXl0U0M0WE9KWHk5My1yOEFnNXhieGQ4RndKblk3QjhBRGNLZTdBazVaY3FlcUhfUkNQeEFqMWVyWkg3RzhlUHVKNTNjclJYdGljQ1JrOXgyWlZV?oc=5",
       "published_at": "2026-10-25T21:44:28+00:00",
+      "topics": [
+        "economy"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "economy"
+      ]
+    },
+    {
+      "title": "El futuro del empleo, las empresas y la educación frente a la IA",
+      "publisher": "El Caribe",
+      "publisher_url": "https://www.elcaribe.com.do",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQ19zN01QSzgxM3JTYjFvczVUaXNzQ2VSQW1GdmhnM2x4VDdzd05pQnJDc3B1X3czLXdkbjdWckc1QjI4QzRKbVJSQXRZUWFoVmlJbVE0ak4tVVFabHI3bWtlTFI4YVktdzJKVzA5WmpkbGYyVFdUT3pLMHNPd0VFNlZQZXJlbURHRUxuNU9iYXBmYzNaeVR0UjEyVmRFM25PX2hWQzc1ZHFiZw?oc=5",
+      "published_at": "2026-10-25T21:32:30+00:00",
       "topics": [
         "economy"
       ],
