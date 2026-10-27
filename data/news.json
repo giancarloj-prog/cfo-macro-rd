@@ -1,7 +1,7 @@
 {
   "date": "2026-10-26",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-27T01:02:40+00:00",
+  "checked_at": "2026-10-27T01:35:55+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -29,17 +29,17 @@
     "usa": {
       "ok": true,
       "error": null,
-      "count": 19
+      "count": 20
     },
     "europa": {
       "ok": true,
       "error": null,
-      "count": 26
+      "count": 27
     },
     "global": {
       "ok": true,
       "error": null,
-      "count": 22
+      "count": 23
     }
   },
   "items": [
@@ -263,6 +263,18 @@
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWjQ2a2NPaDViUVBEOWxRM0p6eElneTkyS21OSmV2UkdPN25keE9WdlBPOW9HVThWVjcxSXZBTUE4cVhieXg0NEh0a1J0cUFuNmpXbHNXd0RLQVRuUnhXdVBCWm9iUEVvbW40RTUwT241SU5IRDFKZG85UXdnUW9kLUN4cG5Obmg4ZFJoQnE1X3pTVTh1NUpIbWJ0YWZvcjQ5QlZLNll3OWJKb1N2a0Vr?oc=5",
       "published_at": "2026-10-26T16:31:00+00:00",
       "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "GSK, Hansoh's bone cancer drug delays disease progression in late-stage China study",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNeVF0OEZ3SDI2ZERiTGJTbmtQMFUzMWFvRG5Ham5IMDdsTkpNOWdkZlhRUVNqX29PQVhkd19MQWlGTkN2VnQ4WVk4SUJkVHB0VTRnZ3NHdGxQd1oyQ0NrNTBfQUFZN2JWblZDWmxWMXEtTElSVUdERm1sOFIydjdrZWZOdzY0SXM0dVVDcjctemVNaGJLeDZyWWMwUXNuV0hHR3QxZzJxbEY1QWcwam1QRHF1Y1ZSYk1YVVRWR1R5Qm4zWjlxZjVxMEExOVZ6WldDLTVwa0lRcGQ3ZE96aEVVRGxMTG8?oc=5",
+      "published_at": "2026-10-26T16:30:38+00:00",
+      "regions": [
+        "europa",
         "global",
         "usa"
       ]
