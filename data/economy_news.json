@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-26",
+  "date": "2026-10-27",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-27T01:35:54+00:00",
+  "checked_at": "2026-10-27T12:40:00+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -23,32 +23,32 @@
     "bcrd": {
       "ok": true,
       "error": null,
-      "count": 4
+      "count": 0
     },
     "fiscal": {
       "ok": true,
       "error": null,
-      "count": 4
+      "count": 0
     },
     "dgii": {
       "ok": true,
       "error": null,
-      "count": 6
+      "count": 0
     },
     "finance": {
       "ok": true,
       "error": null,
-      "count": 5
+      "count": 2
     },
     "securities": {
       "ok": true,
       "error": null,
-      "count": 2
+      "count": 0
     },
     "economy": {
       "ok": true,
       "error": null,
-      "count": 4
+      "count": 0
     },
     "economist_andy": {
       "ok": true,
@@ -83,138 +83,11 @@
   },
   "items": [
     {
-      "title": "La minería aportó RD$26,773.5 millones en impuestos en enero-septiembre",
-      "publisher": "Periódico elDinero",
-      "publisher_url": "https://eldinero.com.do",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPczg3bEsxV2VkQTNKajgzOUhuWS1NTEJ2S3FiNVNEZjJLZlk4ekdiY1RpQnc5XzZFRzBvZVVfTGd5R2ZvZWk2VzNsS3dfN2tYeXNWODZTZGtmZGF5bXpMWHVqODROQW0xenpGbUprQllreXIzVzZVUV90UmpKS3NNb21jZzFwMC11RXhOX1NWaUpCeWU5ek9VYTlQdzRhTGRtZkFr?oc=5",
-      "published_at": "2026-10-27T00:19:39+00:00",
-      "topics": [
-        "dgii"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "dgii"
-      ]
-    },
-    {
-      "title": "Banco Central celebra su 79 aniversario con misa de acción de gracias",
+      "title": "Pagos en diez segundos: la banca pierde una comisión y gana un cliente",
       "publisher": "Acento",
       "publisher_url": "https://acento.com.do",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWGN1aVhGWXJQNWhpSlJ4OUpWUFRYYjk5ZXByMTI0MXdMM056c1I5RjFpNjFtaE9NNjJZbDI2X01JV3BadUFfNGtrRE93aTVOU2FwYmYwZ0VsVlYxa3hXbDd2a0RJM3JuSXhJYUZxVXdMcU12eGp6OU1LYVpWelVhUVpoNDBJSlRyaVF4TTAyQVhPUTdkd0VSWlNBdDhEbW13R0ZNZzJZaWdUNllZNkJUSG44VdIBswFBVV95cUxNWGN1aVhGWXJQNWhpSlJ4OUpWUFRYYjk5ZXByMTI0MXdMM056c1I5RjFpNjFtaE9NNjJZbDI2X01JV3BadUFfNGtrRE93aTVOU2FwYmYwZ0VsVlYxa3hXbDd2a0RJM3JuSXhJYUZxVXdMcU12eGp6OU1LYVpWelVhUVpoNDBJSlRyaVF4TTAyQVhPUTdkd0VSWlNBdDhEbW13R0ZNZzJZaWdUNllZNkJUSG44VQ?oc=5",
-      "published_at": "2026-10-26T23:45:45+00:00",
-      "topics": [
-        "bcrd",
-        "finance",
-        "fiscal"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "bcrd",
-        "finance",
-        "fiscal"
-      ]
-    },
-    {
-      "title": "Banco Central de República Dominicana da gracias en su 79º aniversario",
-      "publisher": "Diario Libre",
-      "publisher_url": "https://www.diariolibre.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRVVlclZzblMzTW5UU2NmcURJRVVEMDY4Q2p4bEh0bUstUE5xLVg3ajdvNVZndlU3UkxrUHZJZ0k3Y1FsMW5pcVRCS1pCMlc4Wk5DTHI0ZmlZUlJwcEVXeHdjNnQ5eTk2SUo4cEFXUlh6bnotclpveUZMWkZhNWZoWTFCTnluWnZXR00zSzJocGkxRzY5NW4zSnNOOGM5Z0hvdGhJWXlzN21OMkxjZmfSAbMBQVVfeXFMTWpFMTVnSS1GS0ZsR3lFR3RjaXZJVTdVLThicVBJdW5lMXUwNnJrZUNfR01PckZVOHp4RjBaN3NEN1ZvZWFrUzZaX0Z3dkNjQ05QTmllUkdBdXExMTROMWxLZTJhZEFfUnZ0T09pelhwVk9OSXhmVFFjVVZTLWxralJzMDNSY0NNbUhqS2duek9UN2VTRG00TTh0X2ZtOUlPR1JsZWQ0NlctSURQaDV3cHpoTnM?oc=5",
-      "published_at": "2026-10-26T23:18:00+00:00",
-      "topics": [
-        "bcrd",
-        "finance"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "bcrd"
-      ]
-    },
-    {
-      "title": "DGII recuerda que Grandes Locales y Medianos deberán emitir facturas electrónicas desde noviembre",
-      "publisher": "Acento",
-      "publisher_url": "https://acento.com.do",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNNThFMC1YNGY0bVd5QzV3Z1ByeEt3WDIzc0FITDFHbE1sUzZaTHlDeDBXVjZQZjVORllZSU1jZkVQZVdpMFpGRC1ONml1bFc0dlg2eHh5YVhONGdCa1duQWJvaGhEdXlybjRJQ3p0ZjVZb1daVjgtTEJWUlRQRVlkM25wblNuVERVWE54d2tGOHl6ajhQVEkzZkxBQmFncFZ2M0xxcDk2N3NXeHpfUG1hRFNodGJmZXBoZkcwSTdHMGs5eDRpZ1RraTBLcl9ia0MzUUxlWU5wS3VPWDTSAdsBQVVfeXFMTTU4RTAtWDRmNG1XeUM1d2dQcnhLd1gyM3NBSEwxR2xNbFM2Wkx5Q3gwV1Y2UGY1TkZZWUlNY2ZFUGVXaTBaRkQtTjZpdWxXNHZYNnh4eWFYTjRnQmtXbkFib2hoRHV5cm40SUN6dGY1WW9XWlY4LUxCVlJUUEVZZDNucG5TblREVVhOeHdrRjh5emo4UFRJM2ZMQUJhZ3BWdjNMcXA5NjdzV3h6X1BtYURTaHRiZmVwaGZHMEk3RzBrOXg0aWdUa2kwS3JfYmtDM1FMZVlOcEt1T1g0?oc=5",
-      "published_at": "2026-10-26T23:00:10+00:00",
-      "topics": [
-        "dgii"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "dgii"
-      ]
-    },
-    {
-      "title": "DGII: emisión facturas electrónicas de tipo “E” para grandes locales y medianos contribuyentes desde noviembre",
-      "publisher": "Hoy Digital",
-      "publisher_url": "https://hoy.com.do",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVm83cUNzU0Jtc1N3d0pfN0VaamFKQlJWNVdoQnVVTDQwVlA4N0FiVzI3a3FvdFlyQ2pEZi1feUZmcXR6aVBKX1AtdU51TEJkMV91WXExWVBfQ1dHRVRzWmlObDcxWVhaSXBrdnVnemhHN296SkRlN0NjVVoxTVRCOWpLV092LUtVeFoyS3VnT0NmZWhTY0FrRGZxU0tHT2lqcVVaTEJvR1FYcUh3ck1aRHhJUFcxT1R0dnNBVzU3aFlma3pQMFkycEg2d2I2SXdUVFFsa0t3dmR1Ujh50gHcAUFVX3lxTFBWbzdxQ3NTQm1zU3d3Sl83RVpqYUpCUlY1V2hCdVVMNDBWUDg3QWJXMjdrcW90WXJDakRmLV95RmZxdHppUEpfUC11TnVMQmQxX3VZcTFZUF9DV0dFVHNaaU5sNzFZWFpJcGt2dWd6aEc3b3pKRGU3Q2NVWjFNVEI5aktXT3YtS1V4WjJLdWdPQ2ZlaFNjQWtEZnFTS0dPaWpxVVpMQm9HUVhxSHdyTVpEeElQVzFPVHR2c0FXNTdoWWZrelAwWTJwSDZ3YjZJd1RUUWxrS3d2ZHVSOHk?oc=5",
-      "published_at": "2026-10-26T22:02:12+00:00",
-      "topics": [
-        "dgii"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "dgii"
-      ]
-    },
-    {
-      "title": "Global Finance reconoce a Banreservas como el banco más seguro del país en 2026",
-      "publisher": "Acento",
-      "publisher_url": "https://acento.com.do",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcXJlWFFaSjlwZEh2aUxmd2RFVk9pMkdPZlVOWVdoTGN6SWl0c3F2MzBYWkZUdVY4a1ZQdEwxVEktd1F2S25ySGhXX3NscktnM29SOFYyVllIaEpDVlF1QjNCZ18xSklNVThwTjVTZ2p2a01SWk9xMEhyaHZSS3RHZFh0RW15LVZ4SHhKZmJIT0ZHbEdpdVJ0cDItVEdZVXVOREtydkdJSG4wdHBvUXA3QTkyMDdLd3E1NTVhQXE1MTPSAcABQVVfeXFMTnFyZVhRWko5cGRIdmlMZndkRVZPaTJHT2ZVTllXaExjeklpdHNxdjMwWFpGVHVWOGtWUHRMMVRJLXdRdktuckhoV19zbHJLZzNvUjhWMlZZSGhKQ1ZRdUIzQmdfMUpJTVU4cE41U2dqdmtNUlpPcTBIcmh2Ukt0R2RYdEVteS1WeEh4SmZiSE9GR2xHaXVSdHAyLVRHWVV1TkRLcnZHSUhuMHRwb1FwN0E5MjA3S3dxNTU1YUFxNTEz?oc=5",
-      "published_at": "2026-10-26T22:00:43+00:00",
-      "topics": [
-        "economy",
-        "finance"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "economy",
-        "finance"
-      ]
-    },
-    {
-      "title": "Las exportaciones de oro alcanzan los US$2,392.5 millones entre enero y septiembre",
-      "publisher": "Diario Libre",
-      "publisher_url": "https://www.diariolibre.com",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeUtSNDRFcmtVWC1NQkhJa3hCR21LaHRZWFRzNnFTemJkZDlTRFVSQ0NIaDRVcGhDbk1mNm5GNzhLcWtheHZzM19ETEJNX25GVWhiYm5MOFJrZnRlTUxRcVIwQmwwQW41YXRxX09WMHRzbXBwQjBMRmhycDZ6WmJfZk50UFhZbG5CWktqUkZBMC1LbDVUdGkzVGpDaVAxVVJiV2daVzlSUjdSVkhlaVlYNGxmcWdtYU5DTVM0Q1EydHDSAcYBQVVfeXFMUFUwbF9mdFNSVEs4aENNTllrM1ZabUFodlZpeENoMFRsZ2M0Nk1TWFY2QnY5SDFlTDFHdHN4QTlNNmUwQjZjaFpNd2RNR3VfcUdQcnRDSW1kdm41LXI1U3FOaVJXTjVUOEV1aXBKdk9sdkhXWXk5dHBweXVhQjdWS3ZtXzFjcjNENEZlUkFSbktBN1h3YWpzNUE5d3dJd0hqeWJPczU3TDl3SGNzNV9GcE9DQXhwdGRuV0Z4d0NaWkhXcGZ0MmR3?oc=5",
-      "published_at": "2026-10-26T21:19:00+00:00",
-      "topics": [
-        "economy"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "economy"
-      ]
-    },
-    {
-      "title": "Ministro Santos destaca aporte de la minería a la economía tras crecer 17.9% en septiembre",
-      "publisher": "Periódico elDinero",
-      "publisher_url": "https://eldinero.com.do",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTW1lUDdIZHRuZ2EtWFBpOGhvNUQ3Z2lVSnA5bXl5LVVHZ05WTDVib3ZtQWpqc1lIcFpDTmVwU1V1T2FDcmY5cHJYM01aMU5WQTRZN2xTMDRFZDZKZHlRMDhiZjItOVY4UG1vUVQ2ZWdWbDVrTXpXTmhqZ0RBeU14YWM2N3NIdzZoWjhXUEhuLWJ0NS1sTlpfT0RKelN1SG1FNzd0NEdsVmhiQW5nY1A0NlpyU0s3YVp4Q2dZZ2x3?oc=5",
-      "published_at": "2026-10-26T20:47:43+00:00",
-      "topics": [
-        "economy"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "economy"
-      ]
-    },
-    {
-      "title": "Wall Street cierra en verde, con optimismo por la próxima salida a bolsa de Anthropic",
-      "publisher": "Acento",
-      "publisher_url": "https://acento.com.do",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVjM3ZTNyQUN6ME9BQjhKalQ1dmxPY196LUdfUDFFX3poYzRTU0poRGVTQ2F1a1B2MDVrVFZ1MlM5UUh6ak1ETmFrNzZZZC1PdkNRMC1YOUxwdFYydXdETmtCaFpSRzlaeHNIa1VtTzdENTlfUFJSekJ2UGhkT3JlVDVDZEF1UVFPOUx1ZEhLVUo0LW53dmtaNmQ5OG9uWUo3bTNJYmg2SGJXZzVIVUV1UXQxTkdOck9rQkpBSWRTUUo0NHZZWjFz0gHHAUFVX3lxTE9WMzdlM3JBQ3owT0FCOEpqVDV2bE9jX3otR19QMUVfemhjNFNTSmhEZVNDYXVrUHYwNWtUVnUyUzlRSHpqTUROYWs3NllkLU92Q1EwLVg5THB0VjJ1d0ROa0JoWlJHOVp4c0hrVW1PN0Q1OV9QUlJ6QnZQaGRPcmVUNUNkQXVRUU85THVkSEtVSjQtbnd2a1o2ZDk4b25ZSjdtM0liaDZIYldnNUhVRXVRdDFOR05yT2tCSkFJZFNRSjQ0dllaMXM?oc=5",
-      "published_at": "2026-10-26T20:05:13+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWkpmbldOTVU4NEh5OVYzRTBoQ1hIS0lyYV9UTldjdEpwb2IzYV85dm9xT0xnRjcwR1l5alJIRFZUVHZrMWFuRU1GRlhuUF9vU19Kck5oVERyZkFvYm5HVk41SmZEMGNKb0pOZUszMWNvU2NpSnRWcHhJS0txWklyaGpnS2NObDFQb2hBSjAxZF9GOW9wczVCY1NzYURhOUk2Wk9vdjdRMll0aDNwaHJWbWszd9IBswFBVV95cUxPWkpmbldOTVU4NEh5OVYzRTBoQ1hIS0lyYV9UTldjdEpwb2IzYV85dm9xT0xnRjcwR1l5alJIRFZUVHZrMWFuRU1GRlhuUF9vU19Kck5oVERyZkFvYm5HVk41SmZEMGNKb0pOZUszMWNvU2NpSnRWcHhJS0txWklyaGpnS2NObDFQb2hBSjAxZF9GOW9wczVCY1NzYURhOUk2Wk9vdjdRMll0aDNwaHJWbWszdw?oc=5",
+      "published_at": "2026-10-27T07:00:59+00:00",
       "topics": [
         "finance"
       ],
@@ -225,129 +98,11 @@
       ]
     },
     {
-      "title": "El gasto tributario se estima en RD$458,629.9 millones, equivalente al 4.78% del PIB proyectado",
-      "publisher": "Periódico elDinero",
-      "publisher_url": "https://eldinero.com.do",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSnhDM2xBUnVIdmNEQ2ZOMTRBMTc2VnJwM2VPbmo4Vllmal9rRUVCOW1PQ01QWVpMX2NEV3JZQUFOSmlVTlVHXy0wUnZOeWh5X3ByTTJ3Q3c5T0lCUUtoUExqNXc0b0htc1VEbFFlaG92cU9WeGJGRXItVlRud3FUYmxWRmxyTVJrOE8xdXBMXzhEWkktcHZPMkQ3RjRoUXVXRlFDdFBSUFRVWWJ6NlQzbUc5U1F4RHRxWlkzYW9MUzg?oc=5",
-      "published_at": "2026-10-26T19:47:02+00:00",
-      "topics": [
-        "dgii",
-        "fiscal"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "dgii",
-        "fiscal"
-      ]
-    },
-    {
-      "title": "DGII reitera emisión facturas electrónicas de tipo “E” para Grandes Locales y Medianos contribuyentes desde noviembre",
-      "publisher": "El Nuevo Diario",
-      "publisher_url": "https://elnuevodiario.com.do",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNOVAwZTNmdUV3NklkX3VjTG5XZGFlWkFhdDNaNVBTVmFaWVZIMzJDRFJQZmRRRjQ0clU2dlZHeTBNTU9jWHd3RGNKeVk4ODBzNDN1cUlDdlNkWnp2UkRUMGxvRVBSb0kyRm9YZGFjWmFVNzVwcDBDWC1BeW8yeFhLOEZ2WndYTmZsam44ellzNUNxOEQwYkNKNzV1NVNsRWNBcXRtMXBhUlh3eHFrc2gyOHh6MjN5SGpmLU9oRVpHSERpYWhWeC01ZUYxZExFMGxHVHQ3SDBJbVJvMHFtU2c?oc=5",
-      "published_at": "2026-10-26T19:38:07+00:00",
-      "topics": [
-        "dgii"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "dgii"
-      ]
-    },
-    {
-      "title": "Siete claves vitales para sanear la economía familiar y personal, según especialista",
-      "publisher": "Hoy Digital",
-      "publisher_url": "https://hoy.com.do",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaTVSZEdGNUl4QjhfNS1ydWVYQWo3WTNTLTdIM3B0TjVBLWlqRXRMM3lTQnA1N2J3YXp4NU1kemowTU5BNXRhX3JRTjl4YWxvQmo2M3VHamxGMUt6UlVWVENVWXhPUEpvV0RZUmtYMjkxRnNQVnEzcjJyOHc0c1BjOWNoSHZkS0lPTmdoMHhaV3VEcTZja2JiUWJJX2dyZTdrOFMtVjNWZkxNNUJE0gGyAUFVX3lxTE4zN0pXTnVmUzduY196RHZEd2dGZUlMMzRvZWRGbXBjckVvYW5DS3V5bTljNlcyTVFpYzd2ODBRNTBtekxHSV9UdHhIUWR2bUc0anZPSmZXSXFEQlJObTVWYnVqTG1iNDZVSUszVkRrWG10Sm1TSVNORmxiZzkwbDZVM245WUwxdHdrS2FPa21xUk93NU5aemNibzZ5RDVJNnpxWGE0RHBudC16RTQ4RWpVQVE?oc=5",
-      "published_at": "2026-10-26T19:09:57+00:00",
-      "topics": [
-        "economy"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "economy"
-      ]
-    },
-    {
-      "title": "Estado dejará de percibir RD$ 458,629 millones por gastos tributarios en 2027",
-      "publisher": "Acento",
-      "publisher_url": "https://acento.com.do",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONm5iQlNtVEp6dDVpZEoxYVNfRnlSU3NLcGw1MURxV1RyeV96bktrTnNJaUpqNTE4R2Nsamh1TVFRQWE4T0RkelFjNTFMcDd0Q043Yjl1aWlRT3cwOGZYZmVTWmlGSTR3NHo0djAtQkxZVlVic2pEaVFpaUlERDNrZVV0VnZQQy1ERGd3TzE3eU1vakNlcExIMXBacEZzQXQ4cm1TcGRiRndRR19ZcmVIVzJvOVdlNGNDWV9B0gG7AUFVX3lxTE42bmJCU21USnp0NWlkSjFhU19GeVJTc0twbDUxRHFXVHJ5X3puS2tOc0lpSmo1MThHY2xqaHVNUVFBYThPRGR6UWM1MUxwN3RDTjdiOXVpaVFPdzA4ZlhmZVNaaUZJNHc0ejR2MC1CTFlWVWJzakRpUWlpSUREM2tlVXRWdlBDLUREZ3dPMTd5TW9qQ2VwTEgxcFpwRnNBdDhybVNwZGJGd1FHX1lyZUhXMm85V2U0Y0NZX0E?oc=5",
-      "published_at": "2026-10-26T18:00:21+00:00",
-      "topics": [
-        "dgii",
-        "economy",
-        "finance",
-        "fiscal",
-        "securities"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "economy",
-        "finance",
-        "fiscal",
-        "securities"
-      ]
-    },
-    {
-      "title": "DGII recauda RD$79,291.7 millones en septiembre de 2026, un 17.1% más interanual",
-      "publisher": "Periódico elDinero",
-      "publisher_url": "https://eldinero.com.do",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNl8zc2FVNVFiZEtmMWlwcThkRDlRNFh0em5RSkdtRmN5OV9xNlpMWjFhVmtoTWF3OW54NkZWUnFiZ29GN1dxLWRZTGR1dC12OEJTT2ZVSEp4UWxKenRVLVpKeXlRdm91U2o2d3JPdDByWWRqMVRQYVhoSHB5YTZ2XzA3TXpjWU9hcmMyZUpjWkM0X0tmR3M1Nk50V1c1M1p3Vlp4LWtGbEN1TmNF?oc=5",
-      "published_at": "2026-10-26T17:42:37+00:00",
-      "topics": [
-        "dgii"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "dgii"
-      ]
-    },
-    {
-      "title": "DGII reitera contribuyentes de grandes locales y medianos deberán emitir facturas electrónicas desde noviembre",
-      "publisher": "El Nuevo Diario",
-      "publisher_url": "https://elnuevodiario.com.do",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNT2RES2VZcGg0XzRSMktFV1ZkSkFVTXo3eEhydzhZVnpTcmFYTmM5LXVYT0RMQ1dzRHgtUk00M2ZPUnlnYjZ6VHFQb0NxUjdyeTFMYjlLZXZwb19qQS1YTzhJQnFsdmJab3Z4SC1UY2JIMVA1bWlucmxyZ1pLUlg1VE9fOU96RDRDQk9CR2hGVHhkYnVhdWtiNU15cTEyc1A3VnpMNnNiWnVmZi02ZkZzcFZhNXlCQlAxTmM0c0hqV1N4azExSG40YWVKNEJpVzVyN2ZaeGpjVQ?oc=5",
-      "published_at": "2026-10-26T17:27:49+00:00",
-      "topics": [
-        "dgii",
-        "economy"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "dgii",
-        "economy"
-      ]
-    },
-    {
-      "title": "DGII reitera grandes contribuyentes locales y medianos deberán emitir facturas electrónicas desde noviembre",
-      "publisher": "El Nuevo Diario",
-      "publisher_url": "https://elnuevodiario.com.do",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUHJfNEt0eHZsUlZYWkFzS1RJcl9sYkVnTjRFci1vVDVuV3BFZEgzQ1JraFRzWW5mdXdQd0JIUThaazE4RmVWZXItbk1mREp6UGwyTzRXbllCLUNLVHdfVXNzR01nTTMtdjV0RmdVMXhHcnVqY3ZKMmVmSl9WVzRyQVBJLV82cmlDMk5mMV9jUmZVOTJNTDhncUtjU21LMG9Oby1leEIxNm9FbXpYRXdCQ0Y3ejlJSXhxTWJ4RHFCYkgzNV9MZExhMlVkaEdVZzJGMVdr?oc=5",
-      "published_at": "2026-10-26T17:02:42+00:00",
-      "topics": [
-        "dgii",
-        "economy"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "dgii",
-        "economy"
-      ]
-    },
-    {
-      "title": "Olivares afirma que regulación de bancas busca proteger empleos de mujeres",
-      "publisher": "Acento",
-      "publisher_url": "https://acento.com.do",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVWVaYXZwdFVMVFBZOFNEQTlfeUs5Z2JoaEx3ZkpsSEpOWmxIcXVUcTdxZjczeHZqdEs1SzNfOFlMSVhyNWNzcG5vd0hyMjJVUG93Wm9Jd0lGWXdCbHg2amxtR2hudmFHbXk2S3YzdmZTNmRrRG5sUlpfN1lXWmpMd3ZjMzBfTjNoZ2NuQUhibXlyVzJJNjRSaWd6dW5RamdpNHljWVEzU29TY3NXMkFneTVPYU5oNkgtNkHSAboBQVVfeXFMTlVlWmF2cHRVTFRQWThTREE5X3lLOWdiaGhMd2ZKbEhKTlpsSHF1VHE3cWY3M3h2anRLNUszXzhZTElYcjVjc3Bub3dIcjIyVVBvd1pvSXdJRll3Qmx4NmpsbUdobnZhR215Nkt2M3ZmUzZka0RubFJaXzdZV1pqTHd2YzMwX04zaGdjbkFIYm15clcySTY0UmlnenVuUWpnaTR5Y1lRM1NvU2NzVzJBZ3k1T2FOaDZILTZB?oc=5",
-      "published_at": "2026-10-26T17:00:51+00:00",
+      "title": "Banreservas es el banco más seguro del país, dice revista",
+      "publisher": "El Caribe",
+      "publisher_url": "https://www.elcaribe.com.do",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZGMzLXdLY3J6UVZiTUR6a1VPZkxUYUZRQ1FVRGxnNmh1cW9MZ1FrZXd5SGVyRndONFVaNDM3Ql9WYWxxbjgzanNRbkg4Y0xhWld6MW52QndCRW1zMTNkcHN2ZWtxSXFHaVVCTmYwaFZPd1djbU1BYVVzU2JQekdoRTNDbUE2VUFlajBCLTd4MF9JOTNPaFhQcDhYWUFZNnFyeC1V?oc=5",
+      "published_at": "2026-10-27T04:00:00+00:00",
       "topics": [
         "finance"
       ],
@@ -355,117 +110,6 @@
       "economist_match": null,
       "searches": [
         "finance"
-      ]
-    },
-    {
-      "title": "Banreservas es reconocido como el Banco Más Seguro de República Dominicana en 2026",
-      "publisher": "Diario Libre",
-      "publisher_url": "https://www.diariolibre.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWEpYZXk4QkhPSFRPT05mblBUMjc4SEJsZnoyT2xGck5CUjV6Y0FRalNLaWhWQ1IwMUFpakV0a1dLVFJFd0plNnliSEtVaWpBNVI4T2x5SlpYZm43dkRWVlVMd0NTRVpmM0sxN1lHR0xPSnpUZHBXNmNNSGFBRzE1RUdNS0Nwb1poOVpfWWxHTURDS0todEZEV1JNcHFuXzNnRGdRcEtLS0hmTXBqVUJQVWtzTjFzSmZyT0gyUNIBwgFBVV95cUxOa1o3WUhkTk94aExwd0Eza2NXblY3Q280MnQyWmxOQ3hNcVNPakR2V0Q5Q1F3T3A3aThyelNEU0xjSHREVTNTdHBadS11MGhVcE1WUFk1MEpvNW5Nd2V3ZllRbVo0MnlFV0pTUGJJaTBzSFFFVFJOREdLSGl1OWx1ZDd4Xy1FOVR6MndxUnRmcW1aTkV2OVF0VUZqTTgwR2JPdDdJMFAtRE9odTIyTExkUmVSc3Jxd2o3Y1dTNkNMV25oQQ?oc=5",
-      "published_at": "2026-10-26T16:30:00+00:00",
-      "topics": [
-        "finance"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "finance"
-      ]
-    },
-    {
-      "title": "¿Cuáles son las quejas más frecuentes de los usuarios de la banca?",
-      "publisher": "Periódico elDinero",
-      "publisher_url": "https://eldinero.com.do",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQX20xdFVKem9LOWtpclJtSi14R1ZHcFNXZm1NOExsdlFmSnZaZlBDRERrU3pjOGNRNjdTOE55dUpGXzRpVndscDJWWFBSZTg4bWxMN1VWQ3RLS3ZXa3JTVjhnWk03c2ZFVHlFejZTZ2txTDVta0dzS3Nnd0N0Q0VWYzhsTkxaOTNXYjQzbV8wUk8yaU9jOEI1ZlZob3A?oc=5",
-      "published_at": "2026-10-26T14:21:25+00:00",
-      "topics": [
-        "finance"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "finance"
-      ]
-    },
-    {
-      "title": "Picnic Financiero impacta a 50 participantes con educación financiera en el marco del Día Mundial del Ahorro",
-      "publisher": "El Nuevo Diario",
-      "publisher_url": "https://elnuevodiario.com.do",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOY29DcUdzc3c0VlJMYjlOVy1CV2JrdXBMbXhISTY0QjkxT0JBdEN3QWViT2V6TUxCTFVGNkpUSm12SDc0UTB1ZTROclkyMVNpUEtadXJZWEgtUDEwQ0lJeXFZNUlwU0dKbjhGbUJURWlMZURqV1VVRnZiSDhnODVULXZZM21kSld4SThHV1VqcE0zQTM0UmlKdDQwM0RxUm5uYTJ5T3RrSFotamxCVDdyQzRZLURaRlNVaWNxSW9SUUNwa2JFUUM5U2JaWUc2R19NWnh4Tg?oc=5",
-      "published_at": "2026-10-26T14:10:51+00:00",
-      "topics": [
-        "securities"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "securities"
-      ]
-    },
-    {
-      "title": "Estancamiento secular de la economía mundial y las políticas para el crecimiento",
-      "publisher": "El Dia.com.do",
-      "publisher_url": "https://eldia.com.do",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSFNoQnJZYjM3Mlc2UWpIUjAtSEtzV2xDNlNlbVdqSkh0ekdMXzJVZGVEMjNXYmdld1Utc1RHeDQ3aUVnV0J1TWxDU0FELXBoNnhiYWx6LW5LZ2hBQnpuMGhRX2N2YzB2ZDFEQ2ZZQkt0WnZ0ZG82NXJ2bWVCa3BnMnNuck9QWVV4am5qd0dEandWRmxtVGxTODA3S3lJazRoT29rNw?oc=5",
-      "published_at": "2026-10-26T11:00:00+00:00",
-      "topics": [
-        "economy"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "economy"
-      ]
-    },
-    {
-      "title": "Resiliencia de la economía supera choques petroleros",
-      "publisher": "Hoy Digital",
-      "publisher_url": "https://hoy.com.do",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTmduM2RfcVIyMFYwNlR5X3o3MXViUldiYTJjcWxldjZoS2hWOUdrSl8zNE1zU0JqZkNMQWFYMGNWYlJUaFJGUlpJUkdUTk55XzBmcWxwZFNfajJ0Z09UQnRFNzRnTEhTNFU2SFowV3RLZ0lnY2JCdXNfS2VWVTVnZUdKd3RtcFJ2bnRjNXJGNNIBlAFBVV95cUxNOW5vV1IwclNEM2pMVkxCWFZqNG5ZS0sxd3BQQU9uWjBCVFIzLUhWTFJTdmVmUlVlZElYMXpSemtxZHU3Z1F4NXRDMTFGZGtDOUx2VkdPQVFsckFoazZVM2lteUZsYkFVeG1PQXU4cUlCMUFJMmRsT3R1bTVZRUJhdkZ5N3ZGc0ZzUUlDSzZCVFlhTjZQ?oc=5",
-      "published_at": "2026-10-26T04:05:00+00:00",
-      "topics": [
-        "economy"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "economy"
-      ]
-    },
-    {
-      "title": "Varios organismos mejoran las proyecciones económicas del país",
-      "publisher": "Diario Libre",
-      "publisher_url": "https://www.diariolibre.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRXVJOUxVVktoYVVYV3kyOGRYQXVTU1lwZDM1YVoteFE3U0c3bW55RHpqMWhmSnNjRnlBQVNaTWNIMjVWTFBIUXBZclBQR2dyLTNqZWVjbTVjd2hrdVh3bFhFSXJna3NoVmtBaEdzWjd5VEVYakY1U0oyYmJxUURROVd6TUtBaGlSanhXdlNyQVNWWS1uLXZuZ1RkM3ltNlM0VUdlcTI4YUo4eUNJdFZhQlF0Q0VncldYcjJzUdIBwgFBVV95cUxPYnYyMFFDckxzdDJEUHFOWkp2dG5nVVlXTW9odEh1QzJpR2pmQjR4aWZiTjJ0MGRxVkFtUUtPVUx2OGdUbV9fbDFOUWNtZVAtdjVsM1IybEZwNFp3OC01Umstd2RTcmxrblY1dU1RaHBGN0VrWVRfbFF4Z3RHVFRUUDlKNUhmVUdGdENzQ3NpLXlQWWwxWVJqVzBqaGtyM0dtYWFYc1lhOGF1WmIyV2FuVmg0WHVPSnNERHJHVlhkaUp5Zw?oc=5",
-      "published_at": "2026-10-26T04:02:00+00:00",
-      "topics": [
-        "bcrd",
-        "economy"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "bcrd",
-        "economy"
-      ]
-    },
-    {
-      "title": "¿Empieza a despejarse el nubarrón cuasifiscal?",
-      "publisher": "Hoy Digital",
-      "publisher_url": "https://hoy.com.do",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaXA4U0V0cDd4cHdIUF94ZXBsMGVKNEE1eFhKQjNPeDU4aFhBVlVGNHJnLXZpWHU4U0FOTHpwTXVkb3dMSmZxYmtva3FnTnNlQi1WZnlJdlQxT2NhNlU5eHFGS2ZLeHBCWHJZQ1o3SHoxWVdkWjR0UjFwY1RRX28wN1VsU1g0QlFyT3dqc9IBjAFBVV95cUxNaXA4U0V0cDd4cHdIUF94ZXBsMGVKNEE1eFhKQjNPeDU4aFhBVlVGNHJnLXZpWHU4U0FOTHpwTXVkb3dMSmZxYmtva3FnTnNlQi1WZnlJdlQxT2NhNlU5eHFGS2ZLeHBCWHJZQ1o3SHoxWVdkWjR0UjFwY1RRX28wN1VsU1g0QlFyT3dqcw?oc=5",
-      "published_at": "2026-10-26T04:00:00+00:00",
-      "topics": [
-        "bcrd",
-        "economy",
-        "fiscal"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "bcrd",
-        "economy",
-        "fiscal"
       ]
     }
   ],
