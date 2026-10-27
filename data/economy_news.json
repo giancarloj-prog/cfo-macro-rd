@@ -1,7 +1,7 @@
 {
   "date": "2026-10-27",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-27T16:37:01+00:00",
+  "checked_at": "2026-10-27T16:52:38+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -23,12 +23,12 @@
     "bcrd": {
       "ok": true,
       "error": null,
-      "count": 2
+      "count": 4
     },
     "fiscal": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 0
     },
     "dgii": {
       "ok": true,
@@ -136,11 +136,13 @@
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQUzNHYUYtOXlUVUhfOHlyTXdvWmFHb0haRG9WdFhacnVoYUJmYXQ2ZU1iMExuSzU2MUtReE81OEsyYjFkR3ZuQkFmQUZNcHFibHREVjc2MUpfOVhLVmhIN2M0TGEyWkVvNTA0S2Rlekt5cWR6QTBGUXVIZHBzVUo4NV9MZFlUTW1pZTJqbUFlOVdRZWdJbzg3RWpRZ0d0RE9LZEJ0ZjJjUUVRY2RrRU04N0l2YW1sUkpxd0trVFJ5SFNKQ3dZZ0FnUWJZZWU5SU9CSXljYVYzcDBTMl9wNVZIVmVWaGpxRC1jdHfSAeoBQVVfeXFMUFMzR2FGLTl5VFVIXzh5ck13b1phR29IWkRvVnRYWnJ1aGFCZmF0NmVNYjBMbks1NjFLUXhPNThLMmIxZEd2bkJBZkFGTXBxYmx0RFY3NjFKXzlYS1ZoSDdjNExhMlpFbzUwNEtkZXpLeXFkekEwRlF1SGRwc1VKODVfTGRZVE1taWUyam1BZTlXUWVnSW84N0VqUWdHdERPS2RCdGYyY1FFUWNka0VNODdJdmFtbFJKcXdLa1RSeUhTSkN3WWdBZ1FiWWVlOUlPQkl5Y2FWM3AwUzJfcDVWSFZlVmhqcUQtY3R3?oc=5",
       "published_at": "2026-10-27T14:00:41+00:00",
       "topics": [
+        "bcrd",
         "fiscal"
       ],
       "economists": [],
       "economist_match": null,
       "searches": [
+        "bcrd",
         "fiscal"
       ]
     },
@@ -151,11 +153,13 @@
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWkpmbldOTVU4NEh5OVYzRTBoQ1hIS0lyYV9UTldjdEpwb2IzYV85dm9xT0xnRjcwR1l5alJIRFZUVHZrMWFuRU1GRlhuUF9vU19Kck5oVERyZkFvYm5HVk41SmZEMGNKb0pOZUszMWNvU2NpSnRWcHhJS0txWklyaGpnS2NObDFQb2hBSjAxZF9GOW9wczVCY1NzYURhOUk2Wk9vdjdRMll0aDNwaHJWbWszd9IBswFBVV95cUxPWkpmbldOTVU4NEh5OVYzRTBoQ1hIS0lyYV9UTldjdEpwb2IzYV85dm9xT0xnRjcwR1l5alJIRFZUVHZrMWFuRU1GRlhuUF9vU19Kck5oVERyZkFvYm5HVk41SmZEMGNKb0pOZUszMWNvU2NpSnRWcHhJS0txWklyaGpnS2NObDFQb2hBSjAxZF9GOW9wczVCY1NzYURhOUk2Wk9vdjdRMll0aDNwaHJWbWszdw?oc=5",
       "published_at": "2026-10-27T07:00:59+00:00",
       "topics": [
+        "bcrd",
         "finance"
       ],
       "economists": [],
       "economist_match": null,
       "searches": [
+        "bcrd",
         "finance"
       ]
     },
