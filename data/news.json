@@ -1,7 +1,7 @@
 {
   "date": "2026-10-27",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-27T12:40:01+00:00",
+  "checked_at": "2026-10-27T16:37:02+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -24,31 +24,158 @@
     "mexico": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 1
     },
     "usa": {
       "ok": true,
       "error": null,
-      "count": 6
+      "count": 12
     },
     "europa": {
       "ok": true,
       "error": null,
-      "count": 11
+      "count": 15
     },
     "global": {
       "ok": true,
       "error": null,
-      "count": 8
+      "count": 15
     }
   },
   "items": [
+    {
+      "title": "FDA offers new details on quicker approval pathway for personalized gene therapies",
+      "publisher": "STAT",
+      "publisher_url": "https://www.statnews.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQmQzczlIRW5sbGliSkVMN3NINmdlTG5neXd3THpvZUlzaUdfUll1Tk5zN1VYeTQ5NGtxUzhILUkxdWFhUTNQaHJUdU8xU0FPVFBKb0Jjbk0ydDdhbFo2ZlBXVHY5S0h0Z0VCbElWTjMtSjd0ME1wQVJsbm53XzFuT0l5NmtKSDhqTE1naEVCbmZwQVBJX0pDNXNCekg5MW1ITVNVelpXTQ?oc=5",
+      "published_at": "2026-10-27T16:18:59+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Court rejects Novo bid to block Lilly obesity drug ads",
+      "publisher": "BioPharma Dive",
+      "publisher_url": "https://www.biopharmadive.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMHRNVXhDbm5oVlUtMmVoeTZIOWlyYS1VUmJHcGNCbEJGRW9CYWxRQzFTa01HbGxfakd5X0NCclcybGNka0p0Y05YSzE4T1licmxtLUNNM1N3WnczYVVMRjNQaXlCRFBPdEdCN3FYdGZycmtXNndTNU5xT1BfMGtkcFh1SXJfTmV2R0VGcWNDeTh3M1U0VURVWGZlN2Z0SkU2TUw5Ng?oc=5",
+      "published_at": "2026-10-27T16:11:02+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Pfizer heads to FDA with phase 3 myeloma win for Elrexfio",
+      "publisher": "Fierce Pharma",
+      "publisher_url": "https://www.fiercepharma.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYkp1V0ZUTU5wSjZaQXV1ODZUN0NGWkJSMVVBY3FLMDVqTTFyOTdDTDlTczdicWY5Y0ZYTE5rbHBDMV9zcUNuRkdwRDJONjA3akE0aDVyX3h3d1JYQnpEdnVEZG5fZ19WWVBqLVVwSWU3NElQaW91b3REOUxaLXNHZHZaQ3RmbXhf?oc=5",
+      "published_at": "2026-10-27T15:15:36+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Elevador de una farmacia se desploma en CdMx; mujer es hospitalizada con fractura de tibia y peroné",
+      "publisher": "MILENIO",
+      "publisher_url": "https://www.milenio.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdDNyMG9WVGYzSHJCY1FxaDE5MVQyNGRJSmVMWmJzdlpGMmt0NVplVFJ1dFM1eHZ1OXN5WVQxY3plZGx3ZGdZcWwxSWNLOVJfZkFTS2QwbFpheFRiNmh2NWg0OXR5N2E4bjZUN0EzcURMcFBaRk9aNXNYOEFPaE9GcE02Y2w5TjFyQ3Ztd290MVljUXRiSHNGN1BIaVlHNWxfUzNFWWd30gGmAUFVX3lxTE0zeTQwQVM4amxZLTI1ZXREamhRcWZ6dmphSHNUamZXVDlpQUR1WThPN0JtanZkTmNxbGtJQ3ltUVRlOGtOUEhZamxFWC1lTE9wYTczZ0NpWnVYUm5na3pKRERuX2JqODBIc2NkS0o2XzNKR0l1QzFQUWZwblEwVjlKVFZacXRFMHMtSjNVZ3MwUTRpQWRMNUZFTXYtOENQLTlaZDBwWnc?oc=5",
+      "published_at": "2026-10-27T15:08:21+00:00",
+      "regions": [
+        "mexico"
+      ]
+    },
+    {
+      "title": "Novartis Raises Guidance Despite Drug-Trial Setbacks Hitting Profit",
+      "publisher": "WSJ",
+      "publisher_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaVFMeFV6aEp4TlZ0cGg2SVBPSVoxTlp5cnlFLTl5TU16QUtBeXNfcFFMelg3QUg2WVkwdmFpbXpqNDZYcmJxNWFJcFhNRU90MWhSdzZNejFNeVVTd21ZeHZKZnk2SU5OZWhURXpmVHpkWXJ4V01iRDh6MnBKQ1RXb2JTSjhOVmFURVF6ejlYcURla2NLUl9rcnNRMmdyVGlndlRBSTZweWpuTmU5Nmc?oc=5",
+      "published_at": "2026-10-27T14:32:00+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Novartis takes $1.9bn writedown on key drug after blockbuster Avidity acquisition",
+      "publisher": "Financial Times",
+      "publisher_url": "https://www.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPb0JTOEdkUGhfaWJVUGxDb2RUWW1QRS1ieTY2YWdEbjktOUs5STFsOHVIbVVpbGVrc01MX0I0aTEybzRrNEswbmdOYkYwZ3lCNnpfTEQ2Zzh4aFFaN1czVUlxWldqRkVidTRmMW5GY3NOYWJTN1RQb2p1WHVWVzRzU0pCazE?oc=5",
+      "published_at": "2026-10-27T14:28:22+00:00",
+      "regions": [
+        "europa",
+        "global"
+      ]
+    },
+    {
+      "title": "The Biotech Growth Trust PLC - Net Asset Value(s) – Company Announcement",
+      "publisher": "Financial Times",
+      "publisher_url": "https://markets.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRzd3SEM2TDZWNXNOQlFVQzgzaEIwV0pjM1p4bXIwODZ5UU9hb0puUE5VUTV4OVVOR0d1Y05kSldoWGVjX0dhakltaDhuTjVVS3Y3dXFFZU16aWlmVTZqRTBxejJkUjhvRndSbG1ZY3c2TmluLWdYY05kQVZwTzB6eEQwNjZyTjBVMi01eC1TRl94amc0?oc=5",
+      "published_at": "2026-10-27T13:42:00+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "Pharmalittle: We're reading about a Novo setback in court, a House probe into big PBMs, and more",
+      "publisher": "STAT",
+      "publisher_url": "https://www.statnews.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNLTBPM0VBTTBkQ1E0em1PVWtqXzF6ODFFOGVldDJMeHVwbkotNDRqOWJXZ2ppbzB6MmlqS0lFeF9SRVJVVVFndlpYWnVBbzRQcHN6a2ZNOWdZcjAzZFRad0ZiQ2V4LXhVSEs3aE5Jdm5qU21PQlg4QVpMeFczeWIySk10VzJlS0hKb053NDJLcmUtSTZOMmxmU0ZR?oc=5",
+      "published_at": "2026-10-27T13:29:20+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Death initially probed as murder was drug overdose",
+      "publisher": "BBC",
+      "publisher_url": "https://www.bbc.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4tZE1HeW5XdGRWUmhCRS1IZF92WFMyMkFyRHZxX1N5NmpQNnRyVGVqLWZ3aUs1aU1UQ2czQlk0dzNsaTQwbUpUVE5vRV9YYV9kTGN6TEUtaW1QSlZvS0E?oc=5",
+      "published_at": "2026-10-27T13:20:04+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "More than third of deaths of ex-prisoners on probation drug related, says report",
+      "publisher": "BBC",
+      "publisher_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Ia2xOamo5U0U3NkEtVmYtVVEtLUdxbmdJbmxJX2JQdVg4dF8yNlduX1VEV3p6Q2wtd0k2MkRvUkxHTlpJUWlBOHI0X3oyVGpyV0FDQnJlYmVnMTg?oc=5",
+      "published_at": "2026-10-27T13:13:55+00:00",
+      "regions": [
+        "europa",
+        "global"
+      ]
+    },
+    {
+      "title": "The prescribing cascade: the error of treating side effects with more drugs",
+      "publisher": "EL PAÍS English",
+      "publisher_url": "https://english.elpais.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQXhJNlJCcUxZMWp0N3U1Zkd6QkpzQjdFd0o4azBIcm1pSWxvOFVxZ1ZTU05ta2xnYXV6Z3VuamUxSWIzN2NkZ1B6MmJmTGhqbFdTaUp3cEszNFhTSTQ3b1dnOU10VlJsdDkxQWZIOC1FNi1tOV9WeXRTcGxOMndJT0xCcThILUpwT1NxTUFxQ3c0RHItbHdiQW5NbGFJNUo1Z1FjV2dYV2tkRUtxU2FPSXkwV0VhUW9OQVlIMDFRekRZQdIB1gFBVV95cUxPOEZ3NXRLVzYzRThpSjdFUFpCR0t3cTVBa1Q3NmM2OTFIZ0NwWGRlS1h5aWlDaV9PeDdid0RmMjVWN3MtNWstc1VHYUNobVdHMUtoTFVvdjlNdURZUXJUWkZnUGpOeFB2Qy1hSW5YVkhjZmF3ZnJXaHpjVHZVYnJJalpweUZKMDRvTzlmQTRMNjVxNklaVzlzLUtXSEpEdURKeFRHSlZTaXpuUTg5YnJBZkdzS3JrZ1JCdl9abTRqQkNVZG9PTDNMc0hiai1oV2hXS0w0YnFn?oc=5",
+      "published_at": "2026-10-27T12:51:02+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
     {
       "title": "Anthropic sets out its biopharma ambitions in IPO doc",
       "publisher": "pharmaphorum",
       "publisher_url": "https://pharmaphorum.com",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeFBpb3VHV2Z0ZzFHcDVnUW1JaVcxd2NUMmxyM254VHl2dkRLbFdjSGdkNUNIa3RaRlkxLTlZZ1pUeFFRV2NMLVNubWRNc05EOGUyNEplSTJ0Y1VtVnJ6MHN4eHZTTzNnbnpuTElJemJkSmpXazBfUHVzdnJmTmlYRkhVUE9EaFk?oc=5",
       "published_at": "2026-10-27T12:33:43+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "More than 300 US military personnel to arrive in Colombia for anti-drug training",
+      "publisher": "EL PAÍS English",
+      "publisher_url": "https://english.elpais.com",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYzlnS1BEQ0RmRUlVelFORHpaOHAycGhJZFc5ckwxZ0Z0RzJsbzg2LWRCRmRuQkRTc3JwZjV1QzRtZ04wSXA3WW1mN2xDT0V4eloxNlNTbFVKNm9rdE43RGZZakxKcnF3QUtvTjR1Nm5aZGR1YTdfbVhSWlFyakpSUkUteDh4QW9qcWJ3MGJCRUdmbmY2UU9sRWU2c2RWTFlTR3BqVHQ5M3AxU2xjTlQzRFBQQWU1N3JpdTNuU0l4bUdSalJOdmNMcFREaXd2WjJUZ2xZ0gHnAUFVX3lxTFB2RnFObVg0WUJlUHNtbnVqRTlCdmtSUEp1WlpEM3kxNTBEbkhjNmFlelJVc2UyQWQ5QnNFdDN2UVo1NnRiTHJyR2ZQMUxvbWRiZThMNzRHV1NZcDNNNkloU0ZpdG9ZaUxPc0xveHo3QnpodFB2VXNaUnFWQUxsNXJ2RHlkVlR4WUFXZkpwd054NU4wNUxQNFF0cnNzeTBmbzFvSUY4TDZoX0xjbjAwVXFodlFnbE50d2EtU0tQVElzbkk3eTQ0TkRSQS1xVnZpdXdocHpZalJmWWRSMEtldHNCT2lvR2FuYw?oc=5",
+      "published_at": "2026-10-27T12:05:02+00:00",
       "regions": [
         "europa"
       ]
@@ -74,22 +201,22 @@
       ]
     },
     {
-      "title": "More than third of deaths of ex-prisoners on probation drug related, says report",
-      "publisher": "BBC",
-      "publisher_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Ia2xOamo5U0U3NkEtVmYtVVEtLUdxbmdJbmxJX2JQdVg4dF8yNlduX1VEV3p6Q2wtd0k2MkRvUkxHTlpJUWlBOHI0X3oyVGpyV0FDQnJlYmVnMTg?oc=5",
-      "published_at": "2026-10-27T10:14:25+00:00",
-      "regions": [
-        "europa",
-        "global"
-      ]
-    },
-    {
       "title": "The Biotech Leader Who Erased Team Lanes",
       "publisher": "WSJ",
       "publisher_url": "https://www.wsj.com",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMlRMWjVURVN0OTh2bmlRa2NUVlBHSk5tNFBSMnVCckZwZ2g5S1hwTzBqeWFKWTZfTjV2UXQteVZGeGdyTlJ1MnREZDZyUUZ5N2tBdHVZdVp4T1dXRVktTVRKcktzSUtrbUo0XzdPVC16eFo1RVBrVlBwNnQ5blBzeXI2SW4?oc=5",
       "published_at": "2026-10-27T10:05:00+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "What to know about cychlorphine, a drug more potent than fentanyl",
+      "publisher": "CNN",
+      "publisher_url": "https://www.cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9zZ0VJTHBFLWc0UzZzcWVMaEI2WXVwek9TVVl3ZUZoRGNvbkJqMFBWdmdRRFdpZ196cmlkZU85X3NmbFhNOGFaMENaQ2d6SEczdW8tbU1YMFBTVzlpTVh3alZKTmFZbjh2QmJJOUtnaUFSZTA?oc=5",
+      "published_at": "2026-10-27T10:00:15+00:00",
       "regions": [
         "global",
         "usa"
@@ -102,7 +229,9 @@
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOelVfR3lHOG55b3hUMlhNYmJqQUFId05nLU5RTXdrbDhUTldoN1lWSERud3pNSEFGcjc1WTdlMGwyd2I3eENISHhJa0tDbnpGWl8zSGx2Nkx4LXJ4bXhmYmVqeUdDTFBXZWowZ2dxMGp0LVVYN1hDR0xrV2tDeWlTcGlCRlgwbEtkM29zLTVzQnlUd3pXOHBnQVhlWnZHMlVfMmU5bGFZLWZsNmg0RmNHSTBhUWRUX0RaMUtqaFZVdF9ETTdW?oc=5",
       "published_at": "2026-10-27T09:59:44+00:00",
       "regions": [
-        "europa"
+        "europa",
+        "global",
+        "usa"
       ]
     },
     {
@@ -126,17 +255,6 @@
       ]
     },
     {
-      "title": "Novartis Raises Guidance Despite Drug-Trial Setbacks Hitting Profit",
-      "publisher": "WSJ",
-      "publisher_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaVFMeFV6aEp4TlZ0cGg2SVBPSVoxTlp5cnlFLTl5TU16QUtBeXNfcFFMelg3QUg2WVkwdmFpbXpqNDZYcmJxNWFJcFhNRU90MWhSdzZNejFNeVVTd21ZeHZKZnk2SU5OZWhURXpmVHpkWXJ4V01iRDh6MnBKQ1RXb2JTSjhOVmFURVF6ejlYcURla2NLUl9rcnNRMmdyVGlndlRBSTZweWpuTmU5Nmc?oc=5",
-      "published_at": "2026-10-27T09:05:00+00:00",
-      "regions": [
-        "global",
-        "usa"
-      ]
-    },
-    {
       "title": "Indian drugmaker Cipla misses profit view on US weakness, shares slip",
       "publisher": "Reuters",
       "publisher_url": "https://www.reuters.com",
@@ -144,6 +262,17 @@
       "published_at": "2026-10-27T09:00:56+00:00",
       "regions": [
         "europa",
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Pennsylvania Dutch country, tired of waiting for biopharma, builds drug company of its own",
+      "publisher": "STAT",
+      "publisher_url": "https://www.statnews.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbzlBOUUtSm5NS3QzOGJmQXFPZ1cySEFkNmZKTDY4WV9jcDFpSDhjeGo4SXdSNTZ2UjNyR1RwdzhJOVlJTU9uZ3FlRHViODA4T2NMRVUzNmJBeXVDVkJtbkJqVDJ3cWd1WHdLLUtTbmprbTdjSHpBU01Pc2VvS1AyMzFORm1xOEFFOWk1dmhZZFdSS2JRNFhPcEFIanRLa2FC?oc=5",
+      "published_at": "2026-10-27T08:34:06+00:00",
+      "regions": [
         "global",
         "usa"
       ]
@@ -160,17 +289,6 @@
       ]
     },
     {
-      "title": "Pennsylvania Dutch country, tired of waiting for biopharma, builds drug company of its own",
-      "publisher": "STAT",
-      "publisher_url": "https://www.statnews.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbzlBOUUtSm5NS3QzOGJmQXFPZ1cySEFkNmZKTDY4WV9jcDFpSDhjeGo4SXdSNTZ2UjNyR1RwdzhJOVlJTU9uZ3FlRHViODA4T2NMRVUzNmJBeXVDVkJtbkJqVDJ3cWd1WHdLLUtTbmprbTdjSHpBU01Pc2VvS1AyMzFORm1xOEFFOWk1dmhZZFdSS2JRNFhPcEFIanRLa2FC?oc=5",
-      "published_at": "2026-10-27T08:31:34+00:00",
-      "regions": [
-        "global",
-        "usa"
-      ]
-    },
-    {
       "title": "Exclusive | GSK Sees Cancer-Drug Pipeline Nearly Doubling Next Year After Dealmaking Spree",
       "publisher": "WSJ",
       "publisher_url": "https://www.wsj.com",
@@ -179,16 +297,6 @@
       "regions": [
         "global",
         "usa"
-      ]
-    },
-    {
-      "title": "Novartis books $1.9 billion hit from drug trial setback, but lifts guidance",
-      "publisher": "Reuters",
-      "publisher_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORGNqcHZHNndLNXNGbW1HaUNsU2tDUm9aS3pLNFYtRGZPckNKbEgxcVlVRDN4QmF2dDQ4YlVZa05FRzBlcGtvNkF5Y191Vzc2cE5VaHlfMEFoLWt2RFBNc0RvUHNTQlZQQlJhR21TUEhNQXJXZlEyTUNhUXd0S1BwUWRhNG51dVpCSERJV1Rab0N0S0pFV3V5RUFRNmd6RzNuWWVGTVZKRjJaaUpSYXlPNFlzZm12YTQyWDNCWng1UUpYR3hVYlUw?oc=5",
-      "published_at": "2026-10-27T06:13:00+00:00",
-      "regions": [
-        "europa"
       ]
     },
     {
@@ -216,7 +324,7 @@
       "title": "Promese dice que cada día abastece a las Farmacias del Pueblo",
       "publisher": "Listín Diario",
       "publisher_url": "https://listindiario.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNczB2dGNVbUt0SXhaOU1hdUZnRTZackRXTkcwVmZrWk43cFp5c2YxWWFiRTRoXzdVSTBYNTVXeldqOHBzaE1kVmY2dVhGM3RmNV9OeTZjZFYtOHBMVFRubTY3Q05vMmU1SHY2UUpyREtRRnA4SGJ3WHd3QlRFLXo0anFOV21rTk5Uc1VpSGFrZl93UnJtZlVENU1BSUJNWkRoaWQ0TGtUVm9lekxyaDMycnl1bGc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNczB2dGNVbUt0SXhaOU1hdUZnRTZackRXTkcwVmZrWk43cFp5c2YxWWFiRTRoXzdVSTBYNTVXeldqOHBzaE1kVmY2dVhGM3RmNV9OeTZjZFYtOHBMVFRubTY3Q05vMmU1SHY2UUpyREtRRnA4SGJ3WHd3QlRFLXo0anFOV21rTk5Uc1VpSGFrZl93UnJtZlVENU1BSUJNWkRoaWQ0TGtUVm9lekxyaDMycnl1bGfSAboBQVVfeXFMT2xiMnh5WnpwRHJQQi12WWpmd3MxemtvZFVBbFUzRFRDcHNLdWtDM3o2VHNua1NrRzJDYVBfRmU4eEtJYmVTWVF0WS1aN0lXOFE1T1VRR2d0NUk1QzRyeHhlYlMxOG93NXNzcnBVQVU3RlNiZUIyWG1CUW9JelBLMjhZbkdLVS1SRFdBUWV1M0V2UVhYUUFfdDFhb2M1QWZ3NmVpaXNiVUtBcm9Bb0ZVSlltcy04VmRTb3VR?oc=5",
       "published_at": "2026-10-27T04:00:00+00:00",
       "regions": [
         "rd"

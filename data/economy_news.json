@@ -1,7 +1,7 @@
 {
   "date": "2026-10-27",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-27T12:40:00+00:00",
+  "checked_at": "2026-10-27T16:37:01+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -23,12 +23,12 @@
     "bcrd": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 2
     },
     "fiscal": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 1
     },
     "dgii": {
       "ok": true,
@@ -38,7 +38,7 @@
     "finance": {
       "ok": true,
       "error": null,
-      "count": 2
+      "count": 3
     },
     "securities": {
       "ok": true,
@@ -82,6 +82,68 @@
     }
   },
   "items": [
+    {
+      "title": "República Dominicana destaca en ranking mundial de gobernadores de bancos centrales",
+      "publisher": "Hoy Digital",
+      "publisher_url": "https://hoy.com.do",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTVhOcUJTNll2ZHZ2S0x3NUl2VHBodWVCRHhOVERucjNWcVF1QW40NHN5WHlSendxNW1rRmNCSUV1cDBUZjdTdDA1bWNRZWZvMllsQ3IxZnBMWjdySkVWdWpyTWtKRjVsZlI3bnRpQ1ZyN3BqTlZsWHB2TVF0RUp5UHdpRVJPd254QVVXUEVCV1NMbFVuLS13bGZlUGpua0Q0cVpmRUtyLVNjczEwTTI3TG0tcF9Pd9IBuwFBVV95cUxOR0V2NGpCX05lUWxiZEN2WlBIR2loVHozUnVwVUVtYnh3emhSaTZ4ckZFb0l3WlJnei1VWE40UElJRWFNdzdSMWo3NW80RHViTk01Wmh4NFFqanpLb1ZuMTlQTy1fM3R5ZDNwOGtxbTNubGh2U3REUklfOHFnaXFOR2hTNGZqNWxIUThjaDZLVjJ3MDRweTRZTlFJWEtsdEZod19CUUZsdWlFNUdBSXlRMkc5aEJtaE1DTG1N?oc=5",
+      "published_at": "2026-10-27T16:00:02+00:00",
+      "topics": [
+        "bcrd",
+        "finance"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "bcrd"
+      ]
+    },
+    {
+      "title": "Valdez Albizu es reconocido por cuarta vez como líder de banca central",
+      "publisher": "El Caribe",
+      "publisher_url": "https://www.elcaribe.com.do",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOHJRMHpzWF9wbHdsdlI3QmQ4VFJzbzg0d3JwaE54YS1ET1F0XzJCc3hVWjdVRHVjWi1EMXExTUlOUWVCdWNoS0w2YVRmZHctRnRRS1UzSDZjanlOUHNudElyeVp6MWtldktVZHF0TmFjVG53Rmh6QVItd1pOR0YwSzZnMEpka2hfd0dYMm03T0JTT0tUeERrOS12QmJiWUgtc2UyT0E3RElMUnFh?oc=5",
+      "published_at": "2026-10-27T15:28:51+00:00",
+      "topics": [
+        "finance"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "finance"
+      ]
+    },
+    {
+      "title": "Valdez Albizu es reconocido por cuarta vez entre los mejores gobernadores de bancos centrales del mundo",
+      "publisher": "El Nuevo Diario",
+      "publisher_url": "https://elnuevodiario.com.do",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVDVJblQ1ZEJTZ0hOY2NRdjRtaVN0X1lVcVRIOHdOMUJmMzNkTTZNdnF5aGdycTlYVExCWE5tS1dvRGNidkFiVUE5XzFqS0x5cnNINkM0Tlg2NDJlbkJCcUMwUnJXSW9aclpTM2xhLXN4Ukg4MU82STkwVUZBd2R0M1dOcGs5bExScWc1bVNUWU1URG9HdU1ILTFTNFh6RG91N0RLWTdCLWhUTkN6WWxBQ2gyZkFINEtyQ2c5dkFSc2ozME9GUk44MVh1QXpXdw?oc=5",
+      "published_at": "2026-10-27T14:58:10+00:00",
+      "topics": [
+        "bcrd",
+        "finance"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "bcrd"
+      ]
+    },
+    {
+      "title": "El Gobierno dominicano paga deuda con más deuda: más de la mitad de lo que se endeuda va al servicio de pasivos",
+      "publisher": "Acento",
+      "publisher_url": "https://acento.com.do",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQUzNHYUYtOXlUVUhfOHlyTXdvWmFHb0haRG9WdFhacnVoYUJmYXQ2ZU1iMExuSzU2MUtReE81OEsyYjFkR3ZuQkFmQUZNcHFibHREVjc2MUpfOVhLVmhIN2M0TGEyWkVvNTA0S2Rlekt5cWR6QTBGUXVIZHBzVUo4NV9MZFlUTW1pZTJqbUFlOVdRZWdJbzg3RWpRZ0d0RE9LZEJ0ZjJjUUVRY2RrRU04N0l2YW1sUkpxd0trVFJ5SFNKQ3dZZ0FnUWJZZWU5SU9CSXljYVYzcDBTMl9wNVZIVmVWaGpxRC1jdHfSAeoBQVVfeXFMUFMzR2FGLTl5VFVIXzh5ck13b1phR29IWkRvVnRYWnJ1aGFCZmF0NmVNYjBMbks1NjFLUXhPNThLMmIxZEd2bkJBZkFGTXBxYmx0RFY3NjFKXzlYS1ZoSDdjNExhMlpFbzUwNEtkZXpLeXFkekEwRlF1SGRwc1VKODVfTGRZVE1taWUyam1BZTlXUWVnSW84N0VqUWdHdERPS2RCdGYyY1FFUWNka0VNODdJdmFtbFJKcXdLa1RSeUhTSkN3WWdBZ1FiWWVlOUlPQkl5Y2FWM3AwUzJfcDVWSFZlVmhqcUQtY3R3?oc=5",
+      "published_at": "2026-10-27T14:00:41+00:00",
+      "topics": [
+        "fiscal"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "fiscal"
+      ]
+    },
     {
       "title": "Pagos en diez segundos: la banca pierde una comisión y gana un cliente",
       "publisher": "Acento",
