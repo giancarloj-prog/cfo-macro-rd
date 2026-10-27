@@ -1,7 +1,7 @@
 {
   "date": "2026-10-26",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-26T21:45:42+00:00",
+  "checked_at": "2026-10-27T01:02:40+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -29,36 +29,71 @@
     "usa": {
       "ok": true,
       "error": null,
-      "count": 17
+      "count": 19
     },
     "europa": {
       "ok": true,
       "error": null,
-      "count": 25
+      "count": 26
     },
     "global": {
       "ok": true,
       "error": null,
-      "count": 21
+      "count": 22
     }
   },
   "items": [
+    {
+      "title": "Roche gets a lung cancer win with its KRAS drug divarasib",
+      "publisher": "STAT",
+      "publisher_url": "https://www.statnews.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZ3dISFZhbGNTTXNQX3g1d0Y2Z0F0azYtOEhJYzc5a3B2YmRCTTJRZVdTdUhuYzBkMnpRV2lubDloUXBuTDBJRHhzSDIyV1F1eFlrSVYwY1BCSkgzeU1pSUZreDhzZUhqd19ScGJTTURqVEJCX0R5ZTZZdDluTVU3U1lVbFVOQlc4RVFJZXI0ck1SQQ?oc=5",
+      "published_at": "2026-10-26T23:19:20+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Promese/CAL anuncia distribución de 34 millones de unidades de medicamentos para reforzar Farmacias del Pueblo",
+      "publisher": "Hoy Digital",
+      "publisher_url": "https://hoy.com.do",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNN2F4YlhWRzE2SEFSUWNYNU9MRFlRMnNCdjRhaG02U1BqX3FLYVFmcjZzOXVmcjZ5T21lbGNJNlhxT2h1dnREaElWWTVOVzg2UUY2ZWUzYzFkcTB3SXA4dEh4bmxWeWMweFdkSmVDX0VGTHUyX0prbGxPWFBvSmRHWDF3NlBGc3dRZ3FTcXlmQlNWWlZ5NjNnV2NtaUpFNFdqV0IzTXF4c2IzR2JHZl9oNC1aVUdfN3pLRFlyODJjaUdKb29xWEd3XzBMWXnSAdIBQVVfeXFMUE4wTVFuajlrSWdVYTdMUkl6VkhTclBGcE04UWp5TTU4NWxDOEFvd3lSUjg0UGh3YWFCVkhKM1dMalpVWm04NmNkLTNDZ1dkSGRPS1d4ZDVnSEstZ2ZodWRxTWp0NU96QVBZb2w5UVdoc2FPMmJNaW85Wmp0bjZFS3lISTlxV1A1dG9vYWxBLVJCcDMwZ25MWnFjdXE0VV85OFNuN2RjekZLWkdpMXdnWUR0eFdPSmVwMW12c0hiMlFpR2EyS1FUank5YW9rUWJUWFdn?oc=5",
+      "published_at": "2026-10-26T22:53:12+00:00",
+      "regions": [
+        "rd"
+      ]
+    },
+    {
+      "title": "Merck drug extends survival in endometrial cancer trial, wins US priority review",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONEdIZ0VwaGxubUJfcXBfUGhJTnliUTV0ZUU0SFNKdmlqd0VKdFBOSUdqZUFmLWRvT3N3Q0ZGZGd2a2FoejlrLXZXX3NOaThwX2RnbzFTcUREQ2FjOTdnQ2dlQzZQWUg0R1U3ejZJSTBudGNOWWxWY2pEanpuYllLZUlDNXlmX0VqLXJyZnBHSF9kRTktZlpVbmpMUk5zNzA3ZlBrZkZiaHVvYko0YTJGWl9iV0NLVWhhRkZMWDYtS0gwODhkV3NFYU13UWVhNEdwT1AzQkxxTEw?oc=5",
+      "published_at": "2026-10-26T22:37:25+00:00",
+      "regions": [
+        "europa",
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "US judge refuses to block Eli Lilly weight-loss drug ads, rules against Novo Nordisk",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRmpNcDhCbWpETXNLU0hDNDVmbGh6Y1l3d0NJWXAyUHJKdTNCam1RSmxmU3N5M2ExemdvTlJfYUtfaDhlQlp1RGg2Q2Y1OGpxSWF6WEV5TTdyWmlxXzBsNjVHbmhBQ0M1SUEzYWRsV28xZ05GWVE1QmFvUTVtcGw0QzhsZlViWlN3WjJhZzdvQWdldGdncWVvZTFvV3U3UDRVRTZRR0piQjZHWHNfUUhIZ3lSTFJXdw?oc=5",
+      "published_at": "2026-10-26T22:27:02+00:00",
+      "regions": [
+        "europa",
+        "global",
+        "usa"
+      ]
+    },
     {
       "title": "Incorporarán 34 millones de unidades de acetaminofén y omeprazol en Farmacias del Pueblo",
       "publisher": "Diario Libre",
       "publisher_url": "https://www.diariolibre.com",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUmRqUXpQZk9OU3BVUklMRnlaM3NJR3J6U19NSFFHUU1qb0o3WEZsT3YwNkNRQXl1ZzhyaXFockdlX2k1REdNV0NNSnpuZ2c1b0xfNlZuak5RYlVrVzVzTUJvY2dCM2V6eC1zLTh6TURNNTFwS1Vsem5mMDh5SlZnS3lPSThkdzlVM0pKNWxKbmRpVE1Ybm02dG5ZMnJHM09TcHFCVFlpZ200dkNESXotSkM0a0hIZGR4VGh4T2lxQVZFdTFi0gHKAUFVX3lxTFBPdUtrQ2I2WHF2NUxZRFpURGFacXJOdjMxVEFndF9OdGRBcnlzTXQzMlh2ZnBJSXh1TE95RUhIMUxTUmxWWDdHNVpjM1d0VW41T0hseWZ3Y0wtdnhJM1Fxd21ydjJacGpiM2VIUG14X0ZWWFpiaU1ib05UT1QxMktFNUoxXzN3UEsxUHZfMFEzVGZsRTM3ZEwxbThlV011SW1YcFBNZkZMTGZBbVhDUFVhcFUzWWJFTzZ0dVJzcjlDN2hZRmpLN2VhRWc?oc=5",
       "published_at": "2026-10-26T21:09:47+00:00",
-      "regions": [
-        "rd"
-      ]
-    },
-    {
-      "title": "PROMESE/CAL anuncia distribución de 34 millones de unidades de medicamentos para reforzar Farmacias del Pueblo",
-      "publisher": "El Dia.com.do",
-      "publisher_url": "https://eldia.com.do",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTG12Z21XbWhNUmZnSjVKNXNlWEdMb2t6SWgzMXlTSTV6SklIQ0dxWmdDcVc1Vy1sdVpRbTJ6Ry0yeE5QaTBOVjZURm55b2dEX0wyT1daLTVEU1VyaXlQSWljN3ZSOWhMdTFLSFpkeU42ci16c3FHQ1BJZnRzdXUyd1JfcmlacGVZd1NpTGk5ZF9OWlM4bXpCSjdfMmw2bDJjMGoyWUk2bWdGRWpWelBjcFg2VHFLbHowWEM5WFNiYVJJY3V6ZE9QQThzOE0?oc=5",
-      "published_at": "2026-10-26T21:07:00+00:00",
       "regions": [
         "rd"
       ]
@@ -90,18 +125,6 @@
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQei1pRkV5XzItQTIwR0ptaG5wOGZXSDNBdERUaGZtS1ptMUlHNnlnNlVNdDRSekE1dzhUUVZKdXN5dUlKbUpuWVEwcUlnZ3V1WmZPMkw3dGh2MVFCdTNScDVqWXF1ckJfNlRVaXQzTk1yOXFCS0pYU0swRV9DRVJYV085SGg0N2xOZWJsN0tlRFQ2ZjE0VGc?oc=5",
       "published_at": "2026-10-26T20:15:00+00:00",
       "regions": [
-        "global",
-        "usa"
-      ]
-    },
-    {
-      "title": "US judge won't block Eli Lilly ads for weight-loss drugs, rules against Novo Nordisk",
-      "publisher": "Reuters",
-      "publisher_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRmpNcDhCbWpETXNLU0hDNDVmbGh6Y1l3d0NJWXAyUHJKdTNCam1RSmxmU3N5M2ExemdvTlJfYUtfaDhlQlp1RGg2Q2Y1OGpxSWF6WEV5TTdyWmlxXzBsNjVHbmhBQ0M1SUEzYWRsV28xZ05GWVE1QmFvUTVtcGw0QzhsZlViWlN3WjJhZzdvQWdldGdncWVvZTFvV3U3UDRVRTZRR0piQjZHWHNfUUhIZ3lSTFJXdw?oc=5",
-      "published_at": "2026-10-26T20:14:30+00:00",
-      "regions": [
-        "europa",
         "global",
         "usa"
       ]
@@ -147,6 +170,18 @@
       "regions": [
         "europa",
         "global"
+      ]
+    },
+    {
+      "title": "Aspen Neuroscience, Bambusa Therapeutics launch US IPOs as biotech boom rolls on",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTWk5V3ZnbFA1N2hWSng0bHhyenpUMTNnRFRRY2hyOVVDMW5ETy1zZGV4MVEzYk1WRUZEZFkyTU4tVUZqLUNkUlJzdlU3dzUzNVYyUktTQ2Y0T2lWcWpPUjBZeXBEamN1QnRhYnlOYjhaYms4Q0pQUjcwM2h2MW9wc201R211T21lMWxDNk5ka1pZSmdHVS12a3pYR3NUTl9MUE05ZktoRl81dmtrOWV0RG5lVDJEZFNNeGREMVR4dFV4dWx4MlhpUw?oc=5",
+      "published_at": "2026-10-26T19:06:10+00:00",
+      "regions": [
+        "europa",
+        "global",
+        "usa"
       ]
     },
     {
@@ -226,20 +261,8 @@
       "publisher": "STAT",
       "publisher_url": "https://www.statnews.com",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWjQ2a2NPaDViUVBEOWxRM0p6eElneTkyS21OSmV2UkdPN25keE9WdlBPOW9HVThWVjcxSXZBTUE4cVhieXg0NEh0a1J0cUFuNmpXbHNXd0RLQVRuUnhXdVBCWm9iUEVvbW40RTUwT241SU5IRDFKZG85UXdnUW9kLUN4cG5Obmg4ZFJoQnE1X3pTVTh1NUpIbWJ0YWZvcjQ5QlZLNll3OWJKb1N2a0Vr?oc=5",
-      "published_at": "2026-10-26T16:30:20+00:00",
+      "published_at": "2026-10-26T16:31:00+00:00",
       "regions": [
-        "global",
-        "usa"
-      ]
-    },
-    {
-      "title": "Merck drug extends survival in endometrial cancer trial, wins US priority review",
-      "publisher": "Reuters",
-      "publisher_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONEdIZ0VwaGxubUJfcXBfUGhJTnliUTV0ZUU0SFNKdmlqd0VKdFBOSUdqZUFmLWRvT3N3Q0ZGZGd2a2FoejlrLXZXX3NOaThwX2RnbzFTcUREQ2FjOTdnQ2dlQzZQWUg0R1U3ejZJSTBudGNOWWxWY2pEanpuYllLZUlDNXlmX0VqLXJyZnBHSF9kRTktZlpVbmpMUk5zNzA3ZlBrZkZiaHVvYko0YTJGWl9iV0NLVWhhRkZMWDYtS0gwODhkV3NFYU13UWVhNEdwT1AzQkxxTEw?oc=5",
-      "published_at": "2026-10-26T16:30:03+00:00",
-      "regions": [
-        "europa",
         "global",
         "usa"
       ]
@@ -393,6 +416,16 @@
       ]
     },
     {
+      "title": "Carnet digital: Así puede consultar qué vacunas tienen y cuáles les faltan a sus hijos",
+      "publisher": "www.laprensa.hn",
+      "publisher_url": "https://www.laprensa.hn",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcWZraG55dUs3RDFTcExTTjlNMWxZeDRUc0hNU24wWVJDSkt2NkhNY1hhaVNnUFhidlM4dDlJQzZWMkZaLTZjSTRKMUttSlhQa3d2OGRocV8yN1ZYRk96RGF0ZHMxOGtHQXlvRUIxdENxRnZoLTdVbzJFd1I4ZTdGV1A4cVhkaGxDS1hReEdFcHdYZm1Pc0o3ZWNYdG5iZw?oc=5",
+      "published_at": "2026-10-26T12:04:41+00:00",
+      "regions": [
+        "centroamerica"
+      ]
+    },
+    {
       "title": "UK biotech financing shoots up, setting up \"a record year\"",
       "publisher": "pharmaphorum",
       "publisher_url": "https://pharmaphorum.com",
@@ -400,16 +433,6 @@
       "published_at": "2026-10-26T12:01:54+00:00",
       "regions": [
         "europa"
-      ]
-    },
-    {
-      "title": "Carnet digital: Así puede consultar qué vacunas tienen y cuáles les faltan a sus hijos",
-      "publisher": "www.laprensa.hn",
-      "publisher_url": "https://www.laprensa.hn",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcWZraG55dUs3RDFTcExTTjlNMWxZeDRUc0hNU24wWVJDSkt2NkhNY1hhaVNnUFhidlM4dDlJQzZWMkZaLTZjSTRKMUttSlhQa3d2OGRocV8yN1ZYRk96RGF0ZHMxOGtHQXlvRUIxdENxRnZoLTdVbzJFd1I4ZTdGV1A4cVhkaGxDS1hReEdFcHdYZm1Pc0o3ZWNYdG5iZw?oc=5",
-      "published_at": "2026-10-26T12:00:00+00:00",
-      "regions": [
-        "centroamerica"
       ]
     },
     {
@@ -534,16 +557,6 @@
       "published_at": "2026-10-26T07:29:03+00:00",
       "regions": [
         "mexico"
-      ]
-    },
-    {
-      "title": "- Fierce Pharma",
-      "publisher": "Fierce Pharma",
-      "publisher_url": "https://fp-resources.fiercepharma.com",
-      "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQaW1tWXBTdmJLN0lEV0tRVWEzbG52UjktRlZiWm5jTDFmaGc0QlpUazREOFFTMGFBdUkyYnl6dXk4RGFhb3E4QTFDZGh2QWlHOTFOLVhNcUNXUW5KMGJlSVQtdUoxVnZoVmxVckM1Y3c1TGRLRHBGZEp5Z2tyNTgzb1RzVUpFZzVROTdtd1ZRc3BKSHVfajYwdHZqQ29wNXBRdWV2eGFkSV9RT3pqV2hSUHpTdnF3eGFvQXlHUVZDbUpSWUY0UU5hallGV0pLMTlQMEJ4UWg0TFYwSkhkOVJBUHoxR19YaXBjV0loOU5xeVlJekViWHMzaTNQODJwQWZXTkUtYlBtbGF0QVNoY0d2ekdfSDRjRGpSZnh3bTZENlZOUlZsbzYzLVBoQmM2MHQ4LVhUZ2ppLVh2R1VvdGc?oc=5",
-      "published_at": "2026-10-26T06:43:36+00:00",
-      "regions": [
-        "global"
       ]
     },
     {

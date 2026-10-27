@@ -1,7 +1,7 @@
 {
   "date": "2026-10-26",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-26T21:45:41+00:00",
+  "checked_at": "2026-10-27T01:02:39+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -23,7 +23,7 @@
     "bcrd": {
       "ok": true,
       "error": null,
-      "count": 2
+      "count": 4
     },
     "fiscal": {
       "ok": true,
@@ -33,12 +33,12 @@
     "dgii": {
       "ok": true,
       "error": null,
-      "count": 5
+      "count": 7
     },
     "finance": {
       "ok": true,
       "error": null,
-      "count": 3
+      "count": 4
     },
     "securities": {
       "ok": true,
@@ -48,7 +48,7 @@
     "economy": {
       "ok": true,
       "error": null,
-      "count": 4
+      "count": 7
     },
     "economist_andy": {
       "ok": true,
@@ -82,6 +82,116 @@
     }
   },
   "items": [
+    {
+      "title": "La minería aportó RD$26,773.5 millones en impuestos en enero-septiembre",
+      "publisher": "Periódico elDinero",
+      "publisher_url": "https://eldinero.com.do",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPczg3bEsxV2VkQTNKajgzOUhuWS1NTEJ2S3FiNVNEZjJLZlk4ekdiY1RpQnc5XzZFRzBvZVVfTGd5R2ZvZWk2VzNsS3dfN2tYeXNWODZTZGtmZGF5bXpMWHVqODROQW0xenpGbUprQllreXIzVzZVUV90UmpKS3NNb21jZzFwMC11RXhOX1NWaUpCeWU5ek9VYTlQdzRhTGRtZkFr?oc=5",
+      "published_at": "2026-10-27T00:19:39+00:00",
+      "topics": [
+        "dgii"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "dgii"
+      ]
+    },
+    {
+      "title": "Banco Central celebra su 79 aniversario con misa de acción de gracias",
+      "publisher": "Acento",
+      "publisher_url": "https://acento.com.do",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWGN1aVhGWXJQNWhpSlJ4OUpWUFRYYjk5ZXByMTI0MXdMM056c1I5RjFpNjFtaE9NNjJZbDI2X01JV3BadUFfNGtrRE93aTVOU2FwYmYwZ0VsVlYxa3hXbDd2a0RJM3JuSXhJYUZxVXdMcU12eGp6OU1LYVpWelVhUVpoNDBJSlRyaVF4TTAyQVhPUTdkd0VSWlNBdDhEbW13R0ZNZzJZaWdUNllZNkJUSG44VdIBswFBVV95cUxNWGN1aVhGWXJQNWhpSlJ4OUpWUFRYYjk5ZXByMTI0MXdMM056c1I5RjFpNjFtaE9NNjJZbDI2X01JV3BadUFfNGtrRE93aTVOU2FwYmYwZ0VsVlYxa3hXbDd2a0RJM3JuSXhJYUZxVXdMcU12eGp6OU1LYVpWelVhUVpoNDBJSlRyaVF4TTAyQVhPUTdkd0VSWlNBdDhEbW13R0ZNZzJZaWdUNllZNkJUSG44VQ?oc=5",
+      "published_at": "2026-10-26T23:45:45+00:00",
+      "topics": [
+        "bcrd",
+        "finance"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "bcrd",
+        "finance"
+      ]
+    },
+    {
+      "title": "Banco Central de República Dominicana da gracias en su 79º aniversario",
+      "publisher": "Diario Libre",
+      "publisher_url": "https://www.diariolibre.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRVVlclZzblMzTW5UU2NmcURJRVVEMDY4Q2p4bEh0bUstUE5xLVg3ajdvNVZndlU3UkxrUHZJZ0k3Y1FsMW5pcVRCS1pCMlc4Wk5DTHI0ZmlZUlJwcEVXeHdjNnQ5eTk2SUo4cEFXUlh6bnotclpveUZMWkZhNWZoWTFCTnluWnZXR00zSzJocGkxRzY5NW4zSnNOOGM5Z0hvdGhJWXlzN21OMkxjZmfSAbMBQVVfeXFMTWpFMTVnSS1GS0ZsR3lFR3RjaXZJVTdVLThicVBJdW5lMXUwNnJrZUNfR01PckZVOHp4RjBaN3NEN1ZvZWFrUzZaX0Z3dkNjQ05QTmllUkdBdXExMTROMWxLZTJhZEFfUnZ0T09pelhwVk9OSXhmVFFjVVZTLWxralJzMDNSY0NNbUhqS2duek9UN2VTRG00TTh0X2ZtOUlPR1JsZWQ0NlctSURQaDV3cHpoTnM?oc=5",
+      "published_at": "2026-10-26T23:18:00+00:00",
+      "topics": [
+        "bcrd",
+        "finance"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "bcrd"
+      ]
+    },
+    {
+      "title": "DGII recuerda que Grandes Locales y Medianos deberán emitir facturas electrónicas desde noviembre",
+      "publisher": "Acento",
+      "publisher_url": "https://acento.com.do",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNNThFMC1YNGY0bVd5QzV3Z1ByeEt3WDIzc0FITDFHbE1sUzZaTHlDeDBXVjZQZjVORllZSU1jZkVQZVdpMFpGRC1ONml1bFc0dlg2eHh5YVhONGdCa1duQWJvaGhEdXlybjRJQ3p0ZjVZb1daVjgtTEJWUlRQRVlkM25wblNuVERVWE54d2tGOHl6ajhQVEkzZkxBQmFncFZ2M0xxcDk2N3NXeHpfUG1hRFNodGJmZXBoZkcwSTdHMGs5eDRpZ1RraTBLcl9ia0MzUUxlWU5wS3VPWDTSAdsBQVVfeXFMTTU4RTAtWDRmNG1XeUM1d2dQcnhLd1gyM3NBSEwxR2xNbFM2Wkx5Q3gwV1Y2UGY1TkZZWUlNY2ZFUGVXaTBaRkQtTjZpdWxXNHZYNnh4eWFYTjRnQmtXbkFib2hoRHV5cm40SUN6dGY1WW9XWlY4LUxCVlJUUEVZZDNucG5TblREVVhOeHdrRjh5emo4UFRJM2ZMQUJhZ3BWdjNMcXA5NjdzV3h6X1BtYURTaHRiZmVwaGZHMEk3RzBrOXg0aWdUa2kwS3JfYmtDM1FMZVlOcEt1T1g0?oc=5",
+      "published_at": "2026-10-26T23:00:10+00:00",
+      "topics": [
+        "dgii"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "dgii"
+      ]
+    },
+    {
+      "title": "DGII: emisión facturas electrónicas de tipo “E” para grandes locales y medianos contribuyentes desde noviembre",
+      "publisher": "Hoy Digital",
+      "publisher_url": "https://hoy.com.do",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVm83cUNzU0Jtc1N3d0pfN0VaamFKQlJWNVdoQnVVTDQwVlA4N0FiVzI3a3FvdFlyQ2pEZi1feUZmcXR6aVBKX1AtdU51TEJkMV91WXExWVBfQ1dHRVRzWmlObDcxWVhaSXBrdnVnemhHN296SkRlN0NjVVoxTVRCOWpLV092LUtVeFoyS3VnT0NmZWhTY0FrRGZxU0tHT2lqcVVaTEJvR1FYcUh3ck1aRHhJUFcxT1R0dnNBVzU3aFlma3pQMFkycEg2d2I2SXdUVFFsa0t3dmR1Ujh50gHcAUFVX3lxTFBWbzdxQ3NTQm1zU3d3Sl83RVpqYUpCUlY1V2hCdVVMNDBWUDg3QWJXMjdrcW90WXJDakRmLV95RmZxdHppUEpfUC11TnVMQmQxX3VZcTFZUF9DV0dFVHNaaU5sNzFZWFpJcGt2dWd6aEc3b3pKRGU3Q2NVWjFNVEI5aktXT3YtS1V4WjJLdWdPQ2ZlaFNjQWtEZnFTS0dPaWpxVVpMQm9HUVhxSHdyTVpEeElQVzFPVHR2c0FXNTdoWWZrelAwWTJwSDZ3YjZJd1RUUWxrS3d2ZHVSOHk?oc=5",
+      "published_at": "2026-10-26T22:02:12+00:00",
+      "topics": [
+        "dgii"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "dgii"
+      ]
+    },
+    {
+      "title": "Global Finance reconoce a Banreservas como el banco más seguro del país en 2026",
+      "publisher": "Acento",
+      "publisher_url": "https://acento.com.do",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcXJlWFFaSjlwZEh2aUxmd2RFVk9pMkdPZlVOWVdoTGN6SWl0c3F2MzBYWkZUdVY4a1ZQdEwxVEktd1F2S25ySGhXX3NscktnM29SOFYyVllIaEpDVlF1QjNCZ18xSklNVThwTjVTZ2p2a01SWk9xMEhyaHZSS3RHZFh0RW15LVZ4SHhKZmJIT0ZHbEdpdVJ0cDItVEdZVXVOREtydkdJSG4wdHBvUXA3QTkyMDdLd3E1NTVhQXE1MTPSAcABQVVfeXFMTnFyZVhRWko5cGRIdmlMZndkRVZPaTJHT2ZVTllXaExjeklpdHNxdjMwWFpGVHVWOGtWUHRMMVRJLXdRdktuckhoV19zbHJLZzNvUjhWMlZZSGhKQ1ZRdUIzQmdfMUpJTVU4cE41U2dqdmtNUlpPcTBIcmh2Ukt0R2RYdEVteS1WeEh4SmZiSE9GR2xHaXVSdHAyLVRHWVV1TkRLcnZHSUhuMHRwb1FwN0E5MjA3S3dxNTU1YUFxNTEz?oc=5",
+      "published_at": "2026-10-26T22:00:43+00:00",
+      "topics": [
+        "economy",
+        "finance"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "economy",
+        "finance"
+      ]
+    },
+    {
+      "title": "Las exportaciones de oro alcanzan los US$2,392.5 millones entre enero y septiembre",
+      "publisher": "Diario Libre",
+      "publisher_url": "https://www.diariolibre.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeUtSNDRFcmtVWC1NQkhJa3hCR21LaHRZWFRzNnFTemJkZDlTRFVSQ0NIaDRVcGhDbk1mNm5GNzhLcWtheHZzM19ETEJNX25GVWhiYm5MOFJrZnRlTUxRcVIwQmwwQW41YXRxX09WMHRzbXBwQjBMRmhycDZ6WmJfZk50UFhZbG5CWktqUkZBMC1LbDVUdGkzVGpDaVAxVVJiV2daVzlSUjdSVkhlaVlYNGxmcWdtYU5DTVM0Q1EydHDSAcYBQVVfeXFMUFUwbF9mdFNSVEs4aENNTllrM1ZabUFodlZpeENoMFRsZ2M0Nk1TWFY2QnY5SDFlTDFHdHN4QTlNNmUwQjZjaFpNd2RNR3VfcUdQcnRDSW1kdm41LXI1U3FOaVJXTjVUOEV1aXBKdk9sdkhXWXk5dHBweXVhQjdWS3ZtXzFjcjNENEZlUkFSbktBN1h3YWpzNUE5d3dJd0hqeWJPczU3TDl3SGNzNV9GcE9DQXhwdGRuV0Z4d0NaWkhXcGZ0MmR3?oc=5",
+      "published_at": "2026-10-26T21:19:00+00:00",
+      "topics": [
+        "economy"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "economy"
+      ]
+    },
     {
       "title": "Ministro Santos destaca aporte de la minería a la economía tras crecer 17.9% en septiembre",
       "publisher": "Periódico elDinero",
@@ -186,7 +296,7 @@
       "publisher": "Periódico elDinero",
       "publisher_url": "https://eldinero.com.do",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNl8zc2FVNVFiZEtmMWlwcThkRDlRNFh0em5RSkdtRmN5OV9xNlpMWjFhVmtoTWF3OW54NkZWUnFiZ29GN1dxLWRZTGR1dC12OEJTT2ZVSEp4UWxKenRVLVpKeXlRdm91U2o2d3JPdDByWWRqMVRQYVhoSHB5YTZ2XzA3TXpjWU9hcmMyZUpjWkM0X0tmR3M1Nk50V1c1M1p3Vlp4LWtGbEN1TmNF?oc=5",
-      "published_at": "2026-10-26T17:42:12+00:00",
+      "published_at": "2026-10-26T17:42:37+00:00",
       "topics": [
         "dgii"
       ],
@@ -288,21 +398,6 @@
       "economist_match": null,
       "searches": [
         "securities"
-      ]
-    },
-    {
-      "title": "La minería aportó RD$26,773.5 millones en impuestos en enero-septiembre",
-      "publisher": "Periódico elDinero",
-      "publisher_url": "https://eldinero.com.do",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPczg3bEsxV2VkQTNKajgzOUhuWS1NTEJ2S3FiNVNEZjJLZlk4ekdiY1RpQnc5XzZFRzBvZVVfTGd5R2ZvZWk2VzNsS3dfN2tYeXNWODZTZGtmZGF5bXpMWHVqODROQW0xenpGbUprQllreXIzVzZVUV90UmpKS3NNb21jZzFwMC11RXhOX1NWaUpCeWU5ek9VYTlQdzRhTGRtZkFr?oc=5",
-      "published_at": "2026-10-26T13:00:13+00:00",
-      "topics": [
-        "dgii"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "dgii"
       ]
     },
     {
