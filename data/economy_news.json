@@ -1,7 +1,7 @@
 {
   "date": "2026-10-27",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-27T16:52:38+00:00",
+  "checked_at": "2026-10-27T21:04:18+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -23,12 +23,12 @@
     "bcrd": {
       "ok": true,
       "error": null,
-      "count": 4
+      "count": 2
     },
     "fiscal": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 2
     },
     "dgii": {
       "ok": true,
@@ -48,7 +48,7 @@
     "economy": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 4
     },
     "economist_andy": {
       "ok": true,
@@ -83,10 +83,41 @@
   },
   "items": [
     {
+      "title": "RD consolida su crecimiento en inversión extranjera y exportaciones",
+      "publisher": "El Nuevo Diario",
+      "publisher_url": "https://elnuevodiario.com.do",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYUJ5c1dpc3BlRUFrUVhvY3NqSVB5RVV1YXAwQVpJM0xkLTQwWnRiT1U4aG8wdHdvTk1IQ01QVGYwdUNCa3N6QjJHQzk2NExFa2pBc2pmZ2dHaTZKWlNpbjgyNGZzZnV2ci02TXhpQzhIcTNoNFhGcEJsSGN4MXhjRDlNbFp6c3UzY1Y0UHliTUgxT200SlYwMjFFSEgxUQ?oc=5",
+      "published_at": "2026-10-27T18:15:32+00:00",
+      "topics": [
+        "economy"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "economy"
+      ]
+    },
+    {
+      "title": "Hacienda clasifica como “neutros” los efectos ambientales del gasto tributario del turismo",
+      "publisher": "Acento",
+      "publisher_url": "https://acento.com.do",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMHZmNXV5ekJJR0Z1N18xZ05qbmJZZjd3RF9VVUZHVkZmQXRSZ0cwRWd0Wi1CRE1mbjVzUVZxTk1rMFJ1OUpLVTdzYXV2LXBQYmlyRTJ0LXRLSkNEZmZHRm15Qm95c2xrcXlJNk9qUDNleUEzX1N1aUVTQkx2bmY4YkdXUUhhQjF2SXMxVG9jWGstY2xJX3ZoNmRNX3ZxSXQ5Vy1CYVlQQ3JFeUwtMzBMU1IzUGlaV190amVZd1FZMnhxMmt1YnJwY3JiU1PSAcwBQVVfeXFMTzB2ZjV1eXpCSUdGdTdfMWdOam5iWWY3d0RfVVVGR1ZGZkF0UmdHMEVndFotQkRNZm41c1FWcU5NazBSdTlKS1U3c2F1di1wUGJpckUydC10S0pDRGZmR0ZteUJveXNsa3F5STZPalAzZXlBM19TdWlFU0JMdm5mOGJHV1FIYUIxdklzMVRvY1hrLWNsSV92aDZkTV92cUl0OVctQmFZUENyRXlMLTMwTFNSM1BpWldfdGplWXdRWTJ4cTJrdWJycGNyYlNT?oc=5",
+      "published_at": "2026-10-27T17:00:23+00:00",
+      "topics": [
+        "dgii",
+        "fiscal"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "fiscal"
+      ]
+    },
+    {
       "title": "República Dominicana destaca en ranking mundial de gobernadores de bancos centrales",
       "publisher": "Hoy Digital",
       "publisher_url": "https://hoy.com.do",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTVhOcUJTNll2ZHZ2S0x3NUl2VHBodWVCRHhOVERucjNWcVF1QW40NHN5WHlSendxNW1rRmNCSUV1cDBUZjdTdDA1bWNRZWZvMllsQ3IxZnBMWjdySkVWdWpyTWtKRjVsZlI3bnRpQ1ZyN3BqTlZsWHB2TVF0RUp5UHdpRVJPd254QVVXUEVCV1NMbFVuLS13bGZlUGpua0Q0cVpmRUtyLVNjczEwTTI3TG0tcF9Pd9IBuwFBVV95cUxOR0V2NGpCX05lUWxiZEN2WlBIR2loVHozUnVwVUVtYnh3emhSaTZ4ckZFb0l3WlJnei1VWE40UElJRWFNdzdSMWo3NW80RHViTk01Wmh4NFFqanpLb1ZuMTlQTy1fM3R5ZDNwOGtxbTNubGh2U3REUklfOHFnaXFOR2hTNGZqNWxIUThjaDZLVjJ3MDRweTRZTlFJWEtsdEZod19CUUZsdWlFNUdBSXlRMkc5aEJtaE1DTG1N?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOR0V2NGpCX05lUWxiZEN2WlBIR2loVHozUnVwVUVtYnh3emhSaTZ4ckZFb0l3WlJnei1VWE40UElJRWFNdzdSMWo3NW80RHViTk01Wmh4NFFqanpLb1ZuMTlQTy1fM3R5ZDNwOGtxbTNubGh2U3REUklfOHFnaXFOR2hTNGZqNWxIUThjaDZLVjJ3MDRweTRZTlFJWEtsdEZod19CUUZsdWlFNUdBSXlRMkc5aEJtaE1DTG1N0gG7AUFVX3lxTE5HRXY0akJfTmVRbGJkQ3ZaUEhHaWhUejNSdXBVRW1ieHd6aFJpNnhyRkVvSXdaUmd6LVVYTjRQSUlFYU13N1Ixajc1bzREdWJOTTVaaHg0UWpqektvVm4xOVBPLV8zdHlkM3A4a3FtM25saHZTdERSSV84cWdpcU5HaFM0Zmo1bEhROGNoNktWMncwNHB5NFlOUUlYS2x0Rmh3X0JRRmx1aUU1R0FJeVEyRzloQm1oTUNMbU0?oc=5",
       "published_at": "2026-10-27T16:00:02+00:00",
       "topics": [
         "bcrd",
@@ -105,11 +136,13 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOHJRMHpzWF9wbHdsdlI3QmQ4VFJzbzg0d3JwaE54YS1ET1F0XzJCc3hVWjdVRHVjWi1EMXExTUlOUWVCdWNoS0w2YVRmZHctRnRRS1UzSDZjanlOUHNudElyeVp6MWtldktVZHF0TmFjVG53Rmh6QVItd1pOR0YwSzZnMEpka2hfd0dYMm03T0JTT0tUeERrOS12QmJiWUgtc2UyT0E3RElMUnFh?oc=5",
       "published_at": "2026-10-27T15:28:51+00:00",
       "topics": [
+        "economy",
         "finance"
       ],
       "economists": [],
       "economist_match": null,
       "searches": [
+        "economy",
         "finance"
       ]
     },
@@ -121,12 +154,14 @@
       "published_at": "2026-10-27T14:58:10+00:00",
       "topics": [
         "bcrd",
+        "economy",
         "finance"
       ],
       "economists": [],
       "economist_match": null,
       "searches": [
-        "bcrd"
+        "bcrd",
+        "economy"
       ]
     },
     {
@@ -137,12 +172,14 @@
       "published_at": "2026-10-27T14:00:41+00:00",
       "topics": [
         "bcrd",
+        "economy",
         "fiscal"
       ],
       "economists": [],
       "economist_match": null,
       "searches": [
         "bcrd",
+        "economy",
         "fiscal"
       ]
     },

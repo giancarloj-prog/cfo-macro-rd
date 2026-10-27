@@ -1,7 +1,7 @@
 {
   "date": "2026-10-27",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-27T16:52:39+00:00",
+  "checked_at": "2026-10-27T21:04:19+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -14,7 +14,7 @@
     "rd": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 2
     },
     "centroamerica": {
       "ok": true,
@@ -24,17 +24,17 @@
     "mexico": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 2
     },
     "usa": {
       "ok": true,
       "error": null,
-      "count": 12
+      "count": 18
     },
     "europa": {
       "ok": true,
       "error": null,
-      "count": 17
+      "count": 16
     },
     "global": {
       "ok": true,
@@ -44,11 +44,93 @@
   },
   "items": [
     {
+      "title": "Medix cumple 70 años: la farmacéutica mexicana se reinventa para duplicar sus ventas en cinco años",
+      "publisher": "MILENIO",
+      "publisher_url": "https://www.milenio.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOc2NiamFOYzdacmtINXlxaDF5UTFGMGF3b1k2NEt6b2ZKLWJHZnpmd1k3XzNNa3AxLXROVHVILTB5REhVQTNzdmxmYkppOE1WMzNzX2JiU3BydWhJbG9mamlGNWxGMFQ5UGtqSU9oRUlSMlN5RHdRSGxETE9vS0VjVnA4QXFVNkRvalRtWVRkcnlmcGNST0Iw0gGXAUFVX3lxTFBLcm9aYUZ6OUF3dE9GdjBCcV9vcnpvb1VKdTY3OVMzeUJvTDl6R2NkbzJOQTZaOWZGODJLakdaQ05RMUY5ZXYyek5WdWlOcTdDbDVxTF96eHVLcktUbi02OHI1TWRMSTNTTnNxd1pQcmxIM3FOdjNCYUY4ZlV2dm5LUFFjb2pRM3c0dFVDUEFBcUM3WVJ5Vzg?oc=5",
+      "published_at": "2026-10-27T20:18:00+00:00",
+      "regions": [
+        "mexico"
+      ]
+    },
+    {
+      "title": "ChatGPT’s Advice to Cut Her Seizure Drug Led to Devastating Consequences",
+      "publisher": "The New York Times",
+      "publisher_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZ0NqMW1MSnJGeVB2WHVWdWR4V0wySkRhVUpXTG1hQk1iZU1CY3pNeGRwUkVIcU83V01mckM5Z01qTmw0T2tRUVZmM1luNE55bDluMEQzUzB5THBzZWJYZ1ZTRFA3a0otUVZDRWRVdDdmTm9WY2VoazJUR19nNGlGNU9WNHVxWGZV?oc=5",
+      "published_at": "2026-10-27T19:38:47+00:00",
+      "regions": [
+        "usa"
+      ]
+    },
+    {
+      "title": "Missouri AG warns Lilly to stop requiring data from hospitals seeking 340B drug discounts",
+      "publisher": "STAT",
+      "publisher_url": "https://www.statnews.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYm1hYUdkSUY1elVxam9DME4tTjRKMDlnb3U5Qmc5R3FhaWpaaEhtRzZsTzNPTlVIMVRjZ2NXV1hOTEhjZTJ4MDkwZDRKaEh6YTFzbGZyYktSUHhaaUtUb1puUExKaFl5RnJrQ3FuX292YnJoUTVCWEhZZ2VHcnVnTzJQNUNYV3NzXzA1R0hYcHZmMWlnX1JJUw?oc=5",
+      "published_at": "2026-10-27T18:51:08+00:00",
+      "regions": [
+        "usa"
+      ]
+    },
+    {
+      "title": "I just bought this pharma stock for its next generation of blockbuster drugs — and its dividend",
+      "publisher": "CNBC",
+      "publisher_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBGTWZjWTlYUXkySXJRUTA5RjUycTRoRHZSWkRsQ3JRU3NiVkFDZFNoWXl6VnJyNFVSLXMySm96SDlneWxGSDhYc3FmZ0JOOVhtUGdHQzlTeVBSN0xRTTdhVnBHZ1VfUjNpd0dVaEZtblJ1T3p0ZHc?oc=5",
+      "published_at": "2026-10-27T18:00:20+00:00",
+      "regions": [
+        "usa"
+      ]
+    },
+    {
+      "title": "US military says strike on alleged drug vessel in eastern Pacific kills five people",
+      "publisher": "The Guardian",
+      "publisher_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNOXhmUjRYNVBFOVMtb1ZtUkJZQmt2R21iVkowSkJLOFl3UVBzRVp1TFlMQU5NbVVJUkhyRmJlcTFWaUxOWHVxUk1ueXFVTWxBTkRBY19tOW8tcXZLeVpsTlpTc0VrNHNrU0VDbWtPcDRxY2xCTWxLdENFT1ZNd2RPTEVkZFVHOURKSUZXWUFpY2tON2c?oc=5",
+      "published_at": "2026-10-27T17:35:56+00:00",
+      "regions": [
+        "europa",
+        "global"
+      ]
+    },
+    {
+      "title": "US military says 5 were killed by a strike on an alleged drug boat in the eastern Pacific",
+      "publisher": "AP News",
+      "publisher_url": "https://apnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNY3BpbmZocXhobXlNU0FiNi15VGpBbXJ5aHgxY29OMXA4cDNETS1aNEtnel9XTURZTWE1VUZ3YmVzMDhtNHJSZEY0eVFhR1hxdVYzSlJ6ZkdyRnllNEZIN1dWLXFFalVjMFBqTVk4Y05ySVNnanQ1YnM2ejFLNEFXbkJoWlNlaF9WdGQ2ZUlmSHRNN19TQlR1elI5MUM3QkJGaTBYa1d2blo1NmJiYU9rbzJERHVWN2p0elE?oc=5",
+      "published_at": "2026-10-27T17:20:00+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "UCB’s Bimzelx leads pharmna’s Q3 drug ad spend, but who will take the annual prize?",
+      "publisher": "Fierce Pharma",
+      "publisher_url": "https://www.fiercepharma.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaUZzZ01jb1lJSkNwOTdKVVI1RllRYzNRNW14Qks1dFJHN2dXRDV3V0luMmtCcnBZVEMzaHlaX092ZDhRb0o2RTJ3bUxTVUMySHhCenJVMFd3cm9RakRBLWVCYVFkQUY0LUptT0hBYWppd1p1eG5XQUVGTHE2dlFfQ05mN2ZveE9ZbkFJY3JqNnJhTWdwRGRIWVR4MWtHUWh3bW5Xd3JRc3F0SlJSYWc?oc=5",
+      "published_at": "2026-10-27T16:56:00+00:00",
+      "regions": [
+        "usa"
+      ]
+    },
+    {
+      "title": "Cáncer de mama: nuevo fondo cubrirá al 100 % 13 medicamentos de alto costo sin copagos",
+      "publisher": "Hoy Digital",
+      "publisher_url": "https://hoy.com.do",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNTBaWUxua0JNc3lYbk1nb3ZxOUVYbWdvWEwzaUNQbU1XUXgxMmc1ZjNTbjd0NlB2T2JvQnM2UG9xQkdNa1Q4MTF0el9XVEw4NWJGWUR2cVN2ZjhsaDd5ZlFEa2s4VnVlbVVjenR1ajhwUmdqSDVXQ3d3NUhuMW9ZWlZzdy1hME1oMkZDN0ptY1VCN2YxOTFUUGw1TDRDWDVDTk5Cb0pQSl9zdTRHSlJTR0FjZUPSAboBQVVfeXFMUFZZbkVBemNYVi1Lc2RIS2h4bXl2RDhFdHdZTlVCZmFxTHRON1prUDBwWmw0M25rQWZsc3pxbjBzbGRiaFdfRkJyREY3MTNTZlFNOGlMeFhOWHl3akJqVmR0aXRHdTNUdC02UXk2Y2M5dW1ha1JsMFAtSnZGcXF6dlNNaDk2djZVbGVxblNZR1F5OVNUT3hxazRQb25VZEkzbm9CcDVXNGlDZWZudTQyTkRmQjE2UDF6aXV3?oc=5",
+      "published_at": "2026-10-27T16:48:55+00:00",
+      "regions": [
+        "rd"
+      ]
+    },
+    {
       "title": "FDA offers new details on quicker approval pathway for personalized gene therapies",
       "publisher": "STAT",
       "publisher_url": "https://www.statnews.com",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQmQzczlIRW5sbGliSkVMN3NINmdlTG5neXd3THpvZUlzaUdfUll1Tk5zN1VYeTQ5NGtxUzhILUkxdWFhUTNQaHJUdU8xU0FPVFBKb0Jjbk0ydDdhbFo2ZlBXVHY5S0h0Z0VCbElWTjMtSjd0ME1wQVJsbm53XzFuT0l5NmtKSDhqTE1naEVCbmZwQVBJX0pDNXNCekg5MW1ITVNVelpXTQ?oc=5",
-      "published_at": "2026-10-27T16:19:56+00:00",
+      "published_at": "2026-10-27T16:20:56+00:00",
       "regions": [
         "global",
         "usa"
@@ -59,8 +141,20 @@
       "publisher": "BioPharma Dive",
       "publisher_url": "https://www.biopharmadive.com",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMHRNVXhDbm5oVlUtMmVoeTZIOWlyYS1VUmJHcGNCbEJGRW9CYWxRQzFTa01HbGxfakd5X0NCclcybGNka0p0Y05YSzE4T1licmxtLUNNM1N3WnczYVVMRjNQaXlCRFBPdEdCN3FYdGZycmtXNndTNU5xT1BfMGtkcFh1SXJfTmV2R0VGcWNDeTh3M1U0VURVWGZlN2Z0SkU2TUw5Ng?oc=5",
-      "published_at": "2026-10-27T16:11:02+00:00",
+      "published_at": "2026-10-27T16:08:55+00:00",
       "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "GSK to nearly double cancer medicines in clinical trials next year",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQTN4TEJkb0J0ZHM4eFk3ZmN5bGw5dDZHOTd3ZWIyc0ZmZUljSVdxaml5RWlobmpBXzk0SUE1b1hkcnl2bFJ2NWJoNTU0UzRxc3gtYVQ5eU02WUoweDZ0aktDSFlvelVLUGxfZElfNmFiSFVKMkpkM3hPWk9HTV9DX3VtdDdBYzRDT1l1TzA4UG8tN1JCMzBJN3Z6YjRzWkhIX3EzeS0wV2ZUR1FuTHNtNnBfOXQ3cWY1eDV0cGJn?oc=5",
+      "published_at": "2026-10-27T15:26:16+00:00",
+      "regions": [
+        "europa",
         "global",
         "usa"
       ]
@@ -72,15 +166,14 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYkp1V0ZUTU5wSjZaQXV1ODZUN0NGWkJSMVVBY3FLMDVqTTFyOTdDTDlTczdicWY5Y0ZYTE5rbHBDMV9zcUNuRkdwRDJONjA3akE0aDVyX3h3d1JYQnpEdnVEZG5fZ19WWVBqLVVwSWU3NElQaW91b3REOUxaLXNHZHZaQ3RmbXhf?oc=5",
       "published_at": "2026-10-27T15:15:36+00:00",
       "regions": [
-        "global",
         "usa"
       ]
     },
     {
-      "title": "Elevador de una farmacia se desploma en CdMx; mujer es hospitalizada con fractura de tibia y peroné",
+      "title": "Se desploma elevador de una farmacia en CdMx con una mujer adentro y termina hospitalizada por fractura",
       "publisher": "MILENIO",
-      "publisher_url": "https://www.milenio.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdDNyMG9WVGYzSHJCY1FxaDE5MVQyNGRJSmVMWmJzdlpGMmt0NVplVFJ1dFM1eHZ1OXN5WVQxY3plZGx3ZGdZcWwxSWNLOVJfZkFTS2QwbFpheFRiNmh2NWg0OXR5N2E4bjZUN0EzcURMcFBaRk9aNXNYOEFPaE9GcE02Y2w5TjFyQ3Ztd290MVljUXRiSHNGN1BIaVlHNWxfUzNFWWd30gGmAUFVX3lxTE0zeTQwQVM4amxZLTI1ZXREamhRcWZ6dmphSHNUamZXVDlpQUR1WThPN0JtanZkTmNxbGtJQ3ltUVRlOGtOUEhZamxFWC1lTE9wYTczZ0NpWnVYUm5na3pKRERuX2JqODBIc2NkS0o2XzNKR0l1QzFQUWZwblEwVjlKVFZacXRFMHMtSjNVZ3MwUTRpQWRMNUZFTXYtOENQLTlaZDBwWnc?oc=5",
+      "publisher_url": "https://amp.milenio.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNM3k0MEFTOGpsWS0yNWV0RGpoUXFmenZqYUhzVGpmV1Q5aUFEdVk4TzdCbWp2ZE5jcWxrSUN5bVFUZThrTlBIWWpsRVgtZUxPcGE3M2dDaVp1WFJuZ2t6SkREbl9iajgwSHNjZEtKNl8zSkdJdUMxUFFmcG5RMFY5SlRWWnF0RTBzLUozVWdzMFE0aUFkTDVGRU12LThDUC05WmQwcFp30gGmAUFVX3lxTE0zeTQwQVM4amxZLTI1ZXREamhRcWZ6dmphSHNUamZXVDlpQUR1WThPN0JtanZkTmNxbGtJQ3ltUVRlOGtOUEhZamxFWC1lTE9wYTczZ0NpWnVYUm5na3pKRERuX2JqODBIc2NkS0o2XzNKR0l1QzFQUWZwblEwVjlKVFZacXRFMHMtSjNVZ3MwUTRpQWRMNUZFTXYtOENQLTlaZDBwWnc?oc=5",
       "published_at": "2026-10-27T15:08:21+00:00",
       "regions": [
         "mexico"
@@ -98,24 +191,14 @@
       ]
     },
     {
-      "title": "Novartis takes $1.9bn writedown on key drug after blockbuster Avidity acquisition",
-      "publisher": "Financial Times",
-      "publisher_url": "https://www.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPb0JTOEdkUGhfaWJVUGxDb2RUWW1QRS1ieTY2YWdEbjktOUs5STFsOHVIbVVpbGVrc01MX0I0aTEybzRrNEswbmdOYkYwZ3lCNnpfTEQ2Zzh4aFFaN1czVUlxWldqRkVidTRmMW5GY3NOYWJTN1RQb2p1WHVWVzRzU0pCazE?oc=5",
-      "published_at": "2026-10-27T14:28:22+00:00",
+      "title": "Trump reopened an LGBTQ+ suicide hotline. But the department that runs it vows to ‘restore biological truth’",
+      "publisher": "The Guardian",
+      "publisher_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQclhWUXBjNC1WVUx1VmUzbHNPSUJPamdPdHdsdkVxRjF0UGFmeEswMVlPWVA1R0d5V2ZXa3ZzQXNhcDZvNm9qcmEtRVhWQXN3WlNBemFWdldxZXNUTU9hN3p2bzNpWmlTekRlU1dwT0FwU1gwYWNRVTV1dEVIR1Y4ZWN4dFRGWG5RYjRwemhDTEtoRzB6?oc=5",
+      "published_at": "2026-10-27T14:15:00+00:00",
       "regions": [
         "europa",
         "global"
-      ]
-    },
-    {
-      "title": "The Biotech Growth Trust PLC - Net Asset Value(s) – Company Announcement",
-      "publisher": "Financial Times",
-      "publisher_url": "https://markets.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRzd3SEM2TDZWNXNOQlFVQzgzaEIwV0pjM1p4bXIwODZ5UU9hb0puUE5VUTV4OVVOR0d1Y05kSldoWGVjX0dhakltaDhuTjVVS3Y3dXFFZU16aWlmVTZqRTBxejJkUjhvRndSbG1ZY3c2TmluLWdYY05kQVZwTzB6eEQwNjZyTjBVMi01eC1TRl94amc0?oc=5",
-      "published_at": "2026-10-27T13:42:00+00:00",
-      "regions": [
-        "europa"
       ]
     },
     {
@@ -125,7 +208,6 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNLTBPM0VBTTBkQ1E0em1PVWtqXzF6ODFFOGVldDJMeHVwbkotNDRqOWJXZ2ppbzB6MmlqS0lFeF9SRVJVVVFndlpYWnVBbzRQcHN6a2ZNOWdZcjAzZFRad0ZiQ2V4LXhVSEs3aE5Jdm5qU21PQlg4QVpMeFczeWIySk10VzJlS0hKb053NDJLcmUtSTZOMmxmU0ZR?oc=5",
       "published_at": "2026-10-27T13:29:20+00:00",
       "regions": [
-        "global",
         "usa"
       ]
     },
@@ -146,8 +228,7 @@
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5objhmTG1pMXV1N1hSWXdWcWNCSjB6TWlNRW1OODNKTl9aN1k2WFRoZl9WdGNfa2JIRkR2cV9Kdk1EdUxPdHctUGU4V1ZURkp0RERCUnBuYUljSlBpM0E?oc=5",
       "published_at": "2026-10-27T13:20:04+00:00",
       "regions": [
-        "europa",
-        "global"
+        "europa"
       ]
     },
     {
@@ -187,26 +268,6 @@
       "publisher_url": "https://english.elpais.com",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYzlnS1BEQ0RmRUlVelFORHpaOHAycGhJZFc5ckwxZ0Z0RzJsbzg2LWRCRmRuQkRTc3JwZjV1QzRtZ04wSXA3WW1mN2xDT0V4eloxNlNTbFVKNm9rdE43RGZZakxKcnF3QUtvTjR1Nm5aZGR1YTdfbVhSWlFyakpSUkUteDh4QW9qcWJ3MGJCRUdmbmY2UU9sRWU2c2RWTFlTR3BqVHQ5M3AxU2xjTlQzRFBQQWU1N3JpdTNuU0l4bUdSalJOdmNMcFREaXd2WjJUZ2xZ0gHnAUFVX3lxTFB2RnFObVg0WUJlUHNtbnVqRTlCdmtSUEp1WlpEM3kxNTBEbkhjNmFlelJVc2UyQWQ5QnNFdDN2UVo1NnRiTHJyR2ZQMUxvbWRiZThMNzRHV1NZcDNNNkloU0ZpdG9ZaUxPc0xveHo3QnpodFB2VXNaUnFWQUxsNXJ2RHlkVlR4WUFXZkpwd054NU4wNUxQNFF0cnNzeTBmbzFvSUY4TDZoX0xjbjAwVXFodlFnbE50d2EtU0tQVElzbkk3eTQ0TkRSQS1xVnZpdXdocHpZalJmWWRSMEtldHNCT2lvR2FuYw?oc=5",
       "published_at": "2026-10-27T12:05:02+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "Stevanato Group and Aptar Pharma Collaborate to Help Accelerate Pre-Filled Syringe System Selection",
-      "publisher": "Financial Times",
-      "publisher_url": "https://markets.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSzhoZEJ5YUZXUGlaNkJaSGNWcHdZMkRLZXYwclJBZ05BNXhsMVR3Qk5UdHdzb0RRZXV2SnhXRGU5SmYxUExxdDl1ZDZmTlRxOHRBUE9rMG1ldzliaFRsSzJLYlpETDh1X2VoM3RoVlhhU25VQUl2M1BHSGRZWEFDZUVnLUswQ3Y4bmVDZ1FCTl9tNk9pUjVPRmZEblRWTnpENEMyaWR3?oc=5",
-      "published_at": "2026-10-27T11:00:00+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "Aptar Pharma and Stevanato Group Collaborate to Help Accelerate Pre-Filled Syringe System Selection",
-      "publisher": "Financial Times",
-      "publisher_url": "https://markets.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQUFhNEhNQnJMYUQ2aXV3aFN6SmxQajlza3lidFptdXk3Y2NuVGEtemU4OWsxT2FxckYyeWN3OU51VW9DMmVrSkkyUVkyRjJCMExjMUFKWTFpTFV6QmhUZ2pmNkhzRnBtZERzT3FRN0ZKdWVuMlVzNWFaTTRNQTJzeUhhYXh2cVh4M3Itcm4xWi1TTzhoV1YzNWNGMC1oNUMycHBRWVNR?oc=5",
-      "published_at": "2026-10-27T11:00:00+00:00",
       "regions": [
         "europa"
       ]
@@ -321,21 +382,11 @@
       ]
     },
     {
-      "title": "Innate Pharma: PACIFIC-9 Phase 3 Trial Readout Timing Updated to H1 2027 – Company Announcement",
-      "publisher": "Financial Times",
-      "publisher_url": "https://markets.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOExNSzQ2SWVzdTJZTm8zYkplS3R0WWdmT2xMVld0YTFWQmhDUS02RWdDLXNOWWtzREZkZ0RxZGhJSlE0dGJ5V2Q2bXlmemhKTzVCREJWUl96WTVvVUlLdW1HcWlxMGlBSEctWmFyZkNTYzFLVk5GbGRlbVM4ZXR2ZzBqVnR0VVFNdndaSW9ubU1aWElpSWo2aGxNd0EwTmRfcUotMGN3?oc=5",
-      "published_at": "2026-10-27T06:00:00+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
       "title": "Can French drugmaker Sanofi fix its pipeline?",
       "publisher": "Financial Times",
       "publisher_url": "https://www.ft.com",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSlEtRkNKZ0UzTkd4QnJDVnpXcEpsNlR3MXgyekZUdWRPNHd1ZFUwVkdCckdMWmpLS2VvQ0J5UktWQk9SdTFkYXNYajhmRk10ZjJLZGZubWktRUdQaTdRTzV0T21ENVJBYUVTcHBJWEhhazlCRWoyNTh5RDBLZVZYUV9aUm0?oc=5",
-      "published_at": "2026-10-27T05:00:09+00:00",
+      "published_at": "2026-10-27T05:00:35+00:00",
       "regions": [
         "europa",
         "global"
