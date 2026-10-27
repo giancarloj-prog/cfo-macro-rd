@@ -1,7 +1,7 @@
 {
   "date": "2026-10-27",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-27T21:04:19+00:00",
+  "checked_at": "2026-10-27T21:26:20+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -29,20 +29,42 @@
     "usa": {
       "ok": true,
       "error": null,
-      "count": 18
+      "count": 19
     },
     "europa": {
       "ok": true,
       "error": null,
-      "count": 16
+      "count": 17
     },
     "global": {
       "ok": true,
       "error": null,
-      "count": 16
+      "count": 22
     }
   },
   "items": [
+    {
+      "title": "Alexander brothers each get 30 years in prison after women spoke of being drugged and raped by them",
+      "publisher": "AP News",
+      "publisher_url": "https://apnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbm95bTdpVk5ZdnFONElTaDJ2SW9VM1RoUkppRXBCRlhuMVhtY3Q3RG9YNG5xdnQzOHVkTXJvcTFFN2hsbV9zYWFzYUxtQTNJaXBMX3RuRGxQay02cWlrbmdVUDlPWklmdFdHU0VFZTVWWnlmeDhVQzh6eTA5RElMZG80TGNIa2o3NXI4dXNFUUNJMWY4S3dRdFRudzJXLWx2OVk2T1JIS0k?oc=5",
+      "published_at": "2026-10-27T20:51:00+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Alexander brothers each sentenced to 30 years for drugging and raping dozens of women",
+      "publisher": "The Guardian",
+      "publisher_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQODg4aWVKQlZWS0hHLS1PUXh3OURWR0hFcFJmQVduZy1uMUh3TVNvaE9POWFvbXpMQlZ5RkpZZE5DNXhYbjZ5ZUU3VHNfT0NfbGFXUUhwZm9MWEdRQ2ZpdGxFU0JtZ1l5Sy1wblJRcWtoajM0eWxiVjdUcTlDUDFxOFdPQk9JWG80OFlxQUkzYWVSWmdwRlM0RzVWdk92Zw?oc=5",
+      "published_at": "2026-10-27T20:45:00+00:00",
+      "regions": [
+        "europa",
+        "global"
+      ]
+    },
     {
       "title": "Medix cumple 70 años: la farmacéutica mexicana se reinventa para duplicar sus ventas en cinco años",
       "publisher": "MILENIO",
@@ -191,6 +213,16 @@
       ]
     },
     {
+      "title": "Novartis takes $1.9bn writedown on key drug after blockbuster Avidity acquisition",
+      "publisher": "Financial Times",
+      "publisher_url": "https://www.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPb0JTOEdkUGhfaWJVUGxDb2RUWW1QRS1ieTY2YWdEbjktOUs5STFsOHVIbVVpbGVrc01MX0I0aTEybzRrNEswbmdOYkYwZ3lCNnpfTEQ2Zzh4aFFaN1czVUlxWldqRkVidTRmMW5GY3NOYWJTN1RQb2p1WHVWVzRzU0pCazE?oc=5",
+      "published_at": "2026-10-27T14:28:22+00:00",
+      "regions": [
+        "global"
+      ]
+    },
+    {
       "title": "Trump reopened an LGBTQ+ suicide hotline. But the department that runs it vows to ‘restore biological truth’",
       "publisher": "The Guardian",
       "publisher_url": "https://www.theguardian.com",
@@ -198,6 +230,16 @@
       "published_at": "2026-10-27T14:15:00+00:00",
       "regions": [
         "europa",
+        "global"
+      ]
+    },
+    {
+      "title": "The Biotech Growth Trust PLC - Net Asset Value(s) – Company Announcement",
+      "publisher": "Financial Times",
+      "publisher_url": "https://markets.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRzd3SEM2TDZWNXNOQlFVQzgzaEIwV0pjM1p4bXIwODZ5UU9hb0puUE5VUTV4OVVOR0d1Y05kSldoWGVjX0dhakltaDhuTjVVS3Y3dXFFZU16aWlmVTZqRTBxejJkUjhvRndSbG1ZY3c2TmluLWdYY05kQVZwTzB6eEQwNjZyTjBVMi01eC1TRl94amc0?oc=5",
+      "published_at": "2026-10-27T13:42:00+00:00",
+      "regions": [
         "global"
       ]
     },
@@ -228,7 +270,8 @@
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5objhmTG1pMXV1N1hSWXdWcWNCSjB6TWlNRW1OODNKTl9aN1k2WFRoZl9WdGNfa2JIRkR2cV9Kdk1EdUxPdHctUGU4V1ZURkp0RERCUnBuYUljSlBpM0E?oc=5",
       "published_at": "2026-10-27T13:20:04+00:00",
       "regions": [
-        "europa"
+        "europa",
+        "global"
       ]
     },
     {
@@ -281,6 +324,16 @@
       "regions": [
         "global",
         "usa"
+      ]
+    },
+    {
+      "title": "Biotech Companies Have Been Star Performers in This Year’s IPO Class",
+      "publisher": "WSJ",
+      "publisher_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTkZiN1NlREZpVnJRLTdXNXBITldVa3dLYTVlaVdNOTBBN2l4SFNJMWZ3U0FWZ3FwZ20wMUJIYTQ4QVVOWU1CeTBaVUN2dWNTajZNQjh3Vkpkb3hZTE5SRld5SU16dU8xWWZNS2YyeF9pTHRURjBPc2J5RTQ4SWdMSDFnU3NfUWNJcXlMcl91eElDelZ6azVQY0ppdXFyWDNrSTFNaENBcXUwMkR4OWg5QmRsdnBkYTQ?oc=5",
+      "published_at": "2026-10-27T10:01:07+00:00",
+      "regions": [
+        "global"
       ]
     },
     {
@@ -386,7 +439,7 @@
       "publisher": "Financial Times",
       "publisher_url": "https://www.ft.com",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSlEtRkNKZ0UzTkd4QnJDVnpXcEpsNlR3MXgyekZUdWRPNHd1ZFUwVkdCckdMWmpLS2VvQ0J5UktWQk9SdTFkYXNYajhmRk10ZjJLZGZubWktRUdQaTdRTzV0T21ENVJBYUVTcHBJWEhhazlCRWoyNTh5RDBLZVZYUV9aUm0?oc=5",
-      "published_at": "2026-10-27T05:00:35+00:00",
+      "published_at": "2026-10-27T05:00:09+00:00",
       "regions": [
         "europa",
         "global"
