@@ -1,7 +1,7 @@
 {
   "date": "2026-10-27",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-27T21:26:19+00:00",
+  "checked_at": "2026-10-28T00:52:24+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -23,7 +23,7 @@
     "bcrd": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 2
     },
     "fiscal": {
       "ok": true,
@@ -48,7 +48,7 @@
     "economy": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 5
     },
     "economist_andy": {
       "ok": true,
@@ -82,6 +82,24 @@
     }
   },
   "items": [
+    {
+      "title": "Valdez Albizu figura entre los mejores gobernadores de bancos centrales por cuarta vez",
+      "publisher": "Acento",
+      "publisher_url": "https://acento.com.do",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdXNRdlJWTTc3cEk5azBsc2Q0TE5XZEt1cjFyVXF1V0kxcVE4TlRyTEo2bGlsN2JVcjcwYnEwME1mNDNYMUFVNldSbkVaOU5RQ3NPN0NLcTJOelZQbDZreFprdG9WN2ZsR2d4SkNOdHRXNkFQRGU5MTI2RDEtVHlzNmRqUzdDdGRYT2ZyR3pFQU5GWHpwX2c5RUJKLS1TOU9PR0FmOEpvQVNZcFBpSHZkbk1XRWtDQlc1dVk1UERCZkRqOEhBa1h3Ylh30gHKAUFVX3lxTFB1c1F2UlZNNzdwSTlrMGxzZDRMTldkS3VyMXJVcXVXSTFxUThOVHJMSjZsaWw3YlVyNzBicTAwTWY0M1gxQVU2V1JuRVo5TlFDc083Q0txMk56VlBsNmt4Wmt0b1Y3ZmxHZ3hKQ050dFc2QVBEZTkxMjZEMS1UeXM2ZGpTN0N0ZFhPZnJHekVBTkZYenBfZzlFQkotLVM5T09HQWY4Sm9BU1lwUGlIdmRuTVdFa0NCVzV1WTVQREJmRGo4SEFrWHdiWHc?oc=5",
+      "published_at": "2026-10-27T22:00:26+00:00",
+      "topics": [
+        "bcrd",
+        "economy",
+        "finance"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "bcrd",
+        "economy"
+      ]
+    },
     {
       "title": "RD consolida su crecimiento en inversión extranjera y exportaciones",
       "publisher": "El Nuevo Diario",
@@ -151,7 +169,7 @@
       "publisher": "El Nuevo Diario",
       "publisher_url": "https://elnuevodiario.com.do",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVDVJblQ1ZEJTZ0hOY2NRdjRtaVN0X1lVcVRIOHdOMUJmMzNkTTZNdnF5aGdycTlYVExCWE5tS1dvRGNidkFiVUE5XzFqS0x5cnNINkM0Tlg2NDJlbkJCcUMwUnJXSW9aclpTM2xhLXN4Ukg4MU82STkwVUZBd2R0M1dOcGs5bExScWc1bVNUWU1URG9HdU1ILTFTNFh6RG91N0RLWTdCLWhUTkN6WWxBQ2gyZkFINEtyQ2c5dkFSc2ozME9GUk44MVh1QXpXdw?oc=5",
-      "published_at": "2026-10-27T14:58:10+00:00",
+      "published_at": "2026-10-27T14:59:39+00:00",
       "topics": [
         "bcrd",
         "economy",

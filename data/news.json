@@ -1,7 +1,7 @@
 {
   "date": "2026-10-27",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-27T21:26:20+00:00",
+  "checked_at": "2026-10-28T00:52:26+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -34,23 +34,22 @@
     "europa": {
       "ok": true,
       "error": null,
-      "count": 17
+      "count": 15
     },
     "global": {
       "ok": true,
       "error": null,
-      "count": 22
+      "count": 20
     }
   },
   "items": [
     {
-      "title": "Alexander brothers each get 30 years in prison after women spoke of being drugged and raped by them",
-      "publisher": "AP News",
-      "publisher_url": "https://apnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbm95bTdpVk5ZdnFONElTaDJ2SW9VM1RoUkppRXBCRlhuMVhtY3Q3RG9YNG5xdnQzOHVkTXJvcTFFN2hsbV9zYWFzYUxtQTNJaXBMX3RuRGxQay02cWlrbmdVUDlPWklmdFdHU0VFZTVWWnlmeDhVQzh6eTA5RElMZG80TGNIa2o3NXI4dXNFUUNJMWY4S3dRdFRudzJXLWx2OVk2T1JIS0k?oc=5",
-      "published_at": "2026-10-27T20:51:00+00:00",
+      "title": "Missouri AG warns Lilly to stop requiring data from hospitals seeking 340B drug discounts",
+      "publisher": "STAT",
+      "publisher_url": "https://www.statnews.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYm1hYUdkSUY1elVxam9DME4tTjRKMDlnb3U5Qmc5R3FhaWpaaEhtRzZsTzNPTlVIMVRjZ2NXV1hOTEhjZTJ4MDkwZDRKaEh6YTFzbGZyYktSUHhaaUtUb1puUExKaFl5RnJrQ3FuX292YnJoUTVCWEhZZ2VHcnVnTzJQNUNYV3NzXzA1R0hYcHZmMWlnX1JJUw?oc=5",
+      "published_at": "2026-10-27T22:13:05+00:00",
       "regions": [
-        "global",
         "usa"
       ]
     },
@@ -59,7 +58,7 @@
       "publisher": "The Guardian",
       "publisher_url": "https://www.theguardian.com",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQODg4aWVKQlZWS0hHLS1PUXh3OURWR0hFcFJmQVduZy1uMUh3TVNvaE9POWFvbXpMQlZ5RkpZZE5DNXhYbjZ5ZUU3VHNfT0NfbGFXUUhwZm9MWEdRQ2ZpdGxFU0JtZ1l5Sy1wblJRcWtoajM0eWxiVjdUcTlDUDFxOFdPQk9JWG80OFlxQUkzYWVSWmdwRlM0RzVWdk92Zw?oc=5",
-      "published_at": "2026-10-27T20:45:00+00:00",
+      "published_at": "2026-10-27T20:46:43+00:00",
       "regions": [
         "europa",
         "global"
@@ -68,8 +67,8 @@
     {
       "title": "Medix cumple 70 años: la farmacéutica mexicana se reinventa para duplicar sus ventas en cinco años",
       "publisher": "MILENIO",
-      "publisher_url": "https://www.milenio.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOc2NiamFOYzdacmtINXlxaDF5UTFGMGF3b1k2NEt6b2ZKLWJHZnpmd1k3XzNNa3AxLXROVHVILTB5REhVQTNzdmxmYkppOE1WMzNzX2JiU3BydWhJbG9mamlGNWxGMFQ5UGtqSU9oRUlSMlN5RHdRSGxETE9vS0VjVnA4QXFVNkRvalRtWVRkcnlmcGNST0Iw0gGXAUFVX3lxTFBLcm9aYUZ6OUF3dE9GdjBCcV9vcnpvb1VKdTY3OVMzeUJvTDl6R2NkbzJOQTZaOWZGODJLakdaQ05RMUY5ZXYyek5WdWlOcTdDbDVxTF96eHVLcktUbi02OHI1TWRMSTNTTnNxd1pQcmxIM3FOdjNCYUY4ZlV2dm5LUFFjb2pRM3c0dFVDUEFBcUM3WVJ5Vzg?oc=5",
+      "publisher_url": "https://amp.milenio.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQS3JvWmFGejlBd3RPRnYwQnFfb3J6b29VSnU2NzlTM3lCb0w5ekdjZG8yTkE2WjlmRjgyS2pHWkNOUTFGOWV2MnpOVnVpTnE3Q2w1cUxfenh1S3JLVG4tNjhyNU1kTEkzU05zcXdaUHJsSDNxTnYzQmFGOGZVdnZuS1BRY29qUTN3NHRVQ1BBQXFDN1lSeVc40gGXAUFVX3lxTFBLcm9aYUZ6OUF3dE9GdjBCcV9vcnpvb1VKdTY3OVMzeUJvTDl6R2NkbzJOQTZaOWZGODJLakdaQ05RMUY5ZXYyek5WdWlOcTdDbDVxTF96eHVLcktUbi02OHI1TWRMSTNTTnNxd1pQcmxIM3FOdjNCYUY4ZlV2dm5LUFFjb2pRM3c0dFVDUEFBcUM3WVJ5Vzg?oc=5",
       "published_at": "2026-10-27T20:18:00+00:00",
       "regions": [
         "mexico"
@@ -86,13 +85,24 @@
       ]
     },
     {
-      "title": "Missouri AG warns Lilly to stop requiring data from hospitals seeking 340B drug discounts",
-      "publisher": "STAT",
-      "publisher_url": "https://www.statnews.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYm1hYUdkSUY1elVxam9DME4tTjRKMDlnb3U5Qmc5R3FhaWpaaEhtRzZsTzNPTlVIMVRjZ2NXV1hOTEhjZTJ4MDkwZDRKaEh6YTFzbGZyYktSUHhaaUtUb1puUExKaFl5RnJrQ3FuX292YnJoUTVCWEhZZ2VHcnVnTzJQNUNYV3NzXzA1R0hYcHZmMWlnX1JJUw?oc=5",
-      "published_at": "2026-10-27T18:51:08+00:00",
+      "title": "Roche Targets Emerging Oncology Market With New Lung-Cancer Drug",
+      "publisher": "WSJ",
+      "publisher_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVTJRUzBFdks0bXc0UnRpYWNaZU9PUmpNN0YxZzhQbGJLNG5fQ0JiSDc5UGZRbXBmRGYxS0g0eWdpNThTLXZKWFZBS1lxTGhsSWZJaWg1bXZaSTZBR0JwZ1VFbmE4Qk9OeWxnWG9oQjlqeEV3UktwZEMtcE55QUhMNGxBdW1ISWNPUlZZQl9MUE12OW9ZU0ZGMHd5NElROG1vUERkdlFuc0pEN0U?oc=5",
+      "published_at": "2026-10-27T19:38:03+00:00",
       "regions": [
+        "global",
         "usa"
+      ]
+    },
+    {
+      "title": "Piramal Pharma Limited Announces Results for Q2 and H1 FY27",
+      "publisher": "Financial Times",
+      "publisher_url": "https://markets.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNc0RIbHlnaW9lRFJMeC1HTFVjcjNVaXpvWm9TcGoySU92aHotTS1ESVF5NUgzaHhTelZES3N4RWlqbXViOXF6R3BqQTdBMGF1VFU0ZTZBaXJYdXBrQnNWTHdyUWRGUWxPWHBZZGxKZWs3V0F3MTNfTGxEQWZUUE01YmxLeTRzakFEU3RCdXU5c0xBU0xydGtveg?oc=5",
+      "published_at": "2026-10-27T19:28:00+00:00",
+      "regions": [
+        "europa"
       ]
     },
     {
@@ -102,6 +112,17 @@
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBGTWZjWTlYUXkySXJRUTA5RjUycTRoRHZSWkRsQ3JRU3NiVkFDZFNoWXl6VnJyNFVSLXMySm96SDlneWxGSDhYc3FmZ0JOOVhtUGdHQzlTeVBSN0xRTTdhVnBHZ1VfUjNpd0dVaEZtblJ1T3p0ZHc?oc=5",
       "published_at": "2026-10-27T18:00:20+00:00",
       "regions": [
+        "usa"
+      ]
+    },
+    {
+      "title": "US military says 5 were killed by a strike on an alleged drug boat in the eastern Pacific",
+      "publisher": "AP News",
+      "publisher_url": "https://apnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNY3BpbmZocXhobXlNU0FiNi15VGpBbXJ5aHgxY29OMXA4cDNETS1aNEtnel9XTURZTWE1VUZ3YmVzMDhtNHJSZEY0eVFhR1hxdVYzSlJ6ZkdyRnllNEZIN1dWLXFFalVjMFBqTVk4Y05ySVNnanQ1YnM2ejFLNEFXbkJoWlNlaF9WdGQ2ZUlmSHRNN19TQlR1elI5MUM3QkJGaTBYa1d2blo1NmJiYU9rbzJERHVWN2p0elE?oc=5",
+      "published_at": "2026-10-27T17:46:00+00:00",
+      "regions": [
+        "global",
         "usa"
       ]
     },
@@ -117,18 +138,7 @@
       ]
     },
     {
-      "title": "US military says 5 were killed by a strike on an alleged drug boat in the eastern Pacific",
-      "publisher": "AP News",
-      "publisher_url": "https://apnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNY3BpbmZocXhobXlNU0FiNi15VGpBbXJ5aHgxY29OMXA4cDNETS1aNEtnel9XTURZTWE1VUZ3YmVzMDhtNHJSZEY0eVFhR1hxdVYzSlJ6ZkdyRnllNEZIN1dWLXFFalVjMFBqTVk4Y05ySVNnanQ1YnM2ejFLNEFXbkJoWlNlaF9WdGQ2ZUlmSHRNN19TQlR1elI5MUM3QkJGaTBYa1d2blo1NmJiYU9rbzJERHVWN2p0elE?oc=5",
-      "published_at": "2026-10-27T17:20:00+00:00",
-      "regions": [
-        "global",
-        "usa"
-      ]
-    },
-    {
-      "title": "UCB’s Bimzelx leads pharmna’s Q3 drug ad spend, but who will take the annual prize?",
+      "title": "UCB’s Bimzelx leads pharma’s Q3 drug ad spend, but who will take the annual prize?",
       "publisher": "Fierce Pharma",
       "publisher_url": "https://www.fiercepharma.com",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaUZzZ01jb1lJSkNwOTdKVVI1RllRYzNRNW14Qks1dFJHN2dXRDV3V0luMmtCcnBZVEMzaHlaX092ZDhRb0o2RTJ3bUxTVUMySHhCenJVMFd3cm9RakRBLWVCYVFkQUY0LUptT0hBYWppd1p1eG5XQUVGTHE2dlFfQ05mN2ZveE9ZbkFJY3JqNnJhTWdwRGRIWVR4MWtHUWh3bW5Xd3JRc3F0SlJSYWc?oc=5",
@@ -163,7 +173,7 @@
       "publisher": "BioPharma Dive",
       "publisher_url": "https://www.biopharmadive.com",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMHRNVXhDbm5oVlUtMmVoeTZIOWlyYS1VUmJHcGNCbEJGRW9CYWxRQzFTa01HbGxfakd5X0NCclcybGNka0p0Y05YSzE4T1licmxtLUNNM1N3WnczYVVMRjNQaXlCRFBPdEdCN3FYdGZycmtXNndTNU5xT1BfMGtkcFh1SXJfTmV2R0VGcWNDeTh3M1U0VURVWGZlN2Z0SkU2TUw5Ng?oc=5",
-      "published_at": "2026-10-27T16:08:55+00:00",
+      "published_at": "2026-10-27T16:11:02+00:00",
       "regions": [
         "global",
         "usa"
@@ -188,6 +198,7 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYkp1V0ZUTU5wSjZaQXV1ODZUN0NGWkJSMVVBY3FLMDVqTTFyOTdDTDlTczdicWY5Y0ZYTE5rbHBDMV9zcUNuRkdwRDJONjA3akE0aDVyX3h3d1JYQnpEdnVEZG5fZ19WWVBqLVVwSWU3NElQaW91b3REOUxaLXNHZHZaQ3RmbXhf?oc=5",
       "published_at": "2026-10-27T15:15:36+00:00",
       "regions": [
+        "global",
         "usa"
       ]
     },
@@ -219,27 +230,7 @@
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPb0JTOEdkUGhfaWJVUGxDb2RUWW1QRS1ieTY2YWdEbjktOUs5STFsOHVIbVVpbGVrc01MX0I0aTEybzRrNEswbmdOYkYwZ3lCNnpfTEQ2Zzh4aFFaN1czVUlxWldqRkVidTRmMW5GY3NOYWJTN1RQb2p1WHVWVzRzU0pCazE?oc=5",
       "published_at": "2026-10-27T14:28:22+00:00",
       "regions": [
-        "global"
-      ]
-    },
-    {
-      "title": "Trump reopened an LGBTQ+ suicide hotline. But the department that runs it vows to ‘restore biological truth’",
-      "publisher": "The Guardian",
-      "publisher_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQclhWUXBjNC1WVUx1VmUzbHNPSUJPamdPdHdsdkVxRjF0UGFmeEswMVlPWVA1R0d5V2ZXa3ZzQXNhcDZvNm9qcmEtRVhWQXN3WlNBemFWdldxZXNUTU9hN3p2bzNpWmlTekRlU1dwT0FwU1gwYWNRVTV1dEVIR1Y4ZWN4dFRGWG5RYjRwemhDTEtoRzB6?oc=5",
-      "published_at": "2026-10-27T14:15:00+00:00",
-      "regions": [
         "europa",
-        "global"
-      ]
-    },
-    {
-      "title": "The Biotech Growth Trust PLC - Net Asset Value(s) – Company Announcement",
-      "publisher": "Financial Times",
-      "publisher_url": "https://markets.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRzd3SEM2TDZWNXNOQlFVQzgzaEIwV0pjM1p4bXIwODZ5UU9hb0puUE5VUTV4OVVOR0d1Y05kSldoWGVjX0dhakltaDhuTjVVS3Y3dXFFZU16aWlmVTZqRTBxejJkUjhvRndSbG1ZY3c2TmluLWdYY05kQVZwTzB6eEQwNjZyTjBVMi01eC1TRl94amc0?oc=5",
-      "published_at": "2026-10-27T13:42:00+00:00",
-      "regions": [
         "global"
       ]
     },
@@ -254,20 +245,10 @@
       ]
     },
     {
-      "title": "Death initially probed as murder was drug overdose",
-      "publisher": "BBC",
-      "publisher_url": "https://www.bbc.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4tZE1HeW5XdGRWUmhCRS1IZF92WFMyMkFyRHZxX1N5NmpQNnRyVGVqLWZ3aUs1aU1UQ2czQlk0dzNsaTQwbUpUVE5vRV9YYV9kTGN6TEUtaW1QSlZvS0E?oc=5",
-      "published_at": "2026-10-27T13:20:04+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
       "title": "Death in Bracknell initially probed as murder was drug overdose",
       "publisher": "BBC",
-      "publisher_url": "http://news.bbc.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5objhmTG1pMXV1N1hSWXdWcWNCSjB6TWlNRW1OODNKTl9aN1k2WFRoZl9WdGNfa2JIRkR2cV9Kdk1EdUxPdHctUGU4V1ZURkp0RERCUnBuYUljSlBpM0E?oc=5",
+      "publisher_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9taHVjS3pWcEpudUp6cHlyWXpFbHZ1VmFtYzVxUWpfMTFzaUdhXzZnZ2lubW9ZU0xtSl9vUlJOcHFZV3dfTzlIb19ZQzBhMzlEbkFMaVRGNEQybjQ?oc=5",
       "published_at": "2026-10-27T13:20:04+00:00",
       "regions": [
         "europa",
@@ -324,16 +305,6 @@
       "regions": [
         "global",
         "usa"
-      ]
-    },
-    {
-      "title": "Biotech Companies Have Been Star Performers in This Year’s IPO Class",
-      "publisher": "WSJ",
-      "publisher_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTkZiN1NlREZpVnJRLTdXNXBITldVa3dLYTVlaVdNOTBBN2l4SFNJMWZ3U0FWZ3FwZ20wMUJIYTQ4QVVOWU1CeTBaVUN2dWNTajZNQjh3Vkpkb3hZTE5SRld5SU16dU8xWWZNS2YyeF9pTHRURjBPc2J5RTQ4SWdMSDFnU3NfUWNJcXlMcl91eElDelZ6azVQY0ppdXFyWDNrSTFNaENBcXUwMkR4OWg5QmRsdnBkYTQ?oc=5",
-      "published_at": "2026-10-27T10:01:07+00:00",
-      "regions": [
-        "global"
       ]
     },
     {
@@ -422,16 +393,6 @@
       "regions": [
         "global",
         "usa"
-      ]
-    },
-    {
-      "title": "Novartis books $2.2 billion hit from drug trial setbacks, but lifts guidance",
-      "publisher": "Reuters",
-      "publisher_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORGNqcHZHNndLNXNGbW1HaUNsU2tDUm9aS3pLNFYtRGZPckNKbEgxcVlVRDN4QmF2dDQ4YlVZa05FRzBlcGtvNkF5Y191Vzc2cE5VaHlfMEFoLWt2RFBNc0RvUHNTQlZQQlJhR21TUEhNQXJXZlEyTUNhUXd0S1BwUWRhNG51dVpCSERJV1Rab0N0S0pFV3V5RUFRNmd6RzNuWWVGTVZKRjJaaUpSYXlPNFlzZm12YTQyWDNCWng1UUpYR3hVYlUw?oc=5",
-      "published_at": "2026-10-27T06:13:00+00:00",
-      "regions": [
-        "europa"
       ]
     },
     {
