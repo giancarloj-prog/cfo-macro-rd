@@ -1,7 +1,7 @@
 {
   "date": "2026-10-28",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-28T17:25:12+00:00",
+  "checked_at": "2026-10-28T21:25:41+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -33,7 +33,7 @@
     "dgii": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 1
     },
     "finance": {
       "ok": true,
@@ -82,6 +82,38 @@
     }
   },
   "items": [
+    {
+      "title": "¿Qué ha pasado con el cobro del ITBIS a Netflix, Airbnb y otras plataformas digitales?",
+      "publisher": "Acento",
+      "publisher_url": "https://acento.com.do",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNd0IycGl2d3Jwd1BlS18wNFA2ZW1sVWtkV3d6eUU3R2gwMTRBaWNsRlBqTUMyVlBXV0ZSQU1meDE2dmJROFhicTNxa05aTU5zOUxwYi01NktZVVZPdEVFQm1udG5nRmRwa2FIb1RzYVkzZm1jNzdBYXJDcU5Pd2lrN1h1dTA0TmR2TzBoZzdBWVZFdXBQYzdNNUFuY3lxQXVNVHI5Y2pYN1dmbVczWTB3c2taNzNmaFdLWGFSd3kzSFEzWnBQYVHSAcYBQVVfeXFMTXdCMnBpdndycHdQZUtfMDRQNmVtbFVrZFd3enlFN0doMDE0QWljbEZQak1DMlZQV1dGUkFNZngxNnZiUThYYnEzcWtOWk1OczlMcGItNTZLWVVWT3RFRUJtbnRuZ0ZkcGthSG9Uc2FZM2ZtYzc3QWFyQ3FOT3dpazdYdXUwNE5kdk8waGc3QVlWRXVwUGM3TTVBbmN5cUF1TVRyOWNqWDdXZm1XM1kwd3NrWjczZmhXS1hhUnd5M0hRM1pwUGFR?oc=5",
+      "published_at": "2026-10-28T20:00:10+00:00",
+      "topics": [
+        "dgii"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "dgii"
+      ]
+    },
+    {
+      "title": "Honduras y República Dominicana registran inflación más alta hasta septiembre",
+      "publisher": "Periódico elDinero",
+      "publisher_url": "https://eldinero.com.do",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOFJuRW5EeHhPSk5JRzFfZTNSOTlEV0h5a0ZyYldXUWtvLXJ3QXREUnFUMkRRd3JSMG0zRlBRMXpOSmtXbGM4T3M2ZlJobV9BRzBkdW5jY2JZMnpWNUwtZVE0ZTYyMEZ3bUlmb01ObUZveVRFakp1bzEzTm1TQnBDSFZmdEI5VWVnckowSVpad0dVOU5BZE5jQmFJV2JJZVdCeVJZV1hjQnVWellkMGc?oc=5",
+      "published_at": "2026-10-28T18:08:33+00:00",
+      "topics": [
+        "bcrd",
+        "economy"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "bcrd",
+        "economy"
+      ]
+    },
     {
       "title": "AIRD pide convertir el crecimiento económico en transformación productiva con la industria como eje",
       "publisher": "Acento",

@@ -1,7 +1,7 @@
 {
   "date": "2026-10-28",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-28T17:25:12+00:00",
+  "checked_at": "2026-10-28T21:25:42+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -14,7 +14,7 @@
     "rd": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 1
     },
     "centroamerica": {
       "ok": true,
@@ -24,34 +24,87 @@
     "mexico": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 2
     },
     "usa": {
       "ok": true,
       "error": null,
-      "count": 15
+      "count": 14
     },
     "europa": {
       "ok": true,
       "error": null,
-      "count": 20
+      "count": 19
     },
     "global": {
       "ok": true,
       "error": null,
-      "count": 17
+      "count": 23
     }
   },
   "items": [
     {
-      "title": "Exclusive | GSK Sees Cancer-Drug Pipeline Nearly Doubling Next Year After Dealmaking Spree",
-      "publisher": "WSJ",
-      "publisher_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaUVQaE8zZllsVDViT0tzdk9vVG0wTWs0Y0tGZXJnMW44MlpkNnB1cldmbG5kOWVlQS1RT0hEeXJ3cUYwaFZaeUJ3clljZnYxYVRveV9CelZCX19lc3ZVVnV4cXZtVjdQOTZsb3RlamxrekxteUx5U1poMm0yQ3dlVy1pZlREd3k5QnJpcDY4T0xMZ2Q5elNpcTI0c0ZFeUhWbGxwOUZtN0JYSmFmUGx1OW5WYkQ2YmZvSExydFZB?oc=5",
-      "published_at": "2026-10-28T16:32:56+00:00",
+      "title": "Lawmaker wants government watchdog to probe TrumpRx over claims about drug savings",
+      "publisher": "STAT",
+      "publisher_url": "https://www.statnews.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMDB5NnZrQkZ2ejFESDBnbndOMUF2NFlmLWotbWRXZnhLNmw5YnVSNVNGaXEyVVJRVGhJZ1o5U1ptYXF1a29SS0V5UUNGQWxYZW16ZnVmWnVkMDBfcjVnRFZORXFVMXNPYTcyZi1wbzJYeHkxSlhldlVJWWNCUWFVWjBpd2k1anQyUDlzVElQdUZ5R09PQ2hF?oc=5",
+      "published_at": "2026-10-28T20:56:03+00:00",
       "regions": [
         "global",
         "usa"
+      ]
+    },
+    {
+      "title": "Biotech Companies Have Been Star Performers in This Year’s IPO Class",
+      "publisher": "WSJ",
+      "publisher_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTkZiN1NlREZpVnJRLTdXNXBITldVa3dLYTVlaVdNOTBBN2l4SFNJMWZ3U0FWZ3FwZ20wMUJIYTQ4QVVOWU1CeTBaVUN2dWNTajZNQjh3Vkpkb3hZTE5SRld5SU16dU8xWWZNS2YyeF9pTHRURjBPc2J5RTQ4SWdMSDFnU3NfUWNJcXlMcl91eElDelZ6azVQY0ppdXFyWDNrSTFNaENBcXUwMkR4OWg5QmRsdnBkYTQ?oc=5",
+      "published_at": "2026-10-28T19:02:11+00:00",
+      "regions": [
+        "global"
+      ]
+    },
+    {
+      "title": "FDA scientists opposed Trump administration’s move to ease peptide access",
+      "publisher": "The Guardian",
+      "publisher_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNY3ZVb3BKRzQySWwwVkZPOE1BOWY4WnRMQUcwN0YyQU5CdVktS1h3V1oxckR2c00yNUF2dkdYRlBnQ1hXWDdIX2hDdlcxQTQ3cVhzYzJvYXlqU1dtVFZoNm9fRGJKTV9RbUl0OHBjWG1ycUdGRzhsTVFsR0NMSjZ1VEM3b3NPTHVVdWZQaEtyTkpBbjJ2NjRVZQ?oc=5",
+      "published_at": "2026-10-28T18:35:00+00:00",
+      "regions": [
+        "europa",
+        "global"
+      ]
+    },
+    {
+      "title": "FDA scientists opposed the Trump administration’s move to ease peptides access",
+      "publisher": "AP News",
+      "publisher_url": "https://apnews.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOanQ5LWFuekk1QTdOVThIM2R2TXYxSzdXTlZpWGdDcTFLeDdNR2U0NjRSWVpxV2hRQ3FObVdnNFFwR1BTYjNhVGNTeDl5N0VfYnYxMGVSdmlpZElVYnBUU0lORzhPZDFaZHlWTmR2aDVOV1dyTUI4WFhVazdtbENGeXZ0MEN6QnRpenM3cFVDa01zUQ?oc=5",
+      "published_at": "2026-10-28T18:00:00+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Oncóloga advierte cambios en medicamentos y retrasos de ARS ponen en riesgo tratamientos contra el cáncer",
+      "publisher": "El Nuevo Diario",
+      "publisher_url": "https://elnuevodiario.com.do",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNVBZeTJuR2ZaMXZQY00ybnJVbTJEUHFtMkxhendSOHhudkg1Vmk4S3hieHBhcGFZNUJLSHVYdk9YeVNfWWFpa2hsMFlWTHZZUHdmR1BvaGF0RllXODdZTGlHWjNoUnMzLUFFNUhVazFwQTV1bUFyeVFOSVl2UHg2b0oydjRGbHIyQVdPaXBwWmNTS2dIN041QVBHUmQ2RjN3Zi1SYmN2ejd2MWlHWUVzN1J3VXc0VHYyUWpUSHVZRGFPSzVucTVxVktaRDZUZnV4?oc=5",
+      "published_at": "2026-10-28T17:43:51+00:00",
+      "regions": [
+        "rd"
+      ]
+    },
+    {
+      "title": "KODAK PHARMACEUTICALS Expands Portfolio and Launches U.S. Online Store – Company Announcement",
+      "publisher": "Financial Times",
+      "publisher_url": "https://markets.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVURDMVVObXJUakpJc2pLNW5LeTJVTi0zT0QxY3BScXlwT3RNVGYxWFdVWHFkb3RqZHp2QkZFblMxdGFhdnp0MkliYXJRZ00yMU5rMWotWW50N0hEbDN5dkJBUFRpT24xdzlrRDFIRWtHQ0Nfakk1ajNPNnA5QkQwYkRINHJqSEgzYU1VRFdVa3UxaU90MTRTSENId3g4X2F1QmxzX0NR?oc=5",
+      "published_at": "2026-10-28T17:27:00+00:00",
+      "regions": [
+        "europa",
+        "global"
       ]
     },
     {
@@ -66,17 +119,6 @@
       ]
     },
     {
-      "title": "FDA scientists opposed the Trump administration’s effort to ease peptides access",
-      "publisher": "AP News",
-      "publisher_url": "https://apnews.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOanQ5LWFuekk1QTdOVThIM2R2TXYxSzdXTlZpWGdDcTFLeDdNR2U0NjRSWVpxV2hRQ3FObVdnNFFwR1BTYjNhVGNTeDl5N0VfYnYxMGVSdmlpZElVYnBUU0lORzhPZDFaZHlWTmR2aDVOV1dyTUI4WFhVazdtbENGeXZ0MEN6QnRpenM3cFVDa01zUQ?oc=5",
-      "published_at": "2026-10-28T15:55:00+00:00",
-      "regions": [
-        "global",
-        "usa"
-      ]
-    },
-    {
       "title": "FDA unveils guidance for ‘plug and play’ gene therapies",
       "publisher": "BioPharma Dive",
       "publisher_url": "https://www.biopharmadive.com",
@@ -85,16 +127,6 @@
       "regions": [
         "global",
         "usa"
-      ]
-    },
-    {
-      "title": "Geron discontinues late-stage trial of blood cancer drug, shares plunge",
-      "publisher": "Reuters",
-      "publisher_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOelpUVXNNNEVvVWN4eFozdG1rV1ZJZGNHX2t3U3d1M1JuWHlBQlZ1c08yaHdpNnFuVDFfcFh6SklQanE1V3NjUllfLTR5LWR1bVZ3ZkpDSVlHOFRxdFk4aVV6OS1jNzJxX0VZNm83T3hpREU1UHhtakQ3YWJrTXRDNU03RExPZkt1ZnJ1U3BMRk5XdEpTSXFUbDRmWWdDWFRKUHdfRk9zVWF4UDhJMTFDRkdrM1FKNmIxOXlRdTdWUEdWVVU?oc=5",
-      "published_at": "2026-10-28T15:08:49+00:00",
-      "regions": [
-        "europa"
       ]
     },
     {
@@ -114,7 +146,7 @@
       "publisher": "WSJ",
       "publisher_url": "https://www.wsj.com",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMDJvczVtMzVFd1lsU3VsY0FuTDl5UE1CNmM3RkhwU2dNaWQ0bWYxVGNES0t6bkVRdnVVbWNWRWkwbDVQOS1NT0tINWlYcmFDbHBVUEdVSmd1QVpnbmlZZlBPMzRMcWdNREl1VTk4alZ4cUxuR1ZCWk9vM0o0UmZCU0RGZlQtdG5PRGpCMHp0bVdsUnZ5YlkxWl83dXNWMy1Ib1hxa0ZYT0pUaTZGRmtkVDRCV1I?oc=5",
-      "published_at": "2026-10-28T14:54:00+00:00",
+      "published_at": "2026-10-28T14:22:49+00:00",
       "regions": [
         "global",
         "usa"
@@ -146,7 +178,7 @@
       "publisher": "STAT",
       "publisher_url": "https://www.statnews.com",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPR1lXQUU5MTFOd1BweTJpeG5XUTZ5ejlIUVRfdWViQXhIN3g0Y1B4QmZlbTg3NFdfQUp1MTYzTTJMODdLZDVMSXV2V2RfMmVSd2h1QkZEWW96azVDWGdpaTd5cHZDZW1mSnJaV3Q2Z3h1enFtaG80RzZtUk1wYW1la2pKR2N2eGlnVF9HczlCMGx1bUozR2lkUkFRVktGMWpQdVRPQUNR?oc=5",
-      "published_at": "2026-10-28T13:47:04+00:00",
+      "published_at": "2026-10-28T13:48:05+00:00",
       "regions": [
         "global",
         "usa"
@@ -181,7 +213,8 @@
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcGtWdGRsX1lhUGpDSzRyVjduZzVsLXNMX1pnY0ZYT3c0TjdEOU9xTEI2SjJ2NjEwd211YTlKZzNSTW1TS1pPZjdqUWYwSlVZN0Z5M2dIZkRhaHVjclZycnczNlZYMjdMNUVXVVgzQ2FScFpuM09wMm5QVGtJVEZMdUJCSXNRY0R4VW85Z2JuU1R2T0hS?oc=5",
       "published_at": "2026-10-28T13:21:00+00:00",
       "regions": [
-        "europa"
+        "europa",
+        "global"
       ]
     },
     {
@@ -223,7 +256,8 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUFBULXF3OGV2NEE0azdzRjc3TXczRGNadGpoQjRYSkRBRFEzXzY3dmJFb2YxamtKTzk5U1BEWEhheUxIWEVtWVFOZlkyYXBxdkhnZjhKVkxhbG9sUFlFU2hUTTNiQUx3emhrZWRkVGpnblMtUEd3Q21aa0ZtclprWERpZUpsZC1JZkxNemVDS3pkNlpsYld6OQ?oc=5",
       "published_at": "2026-10-28T12:30:00+00:00",
       "regions": [
-        "europa"
+        "europa",
+        "global"
       ]
     },
     {
@@ -237,21 +271,11 @@
       ]
     },
     {
-      "title": "Potency Assays for Modern Biologics: Expert Insights and Future Trends, Upcoming Webinar Hosted by Xtalks",
-      "publisher": "Financial Times",
-      "publisher_url": "https://markets.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcHUtemwtUl94VFVwelpRbTBfbzBHUHlKWVJtN00zX3BTU2twcThUTjVkeXAxeHhUQ1A3cDBoMG0yYVh5MTN0VkE5cU82VXhRSDVZMUNBRlU0MFVIajFmQklUUnVac3pUalY3dnVuY1FPS0lKeG93blNGZm56Vk00OUx3eVc0cUxSM210UUUzampWSVVCN0VLdA?oc=5",
-      "published_at": "2026-10-28T12:30:00+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
       "title": "What has actually caused the decline in drug overdose deaths?",
       "publisher": "STAT",
       "publisher_url": "https://www.statnews.com",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSFlVcjlTOHc1ODNSNF83MlVFRmVMZms5QW9XcUkyYkNBMFZ0dlRpZTd2YjlHbWtMUGp6OG5uaGpsaHNZdElPMlFUb0pKX28zWlhyN09hQlhoN2hZR3dvdHlKekJKY25DWF9DNjF6MTNUalVQallTYy1fR2g3cl9QcnktQWx5SkczcEE?oc=5",
-      "published_at": "2026-10-28T12:04:56+00:00",
+      "published_at": "2026-10-28T12:05:06+00:00",
       "regions": [
         "global",
         "usa"
@@ -290,23 +314,14 @@
       ]
     },
     {
-      "title": "Mums v Big Pharma",
-      "publisher": "BBC",
-      "publisher_url": "https://www.bbc.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBKdWRBUktkOG1pNjJ4SWg1TVAwYWFRLXh0eDFlT0pXU0NyejA4S2FRcXdtVzlUX05PSWE0T1NwNWplRkdiZDNGRkZHYkg1YnNLNjRz?oc=5",
-      "published_at": "2026-10-28T10:25:28+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
       "title": "Drug-driving arrest after motorcyclist dies in crash",
       "publisher": "BBC",
-      "publisher_url": "https://www.bbc.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA0eUZZQTctOUtrUE1fUWhwdnBLX3EyUXRBN3h4NHRKT1NNbF82d2VpOFdtUjVuSHFweGdGR0lheGVyb2EtR0NIZndGNTBPWTN3eEQ4cFVKbVdvOVVhTUE?oc=5",
+      "publisher_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5KU0RDeWNMbXJIUTFHR0V2c0RzUWx1NEEtZDl0dE9mUjg3cVlkSzI4N1lBZGFjMGhjdDg2ajJaZkQ3TVRzMzJ1YlJMX0Jhb0lWeVBtTk1qWkZzYTA?oc=5",
       "published_at": "2026-10-28T10:10:35+00:00",
       "regions": [
-        "europa"
+        "europa",
+        "global"
       ]
     },
     {
@@ -360,14 +375,13 @@
       ]
     },
     {
-      "title": "Treasury to Limit Chinese Biotech Deals, But Still Allow Licensing",
-      "publisher": "WSJ",
-      "publisher_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOS2RFeXJhMmJBZnc0RkhCOXd6OFpTdFJxWXJoV3VfVzI3NUlWYW01amZGdjRCdm00dUV4OHl6bnB0NUkyRHA3VUhyXzFsamtDSHJBVlFDM18xUUZFLUphZlZhS1RyYmdSeDhyT2FOTDF1QzQ3eXZ6bGVBR2RHUDJfbzdaWWJlRDc3WGNJQ2pNVEdKUVN4YldBWGdONWdLb2JzdHhKTWpLWlRwSEZZUFdlenRGVVc?oc=5",
-      "published_at": "2026-10-28T07:15:35+00:00",
+      "title": "Cupón Farmacias del Ahorro: hasta 70% en Octubre 2026",
+      "publisher": "El Universal",
+      "publisher_url": "https://www.eluniversal.com.mx",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVnI0QTNHaVkxbzBYemh6MWZfVjFvT2prNlU0SS1VVE54UHpiU196eTlBVS1zWk0wM3FNbXhrSWlxLXZLZkVjejZ0allBM2w4SFBlSE9BVEJybUVoYWdtRXJsMFlKYi1VNWtaY3gyVUVJQ0w2cmZIc21fRmxPOTBpRUJB?oc=5",
+      "published_at": "2026-10-28T07:02:00+00:00",
       "regions": [
-        "global",
-        "usa"
+        "mexico"
       ]
     },
     {
@@ -389,7 +403,8 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOVEwTWdpSkFrX0kxQmFINFBoUkxpMXZ4UHFucEdSQjk0TDNkRU1SU2xERFJjWVE3Q1ROTmJlODJScm1BM0lPbXFyOTd1NWtScGFxS3pNY1hPbEYtQ3dpY2hZZzhHTzIxWmlpMXJfcWU1TlpoaGxoRDVSRmRIZV9kZUVJQlN2Y1ljTnZOdFJDXzVGSWtQNW9CWA?oc=5",
       "published_at": "2026-10-28T04:26:00+00:00",
       "regions": [
-        "europa"
+        "europa",
+        "global"
       ]
     }
   ],
