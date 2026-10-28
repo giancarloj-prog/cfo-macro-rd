@@ -1,7 +1,7 @@
 {
   "date": "2026-10-28",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-28T12:48:03+00:00",
+  "checked_at": "2026-10-28T17:10:58+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -23,7 +23,7 @@
     "bcrd": {
       "ok": true,
       "error": null,
-      "count": 4
+      "count": 2
     },
     "fiscal": {
       "ok": true,
@@ -38,7 +38,7 @@
     "finance": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 1
     },
     "securities": {
       "ok": true,
@@ -48,7 +48,7 @@
     "economy": {
       "ok": true,
       "error": null,
-      "count": 3
+      "count": 2
     },
     "economist_andy": {
       "ok": true,
@@ -83,10 +83,25 @@
   },
   "items": [
     {
+      "title": "AIRD pide convertir el crecimiento económico en transformación productiva con la industria como eje",
+      "publisher": "Acento",
+      "publisher_url": "https://acento.com.do",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPaWJ4UjQwckdXOEhOZDFfRmtSTFI0X0VHaHZ2b0wzMDVRajR3YUpRU25KRTV0TktCdDROQnFjODRGNGc1UDJXZjB2bnU0dE1WenBrR1lRenY0QkswdXhneXoxalV2SC1sTmtHUXJnNkt0OXdUdDRQZmlRYlNDMTRZTTJuZ0RsbXVIbENoemxURWVqa0p2NWh1NGNHTXlFbmJJOWw2SW9vbVVjNXJrUVBzUVIwSWFvTGVfYzVzTjk0b3liQ01qZjExQ0NsVGhXR0xIcUVTLVB0dHhCdFXSAdsBQVVfeXFMT2lieFI0MHJHVzhITmQxX0ZrUkxSNF9FR2h2dm9MMzA1UWo0d2FKUVNuSkU1dE5LQnQ0TkJxYzg0RjRnNVAyV2Ywdm51NHRNVnpwa0dZUXp2NEJLMHV4Z3l6MWpVdkgtbE5rR1FyZzZLdDl3VHQ0UGZpUWJTQzE0WU0ybmdEbG11SGxDaHpsVEVlamtKdjVodTRjR015RW5iSTlsNklvb21VYzVya1FQc1FSMElhb0xlX2M1c045NG95YkNNamYxMUNDbFRoV0dMSHFFUy1QdHR4QnRV?oc=5",
+      "published_at": "2026-10-28T09:00:09+00:00",
+      "topics": [
+        "finance"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "finance"
+      ]
+    },
+    {
       "title": "La República Dominicana concentra el 74 % de sus exportaciones en mercados cercanos",
       "publisher": "Diario Libre",
       "publisher_url": "https://www.diariolibre.com",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcWpNS29EM1U1bTRqTmg1RXZaakplR2JNeWt5VHRkV0ZxSFhmUWVyaUxnM3Y1SHA5WHdsbkJieE5ubVdPcjQ5Z1RlRHN4dVpYLUwweGRkcEIzWEZBOWF4RHJ2ZGhDcWZMcVo5MjVSN0lvTENvNlU4Qjd5dktSZ2pPZVA1UGFCaHlBUlQ1RjZsSDl1Zmx3X3ZnaTFOOTZjUnQ3VVpMbXZGbU1fbWFpYXpXeE1tNjlaYzh6dnhmbjJicExwZw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcWpNS29EM1U1bTRqTmg1RXZaakplR2JNeWt5VHRkV0ZxSFhmUWVyaUxnM3Y1SHA5WHdsbkJieE5ubVdPcjQ5Z1RlRHN4dVpYLUwweGRkcEIzWEZBOWF4RHJ2ZGhDcWZMcVo5MjVSN0lvTENvNlU4Qjd5dktSZ2pPZVA1UGFCaHlBUlQ1RjZsSDl1Zmx3X3ZnaTFOOTZjUnQ3VVpMbXZGbU1fbWFpYXpXeE1tNjlaYzh6dnhmbjJicExwZ9IBxwFBVV95cUxNYy1GR0tkTXNoS1V2eXJMMVV3Ym82WHNMLUNiR2oyNkV4Wk9sLWROSTBFQ3E2dHZlODM1WThFRlFMa1dTS3BONHNSTHZXSmpWWjhaWjBSaV9tMEd3QzYwMGh4SFhReUM3ekp2Vi03WktRZWd6eTNqR082OE9WMDM1YkQwYVREclFLVUtucGI5ZDg3cDR1SV9PbDN4Zk5UWDlEb2w1ZWdRVlRJUFNyWkpUY3dCM0ZnNy0tOFR6SGdmQjk1aDV2S01r?oc=5",
       "published_at": "2026-10-28T04:02:00+00:00",
       "topics": [
         "economy"
@@ -110,6 +125,23 @@
       "economist_match": null,
       "searches": [
         "bcrd"
+      ]
+    },
+    {
+      "title": "Exportaciones e IED suman 17,771 millones dólares en nueve meses",
+      "publisher": "El Caribe",
+      "publisher_url": "https://www.elcaribe.com.do",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObFBFWVJTazBHU0UyTklDaXFFU29qQkhmMDZUT3JNUDJ3Qy1hd21scmpoRWlJVjFzY2dnZDZmVG9RRFQzcER1VFFjQkxwUEx3MU9TNmtyZi0zNGh1ckZjdVRwYWhITlBpaUdTTk5YeUhwRS14N1dRMERxaGlnejFEeXptU1diT2U4cnB1R2pMSjVJT2N5ZjdVSUNUZGtEc2xhNnNXMzhkWk5OSWs?oc=5",
+      "published_at": "2026-10-28T04:00:00+00:00",
+      "topics": [
+        "bcrd",
+        "economy"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "bcrd",
+        "economy"
       ]
     },
     {
@@ -142,23 +174,6 @@
       "economist_match": null,
       "searches": [
         "bcrd"
-      ]
-    },
-    {
-      "title": "Exportaciones e IED suman 17,771 millones dólares en nueve meses",
-      "publisher": "El Caribe",
-      "publisher_url": "https://www.elcaribe.com.do",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObFBFWVJTazBHU0UyTklDaXFFU29qQkhmMDZUT3JNUDJ3Qy1hd21scmpoRWlJVjFzY2dnZDZmVG9RRFQzcER1VFFjQkxwUEx3MU9TNmtyZi0zNGh1ckZjdVRwYWhITlBpaUdTTk5YeUhwRS14N1dRMERxaGlnejFEeXptU1diT2U4cnB1R2pMSjVJT2N5ZjdVSUNUZGtEc2xhNnNXMzhkWk5OSWs?oc=5",
-      "published_at": "2026-10-28T04:00:00+00:00",
-      "topics": [
-        "bcrd",
-        "economy"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "bcrd",
-        "economy"
       ]
     }
   ],

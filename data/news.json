@@ -1,7 +1,7 @@
 {
   "date": "2026-10-28",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-28T12:48:05+00:00",
+  "checked_at": "2026-10-28T17:11:06+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -29,20 +29,193 @@
     "usa": {
       "ok": true,
       "error": null,
-      "count": 5
+      "count": 15
     },
     "europa": {
       "ok": true,
       "error": null,
-      "count": 16
+      "count": 20
     },
     "global": {
       "ok": true,
       "error": null,
-      "count": 5
+      "count": 17
     }
   },
   "items": [
+    {
+      "title": "Exclusive | GSK Sees Cancer-Drug Pipeline Nearly Doubling Next Year After Dealmaking Spree",
+      "publisher": "WSJ",
+      "publisher_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaUVQaE8zZllsVDViT0tzdk9vVG0wTWs0Y0tGZXJnMW44MlpkNnB1cldmbG5kOWVlQS1RT0hEeXJ3cUYwaFZaeUJ3clljZnYxYVRveV9CelZCX19lc3ZVVnV4cXZtVjdQOTZsb3RlamxrekxteUx5U1poMm0yQ3dlVy1pZlREd3k5QnJpcDY4T0xMZ2Q5elNpcTI0c0ZFeUhWbGxwOUZtN0JYSmFmUGx1OW5WYkQ2YmZvSExydFZB?oc=5",
+      "published_at": "2026-10-28T16:32:56+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Lilly’s ‘triple-G’ drug tops Novo’s Ozempic in diabetes trial",
+      "publisher": "BioPharma Dive",
+      "publisher_url": "https://www.biopharmadive.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN19wd1NRdjNRRTcwb1VndDlmVlNuZGNRMDBpWXV0aXd0UFFkTnZKb1A0dGJCdHZDd1VZN3hsVkFfcXFobTg2TDRyNVZPQ3paWkhRQWdFMHhyczdoaGlFRzhSdXNKU2pYbGcycEFRS08yaHlDZkEyVE5lUFp5RU41TklaTmN1NGFkWWZoNDdHU0EwNm1pbmszTERXUVQ?oc=5",
+      "published_at": "2026-10-28T15:58:29+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "FDA scientists opposed the Trump administration’s effort to ease peptides access",
+      "publisher": "AP News",
+      "publisher_url": "https://apnews.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOanQ5LWFuekk1QTdOVThIM2R2TXYxSzdXTlZpWGdDcTFLeDdNR2U0NjRSWVpxV2hRQ3FObVdnNFFwR1BTYjNhVGNTeDl5N0VfYnYxMGVSdmlpZElVYnBUU0lORzhPZDFaZHlWTmR2aDVOV1dyTUI4WFhVazdtbENGeXZ0MEN6QnRpenM3cFVDa01zUQ?oc=5",
+      "published_at": "2026-10-28T15:55:00+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "FDA unveils guidance for ‘plug and play’ gene therapies",
+      "publisher": "BioPharma Dive",
+      "publisher_url": "https://www.biopharmadive.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQjVILXN6cVdBajJuLUxkUDJYR0djd2pBX0JUeEJzOHNSeEE1cDU1NlVaN29KdDRXSVZualREUE55dVRJenlVZEM5YjF6WVRSTFlsQngySlRxMVl0NGp2R0p6NF9MTnVQTFBpY2F3OTBvdmJ0TFd0RGdOY3h0eDVlTnFzUjBjQjAydHNnZGUwd1paUGg1cFlSTGdn?oc=5",
+      "published_at": "2026-10-28T15:36:52+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Geron discontinues late-stage trial of blood cancer drug, shares plunge",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOelpUVXNNNEVvVWN4eFozdG1rV1ZJZGNHX2t3U3d1M1JuWHlBQlZ1c08yaHdpNnFuVDFfcFh6SklQanE1V3NjUllfLTR5LWR1bVZ3ZkpDSVlHOFRxdFk4aVV6OS1jNzJxX0VZNm83T3hpREU1UHhtakQ3YWJrTXRDNU03RExPZkt1ZnJ1U3BMRk5XdEpTSXFUbDRmWWdDWFRKUHdfRk9zVWF4UDhJMTFDRkdrM1FKNmIxOXlRdTdWUEdWVVU?oc=5",
+      "published_at": "2026-10-28T15:08:49+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "GSK pipeline doubts, vaccine underperformance overshadow sales beat",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPY1FBbGtkNGhROXJGS3lSUms5VFRZSTRDZHJWblBwLUkycjY2OGJLLUVreTc4NHhGVFNLeklQZkQxMEQ5VS1DNHlBZGxtbGJJbjlJNjBsNDZkRFJPaUFqOGJKcm9Za1YzTGgtcEtGMlF5YXE3djc1OXN6RmU3bHJUZmUxSl9ua3JDdjRqVE94eUxOckVEVUswa0pGa29qRzZTZW10YkxYSGQ1REVCN3l6VlRkNkxhSnFDTVM5ODlWdjFvQVlOTE95azBOV1c2dw?oc=5",
+      "published_at": "2026-10-28T15:05:43+00:00",
+      "regions": [
+        "europa",
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Exclusive | Drug Middlemen Will Soon Have to Share Details on How They Are Paid",
+      "publisher": "WSJ",
+      "publisher_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMDJvczVtMzVFd1lsU3VsY0FuTDl5UE1CNmM3RkhwU2dNaWQ0bWYxVGNES0t6bkVRdnVVbWNWRWkwbDVQOS1NT0tINWlYcmFDbHBVUEdVSmd1QVpnbmlZZlBPMzRMcWdNREl1VTk4alZ4cUxuR1ZCWk9vM0o0UmZCU0RGZlQtdG5PRGpCMHp0bVdsUnZ5YlkxWl83dXNWMy1Ib1hxa0ZYT0pUaTZGRmtkVDRCV1I?oc=5",
+      "published_at": "2026-10-28T14:54:00+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Astellas pays $285m for Audax cancer drug, and other deals",
+      "publisher": "pharmaphorum",
+      "publisher_url": "https://pharmaphorum.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPX3RJOUx1ajgxUnBWXzU4ZGhsbG5DVzBtYVZLenJHdVJwbjlZbkl2WjNFRGJjWVpad1c0RGhEZ3A1emliS0xhYVByazJFMkNreVNmYVJPVkNxNHZmRGRDcjltNWJmSWtCZE80LVdXbHN2N3Y3Z0QwcE1ULWRFMVNTUzF2TUdyeklZNUE?oc=5",
+      "published_at": "2026-10-28T14:17:42+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "GSK Shares Slide After Vaccine Sales Disappoint",
+      "publisher": "WSJ",
+      "publisher_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTzFGWjVjalAzYjFrSnlzMU1FRWFJMmlmNkllVEt5MlM0U2J2NF9WbkJVaDZqQ29wQWtIb0FoYXZDUEtrV0JibWFMdnBDc2pYV1NPajRZaWg2YVJRQkkwVDhLYXRlcWN4VEVQcnJBamxJSV9FbmdSaXJITGVuNWQ0NHJHekJfUGxBdkRNeE5WQ0RXNXQ2R1E?oc=5",
+      "published_at": "2026-10-28T13:52:00+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Pharmalittle: We're reading about 340B battles, new results for a Lilly weight loss drug, and more",
+      "publisher": "STAT",
+      "publisher_url": "https://www.statnews.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPR1lXQUU5MTFOd1BweTJpeG5XUTZ5ejlIUVRfdWViQXhIN3g0Y1B4QmZlbTg3NFdfQUp1MTYzTTJMODdLZDVMSXV2V2RfMmVSd2h1QkZEWW96azVDWGdpaTd5cHZDZW1mSnJaV3Q2Z3h1enFtaG80RzZtUk1wYW1la2pKR2N2eGlnVF9HczlCMGx1bUozR2lkUkFRVktGMWpQdVRPQUNR?oc=5",
+      "published_at": "2026-10-28T13:47:04+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Lilly’s triple-G drug beats Ozempic in head-to-head study",
+      "publisher": "STAT",
+      "publisher_url": "https://www.statnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRVpYTU1xREdoVzU1UXRDUVNfZE9Oc3FTc0tycU5LNHpIV1IyZTF6RDJEcUtFUTJMRjAwUWN3b3FhWWZFUlV0dF9VT3J1c2gxV2tvM1Z4X2NaRGltNDR2SEdXMkJrTWx1N3RtbllGQno1eGVwOEZxN0QxSllZUXhscFA3Wk1DYl9yR2MzN19aNDhUOF9vdDVkZGd5NFhqN1JQUm5uR2w2ZzBZdw?oc=5",
+      "published_at": "2026-10-28T13:46:42+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Amgen hit with FDA warning letter for ‘misleading’ Vectibix promotion",
+      "publisher": "Fierce Pharma",
+      "publisher_url": "https://www.fiercepharma.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMDBfcUFEc3BmLTc3RmNmX1hYbF9PalNVR05SdGw4cnduUWpFWWFJdEVCLXBJX1EySm12cndIN3h2LWRMeDlHdWpmRUlmWG43QTY1Q2ljOUlNYzZOZmJSZEJUd3hvN28yZzVHRm1DeFVod0x3cWJyNTItSUNibDVEWktNMkVzM0pnRXpib1g4LV9Vb1BOMUpSR3lPdVpjUQ?oc=5",
+      "published_at": "2026-10-28T13:42:26+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "The Biotech Growth Trust PLC - Net Asset Value(s) – Company Announcement",
+      "publisher": "Financial Times",
+      "publisher_url": "https://markets.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcGtWdGRsX1lhUGpDSzRyVjduZzVsLXNMX1pnY0ZYT3c0TjdEOU9xTEI2SjJ2NjEwd211YTlKZzNSTW1TS1pPZjdqUWYwSlVZN0Z5M2dIZkRhaHVjclZycnczNlZYMjdMNUVXVVgzQ2FScFpuM09wMm5QVGtJVEZMdUJCSXNRY0R4VW85Z2JuU1R2T0hS?oc=5",
+      "published_at": "2026-10-28T13:21:00+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "GSK shares come under pressure from weaker vaccine sales",
+      "publisher": "pharmaphorum",
+      "publisher_url": "https://pharmaphorum.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMlhmQlVUU1VYcnotS2l5eURCcWU3RnBVUmVnaG9FQml6cmtmZ0JCcmRZdmtNYjYwbzNyQTUzRHhWc2FONGYyQUFBZE1FYVZzaUpfcVY3WlIyUVhjZDNiS0twZmtrbTlnUzBfNS13NzFkZTBsczRxNXBiLTc1TTkxZFVBMHN6YXhW?oc=5",
+      "published_at": "2026-10-28T13:15:38+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "GSK shares dive as weaker vaccine sales unnerve investors",
+      "publisher": "The Guardian",
+      "publisher_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVjNUYXBSQklHbTFMc3U2VlFCT3JhMUdpaWpaMTRYRF8wdDA0WnZRVHdxZXY4R0ZUYW1lX2ZGWTRzRi1za3ZaNEVqcC1sSUtJYmxRRld3SUx6TnlGMVZKMFJKaUtORnNHMWRxNVhUTG9BMVVkRl9KbzFwZW9nSjljdXFyY0d6WTFWZG9tTm9qNUY0b092ek1WZ21BNXlEbDdjeWNzZjVRX2ZlUnpNUldaM1c5Q24wYzhR?oc=5",
+      "published_at": "2026-10-28T12:44:00+00:00",
+      "regions": [
+        "europa",
+        "global"
+      ]
+    },
+    {
+      "title": "Patient living in 'horrific pain' due to UK-wide drugs shortage",
+      "publisher": "BBC",
+      "publisher_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBidXFINDRVRnYyUzM3Zld0QUdBNV84VHNWVmZCbGh6VE9maTdkUDJkbjlxR1Q3YnllUTBKUHdmdGRZT29TR0ZqLVVXX3dNWG9nb0VmM29nU2xNWms?oc=5",
+      "published_at": "2026-10-28T12:39:42+00:00",
+      "regions": [
+        "europa",
+        "global"
+      ]
+    },
     {
       "title": "Evogene Announces Acute Graft-Versus-Host Disease (aGVHD) as the Target Indication for Its Internal AI-Driven Drug Discovery Program – Company Announcement",
       "publisher": "Financial Times",
@@ -74,32 +247,11 @@
       ]
     },
     {
-      "title": "Geron discontinues late-stage trial of blood cancer drug",
-      "publisher": "Reuters",
-      "publisher_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOelpUVXNNNEVvVWN4eFozdG1rV1ZJZGNHX2t3U3d1M1JuWHlBQlZ1c08yaHdpNnFuVDFfcFh6SklQanE1V3NjUllfLTR5LWR1bVZ3ZkpDSVlHOFRxdFk4aVV6OS1jNzJxX0VZNm83T3hpREU1UHhtakQ3YWJrTXRDNU03RExPZkt1ZnJ1U3BMRk5XdEpTSXFUbDRmWWdDWFRKUHdfRk9zVWF4UDhJMTFDRkdrM1FKNmIxOXlRdTdWUEdWVVU?oc=5",
-      "published_at": "2026-10-28T12:15:43+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
       "title": "What has actually caused the decline in drug overdose deaths?",
       "publisher": "STAT",
       "publisher_url": "https://www.statnews.com",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSFlVcjlTOHc1ODNSNF83MlVFRmVMZms5QW9XcUkyYkNBMFZ0dlRpZTd2YjlHbWtMUGp6OG5uaGpsaHNZdElPMlFUb0pKX28zWlhyN09hQlhoN2hZR3dvdHlKekJKY25DWF9DNjF6MTNUalVQallTYy1fR2g3cl9QcnktQWx5SkczcEE?oc=5",
-      "published_at": "2026-10-28T12:05:06+00:00",
-      "regions": [
-        "global",
-        "usa"
-      ]
-    },
-    {
-      "title": "Exclusive | Drug Middlemen Will Soon Have to Share Details on How They Are Paid",
-      "publisher": "WSJ",
-      "publisher_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMDJvczVtMzVFd1lsU3VsY0FuTDl5UE1CNmM3RkhwU2dNaWQ0bWYxVGNES0t6bkVRdnVVbWNWRWkwbDVQOS1NT0tINWlYcmFDbHBVUEdVSmd1QVpnbmlZZlBPMzRMcWdNREl1VTk4alZ4cUxuR1ZCWk9vM0o0UmZCU0RGZlQtdG5PRGpCMHp0bVdsUnZ5YlkxWl83dXNWMy1Ib1hxa0ZYT0pUaTZGRmtkVDRCV1I?oc=5",
-      "published_at": "2026-10-28T12:00:00+00:00",
+      "published_at": "2026-10-28T12:04:56+00:00",
       "regions": [
         "global",
         "usa"
@@ -113,18 +265,6 @@
       "published_at": "2026-10-28T11:00:00+00:00",
       "regions": [
         "europa"
-      ]
-    },
-    {
-      "title": "Lilly's next-gen drug outshines Ozempic on weight loss, blood sugar control in trial",
-      "publisher": "Reuters",
-      "publisher_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZ0hwalh5b1g1NFZERG9jUUhSdzNwWHN1RHgyd2JwLXFKRHotc3l5S1JJZ3lpNHJYdGFpb2M1dG8zNzhfeXNjd0ZRUHN2bklUNlo1S05iVjZsbjhUQzlsMUJyLXVCSlNjamtTY2tWRVl3aVhXcXdnc3pEY0tFQ2JrYXdBTFJ1SGlSenllamh2M0JJNTIzQ1Y0WVhuamtIODBGRkFXbzZxRnAxclFvREp6V0pxaFVabnpXZTBQQ2xTTFlGaGlDcFZxMQ?oc=5",
-      "published_at": "2026-10-28T10:48:01+00:00",
-      "regions": [
-        "europa",
-        "global",
-        "usa"
       ]
     },
     {
@@ -145,7 +285,8 @@
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPampMXzNsRzJSeUpoUkxtVkk5MW1rYmZQODJNbFJlU1hkM0lRcXN2Wno3ejRYRElGeWhPR0FyQWE1SGt4ZmYycEN0UnEtMDZBM2Y0bTZHRDRhY3ZDZzFlMUZlZVBwd3oxOTNJM2F5RFhoWjc2QnJmTGVKS2p4ODhpdlM5NmM?oc=5",
       "published_at": "2026-10-28T10:39:11+00:00",
       "regions": [
-        "europa"
+        "europa",
+        "global"
       ]
     },
     {
@@ -179,6 +320,16 @@
       ]
     },
     {
+      "title": "Opinion | Is This the Gateway Drug for Gambling?",
+      "publisher": "The New York Times",
+      "publisher_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9xZXFlV2oydzJ1aE5WOUZFMktCVE0zTld5OEE1X0wwZFJheVNQWE11TTZhekYzWU1rODlGNXJzcm85QmUzR0o5ZHRsci0wN3RoZTM0amJZXy1IWXMyWWJkLTNTSm1sSzgtX3BSYy0xUEU0c3V5OUNodWVTZW0yUQ?oc=5",
+      "published_at": "2026-10-28T09:06:24+00:00",
+      "regions": [
+        "usa"
+      ]
+    },
+    {
       "title": "Are you affected by specific drug shortages? Share your experience.",
       "publisher": "BBC",
       "publisher_url": "https://www.bbc.co.uk",
@@ -209,16 +360,6 @@
       ]
     },
     {
-      "title": "Drug use",
-      "publisher": "BBC",
-      "publisher_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Ibm1Ka2F5VWpwS1JGNXNHeVVRaHhiYm14Q1dzd1lUOERLV3JMd0szM1JCdndhUS0zMFJtSVZ0OFRldm5fYlM0bXVZWTZvN1RWNGxkR3U4OA?oc=5",
-      "published_at": "2026-10-28T07:17:30+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
       "title": "Treasury to Limit Chinese Biotech Deals, But Still Allow Licensing",
       "publisher": "WSJ",
       "publisher_url": "https://www.wsj.com",
@@ -230,13 +371,15 @@
       ]
     },
     {
-      "title": "Generic drugmaker Sandoz's shares fall after sales outlook lowered",
+      "title": "Generic drugmaker Sandoz cuts sales outlook, shares fall",
       "publisher": "Reuters",
       "publisher_url": "https://www.reuters.com",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNYlVPbS1tUHRtY2RwMzF4VHRxY2hEeGo2dGhPd0JVcm9vWklxOTVteDFsdVQzdmRMWTV2cG5zUC1yUHBUeGVCY3NjUXNhY19BVHhyMkI5RTJ4Yy1OcV9YWTM3VWFfZmxpSXcySUFxdndhTzF4ZEVidjZxbmlPX25xS3lGNmdXYjNzcXg2R3FhYUg1ZTlhalNsTkoxR2x1NUcybm1YM2VOejlxRnl0M1ZmdjFEN2xaMVFpNjBreUM0d19OSVZ2UnlMRHJBWnp0MF84OGlEVjhn?oc=5",
       "published_at": "2026-10-28T06:52:00+00:00",
       "regions": [
-        "europa"
+        "europa",
+        "global",
+        "usa"
       ]
     },
     {
