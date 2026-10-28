@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-27",
+  "date": "2026-10-28",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-28T01:34:14+00:00",
+  "checked_at": "2026-10-28T12:36:18+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -23,12 +23,12 @@
     "bcrd": {
       "ok": true,
       "error": null,
-      "count": 3
+      "count": 4
     },
     "fiscal": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 0
     },
     "dgii": {
       "ok": true,
@@ -38,7 +38,7 @@
     "finance": {
       "ok": true,
       "error": null,
-      "count": 4
+      "count": 0
     },
     "securities": {
       "ok": true,
@@ -83,29 +83,11 @@
   },
   "items": [
     {
-      "title": "Valdez Albizu figura entre los mejores gobernadores de bancos centrales por cuarta vez",
-      "publisher": "Acento",
-      "publisher_url": "https://acento.com.do",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdXNRdlJWTTc3cEk5azBsc2Q0TE5XZEt1cjFyVXF1V0kxcVE4TlRyTEo2bGlsN2JVcjcwYnEwME1mNDNYMUFVNldSbkVaOU5RQ3NPN0NLcTJOelZQbDZreFprdG9WN2ZsR2d4SkNOdHRXNkFQRGU5MTI2RDEtVHlzNmRqUzdDdGRYT2ZyR3pFQU5GWHpwX2c5RUJKLS1TOU9PR0FmOEpvQVNZcFBpSHZkbk1XRWtDQlc1dVk1UERCZkRqOEhBa1h3Ylh30gHKAUFVX3lxTFB1c1F2UlZNNzdwSTlrMGxzZDRMTldkS3VyMXJVcXVXSTFxUThOVHJMSjZsaWw3YlVyNzBicTAwTWY0M1gxQVU2V1JuRVo5TlFDc083Q0txMk56VlBsNmt4Wmt0b1Y3ZmxHZ3hKQ050dFc2QVBEZTkxMjZEMS1UeXM2ZGpTN0N0ZFhPZnJHekVBTkZYenBfZzlFQkotLVM5T09HQWY4Sm9BU1lwUGlIdmRuTVdFa0NCVzV1WTVQREJmRGo4SEFrWHdiWHc?oc=5",
-      "published_at": "2026-10-27T22:00:26+00:00",
-      "topics": [
-        "bcrd",
-        "economy",
-        "finance"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "bcrd",
-        "economy"
-      ]
-    },
-    {
-      "title": "RD consolida su crecimiento en inversión extranjera y exportaciones",
-      "publisher": "El Nuevo Diario",
-      "publisher_url": "https://elnuevodiario.com.do",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYUJ5c1dpc3BlRUFrUVhvY3NqSVB5RVV1YXAwQVpJM0xkLTQwWnRiT1U4aG8wdHdvTk1IQ01QVGYwdUNCa3N6QjJHQzk2NExFa2pBc2pmZ2dHaTZKWlNpbjgyNGZzZnV2ci02TXhpQzhIcTNoNFhGcEJsSGN4MXhjRDlNbFp6c3UzY1Y0UHliTUgxT200SlYwMjFFSEgxUQ?oc=5",
-      "published_at": "2026-10-27T18:15:32+00:00",
+      "title": "La República Dominicana concentra el 74 % de sus exportaciones en mercados cercanos",
+      "publisher": "Diario Libre",
+      "publisher_url": "https://www.diariolibre.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcWpNS29EM1U1bTRqTmg1RXZaakplR2JNeWt5VHRkV0ZxSFhmUWVyaUxnM3Y1SHA5WHdsbkJieE5ubVdPcjQ5Z1RlRHN4dVpYLUwweGRkcEIzWEZBOWF4RHJ2ZGhDcWZMcVo5MjVSN0lvTENvNlU4Qjd5dktSZ2pPZVA1UGFCaHlBUlQ1RjZsSDl1Zmx3X3ZnaTFOOTZjUnQ3VVpMbXZGbU1fbWFpYXpXeE1tNjlaYzh6dnhmbjJicExwZw?oc=5",
+      "published_at": "2026-10-28T04:02:00+00:00",
       "topics": [
         "economy"
       ],
@@ -116,30 +98,13 @@
       ]
     },
     {
-      "title": "Hacienda clasifica como “neutros” los efectos ambientales del gasto tributario del turismo",
-      "publisher": "Acento",
-      "publisher_url": "https://acento.com.do",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMHZmNXV5ekJJR0Z1N18xZ05qbmJZZjd3RF9VVUZHVkZmQXRSZ0cwRWd0Wi1CRE1mbjVzUVZxTk1rMFJ1OUpLVTdzYXV2LXBQYmlyRTJ0LXRLSkNEZmZHRm15Qm95c2xrcXlJNk9qUDNleUEzX1N1aUVTQkx2bmY4YkdXUUhhQjF2SXMxVG9jWGstY2xJX3ZoNmRNX3ZxSXQ5Vy1CYVlQQ3JFeUwtMzBMU1IzUGlaV190amVZd1FZMnhxMmt1YnJwY3JiU1PSAcwBQVVfeXFMTzB2ZjV1eXpCSUdGdTdfMWdOam5iWWY3d0RfVVVGR1ZGZkF0UmdHMEVndFotQkRNZm41c1FWcU5NazBSdTlKS1U3c2F1di1wUGJpckUydC10S0pDRGZmR0ZteUJveXNsa3F5STZPalAzZXlBM19TdWlFU0JMdm5mOGJHV1FIYUIxdklzMVRvY1hrLWNsSV92aDZkTV92cUl0OVctQmFZUENyRXlMLTMwTFNSM1BpWldfdGplWXdRWTJ4cTJrdWJycGNyYlNT?oc=5",
-      "published_at": "2026-10-27T17:00:23+00:00",
+      "title": "Revista Global Finance reconoce Valdez Albizu",
+      "publisher": "El Dia.com.do",
+      "publisher_url": "https://eldia.com.do",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9YTXk2WXBUMEdMTnkwTnNWbWtmbDFiejg3aGlWNENhdkpWcFhjclRJMjduQW9fcnV5VW1FaDRnLXRZaEZhd2RDa3R4alJ2Vk5UQWFub3BwTUgxMjMzaXBnX3ZjaDB3RVktYkUtc2J2anpPWjdDZkE?oc=5",
+      "published_at": "2026-10-28T04:01:00+00:00",
       "topics": [
-        "dgii",
-        "fiscal"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "fiscal"
-      ]
-    },
-    {
-      "title": "República Dominicana destaca en ranking mundial de gobernadores de bancos centrales",
-      "publisher": "Hoy Digital",
-      "publisher_url": "https://hoy.com.do",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOR0V2NGpCX05lUWxiZEN2WlBIR2loVHozUnVwVUVtYnh3emhSaTZ4ckZFb0l3WlJnei1VWE40UElJRWFNdzdSMWo3NW80RHViTk01Wmh4NFFqanpLb1ZuMTlQTy1fM3R5ZDNwOGtxbTNubGh2U3REUklfOHFnaXFOR2hTNGZqNWxIUThjaDZLVjJ3MDRweTRZTlFJWEtsdEZod19CUUZsdWlFNUdBSXlRMkc5aEJtaE1DTG1N0gG7AUFVX3lxTE5HRXY0akJfTmVRbGJkQ3ZaUEhHaWhUejNSdXBVRW1ieHd6aFJpNnhyRkVvSXdaUmd6LVVYTjRQSUlFYU13N1Ixajc1bzREdWJOTTVaaHg0UWpqektvVm4xOVBPLV8zdHlkM3A4a3FtM25saHZTdERSSV84cWdpcU5HaFM0Zmo1bEhROGNoNktWMncwNHB5NFlOUUlYS2x0Rmh3X0JRRmx1aUU1R0FJeVEyRzloQm1oTUNMbU0?oc=5",
-      "published_at": "2026-10-27T16:00:02+00:00",
-      "topics": [
-        "bcrd",
-        "finance"
+        "bcrd"
       ],
       "economists": [],
       "economist_match": null,
@@ -148,32 +113,14 @@
       ]
     },
     {
-      "title": "Valdez Albizu es reconocido por cuarta vez como líder de banca central",
-      "publisher": "El Caribe",
-      "publisher_url": "https://www.elcaribe.com.do",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOHJRMHpzWF9wbHdsdlI3QmQ4VFJzbzg0d3JwaE54YS1ET1F0XzJCc3hVWjdVRHVjWi1EMXExTUlOUWVCdWNoS0w2YVRmZHctRnRRS1UzSDZjanlOUHNudElyeVp6MWtldktVZHF0TmFjVG53Rmh6QVItd1pOR0YwSzZnMEpka2hfd0dYMm03T0JTT0tUeERrOS12QmJiWUgtc2UyT0E3RElMUnFh?oc=5",
-      "published_at": "2026-10-27T15:28:51+00:00",
-      "topics": [
-        "economy",
-        "finance"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "economy",
-        "finance"
-      ]
-    },
-    {
-      "title": "Valdez Albizu es reconocido por cuarta vez entre los mejores gobernadores de bancos centrales del mundo",
-      "publisher": "El Nuevo Diario",
-      "publisher_url": "https://elnuevodiario.com.do",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVDVJblQ1ZEJTZ0hOY2NRdjRtaVN0X1lVcVRIOHdOMUJmMzNkTTZNdnF5aGdycTlYVExCWE5tS1dvRGNidkFiVUE5XzFqS0x5cnNINkM0Tlg2NDJlbkJCcUMwUnJXSW9aclpTM2xhLXN4Ukg4MU82STkwVUZBd2R0M1dOcGs5bExScWc1bVNUWU1URG9HdU1ILTFTNFh6RG91N0RLWTdCLWhUTkN6WWxBQ2gyZkFINEtyQ2c5dkFSc2ozME9GUk44MVh1QXpXdw?oc=5",
-      "published_at": "2026-10-27T14:59:39+00:00",
+      "title": "República Dominicana consolida su crecimiento en inversión extranjera y exportaciones",
+      "publisher": "Listín Diario",
+      "publisher_url": "https://listindiario.com",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONlM0Y1djY0lxeEM3T0FpVU1aOHdxY2RYTlZWbDRIbUktTlpHQXJPU25IWlAtSHR6LVMwanFralhtTllwVG85YXRTRTdFT1FiYm1abXJEMUVZSDAzVWd2NzlpM05LX0dYZ3FYNllSdVFzcFhFTXFKZDRkVHB4Umh5SVV2VnNibnNFMTczNGtZNjlHOE42dGJUXzJKT1QzaFpUTHB5UVROMkczMWFKWDFXbkd6VTFwRGNnZVk3NFJ3SWU1d20wNFRxRk4ySEZPY2VTdGtxM0U5N3HSAd4BQVVfeXFMTUluNWg2SUlTOGJyZDViem9IZ3BCQnREbDhwbzR3TmpuRXh3LU5RNHlLN0VtZTJNNDVEaFp6eGtMRTBydTkyTko3MERueEdraU9pTW9OMGJxdEUyQ3hXYTJQMGZuaF9aRnNSaWk4US1aYVVsWEVaaXJxS0ZYeXJRS1dIaVc5VjYwTE9TeXRHNF9RS1U0dWZWZ0ZTYXUtcU9MWnY2NFNvVFRFSWstSXJrVHAtaWNOelNPc3hUdUZ5djhmUThOUFVoWU9tS1ZLaFBXSmExb0NJNG9XWEJ6R1lB?oc=5",
+      "published_at": "2026-10-28T04:00:00+00:00",
       "topics": [
         "bcrd",
-        "economy",
-        "finance"
+        "economy"
       ],
       "economists": [],
       "economist_match": null,
@@ -183,56 +130,35 @@
       ]
     },
     {
-      "title": "El Gobierno dominicano paga deuda con más deuda: más de la mitad de lo que se endeuda va al servicio de pasivos",
-      "publisher": "Acento",
-      "publisher_url": "https://acento.com.do",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQUzNHYUYtOXlUVUhfOHlyTXdvWmFHb0haRG9WdFhacnVoYUJmYXQ2ZU1iMExuSzU2MUtReE81OEsyYjFkR3ZuQkFmQUZNcHFibHREVjc2MUpfOVhLVmhIN2M0TGEyWkVvNTA0S2Rlekt5cWR6QTBGUXVIZHBzVUo4NV9MZFlUTW1pZTJqbUFlOVdRZWdJbzg3RWpRZ0d0RE9LZEJ0ZjJjUUVRY2RrRU04N0l2YW1sUkpxd0trVFJ5SFNKQ3dZZ0FnUWJZZWU5SU9CSXljYVYzcDBTMl9wNVZIVmVWaGpxRC1jdHfSAeoBQVVfeXFMUFMzR2FGLTl5VFVIXzh5ck13b1phR29IWkRvVnRYWnJ1aGFCZmF0NmVNYjBMbks1NjFLUXhPNThLMmIxZEd2bkJBZkFGTXBxYmx0RFY3NjFKXzlYS1ZoSDdjNExhMlpFbzUwNEtkZXpLeXFkekEwRlF1SGRwc1VKODVfTGRZVE1taWUyam1BZTlXUWVnSW84N0VqUWdHdERPS2RCdGYyY1FFUWNka0VNODdJdmFtbFJKcXdLa1RSeUhTSkN3WWdBZ1FiWWVlOUlPQkl5Y2FWM3AwUzJfcDVWSFZlVmhqcUQtY3R3?oc=5",
-      "published_at": "2026-10-27T14:00:41+00:00",
+      "title": "IED supera US$4,525 MM y exportaciones crecen 14 %",
+      "publisher": "Hoy Digital",
+      "publisher_url": "https://hoy.com.do",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTFF6MTBOQ2hhUllXdm5iYnBncDQ2NHYxMHVSTWVYazV6UU5RQVV6eTlESnJSUHFKa1BxdzJUX3NvM3BLUm5vNWtEMFc5bkxWMFNaLVdGWHo1UVBjeDdfeUxjMVpJUHc4ZE05X25QYzFmaUlPOENKUzJxa2FOTjdGdGJLdjF5MVhNLVNOUG01UTNGRnI0TFHSAZYBQVVfeXFMT0xRejEwTkNoYVJZV3ZuYmJwZ3A0NjR2MTB1Uk1lWGs1elFOUUFVenk5REpyUlBxSmtQcXcyVF9zbzNwS1JubzVrRDBXOW5MVjBTWi1XRlh6NVFQY3g3X3lMYzFaSVB3OGRNOV9uUGMxZmlJTzhDSlMycWthTk43RnRiS3YxeTFYTS1TTlBtNVEzRkZyNExR?oc=5",
+      "published_at": "2026-10-28T04:00:00+00:00",
       "topics": [
-        "bcrd",
-        "economy",
-        "finance",
-        "fiscal"
+        "bcrd"
       ],
       "economists": [],
       "economist_match": null,
       "searches": [
-        "bcrd",
-        "economy",
-        "finance",
-        "fiscal"
+        "bcrd"
       ]
     },
     {
-      "title": "Pagos en diez segundos: la banca pierde una comisión y gana un cliente",
-      "publisher": "Acento",
-      "publisher_url": "https://acento.com.do",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWkpmbldOTVU4NEh5OVYzRTBoQ1hIS0lyYV9UTldjdEpwb2IzYV85dm9xT0xnRjcwR1l5alJIRFZUVHZrMWFuRU1GRlhuUF9vU19Kck5oVERyZkFvYm5HVk41SmZEMGNKb0pOZUszMWNvU2NpSnRWcHhJS0txWklyaGpnS2NObDFQb2hBSjAxZF9GOW9wczVCY1NzYURhOUk2Wk9vdjdRMll0aDNwaHJWbWszd9IBswFBVV95cUxPWkpmbldOTVU4NEh5OVYzRTBoQ1hIS0lyYV9UTldjdEpwb2IzYV85dm9xT0xnRjcwR1l5alJIRFZUVHZrMWFuRU1GRlhuUF9vU19Kck5oVERyZkFvYm5HVk41SmZEMGNKb0pOZUszMWNvU2NpSnRWcHhJS0txWklyaGpnS2NObDFQb2hBSjAxZF9GOW9wczVCY1NzYURhOUk2Wk9vdjdRMll0aDNwaHJWbWszdw?oc=5",
-      "published_at": "2026-10-27T07:00:59+00:00",
-      "topics": [
-        "bcrd",
-        "finance"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "bcrd",
-        "finance"
-      ]
-    },
-    {
-      "title": "Banreservas es el banco más seguro del país, dice revista",
+      "title": "Exportaciones e IED suman 17,771 millones dólares en nueve meses",
       "publisher": "El Caribe",
       "publisher_url": "https://www.elcaribe.com.do",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZGMzLXdLY3J6UVZiTUR6a1VPZkxUYUZRQ1FVRGxnNmh1cW9MZ1FrZXd5SGVyRndONFVaNDM3Ql9WYWxxbjgzanNRbkg4Y0xhWld6MW52QndCRW1zMTNkcHN2ZWtxSXFHaVVCTmYwaFZPd1djbU1BYVVzU2JQekdoRTNDbUE2VUFlajBCLTd4MF9JOTNPaFhQcDhYWUFZNnFyeC1V?oc=5",
-      "published_at": "2026-10-27T04:00:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObFBFWVJTazBHU0UyTklDaXFFU29qQkhmMDZUT3JNUDJ3Qy1hd21scmpoRWlJVjFzY2dnZDZmVG9RRFQzcER1VFFjQkxwUEx3MU9TNmtyZi0zNGh1ckZjdVRwYWhITlBpaUdTTk5YeUhwRS14N1dRMERxaGlnejFEeXptU1diT2U4cnB1R2pMSjVJT2N5ZjdVSUNUZGtEc2xhNnNXMzhkWk5OSWs?oc=5",
+      "published_at": "2026-10-28T04:00:00+00:00",
       "topics": [
-        "finance"
+        "bcrd",
+        "economy"
       ],
       "economists": [],
       "economist_match": null,
       "searches": [
-        "finance"
+        "bcrd",
+        "economy"
       ]
     }
   ],

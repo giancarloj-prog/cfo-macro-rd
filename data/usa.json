@@ -8,7 +8,7 @@
       "source": "Federal Reserve",
       "url": "https://www.federalreserve.gov/monetarypolicy/openmarket.htm",
       "unit": "percent_range",
-      "verified_at": "2026-10-28T01:32:58+00:00"
+      "verified_at": "2026-10-28T12:35:02+00:00"
     },
     "treasury_10y": {
       "value": 5.0,
@@ -16,7 +16,7 @@
       "source": "Federal Reserve · H.15",
       "url": "https://www.federalreserve.gov/releases/h15/",
       "unit": "percent",
-      "verified_at": "2026-10-28T01:32:58+00:00"
+      "verified_at": "2026-10-28T12:35:02+00:00"
     },
     "ism_manufacturing": {
       "value": 54.5,
@@ -32,7 +32,7 @@
       "source": "ISM",
       "url": "https://www.prnewswire.com/news-releases/services-pmi-at-54-9-september-2026-ism-services-pmi-report-302898421.html",
       "unit": "index",
-      "verified_at": "2026-10-28T01:32:58+00:00"
+      "verified_at": "2026-10-28T12:35:02+00:00"
     },
     "world_container_index": {
       "value": 4585.0,
@@ -40,7 +40,7 @@
       "source": "Drewry",
       "url": "https://www.drewry.co.uk/supply-chain-advisors/supply-chain-expertise/world-container-index-assessed-by-drewry",
       "unit": "usd_40ft",
-      "verified_at": "2026-10-28T01:32:58+00:00"
+      "verified_at": "2026-10-28T12:35:02+00:00"
     },
     "inflation_us_yoy": {
       "value": 3.7,
@@ -50,7 +50,7 @@
       "unit": "percent",
       "series_id": "CUUR0000SA0",
       "description": "Inflación general interanual · sin ajuste estacional",
-      "verified_at": "2026-10-28T01:32:58+00:00"
+      "verified_at": "2026-10-28T12:35:02+00:00"
     },
     "sp500": {
       "value": 7722.6,
@@ -59,7 +59,7 @@
       "url": "https://finance.yahoo.com/quote/%5EGSPC/",
       "unit": "index_points",
       "description": "Último cierre publicado · puntos del índice",
-      "verified_at": "2026-10-28T01:32:58+00:00"
+      "verified_at": "2026-10-28T12:35:02+00:00"
     },
     "wti": {
       "value": 107.89,
@@ -69,16 +69,16 @@
       "url": "https://www.eia.gov/dnav/pet/hist/RWTCD.htm",
       "description": "WTI spot · Cushing, Oklahoma · US$/barril · último dato publicado",
       "series_id": "RWTC",
-      "verified_at": "2026-10-28T01:32:58+00:00"
+      "verified_at": "2026-10-28T12:35:02+00:00"
     },
     "gold": {
-      "value": 4038.4,
-      "period": "2026-10-26",
+      "value": 4074.6,
+      "period": "2026-10-27",
       "unit": "usd_oz",
       "source": "Yahoo Finance · COMEX",
       "url": "https://finance.yahoo.com/quote/GC=F/",
       "description": "Futuros de oro · GC=F · último cierre diario · US$/onza troy",
-      "verified_at": "2026-10-28T01:32:58+00:00"
+      "verified_at": "2026-10-28T12:35:02+00:00"
     },
     "remittances_ytd": {
       "value": 9489.8,
@@ -88,59 +88,59 @@
       "source": "Banco Central · BCRD",
       "url": "https://www.bancentral.gov.do/a/d/6691-bcrd-informa-que-los-flujos-de-remesas-alcanzaron-los-us94898-millones-en-el-periodo-eneroseptiembre-de-2026",
       "description": "Enero–septiembre 2026 · YoY frente al mismo período de 2025",
-      "verified_at": "2026-10-28T01:32:58+00:00"
+      "verified_at": "2026-10-28T12:35:02+00:00"
     }
   },
-  "checked_at": "2026-10-28T01:32:58+00:00",
+  "checked_at": "2026-10-28T12:35:02+00:00",
   "source_health": {
     "wti": {
       "ok": true,
-      "checked_at": "2026-10-28T01:32:58+00:00",
+      "checked_at": "2026-10-28T12:35:02+00:00",
       "error": null
     },
     "gold": {
       "ok": true,
-      "checked_at": "2026-10-28T01:32:58+00:00",
+      "checked_at": "2026-10-28T12:35:02+00:00",
       "error": null
     },
     "remittances_ytd": {
       "ok": true,
-      "checked_at": "2026-10-28T01:32:58+00:00",
+      "checked_at": "2026-10-28T12:35:02+00:00",
       "error": null
     },
     "inflation_us_yoy": {
       "ok": true,
-      "checked_at": "2026-10-28T01:32:58+00:00",
+      "checked_at": "2026-10-28T12:35:02+00:00",
       "error": null
     },
     "sp500": {
       "ok": true,
-      "checked_at": "2026-10-28T01:32:58+00:00",
+      "checked_at": "2026-10-28T12:35:02+00:00",
       "error": null
     },
     "fed_rate": {
       "ok": true,
-      "checked_at": "2026-10-28T01:32:58+00:00",
+      "checked_at": "2026-10-28T12:35:02+00:00",
       "error": null
     },
     "treasury_10y": {
       "ok": true,
-      "checked_at": "2026-10-28T01:32:58+00:00",
+      "checked_at": "2026-10-28T12:35:02+00:00",
       "error": null
     },
     "ism_manufacturing": {
-      "ok": true,
-      "checked_at": "2026-10-28T01:32:58+00:00",
-      "error": null
+      "ok": false,
+      "checked_at": "2026-10-28T12:35:02+00:00",
+      "error": "La fuente exige acceso interactivo; se conserva el último dato verificado; Faltan el PMI principal y su mes en el encabezado; No se encontró un comunicado de ISM fechado"
     },
     "ism_services": {
       "ok": true,
-      "checked_at": "2026-10-28T01:32:58+00:00",
+      "checked_at": "2026-10-28T12:35:02+00:00",
       "error": null
     },
     "world_container_index": {
       "ok": true,
-      "checked_at": "2026-10-28T01:32:58+00:00",
+      "checked_at": "2026-10-28T12:35:02+00:00",
       "error": null
     }
   }
