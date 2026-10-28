@@ -1,7 +1,7 @@
 {
   "date": "2026-10-27",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-28T00:52:26+00:00",
+  "checked_at": "2026-10-28T01:34:15+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -39,10 +39,21 @@
     "global": {
       "ok": true,
       "error": null,
-      "count": 20
+      "count": 21
     }
   },
   "items": [
+    {
+      "title": "Patient living in 'horrific pain' due to UK-wide drugs shortage",
+      "publisher": "BBC",
+      "publisher_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBidXFINDRVRnYyUzM3Zld0QUdBNV84VHNWVmZCbGh6VE9maTdkUDJkbjlxR1Q3YnllUTBKUHdmdGRZT29TR0ZqLVVXX3dNWG9nb0VmM29nU2xNWms?oc=5",
+      "published_at": "2026-10-28T00:01:03+00:00",
+      "regions": [
+        "europa",
+        "global"
+      ]
+    },
     {
       "title": "Missouri AG warns Lilly to stop requiring data from hospitals seeking 340B drug discounts",
       "publisher": "STAT",
@@ -93,16 +104,6 @@
       "regions": [
         "global",
         "usa"
-      ]
-    },
-    {
-      "title": "Piramal Pharma Limited Announces Results for Q2 and H1 FY27",
-      "publisher": "Financial Times",
-      "publisher_url": "https://markets.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNc0RIbHlnaW9lRFJMeC1HTFVjcjNVaXpvWm9TcGoySU92aHotTS1ESVF5NUgzaHhTelZES3N4RWlqbXViOXF6R3BqQTdBMGF1VFU0ZTZBaXJYdXBrQnNWTHdyUWRGUWxPWHBZZGxKZWs3V0F3MTNfTGxEQWZUUE01YmxLeTRzakFEU3RCdXU5c0xBU0xydGtveg?oc=5",
-      "published_at": "2026-10-27T19:28:00+00:00",
-      "regions": [
-        "europa"
       ]
     },
     {

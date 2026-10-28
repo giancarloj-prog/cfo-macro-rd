@@ -1,7 +1,7 @@
 {
   "date": "2026-10-27",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-28T00:52:24+00:00",
+  "checked_at": "2026-10-28T01:34:14+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -23,12 +23,12 @@
     "bcrd": {
       "ok": true,
       "error": null,
-      "count": 2
+      "count": 3
     },
     "fiscal": {
       "ok": true,
       "error": null,
-      "count": 2
+      "count": 1
     },
     "dgii": {
       "ok": true,
@@ -48,7 +48,7 @@
     "economy": {
       "ok": true,
       "error": null,
-      "count": 5
+      "count": 3
     },
     "economist_andy": {
       "ok": true,
@@ -135,7 +135,7 @@
       "title": "República Dominicana destaca en ranking mundial de gobernadores de bancos centrales",
       "publisher": "Hoy Digital",
       "publisher_url": "https://hoy.com.do",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTVhOcUJTNll2ZHZ2S0x3NUl2VHBodWVCRHhOVERucjNWcVF1QW40NHN5WHlSendxNW1rRmNCSUV1cDBUZjdTdDA1bWNRZWZvMllsQ3IxZnBMWjdySkVWdWpyTWtKRjVsZlI3bnRpQ1ZyN3BqTlZsWHB2TVF0RUp5UHdpRVJPd254QVVXUEVCV1NMbFVuLS13bGZlUGpua0Q0cVpmRUtyLVNjczEwTTI3TG0tcF9Pd9IBuwFBVV95cUxOR0V2NGpCX05lUWxiZEN2WlBIR2loVHozUnVwVUVtYnh3emhSaTZ4ckZFb0l3WlJnei1VWE40UElJRWFNdzdSMWo3NW80RHViTk01Wmh4NFFqanpLb1ZuMTlQTy1fM3R5ZDNwOGtxbTNubGh2U3REUklfOHFnaXFOR2hTNGZqNWxIUThjaDZLVjJ3MDRweTRZTlFJWEtsdEZod19CUUZsdWlFNUdBSXlRMkc5aEJtaE1DTG1N?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOR0V2NGpCX05lUWxiZEN2WlBIR2loVHozUnVwVUVtYnh3emhSaTZ4ckZFb0l3WlJnei1VWE40UElJRWFNdzdSMWo3NW80RHViTk01Wmh4NFFqanpLb1ZuMTlQTy1fM3R5ZDNwOGtxbTNubGh2U3REUklfOHFnaXFOR2hTNGZqNWxIUThjaDZLVjJ3MDRweTRZTlFJWEtsdEZod19CUUZsdWlFNUdBSXlRMkc5aEJtaE1DTG1N0gG7AUFVX3lxTE5HRXY0akJfTmVRbGJkQ3ZaUEhHaWhUejNSdXBVRW1ieHd6aFJpNnhyRkVvSXdaUmd6LVVYTjRQSUlFYU13N1Ixajc1bzREdWJOTTVaaHg0UWpqektvVm4xOVBPLV8zdHlkM3A4a3FtM25saHZTdERSSV84cWdpcU5HaFM0Zmo1bEhROGNoNktWMncwNHB5NFlOUUlYS2x0Rmh3X0JRRmx1aUU1R0FJeVEyRzloQm1oTUNMbU0?oc=5",
       "published_at": "2026-10-27T16:00:02+00:00",
       "topics": [
         "bcrd",
