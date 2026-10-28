@@ -1,7 +1,7 @@
 {
   "date": "2026-10-28",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-28T12:40:42+00:00",
+  "checked_at": "2026-10-28T12:48:05+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -34,7 +34,7 @@
     "europa": {
       "ok": true,
       "error": null,
-      "count": 15
+      "count": 16
     },
     "global": {
       "ok": true,
@@ -58,6 +58,16 @@
       "publisher": "Financial Times",
       "publisher_url": "https://markets.ft.com",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdklEQ2YzVGo5SmU4MkN0R1lWb2wzMlVXTmd1N3JudXFJU05nd09tcC1ydWl2SS03X0FKWHBCMUYtWG9KMWNlby1GNzdKcml4WEFVN09yNV92aWJ3QVhBZk5rMUhXQ3g3Ti1wc2lqbG1pOS1pUDU1NThyN1RJVWR4UkE3c1V3MkhFTUhTQnhGQjZCVDZ4MEhuQ3F2amdpVVJKOXNPWnJB?oc=5",
+      "published_at": "2026-10-28T12:30:00+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "Potency Assays for Modern Biologics: Expert Insights and Future Trends, Upcoming Webinar Hosted by Xtalks",
+      "publisher": "Financial Times",
+      "publisher_url": "https://markets.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcHUtemwtUl94VFVwelpRbTBfbzBHUHlKWVJtN00zX3BTU2twcThUTjVkeXAxeHhUQ1A3cDBoMG0yYVh5MTN0VkE5cU82VXhRSDVZMUNBRlU0MFVIajFmQklUUnVac3pUalY3dnVuY1FPS0lKeG93blNGZm56Vk00OUx3eVc0cUxSM210UUUzampWSVVCN0VLdA?oc=5",
       "published_at": "2026-10-28T12:30:00+00:00",
       "regions": [
         "europa"
@@ -159,16 +169,6 @@
       ]
     },
     {
-      "title": "Biogen beats third-quarter results on strength in rare disease drugs",
-      "publisher": "Reuters",
-      "publisher_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMW1nZldBT2czUnFyZ2JJMlpWOEluMko1LU1qM1R1amZVUTVBaG9PMklQclYyTlRSNWZsMnd4WjNHQ2c1ME9yRF95TVM0dDRkQjUtbmpjRmpzbjdteHNNejFiX201M2EzNmR5ZGhQcmtOc29uYjM3NjYxSHY5MmlVelA4cXRGcEQ1WDAwSmRxcUU3TlJzbUZ5LTcwM3l3Z0pxLXVvNWRBNmNGQlhsbUxtdlpnWFpwalQ3bUE?oc=5",
-      "published_at": "2026-10-28T10:10:09+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
       "title": "US MCT8 deficiency patients get 1st drug as Emcitate debuts",
       "publisher": "pharmaphorum",
       "publisher_url": "https://pharmaphorum.com",
@@ -204,6 +204,16 @@
       "publisher_url": "https://pharmaphorum.com",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUDhQVUhjTUhXZklpZ2xJX2hjOWN2aDZTYmc5QkpLX0pvRF9aWjYtZkRqa0gyNGdNUVZKYXFBYzM5aEVyaHg0SnZSZFVNdTg1RFo2STBScUd6QnlFdW83eHRPS2JCQ29UeDRDMFlYempOdFpWS1FiU0F1Tk10LWdpOUFUV25KU2RRVXRVbw?oc=5",
       "published_at": "2026-10-28T08:00:00+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "Drug use",
+      "publisher": "BBC",
+      "publisher_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Ibm1Ka2F5VWpwS1JGNXNHeVVRaHhiYm14Q1dzd1lUOERLV3JMd0szM1JCdndhUS0zMFJtSVZ0OFRldm5fYlM0bXVZWTZvN1RWNGxkR3U4OA?oc=5",
+      "published_at": "2026-10-28T07:17:30+00:00",
       "regions": [
         "europa"
       ]
