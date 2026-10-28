@@ -1,7 +1,7 @@
 {
   "date": "2026-10-28",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-28T21:25:42+00:00",
+  "checked_at": "2026-10-28T21:49:44+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -24,17 +24,17 @@
     "mexico": {
       "ok": true,
       "error": null,
-      "count": 2
+      "count": 3
     },
     "usa": {
       "ok": true,
       "error": null,
-      "count": 14
+      "count": 13
     },
     "europa": {
       "ok": true,
       "error": null,
-      "count": 19
+      "count": 21
     },
     "global": {
       "ok": true,
@@ -44,6 +44,16 @@
   },
   "items": [
     {
+      "title": "Muere mujer de 31 años tras presuntamente seguir consejos de ChatGPT; le habría recomendado dejar medicamento",
+      "publisher": "MILENIO",
+      "publisher_url": "https://www.milenio.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOR0FDTmRYeTdNaVk4RHBwUmoxY19GUHNDRS1PNmotX24ydldQM2VMZ0RGOGJKdC1UbnhRNVJYWUVLMUF3M3J5ME4xMWxrTEh3Nkl6Q1pUSWcxc0dFdlYtTF9GcG5tOVJCcTdtWTJEbkNPbXo4RnJJbTJWamhZSzhUXzJR0gGCAUFVX3lxTE5wUmtFOFBUY1ZRa2FYOE1xMHhfelBNUHRsSUt2TnZJcU1jUFplT2JTWWh6NmZ4R2g0SnM3cXVGdGhSWTdOY0RINjZZbDZxT1lWYm5RcEFUREJYbExYckxUWERQQUhHOGFVY0pqMEJGLXRZQUJaYUpKdFhUcExzMGgwbEE?oc=5",
+      "published_at": "2026-10-28T21:08:00+00:00",
+      "regions": [
+        "mexico"
+      ]
+    },
+    {
       "title": "Lawmaker wants government watchdog to probe TrumpRx over claims about drug savings",
       "publisher": "STAT",
       "publisher_url": "https://www.statnews.com",
@@ -52,6 +62,16 @@
       "regions": [
         "global",
         "usa"
+      ]
+    },
+    {
+      "title": "Vanda Pharmaceuticals Reports Third Quarter 2026 Financial Results – Company Announcement",
+      "publisher": "Financial Times",
+      "publisher_url": "https://markets.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWkc2VmpYOU1UWE5ybnRFN3ZibmJmMG1qZFlvUkJDSF9lUHhsSzZvRDVmUmJoSTh2Y3V4dVlPTzc0eElZVmNFSm5mTE9jNEFCaWlRa3E2RHd4RC15WVlieVdwT3E4aVViaGtsbUlCUEJWRUdwMTdFN09LZjNadV9tVlNsQXVYTjB4WlR2U2d3RnJLVWN2SjU1bA?oc=5",
+      "published_at": "2026-10-28T20:01:00+00:00",
+      "regions": [
+        "europa"
       ]
     },
     {
@@ -146,10 +166,9 @@
       "publisher": "WSJ",
       "publisher_url": "https://www.wsj.com",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMDJvczVtMzVFd1lsU3VsY0FuTDl5UE1CNmM3RkhwU2dNaWQ0bWYxVGNES0t6bkVRdnVVbWNWRWkwbDVQOS1NT0tINWlYcmFDbHBVUEdVSmd1QVpnbmlZZlBPMzRMcWdNREl1VTk4alZ4cUxuR1ZCWk9vM0o0UmZCU0RGZlQtdG5PRGpCMHp0bVdsUnZ5YlkxWl83dXNWMy1Ib1hxa0ZYT0pUaTZGRmtkVDRCV1I?oc=5",
-      "published_at": "2026-10-28T14:22:49+00:00",
+      "published_at": "2026-10-28T14:54:00+00:00",
       "regions": [
-        "global",
-        "usa"
+        "global"
       ]
     },
     {
@@ -265,6 +284,16 @@
       "publisher": "Financial Times",
       "publisher_url": "https://markets.ft.com",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdklEQ2YzVGo5SmU4MkN0R1lWb2wzMlVXTmd1N3JudXFJU05nd09tcC1ydWl2SS03X0FKWHBCMUYtWG9KMWNlby1GNzdKcml4WEFVN09yNV92aWJ3QVhBZk5rMUhXQ3g3Ti1wc2lqbG1pOS1pUDU1NThyN1RJVWR4UkE3c1V3MkhFTUhTQnhGQjZCVDZ4MEhuQ3F2amdpVVJKOXNPWnJB?oc=5",
+      "published_at": "2026-10-28T12:30:00+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "Potency Assays for Modern Biologics: Expert Insights and Future Trends, Upcoming Webinar Hosted by Xtalks",
+      "publisher": "Financial Times",
+      "publisher_url": "https://markets.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcHUtemwtUl94VFVwelpRbTBfbzBHUHlKWVJtN00zX3BTU2twcThUTjVkeXAxeHhUQ1A3cDBoMG0yYVh5MTN0VkE5cU82VXhRSDVZMUNBRlU0MFVIajFmQklUUnVac3pUalY3dnVuY1FPS0lKeG93blNGZm56Vk00OUx3eVc0cUxSM210UUUzampWSVVCN0VLdA?oc=5",
       "published_at": "2026-10-28T12:30:00+00:00",
       "regions": [
         "europa"
