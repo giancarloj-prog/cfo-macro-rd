@@ -1,0 +1,79 @@
+{
+  "updated": "2026-10-28",
+  "sources": [
+    "https://www.bancentral.gov.do/a/d/6644-economia-dominicana-experimento-un-crecimiento-interanual-de-46--en-julio",
+    "https://bancentral.gov.do/a/d/6671-economia-dominicana-registra-crecimiento-interanual-promedio-de-45--en-eneroagosto-de-2026",
+    "https://www.bancentral.gov.do/a/d/6705"
+  ],
+  "months": [
+    "2026-07",
+    "2026-08",
+    "2026-09"
+  ],
+  "overall": {
+    "2026-07": 4.6,
+    "2026-08": 3.8,
+    "2026-09": 5.6
+  },
+  "sectors": {
+    "Construcción": {
+      "2026-07": 8.1,
+      "2026-08": 7.9
+    },
+    "Manufactura zonas francas": {
+      "2026-07": 5.5,
+      "2026-08": 3.4
+    },
+    "Manufactura local": {
+      "2026-07": 3.7,
+      "2026-08": 3.1
+    },
+    "Agropecuaria": {
+      "2026-07": 1.9,
+      "2026-08": -1.4
+    },
+    "Servicios financieros": {
+      "2026-07": 8.4,
+      "2026-08": 9.4
+    },
+    "Enseñanza": {
+      "2026-07": 8,
+      "2026-08": 6.1
+    },
+    "Otras actividades de servicios de mercado": {
+      "2026-07": 6.1,
+      "2026-08": 6
+    },
+    "Hoteles, bares y restaurantes": {
+      "2026-07": 5.6,
+      "2026-08": 2.3
+    },
+    "Servicios profesionales": {
+      "2026-07": 5.2,
+      "2026-08": 2.7
+    },
+    "Transporte y almacenamiento": {
+      "2026-07": 5.2,
+      "2026-08": 3.7
+    },
+    "Energía y agua": {
+      "2026-07": 4.6,
+      "2026-08": 6
+    },
+    "Comercio": {
+      "2026-08": 3.2
+    },
+    "Administración pública": {
+      "2026-08": 3.1
+    },
+    "Salud": {
+      "2026-08": 2.8
+    },
+    "Comunicaciones": {
+      "2026-08": 2.6
+    },
+    "Minería": {
+      "2026-08": -14.6
+    }
+  }
+}
