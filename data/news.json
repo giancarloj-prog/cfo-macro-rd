@@ -1,7 +1,7 @@
 {
   "date": "2026-10-28",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-28T12:36:20+00:00",
+  "checked_at": "2026-10-28T12:40:42+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -29,20 +29,40 @@
     "usa": {
       "ok": true,
       "error": null,
-      "count": 4
+      "count": 5
     },
     "europa": {
       "ok": true,
       "error": null,
-      "count": 13
+      "count": 15
     },
     "global": {
       "ok": true,
       "error": null,
-      "count": 4
+      "count": 5
     }
   },
   "items": [
+    {
+      "title": "Evogene Announces Acute Graft-Versus-Host Disease (aGVHD) as the Target Indication for Its Internal AI-Driven Drug Discovery Program – Company Announcement",
+      "publisher": "Financial Times",
+      "publisher_url": "https://markets.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUFBULXF3OGV2NEE0azdzRjc3TXczRGNadGpoQjRYSkRBRFEzXzY3dmJFb2YxamtKTzk5U1BEWEhheUxIWEVtWVFOZlkyYXBxdkhnZjhKVkxhbG9sUFlFU2hUTTNiQUx3emhrZWRkVGpnblMtUEd3Q21aa0ZtclprWERpZUpsZC1JZkxNemVDS3pkNlpsYld6OQ?oc=5",
+      "published_at": "2026-10-28T12:30:00+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "Vir Biotechnology Announces Appointment of Suzanne Topalian to its Board of Directors",
+      "publisher": "Financial Times",
+      "publisher_url": "https://markets.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdklEQ2YzVGo5SmU4MkN0R1lWb2wzMlVXTmd1N3JudXFJU05nd09tcC1ydWl2SS03X0FKWHBCMUYtWG9KMWNlby1GNzdKcml4WEFVN09yNV92aWJ3QVhBZk5rMUhXQ3g3Ti1wc2lqbG1pOS1pUDU1NThyN1RJVWR4UkE3c1V3MkhFTUhTQnhGQjZCVDZ4MEhuQ3F2amdpVVJKOXNPWnJB?oc=5",
+      "published_at": "2026-10-28T12:30:00+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
     {
       "title": "Geron discontinues late-stage trial of blood cancer drug",
       "publisher": "Reuters",
@@ -59,6 +79,17 @@
       "publisher_url": "https://www.statnews.com",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSFlVcjlTOHc1ODNSNF83MlVFRmVMZms5QW9XcUkyYkNBMFZ0dlRpZTd2YjlHbWtMUGp6OG5uaGpsaHNZdElPMlFUb0pKX28zWlhyN09hQlhoN2hZR3dvdHlKekJKY25DWF9DNjF6MTNUalVQallTYy1fR2g3cl9QcnktQWx5SkczcEE?oc=5",
       "published_at": "2026-10-28T12:05:06+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Exclusive | Drug Middlemen Will Soon Have to Share Details on How They Are Paid",
+      "publisher": "WSJ",
+      "publisher_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMDJvczVtMzVFd1lsU3VsY0FuTDl5UE1CNmM3RkhwU2dNaWQ0bWYxVGNES0t6bkVRdnVVbWNWRWkwbDVQOS1NT0tINWlYcmFDbHBVUEdVSmd1QVpnbmlZZlBPMzRMcWdNREl1VTk4alZ4cUxuR1ZCWk9vM0o0UmZCU0RGZlQtdG5PRGpCMHp0bVdsUnZ5YlkxWl83dXNWMy1Ib1hxa0ZYT0pUaTZGRmtkVDRCV1I?oc=5",
+      "published_at": "2026-10-28T12:00:00+00:00",
       "regions": [
         "global",
         "usa"
@@ -128,6 +159,16 @@
       ]
     },
     {
+      "title": "Biogen beats third-quarter results on strength in rare disease drugs",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMW1nZldBT2czUnFyZ2JJMlpWOEluMko1LU1qM1R1amZVUTVBaG9PMklQclYyTlRSNWZsMnd4WjNHQ2c1ME9yRF95TVM0dDRkQjUtbmpjRmpzbjdteHNNejFiX201M2EzNmR5ZGhQcmtOc29uYjM3NjYxSHY5MmlVelA4cXRGcEQ1WDAwSmRxcUU3TlJzbUZ5LTcwM3l3Z0pxLXVvNWRBNmNGQlhsbUxtdlpnWFpwalQ3bUE?oc=5",
+      "published_at": "2026-10-28T10:10:09+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
       "title": "US MCT8 deficiency patients get 1st drug as Emcitate debuts",
       "publisher": "pharmaphorum",
       "publisher_url": "https://pharmaphorum.com",
@@ -163,16 +204,6 @@
       "publisher_url": "https://pharmaphorum.com",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUDhQVUhjTUhXZklpZ2xJX2hjOWN2aDZTYmc5QkpLX0pvRF9aWjYtZkRqa0gyNGdNUVZKYXFBYzM5aEVyaHg0SnZSZFVNdTg1RFo2STBScUd6QnlFdW83eHRPS2JCQ29UeDRDMFlYempOdFpWS1FiU0F1Tk10LWdpOUFUV25KU2RRVXRVbw?oc=5",
       "published_at": "2026-10-28T08:00:00+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "Drug use",
-      "publisher": "BBC",
-      "publisher_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Ibm1Ka2F5VWpwS1JGNXNHeVVRaHhiYm14Q1dzd1lUOERLV3JMd0szM1JCdndhUS0zMFJtSVZ0OFRldm5fYlM0bXVZWTZvN1RWNGxkR3U4OA?oc=5",
-      "published_at": "2026-10-28T07:17:30+00:00",
       "regions": [
         "europa"
       ]
