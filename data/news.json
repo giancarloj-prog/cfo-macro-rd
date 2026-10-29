@@ -1,7 +1,7 @@
 {
   "date": "2026-10-29",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-29T15:39:50+00:00",
+  "checked_at": "2026-10-29T21:09:54+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -24,33 +24,162 @@
     "mexico": {
       "ok": true,
       "error": null,
-      "count": 3
+      "count": 6
     },
     "usa": {
       "ok": true,
       "error": null,
-      "count": 11
+      "count": 18
     },
     "europa": {
       "ok": true,
       "error": null,
-      "count": 12
+      "count": 14
     },
     "global": {
       "ok": true,
       "error": null,
-      "count": 12
+      "count": 18
     }
   },
   "items": [
     {
-      "title": "Southampton drug dealer jailed for 3D-printed gun murder",
-      "publisher": "BBC",
-      "publisher_url": "https://www.bbc.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9XR092dDdvcjhvYWs2NUtnWl9wOExqYklNdmtiVHhuN3BQa2t3ajJVWXFaaUkzMGRMdWNNWHd6cU9OZm8xUUVHek5TeVAzSEFSQjFsUFhHVjNtcVBETUE?oc=5",
-      "published_at": "2026-10-29T15:30:38+00:00",
+      "title": "Cofepris alerta sobre reacciones adversas a medicamentos; pide reportarlas para mejorar vigilancia sanitaria",
+      "publisher": "MILENIO",
+      "publisher_url": "https://www.milenio.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZGdvWXlsUXVOUWVoNHdocGt2clpWOEFmMnRQQzBrRzF4VG1wa0dzOVBDekdKd0ljTHhnRXZtNWtwZGdSa3R3OGZvZF9zX2NsUFE0bmgyMnRHUzB0b0RnMklMVjh1c2NJWXlicEVmVzhOZXRCZ0Znb1hYOWNwS1RzSU40M05CbVg2VEFjdkd3cUZFUTMwckg4ZlBXaWHSAZwBQVVfeXFMTl9iYlpFVVlwazJhQzJGbzIzT3dtZThiRHl0WF9ZbHJmV3BPcVgyV1dTaDBWcHlSdEdyMWtOc1JaRk1kSzNtSXdKem5wZjFjSVRZZGVEWDE3cEhQREluT3VfVjVWbkZ0V24wRzRQVTdUU2FLcUJjaUF6VGNzLTF6a2xIbU01Rmo4cmFYcnNoY0hyV3VJeFZfSF9SZ01F?oc=5",
+      "published_at": "2026-10-29T20:05:00+00:00",
+      "regions": [
+        "mexico"
+      ]
+    },
+    {
+      "title": "Bajar de peso con medicamentos sin supervisión médica: el costo oculto que pocos consideran",
+      "publisher": "MILENIO",
+      "publisher_url": "https://www.milenio.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWWxiNVNBT2I1SXdaTTFDUUNJMU1TVnVpa2k1TzI5OGlwWnljTXZLbWI1b3ktVG1IVEZub1htS3MxVGJCRUNGbUd2OVJiVzNxR3Z1ZnRJRlBFQVBFdXZrUFV4ZnJaTlFPWUhtSmJBQ3RTYTF5RHRsZTM0ajBuT1Q5MHc5Z1FIYjExei1fdE9zajMxdGE1SDVsZjJR?oc=5",
+      "published_at": "2026-10-29T19:23:00+00:00",
+      "regions": [
+        "mexico"
+      ]
+    },
+    {
+      "title": "West Pharma earnings show it's more than a GLP-1 play. Why we see more upside",
+      "publisher": "CNBC",
+      "publisher_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWkRVbGdkZUlzSXlkX2d1TE1FMGNfVFJ1d0o1TlF6UEhHOHVRZF9IYXRvbVZIeUUyYUFuTDNiM0JNUXRVc2xrdVdYVUhZcUJNRG9rUGp2VGJhTUtyeVA4cmhENzYxbE1TaXhJbUl1OFM2OXFfajV6WTJxTVpmOFh3d19KZw?oc=5",
+      "published_at": "2026-10-29T19:11:38+00:00",
+      "regions": [
+        "usa"
+      ]
+    },
+    {
+      "title": "US FDA issues warning on Medline beds after 2 deaths, 16 serious injuries",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNnVUX2dYTUwtN0x0OUlPaVVyeXlyaWFwRGtrN2RNRllJSWxlcDJNUnkzamt4aV9pS2N0QXFWSWNhUlVobC11ajBBQ1dZWWlVZ0NkQkdocGhUMlFjUnpMU0hkZ3VBX0NFcWRrZXlxS3dPTC1GSWxjYWV6RVp4NExBLTBLdWt1X2RsZzBhNjBobUpCTG9kRkU2NjhUaENUWlF1MTJQeFRSclU5NWJjc2otUUpyQ0JneGxJWGtNOUN1dw?oc=5",
+      "published_at": "2026-10-29T18:59:45+00:00",
+      "regions": [
+        "europa",
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Sara won a prized place to study medicine in Glasgow. Why is the Home Office blocking her?",
+      "publisher": "The Guardian",
+      "publisher_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOa25FR2hFOUZ0NFdRaGFldEVCRmhvYjQ3NWpKeUV0ekVUZ0F3bUpiWGcxRWZ6b0l5LXVIOWx6R2xndTdOd19McTYxanUtbTlUaU9zVzE3MUd0TzdVbVZvN1lVb0g4RDNHQ25Eem9RRElNYkd1RXV5OXFIc3lCeTIyemNna1VZNEd1MUI5VUhyT3J1X1RsTEhFTFBSNkd6c1FFS1ctdXg5MjZxN3BTOHpCa2NOem1GNkY5WHhRWTFyYWRFVmtQMWdOcWJzdnNmZlNPenc?oc=5",
+      "published_at": "2026-10-29T18:03:00+00:00",
+      "regions": [
+        "europa",
+        "global"
+      ]
+    },
+    {
+      "title": "Flagship joins three biotechs together to form Etcelera",
+      "publisher": "pharmaphorum",
+      "publisher_url": "https://pharmaphorum.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUXlHTTBEREJuWFhIcXNLZDc5dFVQSVdnXzc1MV80S212LWEwaHZuU195WjU3RlVWVjJvdFZVaVljeWVRbDFOdWlGay14U09iNFNPTElTa0NWbzNYN1VVdVR1MVRmY2lMcENsSXdZRXhEMDMtc2xQSjNKSEs0MXF1a1ZpeVNSTi0xVmc?oc=5",
+      "published_at": "2026-10-29T17:21:15+00:00",
       "regions": [
         "europa"
+      ]
+    },
+    {
+      "title": "We're raising our price target on Eli Lilly as the obesity-drug boom rolls on",
+      "publisher": "CNBC",
+      "publisher_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTUZKd1Jmd1BSMHRUQ3NSR1VLWnRBamlDaURkOTR3cjZBRmhsclFWcDdmdC1nTE1aakxQU00xX1BhZld1Wk9tWTVzOWtuRDRFcWFSRWxheVJvWWRnbElpYVJteFhxWUV0SnBUd3lFODdPSXRRSTdGWDRVcG9fc2w3MGJ5TTFQcG05dzRNdXdOVi1PTjVqUlpYM3hCNmpPOUJfM1hKVElJUk5XTFlwdDFXZkNSd3pzWnNUNnhXOXVB?oc=5",
+      "published_at": "2026-10-29T17:18:33+00:00",
+      "regions": [
+        "usa"
+      ]
+    },
+    {
+      "title": "New federal rule will require prescription drug middlemen to share secret payments data",
+      "publisher": "STAT",
+      "publisher_url": "https://www.statnews.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeTMxOXI2Rnl4Y05TbU5mRTJYTHFRcWtxLWJNRWhTWVFsR0s2N01TUjRKT3RibnNLUnNqNUh4NlVLbDNnclEyZ1F3M3RaWndzc2J6cjRCWC1OVzlOVXNrUWpndWlxSG1ueXZ0Q1hNUV9LTmFMVDIzalBuUjZCTUFFSXE4YmJjQjM5STMyUVY3YnBoQmRKQmNXeGVhQjYyUzlXanNraTRB?oc=5",
+      "published_at": "2026-10-29T17:12:23+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Eli Lilly Revenue Climbs on Demand for Obesity Drugs",
+      "publisher": "WSJ",
+      "publisher_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOclRtZU5JQmczMHIwRDJIVUFyYkE0VjZCX1pXb2ZiV2hBbnp2WjYxN0d1T194NEVxZ0xMbEd5REt4TTVaZG5jTlhYc21CTUNkc2JfZ0FzQjFZcHBHa0RfZU9wZHlEYWQwWmlCaXU4QlZ6dC16VkRrNXF0RTlqeDRzMUNfTFBtOVRiTFdSWW9zc3hoLVpXRkpNRlVpNEx4bUZi?oc=5",
+      "published_at": "2026-10-29T16:11:00+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Kennedy’s closing arguments for the 2026 midterms: Fraud, vaccines, and MAHA",
+      "publisher": "STAT",
+      "publisher_url": "https://www.statnews.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNEpHVE5hWTZsZjhxOUExVnM1Q05aLWkzMmNOOC0yTlg5XzVTQ0JUYXo2N2hkUW5fNTNIQlp0bWV6MjlGcl9rN1lWdmxLYk9YanJEblNfQnVNbUpoWktGUHFXZ2I5MU9UWVp6eHZkUjVabmsyZzh2NzZEZFJlRGNBWlo3RVNQdDlpSFFhX25CVktubUNE?oc=5",
+      "published_at": "2026-10-29T16:10:32+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Genmab soars to record highs after cancer drug succeeds in key trial",
+      "publisher": "BioPharma Dive",
+      "publisher_url": "https://www.biopharmadive.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQU3pBb3FEZTBfQzVpZlNndWxrUnV3Vlc0YUxzckhBbU44bHlPRWxoVEttSlRPMUdYRG9DRk02OTlUSm9YM3ZOS3JodGtOTEtkZFROTFBlOW5TRGhZLVI1Y0Fod3BWTGJsSnRlemt4X2JTbUIxYy1VRWh4SnpORUlkR3dSREVpS0VxOFJNY2FnT19HUk54b0JKMlcwNTZSRWR3QWczVWVNMA?oc=5",
+      "published_at": "2026-10-29T16:06:42+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Merck to boost next decade revenue forecast on new drugs optimism",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNaEF6U3ZWU2ROX1IwaWwxVTJ3bUUwM1Y5dlhIeTZIb05fYmZxcHI4eUZjVGpTY1FKc2NTaHdfWVV4M0hsclZtendRQ1NwUEdFVGJ2SXNETnY4QjRZRDlpNndMN3p3cTlwSnFWOWJUSE5rczNIQ3E4YXZJNDZVSlFfQVA3YnlQXzlOa1d0bFdVOWoxVjMyT1dtU1JNdkxXVkZmZDlnZWlhcEh1Uk91Tm5fSDlVbDZxeGs?oc=5",
+      "published_at": "2026-10-29T15:50:31+00:00",
+      "regions": [
+        "europa",
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Vacunación contra COVID-19 enfrenta reto de ampliar cobertura y actualizar biológicos: Especialistas",
+      "publisher": "El Economista",
+      "publisher_url": "https://www.eleconomista.com.mx",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNOXZaclFUbk9sdzVLSERlMEFlNUl2Z1VuUnpBZ1pvWHV1YWttT3pPaGdDYnRTRGdIamUzZ0VDdnB1WjRGUTFWSUZ4OGdnTkhwRHNuYTZaMXZHS0F2d3ZVbDY2Rzd2LVJtQ2M1bTlEZUc3emVpQ3ctSVpOUHNuTXFRcWwxUXVRMllhZzR0RUJJOERLMVJGSDdtXzVGUWN0UnpWd25IYkYxd3pJVTRyZGNudmlaeGxERkRWS0RsdVZNS01YbUVza2VPWkY4YlBOU01KM2Y0M2RCRkliQlpuVktyeFlobEd1Z2_SAecBQVVfeXFMTTl2WnJRVG5PbHc1S0hEZTBBZTVJdmdVblJ6QWdab1h1dWFrbU96T2hnQ2J0U0RnSGplM2dFQ3ZwdVo0RlExVklGeDhnZ05IcERzbmE2WjF2R0tBdnd2VWw2Nkc3di1SbUNjNW05RGVHN3plaUN3LUlaTlBzbk1xUXFsMVF1UTJZYWc0dEVCSThESzFSRkg3bV81RlFjdFJ6VnduSGJGMXd6SVU0cmRjbnZpWnhsREZEVktEbHVWTUtNWG1Fc2tlT1pGOGJQTlNNSjNmNDNkQkZJYkJablZLcnhZaGxHdWdv?oc=5",
+      "published_at": "2026-10-29T15:49:35+00:00",
+      "regions": [
+        "mexico"
       ]
     },
     {
@@ -61,28 +190,6 @@
       "published_at": "2026-10-29T15:00:00+00:00",
       "regions": [
         "europa"
-      ]
-    },
-    {
-      "title": "Kennedy’s closing arguments for the 2026 midterms: Fraud, vaccines, and MAHA",
-      "publisher": "STAT",
-      "publisher_url": "https://www.statnews.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNEpHVE5hWTZsZjhxOUExVnM1Q05aLWkzMmNOOC0yTlg5XzVTQ0JUYXo2N2hkUW5fNTNIQlp0bWV6MjlGcl9rN1lWdmxLYk9YanJEblNfQnVNbUpoWktGUHFXZ2I5MU9UWVp6eHZkUjVabmsyZzh2NzZEZFJlRGNBWlo3RVNQdDlpSFFhX25CVktubUNE?oc=5",
-      "published_at": "2026-10-29T14:50:25+00:00",
-      "regions": [
-        "global",
-        "usa"
-      ]
-    },
-    {
-      "title": "The Biotech Leader Who Erased Team Lanes",
-      "publisher": "WSJ",
-      "publisher_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMlRMWjVURVN0OTh2bmlRa2NUVlBHSk5tNFBSMnVCckZwZ2g5S1hwTzBqeWFKWTZfTjV2UXQteVZGeGdyTlJ1MnREZDZyUUZ5N2tBdHVZdVp4T1dXRVktTVRKcktzSUtrbUo0XzdPVC16eFo1RVBrVlBwNnQ5blBzeXI2SW4?oc=5",
-      "published_at": "2026-10-29T14:37:44+00:00",
-      "regions": [
-        "global",
-        "usa"
       ]
     },
     {
@@ -133,7 +240,7 @@
       "publisher": "STAT",
       "publisher_url": "https://www.statnews.com",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSzN5Rk05N2pHWGp5SHcyWV9LRWJiQmJabTAxaU1mMlpUNGJVRll5SzlubEZOeFNpdy1ZU1ZIcUxqNzdGWW9lTW9tZ3F1Z2NrX0N2Yy0zcFBpeS1ucERoeU9qZks4aWpXVFdmaXQxX0NibHpvQi1FSjJHMllvRkR3VlI4SzdBTnNnY3dKOGhXZ0M?oc=5",
-      "published_at": "2026-10-29T13:45:27+00:00",
+      "published_at": "2026-10-29T13:45:32+00:00",
       "regions": [
         "global",
         "usa"
@@ -144,7 +251,7 @@
       "publisher": "STAT",
       "publisher_url": "https://www.statnews.com",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdGtOVm5MaC1raWdHdWxtVlFGQm9nLVJ1b2pyN1ZwaFJzTmIwbDU3RENTSTFrSUM2Qk8yNU1CcW5VMDFpSGw4LTF1Sk9kNnBIR1ZlTXZIYUgxSV8tdHdreHlHdDkxSkJVX1hpWHZFZGgxT2kwQzhUQ1BqcmN3cF9tdkU5eW1kUXA2dlJMYVJKTTc5NUZqYXB4WnhudFBnU0lfU0dBaW5WV3JYSUE?oc=5",
-      "published_at": "2026-10-29T13:26:07+00:00",
+      "published_at": "2026-10-29T13:34:04+00:00",
       "regions": [
         "global",
         "usa"
@@ -169,6 +276,16 @@
       "published_at": "2026-10-29T12:45:00+00:00",
       "regions": [
         "europa"
+      ]
+    },
+    {
+      "title": "How a Self-Described ‘Junkie’ Rode Synthetic Drugs to Oblivion — and Fame",
+      "publisher": "The New York Times",
+      "publisher_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTXlzRkwwOTZrNFB1d2NQazBwUmc1a1l4Q1haOTQzWFFUOWNza3pXTEFkMlMtNXlQQ09la2hQLU16dm1LSFBpT2twRDcxc1N6c1B6RU1SWWYyS2hOVXBNa3ZzaHJoclpuSGhxV0hJQlhBTHJYVVduOEowWEtaNFBrWVNVdlE?oc=5",
+      "published_at": "2026-10-29T11:53:48+00:00",
+      "regions": [
+        "usa"
       ]
     },
     {
@@ -204,16 +321,6 @@
       ]
     },
     {
-      "title": "Amphastar Pharmaceuticals to Release Third Quarter Earnings and Hold Conference Call on November 5, 2026",
-      "publisher": "Financial Times",
-      "publisher_url": "https://markets.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMmhTWHhncC1zUjdMRGVuMUJ1bTZhRGg3ZmFPdTQ0TGlDcVJYZ2FlQXFQZkR4VjBWNVhpQkhmbzBGU3A1dmswSkdfSnIwUDZHMW1Ea0t6NEpVUGg0RlR6MGk2dU1OMXBXOE5DaVY4Wk4xN3o4c3ozN21CNkNnMUMwNEhYa2NJdUxibHgzeG1YRWZyQTFGTzhZbQ?oc=5",
-      "published_at": "2026-10-29T10:00:00+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
       "title": "Medicamentos: siete años en crisis, escribe Claudia Ruiz Massieu",
       "publisher": "El Universal",
       "publisher_url": "https://www.eluniversal.com.mx",
@@ -224,12 +331,14 @@
       ]
     },
     {
-      "title": "How a Self-Described ‘Junkie’ Rode Synthetic Drugs to Oblivion — and Fame",
-      "publisher": "The New York Times",
-      "publisher_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTXlzRkwwOTZrNFB1d2NQazBwUmc1a1l4Q1haOTQzWFFUOWNza3pXTEFkMlMtNXlQQ09la2hQLU16dm1LSFBpT2twRDcxc1N6c1B6RU1SWWYyS2hOVXBNa3ZzaHJoclpuSGhxV0hJQlhBTHJYVVduOEowWEtaNFBrWVNVdlE?oc=5",
-      "published_at": "2026-10-29T09:00:08+00:00",
+      "title": "Swiss biotech firm Molecular Partners to cut nearly half of workforce",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcnNxZnJCNDhyWkl6MDdsQjlKWGw4SmlERHhHYnhlUms5OEl3M2FGYXRMQTdibm5LUkZSSTRJLUJueDBqX3g3Q0VzRWtoN2lEdDdiZnVQN1NNeW9TTkR4VW5EMGN1VFlVWTRMV2lwRll2cGxvTlQ3XzNUWTVEdXN2R3FMOGpLNU5ZclZLN3hfZERETTI0Zy10ZE0yMkxselBQeEswRjFKOWVYYXU3d1lsUE1GOGxuV3M?oc=5",
+      "published_at": "2026-10-29T09:38:51+00:00",
       "regions": [
+        "europa",
+        "global",
         "usa"
       ]
     },
