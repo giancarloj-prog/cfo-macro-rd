@@ -1,7 +1,7 @@
 {
   "date": "2026-10-28",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-28T21:49:44+00:00",
+  "checked_at": "2026-10-29T01:28:13+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -29,20 +29,82 @@
     "usa": {
       "ok": true,
       "error": null,
-      "count": 13
+      "count": 16
     },
     "europa": {
       "ok": true,
       "error": null,
-      "count": 21
+      "count": 26
     },
     "global": {
       "ok": true,
       "error": null,
-      "count": 23
+      "count": 22
     }
   },
   "items": [
+    {
+      "title": "RFK Jr. eases access to unproven peptides despite opposition from FDA scientists",
+      "publisher": "AP News",
+      "publisher_url": "https://apnews.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOanQ5LWFuekk1QTdOVThIM2R2TXYxSzdXTlZpWGdDcTFLeDdNR2U0NjRSWVpxV2hRQ3FObVdnNFFwR1BTYjNhVGNTeDl5N0VfYnYxMGVSdmlpZElVYnBUU0lORzhPZDFaZHlWTmR2aDVOV1dyTUI4WFhVazdtbENGeXZ0MEN6QnRpenM3cFVDa01zUQ?oc=5",
+      "published_at": "2026-10-29T00:14:00+00:00",
+      "regions": [
+        "global"
+      ]
+    },
+    {
+      "title": "Exclusive | GSK Sees Cancer-Drug Pipeline Nearly Doubling Next Year After Dealmaking Spree",
+      "publisher": "WSJ",
+      "publisher_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaUVQaE8zZllsVDViT0tzdk9vVG0wTWs0Y0tGZXJnMW44MlpkNnB1cldmbG5kOWVlQS1RT0hEeXJ3cUYwaFZaeUJ3clljZnYxYVRveV9CelZCX19lc3ZVVnV4cXZtVjdQOTZsb3RlamxrekxteUx5U1poMm0yQ3dlVy1pZlREd3k5QnJpcDY4T0xMZ2Q5elNpcTI0c0ZFeUhWbGxwOUZtN0JYSmFmUGx1OW5WYkQ2YmZvSExydFZB?oc=5",
+      "published_at": "2026-10-28T23:28:34+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Junshi Biosciences Announces Acceptance of the Supplemental New Drug Application of Toripalimab (Subsutaneous Injection) for the 1st-Line Treatment of HER2-Expressing Urothelial Carcinoma – Company Announcement",
+      "publisher": "Financial Times",
+      "publisher_url": "https://markets.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNkFScElKR2hwdDNBRV92X1FiclBGRGoxVlBpa0JOY1RfNExhVC1Fdm45Wmk3OUJOWDRUZzdtMmdaTktjX2FRMThXOFg2VWlqS0NzWDRRc1pDc25Sdkl3MXk3N3NXZ0NQWWIxcXJQNkcyTk1zSEVvNWFfbHRSZ3ZTM1kzTmQ0aUhNNjUwZE5LSTdOc3p2cWs4?oc=5",
+      "published_at": "2026-10-28T23:25:38+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "HUTCHMED Announces Sovleplenib Granted US FDA Orphan Drug Designation for Primary Immune Thrombocytopenia – Company Announcement - FT.com",
+      "publisher": "Financial Times",
+      "publisher_url": "https://markets.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTkRfa3RDYzBSOGRGOVE1S0pLNl9Bc0E5NklCaTJBWlpDblVlRG0xUmJrRmRpbXRBbFdFVFRfQk9Ua0hoNGZTYzk2cjY4R19ZVm5wLUtRQUtoVHp2Zm55M0JhMkZ4Q0QxZmZpcF82VDdZclRDRGkxbnVfMzlpUURZY0ZkVmlRUHQ1NWxINjhzSVFSaGFldjln?oc=5",
+      "published_at": "2026-10-28T23:00:00+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "US bans imports from 3 Chinese biotech companies over forced labor allegations",
+      "publisher": "AP News",
+      "publisher_url": "https://apnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTXlLZ25Dcmo2Q2U4Y2RSQXBjcE0xWnVtZXpmbGZ1WjBwMS1od2JVbTRkT1p2NFI4TXQybjV2TkxuaVFxazBTd19HNm9rSzNGN19vazFSWHdCYTMxRFRFRzEzYmVTRlVZaWZiSWJlWTdralZwUDV5Q3Nqa3R5SDZxLVdCNENtbzdweGtNb3NJYVFrUXZyUFJUMzRXMTMwZERTY2xmZnJrM2o?oc=5",
+      "published_at": "2026-10-28T22:56:18+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Iovance Biotherapeutics to Host Webcast on Positive Data for TIL Therapy in Metastatic Non-Small Cell Lung Cancer (mNSCLC) and Broader Precision Medicine Strategy – Company Announcement - FT.com",
+      "publisher": "Financial Times",
+      "publisher_url": "https://markets.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZXdFQ3FDRXBRaWhSUm9HTDZTckFtNkZfWlNvZFN4R2EzZFJndHMzRFB1b0tIYk9GeGpaOEtkNmNSNElSckF5NVktU2pjZk5vSmNlSmlPMDA5cUpXeGV4M3kxYm03UFU3WFNjRnY3MTBsbEk0SFhWU0pESEdudVB6cnNENHNZUlJ2NW1lRjJLNFN1NGx2T0Vv?oc=5",
+      "published_at": "2026-10-28T22:00:00+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
     {
       "title": "Muere mujer de 31 años tras presuntamente seguir consejos de ChatGPT; le habría recomendado dejar medicamento",
       "publisher": "MILENIO",
@@ -65,6 +127,17 @@
       ]
     },
     {
+      "title": "FDA scientists opposed Trump administration’s move to ease peptide access",
+      "publisher": "The Guardian",
+      "publisher_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNY3ZVb3BKRzQySWwwVkZPOE1BOWY4WnRMQUcwN0YyQU5CdVktS1h3V1oxckR2c00yNUF2dkdYRlBnQ1hXWDdIX2hDdlcxQTQ3cVhzYzJvYXlqU1dtVFZoNm9fRGJKTV9RbUl0OHBjWG1ycUdGRzhsTVFsR0NMSjZ1VEM3b3NPTHVVdWZQaEtyTkpBbjJ2NjRVZQ?oc=5",
+      "published_at": "2026-10-28T20:26:00+00:00",
+      "regions": [
+        "europa",
+        "global"
+      ]
+    },
+    {
       "title": "Vanda Pharmaceuticals Reports Third Quarter 2026 Financial Results – Company Announcement",
       "publisher": "Financial Times",
       "publisher_url": "https://markets.ft.com",
@@ -75,34 +148,23 @@
       ]
     },
     {
-      "title": "Biotech Companies Have Been Star Performers in This Year’s IPO Class",
-      "publisher": "WSJ",
-      "publisher_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTkZiN1NlREZpVnJRLTdXNXBITldVa3dLYTVlaVdNOTBBN2l4SFNJMWZ3U0FWZ3FwZ20wMUJIYTQ4QVVOWU1CeTBaVUN2dWNTajZNQjh3Vkpkb3hZTE5SRld5SU16dU8xWWZNS2YyeF9pTHRURjBPc2J5RTQ4SWdMSDFnU3NfUWNJcXlMcl91eElDelZ6azVQY0ppdXFyWDNrSTFNaENBcXUwMkR4OWg5QmRsdnBkYTQ?oc=5",
-      "published_at": "2026-10-28T19:02:11+00:00",
-      "regions": [
-        "global"
-      ]
-    },
-    {
-      "title": "FDA scientists opposed Trump administration’s move to ease peptide access",
-      "publisher": "The Guardian",
-      "publisher_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNY3ZVb3BKRzQySWwwVkZPOE1BOWY4WnRMQUcwN0YyQU5CdVktS1h3V1oxckR2c00yNUF2dkdYRlBnQ1hXWDdIX2hDdlcxQTQ3cVhzYzJvYXlqU1dtVFZoNm9fRGJKTV9RbUl0OHBjWG1ycUdGRzhsTVFsR0NMSjZ1VEM3b3NPTHVVdWZQaEtyTkpBbjJ2NjRVZQ?oc=5",
-      "published_at": "2026-10-28T18:35:00+00:00",
-      "regions": [
-        "europa",
-        "global"
-      ]
-    },
-    {
-      "title": "FDA scientists opposed the Trump administration’s move to ease peptides access",
-      "publisher": "AP News",
-      "publisher_url": "https://apnews.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOanQ5LWFuekk1QTdOVThIM2R2TXYxSzdXTlZpWGdDcTFLeDdNR2U0NjRSWVpxV2hRQ3FObVdnNFFwR1BTYjNhVGNTeDl5N0VfYnYxMGVSdmlpZElVYnBUU0lORzhPZDFaZHlWTmR2aDVOV1dyTUI4WFhVazdtbENGeXZ0MEN6QnRpenM3cFVDa01zUQ?oc=5",
-      "published_at": "2026-10-28T18:00:00+00:00",
+      "title": "RFK Jr. acts to ease access to unproven peptides despite opposition from FDA scientists",
+      "publisher": "CNN",
+      "publisher_url": "https://www.cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBXTHhEM3p3ajR1MUN2LVNMUWFqQnNGQmZfNFgwanZIeVZ4TzlIbUpBNFRpX0tSem5Ua3NYV0lFQlFfMmVsZ2ZFVVdka3pIcXNJUTVXMURHY1dibDd5Y1hmd1h6NDFXSUk?oc=5",
+      "published_at": "2026-10-28T18:09:15+00:00",
       "regions": [
         "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Biotechs buck a sluggish IPO market, but investors should tread warily",
+      "publisher": "CNBC",
+      "publisher_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBFRDBhc1ZfVEg0eW5tZHNVUU5XODRid2s3eTZPM3hGTlZiQWZKeFVKelBsM1hOSjVfa3VxS0pXdVlSQUVoTDdrVlFGR0JJYUR1R1ZvRkEzQzdEb1dsNGpDNWgyUkJSRGU2MENsZHYyQ2hOM2dKc1pTdjFB?oc=5",
+      "published_at": "2026-10-28T17:47:45+00:00",
+      "regions": [
         "usa"
       ]
     },
@@ -123,7 +185,26 @@
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVURDMVVObXJUakpJc2pLNW5LeTJVTi0zT0QxY3BScXlwT3RNVGYxWFdVWHFkb3RqZHp2QkZFblMxdGFhdnp0MkliYXJRZ00yMU5rMWotWW50N0hEbDN5dkJBUFRpT24xdzlrRDFIRWtHQ0Nfakk1ajNPNnA5QkQwYkRINHJqSEgzYU1VRFdVa3UxaU90MTRTSENId3g4X2F1QmxzX0NR?oc=5",
       "published_at": "2026-10-28T17:27:00+00:00",
       "regions": [
-        "europa",
+        "europa"
+      ]
+    },
+    {
+      "title": "I have no quality of life whatsoever: Woman with MS on impact of medicine shortage",
+      "publisher": "BBC",
+      "publisher_url": "https://www.bbc.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE90eTd1X3lOcy1laGlxZ3QtdjVaSGtPZmF2b21nMndRcUc1MlVMeFRscXZXcDFUdC1kRGNFMGNLT1FPWll6Q2RwTUx5VjgyREwwVEMzZA?oc=5",
+      "published_at": "2026-10-28T17:04:02+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "\"Therapeutic Peptides: Challenges And Solutions For Drug Developers\"",
+      "publisher": "Fierce Pharma",
+      "publisher_url": "https://fp-resources.fiercepharma.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNS3FBRXZERS1weHpib0FSblJ2MEdZWkdrbElLSlllVzVtdXlNMlg5N2xScERZZWFYZTI1cFhtTy1ETk9aVEhyeUl4SUxuRGRPRE44Y1RrVnZMUG1xRnVJXy1JeERZSEs1alVpcmRTaXlVNjZQQW1JWkQ1ZXFVU3NkOGViRzc1VzU4NXlTVW5rMFBKakt4VTFmM0puY28?oc=5",
+      "published_at": "2026-10-28T16:34:45+00:00",
+      "regions": [
         "global"
       ]
     },
@@ -182,17 +263,6 @@
       ]
     },
     {
-      "title": "GSK Shares Slide After Vaccine Sales Disappoint",
-      "publisher": "WSJ",
-      "publisher_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTzFGWjVjalAzYjFrSnlzMU1FRWFJMmlmNkllVEt5MlM0U2J2NF9WbkJVaDZqQ29wQWtIb0FoYXZDUEtrV0JibWFMdnBDc2pYV1NPajRZaWg2YVJRQkkwVDhLYXRlcWN4VEVQcnJBamxJSV9FbmdSaXJITGVuNWQ0NHJHekJfUGxBdkRNeE5WQ0RXNXQ2R1E?oc=5",
-      "published_at": "2026-10-28T13:52:00+00:00",
-      "regions": [
-        "global",
-        "usa"
-      ]
-    },
-    {
       "title": "Pharmalittle: We're reading about 340B battles, new results for a Lilly weight loss drug, and more",
       "publisher": "STAT",
       "publisher_url": "https://www.statnews.com",
@@ -232,8 +302,7 @@
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcGtWdGRsX1lhUGpDSzRyVjduZzVsLXNMX1pnY0ZYT3c0TjdEOU9xTEI2SjJ2NjEwd211YTlKZzNSTW1TS1pPZjdqUWYwSlVZN0Z5M2dIZkRhaHVjclZycnczNlZYMjdMNUVXVVgzQ2FScFpuM09wMm5QVGtJVEZMdUJCSXNRY0R4VW85Z2JuU1R2T0hS?oc=5",
       "published_at": "2026-10-28T13:21:00+00:00",
       "regions": [
-        "europa",
-        "global"
+        "europa"
       ]
     },
     {
@@ -275,8 +344,7 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUFBULXF3OGV2NEE0azdzRjc3TXczRGNadGpoQjRYSkRBRFEzXzY3dmJFb2YxamtKTzk5U1BEWEhheUxIWEVtWVFOZlkyYXBxdkhnZjhKVkxhbG9sUFlFU2hUTTNiQUx3emhrZWRkVGpnblMtUEd3Q21aa0ZtclprWERpZUpsZC1JZkxNemVDS3pkNlpsYld6OQ?oc=5",
       "published_at": "2026-10-28T12:30:00+00:00",
       "regions": [
-        "europa",
-        "global"
+        "europa"
       ]
     },
     {
@@ -290,13 +358,14 @@
       ]
     },
     {
-      "title": "Potency Assays for Modern Biologics: Expert Insights and Future Trends, Upcoming Webinar Hosted by Xtalks",
-      "publisher": "Financial Times",
-      "publisher_url": "https://markets.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcHUtemwtUl94VFVwelpRbTBfbzBHUHlKWVJtN00zX3BTU2twcThUTjVkeXAxeHhUQ1A3cDBoMG0yYVh5MTN0VkE5cU82VXhRSDVZMUNBRlU0MFVIajFmQklUUnVac3pUalY3dnVuY1FPS0lKeG93blNGZm56Vk00OUx3eVc0cUxSM210UUUzampWSVVCN0VLdA?oc=5",
-      "published_at": "2026-10-28T12:30:00+00:00",
+      "title": "GSK Shares Slide After Vaccine Sales Disappoint",
+      "publisher": "WSJ",
+      "publisher_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTzFGWjVjalAzYjFrSnlzMU1FRWFJMmlmNkllVEt5MlM0U2J2NF9WbkJVaDZqQ29wQWtIb0FoYXZDUEtrV0JibWFMdnBDc2pYV1NPajRZaWg2YVJRQkkwVDhLYXRlcWN4VEVQcnJBamxJSV9FbmdSaXJITGVuNWQ0NHJHekJfUGxBdkRNeE5WQ0RXNXQ2R1E?oc=5",
+      "published_at": "2026-10-28T12:08:30+00:00",
       "regions": [
-        "europa"
+        "global",
+        "usa"
       ]
     },
     {
@@ -340,6 +409,16 @@
       "regions": [
         "europa",
         "global"
+      ]
+    },
+    {
+      "title": "Mums v Big Pharma",
+      "publisher": "BBC",
+      "publisher_url": "https://www.bbc.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBKdWRBUktkOG1pNjJ4SWg1TVAwYWFRLXh0eDFlT0pXU0NyejA4S2FRcXdtVzlUX05PSWE0T1NwNWplRkdiZDNGRkZHYkg1YnNLNjRz?oc=5",
+      "published_at": "2026-10-28T10:25:28+00:00",
+      "regions": [
+        "europa"
       ]
     },
     {
@@ -432,8 +511,7 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOVEwTWdpSkFrX0kxQmFINFBoUkxpMXZ4UHFucEdSQjk0TDNkRU1SU2xERFJjWVE3Q1ROTmJlODJScm1BM0lPbXFyOTd1NWtScGFxS3pNY1hPbEYtQ3dpY2hZZzhHTzIxWmlpMXJfcWU1TlpoaGxoRDVSRmRIZV9kZUVJQlN2Y1ljTnZOdFJDXzVGSWtQNW9CWA?oc=5",
       "published_at": "2026-10-28T04:26:00+00:00",
       "regions": [
-        "europa",
-        "global"
+        "europa"
       ]
     }
   ],
