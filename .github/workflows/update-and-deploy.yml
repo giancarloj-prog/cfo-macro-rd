@@ -3,14 +3,10 @@ name: Update and publish CFO Macro RD
 on:
   workflow_dispatch:
   schedule:
-  # Todos los días, hora RD: 7:15 AM, 1:00 PM y 6:00 PM.
-  - cron: "15 11 * * *"
-  - cron: "0 17 * * *"
-  - cron: "0 22 * * *"
-  # Respaldo ante ejecuciones programadas omitidas por GitHub Actions.
-  - cron: "45 11 * * *"
-  - cron: "30 17 * * *"
-  - cron: "30 22 * * *"
+  # Cada hora entre 6:17 AM y 10:17 PM de Santo Domingo (UTC-4).
+  # Minuto 17 para evitar concentrar ejecuciones al inicio de la hora.
+  - cron: "17 10-23 * * *"
+  - cron: "17 0-2 * * *"
   push:
     branches: ["main"]
 
