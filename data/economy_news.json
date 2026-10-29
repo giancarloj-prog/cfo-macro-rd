@@ -1,7 +1,7 @@
 {
   "date": "2026-10-28",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-29T01:28:12+00:00",
+  "checked_at": "2026-10-29T01:56:07+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -38,7 +38,7 @@
     "finance": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 2
     },
     "securities": {
       "ok": true,
@@ -48,7 +48,7 @@
     "economy": {
       "ok": true,
       "error": null,
-      "count": 4
+      "count": 3
     },
     "economist_andy": {
       "ok": true,

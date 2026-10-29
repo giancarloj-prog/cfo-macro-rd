@@ -1,7 +1,7 @@
 {
   "date": "2026-10-28",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-29T01:28:13+00:00",
+  "checked_at": "2026-10-29T01:56:09+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -29,17 +29,17 @@
     "usa": {
       "ok": true,
       "error": null,
-      "count": 16
+      "count": 15
     },
     "europa": {
       "ok": true,
       "error": null,
-      "count": 26
+      "count": 20
     },
     "global": {
       "ok": true,
       "error": null,
-      "count": 22
+      "count": 20
     }
   },
   "items": [
@@ -51,17 +51,6 @@
       "published_at": "2026-10-29T00:14:00+00:00",
       "regions": [
         "global"
-      ]
-    },
-    {
-      "title": "Exclusive | GSK Sees Cancer-Drug Pipeline Nearly Doubling Next Year After Dealmaking Spree",
-      "publisher": "WSJ",
-      "publisher_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaUVQaE8zZllsVDViT0tzdk9vVG0wTWs0Y0tGZXJnMW44MlpkNnB1cldmbG5kOWVlQS1RT0hEeXJ3cUYwaFZaeUJ3clljZnYxYVRveV9CelZCX19lc3ZVVnV4cXZtVjdQOTZsb3RlamxrekxteUx5U1poMm0yQ3dlVy1pZlREd3k5QnJpcDY4T0xMZ2Q5elNpcTI0c0ZFeUhWbGxwOUZtN0JYSmFmUGx1OW5WYkQ2YmZvSExydFZB?oc=5",
-      "published_at": "2026-10-28T23:28:34+00:00",
-      "regions": [
-        "global",
-        "usa"
       ]
     },
     {
@@ -89,7 +78,7 @@
       "publisher": "AP News",
       "publisher_url": "https://apnews.com",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTXlLZ25Dcmo2Q2U4Y2RSQXBjcE0xWnVtZXpmbGZ1WjBwMS1od2JVbTRkT1p2NFI4TXQybjV2TkxuaVFxazBTd19HNm9rSzNGN19vazFSWHdCYTMxRFRFRzEzYmVTRlVZaWZiSWJlWTdralZwUDV5Q3Nqa3R5SDZxLVdCNENtbzdweGtNb3NJYVFrUXZyUFJUMzRXMTMwZERTY2xmZnJrM2o?oc=5",
-      "published_at": "2026-10-28T22:56:18+00:00",
+      "published_at": "2026-10-28T22:41:00+00:00",
       "regions": [
         "global",
         "usa"
@@ -120,7 +109,7 @@
       "publisher": "STAT",
       "publisher_url": "https://www.statnews.com",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMDB5NnZrQkZ2ejFESDBnbndOMUF2NFlmLWotbWRXZnhLNmw5YnVSNVNGaXEyVVJRVGhJZ1o5U1ptYXF1a29SS0V5UUNGQWxYZW16ZnVmWnVkMDBfcjVnRFZORXFVMXNPYTcyZi1wbzJYeHkxSlhldlVJWWNCUWFVWjBpd2k1anQyUDlzVElQdUZ5R09PQ2hF?oc=5",
-      "published_at": "2026-10-28T20:56:03+00:00",
+      "published_at": "2026-10-28T20:56:57+00:00",
       "regions": [
         "global",
         "usa"
@@ -135,16 +124,6 @@
       "regions": [
         "europa",
         "global"
-      ]
-    },
-    {
-      "title": "Vanda Pharmaceuticals Reports Third Quarter 2026 Financial Results – Company Announcement",
-      "publisher": "Financial Times",
-      "publisher_url": "https://markets.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWkc2VmpYOU1UWE5ybnRFN3ZibmJmMG1qZFlvUkJDSF9lUHhsSzZvRDVmUmJoSTh2Y3V4dVlPTzc0eElZVmNFSm5mTE9jNEFCaWlRa3E2RHd4RC15WVlieVdwT3E4aVViaGtsbUlCUEJWRUdwMTdFN09LZjNadV9tVlNsQXVYTjB4WlR2U2d3RnJLVWN2SjU1bA?oc=5",
-      "published_at": "2026-10-28T20:01:00+00:00",
-      "regions": [
-        "europa"
       ]
     },
     {
@@ -186,26 +165,6 @@
       "published_at": "2026-10-28T17:27:00+00:00",
       "regions": [
         "europa"
-      ]
-    },
-    {
-      "title": "I have no quality of life whatsoever: Woman with MS on impact of medicine shortage",
-      "publisher": "BBC",
-      "publisher_url": "https://www.bbc.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE90eTd1X3lOcy1laGlxZ3QtdjVaSGtPZmF2b21nMndRcUc1MlVMeFRscXZXcDFUdC1kRGNFMGNLT1FPWll6Q2RwTUx5VjgyREwwVEMzZA?oc=5",
-      "published_at": "2026-10-28T17:04:02+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "\"Therapeutic Peptides: Challenges And Solutions For Drug Developers\"",
-      "publisher": "Fierce Pharma",
-      "publisher_url": "https://fp-resources.fiercepharma.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNS3FBRXZERS1weHpib0FSblJ2MEdZWkdrbElLSlllVzVtdXlNMlg5N2xScERZZWFYZTI1cFhtTy1ETk9aVEhyeUl4SUxuRGRPRE44Y1RrVnZMUG1xRnVJXy1JeERZSEs1alVpcmRTaXlVNjZQQW1JWkQ1ZXFVU3NkOGViRzc1VzU4NXlTVW5rMFBKakt4VTFmM0puY28?oc=5",
-      "published_at": "2026-10-28T16:34:45+00:00",
-      "regions": [
-        "global"
       ]
     },
     {
@@ -348,16 +307,6 @@
       ]
     },
     {
-      "title": "Vir Biotechnology Announces Appointment of Suzanne Topalian to its Board of Directors",
-      "publisher": "Financial Times",
-      "publisher_url": "https://markets.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdklEQ2YzVGo5SmU4MkN0R1lWb2wzMlVXTmd1N3JudXFJU05nd09tcC1ydWl2SS03X0FKWHBCMUYtWG9KMWNlby1GNzdKcml4WEFVN09yNV92aWJ3QVhBZk5rMUhXQ3g3Ti1wc2lqbG1pOS1pUDU1NThyN1RJVWR4UkE3c1V3MkhFTUhTQnhGQjZCVDZ4MEhuQ3F2amdpVVJKOXNPWnJB?oc=5",
-      "published_at": "2026-10-28T12:30:00+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
       "title": "GSK Shares Slide After Vaccine Sales Disappoint",
       "publisher": "WSJ",
       "publisher_url": "https://www.wsj.com",
@@ -380,16 +329,6 @@
       ]
     },
     {
-      "title": "United Therapeutics Announces FDA Clearance to Proceed with Clinical Trial for Treprostinil-Iloprost SMI in Pulmonary Arterial Hypertension – Company Announcement - FT.com",
-      "publisher": "Financial Times",
-      "publisher_url": "https://markets.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNU0g3NlQxVVVnMXFtU2NHRmlZS3RKajFSdzVZajlvUEJFVXM3OUowWGVUMHkwZ1Z6eUtOcFlDRGlNdFJlZFM3Nm14d1hBVk9HcDREYTBZSDZzTXFyWnNaOFRyUHYzUFlvVWIzcmNCWk9adlJocHRJd3VnODNyaElUQmR2SHY2VTJjTkVBNGdoZ2wySzZsX1pUSXVGLWhoQW1TQjA3NUhR?oc=5",
-      "published_at": "2026-10-28T11:00:00+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
       "title": "Lilly says ‘triple-G’ drug beat Novo’s Ozempic in diabetes study",
       "publisher": "STAT",
       "publisher_url": "https://www.statnews.com",
@@ -409,16 +348,6 @@
       "regions": [
         "europa",
         "global"
-      ]
-    },
-    {
-      "title": "Mums v Big Pharma",
-      "publisher": "BBC",
-      "publisher_url": "https://www.bbc.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBKdWRBUktkOG1pNjJ4SWg1TVAwYWFRLXh0eDFlT0pXU0NyejA4S2FRcXdtVzlUX05PSWE0T1NwNWplRkdiZDNGRkZHYkg1YnNLNjRz?oc=5",
-      "published_at": "2026-10-28T10:25:28+00:00",
-      "regions": [
-        "europa"
       ]
     },
     {
