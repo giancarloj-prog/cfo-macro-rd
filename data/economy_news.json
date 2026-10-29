@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-28",
+  "date": "2026-10-29",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-29T01:56:07+00:00",
+  "checked_at": "2026-10-29T15:39:48+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -23,17 +23,17 @@
     "bcrd": {
       "ok": true,
       "error": null,
-      "count": 2
+      "count": 3
     },
     "fiscal": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 3
     },
     "dgii": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 7
     },
     "finance": {
       "ok": true,
@@ -48,7 +48,7 @@
     "economy": {
       "ok": true,
       "error": null,
-      "count": 3
+      "count": 4
     },
     "economist_andy": {
       "ok": true,
@@ -83,139 +83,103 @@
   },
   "items": [
     {
-      "title": "Los fondos de inversión en RD superan los US$8,000 millones en activos bajo administración",
-      "publisher": "El Nuevo Diario",
-      "publisher_url": "https://elnuevodiario.com.do",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQTdIeWNydTlsQmZ4SXQtcWs1bXFkcDlXYndxbzlXTmJYdkVCNExhWmNjZHg0YVNoZF9nOGI2dVp5THdTOHRrN2lOUVBsSmtGM1VFOGhYcnN0dUU3VWxKYUlaM1d6NkFDdGxyTjcyc0drcG02UmVWZEYzRWkweGdhQkVNZ3dzajhKc0tWbjJsYm1MNEJpRmhKQ3F2NThmRy1MWDJmT0VFZXB5bnNVTUY5STF6STloNmdmX3c?oc=5",
-      "published_at": "2026-10-28T22:15:45+00:00",
-      "topics": [
-        "securities"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "securities"
-      ]
-    },
-    {
-      "title": "¿Qué ha pasado con el cobro del ITBIS a Netflix, Airbnb y otras plataformas digitales?",
-      "publisher": "Acento",
-      "publisher_url": "https://acento.com.do",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNd0IycGl2d3Jwd1BlS18wNFA2ZW1sVWtkV3d6eUU3R2gwMTRBaWNsRlBqTUMyVlBXV0ZSQU1meDE2dmJROFhicTNxa05aTU5zOUxwYi01NktZVVZPdEVFQm1udG5nRmRwa2FIb1RzYVkzZm1jNzdBYXJDcU5Pd2lrN1h1dTA0TmR2TzBoZzdBWVZFdXBQYzdNNUFuY3lxQXVNVHI5Y2pYN1dmbVczWTB3c2taNzNmaFdLWGFSd3kzSFEzWnBQYVHSAcYBQVVfeXFMTXdCMnBpdndycHdQZUtfMDRQNmVtbFVrZFd3enlFN0doMDE0QWljbEZQak1DMlZQV1dGUkFNZngxNnZiUThYYnEzcWtOWk1OczlMcGItNTZLWVVWT3RFRUJtbnRuZ0ZkcGthSG9Uc2FZM2ZtYzc3QWFyQ3FOT3dpazdYdXUwNE5kdk8waGc3QVlWRXVwUGM3TTVBbmN5cUF1TVRyOWNqWDdXZm1XM1kwd3NrWjczZmhXS1hhUnd5M0hRM1pwUGFR?oc=5",
-      "published_at": "2026-10-28T20:00:10+00:00",
-      "topics": [
-        "dgii",
-        "finance",
-        "fiscal"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "dgii",
-        "finance",
-        "fiscal"
-      ]
-    },
-    {
-      "title": "Honduras y República Dominicana registran inflación más alta hasta septiembre",
-      "publisher": "Periódico elDinero",
-      "publisher_url": "https://eldinero.com.do",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOFJuRW5EeHhPSk5JRzFfZTNSOTlEV0h5a0ZyYldXUWtvLXJ3QXREUnFUMkRRd3JSMG0zRlBRMXpOSmtXbGM4T3M2ZlJobV9BRzBkdW5jY2JZMnpWNUwtZVE0ZTYyMEZ3bUlmb01ObUZveVRFakp1bzEzTm1TQnBDSFZmdEI5VWVnckowSVpad0dVOU5BZE5jQmFJV2JJZVdCeVJZV1hjQnVWellkMGc?oc=5",
-      "published_at": "2026-10-28T18:08:57+00:00",
-      "topics": [
-        "bcrd",
-        "economy"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "bcrd",
-        "economy"
-      ]
-    },
-    {
-      "title": "Economía global y tensiones geopolíticas centrarán encuentro empresarial en Punta Cana",
-      "publisher": "Acento",
-      "publisher_url": "https://acento.com.do",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdk1aQTYwMFdVUTRjV3ZMeXdHLXo3VVAyQ1M5OFFsR3RMMkx3d1JNeWhrWDBhWFMtX0pPTE5GOXpOVGhUQmg4ekk5WDUzRlVxUW1MdVF0bXl4cXQyQlFpYmIzUFVhNHdmcHRLNE5lM1pJRldXbFBiMjRsV2pjSXliTDJ0b2VXRjZVbzJCbjg4YWYxYzctcnpXbHJPRXlkRWFJak9faXVIdGlCdnNBZS02Z0k3S0tWLXhvcWgyNWRVSHJndHFtOFVWdVVB0gHKAUFVX3lxTE52TVpBNjAwV1VRNGNXdkx5d0ctejdVUDJDUzk4UWxHdEwyTHd3Uk15aGtYMGFYUy1fSk9MTkY5ek5UaFRCaDh6STlYNTNGVXFRbUx1UXRteXhxdDJCUWliYjNQVWE0d2ZwdEs0TmUzWklGV1dsUGIyNGxXamNJeWJMMnRvZVdGNlVvMkJuODhhZjFjNy1yeldsck9FeWRFYUlqT19pdUh0aUJ2c0FlLTZnSTdLS1YteG9xaDI1ZFVIcmd0cW04VVZ1VUE?oc=5",
-      "published_at": "2026-10-28T11:00:14+00:00",
-      "topics": [
-        "economy"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "economy"
-      ]
-    },
-    {
-      "title": "AIRD pide convertir el crecimiento económico en transformación productiva con la industria como eje",
-      "publisher": "Acento",
-      "publisher_url": "https://acento.com.do",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPaWJ4UjQwckdXOEhOZDFfRmtSTFI0X0VHaHZ2b0wzMDVRajR3YUpRU25KRTV0TktCdDROQnFjODRGNGc1UDJXZjB2bnU0dE1WenBrR1lRenY0QkswdXhneXoxalV2SC1sTmtHUXJnNkt0OXdUdDRQZmlRYlNDMTRZTTJuZ0RsbXVIbENoemxURWVqa0p2NWh1NGNHTXlFbmJJOWw2SW9vbVVjNXJrUVBzUVIwSWFvTGVfYzVzTjk0b3liQ01qZjExQ0NsVGhXR0xIcUVTLVB0dHhCdFXSAdsBQVVfeXFMT2lieFI0MHJHVzhITmQxX0ZrUkxSNF9FR2h2dm9MMzA1UWo0d2FKUVNuSkU1dE5LQnQ0TkJxYzg0RjRnNVAyV2Ywdm51NHRNVnpwa0dZUXp2NEJLMHV4Z3l6MWpVdkgtbE5rR1FyZzZLdDl3VHQ0UGZpUWJTQzE0WU0ybmdEbG11SGxDaHpsVEVlamtKdjVodTRjR015RW5iSTlsNklvb21VYzVya1FQc1FSMElhb0xlX2M1c045NG95YkNNamYxMUNDbFRoV0dMSHFFUy1QdHR4QnRV?oc=5",
-      "published_at": "2026-10-28T09:00:09+00:00",
-      "topics": [
-        "finance"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "finance"
-      ]
-    },
-    {
-      "title": "La República Dominicana concentra el 74 % de sus exportaciones en mercados cercanos",
-      "publisher": "Diario Libre",
-      "publisher_url": "https://www.diariolibre.com",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcWpNS29EM1U1bTRqTmg1RXZaakplR2JNeWt5VHRkV0ZxSFhmUWVyaUxnM3Y1SHA5WHdsbkJieE5ubVdPcjQ5Z1RlRHN4dVpYLUwweGRkcEIzWEZBOWF4RHJ2ZGhDcWZMcVo5MjVSN0lvTENvNlU4Qjd5dktSZ2pPZVA1UGFCaHlBUlQ1RjZsSDl1Zmx3X3ZnaTFOOTZjUnQ3VVpMbXZGbU1fbWFpYXpXeE1tNjlaYzh6dnhmbjJicExwZ9IBxwFBVV95cUxNYy1GR0tkTXNoS1V2eXJMMVV3Ym82WHNMLUNiR2oyNkV4Wk9sLWROSTBFQ3E2dHZlODM1WThFRlFMa1dTS3BONHNSTHZXSmpWWjhaWjBSaV9tMEd3QzYwMGh4SFhReUM3ekp2Vi03WktRZWd6eTNqR082OE9WMDM1YkQwYVREclFLVUtucGI5ZDg3cDR1SV9PbDN4Zk5UWDlEb2w1ZWdRVlRJUFNyWkpUY3dCM0ZnNy0tOFR6SGdmQjk1aDV2S01r?oc=5",
-      "published_at": "2026-10-28T04:02:00+00:00",
-      "topics": [
-        "economy"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "economy"
-      ]
-    },
-    {
-      "title": "Revista Global Finance reconoce Valdez Albizu",
+      "title": "DGII proyecta recaudar hasta RD$4,700 millones por renovación del marbete",
       "publisher": "El Dia.com.do",
       "publisher_url": "https://eldia.com.do",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9YTXk2WXBUMEdMTnkwTnNWbWtmbDFiejg3aGlWNENhdkpWcFhjclRJMjduQW9fcnV5VW1FaDRnLXRZaEZhd2RDa3R4alJ2Vk5UQWFub3BwTUgxMjMzaXBnX3ZjaDB3RVktYkUtc2J2anpPWjdDZkE?oc=5",
-      "published_at": "2026-10-28T04:01:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbFRnUDBMWDZ2c1JaNXJyOF9OMTQ3MTNjenJFclF2U184RnpYcGMwTlNHZjVvZ1pXWnFyUFBxUVlBZFNJWHhPOExSY1IydmFFQ3I5VFE5S2ZjaTI1ejJiY0RyOHlmaG1sZ2pvZXpvSnNLWk9BRGtEaEdfOGp4d0t1R0FLV1VtalVGa0c5VC1mRy1vUDctRVk2MA?oc=5",
+      "published_at": "2026-10-29T15:22:44+00:00",
       "topics": [
-        "bcrd"
+        "dgii"
       ],
       "economists": [],
       "economist_match": null,
       "searches": [
-        "bcrd"
+        "dgii"
       ]
     },
     {
-      "title": "Exportaciones e IED suman 17,771 millones dólares en nueve meses",
-      "publisher": "El Caribe",
-      "publisher_url": "https://www.elcaribe.com.do",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObFBFWVJTazBHU0UyTklDaXFFU29qQkhmMDZUT3JNUDJ3Qy1hd21scmpoRWlJVjFzY2dnZDZmVG9RRFQzcER1VFFjQkxwUEx3MU9TNmtyZi0zNGh1ckZjdVRwYWhITlBpaUdTTk5YeUhwRS14N1dRMERxaGlnejFEeXptU1diT2U4cnB1R2pMSjVJT2N5ZjdVSUNUZGtEc2xhNnNXMzhkWk5OSWs?oc=5",
-      "published_at": "2026-10-28T04:00:00+00:00",
-      "topics": [
-        "bcrd",
-        "economy"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "bcrd",
-        "economy"
-      ]
-    },
-    {
-      "title": "República Dominicana consolida su crecimiento en inversión extranjera y exportaciones",
+      "title": "Las razones que da la DGII para aumentar el precio de los marbetes",
       "publisher": "Listín Diario",
       "publisher_url": "https://listindiario.com",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONlM0Y1djY0lxeEM3T0FpVU1aOHdxY2RYTlZWbDRIbUktTlpHQXJPU25IWlAtSHR6LVMwanFralhtTllwVG85YXRTRTdFT1FiYm1abXJEMUVZSDAzVWd2NzlpM05LX0dYZ3FYNllSdVFzcFhFTXFKZDRkVHB4Umh5SVV2VnNibnNFMTczNGtZNjlHOE42dGJUXzJKT1QzaFpUTHB5UVROMkczMWFKWDFXbkd6VTFwRGNnZVk3NFJ3SWU1d20wNFRxRk4ySEZPY2VTdGtxM0U5N3HSAd4BQVVfeXFMTUluNWg2SUlTOGJyZDViem9IZ3BCQnREbDhwbzR3TmpuRXh3LU5RNHlLN0VtZTJNNDVEaFp6eGtMRTBydTkyTko3MERueEdraU9pTW9OMGJxdEUyQ3hXYTJQMGZuaF9aRnNSaWk4US1aYVVsWEVaaXJxS0ZYeXJRS1dIaVc5VjYwTE9TeXRHNF9RS1U0dWZWZ0ZTYXUtcU9MWnY2NFNvVFRFSWstSXJrVHAtaWNOelNPc3hUdUZ5djhmUThOUFVoWU9tS1ZLaFBXSmExb0NJNG9XWEJ6R1lB?oc=5",
-      "published_at": "2026-10-28T04:00:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYnIteWppTnVWc2tlVTNfUWxKQ0RyNlR4S3R1Qk5aQVgxSnF2MGZlS0wxYVE4TEd3bXRwbE1qVkhHRVd0WDV6RFpEREctOXZmZ0J3dUJXWEd2OWs5OFM3ckNBTFhJalF0Q2RMV1JRanR6RWx2STh1bGZFREFobmttU0o2bjFWMS1tOHBWaWstd3hzM21ORXgwcHFzc2xBdUlVYzBxX1A3OVlsTHdMdC1QQm5yONIBuAFBVV95cUxQSXZZY2EyTVh1WTBCUUthT3I2MFZ0U2ZiNzVKRUxCQjhKQW1Pd0RvTGJXdGd4ak43Q2VXZDU0OFFBTzlOMUxhcmh2U1JZNmM4S2MzZGl4VzFIYWpRRzhmZzE0TjR5eGhuUlRQaTN6RWM4ZklNeHZjWV9kZFdtaXhzQXBIYzRJcThsUVhOSW1LbVlMX1Zja3E2Y3c5dnhxUURPb1p0cGpBVEhucmVGUWU2VXRrLVVUQlNB?oc=5",
+      "published_at": "2026-10-29T14:00:49+00:00",
+      "topics": [
+        "dgii"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "dgii"
+      ]
+    },
+    {
+      "title": "Marbete podría costar hasta RD$50 mil si se aplicara el impuesto exige la ley",
+      "publisher": "El Dia.com.do",
+      "publisher_url": "https://eldia.com.do",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUGZra1FLUlF2SkRjcXJhOTRRUElvR2ptZkt0SUhHbU85VEhoVFNyc1hmQlBVeHRFRlczdGhhb01tRXIyc09pSlhheERJekJxanZaczFwaFg3ajNPVWYwTHAyb0gzS24wbmpfU2ZiZVQyeTFlNURLS01oSk5xZlhjN0J6NDVhUnUxY0lfNHA0OGZkT1c5dGpSSUlhSS1XZEU?oc=5",
+      "published_at": "2026-10-29T13:47:08+00:00",
+      "topics": [
+        "dgii"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "dgii"
+      ]
+    },
+    {
+      "title": "La DGII da inicio a la renovación del marbete con aumento de RD$500 y RD$1,000.00",
+      "publisher": "Listín Diario",
+      "publisher_url": "https://listindiario.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQX0tvcVFMODAyZzRUcFRET3QwSXh1Q0lMU3lyMm5td0NLWVc0enhXT0p6NVZwVVJQNzVIZ0Nrd3pHZ0I2WlpJRXJuNWNiSDJKZ3VwRE5hTTd4UWVmNHB1R3FRdlc0MFBxNkJKallLQjU4SWhFUzF3aUR5dWhTUzk3cFE5ZlBWdnhySnRHeTNWcGxCNW5jRURHX1NoaTdNekNLZWhrdS13bjFMd2kzWGo1cEVMRkV6bUHSAbcBQVVfeXFMUF9Lb3FRTDgwMmc0VHBURE90MEl4dUNJTFN5cjJubXdDS1lXNHp4V09KejVWcFVSUDc1SGdDa3d6R2dCNlpaSUVybjVjYkgySmd1cEROYU03eFFlZjRwdUdxUXZXNDBQcTZCSmpZS0I1OEloRVMxd2lEeXVoU1M5N3BROWZQVnZ4ckp0R3kzVnBsQjVuY0VER19TaGk3TXpDS2Voa3Utd24xTHdpM1hqNXBFTEZFem1B?oc=5",
+      "published_at": "2026-10-29T13:10:27+00:00",
+      "topics": [
+        "dgii"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "dgii"
+      ]
+    },
+    {
+      "title": "DGII anuncia tarifas del marbete de RD$2,000 y RD$4,000; renovación inicia este jueves",
+      "publisher": "El Nuevo Diario",
+      "publisher_url": "https://elnuevodiario.com.do",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSDEwRkE3UDJ3UWVTRUxKRFg3SkJQYk5aWkdLX2F0NUZQTko2d3FBVHJCYXlyYkN6UjdldlUyb0JGcW5za2dRc0xoNzdhbWVuX1duc2piMHlMb1lTUnI1WkJxNHVVemJsUW5BN1JXbmF5ckRSUnhFR3A2ak1HanRfMVM4ajM2WjF0X1FSYlM3YUdFWG9hN1REQ0xuR0MyWTBRYjBSX0lEamFmQ3ZmSUh3MA?oc=5",
+      "published_at": "2026-10-29T12:22:41+00:00",
+      "topics": [
+        "dgii",
+        "economy"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "dgii",
+        "economy"
+      ]
+    },
+    {
+      "title": "DGII aumenta el precio del marbete: ¿cuánto te toca pagar?",
+      "publisher": "Hoy Digital",
+      "publisher_url": "https://hoy.com.do",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOV25zZW5kZGZGZE1qSlpmeWRvZ25Pb2VDQzBuRjZTMXMta3RrQTB0ei1vdkZQaklOUjlacVc0T2ppY3ZEQnBPWUhxSnR5aHZyZmFvZ3ZyZklxNXlOZTlnRTczOGJPR1lhQlRXYm9TQUozS2RDZnhPY2tna0Z6eG9GZFdwVkdzeVpfZUtaWlMwRVhkb2vSAZgBQVVfeXFMT3RKZzJEVy1xUmFYU2FWNkpiNkkzR3RLbWQyZGVDVl9jTUtTUTZPc1lUWlY5YVBPUVlHTlFBRWJPc1pRSUdPWFkxc3NXS3lJWnpjNHEtZzZMRGJHeGtMTXhFakQwVVQ3ZHlEeDYwNTE4YVdBS094V05TZHJxN21tY0R6QndUc1BYVVE5YkpoSUZydjk3YXp0Wjg?oc=5",
+      "published_at": "2026-10-29T12:19:38+00:00",
+      "topics": [
+        "dgii"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "dgii"
+      ]
+    },
+    {
+      "title": "Ingreso de divisas a República Dominicana es paliativo contra la inflación",
+      "publisher": "Periódico elDinero",
+      "publisher_url": "https://eldinero.com.do",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPb2J1QjhrVFgzbkRHS0tDeDZaMGhsZDhIaDVzV2x2elRhYVBJdDlXWk1iY3Y0UjcxRXEzSG5oX2ZPQVdqcF9wUzVnbmVVU3V5a3hTM0p3ZGxpQi1ZTVFudVhNYmJsanJKSTExOHBFTzNQZHNMZ09OdkY4SUxEWXk5WWpSdndwbmlGQXZxb1F1Rk9meVJSQ1ZTSkVkRW5ERUNrMkR2UzVjcUNxZw?oc=5",
+      "published_at": "2026-10-29T05:43:47+00:00",
       "topics": [
         "bcrd",
         "economy"
@@ -228,18 +192,103 @@
       ]
     },
     {
-      "title": "IED supera US$4,525 MM y exportaciones crecen 14 %",
-      "publisher": "Hoy Digital",
-      "publisher_url": "https://hoy.com.do",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTFF6MTBOQ2hhUllXdm5iYnBncDQ2NHYxMHVSTWVYazV6UU5RQVV6eTlESnJSUHFKa1BxdzJUX3NvM3BLUm5vNWtEMFc5bkxWMFNaLVdGWHo1UVBjeDdfeUxjMVpJUHc4ZE05X25QYzFmaUlPOENKUzJxa2FOTjdGdGJLdjF5MVhNLVNOUG01UTNGRnI0TFHSAZYBQVVfeXFMT0xRejEwTkNoYVJZV3ZuYmJwZ3A0NjR2MTB1Uk1lWGs1elFOUUFVenk5REpyUlBxSmtQcXcyVF9zbzNwS1JubzVrRDBXOW5MVjBTWi1XRlh6NVFQY3g3X3lMYzFaSVB3OGRNOV9uUGMxZmlJTzhDSlMycWthTk43RnRiS3YxeTFYTS1TTlBtNVEzRkZyNExR?oc=5",
-      "published_at": "2026-10-28T04:00:00+00:00",
+      "title": "La banca dominicana y la construcción de un marco jurídico capaz de adaptarse",
+      "publisher": "Periódico elDinero",
+      "publisher_url": "https://eldinero.com.do",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWEJmZmQzQmVXVGxkdVFncDg0WEhuTEtNc0hjWGt5VGVfYXpOUlVZYTVnYlFITTZEaF81azVReXJ1bTZtbndGQTByQ2FBRlRFclBOb3pTd1dGMkNLUmdiNkdlelV6VndoQW50OWUyWUZyRk1tNDFIZTdNRmE4UHJ2RzByUU9qM0JsYjFsbGlVR3N1UEpMWmYwUFBEMWlCQjRQakdhdngzM0NZUE5KblE?oc=5",
+      "published_at": "2026-10-29T05:43:47+00:00",
       "topics": [
-        "bcrd"
+        "bcrd",
+        "finance"
       ],
       "economists": [],
       "economist_match": null,
       "searches": [
-        "bcrd"
+        "bcrd",
+        "finance"
+      ]
+    },
+    {
+      "title": "Economía dominicana con nota “A” en las evaluaciones internacionales",
+      "publisher": "Periódico elDinero",
+      "publisher_url": "https://eldinero.com.do",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMnU0TTNza1lycGZiQzlZcGlhd0RBSjI3TVVQaVlrUVFVQmttQlJuRkJ3WDk3QXJxT213YXlqM3piczVrXzY3T05VejZjaE1jZTd3Q3FySXpUTFNXVzA3TFk2ZlNxYUJQQzFaVUpxMG9WSWJhbmtFTUlxU0F0eTBnT25nb1Z0eHNmWElySWZoZ0pwc2lBU2tJcF93SlRYd00?oc=5",
+      "published_at": "2026-10-29T05:43:47+00:00",
+      "topics": [
+        "bcrd",
+        "economy",
+        "fiscal"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "bcrd",
+        "economy",
+        "fiscal"
+      ]
+    },
+    {
+      "title": "Gasto tributario del Gobierno dominicano llegará a RD$441,445 millones en 2026",
+      "publisher": "Periódico elDinero",
+      "publisher_url": "https://eldinero.com.do",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcnN2TWlzb3gtNWJCY3VqYmxlckluZFVadVAwbUpjVnBnbkpYWUJkUDVDXzBFZlJ2Umx2RERzQnQwYWRnMGdjVF9TaDhjTjdYZ2tlT29za3ZBQVgxR0V5cHhCQlRLUXdSYm10ZXg0VFF3QXVLNUtZSTd2b2lubjlEMWJlQTBxSU0wQ3ZjRXpyRlk5dm94MkVubVlVQjZERHlROU9PUTlZc25DU1JR?oc=5",
+      "published_at": "2026-10-29T05:43:47+00:00",
+      "topics": [
+        "dgii",
+        "economy",
+        "fiscal"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "dgii",
+        "economy",
+        "fiscal"
+      ]
+    },
+    {
+      "title": "Bancos múltiples y asociaciones de ahorros y préstamos: ¿cuáles lideran el crédito?",
+      "publisher": "Periódico elDinero",
+      "publisher_url": "https://eldinero.com.do",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeDlLNEVQSy1VbkkyRjBUSzFCRFNSaERERjhlNE80TzQ5dnRkMFdvSm1LU2xTeXNvZEg1Z0QzZ0JQN3BEblc1M0NzdVlvNHZQVV9MSGdZWWJXek9TellMdXdrVjZWR1EyZzZKVnI0eFpnV2NxQ2FKV2s5bG1NNElDT3NfNzdZd3hlanRJbFZpaThZV3dBeTFTUzY5MXdWTVRZT1h0Nm1iemFxMGVNNjZ6enp3?oc=5",
+      "published_at": "2026-10-29T05:43:47+00:00",
+      "topics": [
+        "finance"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "finance"
+      ]
+    },
+    {
+      "title": "Los millennials son el 33% de los inversionistas en el mercado de valores dominicano",
+      "publisher": "Periódico elDinero",
+      "publisher_url": "https://eldinero.com.do",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUkRoMkE4aUtOMEhONEtSbkxKUm0tNE5wTDVUNzgzdlR1emtpb2RPcWEzZkhJVFdHYXBHRGJGSUtlWWpLamRHRXVPTXZyMUIyTTJLRWZSaWNmUncwcFlsSG5XNGl5akhka1R0UTAzdVRXbFBtdlg5RmhxSTlKbGh2RURWZkhUS1BrRUFnS0dUV1lNNjFvOE5UdHpUNGg0MUNxdkxNd0s4YmRQSmF1RzJJNS1OMUhHdw?oc=5",
+      "published_at": "2026-10-29T05:38:47+00:00",
+      "topics": [
+        "securities"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "securities"
+      ]
+    },
+    {
+      "title": "¿Cómo se compara la carga de intereses de RD con otras economías?",
+      "publisher": "Diario Libre",
+      "publisher_url": "https://www.diariolibre.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVnhmM0hTekpXQ2hDZmk4MVZXSmVCZ0FjZXRZbll5MVloczRmMDQwNm5vZmdEbGMyTXVqd3NZdTQxc3hXMWI4RVVBRE11dDNxa0R1QlFTSURTUDk0M1dsSS1sYlpRbDJtcDE3WmFhNUxkcXJOX2NuSWl6VWdSeTluVmZXRkVONnZUZU9nQUlnV2MwS1U2SFVnNzVwZTV6dk54YlRiMmVkOThCbXVzbzV6SUpsNkN0T2x6b1luZUFrZ1hSZUXSAcgBQVVfeXFMTl9mNTVYZTFVNC1HeE1MT2xxVzBPenFGQ3JkRllHRG0wSVFabVkxVHpNSEFSMkFCZDBXeG96M211MVZKa3ptVVBhdkNWM2s1R21obXA3bk4zTXJ4ejd1V1VJTXRHZ0hndVZGM25MZmNUU0RMdWdsc3BpTlIyZm9teHh2am5mS01ranJ6X3VkU04tMGd5eWtZOTJkUVM2dmhKYUxJaVVXcFAzRkRLbTVPTjd1M2N4akstSVJ2LTNNREJKdkltUE5sbDM?oc=5",
+      "published_at": "2026-10-29T04:01:00+00:00",
+      "topics": [
+        "fiscal"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "fiscal"
       ]
     }
   ],
