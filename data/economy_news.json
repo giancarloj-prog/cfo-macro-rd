@@ -1,7 +1,7 @@
 {
   "date": "2026-10-30",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-30T14:13:13+00:00",
+  "checked_at": "2026-10-30T16:44:34+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -28,7 +28,7 @@
     "fiscal": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 2
     },
     "dgii": {
       "ok": true,
@@ -83,6 +83,21 @@
   },
   "items": [
     {
+      "title": "Guido Gómez: “Indotel no tiene facultad para sancionar casinos en línea; esa responsabilidad es de Hacienda”",
+      "publisher": "El Nuevo Diario",
+      "publisher_url": "https://elnuevodiario.com.do",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdWpVY0d2X0hybFJoaERBSVVSckhyalBSOG5DeGF2VS1Od1ktbmtIR1FrMzRVNDdiLUJlSXpBRDJuQlBFeHlnQ3pkZmd4X0xPaDVBdzRnRVdZMTlIbkJkeVlVREdybmhVcnpnQzJPaEs5clRHQU5mS2IzYUY3UHJIM2UtTjBEYWpqdy00ckl1a3lwX3ozQzFMUHc5QkZJX2ZwQ0M3d1VPMThXZzYxNXZvWng1bXNsSkl1QWc1UE1pc2dzV08tUkowbTlVN3dENUJmbGItX08xa2U?oc=5",
+      "published_at": "2026-10-30T14:35:50+00:00",
+      "topics": [
+        "fiscal"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "fiscal"
+      ]
+    },
+    {
       "title": "Zonas francas-turismo, entre los beneficiarios de ‘sacrificio tributario’",
       "publisher": "El Caribe",
       "publisher_url": "https://www.elcaribe.com.do",
@@ -102,7 +117,7 @@
       "title": "La banca en la pantalla, ¿y la experiencia del cliente?",
       "publisher": "Listín Diario",
       "publisher_url": "https://listindiario.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZEJwV19GQnk2MFZaRTFUMkw4SlEzZzFSc2pEcDkyc2VRYTRzUU00OUVHX0NYTF9GTENBMGtVT2t1RlZKbHhNbFE2bndYR1NTeFJFMmhwM3J5ZVRwdDhNR2RJdVBZUkZUbHg3MGwwVEo5M2pqQkppMGVlbkZMNUpGZG1KRkpzUXJwSUdRaVpJcVVHVUR00gGaAUFVX3lxTE1FR3phMkJnOGtUSko1MnZGVllCcU5FR3BSalpkQl9SVUZwMVpNWi1RSzNwMlVFLUNFZlMyTjR4WVVGYW96dkoybUw5Z2std1JYV2tBMWRwNktLZkFxSUxncXJqVTB1TXdtN3pvWjk4ZHZGYnZHcFBybWhlb2FKS1hUYy1VRWpxVTVFY25kcENuWTI3WFlxVDl3SFE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRUd6YTJCZzhrVEpKNTJ2RlZZQnFORUdwUmpaZEJfUlVGcDFaTVotUUszcDJVRS1DRWZTMk40eFlVRmFvenZKMm1MOWdrLXdSWFdrQTFkcDZLS2ZBcUlMZ3FyalUwdU13bTd6b1o5OGR2RmJ2R3BQcm1oZW9hSktYVGMtVUVqcVU1RWNuZHBDblkyN1hZcVQ5d0hR0gGaAUFVX3lxTE1FR3phMkJnOGtUSko1MnZGVllCcU5FR3BSalpkQl9SVUZwMVpNWi1RSzNwMlVFLUNFZlMyTjR4WVVGYW96dkoybUw5Z2std1JYV2tBMWRwNktLZkFxSUxncXJqVTB1TXdtN3pvWjk4ZHZGYnZHcFBybWhlb2FKS1hUYy1VRWpxVTVFY25kcENuWTI3WFlxVDl3SFE?oc=5",
       "published_at": "2026-10-30T04:00:00+00:00",
       "topics": [
         "finance"
