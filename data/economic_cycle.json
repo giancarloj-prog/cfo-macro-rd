@@ -1,13 +1,13 @@
 {
-  "checked_at": "2026-10-29T20:24:27.698190+00:00",
+  "checked_at": "2026-10-30T14:06:33.772742+00:00",
   "series": {
     "leading": {
-      "period": "2026-08",
-      "value": 99.5,
-      "mom": -0.1,
+      "period": "2026-09",
+      "value": 99.6,
+      "mom": 0.0,
       "source": "The Conference Board",
       "url": "https://www.conference-board.org/topics/us-leading-indicators/",
-      "published_at": "2026-09-18"
+      "published_at": "2026-10-22"
     },
     "coincident": {
       "period": "2026-09",
@@ -28,8 +28,8 @@
   },
   "source_health": {
     "leading": {
-      "ok": false,
-      "error": "Index not parsed from official release"
+      "ok": true,
+      "error": null
     },
     "coincident": {
       "ok": true,

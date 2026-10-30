@@ -33,11 +33,15 @@ def parse(html):
            r'(decreased|increased|rose|fell|declined|dropped|advanced|edged up|edged down)\s+'
            r'(?:slightly\s+)?(?:by\s+)?(\d+(?:\.\d+)?)\s*%\s+in\s+([A-Za-z]+)\s+(20\d{2})\s+to\s+(\d+(?:\.\d+)?)')
         m=re.search(p,text,re.I)
-        if not m:continue
-        period=monthperiod(m[3],m[4])
+        flat=None
+        if not m:
+            flat=re.search(r'The Conference Board\s+'+word+r' Economic Index.{0,30}?\('+abbr+r'\)\s+for the US\s+(?:was|remained)\s+(?:unchanged|flat)\s+in\s+([A-Za-z]+)\s+(20\d{2})\s+at\s+(\d+(?:\.\d+)?)',text,re.I)
+            if not flat:continue
+        period=monthperiod(flat[1],flat[2]) if flat else monthperiod(m[3],m[4])
         if not period or period>published[:7]:continue
-        value=float(m[5]);change=float(m[2])
-        if m[1].lower() in ('decreased','fell','declined','dropped','edged down'):change=-change
+        value=float(flat[3]) if flat else float(m[5])
+        change=0.0 if flat else float(m[2])
+        if m and m[1].lower() in ('decreased','fell','declined','dropped','edged down'):change=-change
         if not 20<value<300 or abs(change)>10:continue
         found[key]={'period':period,'value':value,'mom':change,'source':'The Conference Board','url':URL,'published_at':published}
     return found,published,soup,text

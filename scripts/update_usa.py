@@ -24,7 +24,9 @@ def page(url):
     r.raise_for_status()
     if 'login.aspx' in r.url.lower() or 'captcha_form' in r.text:
         raise ValueError('La fuente exige acceso interactivo; se conserva el último dato verificado')
-    return BeautifulSoup(r.text, 'html.parser')
+    # Let the HTML declaration/byte detector choose the encoding. Requests can
+    # default to Latin-1 for UTF-8 releases, turning ® into Â® in PMI headings.
+    return BeautifulSoup(r.content, 'html.parser')
 
 def text(soup): return re.sub(r'\s+', ' ', soup.get_text(' ', strip=True)).replace('®','').replace('℠','')
 
@@ -179,6 +181,8 @@ def pmi(kind, previous):
     for url in candidates:
         try:
             soup=page(url)
+            if url.startswith('https://www.prnewswire.com/') and not re.search(r'News provided by\s+Institute for Supply Management',text(soup),re.I):
+                raise ValueError('El comunicado no identifica a ISM como emisor')
             headings=' '.join(h.get_text(' ',strip=True) for h in soup.find_all('h1')).replace('®','')
             value=re.search(label+r'\s+PMI\s+at\s+([\d.]+)%',headings,re.I)
             period=re.search(r'('+'|'.join(MONTHS)+r')\s+(20\d{2})\s+ISM\s+'+label,headings,re.I)

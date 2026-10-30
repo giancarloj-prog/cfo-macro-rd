@@ -24,7 +24,7 @@
       "source": "ISM",
       "url": "https://www.prnewswire.com/news-releases/manufacturing-pmi-at-54-5-september-2026-ism-manufacturing-pmi-report-302894520.html",
       "unit": "index",
-      "verified_at": "2026-10-29T01:26:57+00:00"
+      "verified_at": "2026-10-30T14:06:37+00:00"
     },
     "ism_services": {
       "value": 54.9,
@@ -129,9 +129,9 @@
       "error": null
     },
     "ism_manufacturing": {
-      "ok": false,
-      "checked_at": "2026-10-30T05:58:48+00:00",
-      "error": "La fuente exige acceso interactivo; se conserva el último dato verificado; Faltan el PMI principal y su mes en el encabezado; No se encontró un comunicado de ISM fechado"
+      "ok": true,
+      "checked_at": "2026-10-30T14:06:37+00:00",
+      "error": null
     },
     "ism_services": {
       "ok": true,
