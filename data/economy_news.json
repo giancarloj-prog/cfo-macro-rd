@@ -1,7 +1,7 @@
 {
   "date": "2026-10-30",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-30T16:44:34+00:00",
+  "checked_at": "2026-10-30T21:33:19+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -23,32 +23,32 @@
     "bcrd": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 4
     },
     "fiscal": {
       "ok": true,
       "error": null,
-      "count": 2
+      "count": 4
     },
     "dgii": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 4
     },
     "finance": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 6
     },
     "securities": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 2
     },
     "economy": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 4
     },
     "economist_andy": {
       "ok": true,
@@ -82,6 +82,219 @@
     }
   },
   "items": [
+    {
+      "title": "Banco Central deja sin cambios tasa de interés en 5.50 % durante octubre de 2026",
+      "publisher": "Hoy Digital",
+      "publisher_url": "https://hoy.com.do",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPc05VTzJjU0tTdDdqT09zV2plLVVoNU1uRGd6cEliVndPNkh4TVp3aFBtU0VSOFkzQmJBQ0htXzEtZ0dMVmlLNlFyNHUtTnloQjhJbWZxc3EzMEdYNXZoMmNmWjlKTmhHY243dEp0eFllUEV5amh0a0VnSHdlQXB6dlZreVgtcXBwU2ZETUMzTnU3bU1aQVdpd0U2bkJJU03SAaQBQVVfeXFMTnM3c2h0U3FlMU9aekpBalhGdTZIZ2w5MDZWSm43REVoaWwwZGxXSU04ZHhrYzFrRm9OeFdpUUhzaW1WY29yVUktU0xKWnZIUjF1MWttUVJVRUJSQllvZk1LaWl1YnNmTHAzejEwTTdkNkxQSkpZVWxQZUpjTHZSR2JXc1pQcWYxNkhPNzJyWi1xdkRLWGJFdVNQLVMyYkhldXVNN0Y?oc=5",
+      "published_at": "2026-10-30T20:02:40+00:00",
+      "topics": [
+        "bcrd",
+        "economy",
+        "finance"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "bcrd",
+        "economy"
+      ]
+    },
+    {
+      "title": "Banco Popular busca atraer inversionistas europeos hacia turismo y energía",
+      "publisher": "Acento",
+      "publisher_url": "https://acento.com.do",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTjE2NlJ2c2h1MUx0S2c1Xy0tNHpMUFZGbndTWC1xTTJSMFBTRlIyVHJrWHBmRjVQUTVtdDB0M1ZDT1prRnpCMFFzOXYwM1d6VEp3Z1NSd25Zb3JnbVRpY3dSR3lpU2M5WVlKcFB1c0tSa0hCblRuZEhZcDJ3SHpkeHltTmlCdnVVREMzMlBCdWwwZ2pIdFRSTks4TWZjVzBnN2U5cWtSUC1hNUs2UFlKZk9DRXhfNjc3aUHSAboBQVVfeXFMUE4xNjZSdnNodTFMdEtnNV8tLTR6TFBWRm53U1gtcU0yUjBQU0ZSMlRya1hwZkY1UFE1bXQwdDNWQ09aa0Z6QjBRczl2MDNXelRKd2dTUnduWW9yZ21UaWN3Ukd5aVNjOVlZSnBQdXNLUmtIQm5UbmRIWXAyd0h6ZHh5bU5pQnZ1VURDMzJQQnVsMGdqSHRUUk5LOE1mY1cwZzdlOXFrUlAtYTVLNlBZSmZPQ0V4XzY3N2lB?oc=5",
+      "published_at": "2026-10-30T20:00:36+00:00",
+      "topics": [
+        "finance",
+        "fiscal"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "finance",
+        "fiscal"
+      ]
+    },
+    {
+      "title": "Empresarios destacan apoyo de Abinader a inversión turística de más de US$1,000 millones en Macao",
+      "publisher": "El Nuevo Diario",
+      "publisher_url": "https://elnuevodiario.com.do",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQU5Nb0dCaE81WTdXUjU2VFgxNGt2MUx3NVBqQ0dyYXRHOHo3SmJuSmFwdFF6SVZfRUVqa2N5MGJMd3dDN3R3ODRYWE40ekxReTdrYWZsMHJHNUxLdm81Um1zTko3WWNkZE5YRFZxVTNxdkQ5NnNYQmU4dk82NFM0WGpVMGtSRGVrZFpYNmdLeTJxcS1CTEk2NGxXbXIybm1nTDU2dVVBUjBTWWNNbldNZktORHpWSjdXMHVPZUdEZGdYQ2M?oc=5",
+      "published_at": "2026-10-30T19:50:33+00:00",
+      "topics": [
+        "securities"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "securities"
+      ]
+    },
+    {
+      "title": "Banco Central mantiene su tasa de política monetaria en 5.50 % anual",
+      "publisher": "El Caribe",
+      "publisher_url": "https://www.elcaribe.com.do",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONElfQWhJQ1BUajF6X1FSMzlORXNxQ1FtTks4cHR0RVA1U2ZaMDdlSTBhQUcwcE01TC03UGQ2RDZ4S0tBZTRxQXRIb0NXemowRE51VU5DNHo5VlVJZ3loRFZudmpCN29yeUFkTGtKZFg1eWlvdW9QTmNxaXRBX0lJV2JGYWNDUFdrSTBJczJlaUtBWGJoSUliZ3BEM3dpaGhVMzQ4WWpOOWdVQQ?oc=5",
+      "published_at": "2026-10-30T19:48:40+00:00",
+      "topics": [
+        "bcrd",
+        "economy",
+        "finance"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "bcrd",
+        "economy"
+      ]
+    },
+    {
+      "title": "El Banco Central deja sin cambios su tasa de política monetaria",
+      "publisher": "Diario Libre",
+      "publisher_url": "https://www.diariolibre.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxON2VyYld3SFNrVnFNWm5RMUNFNEdjUnR4em9Pd0I5YWhJcVg2RkJ5ek1OZWlSX0FRR1RQZl9wY2hHckZuTWFJV0ZCMThBa1hiN0VTU0JaVXZwUklxa2xRR0F1Q2QyT1VtS3NJZDMxVHJXbVhad1Roc1R1MF9uTEptNE95dUxiWUhoUnpYTHhXSmh5YWt6Y3VTalRQc3ZXdjgtRk84UWpraDk2Smp2TjEydjR0aFhRNzhwX3dZ0gHAAUFVX3lxTE82cFFBTW14ZVhnUjlKVEhva2tHZ0tQSWVCckRPX3BTRVhONTZtaFRjODM4a0pSalVUWG4yVHlqV2pzTlZiaEJuQmRBemVSaGpZRFdSbG1iX3YxcE1pSG1NTGlQcTJsNDA4X25pbU1tcVVQZ0tzOVlRVU4xNy1lMzZkbmJYRUw4QXhCUlA0X0JFOW1oYjUxblVXclZISkw2VWprWGdWYUhjU2tydkhNLTRzQy1OX2RWZ0dId01DNlVRWQ?oc=5",
+      "published_at": "2026-10-30T19:08:00+00:00",
+      "topics": [
+        "bcrd",
+        "economy",
+        "finance"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "bcrd",
+        "economy",
+        "finance"
+      ]
+    },
+    {
+      "title": "DGII presenta “Intégrate 1,2,3,4” una solución que simplifica el registro y cumplimiento",
+      "publisher": "El Nuevo Diario",
+      "publisher_url": "https://elnuevodiario.com.do",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQclZHNlMwZUFlZUIwQk1naUxDeTdkS0RoUVVGbGJpRU1peVRDbDBleV9kQXJNVTBnallVZjFvenVLRVRrSFpkS284MHZkRUQtU2cwVUJlZld3V1RRczFTdS1kMUxZNHRTdHFwN19RazBpaWt1Uko2MV9pTTFBV3FpWHB5MUJtcF8yNHVFYUpyUmd2enc5elBERVFRYS1Fczg3VWJRTTk4QnF1YUplbTFqZ0trUQ?oc=5",
+      "published_at": "2026-10-30T18:36:07+00:00",
+      "topics": [
+        "dgii"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "dgii"
+      ]
+    },
+    {
+      "title": "Una reforma fiscal disfrazada",
+      "publisher": "El Nuevo Diario",
+      "publisher_url": "https://elnuevodiario.com.do",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5SUnJjaERBSUl5VGZfZVZIQWtqWGwteTZGMTgtejc4SmtWXzJLR3BlWmZTeFBPN3AtekhJUU5WVkR1VmE0OFFBODhlNzJ3bm8xX00tc0VnbXFxa1VlYmg5X1pscElqQTh3SUtZ?oc=5",
+      "published_at": "2026-10-30T18:16:12+00:00",
+      "topics": [
+        "dgii"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "dgii"
+      ]
+    },
+    {
+      "title": "AFI Universal lidera el mercado de fondos de inversión con una participación de 22.7%",
+      "publisher": "Periódico elDinero",
+      "publisher_url": "https://eldinero.com.do",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVWVWNms4bDZmS1lBemJYbF8zakNxWm1Wd3BEbmtPUExnTWtTOTR6V3lMeTZWOU0zcG9yN0NXQ0FYbFZBZWNVYVRyMHJrMnRLbjVwcnprTjRaSzZ2WUpnZkRZcFdJMkJGcWtuakpEN05CQnJ0TlB4aFdYeGxENmY2MFc3ZFVoWm9RYUpGMUJUazlYaXctX1F1ZjlrbV9GdXI3U2lvZUh2SWI3dTV4QmdkSnRRV3dWUUk?oc=5",
+      "published_at": "2026-10-30T17:41:01+00:00",
+      "topics": [
+        "securities"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "securities"
+      ]
+    },
+    {
+      "title": "ETED y BID abren diálogo con la banca nacional para facilitar futuras contrataciones de infraestructura eléctrica",
+      "publisher": "Periódico elDinero",
+      "publisher_url": "https://eldinero.com.do",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdWRTeXVTQVhtd1NicVRHQVE0S21WeWdCSXNfVy1vR0M4QmN0N3lzc18zWTJTZTNnLXVIRzBGYk9QWHFkbmZsbVZHZ1VVbldaV0R6bHhza1BkTlNDOXVjQzdqMkFjaHdoMUd4ZnFlaHpkYWZDbW1jbDNjLVlHcHllbjg4UjJnT2NtV1BZcmEyNS14TFVMcE50SEVNUFVVM2ViSm43ajYtRlZjX19hcEJIUG8tMkZsNktzNE8xaFdJVV91Z19UQVg2TDBNOTQxdEM1RWVZbk5Sem92OUd2aXc?oc=5",
+      "published_at": "2026-10-30T17:34:44+00:00",
+      "topics": [
+        "finance",
+        "fiscal"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "finance",
+        "fiscal"
+      ]
+    },
+    {
+      "title": "Banco Popular presentará su liderazgo en financiamiento al turismo y las energías renovables en foros internacionales",
+      "publisher": "Periódico elDinero",
+      "publisher_url": "https://eldinero.com.do",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOU21MaldUX2dhUzNISFl6SXk5MFJtRlppcURVeHkyNW1aUWFQM0JxSzVmRW4xQXdYZmhIUmJMSkJLRnpRSlpXUGpjV0xkQmtFTFNMek5Dd0VkVzRkRjhjWW1QOTA4XzBLS2R2REYwMWtSdEFzM2h2N243SGw2UDhneGN5b2llUExWRU9TVlpFeVVVTDd6c2JRa285cHoza1RWaUNjRDVxVDhDazR4N1FYSjJNWC16RDcwNWNhTmlHNVZBc3FBM3NYQTRBX3NZSDJBZ3ZMWWJYRE5VUk52a3NJVnNkOA?oc=5",
+      "published_at": "2026-10-30T17:30:59+00:00",
+      "topics": [
+        "finance"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "finance"
+      ]
+    },
+    {
+      "title": "Agenda del Pueblo - DGII sube mil pesos el marbete; legisladores se quejan",
+      "publisher": "El Nuevo Diario",
+      "publisher_url": "https://elnuevodiario.com.do",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNb3k4UTdxakhYdENwb1Y3bXBsUE9yNm02V2FJTlNhVEdXRlJnNjllczgzWGQ5TnBhcFdySG9LWE9oUVdXYnhjU2pHeFRRLVNEaUpkdEctMnZwellSc0Z2TzRrTkt2dlF2VDN5bmJvcUlFVVkwZ3E2ajNZOHVPd3NSMFFILVJYZ3h0VzZWNUttcFhXTVNfZ213OHBiRTBCRzVlaTI3SmI4bw?oc=5",
+      "published_at": "2026-10-30T17:25:49+00:00",
+      "topics": [
+        "dgii"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "dgii"
+      ]
+    },
+    {
+      "title": "BCRD mantiene su tasa de política monetaria en 5.50 % anual",
+      "publisher": "Acento",
+      "publisher_url": "https://acento.com.do",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbkpkVVRHNXU0TzEzMmtKUEFHX2Q5RFBqejJYUnhiaXdZVFNFMEg3bEtGWlE1YmZKUzZ5aHphR2VKcHE2Ml9abUl2T1pCYjZTZWx6R1FoRzluTDZxNk10RjlfMDNnaTRqX0pKd3duNkhWRHM4eUpJdGJ0a0JvZWtKU3FXOElZb1VFNEV2ekJDUU5Damk3aVhUdzQtbHlrTUhCV2ZWc1hR0gGmAUFVX3lxTFBuSmRVVEc1dTRPMTMya0pQQUdfZDlEUGp6MlhSeGJpd1lUU0UwSDdsS0ZaUTViZkpTNnloemFHZUpwcTYyX1ptSXZPWkJiNlNlbHpHUWhHOW5MNnE2TXRGOV8wM2dpNGpfSkp3d242SFZEczh5Skl0YnRrQm9la0pTcVc4SVlvVUU0RXZ6QkNRTkNqaTdpWFR3NC1seWtNSEJXZlZzWFE?oc=5",
+      "published_at": "2026-10-30T17:20:07+00:00",
+      "topics": [
+        "bcrd",
+        "economy",
+        "finance"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "bcrd",
+        "economy",
+        "finance"
+      ]
+    },
+    {
+      "title": "Con nuevo aumento al marbete DGII recaudará RD$4,700 millones",
+      "publisher": "El Nuevo Diario",
+      "publisher_url": "https://elnuevodiario.com.do",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOXU4aHdBY3FnMXBha3ljZHVQdFYySWJ6OXMwMXZnSHgwSUtlUjh4MTdzMllsYnVYZG1FN3BFT0QzcmFnWUVJWThqQ1Z2YnhNSk54TFRvUFBTQ2tZcWJWeDNhSG56X2FlbmlFcWFmWTdNVG41eEtQRVhXQ3BzdlNEdUdFa01Xb0NSVDMxZkEtbXpadXM?oc=5",
+      "published_at": "2026-10-30T16:51:10+00:00",
+      "topics": [
+        "dgii"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "dgii"
+      ]
+    },
     {
       "title": "Guido Gómez: “Indotel no tiene facultad para sancionar casinos en línea; esa responsabilidad es de Hacienda”",
       "publisher": "El Nuevo Diario",
@@ -117,7 +330,7 @@
       "title": "La banca en la pantalla, ¿y la experiencia del cliente?",
       "publisher": "Listín Diario",
       "publisher_url": "https://listindiario.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRUd6YTJCZzhrVEpKNTJ2RlZZQnFORUdwUmpaZEJfUlVGcDFaTVotUUszcDJVRS1DRWZTMk40eFlVRmFvenZKMm1MOWdrLXdSWFdrQTFkcDZLS2ZBcUlMZ3FyalUwdU13bTd6b1o5OGR2RmJ2R3BQcm1oZW9hSktYVGMtVUVqcVU1RWNuZHBDblkyN1hZcVQ5d0hR0gGaAUFVX3lxTE1FR3phMkJnOGtUSko1MnZGVllCcU5FR3BSalpkQl9SVUZwMVpNWi1RSzNwMlVFLUNFZlMyTjR4WVVGYW96dkoybUw5Z2std1JYV2tBMWRwNktLZkFxSUxncXJqVTB1TXdtN3pvWjk4ZHZGYnZHcFBybWhlb2FKS1hUYy1VRWpxVTVFY25kcENuWTI3WFlxVDl3SFE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZEJwV19GQnk2MFZaRTFUMkw4SlEzZzFSc2pEcDkyc2VRYTRzUU00OUVHX0NYTF9GTENBMGtVT2t1RlZKbHhNbFE2bndYR1NTeFJFMmhwM3J5ZVRwdDhNR2RJdVBZUkZUbHg3MGwwVEo5M2pqQkppMGVlbkZMNUpGZG1KRkpzUXJwSUdRaVpJcVVHVUR00gGaAUFVX3lxTE1FR3phMkJnOGtUSko1MnZGVllCcU5FR3BSalpkQl9SVUZwMVpNWi1RSzNwMlVFLUNFZlMyTjR4WVVGYW96dkoybUw5Z2std1JYV2tBMWRwNktLZkFxSUxncXJqVTB1TXdtN3pvWjk4ZHZGYnZHcFBybWhlb2FKS1hUYy1VRWpxVTVFY25kcENuWTI3WFlxVDl3SFE?oc=5",
       "published_at": "2026-10-30T04:00:00+00:00",
       "topics": [
         "finance"

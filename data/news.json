@@ -1,7 +1,7 @@
 {
   "date": "2026-10-30",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-30T16:44:35+00:00",
+  "checked_at": "2026-10-30T21:33:23+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -29,28 +29,61 @@
     "usa": {
       "ok": true,
       "error": null,
-      "count": 10
+      "count": 11
     },
     "europa": {
       "ok": true,
       "error": null,
-      "count": 5
+      "count": 7
     },
     "global": {
       "ok": true,
       "error": null,
-      "count": 12
+      "count": 14
     }
   },
   "items": [
+    {
+      "title": "Here’s Why Moderna’s CEO Isn’t Fazed by Its Cancer-Vaccine Selloff",
+      "publisher": "WSJ",
+      "publisher_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQWlMLTVTS05RLW0zR1BOS3ozQnRwdnRqTGtia0wyOV9vLUJtWEFzbDdXX0Q2RjlSUHB2cDdLNXFpQ184a2dYdU1lOVdMR3dST1hnQVFFUzE5ZzdsQk11UDRESkgzTFJpTUFWN0Uwa3VtMFdaeTFzNVRDdFU0RXQ4SWJKeGVuWlN1MHVVdFM4WkhHMmVvOTJ5MElNZlpHaWotSWlISlhHZWtuZw?oc=5",
+      "published_at": "2026-10-30T18:45:24+00:00",
+      "regions": [
+        "global"
+      ]
+    },
     {
       "title": "MP inspecciona hospitales para evitar desvío de medicamentos controlados",
       "publisher": "www.laprensa.hn",
       "publisher_url": "https://www.laprensa.hn",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbUdkVDIydEZkRktEZTBZeVRXX0hfelZYd2lNMTc3TGJlN1g1M3VLOWFpUEoxM1VZV21CRllTLW52TWJFbVVqXzdTRm1kQUJGR2hSOGpqWXVfZXROeGN5elljWGNmYmlEOVdlZGFRRzVGbFpLNllXM2dxT0dIMGNoc2pXNHpHemlkVnM1b2xGR1U1YzU5b2J3VDVLSEpLSl81ZWdjckVCZHN4VUxsZjF5bnJLeWJGbmZUSGJ5TU9hbmY?oc=5",
-      "published_at": "2026-10-30T16:35:15+00:00",
+      "published_at": "2026-10-30T16:56:08+00:00",
       "regions": [
         "centroamerica"
+      ]
+    },
+    {
+      "title": "EXCLUSIVE: India orders Sun Pharma to halt eye-care drug production at plant after quality lapses",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOLUtZcEpHSm0xRzNpcmNyYTA5TjE0cnhlUWE0RGJkdU5vSjA4Y29tUGxyTmR1Z0pVT1Q1N0FLYlF6Ui12ZVppUXlrUmY5YmhNdlp3OGpFQ19QM1VQVEJuZ2hYSkFvUzZsQk1aM0pMamlQaDJRTHlCRjdKcXUybG1kVkQxOUVINEt4Mks0N3JVZC1VUHVRV3dRSEJIekZUN1htUVlMRVRDNzVLQ2tmYkRnMC1tNHhxT3JzVFZFdDYzVQ?oc=5",
+      "published_at": "2026-10-30T16:46:55+00:00",
+      "regions": [
+        "europa",
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "A longtime Oregon drug treatment center is shuttering as similar programs for moms face trouble",
+      "publisher": "AP News",
+      "publisher_url": "https://apnews.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdUNNdE1VaVA2bnJueVpoWVYxdzZmS1VUQ2xFeXVmbGNmVmdPT2FMa1dTbG9idUFMQVJPWUZuQkU3b0ItSVFubVdXa3pBX3BNeVBBOUJ2U0I3VWtjWjJpNS13M1JjazYzSDBRbFpLVjUzYUFTaXRmTllxYVBPNHJZUnBuUnFIRHhxYzhiMGxxcUxxc3VxNlhrczJ6X0o2UVZHaW9QOERMYW55V2M1TnJMTw?oc=5",
+      "published_at": "2026-10-30T16:39:47+00:00",
+      "regions": [
+        "global",
+        "usa"
       ]
     },
     {
@@ -58,8 +91,9 @@
       "publisher": "The Guardian",
       "publisher_url": "https://www.theguardian.com",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSXprOXhvTDVVanU3V2FQRGhZQUxQdEd1ZUpRYjducnlLLURZSkI5WWRkN2tFM2hrVE9OYUprTlJ2b0pMdXJMZHJxLVpSYW9IV0NIRklFZnQweXhoU2VDbXdDQXJKYnY4UkhqeGJ4VE5LQjUxcjBGUW02ZHR0ZFNUYi1vZkJDM0pfdFN3aG8yUkNWdw?oc=5",
-      "published_at": "2026-10-30T16:17:00+00:00",
+      "published_at": "2026-10-30T16:25:00+00:00",
       "regions": [
+        "europa",
         "global"
       ]
     },
@@ -103,20 +137,19 @@
       "publisher": "WSJ",
       "publisher_url": "https://www.wsj.com",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQejR4NXo5eVU1eUNHZ003ZGN6Wkp3YmdlYjFmdHN4cF83d0xfQVFORHp5azBoTHhHMmplMkV1dUhmZVc3ekNDb1R3TzBWOEJ5eDJ6bDVHQ2lTNkZLS1d0THpEWGxhQTNDUUZmRXppQkJMTWtFaU5uenFHTW5pZ3EtZl9ZV3g4b3BNajl3a2YxbTRWNWljRi05OGxzcGk4TTV3N0QzV1FmSHlWMW9oUXM2cXFhbk0?oc=5",
-      "published_at": "2026-10-30T15:09:04+00:00",
+      "published_at": "2026-10-30T15:03:00+00:00",
       "regions": [
         "global",
         "usa"
       ]
     },
     {
-      "title": "EXCLUSIVE: India orders Sun Pharma to halt eye-care drug production at plant after quality lapses",
-      "publisher": "Reuters",
-      "publisher_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOLUtZcEpHSm0xRzNpcmNyYTA5TjE0cnhlUWE0RGJkdU5vSjA4Y29tUGxyTmR1Z0pVT1Q1N0FLYlF6Ui12ZVppUXlrUmY5YmhNdlp3OGpFQ19QM1VQVEJuZ2hYSkFvUzZsQk1aM0pMamlQaDJRTHlCRjdKcXUybG1kVkQxOUVINEt4Mks0N3JVZC1VUHVRV3dRSEJIekZUN1htUVlMRVRDNzVLQ2tmYkRnMC1tNHhxT3JzVFZFdDYzVQ?oc=5",
-      "published_at": "2026-10-30T14:18:48+00:00",
+      "title": "Assessing Merck and Moderna’s mRNA cancer vaccine",
+      "publisher": "STAT",
+      "publisher_url": "https://www.statnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQUQ0Z0hpbFRXTDZhMXcxMDcwNmkxbzdtaDZydTluRzJ2Yl9oN2w1b0tFN3BqemktcURyX1lIdmNac1Uta3NsV1hJRnplOURVSm9odjh3bmU0LUwxRTFQYmhvbjlaNFMxUU5leldnV3pnWmZLd2pFWi11WThMbVBBenJXajQxOWtXdWo0N3g4Nl8xd0tsR2xJM3hhR0k2dzZwYTV2ZmIyLUJldFE?oc=5",
+      "published_at": "2026-10-30T14:14:47+00:00",
       "regions": [
-        "europa",
         "global",
         "usa"
       ]
@@ -133,22 +166,11 @@
       ]
     },
     {
-      "title": "Assessing Merck and Moderna’s mRNA cancer vaccine",
-      "publisher": "STAT",
-      "publisher_url": "https://www.statnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQUQ0Z0hpbFRXTDZhMXcxMDcwNmkxbzdtaDZydTluRzJ2Yl9oN2w1b0tFN3BqemktcURyX1lIdmNac1Uta3NsV1hJRnplOURVSm9odjh3bmU0LUwxRTFQYmhvbjlaNFMxUU5leldnV3pnWmZLd2pFWi11WThMbVBBenJXajQxOWtXdWo0N3g4Nl8xd0tsR2xJM3hhR0k2dzZwYTV2ZmIyLUJldFE?oc=5",
-      "published_at": "2026-10-30T13:37:01+00:00",
-      "regions": [
-        "global",
-        "usa"
-      ]
-    },
-    {
       "title": "Pharmalittle: We're reading about AstraZeneca cost-cutting, Sun Pharma facility problems, and more",
       "publisher": "STAT",
       "publisher_url": "https://www.statnews.com",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTnU3RjdGWTQ5c2VCbHNiZk9uM2F2Mm1MWWxrblZQSS0xcE15cHlFdXlraFQ4R0d6anlNTVg0Q2ZzejRyOGdNMVZsbHBxSk5CVmlkaE51SmlLQjVtcUlOSGFDWVVFMTZSNVVFNEU4dnBzUjZlb1B2VjVfc0U2RFRJV1l5Tl9ab1Q0cVJMN2tGcEhET3V2RkZhMGxOaTRsa0RMcHc?oc=5",
-      "published_at": "2026-10-30T13:26:45+00:00",
+      "published_at": "2026-10-30T13:56:06+00:00",
       "regions": [
         "global",
         "usa"
@@ -163,6 +185,26 @@
       "regions": [
         "global",
         "usa"
+      ]
+    },
+    {
+      "title": "Weight-loss drug pioneer Lotte Bjerre Knudsen: ‘The food industry has to listen’",
+      "publisher": "Financial Times",
+      "publisher_url": "https://www.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMHRkSzdHWkRJbmN3bVJCeDFXN00wSlAxQUFvc3BETm05VkJPX0h2Ty0yWHJpRXo1dDZNRDlZcldROHVsZTZMbEJfQjRiVXpmVzVINll6NDNsYXZqLWh0UzMxOGVtdkpGcXBoMzd1b0VxdnljQlRnWnBfOU5adjZEYzJoZ0E?oc=5",
+      "published_at": "2026-10-30T12:30:02+00:00",
+      "regions": [
+        "global"
+      ]
+    },
+    {
+      "title": "AstraZeneca profit jumps 23% on cancer drugs as it unveils major savings plan",
+      "publisher": "Euronews.com",
+      "publisher_url": "https://www.euronews.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQS0owSDlLNFp0Rl9UMENhaE5Jcmd0eUVmOWdZdFZKRWprdEhtbzlzZVBzRnFvWEtyVkJKcFZIWkl3d1JuaEZvTXFuZV9ESThBUEhFci1Rb0JweXhqVkc5cFlZSlhTNWl6eGlwX0NoVnVwdnlfei1waUk4aldhQ0lkbFhuZGN0Tk1zX00tVUFEUmdsR3E2WFd3VjVpVjdlY3h0S2RmeDd0X3JiMVdMMU9JZmJ3?oc=5",
+      "published_at": "2026-10-30T12:17:41+00:00",
+      "regions": [
+        "europa"
       ]
     },
     {
@@ -184,16 +226,6 @@
       "regions": [
         "global",
         "usa"
-      ]
-    },
-    {
-      "title": "Here’s Why Moderna’s CEO Isn’t Fazed by Its Cancer-Vaccine Selloff",
-      "publisher": "WSJ",
-      "publisher_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQWlMLTVTS05RLW0zR1BOS3ozQnRwdnRqTGtia0wyOV9vLUJtWEFzbDdXX0Q2RjlSUHB2cDdLNXFpQ184a2dYdU1lOVdMR3dST1hnQVFFUzE5ZzdsQk11UDRESkgzTFJpTUFWN0Uwa3VtMFdaeTFzNVRDdFU0RXQ4SWJKeGVuWlN1MHVVdFM4WkhHMmVvOTJ5MElNZlpHaWotSWlISlhHZWtuZw?oc=5",
-      "published_at": "2026-10-30T08:17:24+00:00",
-      "regions": [
-        "global"
       ]
     },
     {
