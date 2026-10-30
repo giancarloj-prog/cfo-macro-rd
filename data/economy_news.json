@@ -1,7 +1,7 @@
 {
   "date": "2026-10-29",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-29T21:09:53+00:00",
+  "checked_at": "2026-10-30T01:02:57+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -23,7 +23,7 @@
     "bcrd": {
       "ok": true,
       "error": null,
-      "count": 4
+      "count": 1
     },
     "fiscal": {
       "ok": true,
@@ -38,12 +38,12 @@
     "finance": {
       "ok": true,
       "error": null,
-      "count": 3
+      "count": 2
     },
     "securities": {
       "ok": true,
       "error": null,
-      "count": 3
+      "count": 4
     },
     "economy": {
       "ok": true,
@@ -83,11 +83,26 @@
   },
   "items": [
     {
+      "title": "Marbete podría costar hasta RD$50 mil si se aplicara el impuesto exige la ley",
+      "publisher": "El Dia.com.do",
+      "publisher_url": "https://eldia.com.do",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUGZra1FLUlF2SkRjcXJhOTRRUElvR2ptZkt0SUhHbU85VEhoVFNyc1hmQlBVeHRFRlczdGhhb01tRXIyc09pSlhheERJekJxanZaczFwaFg3ajNPVWYwTHAyb0gzS24wbmpfU2ZiZVQyeTFlNURLS01oSk5xZlhjN0J6NDVhUnUxY0lfNHA0OGZkT1c5dGpSSUlhSS1XZEU?oc=5",
+      "published_at": "2026-10-29T23:22:20+00:00",
+      "topics": [
+        "dgii"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "dgii"
+      ]
+    },
+    {
       "title": "Fondos de inversión concentran más del 44% de las cuentas del mercado de valores dominicano",
       "publisher": "Periódico elDinero",
       "publisher_url": "https://eldinero.com.do",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNamhkX3hxZHpvbldWTnoxLV9qa3lCZ2FxYUpsandHNEFWUnFvd3NjbjNocUNwRjEtdU14QkFEWVAySmFRRGJzUHZ3ZHdIWXFZb1EwT0Z0YmNyWWNnRFdOQlk3ckVEVkxqYXV4REVBbDBlelV1WGMybVZaSVNJajFHUnByc2hPal9mcmtuRDU1Wk91ZHlMaU94NXN0Ymk1M0s4ajRSVDk0U1NvblZNS3RDVTR6bXIxZkpqU0hNem5FUQ?oc=5",
-      "published_at": "2026-10-29T20:04:27+00:00",
+      "published_at": "2026-10-29T20:44:00+00:00",
       "topics": [
         "securities"
       ],
@@ -110,6 +125,21 @@
       "economist_match": null,
       "searches": [
         "economy"
+      ]
+    },
+    {
+      "title": "Reforma a la Ley de APP busca agilizar proyectos y atraer inversión privada",
+      "publisher": "Periódico elDinero",
+      "publisher_url": "https://eldinero.com.do",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRXpSU1R0TjBWZWpVY19OS3RjTjdwQlFQRkZleGlUTmZxVUFxRVBsODJVQWNNbHJqTnUzenh3SS16VmxQVzNac1A2b1Q4ZGNycHlVMkM4VThPdFpXQ0xvZHBjRnBUQjBhTzQ0Wmpad2pFTEFWcWpBLWZaVGZUWlFaVWstYm1NQTVoQXJNSXc1Um1GSW9WNHU1VXR3ZVlERlR4MThoYUhDNC1Hbm8?oc=5",
+      "published_at": "2026-10-29T19:53:59+00:00",
+      "topics": [
+        "securities"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "securities"
       ]
     },
     {
@@ -148,7 +178,7 @@
       "title": "Los ahorrantes en los fondos de inversión crecen 36.08 % interanual a agosto de este año",
       "publisher": "Diario Libre",
       "publisher_url": "https://www.diariolibre.com",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNHUxZzBBN2JiSHpIbUYyay03c2FkbUszTGZCWW90dUE0SHlQYllFTVotV2R2TlBzVFQyYVZGZXM3dUZTM0N6eUxBWTZld3IzYVNGSVVWaGlFTHpTSTNub01pN2pydXJJMWRhdTdzOVJKOWNheVY1a0FYMy0wWnZ3WG1La2Rod3hOZnVMUkRkS3VZWk91OXJ5bjFoX0trTXpDdU11MnY5X0MtUFVvWFdwV0xCYWIwYWIxenlfZTdHb1d1ZG9I0gHKAUFVX3lxTFBnTkZ0eWVXdXZHV0Jrc09mc0YyU2J5czZyTzBuX2pHNU54SzcycWdmSGU4ek5VQ1dNX1BoRllIaWc2UVl6VkhGR1JJZDdUMS0ydUhEb0V6dEhXeklQejdaUDZtMG4zRnV4cHZ4b3A2RzlEQXFnd0gxMHNpYnFjU2NEazlqYnRKUHd0bW53OWRmVUhMbjVIVmhNcVRHcFBMdUNsMFhwTjU0dWVXblZHUGoxQUlnemNSekJBY1BpekxDUTkwVEJGWFAyb1E?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZ05GdHllV3V2R1dCa3NPZnNGMlNieXM2ck8wbl9qRzVOeEs3MnFnZkhlOHpOVUNXTV9QaEZZSGlnNlFZelZIRkdSSWQ3VDEtMnVIRG9FenRIV3pJUHo3WlA2bTBuM0Z1eHB2eG9wNkc5REFxZ3dIMTBzaWJxY1NjRGs5amJ0SlB3dG1udzlkZlVITG41SFZoTXFUR3BQTHVDbDBYcE41NHVlV25WR1BqMUFJZ3pjUnpCQWNQaXpMQ1E5MFRCRlhQMm9R0gHKAUFVX3lxTFBnTkZ0eWVXdXZHV0Jrc09mc0YyU2J5czZyTzBuX2pHNU54SzcycWdmSGU4ek5VQ1dNX1BoRllIaWc2UVl6VkhGR1JJZDdUMS0ydUhEb0V6dEhXeklQejdaUDZtMG4zRnV4cHZ4b3A2RzlEQXFnd0gxMHNpYnFjU2NEazlqYnRKUHd0bW53OWRmVUhMbjVIVmhNcVRHcFBMdUNsMFhwTjU0dWVXblZHUGoxQUlnemNSekJBY1BpekxDUTkwVEJGWFAyb1E?oc=5",
       "published_at": "2026-10-29T18:59:03+00:00",
       "topics": [
         "securities"
@@ -160,23 +190,8 @@
       ]
     },
     {
-      "title": "Las razones que da la DGII para aumentar el precio de los marbetes",
-      "publisher": "Listín Diario",
-      "publisher_url": "https://listindiario.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYnIteWppTnVWc2tlVTNfUWxKQ0RyNlR4S3R1Qk5aQVgxSnF2MGZlS0wxYVE4TEd3bXRwbE1qVkhHRVd0WDV6RFpEREctOXZmZ0J3dUJXWEd2OWs5OFM3ckNBTFhJalF0Q2RMV1JRanR6RWx2STh1bGZFREFobmttU0o2bjFWMS1tOHBWaWstd3hzM21ORXgwcHFzc2xBdUlVYzBxX1A3OVlsTHdMdC1QQm5yONIBuAFBVV95cUxQSXZZY2EyTVh1WTBCUUthT3I2MFZ0U2ZiNzVKRUxCQjhKQW1Pd0RvTGJXdGd4ak43Q2VXZDU0OFFBTzlOMUxhcmh2U1JZNmM4S2MzZGl4VzFIYWpRRzhmZzE0TjR5eGhuUlRQaTN6RWM4ZklNeHZjWV9kZFdtaXhzQXBIYzRJcThsUVhOSW1LbVlMX1Zja3E2Y3c5dnhxUURPb1p0cGpBVEhucmVGUWU2VXRrLVVUQlNB?oc=5",
-      "published_at": "2026-10-29T16:46:35+00:00",
-      "topics": [
-        "dgii"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "dgii"
-      ]
-    },
-    {
       "title": "DGII recaudará RD$4,700 millones con el marbete; RD$1,175 millones más que el año pasado",
-      "publisher": "Listín Diario",
+      "publisher": "Listin Diario",
       "publisher_url": "https://listindiario.com",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNb29KaVlZSk9ZamZwTEJpNGk5RkJnU1FWYVFzU1ZxNUIzQTJYcjVZMlA1WVI2WnF3VW9Cb2RDWVZJRk1WWkxCQkpKQmRGZ2J5TDNBQWdNOGIwVjc3cjhocldyX0NRNTlfQk96NVV0SGRIS3FHaVJ4M0lSd0R1UnY0azZVSUdNYU1fcXRmSEpQUmV4QlYtaDVSVm4wWmJDbXJmT3VLZnBLOFdRRGlEaXMzNnE1dXFNYVdtWmhYS29rWnhBMzdkSXRR0gHMAUFVX3lxTE1fYUNNLW5Ocm1wTmwzLWNJaXlQVUtQUlhnbXIzWEExWFpOdmJ2VEZtMzI0UkhOdGFXU2hQcUdiTzhxWFRxZmFuMGpJQlZ4VTJ5cHNZaVFKZ2t0bFZ6LXZoN3htVVFSLWNUVzdEZkNrMUtVSmo0U3J5RXNPc0NpTm1ja1pjOUV3WWlsZ3VsT3VyYVRsUkUxWnhMd3NwOThNM2pRTWREWGpqdEJGbUtsRFFvcFdzNkw0ZWhyMlExYnZBbWthM3pjd2lReEduTw?oc=5",
       "published_at": "2026-10-29T15:50:08+00:00",
@@ -237,11 +252,11 @@
       ]
     },
     {
-      "title": "Marbete podría costar hasta RD$50 mil si se aplicara el impuesto exige la ley",
-      "publisher": "El Dia.com.do",
-      "publisher_url": "https://eldia.com.do",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUGZra1FLUlF2SkRjcXJhOTRRUElvR2ptZkt0SUhHbU85VEhoVFNyc1hmQlBVeHRFRlczdGhhb01tRXIyc09pSlhheERJekJxanZaczFwaFg3ajNPVWYwTHAyb0gzS24wbmpfU2ZiZVQyeTFlNURLS01oSk5xZlhjN0J6NDVhUnUxY0lfNHA0OGZkT1c5dGpSSUlhSS1XZEU?oc=5",
-      "published_at": "2026-10-29T13:47:08+00:00",
+      "title": "Las razones que da la DGII para aumentar el precio de los marbetes",
+      "publisher": "Listin Diario",
+      "publisher_url": "https://listindiario.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYnIteWppTnVWc2tlVTNfUWxKQ0RyNlR4S3R1Qk5aQVgxSnF2MGZlS0wxYVE4TEd3bXRwbE1qVkhHRVd0WDV6RFpEREctOXZmZ0J3dUJXWEd2OWs5OFM3ckNBTFhJalF0Q2RMV1JRanR6RWx2STh1bGZFREFobmttU0o2bjFWMS1tOHBWaWstd3hzM21ORXgwcHFzc2xBdUlVYzBxX1A3OVlsTHdMdC1QQm5yONIBuAFBVV95cUxQSXZZY2EyTVh1WTBCUUthT3I2MFZ0U2ZiNzVKRUxCQjhKQW1Pd0RvTGJXdGd4ak43Q2VXZDU0OFFBTzlOMUxhcmh2U1JZNmM4S2MzZGl4VzFIYWpRRzhmZzE0TjR5eGhuUlRQaTN6RWM4ZklNeHZjWV9kZFdtaXhzQXBIYzRJcThsUVhOSW1LbVlMX1Zja3E2Y3c5dnhxUURPb1p0cGpBVEhucmVGUWU2VXRrLVVUQlNB?oc=5",
+      "published_at": "2026-10-29T14:00:49+00:00",
       "topics": [
         "dgii"
       ],
@@ -253,7 +268,7 @@
     },
     {
       "title": "La DGII da inicio a la renovación del marbete con aumento de RD$500 y RD$1,000.00",
-      "publisher": "Listín Diario",
+      "publisher": "Listin Diario",
       "publisher_url": "https://listindiario.com",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUWNCaXUwWFBuazZfM1dCR0RKZTRoekl5Rmw4MC1YODMyd1JiQWpTZmZjanAzOWNwVl9CaEU0OTJlMDQ1VEpERVJmY1l1TTVReWQzeG5jWUdlRFpMX3RzYVpFajhlekxoQU5aTkVIdkVIQXdpWVpfeWhaREQxalBxWUQ2cXl4aXRzcHU2MTRtbTgwYUJ6QWprNjA2RzZWMktram4zellvODFNUi1Jb2x2QlN30gG3AUFVX3lxTFBfS29xUUw4MDJnNFRwVERPdDBJeHVDSUxTeXIybm13Q0tZVzR6eFdPSno1VnBVUlA3NUhnQ2t3ekdnQjZaWklFcm41Y2JIMkpndXBETmFNN3hRZWY0cHVHcVF2VzQwUHE2QkpqWUtCNThJaEVTMXdpRHl1aFNTOTdwUTlmUFZ2eHJKdEd5M1ZwbEI1bmNFREdfU2hpN016Q0tlaGt1LXduMUx3aTNYajVwRUxGRXptQQ?oc=5",
       "published_at": "2026-10-29T13:10:27+00:00",
@@ -299,37 +314,22 @@
       ]
     },
     {
-      "title": "Ingreso de divisas a República Dominicana es paliativo contra la inflación",
+      "title": "Gasto tributario del Gobierno dominicano llegará a RD$441,445 millones en 2026",
       "publisher": "Periódico elDinero",
       "publisher_url": "https://eldinero.com.do",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPb2J1QjhrVFgzbkRHS0tDeDZaMGhsZDhIaDVzV2x2elRhYVBJdDlXWk1iY3Y0UjcxRXEzSG5oX2ZPQVdqcF9wUzVnbmVVU3V5a3hTM0p3ZGxpQi1ZTVFudVhNYmJsanJKSTExOHBFTzNQZHNMZ09OdkY4SUxEWXk5WWpSdndwbmlGQXZxb1F1Rk9meVJSQ1ZTSkVkRW5ERUNrMkR2UzVjcUNxZw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcnN2TWlzb3gtNWJCY3VqYmxlckluZFVadVAwbUpjVnBnbkpYWUJkUDVDXzBFZlJ2Umx2RERzQnQwYWRnMGdjVF9TaDhjTjdYZ2tlT29za3ZBQVgxR0V5cHhCQlRLUXdSYm10ZXg0VFF3QXVLNUtZSTd2b2lubjlEMWJlQTBxSU0wQ3ZjRXpyRlk5dm94MkVubVlVQjZERHlROU9PUTlZc25DU1JR?oc=5",
       "published_at": "2026-10-29T05:43:47+00:00",
       "topics": [
-        "bcrd",
-        "economy"
+        "dgii",
+        "economy",
+        "fiscal"
       ],
       "economists": [],
       "economist_match": null,
       "searches": [
-        "bcrd",
-        "economy"
-      ]
-    },
-    {
-      "title": "La banca dominicana y la construcción de un marco jurídico capaz de adaptarse",
-      "publisher": "Periódico elDinero",
-      "publisher_url": "https://eldinero.com.do",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWEJmZmQzQmVXVGxkdVFncDg0WEhuTEtNc0hjWGt5VGVfYXpOUlVZYTVnYlFITTZEaF81azVReXJ1bTZtbndGQTByQ2FBRlRFclBOb3pTd1dGMkNLUmdiNkdlelV6VndoQW50OWUyWUZyRk1tNDFIZTdNRmE4UHJ2RzByUU9qM0JsYjFsbGlVR3N1UEpMWmYwUFBEMWlCQjRQakdhdngzM0NZUE5KblE?oc=5",
-      "published_at": "2026-10-29T05:43:47+00:00",
-      "topics": [
-        "bcrd",
-        "finance"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "bcrd",
-        "finance"
+        "dgii",
+        "economy",
+        "fiscal"
       ]
     },
     {
@@ -352,22 +352,20 @@
       ]
     },
     {
-      "title": "Gasto tributario del Gobierno dominicano llegará a RD$441,445 millones en 2026",
+      "title": "La banca dominicana y la construcción de un marco jurídico capaz de adaptarse",
       "publisher": "Periódico elDinero",
       "publisher_url": "https://eldinero.com.do",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcnN2TWlzb3gtNWJCY3VqYmxlckluZFVadVAwbUpjVnBnbkpYWUJkUDVDXzBFZlJ2Umx2RERzQnQwYWRnMGdjVF9TaDhjTjdYZ2tlT29za3ZBQVgxR0V5cHhCQlRLUXdSYm10ZXg0VFF3QXVLNUtZSTd2b2lubjlEMWJlQTBxSU0wQ3ZjRXpyRlk5dm94MkVubVlVQjZERHlROU9PUTlZc25DU1JR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWEJmZmQzQmVXVGxkdVFncDg0WEhuTEtNc0hjWGt5VGVfYXpOUlVZYTVnYlFITTZEaF81azVReXJ1bTZtbndGQTByQ2FBRlRFclBOb3pTd1dGMkNLUmdiNkdlelV6VndoQW50OWUyWUZyRk1tNDFIZTdNRmE4UHJ2RzByUU9qM0JsYjFsbGlVR3N1UEpMWmYwUFBEMWlCQjRQakdhdngzM0NZUE5KblE?oc=5",
       "published_at": "2026-10-29T05:43:47+00:00",
       "topics": [
-        "dgii",
-        "economy",
-        "fiscal"
+        "bcrd",
+        "finance"
       ],
       "economists": [],
       "economist_match": null,
       "searches": [
-        "dgii",
-        "economy",
-        "fiscal"
+        "bcrd",
+        "finance"
       ]
     },
     {
@@ -383,6 +381,23 @@
       "economist_match": null,
       "searches": [
         "finance"
+      ]
+    },
+    {
+      "title": "Ingreso de divisas a República Dominicana es paliativo contra la inflación",
+      "publisher": "Periódico elDinero",
+      "publisher_url": "https://eldinero.com.do",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPb2J1QjhrVFgzbkRHS0tDeDZaMGhsZDhIaDVzV2x2elRhYVBJdDlXWk1iY3Y0UjcxRXEzSG5oX2ZPQVdqcF9wUzVnbmVVU3V5a3hTM0p3ZGxpQi1ZTVFudVhNYmJsanJKSTExOHBFTzNQZHNMZ09OdkY4SUxEWXk5WWpSdndwbmlGQXZxb1F1Rk9meVJSQ1ZTSkVkRW5ERUNrMkR2UzVjcUNxZw?oc=5",
+      "published_at": "2026-10-29T05:43:47+00:00",
+      "topics": [
+        "bcrd",
+        "economy"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "bcrd",
+        "economy"
       ]
     },
     {

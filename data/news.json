@@ -1,7 +1,7 @@
 {
   "date": "2026-10-29",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-29T21:09:54+00:00",
+  "checked_at": "2026-10-30T01:02:58+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -24,25 +24,79 @@
     "mexico": {
       "ok": true,
       "error": null,
-      "count": 6
+      "count": 7
     },
     "usa": {
       "ok": true,
       "error": null,
-      "count": 18
+      "count": 22
     },
     "europa": {
       "ok": true,
       "error": null,
-      "count": 14
+      "count": 16
     },
     "global": {
       "ok": true,
       "error": null,
-      "count": 18
+      "count": 22
     }
   },
   "items": [
+    {
+      "title": "Birmex y Salud adjudican 997.6 millones de medicamentos e insumos; inversión asciende a 34 mdp",
+      "publisher": "El Universal",
+      "publisher_url": "https://www.eluniversal.com.mx",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZ0liUTdjQTF4dlIzU3BERnN3cFlQckp5dS1NYjNsRkdDclNnLXVOczd4cUpUZDlUOGpETFZNOGpmUzI5eGdxelFBYkRuUFdTNzZha1lrbkZGTFpTZnlSV1ZEbjJiMDRPRnBQb3A0bTRaM25BSi1yZ0gxempBd0FzNHd4dGEydEdIU3FNUUtnNFdSc3BMQjZEOGstaXNBSTJLRk85WVBMcWc1N0FnSDZUb093SFNaSnpXb2hWdVBTajA1SGRYdHB1X05uWQ?oc=5",
+      "published_at": "2026-10-30T00:26:52+00:00",
+      "regions": [
+        "mexico"
+      ]
+    },
+    {
+      "title": "Letter: Why consultancies require a bit of their own medicine",
+      "publisher": "Financial Times",
+      "publisher_url": "https://www.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE85YlZ6QlAzZ2pQcktlWXM4UUdHYUpDa0VkR29wTk1neXpPZzRxQXJGNGptQ2xOUFlIX0gxc1ZuelVINjlQNzNTeHRBVkxYMjZmRTlxMC0xM0c0YUxwOWlad0NYSUZycWs0ZE9PMGw3NDU?oc=5",
+      "published_at": "2026-10-30T00:22:30+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "The Biotech Leader Who Erased Team Lanes",
+      "publisher": "WSJ",
+      "publisher_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMlRMWjVURVN0OTh2bmlRa2NUVlBHSk5tNFBSMnVCckZwZ2g5S1hwTzBqeWFKWTZfTjV2UXQteVZGeGdyTlJ1MnREZDZyUUZ5N2tBdHVZdVp4T1dXRVktTVRKcktzSUtrbUo0XzdPVC16eFo1RVBrVlBwNnQ5blBzeXI2SW4?oc=5",
+      "published_at": "2026-10-29T23:37:45+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Building a Robust, High-Yield Biologics Manufacturing Platform: An Integrated Development Case Study",
+      "publisher": "Fierce Pharma",
+      "publisher_url": "https://www.fiercepharma.com",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBiMjdIcXdvWTF6M3dEUEx5OUt2am05RERwSG5Wa2szTWZDQlNGbGdPR3p4RTFlS2UyazhIVmpOVnFLeEN6R1BQeG1TRXFFOF9PSXgxUHhieHBOLVM0WU5pWDZR?oc=5",
+      "published_at": "2026-10-29T22:18:28+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Merck to boost next decade revenue forecast on new drugs optimism",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNaEF6U3ZWU2ROX1IwaWwxVTJ3bUUwM1Y5dlhIeTZIb05fYmZxcHI4eUZjVGpTY1FKc2NTaHdfWVV4M0hsclZtendRQ1NwUEdFVGJ2SXNETnY4QjRZRDlpNndMN3p3cTlwSnFWOWJUSE5rczNIQ3E4YXZJNDZVSlFfQVA3YnlQXzlOa1d0bFdVOWoxVjMyT1dtU1JNdkxXVkZmZDlnZWlhcEh1Uk91Tm5fSDlVbDZxeGs?oc=5",
+      "published_at": "2026-10-29T21:36:40+00:00",
+      "regions": [
+        "europa",
+        "global",
+        "usa"
+      ]
+    },
     {
       "title": "Cofepris alerta sobre reacciones adversas a medicamentos; pide reportarlas para mejorar vigilancia sanitaria",
       "publisher": "MILENIO",
@@ -54,7 +108,7 @@
       ]
     },
     {
-      "title": "Bajar de peso con medicamentos sin supervisión médica: el costo oculto que pocos consideran",
+      "title": "Medicamentos para bajar de peso: riesgos y costos",
       "publisher": "MILENIO",
       "publisher_url": "https://www.milenio.com",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWWxiNVNBT2I1SXdaTTFDUUNJMU1TVnVpa2k1TzI5OGlwWnljTXZLbWI1b3ktVG1IVEZub1htS3MxVGJCRUNGbUd2OVJiVzNxR3Z1ZnRJRlBFQVBFdXZrUFV4ZnJaTlFPWUhtSmJBQ3RTYTF5RHRsZTM0ajBuT1Q5MHc5Z1FIYjExei1fdE9zajMxdGE1SDVsZjJR?oc=5",
@@ -81,6 +135,17 @@
       "published_at": "2026-10-29T18:59:45+00:00",
       "regions": [
         "europa",
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "FDA plans to update infant formula nutrition requirements for first time in nearly 30 years",
+      "publisher": "CNN",
+      "publisher_url": "https://www.cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9XenRxczNlWnlQcFkxV2xzbkhwdDlBN0xQbTFEMXBPNV9PNHNRZ2lVTGJaTjJ1SHg1SmZUTDF4d1ktQUNQbGNRd0dzbUdZSmFxSl9UY0dDZENuQmVkdE5YMm5TMmpQWUpTbGE0dkozNUx5ZkVi?oc=5",
+      "published_at": "2026-10-29T18:33:34+00:00",
+      "regions": [
         "global",
         "usa"
       ]
@@ -161,18 +226,6 @@
       ]
     },
     {
-      "title": "Merck to boost next decade revenue forecast on new drugs optimism",
-      "publisher": "Reuters",
-      "publisher_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNaEF6U3ZWU2ROX1IwaWwxVTJ3bUUwM1Y5dlhIeTZIb05fYmZxcHI4eUZjVGpTY1FKc2NTaHdfWVV4M0hsclZtendRQ1NwUEdFVGJ2SXNETnY4QjRZRDlpNndMN3p3cTlwSnFWOWJUSE5rczNIQ3E4YXZJNDZVSlFfQVA3YnlQXzlOa1d0bFdVOWoxVjMyT1dtU1JNdkxXVkZmZDlnZWlhcEh1Uk91Tm5fSDlVbDZxeGs?oc=5",
-      "published_at": "2026-10-29T15:50:31+00:00",
-      "regions": [
-        "europa",
-        "global",
-        "usa"
-      ]
-    },
-    {
       "title": "Vacunación contra COVID-19 enfrenta reto de ampliar cobertura y actualizar biológicos: Especialistas",
       "publisher": "El Economista",
       "publisher_url": "https://www.eleconomista.com.mx",
@@ -180,6 +233,17 @@
       "published_at": "2026-10-29T15:49:35+00:00",
       "regions": [
         "mexico"
+      ]
+    },
+    {
+      "title": "Southampton drug dealer jailed for 3D-printed gun murder",
+      "publisher": "BBC",
+      "publisher_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAteW8tWWZncFFHbDhDYnozQkdNVUlpZ0FqMno4UXF2eEZhUHpPQnNRTmFjUVN3emFlZE91RU4yd1JueENQdnA4WllKOTF1U0w3TWZIeDdtOUNCVzQ?oc=5",
+      "published_at": "2026-10-29T15:30:38+00:00",
+      "regions": [
+        "europa",
+        "global"
       ]
     },
     {
@@ -382,6 +446,16 @@
       "published_at": "2026-10-29T06:13:11+00:00",
       "regions": [
         "europa"
+      ]
+    },
+    {
+      "title": "\"Improving Oncology Trial Enrollment Through Integrated Digital Pathology\"",
+      "publisher": "Fierce Pharma",
+      "publisher_url": "https://fp-resources.fiercepharma.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNN0RsdW1mS1BEbzh0WHNqVEZKWWYxMmtjakNyRzJ6cm92R0ZVdjE2OWdsZ3hodTBVdXpjUTdoZG14cl9HNGpzQUJmR1lvSEtEMlJhTXYtRGw1LUQzTmtwSGpMQ3JDWHcxd3JvbWVEM28wZ3dDeENWX0pLTlRQVDFDLUx2XzVhVHUxYkpscnBiQU1qU2ZWSEtVY1VLSnB5WXBC?oc=5",
+      "published_at": "2026-10-29T06:03:13+00:00",
+      "regions": [
+        "usa"
       ]
     },
     {
