@@ -1,7 +1,7 @@
 {
   "date": "2026-10-30",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-30T21:33:19+00:00",
+  "checked_at": "2026-10-31T01:38:09+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -33,12 +33,12 @@
     "dgii": {
       "ok": true,
       "error": null,
-      "count": 4
+      "count": 5
     },
     "finance": {
       "ok": true,
       "error": null,
-      "count": 6
+      "count": 3
     },
     "securities": {
       "ok": true,
@@ -48,7 +48,7 @@
     "economy": {
       "ok": true,
       "error": null,
-      "count": 4
+      "count": 6
     },
     "economist_andy": {
       "ok": true,
@@ -82,6 +82,37 @@
     }
   },
   "items": [
+    {
+      "title": "República Dominicana mantiene en 5,50 % su tasa de política monetaria",
+      "publisher": "El Caribe",
+      "publisher_url": "https://www.elcaribe.com.do",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNU1vSU1lVHB6TlY3R3NRVlMyTWZ0aG1uVWU2aThoU0lEaS15VTdBX3dmcEpHT0ZXdmYzNEdnM2pQWmZTQjBZaUg2QjNNSnc2dkZra0JHLXJHQ283bWZOMUFkUHNjREFqV2RaVXozd1UtSjllWkdac2ZSQXFnSnkyTnMwV2xZMl9HVlJpdzE4aWdJZw?oc=5",
+      "published_at": "2026-10-30T23:56:18+00:00",
+      "topics": [
+        "bcrd",
+        "economy"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "economy"
+      ]
+    },
+    {
+      "title": "Colmaderos piden a Abinader y la DGII facilidades para aplicar facturación electrónica",
+      "publisher": "El Nuevo Diario",
+      "publisher_url": "https://elnuevodiario.com.do",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPc1F3VHQ1enUzX2VLZVI5TXhEZncycFZtbEcxTVJnVE9DZHZHR3lEMUFJSDhQbkZ6VGRvYXBmam4wUERwcVJBTi1HbmtibGRjWUZoaVktczVQRDhuU081MDNrdkdOQXFBZ2VWTmZIaWdIbGZkdFRoSV9GYjVJQWxZbjg5QUZKTUZxUWNEUld6RldiZzRhc1RKRm1NTDJmRWNXRVhKdDVuUmpCTV9IaDIwakhwYjJhWFE?oc=5",
+      "published_at": "2026-10-30T21:51:07+00:00",
+      "topics": [
+        "dgii"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "dgii"
+      ]
+    },
     {
       "title": "Banco Central deja sin cambios tasa de interés en 5.50 % durante octubre de 2026",
       "publisher": "Hoy Digital",
@@ -200,6 +231,21 @@
       ]
     },
     {
+      "title": "Colmaderos solicitan a Abinader y a la DGII facilidades para implementar la facturación electrónica",
+      "publisher": "El Dia.com.do",
+      "publisher_url": "https://eldia.com.do",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNXl0c1Q3UGJGWGdBa0hLaGxoVXpoQjllV0FRUVRTcUhobUp2MjgxTnpxZ2xuWWdZV1Q5akY0VEJMclZjUm5WUFJOTEw5R0RPUVNCZ1NIMEU2akpCZkZxM3o3dVpnQ2Z6WTFSTkdOWlEycHFlcXZzczhvVGxOdjVTelNrbFF1QkFQbFpaeXFITVJHNnhNRTRycm96Vk8yUHkyb1FJclcxVnJTZ1h0TEtsWW5xQnJSbDFRZmxMRjZn?oc=5",
+      "published_at": "2026-10-30T18:09:43+00:00",
+      "topics": [
+        "dgii"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "dgii"
+      ]
+    },
+    {
       "title": "AFI Universal lidera el mercado de fondos de inversión con una participación de 22.7%",
       "publisher": "Periódico elDinero",
       "publisher_url": "https://eldinero.com.do",
@@ -238,11 +284,13 @@
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOU21MaldUX2dhUzNISFl6SXk5MFJtRlppcURVeHkyNW1aUWFQM0JxSzVmRW4xQXdYZmhIUmJMSkJLRnpRSlpXUGpjV0xkQmtFTFNMek5Dd0VkVzRkRjhjWW1QOTA4XzBLS2R2REYwMWtSdEFzM2h2N243SGw2UDhneGN5b2llUExWRU9TVlpFeVVVTDd6c2JRa285cHoza1RWaUNjRDVxVDhDazR4N1FYSjJNWC16RDcwNWNhTmlHNVZBc3FBM3NYQTRBX3NZSDJBZ3ZMWWJYRE5VUk52a3NJVnNkOA?oc=5",
       "published_at": "2026-10-30T17:30:59+00:00",
       "topics": [
+        "economy",
         "finance"
       ],
       "economists": [],
       "economist_match": null,
       "searches": [
+        "economy",
         "finance"
       ]
     },
@@ -330,7 +378,7 @@
       "title": "La banca en la pantalla, ¿y la experiencia del cliente?",
       "publisher": "Listín Diario",
       "publisher_url": "https://listindiario.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZEJwV19GQnk2MFZaRTFUMkw4SlEzZzFSc2pEcDkyc2VRYTRzUU00OUVHX0NYTF9GTENBMGtVT2t1RlZKbHhNbFE2bndYR1NTeFJFMmhwM3J5ZVRwdDhNR2RJdVBZUkZUbHg3MGwwVEo5M2pqQkppMGVlbkZMNUpGZG1KRkpzUXJwSUdRaVpJcVVHVUR00gGaAUFVX3lxTE1FR3phMkJnOGtUSko1MnZGVllCcU5FR3BSalpkQl9SVUZwMVpNWi1RSzNwMlVFLUNFZlMyTjR4WVVGYW96dkoybUw5Z2std1JYV2tBMWRwNktLZkFxSUxncXJqVTB1TXdtN3pvWjk4ZHZGYnZHcFBybWhlb2FKS1hUYy1VRWpxVTVFY25kcENuWTI3WFlxVDl3SFE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRUd6YTJCZzhrVEpKNTJ2RlZZQnFORUdwUmpaZEJfUlVGcDFaTVotUUszcDJVRS1DRWZTMk40eFlVRmFvenZKMm1MOWdrLXdSWFdrQTFkcDZLS2ZBcUlMZ3FyalUwdU13bTd6b1o5OGR2RmJ2R3BQcm1oZW9hSktYVGMtVUVqcVU1RWNuZHBDblkyN1hZcVQ5d0hR0gGaAUFVX3lxTE1FR3phMkJnOGtUSko1MnZGVllCcU5FR3BSalpkQl9SVUZwMVpNWi1RSzNwMlVFLUNFZlMyTjR4WVVGYW96dkoybUw5Z2std1JYV2tBMWRwNktLZkFxSUxncXJqVTB1TXdtN3pvWjk4ZHZGYnZHcFBybWhlb2FKS1hUYy1VRWpxVTVFY25kcENuWTI3WFlxVDl3SFE?oc=5",
       "published_at": "2026-10-30T04:00:00+00:00",
       "topics": [
         "finance"

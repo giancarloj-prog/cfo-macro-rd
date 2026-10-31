@@ -1,7 +1,7 @@
 {
   "date": "2026-10-30",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-30T21:33:23+00:00",
+  "checked_at": "2026-10-31T01:38:10+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -29,20 +29,54 @@
     "usa": {
       "ok": true,
       "error": null,
-      "count": 11
+      "count": 13
     },
     "europa": {
       "ok": true,
       "error": null,
-      "count": 7
+      "count": 11
     },
     "global": {
       "ok": true,
       "error": null,
-      "count": 14
+      "count": 17
     }
   },
   "items": [
+    {
+      "title": "The Biotech Leader Who Erased Team Lanes",
+      "publisher": "WSJ",
+      "publisher_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMlRMWjVURVN0OTh2bmlRa2NUVlBHSk5tNFBSMnVCckZwZ2g5S1hwTzBqeWFKWTZfTjV2UXQteVZGeGdyTlJ1MnREZDZyUUZ5N2tBdHVZdVp4T1dXRVktTVRKcktzSUtrbUo0XzdPVC16eFo1RVBrVlBwNnQ5blBzeXI2SW4?oc=5",
+      "published_at": "2026-10-30T23:37:53+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Pontypool boy to go to US for cancer vaccine after drug withdrawn",
+      "publisher": "BBC",
+      "publisher_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzRkl0YXdnakhLeWdVMDFqa085SFFGZ2x4WnlBRkgwVlRiampUUkdLb2tRZlotUHBzdlJRWmRZbmt3bmFGZngwLTFibktYSjBRODdYTlA0d054LXc?oc=5",
+      "published_at": "2026-10-30T22:58:15+00:00",
+      "regions": [
+        "europa",
+        "global"
+      ]
+    },
+    {
+      "title": "US FDA approves Inovio's treatment for rare throat disease; shares surge",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSmdHX0xYU2FPbm1sVkNPVVRMdk5kR2F3ZXdQamlrNUxnNjROR1ZSQjF1SGRZbEpESGxwLUgwNE95NnJmZTlOTUFWcGkzNmN6c1RQS1cxWkxpV2FacVVBdzYxYi1iRWZJeDUzdm9WU0c2YVV1LXJhbWhvbjFpRHphTENVX09lUEZ0MTFpeVVmSXZuaGkwRmo3bmhJOVNaSDRFakVQbTNnc3V6dw?oc=5",
+      "published_at": "2026-10-30T22:18:51+00:00",
+      "regions": [
+        "europa",
+        "global",
+        "usa"
+      ]
+    },
     {
       "title": "Here’s Why Moderna’s CEO Isn’t Fazed by Its Cancer-Vaccine Selloff",
       "publisher": "WSJ",
@@ -71,17 +105,6 @@
       "published_at": "2026-10-30T16:46:55+00:00",
       "regions": [
         "europa",
-        "global",
-        "usa"
-      ]
-    },
-    {
-      "title": "A longtime Oregon drug treatment center is shuttering as similar programs for moms face trouble",
-      "publisher": "AP News",
-      "publisher_url": "https://apnews.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdUNNdE1VaVA2bnJueVpoWVYxdzZmS1VUQ2xFeXVmbGNmVmdPT2FMa1dTbG9idUFMQVJPWUZuQkU3b0ItSVFubVdXa3pBX3BNeVBBOUJ2U0I3VWtjWjJpNS13M1JjazYzSDBRbFpLVjUzYUFTaXRmTllxYVBPNHJZUnBuUnFIRHhxYzhiMGxxcUxxc3VxNlhrczJ6X0o2UVZHaW9QOERMYW55V2M1TnJMTw?oc=5",
-      "published_at": "2026-10-30T16:39:47+00:00",
-      "regions": [
         "global",
         "usa"
       ]
@@ -116,6 +139,17 @@
       "published_at": "2026-10-30T16:10:34+00:00",
       "regions": [
         "europa",
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "A longtime Oregon drug treatment center is shuttering as similar programs for moms face trouble",
+      "publisher": "AP News",
+      "publisher_url": "https://apnews.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdUNNdE1VaVA2bnJueVpoWVYxdzZmS1VUQ2xFeXVmbGNmVmdPT2FMa1dTbG9idUFMQVJPWUZuQkU3b0ItSVFubVdXa3pBX3BNeVBBOUJ2U0I3VWtjWjJpNS13M1JjazYzSDBRbFpLVjUzYUFTaXRmTllxYVBPNHJZUnBuUnFIRHhxYzhiMGxxcUxxc3VxNlhrczJ6X0o2UVZHaW9QOERMYW55V2M1TnJMTw?oc=5",
+      "published_at": "2026-10-30T16:08:00+00:00",
+      "regions": [
         "global",
         "usa"
       ]
@@ -194,7 +228,18 @@
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMHRkSzdHWkRJbmN3bVJCeDFXN00wSlAxQUFvc3BETm05VkJPX0h2Ty0yWHJpRXo1dDZNRDlZcldROHVsZTZMbEJfQjRiVXpmVzVINll6NDNsYXZqLWh0UzMxOGVtdkpGcXBoMzd1b0VxdnljQlRnWnBfOU5adjZEYzJoZ0E?oc=5",
       "published_at": "2026-10-30T12:30:02+00:00",
       "regions": [
+        "europa",
         "global"
+      ]
+    },
+    {
+      "title": "Offshore oil and gas workers turn to weight-loss drugs to meet 124kg limit",
+      "publisher": "Financial Times",
+      "publisher_url": "https://www.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbnQ5LUNoTFFmMzVoRTVQdkRBRWVKSUs4LXJzSzB4cXhPZ3RNUnlhbHJKRkRBT3pKRXk4MHZlX0V3YW1wZFVzNU9fd3JjdWFpY29DakhjY09NOFF0OUtXSUI3Mks3bUpvcWlXRThYTjFlenNwc2Qxalh6RlRYWlZPczk4bU0?oc=5",
+      "published_at": "2026-10-30T12:17:47+00:00",
+      "regions": [
+        "europa"
       ]
     },
     {
