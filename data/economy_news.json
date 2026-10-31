@@ -1,7 +1,7 @@
 {
   "date": "2026-10-31",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-31T05:56:16+00:00",
+  "checked_at": "2026-10-31T15:46:11+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -33,7 +33,7 @@
     "dgii": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 1
     },
     "finance": {
       "ok": true,
@@ -48,7 +48,7 @@
     "economy": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 1
     },
     "economist_andy": {
       "ok": true,
@@ -81,6 +81,37 @@
       "count": 0
     }
   },
-  "items": [],
+  "items": [
+    {
+      "title": "Exportaciones de oro dominicano se disparan hacia Suiza y Canadá",
+      "publisher": "Acento",
+      "publisher_url": "https://acento.com.do",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaW1aT0xEdnQ4NWpRNlRqS1lhRFFGdV84aXFzQmpwVEh4bll4YlJId3pZYUEwbEwtb0hHbmdyUE9lcDBqcnp6NmxMMjUzZTAtR2ExYVdDeERrVnZuTENWWlkzWEhnZlk2V0tLeFplcXdYOVhVUlNpbThsOHNwZGxyamw5OGhOU0RTRVgta0dwUU1uSVQ1bmNKY0RxZGczVVNJY2l5UFVWVXM5d3ZL0gGsAUFVX3lxTFBpbVpPTER2dDg1alE2VGpLWWFEUUZ1XzhpcXNCanBUSHhuWXhiUkh3ellhQTBsTC1vSEduZ3JQT2VwMGpyeno2bEwyNTNlMC1HYTFhV0N4RGtWdm5MQ1ZaWTNYSGdmWTZXS0t4WmVxd1g5WFVSU2ltOGw4c3BkbHJqbDk4aE5TRFNFWC1rR3BRTW5JVDVuY0pjRHFkZzNVU0ljaXlQVVZVczl3dks?oc=5",
+      "published_at": "2026-10-31T14:00:51+00:00",
+      "topics": [
+        "economy"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "economy"
+      ]
+    },
+    {
+      "title": "DGII busca reducir de 15 días a 20 minutos el registro tributario de pequeños contribuyentes",
+      "publisher": "Acento",
+      "publisher_url": "https://acento.com.do",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcEhsRU5WTnVXOEtFbWVwNFV1QklQbkpjTWdoOTlRdDR2LWlMUTRCSEpVNEtVQWpMa0diVmEtZDRXVjQ4XzllRl90YkN0alZPMmIyRVdSaVZueEU1bVA5UlFZV3NGdTBXQmF6T2x0YWhoVzM2Y0pEel9VUW9OS3lUekNOMEV5SzZVdEFBMVVFZm9qODNlb1VXc0d4bEo4ejI5NkRsWTl6dk1YYklBTDFtSTNLNGZCdW5LclZfR3RjWHdQTThlVXo1VjR3UFhQSXRUSWfSAdIBQVVfeXFMUHBIbEVOVk51VzhLRW1lcDRVdUJJUG5KY01naDk5UXQ0di1pTFE0QkhKVTRLVUFqTGtHYlZhLWQ0V1Y0OF85ZUZfdGJDdGpWTzJiMkVXUmlWbnhFNW1QOVJRWVdzRnUwV0Jhek9sdGFoaFczNmNKRHpfVVFvTkt5VHpDTjBFeUs2VXRBQTFVRWZvajgzZW9VV3NHeGxKOHoyOTZEbFk5enZNWGJJQUwxbUkzSzRmQnVuS3JWX0d0Y1h3UE04ZVV6NVY0d1BYUEl0VEln?oc=5",
+      "published_at": "2026-10-31T07:00:53+00:00",
+      "topics": [
+        "dgii"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "dgii"
+      ]
+    }
+  ],
   "discovery": "Google News RSS · medios dominicanos seleccionados y fuentes oficiales; cobertura no exhaustiva."
 }

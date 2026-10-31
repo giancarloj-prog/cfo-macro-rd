@@ -1,7 +1,7 @@
 {
   "date": "2026-10-31",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-31T05:56:17+00:00",
+  "checked_at": "2026-10-31T15:46:12+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -29,19 +29,123 @@
     "usa": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 3
     },
     "europa": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 8
     },
     "global": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 3
     }
   },
-  "items": [],
+  "items": [
+    {
+      "title": "Novartis Raises Guidance Despite Drug-Trial Setbacks Hitting Profit",
+      "publisher": "WSJ",
+      "publisher_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaVFMeFV6aEp4TlZ0cGg2SVBPSVoxTlp5cnlFLTl5TU16QUtBeXNfcFFMelg3QUg2WVkwdmFpbXpqNDZYcmJxNWFJcFhNRU90MWhSdzZNejFNeVVTd21ZeHZKZnk2SU5OZWhURXpmVHpkWXJ4V01iRDh6MnBKQ1RXb2JTSjhOVmFURVF6ejlYcURla2NLUl9rcnNRMmdyVGlndlRBSTZweWpuTmU5Nmc?oc=5",
+      "published_at": "2026-10-31T11:45:30+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "The Happy Pod: Personalised cancer vaccine shows promise in major trial",
+      "publisher": "BBC",
+      "publisher_url": "https://www.bbc.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE85SnVON3lHQmZDcktaeUlNWGVhTjk5ZkNiaVFaWVk5WHFUY2I1OVFMV0F4aEsxNXZCN0d6cFMwWXJ0TjB6OVNtb3Atb2tpMGp4RE5R?oc=5",
+      "published_at": "2026-10-31T11:25:28+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "Three charged after drugs worth almost £115,000 seized",
+      "publisher": "BBC",
+      "publisher_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE85YWtvR2U1VWhTeFdhS1dBNHNXdjZlbVplSGZsSElIOXlPUjBQbFB1RmxrLUdrVjlfcVpCTWZ5RFNydzYzdGVxMV9QZ0RjQzFDQVktdUVVYWZoMzA?oc=5",
+      "published_at": "2026-10-31T10:35:33+00:00",
+      "regions": [
+        "europa",
+        "global"
+      ]
+    },
+    {
+      "title": "Doctors in Ukraine Try Treating Infections Like Biological Warfare Attacks",
+      "publisher": "The New York Times",
+      "publisher_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSUJ2dWJFOHRtdHRNaFJvaV9NZ0REaXBOcFljLUxIOF9lOEJOOENQNDBJeHc2bHFNN3c4VXpUb2l6bGQ4TnNId2tFenM0NUh4UTZpQ3FiVFYzbktKSlpjZWZ0azladHUzdUI4Zk1xcE13b2pVNEprWWpoeE00UkFMVUF2MVl3YlEwWnpJXw?oc=5",
+      "published_at": "2026-10-31T09:01:45+00:00",
+      "regions": [
+        "usa"
+      ]
+    },
+    {
+      "title": "\"Outsourced Pharma Capabilities Update: Advancing Drug Substance Manufacturing\"",
+      "publisher": "Fierce Pharma",
+      "publisher_url": "https://fp-resources.fiercepharma.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1UVF9pdkZ0MHRYQWcxSmowelMxQ0hkUk13Z2FBR256cW1XU3FDdlhvU195WV9xRy1aVmVLM2h1cl9lMXh3UmQxYkZQWWx5aDQzQ3hmYnpyTk5EMW1PRDBsc1lIMWFpams4RUwtSw?oc=5",
+      "published_at": "2026-10-31T09:00:07+00:00",
+      "regions": [
+        "usa"
+      ]
+    },
+    {
+      "title": "Pontypool boy to go to US for cancer vaccine after drug withdrawn",
+      "publisher": "BBC",
+      "publisher_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzRkl0YXdnakhLeWdVMDFqa085SFFGZ2x4WnlBRkgwVlRiampUUkdLb2tRZlotUHBzdlJRWmRZbmt3bmFGZngwLTFibktYSjBRODdYTlA0d054LXc?oc=5",
+      "published_at": "2026-10-31T07:06:12+00:00",
+      "regions": [
+        "europa",
+        "global"
+      ]
+    },
+    {
+      "title": "https://www.bbc.co.uk/schools/gcsebitesize/games/spherox/history/quiz/medicine/27.xml",
+      "publisher": "BBC",
+      "publisher_url": "https://www.bbc.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVy15Y0g0aFNwNWRxOV9wX0kwSWZjSnJjaTRrZjRSbUZrb0VOcFFEODJ1cWFzYWRsbU5qaWgyeDBKMWJBajYyRUZsYS12YzVDeXpKcm0xREJ2cURNeWdMaDFla0ZIZ2hWYTFrNTROOFJKWHpMbVZCWDZkYS1XUnZ2WXl6QWZEbTVyd3JCOWt3?oc=5",
+      "published_at": "2026-10-31T06:12:37+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "https://www.bbc.co.uk/schools/gcsebitesize/games/spherox/history/quiz/medicine/47.xml",
+      "publisher": "BBC",
+      "publisher_url": "https://www.bbc.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOa3dGU2ZQbHVSbWI2UERZeXJLMkQxd0N2N09vUS1Fck1ZaHNUQmRkX3hkUndvNG9lOXlhaVJHMDVnTGtvdnJyLUlZNGZRem1WQzVuUVloNnZ5MkpCRXcwczRiOU5wR3pXN1cxVVdlYk9EU2JreV9pUHVXOG5DVDRqa05iWDJyZjRMeW5ENEZB?oc=5",
+      "published_at": "2026-10-31T04:39:59+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "https://www.bbc.co.uk/schools/gcsebitesize/games/spherox/history/quiz/medicine/50.xml",
+      "publisher": "BBC",
+      "publisher_url": "https://www.bbc.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWlBRU2VHU1hmWmpjSDBBb2xqbERoeER4Rm9kZXJBZ08yMFVuRDRlbmlSYVFRd3k3Rk84b3lHODRyTVduZDcyeDRUQ2JXQVc3Q1hKWkZTbENtTFgzSkdqVHAzRHBLTzZmMlJ2bTJBS3g2T2Y5UHJRbDNjT19WWmV4ZXpCaDFra1E3RzRkTUt3?oc=5",
+      "published_at": "2026-10-31T04:35:43+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "https://www.bbc.co.uk/schools/gcsebitesize/games/spherox/history/quiz/medicine/14.xml",
+      "publisher": "BBC",
+      "publisher_url": "https://www.bbc.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTzFrZzFzRGdQM0xoaC1tZm5LdFFHalBjS1R3OHYtWVlBc1lBeC1MdHZsUlJWV2E1N1ZSaDU1d01nVUlMT3BEaUhINXVDanlNa2kyUWxpQllzZnZLZ3MzZmNtcjQ4X2VWOVdFcnA3d2lzZzFLY055UktxNzk4QlhmTG5ITHMxN3p0Yjh6T0tB?oc=5",
+      "published_at": "2026-10-31T04:08:25+00:00",
+      "regions": [
+        "europa"
+      ]
+    }
+  ],
   "discovery": "Google News RSS · medios seleccionados; enlaces al agregador redirigen a la publicación original"
 }
