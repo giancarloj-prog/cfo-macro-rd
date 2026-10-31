@@ -1,7 +1,7 @@
 {
   "date": "2026-10-31",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-31T15:46:12+00:00",
+  "checked_at": "2026-10-31T20:01:21+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -14,7 +14,7 @@
     "rd": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 1
     },
     "centroamerica": {
       "ok": true,
@@ -24,12 +24,12 @@
     "mexico": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 1
     },
     "usa": {
       "ok": true,
       "error": null,
-      "count": 3
+      "count": 2
     },
     "europa": {
       "ok": true,
@@ -39,10 +39,61 @@
     "global": {
       "ok": true,
       "error": null,
-      "count": 3
+      "count": 5
     }
   },
   "items": [
+    {
+      "title": "Doctors in Ukraine Try Treating Infections Like Biological Warfare Attacks",
+      "publisher": "The New York Times",
+      "publisher_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSUJ2dWJFOHRtdHRNaFJvaV9NZ0REaXBOcFljLUxIOF9lOEJOOENQNDBJeHc2bHFNN3c4VXpUb2l6bGQ4TnNId2tFenM0NUh4UTZpQ3FiVFYzbktKSlpjZWZ0azladHUzdUI4Zk1xcE13b2pVNEprWWpoeE00UkFMVUF2MVl3YlEwWnpJXw?oc=5",
+      "published_at": "2026-10-31T18:34:45+00:00",
+      "regions": [
+        "usa"
+      ]
+    },
+    {
+      "title": "Salud Pública evalúa ampliar el catálogo de medicamentos de alto costo",
+      "publisher": "Diario Libre",
+      "publisher_url": "https://www.diariolibre.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZG14dTB1UXNTVS03ci1CYUNaODVPY2VidUFRRERKNXlfa2FhbFBqY3cxSF91NVNqNmYwTU9SZ3RoUlNLblR0MW9sTGowc2gyMjVURWxWaEJWMFV1VnVOQXloWGhyT3BxYVpZMlFFN0hVUGt2bUhrZ1VEZHlDVDBPMW93WWRiX2lEU0FZVmk1amtUTGFYd1NZbU12Z2pQbFpLdjI4MkgwNDJrVEtBS0Vta285cjJQaUtsakxpUtIBwgFBVV95cUxQOE5SUlBaTTloQkhUdWltQ3ozRTBDZzNaNHU3QWJWNDFzSmV5c0dPN1dWVG9TM2FXTXY3dmZ2ZlRBcVRVOXgxWTJzajlIS0k1d0d4eGdyTWVxcG93cExKbUFpYkVOcGRIN2hZQ3hVeEFuS2ZjVWpjdDBwSTBtb3pQQm1YSkJjTTVhcl8yWXRtLVlERjlwbERBQmlyeDBxeWVpUER4RmJhSWQ1dkNtb3o3Y1ZRRXNvb2JnUDNsSWRLaER6UQ?oc=5",
+      "published_at": "2026-10-31T15:11:00+00:00",
+      "regions": [
+        "rd"
+      ]
+    },
+    {
+      "title": "Cupón Farmacias del Ahorro en Octubre 2026",
+      "publisher": "El Universal",
+      "publisher_url": "https://www.eluniversal.com.mx",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVnI0QTNHaVkxbzBYemh6MWZfVjFvT2prNlU0SS1VVE54UHpiU196eTlBVS1zWk0wM3FNbXhrSWlxLXZLZkVjejZ0allBM2w4SFBlSE9BVEJybUVoYWdtRXJsMFlKYi1VNWtaY3gyVUVJQ0w2cmZIc21fRmxPOTBpRUJB?oc=5",
+      "published_at": "2026-10-31T14:45:28+00:00",
+      "regions": [
+        "mexico"
+      ]
+    },
+    {
+      "title": "Global News Podcast | The Happy Pod: Personalised cancer vaccine shows promise in major trial",
+      "publisher": "BBC",
+      "publisher_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE55WVBfVDZSbm1qamFRaVpVQXE3V2FudEZFOXVGeTl6cXZFVk14d2x2RHJad1Fuc0RyQWNrVmZrQ19MbmNOTTN6UmhZYkdTdFhC?oc=5",
+      "published_at": "2026-10-31T12:16:49+00:00",
+      "regions": [
+        "europa",
+        "global"
+      ]
+    },
+    {
+      "title": "Drugs trade",
+      "publisher": "BBC",
+      "publisher_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5kaG1NcTZUZjlZZHJEd0g0ODFSX05nc1lpYlhiRXRCbllYUldfZUYyNnBXNnMwdG5fWkhGWTJlQzlSV1VOdk9iM1FOQzJnQlNqSEtNRVBqOA?oc=5",
+      "published_at": "2026-10-31T12:02:05+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
     {
       "title": "Novartis Raises Guidance Despite Drug-Trial Setbacks Hitting Profit",
       "publisher": "WSJ",
@@ -65,6 +116,16 @@
       ]
     },
     {
+      "title": "\"Scaling Spray-Dried Dispersions for Commercial Success: Enabling Medicines Through Scale, Capacity, and Supply Resilience\"",
+      "publisher": "Fierce Pharma",
+      "publisher_url": "https://fp-resources.fiercepharma.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPLS1CandhNFdxRnFjTUpjSWhpaV8yMTBJa2RqYVlGa3BfcmxsVEgtanIza1lrdEJZY1h3eE4tUWtPcVVoajUza0hNeDVTWDdLVkw5UmQ1ZE9ETllNVGxRbG8ySS02MHZoeFM0aGcyUjYzY055Y2hscFBVc3VkdXF3cDUtYTNyQW9xcFNmSVpQejJDVlNtOTZzaG5RbXQ?oc=5",
+      "published_at": "2026-10-31T10:37:56+00:00",
+      "regions": [
+        "global"
+      ]
+    },
+    {
       "title": "Three charged after drugs worth almost £115,000 seized",
       "publisher": "BBC",
       "publisher_url": "https://www.bbc.com",
@@ -76,23 +137,13 @@
       ]
     },
     {
-      "title": "Doctors in Ukraine Try Treating Infections Like Biological Warfare Attacks",
-      "publisher": "The New York Times",
-      "publisher_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSUJ2dWJFOHRtdHRNaFJvaV9NZ0REaXBOcFljLUxIOF9lOEJOOENQNDBJeHc2bHFNN3c4VXpUb2l6bGQ4TnNId2tFenM0NUh4UTZpQ3FiVFYzbktKSlpjZWZ0azladHUzdUI4Zk1xcE13b2pVNEprWWpoeE00UkFMVUF2MVl3YlEwWnpJXw?oc=5",
-      "published_at": "2026-10-31T09:01:45+00:00",
+      "title": "https://www.bbc.co.uk/schools/gcsebitesize/games/spherox/history/quiz/medicine/41.xml",
+      "publisher": "BBC",
+      "publisher_url": "https://www.bbc.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeTRLQ3JiSUtscllGMTY3OGFmNTRCS0o2dnZ2dVZpVm5ZampoLVk0OUZ4VENTUUhjZmVBV01CVm5JZHlncnZRX21pUThtVHBFZFhhYlE1ZW9CQ2x6czRzb0RaVU12dGFXYnB6ejkwbjF0TTlqV1JnNU5HUHd0SlBpRTZwNnl1R25BM0ZvVXJB?oc=5",
+      "published_at": "2026-10-31T09:46:03+00:00",
       "regions": [
-        "usa"
-      ]
-    },
-    {
-      "title": "\"Outsourced Pharma Capabilities Update: Advancing Drug Substance Manufacturing\"",
-      "publisher": "Fierce Pharma",
-      "publisher_url": "https://fp-resources.fiercepharma.com",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1UVF9pdkZ0MHRYQWcxSmowelMxQ0hkUk13Z2FBR256cW1XU3FDdlhvU195WV9xRy1aVmVLM2h1cl9lMXh3UmQxYkZQWWx5aDQzQ3hmYnpyTk5EMW1PRDBsc1lIMWFpams4RUwtSw?oc=5",
-      "published_at": "2026-10-31T09:00:07+00:00",
-      "regions": [
-        "usa"
+        "europa"
       ]
     },
     {
@@ -104,46 +155,6 @@
       "regions": [
         "europa",
         "global"
-      ]
-    },
-    {
-      "title": "https://www.bbc.co.uk/schools/gcsebitesize/games/spherox/history/quiz/medicine/27.xml",
-      "publisher": "BBC",
-      "publisher_url": "https://www.bbc.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVy15Y0g0aFNwNWRxOV9wX0kwSWZjSnJjaTRrZjRSbUZrb0VOcFFEODJ1cWFzYWRsbU5qaWgyeDBKMWJBajYyRUZsYS12YzVDeXpKcm0xREJ2cURNeWdMaDFla0ZIZ2hWYTFrNTROOFJKWHpMbVZCWDZkYS1XUnZ2WXl6QWZEbTVyd3JCOWt3?oc=5",
-      "published_at": "2026-10-31T06:12:37+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "https://www.bbc.co.uk/schools/gcsebitesize/games/spherox/history/quiz/medicine/47.xml",
-      "publisher": "BBC",
-      "publisher_url": "https://www.bbc.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOa3dGU2ZQbHVSbWI2UERZeXJLMkQxd0N2N09vUS1Fck1ZaHNUQmRkX3hkUndvNG9lOXlhaVJHMDVnTGtvdnJyLUlZNGZRem1WQzVuUVloNnZ5MkpCRXcwczRiOU5wR3pXN1cxVVdlYk9EU2JreV9pUHVXOG5DVDRqa05iWDJyZjRMeW5ENEZB?oc=5",
-      "published_at": "2026-10-31T04:39:59+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "https://www.bbc.co.uk/schools/gcsebitesize/games/spherox/history/quiz/medicine/50.xml",
-      "publisher": "BBC",
-      "publisher_url": "https://www.bbc.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWlBRU2VHU1hmWmpjSDBBb2xqbERoeER4Rm9kZXJBZ08yMFVuRDRlbmlSYVFRd3k3Rk84b3lHODRyTVduZDcyeDRUQ2JXQVc3Q1hKWkZTbENtTFgzSkdqVHAzRHBLTzZmMlJ2bTJBS3g2T2Y5UHJRbDNjT19WWmV4ZXpCaDFra1E3RzRkTUt3?oc=5",
-      "published_at": "2026-10-31T04:35:43+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "https://www.bbc.co.uk/schools/gcsebitesize/games/spherox/history/quiz/medicine/14.xml",
-      "publisher": "BBC",
-      "publisher_url": "https://www.bbc.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTzFrZzFzRGdQM0xoaC1tZm5LdFFHalBjS1R3OHYtWVlBc1lBeC1MdHZsUlJWV2E1N1ZSaDU1d01nVUlMT3BEaUhINXVDanlNa2kyUWxpQllzZnZLZ3MzZmNtcjQ4X2VWOVdFcnA3d2lzZzFLY055UktxNzk4QlhmTG5ITHMxN3p0Yjh6T0tB?oc=5",
-      "published_at": "2026-10-31T04:08:25+00:00",
-      "regions": [
-        "europa"
       ]
     }
   ],
