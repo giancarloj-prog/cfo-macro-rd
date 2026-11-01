@@ -1,7 +1,7 @@
 {
   "date": "2026-11-01",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-01T16:50:16+00:00",
+  "checked_at": "2026-11-01T21:13:13+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -28,7 +28,7 @@
     "fiscal": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 1
     },
     "dgii": {
       "ok": true,
@@ -48,7 +48,7 @@
     "economy": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 1
     },
     "economist_andy": {
       "ok": true,
@@ -82,6 +82,37 @@
     }
   },
   "items": [
+    {
+      "title": "Primera Feria Nacional STEM ofrecerá becas y oportunidades de empleo a jóvenes",
+      "publisher": "El Caribe",
+      "publisher_url": "https://www.elcaribe.com.do",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSFNUMzlEWWw4UjdELWZacDdTbGRRbUM0cHRwaWtielNLdUtRRjlvdy1DenFGbXl3UkgtZVJDQnJCaldLclhCQ0FTWnctQ0p6djR1dkZ1Zm5yaG9uZGpDd2pVR3d1X1VWbnA2TnVqTFM0bTA2a0xXdzhEdUgtY3pESTZsLVdKQUdQN0dpaC1wcXZxTjA?oc=5",
+      "published_at": "2026-11-01T20:04:44+00:00",
+      "topics": [
+        "economy"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "economy"
+      ]
+    },
+    {
+      "title": "Zonas francas-turismo, entre los beneficiarios de ‘sacrificio tributario’",
+      "publisher": "El Caribe",
+      "publisher_url": "https://www.elcaribe.com.do",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORVhWUzdkS3lDc0xvdzFUV0wtR2h0cTBMVnVQUldhQWN5RGJoNkR5d2FVT1pld0JUTGI3dlNVM3BJOVhMVVBudl96LTVNY0Vqd2x4MV9iTzNQd3hNOFo5a3RkYlZMMTdyXzRDQ2Fzb3Y1RXRzVDAxRHc3VUgtMHJ1a1V6bUVObjFyOXZGcWM4eHFxc0xZSnNQaGFmTGN1NDBBRHBQRFFhR1lDX3JmdDF6dUpqa2QzZw?oc=5",
+      "published_at": "2026-11-01T20:00:00+00:00",
+      "topics": [
+        "dgii",
+        "fiscal"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "fiscal"
+      ]
+    },
     {
       "title": "Grandes contribuyentes locales y medianos que no adoptaron factura electrónica ya no podrán emitir los comprobantes fiscales",
       "publisher": "El Dia.com.do",
