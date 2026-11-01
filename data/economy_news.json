@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-31",
+  "date": "2026-11-01",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-10-31T23:26:40+00:00",
+  "checked_at": "2026-11-01T06:22:29+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -28,27 +28,27 @@
     "fiscal": {
       "ok": true,
       "error": null,
-      "count": 2
+      "count": 0
     },
     "dgii": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 0
     },
     "finance": {
       "ok": true,
       "error": null,
-      "count": 2
+      "count": 0
     },
     "securities": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 0
     },
     "economy": {
       "ok": true,
       "error": null,
-      "count": 3
+      "count": 0
     },
     "economist_andy": {
       "ok": true,
@@ -81,146 +81,6 @@
       "count": 0
     }
   },
-  "items": [
-    {
-      "title": "Cooperativas y fondos de inversión: Una oportunidad que no debemos dejar pasar",
-      "publisher": "El Nuevo Diario",
-      "publisher_url": "https://elnuevodiario.com.do",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYTAxSDUxZ1o5TW5SU2tGcm03NEpUSWhJaXVkZWpsTzVtd1JzYjhLb2VydHpzQUJ1YllHTGcxODZweklVcGwtYVVJS1ZuNzN1YTZIejRZNFU0WnpVa1lUbzhVdWtuOGpnbXpLQmR0X2dDZ2NHeVc1X2hCaVoyQXZ4TkNDRXRzWXZaOW5KU3VmWDktNy1QT19TYjBmRUJiWGFXN3hLZXpPQi1zdW8?oc=5",
-      "published_at": "2026-10-31T21:56:16+00:00",
-      "topics": [
-        "securities"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "securities"
-      ]
-    },
-    {
-      "title": "El-ministro-de-Hacienda-y-Economia-Magin-Diaz-estuvo-recientemente-en-las-reuniones-del-FMI",
-      "publisher": "Periódico elDinero",
-      "publisher_url": "https://eldinero.com.do",
-      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPazJKSlNEU0lFYVRzbURxSVk2bjVfSmJPQ3FLRkxtbEw2R0hBU3VWY2s2cmVsZ2NWRDBZc1Q0RVNFaHR3LUZYWExUenp3NVlHOHN2Y0lVR0t0Q3ZKOVVXOG8zTm85cUhnR0g2Zm1MV3VpbmxPZDVnU0xaY3lJa0pRcnI4SVFlMkZfcEE4djZua2RDSEktMjBkdm9sNEpULWVlRnY0UnNBdEF4d1lScWdFMldjZEh2a2Z1a1hzblM0ZE1Pd3htemtDekZ5eC14d3JUWGR1LUVUU0VxSUpfTnY4ZDhrQU5mZG9XYkFRbm9TNXI4WEJ3d3ExYWd4RUhoNXlLX2UtSFN2blFKaWJJYnJ0cWhtVVZNYlJ6OVE?oc=5",
-      "published_at": "2026-10-31T21:11:31+00:00",
-      "topics": [
-        "economy",
-        "fiscal"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "economy",
-        "fiscal"
-      ]
-    },
-    {
-      "title": "Gestion-de-Riesgos-Deuda-publica",
-      "publisher": "Periódico elDinero",
-      "publisher_url": "https://eldinero.com.do",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRFBuZ3NoeS1pWjZMRF9PajJVeHF5VlllcDF1M1BuSS0ybWwybEVaTngxZGNUaEtNSG1IOHN6Z3ZVVlpKemI4QmY2czV0RC1qanJGOE9kVDE2VG4xTkc2RGhtOTlQOGVRaU15MlMyTWhyMEJiTUNaTXNvamhFd1ZQT2dUOERiMGpOVzhyQVhlTk54dnBJVUhBNFlqQVNCN1E5QUZnR19sT2c0YXA3R3RhQjQ5NlhKUEVjeWNXcG93ZHN1RHVCeTYxWlUtbw?oc=5",
-      "published_at": "2026-10-31T21:10:56+00:00",
-      "topics": [
-        "fiscal"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "fiscal"
-      ]
-    },
-    {
-      "title": "Crecimiento-del-PIB–Republica-Dominicana-vs-America-Latina",
-      "publisher": "Periódico elDinero",
-      "publisher_url": "https://eldinero.com.do",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNa3NSdjBPbFhZX2JMZWRTbjN5d2gtVE44ZlZRRDBaUjJsWVk0b194clpXUEQ3am5hVHpJUnEwT3RvbWRlZWIxcURjSTdpUGViNnhuOFRmTUtIajA2alBnTWgzemxfbFdFTmN0dHVqMUE1Q3FlWTh3cjhxcmxEVS1SVFM2MDVnTXVCY0t1cjNaQTZDODZwb2E1RVBUQXRLWXptMzdqZHZ2MmVLOWlkb0hvTHpKZkh2ODZ0Qy02UnpKazdDVXd2T0plZEE3T1dnRDJSZ0VJRFpBaUZOeWhXaExnb2dxNGltTVhnOWFaX2NR?oc=5",
-      "published_at": "2026-10-31T21:10:44+00:00",
-      "topics": [
-        "economy"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "economy"
-      ]
-    },
-    {
-      "title": "legislacion-bancaria-republica-dominicana",
-      "publisher": "Periódico elDinero",
-      "publisher_url": "https://eldinero.com.do",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNVFMwbUdQaGhqSzBabFpfZl9rSG4yTWIzeDJpRTJGU3dYako1TndleG5aamJDQWp4RzV1SEVDRTZrUGZUU0s4dVpQeVB4WWMzcW9kdXdWUjJtRENZTkZSNE1BdFIyNFh2NDlUY1luQWZsb2twZmpYY09kTHhvVmF4aHUzMFVYZDM0ci1QbWpfeDVlTTNHU0E0cmFXSXRFaDVIZUNkZkZUaTZyWWMtR2E5NXJ4d3NmaWh1M01Id2ZocVEzTmhDZ3ZvX2ZDb2hVYklvcE1YTi0yV21zWERlTDVmazExQV9GUQ?oc=5",
-      "published_at": "2026-10-31T21:10:42+00:00",
-      "topics": [
-        "finance"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "finance"
-      ]
-    },
-    {
-      "title": "Milcíades Guevara considera que el Gobierno ha sido “flojo” con las reformas fiscales",
-      "publisher": "El Nuevo Diario",
-      "publisher_url": "https://elnuevodiario.com.do",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOV19CNS1VQm5INk0wMmdENm5RZllyRGZXcWV0ZG5fNGtWVTZDTnQ5SEExcG5tN0JIRW5FM1YtYmFtUjl5QS1QLXo0WFdTY3ZGNWZWTG5icVBWQTEtb2lhY1RDNHp2WTNwZUtYMmZMVFlIeWZFRkFnMGFYSWdhMURVWmJaQjNTUmpWRmlJRHhRUUJFbXhvVFNQeDM1V2NQNmh6UG1ER2lBSFhSTTFFVzVDWm9Dcw?oc=5",
-      "published_at": "2026-10-31T18:46:12+00:00",
-      "topics": [
-        "dgii"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "dgii"
-      ]
-    },
-    {
-      "title": "Exportaciones de oro dominicano se disparan hacia Suiza y Canadá",
-      "publisher": "Acento",
-      "publisher_url": "https://acento.com.do",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaW1aT0xEdnQ4NWpRNlRqS1lhRFFGdV84aXFzQmpwVEh4bll4YlJId3pZYUEwbEwtb0hHbmdyUE9lcDBqcnp6NmxMMjUzZTAtR2ExYVdDeERrVnZuTENWWlkzWEhnZlk2V0tLeFplcXdYOVhVUlNpbThsOHNwZGxyamw5OGhOU0RTRVgta0dwUU1uSVQ1bmNKY0RxZGczVVNJY2l5UFVWVXM5d3ZL0gGsAUFVX3lxTFBpbVpPTER2dDg1alE2VGpLWWFEUUZ1XzhpcXNCanBUSHhuWXhiUkh3ellhQTBsTC1vSEduZ3JQT2VwMGpyeno2bEwyNTNlMC1HYTFhV0N4RGtWdm5MQ1ZaWTNYSGdmWTZXS0t4WmVxd1g5WFVSU2ltOGw4c3BkbHJqbDk4aE5TRFNFWC1rR3BRTW5JVDVuY0pjRHFkZzNVU0ljaXlQVVZVczl3dks?oc=5",
-      "published_at": "2026-10-31T14:00:51+00:00",
-      "topics": [
-        "economy"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "economy"
-      ]
-    },
-    {
-      "title": "Abren diálogo con la banca nacional para facilitar futuras contrataciones de infraestructura eléctrica",
-      "publisher": "El Nuevo Diario",
-      "publisher_url": "https://elnuevodiario.com.do",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONjBuRWNmQ1lHeklDWk9rNTFDY0ZPRVpwZzFhaXE2MkNWWlF4c0xvOEE2XzJIVzd1Mlp2QVlJM1VSMkpjNVVqZTV6akRSMTVSQW5sWFFWOURTZXB2M2M1T3MxQUI0Y0lDSTA5YzZiY1dJZHlXUHFpUnV4ZThKTFlDNGxlbkgyZXp2V2FkQ1VhQVlhaGYyLXV6RVU3Q3FaU2VTbUJCWV91X2txaFh6LTFCR2ZiV25YWWg2OEtFSGNmM3VPQVM1RzU5SG14bFE?oc=5",
-      "published_at": "2026-10-31T12:36:17+00:00",
-      "topics": [
-        "finance"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "finance"
-      ]
-    },
-    {
-      "title": "DGII busca reducir de 15 días a 20 minutos el registro tributario de pequeños contribuyentes",
-      "publisher": "Acento",
-      "publisher_url": "https://acento.com.do",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcEhsRU5WTnVXOEtFbWVwNFV1QklQbkpjTWdoOTlRdDR2LWlMUTRCSEpVNEtVQWpMa0diVmEtZDRXVjQ4XzllRl90YkN0alZPMmIyRVdSaVZueEU1bVA5UlFZV3NGdTBXQmF6T2x0YWhoVzM2Y0pEel9VUW9OS3lUekNOMEV5SzZVdEFBMVVFZm9qODNlb1VXc0d4bEo4ejI5NkRsWTl6dk1YYklBTDFtSTNLNGZCdW5LclZfR3RjWHdQTThlVXo1VjR3UFhQSXRUSWfSAdIBQVVfeXFMUHBIbEVOVk51VzhLRW1lcDRVdUJJUG5KY01naDk5UXQ0di1pTFE0QkhKVTRLVUFqTGtHYlZhLWQ0V1Y0OF85ZUZfdGJDdGpWTzJiMkVXUmlWbnhFNW1QOVJRWVdzRnUwV0Jhek9sdGFoaFczNmNKRHpfVVFvTkt5VHpDTjBFeUs2VXRBQTFVRWZvajgzZW9VV3NHeGxKOHoyOTZEbFk5enZNWGJJQUwxbUkzSzRmQnVuS3JWX0d0Y1h3UE04ZVV6NVY0d1BYUEl0VEln?oc=5",
-      "published_at": "2026-10-31T07:00:53+00:00",
-      "topics": [
-        "dgii",
-        "economy"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "dgii",
-        "economy"
-      ]
-    }
-  ],
+  "items": [],
   "discovery": "Google News RSS · medios dominicanos seleccionados y fuentes oficiales; cobertura no exhaustiva."
 }
