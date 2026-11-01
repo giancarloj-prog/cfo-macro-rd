@@ -1,7 +1,7 @@
 {
   "date": "2026-11-01",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-01T06:22:30+00:00",
+  "checked_at": "2026-11-01T16:50:17+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -24,31 +24,115 @@
     "mexico": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 1
     },
     "usa": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 3
     },
     "europa": {
       "ok": true,
       "error": null,
-      "count": 2
+      "count": 9
     },
     "global": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 4
     }
   },
   "items": [
+    {
+      "title": "The Biotech Leader Who Erased Team Lanes",
+      "publisher": "WSJ",
+      "publisher_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMlRMWjVURVN0OTh2bmlRa2NUVlBHSk5tNFBSMnVCckZwZ2g5S1hwTzBqeWFKWTZfTjV2UXQteVZGeGdyTlJ1MnREZDZyUUZ5N2tBdHVZdVp4T1dXRVktTVRKcktzSUtrbUo0XzdPVC16eFo1RVBrVlBwNnQ5blBzeXI2SW4?oc=5",
+      "published_at": "2026-11-01T14:38:04+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Cupón Farmacias del Ahorro: hasta 70% en Noviembre 2026",
+      "publisher": "El Universal",
+      "publisher_url": "https://www.eluniversal.com.mx",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVnI0QTNHaVkxbzBYemh6MWZfVjFvT2prNlU0SS1VVE54UHpiU196eTlBVS1zWk0wM3FNbXhrSWlxLXZLZkVjejZ0allBM2w4SFBlSE9BVEJybUVoYWdtRXJsMFlKYi1VNWtaY3gyVUVJQ0w2cmZIc21fRmxPOTBpRUJB?oc=5",
+      "published_at": "2026-11-01T12:35:56+00:00",
+      "regions": [
+        "mexico"
+      ]
+    },
+    {
+      "title": "Biological weapons: The weaponization of disease",
+      "publisher": "DW.com",
+      "publisher_url": "https://www.dw.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaU1fTVhmeERHUEp0aVo2VElST2Q4TDA2ZUZaajBJQXhtRklWX3NqX2RxZTNFcHEtd3dhMFZ6cDlCZGhkNVg0NlpadWkyMG5HM3RQWUhQWTRnM2tPNTV3VUNqd1c0NUFpMlQza2NLempscEh1RkFWOGJKbGdQYVE0VnpZbXBWRzDSAYcBQVVfeXFMTmhRa09TclZKWmRvUFd5WUIzZUZCOURaY0lFOXc5NzhhWHdfaE9SRkFoZDRyM0VHblVHV1c1c083YlB0Y2RJM0Jsel9hTnNiM2ZSTHhnNkpxZUJsblVKRV9CeTVIZUM5X2o1LV9vcWE3SGtHWU1DUWhDQWZBVjkwQWU1ck5sZUVF?oc=5",
+      "published_at": "2026-11-01T12:27:59+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "Affordability top of mind for voters in final sprint to midterms: ‘I have to pick between medicine or groceries’",
+      "publisher": "The Guardian",
+      "publisher_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOR1Q1MVhSVkJScHptUHVseXY0NzFZajZjSG1HN2FzV3NwVlFzLXBvTnB5RTJHa0tBdGZ2bERuYzRRckpodk1vRTJ5bnA4ak83cElfVWxoRWk2QTVEXzMzbDJkNWg2MXNGRXhCbnpKVlhpeEpxTTJTOTJtVy1McE9wVDJ3Q0l5RG5sazRNYndfLXkzZGhK?oc=5",
+      "published_at": "2026-11-01T12:02:00+00:00",
+      "regions": [
+        "europa",
+        "global"
+      ]
+    },
     {
       "title": "Drug and Alcohol Use, Abuse, and Testing in the Workplace",
       "publisher": "Reuters",
       "publisher_url": "https://www.reuters.com",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSzJlRWtIZFRyODRWWklQSGFkV2xNMUktUGNwSThLRWVyZE04TDdtdURYY1Q4MkxlaWNQQS1OczRmVVBOWjN3dVp2em12R2FUWFpidlh0aU5aTHNpNWpHS2kwbmk1Zl9vX1dPOW5tM1ozbmFWS1F5WTdna3ZlVjNNenNwbHBDOENqN1JGZmN3SnNYbzFqMWtpMlZubG5OTDJiMmR6SmJHRnU3Q3pHS0gwUmsxdUpoemc?oc=5",
-      "published_at": "2026-11-01T05:08:20+00:00",
+      "published_at": "2026-11-01T11:12:57+00:00",
+      "regions": [
+        "europa",
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "https://www.bbc.co.uk/schools/gcsebitesize/games/spherox/history/quiz/medicine/2.xml",
+      "publisher": "BBC",
+      "publisher_url": "https://www.bbc.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMnhJQmVwNXp5cGE0N3otYlBoWHNvV2diU1dycjR6VTl2VU0xSGZXQmhjaUNGWERRc2VoTG1WdXB4UWktcnJMSk94bXNpVUFWbWxiMmxPejFJdEdtMTg2S0RIbm5FT0N5VDNmZGRmUnR6ckd4ZWZFd0x4YldkZ1p5LXhEWEJCVEwzQ3FlTQ?oc=5",
+      "published_at": "2026-11-01T10:06:28+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "https://www.bbc.co.uk/schools/gcsebitesize/games/spherox/history/quiz/medicine/38.xml",
+      "publisher": "BBC",
+      "publisher_url": "https://www.bbc.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORWVHelRuMnE1akUxS3E3RnNNQ2RQWG53TFViX3JwRWdJWlVkNWtVVGxkZmhBUVZoZzBDX2FqV1c4TmF2RVVULXc1cUtPdlJ2WUJVQ1JTTk56SEc0dXpBd2VaWXVhWjdUakRndWtSalhHVWg0cGNCczJLN1FyU3g2VUpkaFpTOEhGQ2hZeVR3?oc=5",
+      "published_at": "2026-11-01T10:01:28+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "He Ran a Youth Basketball Empire. He Also Had a Massive Drug Operation.",
+      "publisher": "The New York Times",
+      "publisher_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5CQ0lNLVZqcjdfd0xRVnBTbzlpNWFOVnExMFhxcGE2UENrVFg2VV80UlNUTjZKTHNCNDRLblk1cG1MaWpvU2hjaThQemV0aV82VFpiU2RuS1UycG9XREFucHJFR3ZscEdIZTIyb2tWbGRQeWlHSTZWa29vZ21Pdw?oc=5",
+      "published_at": "2026-11-01T10:00:48+00:00",
+      "regions": [
+        "usa"
+      ]
+    },
+    {
+      "title": "Bristol Drugs Project: Changing lives for 40 years",
+      "publisher": "BBC",
+      "publisher_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5FN0o2M1NMUTFQbXNjOGE5VDhOaXY3SUFWWkg3cVllNG4tTFVXaHBXM2JhNEp5WlBjQ2xaV1NodjltNFZ4ZmQxVGNoMFhtVV9xVW52cS1MR3U2Y2M?oc=5",
+      "published_at": "2026-11-01T07:21:26+00:00",
       "regions": [
         "europa",
         "global"
@@ -58,7 +142,7 @@
       "title": "Gardiner Harris, investigative journalist: ‘No industry has been as criminal as the pharmaceutical industry’",
       "publisher": "EL PAÍS English",
       "publisher_url": "https://english.elpais.com",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQeHFRMTM1VzdIMnN5WVpBY2RMdk16SHRPT1VianRYVHYxTi1qdGVHT0haVy1EbFBTQVZBcUU4bWZqVkR1aUtDVE1mR2RadEZnQXJHQ1ZpOVkzOHJ3MW5IR1hHQjl0b3RXaUlKRHFOdXZuUlFROV9DNlJRMlZIU0R2U3VVdWw0N002TFpyZUt1cng4bVlObW1MNkQ4aE0tX0dRY0wyZlB3RElTZWNXOWVLV1RKLWhKVUs4VmR4WGFrZmpYN1pYUUJ3MmFaM1d4c1lySU5YTTJvZnpINlY4ZnlsN0lJYTZXY2hjNWkw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQeHFRMTM1VzdIMnN5WVpBY2RMdk16SHRPT1VianRYVHYxTi1qdGVHT0haVy1EbFBTQVZBcUU4bWZqVkR1aUtDVE1mR2RadEZnQXJHQ1ZpOVkzOHJ3MW5IR1hHQjl0b3RXaUlKRHFOdXZuUlFROV9DNlJRMlZIU0R2U3VVdWw0N002TFpyZUt1cng4bVlObW1MNkQ4aE0tX0dRY0wyZlB3RElTZWNXOWVLV1RKLWhKVUs4VmR4WGFrZmpYN1pYUUJ3MmFaM1d4c1lySU5YTTJvZnpINlY4ZnlsN0lJYTZXY2hjNWkw0gH_AUFVX3lxTE1KUUl0OXpFUjl2TWt0Q0Npa09pV056OFRIWHhvRU5VdzdlQVlJcm4xNmhoM2xkbHZXMEVKS2dNeGpLeXZzSUtCaWlqb0NSWjlHbmp5OGhLY0dTVUMyOWttRUp2Z3pHYlFqMWVlMUdCSm14ZWEzdGFJRi1zcDY1S2hyYk5IdVRFSG5IOFlqY3FkdkdSWVhObzBZdWZDdWV0NHJWNWdwVlBteGFqSy1nUkF1UzNDZ2VfdDZXQ3NNQnY4SjVtTkIyLVI2bDlFOXZ5NDJQdUR0Tm05T2RaZ1NNNGVPRjVxa0h0eElPbEo2WEdYM3JwLXRYcEdWajJCMnV0MA?oc=5",
       "published_at": "2026-11-01T04:00:00+00:00",
       "regions": [
         "europa"

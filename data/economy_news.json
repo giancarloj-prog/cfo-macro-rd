@@ -1,7 +1,7 @@
 {
   "date": "2026-11-01",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-01T06:22:29+00:00",
+  "checked_at": "2026-11-01T16:50:16+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -33,7 +33,7 @@
     "dgii": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 1
     },
     "finance": {
       "ok": true,
@@ -81,6 +81,22 @@
       "count": 0
     }
   },
-  "items": [],
+  "items": [
+    {
+      "title": "Grandes contribuyentes locales y medianos que no adoptaron factura electrónica ya no podrán emitir los comprobantes fiscales",
+      "publisher": "El Dia.com.do",
+      "publisher_url": "https://eldia.com.do",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNYkpIREtaZ1dIMWNYNmNvR3c5UXE5bG84ZWxpRXpWSjNzM0d5amdFTEpvRGpOV0pFZ0l0Qi1pVDNxcVB2aThVTUYtbmtTbmJ0d3ZSZzU1RmptR2kyaEZKZllkdk96Z3VHNm5pa21sN05yVHlaZHNmTmdBUzZ1UWpEUnVrcHVkdE9sWWE1LTJudDhqYTJnSmJkQ1M3clZoRVhKVmdscnlqYmlKYWJ4S1NDc1BrTkZQS3V3aDJCTkxWekFFdnB5d1FjWjZraHhyVEp3QXI1bUZybUtmWHRLcVZV?oc=5",
+      "published_at": "2026-11-01T15:41:37+00:00",
+      "topics": [
+        "dgii"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "dgii"
+      ]
+    }
+  ],
   "discovery": "Google News RSS · medios dominicanos seleccionados y fuentes oficiales; cobertura no exhaustiva."
 }
