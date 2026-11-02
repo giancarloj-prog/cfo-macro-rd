@@ -1,7 +1,7 @@
 {
-  "date": "2026-11-01",
+  "date": "2026-11-02",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-02T00:47:50+00:00",
+  "checked_at": "2026-11-02T06:24:09+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -23,12 +23,12 @@
     "bcrd": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 1
     },
     "fiscal": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 0
     },
     "dgii": {
       "ok": true,
@@ -38,17 +38,17 @@
     "finance": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 0
     },
     "securities": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 2
     },
     "economy": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 4
     },
     "economist_andy": {
       "ok": true,
@@ -58,7 +58,7 @@
     "economist_jaime": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 1
     },
     "economist_juan_ariel": {
       "ok": true,
@@ -73,7 +73,7 @@
     "economist_jose_luis": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 1
     },
     "economist_nassim": {
       "ok": true,
@@ -83,28 +83,11 @@
   },
   "items": [
     {
-      "title": "Captaciones del sistema financiero dominicano crecen 15.9 % y alcanzan RD$ 3.5 billones",
-      "publisher": "Acento",
-      "publisher_url": "https://acento.com.do",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVmxXRDdGd0R5ZjFob0hFbU8wMWdPUk5UMDNvcVV0cUF4N2E1RmcxanI1bUw1Q2h1elBuRWlkTGxuX3NocTVjaF8tbmtuNEJEUFZnRG5BWTFFQzZlRmZudVRlM0ZMSVlVRnUxaGQ3QnZpWUd4UU1tT00yR2xBMGF6OGNvb3IwOUIyMFBTVTlHU1FMb2hJYzE2QURTRHpOY3M5T3BIeVdPc1M2OVhhRTJHQlZmcGNMeEl6dm9YR0k4Qlh4QkZxX2fSAcYBQVVfeXFMTlZsV0Q3RndEeWYxaG9IRW1PMDFnT1JOVDAzb3FVdHFBeDdhNUZnMWpyNW1MNUNodXpQbkVpZExsbl9zaHE1Y2hfLW5rbjRCRFBWZ0RuQVkxRUM2ZUZmbnVUZTNGTElZVUZ1MWhkN0J2aVlHeFFNbU9NMkdsQTBhejhjb29yMDlCMjBQU1U5R1NRTG9oSWMxNkFEU0R6TmNzOU9wSHlXT3NTNjlYYUUyR0JWZnBjTHhJenZvWEdJOEJYeEJGcV9n?oc=5",
-      "published_at": "2026-11-01T23:00:23+00:00",
-      "topics": [
-        "economy",
-        "finance"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "economy",
-        "finance"
-      ]
-    },
-    {
-      "title": "Primera Feria Nacional STEM ofrecerá becas y oportunidades de empleo a jóvenes",
-      "publisher": "El Caribe",
-      "publisher_url": "https://www.elcaribe.com.do",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSFNUMzlEWWw4UjdELWZacDdTbGRRbUM0cHRwaWtielNLdUtRRjlvdy1DenFGbXl3UkgtZVJDQnJCaldLclhCQ0FTWnctQ0p6djR1dkZ1Zm5yaG9uZGpDd2pVR3d1X1VWbnA2TnVqTFM0bTA2a0xXdzhEdUgtY3pESTZsLVdKQUdQN0dpaC1wcXZxTjA?oc=5",
-      "published_at": "2026-11-01T20:04:44+00:00",
+      "title": "Efectos de la apreciación del peso en la economía RD",
+      "publisher": "Hoy Digital",
+      "publisher_url": "https://hoy.com.do",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUDNWLWFxSU13QzhGSUVHNGJwTWwxMFRSMXZlZjN2NE1tVGU5dTBXMnpHYWNDOHBSdm5vdmVyN2t1Qi1BRldaMTBuTFNEMldWaWNsb3d0TUQ2M01ycnZCeFZpV3BmZkdLXzZmMkJiRURPbXdvaUxjcmtIdXFTRWxDb2FTSWszVU3SAYcBQVVfeXFMTVAzVi1hcUlNd0M4RklFRzRicE1sMTBUUjF2ZWYzdjRNbVRlOXUwVzJ6R2FjQzhwUnZub3ZlcjdrdUItQUZXWjEwbkxTRDJXVmljbG93dE1ENjNNcnJ2QnhWaVdwZmZHS182ZjJCYkVET213b2lMY3JrSHVxU0VsQ29hU0lrM1VN?oc=5",
+      "published_at": "2026-11-02T04:05:00+00:00",
       "topics": [
         "economy"
       ],
@@ -115,27 +98,51 @@
       ]
     },
     {
-      "title": "Zonas francas-turismo, entre los beneficiarios de ‘sacrificio tributario’",
-      "publisher": "El Caribe",
-      "publisher_url": "https://www.elcaribe.com.do",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORVhWUzdkS3lDc0xvdzFUV0wtR2h0cTBMVnVQUldhQWN5RGJoNkR5d2FVT1pld0JUTGI3dlNVM3BJOVhMVVBudl96LTVNY0Vqd2x4MV9iTzNQd3hNOFo5a3RkYlZMMTdyXzRDQ2Fzb3Y1RXRzVDAxRHc3VUgtMHJ1a1V6bUVObjFyOXZGcWM4eHFxc0xZSnNQaGFmTGN1NDBBRHBQRFFhR1lDX3JmdDF6dUpqa2QzZw?oc=5",
-      "published_at": "2026-11-01T20:00:00+00:00",
+      "title": "¿Por qué RD acepta el doble de la meta inflación que EE. UU.?",
+      "publisher": "eldia.com.do",
+      "publisher_url": "https://eldia.com.do",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObjJTcTNuTFN3eUl6dVNaYXNDMVBISERsaksxd1dfZXdQT0loSzJnREd5elVLMlJ6bnU1Q3JTcmdPc29FMFRmdEZFS3hudUswR2tzN18yUnJaV0hZUG5UU1VKTFRCLW9objhtRFN1dnBodUF4LTBiYk9ERk82STlGdHlPajZfUQ?oc=5",
+      "published_at": "2026-11-02T04:01:00+00:00",
       "topics": [
-        "dgii",
-        "fiscal"
+        "bcrd",
+        "economy"
       ],
       "economists": [],
       "economist_match": null,
       "searches": [
-        "fiscal"
+        "bcrd",
+        "economy"
       ]
     },
     {
-      "title": "Grandes contribuyentes locales y medianos que no adoptaron factura electrónica ya no podrán emitir los comprobantes fiscales",
+      "title": "Segunda edición del Financial Summit 2026",
       "publisher": "El Dia.com.do",
       "publisher_url": "https://eldia.com.do",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNYkpIREtaZ1dIMWNYNmNvR3c5UXE5bG84ZWxpRXpWSjNzM0d5amdFTEpvRGpOV0pFZ0l0Qi1pVDNxcVB2aThVTUYtbmtTbmJ0d3ZSZzU1RmptR2kyaEZKZllkdk96Z3VHNm5pa21sN05yVHlaZHNmTmdBUzZ1UWpEUnVrcHVkdE9sWWE1LTJudDhqYTJnSmJkQ1M3clZoRVhKVmdscnlqYmlKYWJ4S1NDc1BrTkZQS3V3aDJCTkxWekFFdnB5d1FjWjZraHhyVEp3QXI1bUZybUtmWHRLcVZV?oc=5",
-      "published_at": "2026-11-01T15:41:37+00:00",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9qOVFyTzlHUHpQLVcyMDdiVzlLX3F1V0M5amtwU2s1TkxKRHJ0b2dxOXM0WER5Q3NodDBXVWFZUHpHVk1vZ04xanlHZWFKV0hxTXBielNiV3F1OHJnOWZuMWdnc3o0djdENnJBQXJBalA?oc=5",
+      "published_at": "2026-11-02T04:01:00+00:00",
+      "topics": [
+        "economy",
+        "opinion",
+        "securities"
+      ],
+      "economists": [
+        "jaime",
+        "jose_luis"
+      ],
+      "economist_match": null,
+      "searches": [
+        "economist_jaime",
+        "economist_jose_luis",
+        "economy",
+        "securities"
+      ]
+    },
+    {
+      "title": "En camino más impuestos y mayor control fiscal",
+      "publisher": "Listín Diario",
+      "publisher_url": "https://listindiario.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOS2sxMk5Qd3lYbFNTcTlWRUJaMFlIVHRseVNtaGQ0LWx4cTR3aDYzRGxvaXluY3FBZEFCQlE3d1BNejVQWWNXUTExSUQ3UzFwajlZOS1rdU1mbS1YNWtoY01jT255STB3c1hRd0J6dmRTS0VDc21EYjJETzI4YXpkOUtOazllMms1aklKRmxDcWltc0hYT3dra3FkUUZNS2g1RmRlV1oxN0VsQXROem96Q1Zxa9IBswFBVV95cUxOS2sxMk5Qd3lYbFNTcTlWRUJaMFlIVHRseVNtaGQ0LWx4cTR3aDYzRGxvaXluY3FBZEFCQlE3d1BNejVQWWNXUTExSUQ3UzFwajlZOS1rdU1mbS1YNWtoY01jT255STB3c1hRd0J6dmRTS0VDc21EYjJETzI4YXpkOUtOazllMms1aklKRmxDcWltc0hYT3dra3FkUUZNS2g1RmRlV1oxN0VsQXROem96Q1Zxaw?oc=5",
+      "published_at": "2026-11-02T04:00:00+00:00",
       "topics": [
         "dgii"
       ],
@@ -143,6 +150,23 @@
       "economist_match": null,
       "searches": [
         "dgii"
+      ]
+    },
+    {
+      "title": "Fondos de inversión duplican en menos de tres años sus activos",
+      "publisher": "El Caribe",
+      "publisher_url": "https://www.elcaribe.com.do",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQ2xLN0pSN1QxODRBRDVia1c4QjQtVVhWWGcxOG4yakFOVjk0bWJSWW93Q0hfdk15bHNFc0FycS1WZm9fSjhZSUpDenFObTBmY1cydm5tQXcyZUwxUWEtN2FxQnVWbTYyaEtPRWRWVThwdlNfblN1XzBnUGpRN3JCbEljMTlsMlo5ZC1kTFB0a2ZzcGFrVV9YQTNGRlVJaGc3UURibkliZDBiNE0?oc=5",
+      "published_at": "2026-11-02T04:00:00+00:00",
+      "topics": [
+        "economy",
+        "securities"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "economy",
+        "securities"
       ]
     }
   ],

@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-02T00:47:45.511310+00:00",
+  "checked_at": "2026-11-02T06:23:30.872570+00:00",
   "series": {
     "leading": {
       "period": "2026-09",
@@ -28,16 +28,16 @@
   },
   "source_health": {
     "leading": {
-      "ok": true,
-      "error": null
+      "ok": false,
+      "error": "HTTPSConnectionPool(host='www.conference-board.org', port=443): Read timed out. (read timeout=35)"
     },
     "coincident": {
-      "ok": true,
-      "error": null
+      "ok": false,
+      "error": "HTTPSConnectionPool(host='www.conference-board.org', port=443): Read timed out. (read timeout=35)"
     },
     "lagging": {
-      "ok": true,
-      "error": null
+      "ok": false,
+      "error": "HTTPSConnectionPool(host='www.conference-board.org', port=443): Read timed out. (read timeout=35)"
     }
   },
   "latest_report_date": "2026-10-22"

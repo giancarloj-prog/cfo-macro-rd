@@ -1,7 +1,7 @@
 {
-  "date": "2026-11-01",
+  "date": "2026-11-02",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-02T00:47:51+00:00",
+  "checked_at": "2026-11-02T06:24:10+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -14,7 +14,7 @@
     "rd": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 0
     },
     "centroamerica": {
       "ok": true,
@@ -24,207 +24,44 @@
     "mexico": {
       "ok": true,
       "error": null,
-      "count": 3
+      "count": 0
     },
     "usa": {
       "ok": true,
       "error": null,
-      "count": 2
+      "count": 0
     },
     "europa": {
       "ok": true,
       "error": null,
-      "count": 16
+      "count": 2
     },
     "global": {
       "ok": true,
       "error": null,
-      "count": 3
+      "count": 1
     }
   },
   "items": [
     {
-      "title": "Drugs, cash and weapons found in South Wales Police e-bike raids",
-      "publisher": "BBC",
-      "publisher_url": "http://www.bbc.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9hcmRUTWxBckFDcjhOOFgtU1E2VEV2VVgwM2JZdk5Nd3kxdE5hSU9xUG9RYkgzVEtLbVdkUGp4dkdXbTRHVHZCbjNDaWtPVEFaNTVncjRlQkZFYlVI?oc=5",
-      "published_at": "2026-11-01T22:01:45+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "Damac impulsa actualización de herramientas para mejorar acceso a medicamentos de alto costo",
-      "publisher": "El Nuevo Diario",
-      "publisher_url": "https://elnuevodiario.com.do",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZzl6LUhXZDZ3MVY4WTRLRXYtejBGX19DdUxyQjY2MkNWRjlGMkVLLURfSHBscEprR3llMV9sVzVqVVNSSFRUcWlqanlmdHRXNlE2OFlBZVNfUlBZdFh5anhCUV96YVNnSHZ0VjlpZWJxTUZyUnN6dVZBR3pfRTUzVjQ3cHdLOE96YVNzaG9ObXlKU2xfN0hUMlFmUFU2Z21aME11RFdaMHk3R3B3Z2V4MjJvajlsMlYtZWlwNjZIaw?oc=5",
-      "published_at": "2026-11-01T21:26:29+00:00",
-      "regions": [
-        "rd"
-      ]
-    },
-    {
-      "title": "Abbott's TECTONIC clinical trial demonstrates strong 30-day outcomes and high procedural success for its investigational SonicForce™ Coronary Intravascular Lithotripsy System – Company Announcement - FT.com",
+      "title": "EQS-News: Fresenius and WuXi Biologics enter exclusive development agreement to expand biosimilars pipeline",
       "publisher": "Financial Times",
       "publisher_url": "https://markets.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSVZKazF3NFJfeTdacjh0TEZWSFFJNDBTSzMxSkQtTkVPTzB2NlkzMWUtOGt0SUFMRk5NdVI2Ui1uSnBmWXVMbm9qalhjR0lrLWNraW1jc2swNTNsd1dVRGd1a2Rvc3hIa1k5dDhRRDlZQW5JSi1zZ1pNYjRsMHJKbmRUV3ROYWNnWi1feHdhYkpxRnhsQV9ZYQ?oc=5",
-      "published_at": "2026-11-01T20:45:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTTZINVd3SERCOFJGTFFZNTExRXl6QnNTeUU3NkNndUwxTlRVamhrMnY3VE8zc2stdFJhaWx1TmZtai0wV3ZHMVpZV3kwc1gwWGhxeGVIaXJqZmNjZUhPNmt4SUFsTGh0aklib3J6ZnVReU5McW9TaUhyeDh4bklZR3lNc28tWGhMOUZXU295M1R6bDh5ZlFuUFJGTnJETDBmOXE3alZVNUw1Zw?oc=5",
+      "published_at": "2026-11-02T06:00:00+00:00",
       "regions": [
         "europa"
       ]
     },
     {
-      "title": "Policía mexiquense detiene a 9 por robo de medicamentos en Edomex",
-      "publisher": "Milenio",
-      "publisher_url": "https://www.milenio.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxON3hJTTFSMVJIeEdQRmZIZU5JOHdhQkZoNzE4c0NwVVVSX1JaYVQtRXhqd01xelBTeG9ZUTFlZGJFdUdmU3dBNGl3WFlLbnpzZ0Q1ckxyME9KZ3lxemxZVkRNTnBmdjd1dXlUZ0VUTktCZURiN2FmUW5HdnQ4T01GeURTSFpIa2I3THF2bjVKSEVWNmwzZW5XWkpiM3JURWR3SDd3dC1DdjBKR3FLZkZIcG9QNHBTd9IBtgFBVV95cUxQUUdLQk5jM1JZNEE5RGVMcHJHamlkNnJpT1lJcW4yV3daOXFURHRjV19LcC1PamY1ZGZxVEwzblpPdWE0SU1lQ2RTWlE2NWYyZkYwOEZkWlhkeV95OVNBdDVBZXQ3OS1pT1J2a25FZWp5enR6R3Fkd1pneDVld2xaVFlFTV9FQnhIdXZfcDhOSjRRV2R2ckV1X21kV0tLQ2M2OFN3MGJ4R0FSV2FMUkhmR1BESU9OZw?oc=5",
-      "published_at": "2026-11-01T20:30:34+00:00",
-      "regions": [
-        "mexico"
-      ]
-    },
-    {
-      "title": "A new strategy is needed to address the harms related to cocaine and other drugs | Letters",
+      "title": "‘They said we incited riots’: explosive punks Bad Brains on drugs, self-destruction and recording from jail",
       "publisher": "The Guardian",
       "publisher_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUURKNE0wZFoxNkMtRWNXbDc2ektZYlR6WUV1LTE4OHF4aDltY1A1U0JET296VDVZb0tCS1oyd3U4S3lkaUoxdHQ0bUljRXpJSEVQSHVBbXRoQ1B1aEFSV1FrZVZuamx4VHlTWXJJWjcwVVVlWmU2Z3M5TGVPem9jS0YwSDc1ZHVJNzJFRUZRSEZ3SXRoRGw5cmRNTXBkWkN4eUowRkl6LXJWLU1ILUNXSVJYcFRISDJQcDhYa3ZTalNJX0FlZ1Y0?oc=5",
-      "published_at": "2026-11-01T17:29:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQci1IcEN2Zk4xaFZpdnUtdGtxUDZZeXA1emFCSVo4Vlh5OF84dndNV25BVHp6VXRoM1RkU1FrNXV5U3JUVXdtRWduS2VKbWZwSUhUSE5DbGRQNlRRMkhHMEtCN2dhaER3RjhVc2VfMDRUckJQZFZvZmYtSzZ3THZzdC0tM1psNU05NW94QWJXSmpzbng0WjVQeTg3Yk9nRXBQQ1RJ?oc=5",
+      "published_at": "2026-11-02T05:00:00+00:00",
       "regions": [
         "europa",
         "global"
-      ]
-    },
-    {
-      "title": "Conductora de 89 años confunde pedales y se estrella contra farmacia en San Pedro",
-      "publisher": "MILENIO",
-      "publisher_url": "https://www.milenio.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTXotRkU3SW0zcHo3cS00ejZGaFdpTjVLY2toRWxtZjBkc0VraFI3ZU56bm9BZkRRTG9vN0NYYkI1Q2VXSUFpTHBSY1p2UE5XN21EUXpDcnA3QWNiSHRyVDFsTjZDOVFIdEwyUXNHMlVWdXgzYm9LaDVGd0JNRzRnSVNveFFWcThHNWdXRU0taUptbjNuenpoUXhaWW9rdElm0gGgAUFVX3lxTE9XeW5xeG9xUVNlN3VTX3BpbWpmZFR3bk5BWGtIX2lva2ZPLWstdFZ2eWp2aVBtSnN1bVJidHA3TnZlQ2NoRUVwa2R2d3dRcmh1b011MkxXTkJwVUNTaVkxNUlJeWZQelBVR3dZM2toSl9zVW9nb1pFWmVkUEZkUUxOYzFCZ1otR2NHdXR2dERGZ2RSRm5OdnNlakhvZFk1U3Q?oc=5",
-      "published_at": "2026-11-01T17:13:00+00:00",
-      "regions": [
-        "mexico"
-      ]
-    },
-    {
-      "title": "Cupón Farmacias del Ahorro: hasta 70% en Noviembre 2026",
-      "publisher": "El Universal",
-      "publisher_url": "https://www.eluniversal.com.mx",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVnI0QTNHaVkxbzBYemh6MWZfVjFvT2prNlU0SS1VVE54UHpiU196eTlBVS1zWk0wM3FNbXhrSWlxLXZLZkVjejZ0allBM2w4SFBlSE9BVEJybUVoYWdtRXJsMFlKYi1VNWtaY3gyVUVJQ0w2cmZIc21fRmxPOTBpRUJB?oc=5",
-      "published_at": "2026-11-01T12:35:56+00:00",
-      "regions": [
-        "mexico"
-      ]
-    },
-    {
-      "title": "Biological weapons: The weaponization of disease",
-      "publisher": "DW.com",
-      "publisher_url": "https://www.dw.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaU1fTVhmeERHUEp0aVo2VElST2Q4TDA2ZUZaajBJQXhtRklWX3NqX2RxZTNFcHEtd3dhMFZ6cDlCZGhkNVg0NlpadWkyMG5HM3RQWUhQWTRnM2tPNTV3VUNqd1c0NUFpMlQza2NLempscEh1RkFWOGJKbGdQYVE0VnpZbXBWRzDSAYcBQVVfeXFMTmhRa09TclZKWmRvUFd5WUIzZUZCOURaY0lFOXc5NzhhWHdfaE9SRkFoZDRyM0VHblVHV1c1c083YlB0Y2RJM0Jsel9hTnNiM2ZSTHhnNkpxZUJsblVKRV9CeTVIZUM5X2o1LV9vcWE3SGtHWU1DUWhDQWZBVjkwQWU1ck5sZUVF?oc=5",
-      "published_at": "2026-11-01T12:27:59+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "Affordability top of mind for voters in final sprint to midterms: ‘I have to pick between medicine or groceries’",
-      "publisher": "The Guardian",
-      "publisher_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOR1Q1MVhSVkJScHptUHVseXY0NzFZajZjSG1HN2FzV3NwVlFzLXBvTnB5RTJHa0tBdGZ2bERuYzRRckpodk1vRTJ5bnA4ak83cElfVWxoRWk2QTVEXzMzbDJkNWg2MXNGRXhCbnpKVlhpeEpxTTJTOTJtVy1McE9wVDJ3Q0l5RG5sazRNYndfLXkzZGhK?oc=5",
-      "published_at": "2026-11-01T12:02:00+00:00",
-      "regions": [
-        "europa",
-        "global"
-      ]
-    },
-    {
-      "title": "Drug and Alcohol Use, Abuse, and Testing in the Workplace",
-      "publisher": "Reuters",
-      "publisher_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSzJlRWtIZFRyODRWWklQSGFkV2xNMUktUGNwSThLRWVyZE04TDdtdURYY1Q4MkxlaWNQQS1OczRmVVBOWjN3dVp2em12R2FUWFpidlh0aU5aTHNpNWpHS2kwbmk1Zl9vX1dPOW5tM1ozbmFWS1F5WTdna3ZlVjNNenNwbHBDOENqN1JGZmN3SnNYbzFqMWtpMlZubG5OTDJiMmR6SmJHRnU3Q3pHS0gwUmsxdUpoemc?oc=5",
-      "published_at": "2026-11-01T11:12:57+00:00",
-      "regions": [
-        "europa",
-        "usa"
-      ]
-    },
-    {
-      "title": "https://www.bbc.co.uk/schools/gcsebitesize/games/spherox/history/quiz/medicine/57.xml",
-      "publisher": "BBC",
-      "publisher_url": "https://www.bbc.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNc1hZSzhrRk9tMkJ2eE9ndGpCS2ZfYWJwZy04OFpCeUFUMkR3cFNPc1hra09aN0hPTnJuNkhMTUk2dnZxSktkN0RjTE5mUVFtb0JCUFlPWVdob3pMNjFwRnUzd1pPVUZnLVA5Y054M2t5UXZvU05iN3ZlRk1TSktVSGw0d2RZNHlyQ2xlN013?oc=5",
-      "published_at": "2026-11-01T10:06:07+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "https://www.bbc.co.uk/schools/gcsebitesize/games/spherox/history/quiz/medicine/44.xml",
-      "publisher": "BBC",
-      "publisher_url": "https://www.bbc.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbm1ZTnlmT2JxTF93MVRTbmhnSnRtdFZGOUFBdEtxSmdvNXlZbDdMeUVpRVRldmZEaExlTEVaTUo5b2RaZDVwMmk5S3E5ZFBqUmN3QmVPeC1tVEJfdjN2d2xOeUladzlnaEwwLUhsdDVOcTRzMDdHa01CWXBuQ2V1LTdoUmpoM3lRMHltR0lR?oc=5",
-      "published_at": "2026-11-01T10:05:13+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "https://www.bbc.co.uk/schools/gcsebitesize/games/spherox/history/quiz/medicine/72.xml",
-      "publisher": "BBC",
-      "publisher_url": "https://www.bbc.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQU19kY3dvQzNfcENCd2w3UUMxdWNZa2VlQXp4QmJnYWNVZGNDWkJ5SmFKN1FyRUlfU1pfd3ozaDkzellCeWVsdHVNWEl2NGVwdFNyOTc0elY2aDdHUUVkUjYyZkVmcUN6b0Z5YV9kSVRrRTllTGE3ZXo1U0JNTDI0VjRiWjRTTkNyS1lrSHln?oc=5",
-      "published_at": "2026-11-01T10:03:24+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "He Ran a Youth Basketball Empire. He Also Had a Massive Drug Operation.",
-      "publisher": "The New York Times",
-      "publisher_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5CQ0lNLVZqcjdfd0xRVnBTbzlpNWFOVnExMFhxcGE2UENrVFg2VV80UlNUTjZKTHNCNDRLblk1cG1MaWpvU2hjaThQemV0aV82VFpiU2RuS1UycG9XREFucHJFR3ZscEdIZTIyb2tWbGRQeWlHSTZWa29vZ21Pdw?oc=5",
-      "published_at": "2026-11-01T10:00:48+00:00",
-      "regions": [
-        "usa"
-      ]
-    },
-    {
-      "title": "https://www.bbc.co.uk/schools/gcsebitesize/games/spherox/history/quiz/medicine/56.xml",
-      "publisher": "BBC",
-      "publisher_url": "https://www.bbc.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWVBISFpuR0JaU19VUF9BSzdwRS1KWkpyQjBNYUlaWWZkMlpEUjZpMHFNTmI2Q29xeTgwSFg4MlpNLVgtbU43dEROSEdMazNLalN2cjNTdDRzSWVzNUFTcnQ1dnN6dGZfT0hlY3ZneEk4OG1XcHJxeE1ISkhvMF95a0l3ZnJ2bUhJYU5yMExB?oc=5",
-      "published_at": "2026-11-01T08:01:28+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "Bristol Drugs Project: Changing lives for 40 years",
-      "publisher": "BBC",
-      "publisher_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5FN0o2M1NMUTFQbXNjOGE5VDhOaXY3SUFWWkg3cVllNG4tTFVXaHBXM2JhNEp5WlBjQ2xaV1NodjltNFZ4ZmQxVGNoMFhtVV9xVW52cS1MR3U2Y2M?oc=5",
-      "published_at": "2026-11-01T07:21:26+00:00",
-      "regions": [
-        "europa",
-        "global"
-      ]
-    },
-    {
-      "title": "https://www.bbc.co.uk/schools/gcsebitesize/games/spherox/history/quiz/medicine/26.xml",
-      "publisher": "BBC",
-      "publisher_url": "https://www.bbc.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbEhiMmRsUUFkQlJQYWJmMFpOT01LUjBDNWpONVZlTE9KT2RjVmVFdDFTZHlkSl9kZXpyRkFjUk9PbXozZ3FNOUtnZzRrZmhMcEV3TVkyVEFIbEhjVXFVclRueG9DajZwbm11R19FZWRiZEIzTWx2cVkzOHl5RXcwdFg4SEQ5V2pNdkNyUFpR?oc=5",
-      "published_at": "2026-11-01T04:08:13+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "Gardiner Harris, investigative journalist: ‘No industry has been as criminal as the pharmaceutical industry’",
-      "publisher": "EL PAÍS English",
-      "publisher_url": "https://english.elpais.com",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQeHFRMTM1VzdIMnN5WVpBY2RMdk16SHRPT1VianRYVHYxTi1qdGVHT0haVy1EbFBTQVZBcUU4bWZqVkR1aUtDVE1mR2RadEZnQXJHQ1ZpOVkzOHJ3MW5IR1hHQjl0b3RXaUlKRHFOdXZuUlFROV9DNlJRMlZIU0R2U3VVdWw0N002TFpyZUt1cng4bVlObW1MNkQ4aE0tX0dRY0wyZlB3RElTZWNXOWVLV1RKLWhKVUs4VmR4WGFrZmpYN1pYUUJ3MmFaM1d4c1lySU5YTTJvZnpINlY4ZnlsN0lJYTZXY2hjNWkw0gH_AUFVX3lxTE1KUUl0OXpFUjl2TWt0Q0Npa09pV056OFRIWHhvRU5VdzdlQVlJcm4xNmhoM2xkbHZXMEVKS2dNeGpLeXZzSUtCaWlqb0NSWjlHbmp5OGhLY0dTVUMyOWttRUp2Z3pHYlFqMWVlMUdCSm14ZWEzdGFJRi1zcDY1S2hyYk5IdVRFSG5IOFlqY3FkdkdSWVhObzBZdWZDdWV0NHJWNWdwVlBteGFqSy1nUkF1UzNDZ2VfdDZXQ3NNQnY4SjVtTkIyLVI2bDlFOXZ5NDJQdUR0Tm05T2RaZ1NNNGVPRjVxa0h0eElPbEo2WEdYM3JwLXRYcEdWajJCMnV0MA?oc=5",
-      "published_at": "2026-11-01T04:00:00+00:00",
-      "regions": [
-        "europa"
       ]
     }
   ],
