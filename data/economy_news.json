@@ -1,7 +1,7 @@
 {
   "date": "2026-11-01",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-01T21:13:13+00:00",
+  "checked_at": "2026-11-02T00:47:50+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -38,7 +38,7 @@
     "finance": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 1
     },
     "securities": {
       "ok": true,
@@ -82,6 +82,23 @@
     }
   },
   "items": [
+    {
+      "title": "Captaciones del sistema financiero dominicano crecen 15.9 % y alcanzan RD$ 3.5 billones",
+      "publisher": "Acento",
+      "publisher_url": "https://acento.com.do",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVmxXRDdGd0R5ZjFob0hFbU8wMWdPUk5UMDNvcVV0cUF4N2E1RmcxanI1bUw1Q2h1elBuRWlkTGxuX3NocTVjaF8tbmtuNEJEUFZnRG5BWTFFQzZlRmZudVRlM0ZMSVlVRnUxaGQ3QnZpWUd4UU1tT00yR2xBMGF6OGNvb3IwOUIyMFBTVTlHU1FMb2hJYzE2QURTRHpOY3M5T3BIeVdPc1M2OVhhRTJHQlZmcGNMeEl6dm9YR0k4Qlh4QkZxX2fSAcYBQVVfeXFMTlZsV0Q3RndEeWYxaG9IRW1PMDFnT1JOVDAzb3FVdHFBeDdhNUZnMWpyNW1MNUNodXpQbkVpZExsbl9zaHE1Y2hfLW5rbjRCRFBWZ0RuQVkxRUM2ZUZmbnVUZTNGTElZVUZ1MWhkN0J2aVlHeFFNbU9NMkdsQTBhejhjb29yMDlCMjBQU1U5R1NRTG9oSWMxNkFEU0R6TmNzOU9wSHlXT3NTNjlYYUUyR0JWZnBjTHhJenZvWEdJOEJYeEJGcV9n?oc=5",
+      "published_at": "2026-11-01T23:00:23+00:00",
+      "topics": [
+        "economy",
+        "finance"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "economy",
+        "finance"
+      ]
+    },
     {
       "title": "Primera Feria Nacional STEM ofrecerá becas y oportunidades de empleo a jóvenes",
       "publisher": "El Caribe",

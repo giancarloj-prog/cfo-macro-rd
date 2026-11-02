@@ -1,7 +1,7 @@
 {
   "date": "2026-11-01",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-01T21:13:14+00:00",
+  "checked_at": "2026-11-02T00:47:51+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -14,7 +14,7 @@
     "rd": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 1
     },
     "centroamerica": {
       "ok": true,
@@ -34,24 +34,33 @@
     "europa": {
       "ok": true,
       "error": null,
-      "count": 9
+      "count": 16
     },
     "global": {
       "ok": true,
       "error": null,
-      "count": 5
+      "count": 3
     }
   },
   "items": [
     {
-      "title": "AstraZeneca Launches $1.5 Billion Savings Plan to Fund Drug Pipeline",
-      "publisher": "WSJ",
-      "publisher_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQejR4NXo5eVU1eUNHZ003ZGN6Wkp3YmdlYjFmdHN4cF83d0xfQVFORHp5azBoTHhHMmplMkV1dUhmZVc3ekNDb1R3TzBWOEJ5eDJ6bDVHQ2lTNkZLS1d0THpEWGxhQTNDUUZmRXppQkJMTWtFaU5uenFHTW5pZ3EtZl9ZV3g4b3BNajl3a2YxbTRWNWljRi05OGxzcGk4TTV3N0QzV1FmSHlWMW9oUXM2cXFhbk0?oc=5",
-      "published_at": "2026-11-01T21:01:52+00:00",
+      "title": "Drugs, cash and weapons found in South Wales Police e-bike raids",
+      "publisher": "BBC",
+      "publisher_url": "http://www.bbc.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9hcmRUTWxBckFDcjhOOFgtU1E2VEV2VVgwM2JZdk5Nd3kxdE5hSU9xUG9RYkgzVEtLbVdkUGp4dkdXbTRHVHZCbjNDaWtPVEFaNTVncjRlQkZFYlVI?oc=5",
+      "published_at": "2026-11-01T22:01:45+00:00",
       "regions": [
-        "global",
-        "usa"
+        "europa"
+      ]
+    },
+    {
+      "title": "Damac impulsa actualización de herramientas para mejorar acceso a medicamentos de alto costo",
+      "publisher": "El Nuevo Diario",
+      "publisher_url": "https://elnuevodiario.com.do",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZzl6LUhXZDZ3MVY4WTRLRXYtejBGX19DdUxyQjY2MkNWRjlGMkVLLURfSHBscEprR3llMV9sVzVqVVNSSFRUcWlqanlmdHRXNlE2OFlBZVNfUlBZdFh5anhCUV96YVNnSHZ0VjlpZWJxTUZyUnN6dVZBR3pfRTUzVjQ3cHdLOE96YVNzaG9ObXlKU2xfN0hUMlFmUFU2Z21aME11RFdaMHk3R3B3Z2V4MjJvajlsMlYtZWlwNjZIaw?oc=5",
+      "published_at": "2026-11-01T21:26:29+00:00",
+      "regions": [
+        "rd"
       ]
     },
     {
@@ -66,7 +75,7 @@
     },
     {
       "title": "Policía mexiquense detiene a 9 por robo de medicamentos en Edomex",
-      "publisher": "MILENIO",
+      "publisher": "Milenio",
       "publisher_url": "https://www.milenio.com",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxON3hJTTFSMVJIeEdQRmZIZU5JOHdhQkZoNzE4c0NwVVVSX1JaYVQtRXhqd01xelBTeG9ZUTFlZGJFdUdmU3dBNGl3WFlLbnpzZ0Q1ckxyME9KZ3lxemxZVkRNTnBmdjd1dXlUZ0VUTktCZURiN2FmUW5HdnQ4T01GeURTSFpIa2I3THF2bjVKSEVWNmwzZW5XWkpiM3JURWR3SDd3dC1DdjBKR3FLZkZIcG9QNHBTd9IBtgFBVV95cUxQUUdLQk5jM1JZNEE5RGVMcHJHamlkNnJpT1lJcW4yV3daOXFURHRjV19LcC1PamY1ZGZxVEwzblpPdWE0SU1lQ2RTWlE2NWYyZkYwOEZkWlhkeV95OVNBdDVBZXQ3OS1pT1J2a25FZWp5enR6R3Fkd1pneDVld2xaVFlFTV9FQnhIdXZfcDhOSjRRV2R2ckV1X21kV0tLQ2M2OFN3MGJ4R0FSV2FMUkhmR1BESU9OZw?oc=5",
       "published_at": "2026-11-01T20:30:34+00:00",
@@ -134,7 +143,6 @@
       "published_at": "2026-11-01T11:12:57+00:00",
       "regions": [
         "europa",
-        "global",
         "usa"
       ]
     },
@@ -159,6 +167,36 @@
       ]
     },
     {
+      "title": "https://www.bbc.co.uk/schools/gcsebitesize/games/spherox/history/quiz/medicine/72.xml",
+      "publisher": "BBC",
+      "publisher_url": "https://www.bbc.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQU19kY3dvQzNfcENCd2w3UUMxdWNZa2VlQXp4QmJnYWNVZGNDWkJ5SmFKN1FyRUlfU1pfd3ozaDkzellCeWVsdHVNWEl2NGVwdFNyOTc0elY2aDdHUUVkUjYyZkVmcUN6b0Z5YV9kSVRrRTllTGE3ZXo1U0JNTDI0VjRiWjRTTkNyS1lrSHln?oc=5",
+      "published_at": "2026-11-01T10:03:24+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "He Ran a Youth Basketball Empire. He Also Had a Massive Drug Operation.",
+      "publisher": "The New York Times",
+      "publisher_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5CQ0lNLVZqcjdfd0xRVnBTbzlpNWFOVnExMFhxcGE2UENrVFg2VV80UlNUTjZKTHNCNDRLblk1cG1MaWpvU2hjaThQemV0aV82VFpiU2RuS1UycG9XREFucHJFR3ZscEdIZTIyb2tWbGRQeWlHSTZWa29vZ21Pdw?oc=5",
+      "published_at": "2026-11-01T10:00:48+00:00",
+      "regions": [
+        "usa"
+      ]
+    },
+    {
+      "title": "https://www.bbc.co.uk/schools/gcsebitesize/games/spherox/history/quiz/medicine/56.xml",
+      "publisher": "BBC",
+      "publisher_url": "https://www.bbc.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWVBISFpuR0JaU19VUF9BSzdwRS1KWkpyQjBNYUlaWWZkMlpEUjZpMHFNTmI2Q29xeTgwSFg4MlpNLVgtbU43dEROSEdMazNLalN2cjNTdDRzSWVzNUFTcnQ1dnN6dGZfT0hlY3ZneEk4OG1XcHJxeE1ISkhvMF95a0l3ZnJ2bUhJYU5yMExB?oc=5",
+      "published_at": "2026-11-01T08:01:28+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
       "title": "Bristol Drugs Project: Changing lives for 40 years",
       "publisher": "BBC",
       "publisher_url": "https://www.bbc.com",
@@ -167,6 +205,16 @@
       "regions": [
         "europa",
         "global"
+      ]
+    },
+    {
+      "title": "https://www.bbc.co.uk/schools/gcsebitesize/games/spherox/history/quiz/medicine/26.xml",
+      "publisher": "BBC",
+      "publisher_url": "https://www.bbc.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbEhiMmRsUUFkQlJQYWJmMFpOT01LUjBDNWpONVZlTE9KT2RjVmVFdDFTZHlkSl9kZXpyRkFjUk9PbXozZ3FNOUtnZzRrZmhMcEV3TVkyVEFIbEhjVXFVclRueG9DajZwbm11R19FZWRiZEIzTWx2cVkzOHl5RXcwdFg4SEQ5V2pNdkNyUFpR?oc=5",
+      "published_at": "2026-11-01T04:08:13+00:00",
+      "regions": [
+        "europa"
       ]
     },
     {
