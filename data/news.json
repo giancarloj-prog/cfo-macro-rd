@@ -1,7 +1,7 @@
 {
   "date": "2026-11-02",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-02T20:24:23+00:00",
+  "checked_at": "2026-11-03T02:57:23+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -14,35 +14,130 @@
     "rd": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 2
     },
     "centroamerica": {
       "ok": true,
       "error": null,
-      "count": 2
+      "count": 1
     },
     "mexico": {
       "ok": true,
       "error": null,
-      "count": 3
+      "count": 4
     },
     "usa": {
       "ok": true,
       "error": null,
-      "count": 13
+      "count": 14
     },
     "europa": {
       "ok": true,
       "error": null,
-      "count": 33
+      "count": 34
     },
     "global": {
       "ok": true,
       "error": null,
-      "count": 13
+      "count": 16
     }
   },
   "items": [
+    {
+      "title": "Novartis Raises Guidance Despite Drug-Trial Setbacks Hitting Profit",
+      "publisher": "WSJ",
+      "publisher_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaVFMeFV6aEp4TlZ0cGg2SVBPSVoxTlp5cnlFLTl5TU16QUtBeXNfcFFMelg3QUg2WVkwdmFpbXpqNDZYcmJxNWFJcFhNRU90MWhSdzZNejFNeVVTd21ZeHZKZnk2SU5OZWhURXpmVHpkWXJ4V01iRDh6MnBKQ1RXb2JTSjhOVmFURVF6ejlYcURla2NLUl9rcnNRMmdyVGlndlRBSTZweWpuTmU5Nmc?oc=5",
+      "published_at": "2026-11-03T01:33:51+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Cupón Farmacias del Ahorro en Noviembre 2026",
+      "publisher": "El Universal",
+      "publisher_url": "https://www.eluniversal.com.mx",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVnI0QTNHaVkxbzBYemh6MWZfVjFvT2prNlU0SS1VVE54UHpiU196eTlBVS1zWk0wM3FNbXhrSWlxLXZLZkVjejZ0allBM2w4SFBlSE9BVEJybUVoYWdtRXJsMFlKYi1VNWtaY3gyVUVJQ0w2cmZIc21fRmxPOTBpRUJB?oc=5",
+      "published_at": "2026-11-03T01:23:23+00:00",
+      "regions": [
+        "mexico"
+      ]
+    },
+    {
+      "title": "Illumina selected to help bring precision medicine into everyday healthcare in Singapore – Company Announcement",
+      "publisher": "Financial Times",
+      "publisher_url": "https://markets.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZmlwNjlHS3hnb1JObUliMTdHdUtQNEdxU05mcm40SVBkWnRtclpEZFI3eU1TUlpDdUJtRDJrWFpJM0c2M3JFSGpESkQydVQ4SkthQnNYYmRxZGxXQlhQR0ZLeXBVNTNrU1R0cW9FeEZuZnNqZ3A2RVU0R1phQjBTc2FzaTJQMnJQOV8xN1d1LTdCQkVycVF6eQ?oc=5",
+      "published_at": "2026-11-03T01:00:00+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "How advanced AI can improve clinical trial decision-making",
+      "publisher": "Fierce Pharma",
+      "publisher_url": "https://www.fiercepharma.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNVhMUVJJeGh2cnlZTldteU1JMWhNZW9GUG9xYnozOFE4Q2FfNlZ5eHp1YVllMFlmV3JGa1JTbm5BTjEtWENwR0d5SDBiRzZJVUthTjVtVVJrdjNDT3R5RjZZbkNJdk5ZNzJfOWdta0lJcnNNY1g0cGVWWDhGbDVDd24yZGVJZ0w1UmhFVGFoZFh0WUlERTRzTkNjMnY3dw?oc=5",
+      "published_at": "2026-11-03T00:31:34+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "A West Point cadet drugged his girlfriend to force an unwanted abortion. Then he went to grad school",
+      "publisher": "AP News",
+      "publisher_url": "https://apnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcW1YekRsTGJuY3pvNUlQQ3pUeE1QdWZELTZVTWRDdTdyVVFNbXluOG9uQVhaaVBZRzlYMXJyMXlzdjVlanZFNXZIMnBoQXFWTnJSNG1Jd2M2eGI4dGRXNjV6ZExIREFUQjJXT0hyWlV4a3VRandKNEVDTXhhVU1hTXpNV0gwODBodmU4cDVuTU5aSHN2Y1lmbFdoNEdBeHhlaVgyRWhfWU4wVEk?oc=5",
+      "published_at": "2026-11-03T00:16:00+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Dr Reddy's gets tentative US FDA nod for generic HIV prevention",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSG11NU5pb3lsQ0x5amc3cUlHTVFMQWJDdDJPQWg2RVpDeWRfSjU4NGdBX19MXzRiY0lrRmg4cElQZ0lvRF9UdlNFYXJPdUQ5YWUyVEhHd0lGcmhTUndzQ1Q0M1NNeHYtbFpHQnR0SVpscG0xdEZ3eXNhclJXX1RoQWJHRWhHTTU2WEJWZTZ4MzhPVVJTalYzQlRBdmN3Tmx3XzRJLTlkVExrYkxKTUxwSQ?oc=5",
+      "published_at": "2026-11-02T22:31:55+00:00",
+      "regions": [
+        "europa",
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Novo Nordisk shares hit record on obesity drug boom",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5YNElYRExZREF4bEpUeExvQ0NnWmItSDI5d2d1SmZlNWZyNUxERE5nbU40bnAxSWE3amZXNjFzZFVIRWNKNG92TkRmNlozTE0zRlItVk5kaXJqTHlnZU9RMmxfZnp6R2s?oc=5",
+      "published_at": "2026-11-02T22:06:34+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "Cipher Pharmaceuticals Schedules Q3 2026 Earnings Release and Conference Call – Company Announcement",
+      "publisher": "Financial Times",
+      "publisher_url": "https://markets.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORDFndXpRYVltWDYwMVBlMExNcC1ZUWFLWXNzUzFZQl9vN2FlQ19ORkRPazZObGktOEFaN1RIZWtqbnBLLUdUdmJMNzluN0FRT2swenVGVEczS1ZnN0NwS3pNaHktOTRHMHJoaXVRSXVXSERuWXpjQkEyWVFLTG1zV3IyTlRsZ1RudkJET2ZYWjd0cFloQXc?oc=5",
+      "published_at": "2026-11-02T22:00:00+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "Guardian Pharmacy Services, Inc. to Participate in Upcoming Stephens Investment Conference",
+      "publisher": "Financial Times",
+      "publisher_url": "https://markets.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNlhaMWwyRnN6VnpMUDdoMDd4WU44SzAyZHpCbW9uZDZJOGp0VXRDRmJtSGRMb2h4TmhJWlFzRnVfMjNsc3BVVnQxMXNWLTlfWnN1MVpCRHN4S3VpRUFMTWZ1S3lFcy1tUFlvVzJWel91VnNjTGR2eVo5a291SFhWVFl1MmNHNlVuTko3R2NrMUxYRU1kQUs3UzRCeVlTaUZxNUtHU1N3?oc=5",
+      "published_at": "2026-11-02T21:30:00+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
     {
       "title": "Hansoh, Samsung Biologics hit with FDA write-ups after inspections",
       "publisher": "Fierce Pharma",
@@ -55,21 +150,30 @@
       ]
     },
     {
-      "title": "How advanced AI can improve clinical trial decision-making",
-      "publisher": "Fierce Pharma",
-      "publisher_url": "https://www.fiercepharma.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNVhMUVJJeGh2cnlZTldteU1JMWhNZW9GUG9xYnozOFE4Q2FfNlZ5eHp1YVllMFlmV3JGa1JTbm5BTjEtWENwR0d5SDBiRzZJVUthTjVtVVJrdjNDT3R5RjZZbkNJdk5ZNzJfOWdta0lJcnNNY1g0cGVWWDhGbDVDd24yZGVJZ0w1UmhFVGFoZFh0WUlERTRzTkNjMnY3dw?oc=5",
-      "published_at": "2026-11-02T18:31:34+00:00",
+      "title": "Reciente en Unitaid acceso medicamentos",
+      "publisher": "Diario Libre",
+      "publisher_url": "https://www.diariolibre.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBsS1JUSzJ3UDduUzQwQnJFb1YyMlFLcXdMaElTNFlRRmdObG5Bd3h1QWJqdUNyVG01T2lreHphQ3dZNTVJZ08tLUMxNzZrQmhXS3lDS2JySkpzekpHNUZrU2pfeVBFOVNmOTlnbkJ2OTNNMkZQZWc?oc=5",
+      "published_at": "2026-11-02T19:39:11+00:00",
       "regions": [
-        "global",
-        "usa"
+        "rd"
+      ]
+    },
+    {
+      "title": "Desabasto de medicamentos en el sector público responde a decisiones políticas: Clúster Médico de SLP",
+      "publisher": "El Universal San Luis Potosí",
+      "publisher_url": "https://sanluis.eluniversal.com.mx",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNVFh3eHJTY3dqYi0xeDRGWHpuaV9aQTVJNG9FanVucjlwcVlOUjZ0dGtxMWZ1TlJXLWcxZWkyZDRpdDZoNkZHb19UV3dmS0tvVnBxUXh4ZDlLbGw5SjNhV3dOVXdzS2dhTUlINzUyd2o0MGtYVlhld1JVRXRzUlI0bURsWFJrajhsRDJWY1l3Y1FUTW1PMmx4UkJzdUJreXpPUGFwLVJsc1dzWVlCbHJ4QU5JR3pzbWo5LWFzTTZzVGdYV1hUNVhrdHFjNHdLVjh4SXlYMHVSNWRQOHfSAe8BQVVfeXFMTVBueV84N25ZbEJQR2xpS3NZOUVseVNhalM5QjZUazdMOGk3Y0JTbEpRVU1fSkZ5V1Qya09qd0dMcG51WlZuWXdqQlNad0x2dkZkX0s0TnQ2SUJnRWVUNHNubk9DU1hSSlVPUGZiVDNCOWpYdC1Fc24tamRZNDdiMEpneWQ3aHhpNERHRjd1MC1WRW9DbHlUZjlLcUMwXzlwcEpyMjJlSDItQTFRWjdkcDhVUTZqRzVDUjFBTWhZbzVHd29QUWt2dnlGZjN5eUhKMGtTTXEyUDJ6bXkwMGh4dXg1MzZnREZtSjhvZ2wzcEE?oc=5",
+      "published_at": "2026-11-02T18:56:34+00:00",
+      "regions": [
+        "mexico"
       ]
     },
     {
       "title": "Jail for group who smuggled drugs into prisons in food packets",
       "publisher": "BBC",
-      "publisher_url": "https://www.bbc.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ENUhsV3EzNVZRUDJ1ZlU2QmVFdWc4dnVEdnd4Ni1NdkZnR2pWanc2WEk5MWlUVDNJbVU2Tk1WMlBLTkJKZXhlQ1RhbzBfSHZxRXJNLUZTTVo1ZEt6Mnc?oc=5",
+      "publisher_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16eTZSbXFXdlV2MDd5VjY2U3BIamVtNnF2U1FzVUVJNlF0SEJzdmJIUktuX3lYdWlzYy1JRnhod0c5S0hUeGIxNDdmR3ZVMGNCWHRmdnlZU3Bjanc?oc=5",
       "published_at": "2026-11-02T17:58:22+00:00",
       "regions": [
         "europa"
@@ -87,16 +191,6 @@
       ]
     },
     {
-      "title": "AstraZeneca Launches $1.5 Billion Savings Plan to Fund Drug Pipeline",
-      "publisher": "WSJ",
-      "publisher_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQejR4NXo5eVU1eUNHZ003ZGN6Wkp3YmdlYjFmdHN4cF83d0xfQVFORHp5azBoTHhHMmplMkV1dUhmZVc3ekNDb1R3TzBWOEJ5eDJ6bDVHQ2lTNkZLS1d0THpEWGxhQTNDUUZmRXppQkJMTWtFaU5uenFHTW5pZ3EtZl9ZV3g4b3BNajl3a2YxbTRWNWljRi05OGxzcGk4TTV3N0QzV1FmSHlWMW9oUXM2cXFhbk0?oc=5",
-      "published_at": "2026-11-02T17:29:36+00:00",
-      "regions": [
-        "usa"
-      ]
-    },
-    {
       "title": "Mezclar medicamentos sin control médico aumenta riesgos para los adultos mayores",
       "publisher": "CR Hoy",
       "publisher_url": "https://crhoy.com",
@@ -104,17 +198,6 @@
       "published_at": "2026-11-02T17:07:44+00:00",
       "regions": [
         "centroamerica"
-      ]
-    },
-    {
-      "title": "Dr Reddy's gets tentative US FDA nod for generic HIV prevention",
-      "publisher": "Reuters",
-      "publisher_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSG11NU5pb3lsQ0x5amc3cUlHTVFMQWJDdDJPQWg2RVpDeWRfSjU4NGdBX19MXzRiY0lrRmg4cElQZ0lvRF9UdlNFYXJPdUQ5YWUyVEhHd0lGcmhTUndzQ1Q0M1NNeHYtbFpHQnR0SVpscG0xdEZ3eXNhclJXX1RoQWJHRWhHTTU2WEJWZTZ4MzhPVVJTalYzQlRBdmN3Tmx3XzRJLTlkVExrYkxKTUxwSQ?oc=5",
-      "published_at": "2026-11-02T17:02:07+00:00",
-      "regions": [
-        "europa",
-        "usa"
       ]
     },
     {
@@ -262,7 +345,7 @@
       "publisher": "STAT",
       "publisher_url": "https://www.statnews.com",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaUhjNVU4NDhaOWR2cHR3eHB6bjBQNkxxYVpWbkJGMUVUcGxOQVFnQ3ppRFI4bFNXbVFtTmUwS01OalJxM01NbnZ0MzFjYzYwNEwwY01ZZFNncU1TMXdKWFIxVVROZGVzZDVVQi1xSmdfNnU1ak9jUV9uUkhPcWYxbWtsUl9aVVE0YzRlQzhDZmdmZW5jTjgyMXNncjZ1OVlHdVAyNHVQSk1BZlo4WFA0?oc=5",
-      "published_at": "2026-11-02T14:23:17+00:00",
+      "published_at": "2026-11-02T14:25:07+00:00",
       "regions": [
         "global",
         "usa"
@@ -400,16 +483,6 @@
       ]
     },
     {
-      "title": "Revisamos la cantidad de recursos de amparo por medicamentos entre 2013 y 2026: vea cómo aumentaron",
-      "publisher": "La Nación Costa Rica",
-      "publisher_url": "https://www.nacion.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORlJ2a3p6Nko4Q2RZRlhtSDBxTXYtamlPa2JfejBDcmpISDJEdnFtVTRUeUlfWXBiYUhDRVByWFM2Q2RBV0tFcnpvcTUzNzJqbFVvampFeTN6eXk5bnhPbTUxUzVFUVBPeS1CS3lwQllicEZBVkJpZk9TenJCNzA4OVE3dW9nSk5DYTdjalJGSjA5R29wSU1pWnBBQ29pbk92TnZvcTI1REJHU2M1UmdrcXdn?oc=5",
-      "published_at": "2026-11-02T10:00:00+00:00",
-      "regions": [
-        "centroamerica"
-      ]
-    },
-    {
       "title": "ISMAI 2026: Florence to host international symposium on the safe and responsible use of artificial intelligence in medicine",
       "publisher": "pharmaphorum",
       "publisher_url": "https://pharmaphorum.com",
@@ -456,7 +529,8 @@
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPai0wUnhSX2h0MFNQMmFFSFRZd2p4V3ZrdXRzbko1djNCWGFKcTlPY2NNVGlaME1kUk1GczFrWk0xenBxd3k1V1BWRnBvY2lENWxWazFVeVBqRXMwUjR0QzhJRzVTYnFaY1lFMWV6eTh3dUc4U2xhNUJZb250S251Q1dQaURhX0llM3U0VmkyWkFVXzdVQ012blI5cUlJaFBzcEVXc2dHcVltUS1PT0QyUXVxU21ucmhFZk9FUHpsRkZfWDRWaXU1SDA5OWJJNHpjQkV5ejlmZkJMNDNlVWszXw?oc=5",
       "published_at": "2026-11-02T06:56:00+00:00",
       "regions": [
-        "europa"
+        "europa",
+        "usa"
       ]
     },
     {
@@ -467,17 +541,6 @@
       "published_at": "2026-11-02T06:47:00+00:00",
       "regions": [
         "europa"
-      ]
-    },
-    {
-      "title": "Fresenius signs biosimilars pipeline agreement with WuXi Biologics",
-      "publisher": "Reuters",
-      "publisher_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZUExbThDNUEyOUhjM1ExYk13ZFhRWFJ3N29UYzJyaFFUV3FrTXJWNnFESmlGdW9UbWZNUTd3SERKM1ZXcUYwT1ZTSTU0WlBnUHVjODZDNnJKUWVFTXNrc2lYZmJxQlp5R2wzZ2VaSFI2cGFaUW0zNmc4ci14RGx0Z1VwRXpDSVpOWF8tS2JubTBQSjd4WTFZR2lLc0xWZlVacmV2UXl3Z3RqNC1UQlcwc294NGNXNEowbG5r?oc=5",
-      "published_at": "2026-11-02T06:29:00+00:00",
-      "regions": [
-        "europa",
-        "usa"
       ]
     },
     {
@@ -499,16 +562,6 @@
       "published_at": "2026-11-02T06:00:00+00:00",
       "regions": [
         "europa"
-      ]
-    },
-    {
-      "title": "Cupón Farmacias del Ahorro: hasta 70% en Noviembre 2026",
-      "publisher": "El Universal",
-      "publisher_url": "https://www.eluniversal.com.mx",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVnI0QTNHaVkxbzBYemh6MWZfVjFvT2prNlU0SS1VVE54UHpiU196eTlBVS1zWk0wM3FNbXhrSWlxLXZLZkVjejZ0allBM2w4SFBlSE9BVEJybUVoYWdtRXJsMFlKYi1VNWtaY3gyVUVJQ0w2cmZIc21fRmxPOTBpRUJB?oc=5",
-      "published_at": "2026-11-02T05:51:47+00:00",
-      "regions": [
-        "mexico"
       ]
     }
   ],
