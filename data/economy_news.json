@@ -1,7 +1,7 @@
 {
-  "date": "2026-11-02",
+  "date": "2026-11-03",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-03T02:57:22+00:00",
+  "checked_at": "2026-11-03T06:59:07+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -23,32 +23,32 @@
     "bcrd": {
       "ok": true,
       "error": null,
-      "count": 3
+      "count": 1
     },
     "fiscal": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 0
     },
     "dgii": {
       "ok": true,
       "error": null,
-      "count": 5
+      "count": 0
     },
     "finance": {
       "ok": true,
       "error": null,
-      "count": 5
+      "count": 0
     },
     "securities": {
       "ok": true,
       "error": null,
-      "count": 3
+      "count": 0
     },
     "economy": {
       "ok": true,
       "error": null,
-      "count": 6
+      "count": 1
     },
     "economist_andy": {
       "ok": true,
@@ -58,7 +58,7 @@
     "economist_jaime": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 0
     },
     "economist_juan_ariel": {
       "ok": true,
@@ -73,7 +73,7 @@
     "economist_jose_luis": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 0
     },
     "economist_nassim": {
       "ok": true,
@@ -83,309 +83,11 @@
   },
   "items": [
     {
-      "title": "Deuda pública de El Salvador supera los 35.267 millones de dólares, un 4,3 % más que 2025",
+      "title": "España aporta el 14.4 % de la inversión extranjera hacia el país en el primer semestre del año",
       "publisher": "Diario Libre",
       "publisher_url": "https://www.diariolibre.com",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPM2hRNF9pY2NRcXJsN2FNMDhmU1NoQkRQZW50b3g0dExMTjIwYzkxb3RTMUlTc25BMnZNRW8yMS1ZSnFpdG0xMENtcHVrRXc5bEpTeGJCSDZBdV96TjNDdXd1amg4TkRJc2F4WnVwVXVVeGNST2RKblhUVUw0WGJIMFd0SC1jc0ZjcmhTc2ZZR1FoYjNSUS1WN0Z6d2N3NERQeEEzdU5YUEg4Z1ZVd0FadFBUYnNPNC16XzNleWc0aU9VZTdTY0hFU0VSY2swUdIB0wFBVV95cUxNb3ZtLUVWTU5XcEdfdmk1RWFTWWYwZFljT2dvV21IdGxIOWl0NVRXcWh4Y1dqNlZDbTZTZTB5X0tacm9fYWJnc29XM2xmcnVvSjZjU3R5bFRMQ3NZamVGVWZzRWZmNURHNG96WFY4cHZoUEh5QTF6UHBYd01qTmhOTzV2Q3pmOE56eU8yajRuQktZckM3bVdWYWZUOFhnY1BBS29iVU5MeDd0ZlRJeTRHNVluaXRJTEY0NHZNcmRjRV81Q0FfVm1zTlV6bXBBcDBSYktr?oc=5",
-      "published_at": "2026-11-03T02:20:00+00:00",
-      "topics": [
-        "fiscal"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "fiscal"
-      ]
-    },
-    {
-      "title": "Raquel Peña y José Paliza defienden aumento del marbete debido a situación económica de RD",
-      "publisher": "El Nuevo Diario",
-      "publisher_url": "https://elnuevodiario.com.do",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVDB1UnZUYUU5T0FLXzBpVUtUQ0FtVzlxWEZSZlY2clZsWmVKNm12QmJnTHIwekh6OG91U0l0bWFFc0x4cGRZVUNwcXVXSjZhUEhxcjFHSkt0a1hSZmdLTllLN1Azd0RDcnctN2dEQVBrSk9JQlh5UEZJME80YkdQY2pYU2FTVW9VQzVWWVZlcXZWMWdYQ3ZEdEV1RlNOOXFBdFE1OTk3RjNDWE9Bc3IzTWYtOHFERWZ0S1RXTg?oc=5",
-      "published_at": "2026-11-02T23:16:22+00:00",
-      "topics": [
-        "securities"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "securities"
-      ]
-    },
-    {
-      "title": "Banco Popular presenta en Londres oportunidades de inversión en turismo y energía en República Dominicana",
-      "publisher": "Acento",
-      "publisher_url": "https://acento.com.do",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPUmRPZDcwcjR2b2REdU05QkFxeDZZaTJfclV4bkQzZlA2d1FGRVY4THEzWE5MSWpjQmwtMnZBV210a2NYVTRxa0I3RzMzZ2dFMDZzX3lNeURxV0puN0VBVFhrbGhvUEZQOHZFZFQydDBxdmNjc1Mwd3k2QlVyd0dwWEZmWHhWanVYV09LeHluLVB0eXpzNmVTeXdhR3hCdUpwekdLTk52SE5nbkdlbTZaLWMxXzZ6VkJ6eEhNdEFDaEdHcjhUWjJJNlNIZ3hwWjR6RkVvWjA5MjhZNE0yVzlQM1BaRdIB4wFBVV95cUxPUmRPZDcwcjR2b2REdU05QkFxeDZZaTJfclV4bkQzZlA2d1FGRVY4THEzWE5MSWpjQmwtMnZBV210a2NYVTRxa0I3RzMzZ2dFMDZzX3lNeURxV0puN0VBVFhrbGhvUEZQOHZFZFQydDBxdmNjc1Mwd3k2QlVyd0dwWEZmWHhWanVYV09LeHluLVB0eXpzNmVTeXdhR3hCdUpwekdLTk52SE5nbkdlbTZaLWMxXzZ6VkJ6eEhNdEFDaEdHcjhUWjJJNlNIZ3hwWjR6RkVvWjA5MjhZNE0yVzlQM1BaRQ?oc=5",
-      "published_at": "2026-11-02T22:00:09+00:00",
-      "topics": [
-        "economy",
-        "finance"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "economy",
-        "finance"
-      ]
-    },
-    {
-      "title": "Canciller Ito Bisonó fortalece cooperación y vínculos económicos en España",
-      "publisher": "Acento",
-      "publisher_url": "https://acento.com.do",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTDBUZ1pweE9Wc2REdXZ5eVVhYkRfdDRhc0FKNUwtVVktb2NXendCX2Fac3RFQ2VkSm8xanFBN0tPWUtoNVo4ODhaZXlNMUI5OHJHdFBGYmNCN2xFZGJkTmhJWkUwbGJhMGpnNGVhOWpDZnFlak9pMzY1eVlvemdIakFfeGdqM1JUQzFUYVdqekJDSmd4eGJIRlB2UURidWI4Wlp6S2FBbWh4ZXA3NmxXS0w0OVdqR3Fjemw40gG7AUFVX3lxTE9MMFRnWnB4T1ZzZER1dnl5VWFiRF90NGFzQUo1TC1VWS1vY1d6d0JfYVpzdEVDZWRKbzFqcUE3S09ZS2g1Wjg4OFpleU0xQjk4ckd0UEZiY0I3bEVkYmROaElaRTBsYmEwamc0ZWE5akNmcWVqT2kzNjV5WW96Z0hqQV94Z2ozUlRDMVRhV2p6QkNKZ3h4YkhGUHZRRGJ1YjhaWnpLYUFtaHhlcDc2bFdLTDQ5V2pHcWN6bDg?oc=5",
-      "published_at": "2026-11-02T21:15:54+00:00",
-      "topics": [
-        "finance"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "finance"
-      ]
-    },
-    {
-      "title": "Banco Central ofrece recital “Sólo pianistas” con motivo de su 79º aniversario",
-      "publisher": "Listín Diario",
-      "publisher_url": "https://listindiario.com",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYU83a3ZBMHRLYVUtZHpVWUIzMnlpR2tRbmdyNVFuMnllX0xCWmxGVXRpUVZQekIyOGxiOERBWWREM2RaVTlOYlMyUk55VHl6T3RDRklkeV9KYk51U3FoekNsSGFDUG5RR0ltQVVWY01vZWIzTkJnZGhOam0zMlpTMzNmZjJSRnpqRjJDUDZ6QXJoeTBYRFA5elNxMU9GRXVMUEtlWlprZ1ljRkxLYW04TDBvQlUzdlJUZmgxbjRlUm0yeTDSAcgBQVVfeXFMTzFjV3NGc2YzUzBtNWV6VFBWeFliTENWUFN3MU5mbC1BMUxlSDY5blhDR0UtZzN1QUNBV1B2THoxMnNwVEFxaWFhdGRyMEx4RFpvNGY4bnlobXFmN2tNLV8yN2tVT010djZIX2kwbXZGNHdrSmctTy1KdGI2dnpPQ3BJOUdoYXJ0cVZ5dURwYVUtT01wanlZcTNPSFotX0w2WjVSUlY4UmtmUFQ1VEhiV1V6TXctRmxPTXJ2RlgwWWpJN20zMU1YTnI?oc=5",
-      "published_at": "2026-11-02T20:01:09+00:00",
-      "topics": [
-        "bcrd",
-        "finance"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "bcrd"
-      ]
-    },
-    {
-      "title": "Banco Popular identifica oportunidades de inversión en turismo, energía y manufactura en RD",
-      "publisher": "Acento",
-      "publisher_url": "https://acento.com.do",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNGlyaWZFcWRpY3pNVkhENXdmczhfVEhPdlhSSmxxWEY0YkZ2NTVQa20yNnBhRy13WkZuNVhnZU84OUVJWVh5YzFqOS1INk5ldDJ0LTJtRTc4X3RwWm9lVUdMRkhEcVIwTTZURmZiTHkzSUFJUEJHaGRhZU43RUNsbGExOWI1em9BNUQzanEwQTJPdmw1OXBsZ0VxeVJyYlBpWDZCVi0tWThITTlZZ29PWkVKR0RIclVLN0RsWHR4ZFI0RUp6TVFZVG13ejU3R0nSAc8BQVVfeXFMUDRpcmlmRXFkaWN6TVZIRDV3ZnM4X1RIT3ZYUkpscVhGNGJGdjU1UGttMjZwYUctd1pGbjVYZ2VPODlFSVlYeWMxajktSDZOZXQydC0ybUU3OF90cFpvZVVHTEZIRHFSME02VEZmYkx5M0lBSVBCR2hkYWVON0VDbGxhMTliNXpvQTVEM2pxMEEyT3ZsNTlwbGdFcXlScmJQaVg2QlYtLVk4SE05WWdvT1pFSkdESHJVSzdEbFh0eGRSNEVKek1RWVRtd3o1N0dJ?oc=5",
-      "published_at": "2026-11-02T19:43:19+00:00",
-      "topics": [
-        "finance"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "finance"
-      ]
-    },
-    {
-      "title": "Banco Popular promueve en Londres las oportunidades de inversión de República Dominicana",
-      "publisher": "Periódico elDinero",
-      "publisher_url": "https://eldinero.com.do",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPby1HUTlES3A3TDV0NVpaMjJDUFpBOGZpaEpCNW9DWm1qVjU1UDludXV0RWUxNzdULVpoVTB2c29EZ0Q0ZG54a2xabDFfem5wcWd1SmQzaE1GTnd6aGtXdHcteVV0ckZmMFBGTDRkZE9FaWJwT09FOUJmNk55RUU4eGxRZ3JFV1RaOFBUaldoR3pZT0J5VncxZUppVVF0ejV1NGpWelFmaEw3S0szdmtzVWdqV1BqTDhWMmI3dw?oc=5",
-      "published_at": "2026-11-02T19:32:18+00:00",
-      "topics": [
-        "economy",
-        "finance"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "economy"
-      ]
-    },
-    {
-      "title": "DGII explica cómo identificar facturas electrónicas ante su obligatoriedad el 15 de noviembre",
-      "publisher": "El Nuevo Diario",
-      "publisher_url": "https://elnuevodiario.com.do",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSl9ic3JkTWtiTmJ1Rkc3QlFIdnd5WGRVa3Rpb2NDbURrcUlwdjdhY1pvZmswWW80dzZNcGJqTHk2b3dXY3VoM3JBckZEbjlsdVU2ZXNaandnd0paelhQS0hmLWV4SHM3cVJ3My02ZkZWb2dyY3VDOXNJQ1FEZWZOVXFlckVxaURqbVo3S1RCVUR2V25JTHRMajFmNlpLTmpqV05hWERheFNfVFgzQ3h5YjI1V2NGbUZfZ0Yxb2ZJX0k?oc=5",
-      "published_at": "2026-11-02T19:01:38+00:00",
-      "topics": [
-        "dgii"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "dgii"
-      ]
-    },
-    {
-      "title": "Depósitos en dólares en la banca dominicana alcanzan los US$ 17,867 millones",
-      "publisher": "Acento",
-      "publisher_url": "https://acento.com.do",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcjNFaTU3Q2tNaHBRR0xpTlI1NFcyc21Ja0F3WWxkdzQzb3hoOEx3SzRBMFE1aEk2WEZ3SzloalliVzloVE50YVd5WVhkVkdJbGt5TE5QMnE1Y0NBZTlXZlJwSjF4a1l0b1dKNTRTLTluZmlKQXVDOTh1Z3YxQm1zZGtiRTl1NzVjbTJCV3RMd0hVVUxnUDlNalF2dmFJcHZjZXlYc1E3WHJaVlZEckc5WjF4TnU5M2V4UXfSAboBQVVfeXFMTnIzRWk1N0NrTWhwUUdMaU5SNTRXMnNtSWtBd1lsZHc0M294aDhMd0s0QTBRNWhJNlhGd0s5aGpZYlc5aFROdGFXeVlYZFZHSWxreUxOUDJxNWNDQWU5V2ZScEoxeGtZdG9XSjU0Uy05bmZpSkF1Qzk4dWd2MUJtc2RrYkU5dTc1Y20yQld0THdIVVVMZ1A5TWpRdnZhSXB2Y2V5WHNRN1hyWlZWRHJHOVoxeE51OTNleFF3?oc=5",
-      "published_at": "2026-11-02T19:00:14+00:00",
-      "topics": [
-        "finance"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "finance"
-      ]
-    },
-    {
-      "title": "Crecen un 15 % los depósitos en moneda extranjera en la banca dominicana",
-      "publisher": "Listín Diario",
-      "publisher_url": "https://listindiario.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOEowYVZscjdzcXdEMEVMY05lZXM1ZWtNOU15d3dTdnZyZWlTQ1dCOVNsVkF6cjl2UHVsN1lfS0xNeUJ5T29NSmx2c2pxU3hKbWxwVFFZV0dxTUhLQy1pd1JtbzduSUxHN190NUltaE1ZZDR0SUdhMF9RdTE3XzZYWkpPUTlJck1ubTNDVWJ1UDNuMEdGdnZhcVJLOVotbmlCU1NpNHZGNDJXRmFRdlJ0T2tQONIBuAFBVV95cUxONmRzbElMcF9mSGREcUF1cFdEYWk2VUdpVFpNYm9EaE1RUDh1dFZQSzRRUXIxTHB1Z052ZHpxYXpVeVNKb2NtRUJiSm9WbGtqbHdYYmx6SjJKMTg4V1huRHFkdGdLdXlaVENVWE56RXJLWkZ0YzBJRFlSVmFkeTFFVWJZODd2YnVhTlRmYzl2QWY1cDBrMTFqM1JXMzNPaHpqWUh4WWUteFhkSXBzWVRvc0J5V1dIMUIw?oc=5",
-      "published_at": "2026-11-02T17:20:01+00:00",
-      "topics": [
-        "finance"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "finance"
-      ]
-    },
-    {
-      "title": "Alza del petróleo amenaza con encarecer el costo de vida en República Dominicana, advierte economista",
-      "publisher": "El Dia.com.do",
-      "publisher_url": "https://eldia.com.do",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUVJ0VWRVd2M3YXc3SUJSaUdtTFZPd0R1X3RMODVmSVZwRjZCWUFhTnFYTjVmVlBvV0JtV09DeFR4TXZPeW11XzNlMEtEZS00eXhyendNY0xqSHQweVIwTk96UUFHS3BremJuWExxakRCRE1yd0dBd09ELTdmQ0FpMW1LeGtvNU9GZWsyQ3JPUGRxSlUzcjZKR0ZUSU55cW5qNlhjdEpMTHJlb2o3QkNSelhaMDI2RjRmYWJ4Ulgtaw?oc=5",
-      "published_at": "2026-11-02T16:01:32+00:00",
-      "topics": [
-        "economy",
-        "opinion"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "economy"
-      ]
-    },
-    {
-      "title": "Tras fallida reforma fiscal, estos son los nuevos impuestos que tendrás que pagar",
-      "publisher": "El Dia.com.do",
-      "publisher_url": "https://eldia.com.do",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMEFoSVNodng4ZzlyV1BiU0JTM0xTeU94OTRQRnhVdnV0WXljd0VqWkswMUdXQjNMbktiNDBXMV9kNlQ2RmYtQ3Zja1dhRF81QnZmMTJZd0lGbHBXNlJrNDktTWJWQkx4RklxYUFjQ19nZVE4YUtzWkxpaHU5UUpTVDROYl9WOFVYS0hsRjFOM21wQ2kxeXk3SEpDU29jNlhyZVpCRA?oc=5",
-      "published_at": "2026-11-02T15:18:17+00:00",
-      "topics": [
-        "dgii"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "dgii"
-      ]
-    },
-    {
-      "title": "Gobierno recurre a ajustes de tarifas e impuestos en medio de la crisis internacional",
-      "publisher": "El Dia.com.do",
-      "publisher_url": "https://eldia.com.do",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeHVkWHlWWFFnVWhCNEpZZDdwd1p1YVkwUmFGNFd4SWp4Wjc0UGZ1NnEydzEtQ0ZPdUxhWExfRk80aGFjLW9xUVB2QkowMUpUM0hJZHlGQlhaSzBrN05EZnEzVDZ1ZjFhYVBDLV9vY3B5TUhqY1pISmhRRjNMZzZ5NlB5OXVSQjhMNFNuOWNrMTBWR1ZCUENPUWxuNjl2OTlDNnpueGJGblA2Qm8?oc=5",
-      "published_at": "2026-11-02T15:02:05+00:00",
-      "topics": [
-        "dgii",
-        "opinion"
-      ],
-      "economists": [
-        "juan_ariel"
-      ],
-      "economist_match": "search",
-      "searches": [
-        "economist_juan_ariel"
-      ]
-    },
-    {
-      "title": "Director de DGII dice que no se ha recaudado lo previsto para cubrir subsidios de ley anticrisis",
-      "publisher": "El Nuevo Diario",
-      "publisher_url": "https://elnuevodiario.com.do",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYTIyV3ROWkQ4aUUyQllJanBCQldEcGE0b3JfNEZwblFDN2pQZk9Cb3djS3dJM01EdzlQcU5tMkNaQzJRQ2RJRURFVG5yV3NwOXdMOFJhZTVPWS1QcF9yWGtFbEc0enJaX3h0Y0VleUo4NlBBRFRvQzZpZldpWlpLZjhvZUp3VWl6cTdZU0hZX1FGcHQ3a21ua2hQMG1KSWNSLVhKN05nczBsSzhlTjA3NS1lRFV2OS05Y0t4LWpqV29udzB3?oc=5",
-      "published_at": "2026-11-02T13:46:38+00:00",
-      "topics": [
-        "dgii"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "dgii"
-      ]
-    },
-    {
-      "title": "Déficit cuasifiscal del Banco Central bajó de 1.4% del PIB a 0.5% en seis años",
-      "publisher": "Periódico elDinero",
-      "publisher_url": "https://eldinero.com.do",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUUxqdFZZTkd6SXd4bmJJcDNVcW1aOE9MT3pENnBLYU5KYmZ0eE1XaUJONFhNN3hsRzRxRHpsZ0ZBdWcyYnVUREt2TDJPSmhIUXhUNkxia25LR0pMblJGUUhOTEtEVXFyd0V1dVAtenFzY1ZZNGhTX1B2VGdZU3llZTZUdmV1RFlMV3U3S1lyRFBJOUFtS1VvaTJlNkFidTdPMUVXV043eXV5UkRt?oc=5",
-      "published_at": "2026-11-02T12:56:05+00:00",
-      "topics": [
-        "bcrd",
-        "economy",
-        "finance"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "bcrd",
-        "economy"
-      ]
-    },
-    {
-      "title": "La DGII cambia las facturas: qué pasará con tus comprobantes fiscales",
-      "publisher": "Diario Libre",
-      "publisher_url": "https://www.diariolibre.com",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMGJ0aTJzSHM5dmZvQ1FrOFJPS0RLZFlRUXhDMi1JTFJNTG1oa2xBRFZHQ2JEV3FwRlRKNVEyS3loVG5mYkhUbEtPUl8tNE9VMEl0bTVycURTRGlVdHNwazdMRlBLbWdJQ0d0SW9nbDJlWWRDbktaWjZpN3k3SjhPVXNVc0E2cEtxUUd4bXVQQUwzQnZ3NmxDTXlLYVBrT1BLbHFDZ2J3enljN3cwQWJXV1JnQVdvOWYxcnJEcWxoLVNNUdIBxwFBVV95cUxPQ0Faa3dlNUNFSXBWT09oYWUxOVJyOTl5Z3hJcFBzNlFrSWw1cDFmUlk5dnM5OU9XejhqdXEwd1VaMFhkd3VCQlBUT0ROaUNpM0M1elNldDBlSV9QVFpZVmFyd1UxbkRNd3lMeE5qa2p2UkRjUVRPS1JzSWplWG1ucF9MTG5vLU9aXzQyVERGOUVoaFcta05GcEJqZHBubDVTbW5xdU42N1BrdlV4RGE4dmZBeGtSeldUY3Rxb1Q3dzNETmsybE9J?oc=5",
-      "published_at": "2026-11-02T12:25:00+00:00",
-      "topics": [
-        "dgii",
-        "economy"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "dgii",
-        "economy"
-      ]
-    },
-    {
-      "title": "El Nuevo Diario AM - Politización, 4 % y deficiencias en aprendizaje, entre los principales desafíos de educación dominicana abordados en RD Debate; Entrevista a Eladio Rodríguez, gerente de Facturación de la DGII",
-      "publisher": "El Nuevo Diario",
-      "publisher_url": "https://elnuevodiario.com.do",
-      "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxNUjVXTkJwVDVSNlF3bTlxZ0FsdXVWVV94SU9DbnFQMktlbTkxMW5BVzR6SUliRzZOWlE1OFJxcDZOemtmbUE5TDk0X2lJMmFrUXNCQTdjcHJLNDBBR1M3TWt1UXpEVE0xTHNqeWtUSXlNT2w0T254ZG9yMk80X1RkTUpiendfSjh1Zk9JVUxvZGxUZHVDdjF6bmtJSGJEQy1ORldReU5yYlRReDgzdHFLOER1NnR6N3VsYktwdjE1UmdvVmhMZkFNOFE2ZTFuT1Zha3J5cDJXdnVrTmYwZDBzWlRvb1NNS2ttZXpNV0pwYnBuVXZzMWVIWHlrcmszUTNISkZxenh6bXllNlhUMnhab1hrTVlOQ2dyY0tWa1BHRDlPc0hpUTJBeEhHb290VGpYZVFaWUdCUmdCR0E5d1lmSU9KX3pzel9TMXc?oc=5",
-      "published_at": "2026-11-02T10:28:42+00:00",
-      "topics": [
-        "dgii"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "dgii"
-      ]
-    },
-    {
-      "title": "Politización, 4 % y deficiencias en aprendizaje, entre los principales desafíos de educación dominicana abordados en RD Debate; Entrevista a Eladio Rodríguez, gerente de Facturación de la DGII",
-      "publisher": "El Nuevo Diario",
-      "publisher_url": "https://elnuevodiario.com.do",
-      "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxNUjVXTkJwVDVSNlF3bTlxZ0FsdXVWVV94SU9DbnFQMktlbTkxMW5BVzR6SUliRzZOWlE1OFJxcDZOemtmbUE5TDk0X2lJMmFrUXNCQTdjcHJLNDBBR1M3TWt1UXpEVE0xTHNqeWtUSXlNT2w0T254ZG9yMk80X1RkTUpiendfSjh1Zk9JVUxvZGxUZHVDdjF6bmtJSGJEQy1ORldReU5yYlRReDgzdHFLOER1NnR6N3VsYktwdjE1UmdvVmhMZkFNOFE2ZTFuT1Zha3J5cDJXdnVrTmYwZDBzWlRvb1NNS2ttZXpNV0pwYnBuVXZzMWVIWHlrcmszUTNISkZxenh6bXllNlhUMnhab1hrTVlOQ2dyY0tWa1BHRDlPc0hpUTJBeEhHb290VGpYZVFaWUdCUmdCR0E5d1lmSU9KX3pzel9TMXc?oc=5",
-      "published_at": "2026-11-02T10:28:42+00:00",
-      "topics": [
-        "dgii"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "dgii"
-      ]
-    },
-    {
-      "title": "Efectos de la apreciación del peso en la economía RD",
-      "publisher": "Hoy Digital",
-      "publisher_url": "https://hoy.com.do",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUDNWLWFxSU13QzhGSUVHNGJwTWwxMFRSMXZlZjN2NE1tVGU5dTBXMnpHYWNDOHBSdm5vdmVyN2t1Qi1BRldaMTBuTFNEMldWaWNsb3d0TUQ2M01ycnZCeFZpV3BmZkdLXzZmMkJiRURPbXdvaUxjcmtIdXFTRWxDb2FTSWszVU3SAYcBQVVfeXFMTVAzVi1hcUlNd0M4RklFRzRicE1sMTBUUjF2ZWYzdjRNbVRlOXUwVzJ6R2FjQzhwUnZub3ZlcjdrdUItQUZXWjEwbkxTRDJXVmljbG93dE1ENjNNcnJ2QnhWaVdwZmZHS182ZjJCYkVET213b2lMY3JrSHVxU0VsQ29hU0lrM1VN?oc=5",
-      "published_at": "2026-11-02T04:05:00+00:00",
-      "topics": [
-        "economy"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "economy"
-      ]
-    },
-    {
-      "title": "¿Por qué RD acepta el doble de la meta inflación que EE. UU.?",
-      "publisher": "El Dia.com.do",
-      "publisher_url": "https://eldia.com.do",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObjJTcTNuTFN3eUl6dVNaYXNDMVBISERsaksxd1dfZXdQT0loSzJnREd5elVLMlJ6bnU1Q3JTcmdPc29FMFRmdEZFS3hudUswR2tzN18yUnJaV0hZUG5UU1VKTFRCLW9objhtRFN1dnBodUF4LTBiYk9ERk82STlGdHlPajZfUQ?oc=5",
-      "published_at": "2026-11-02T04:01:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMDFrZU55V3ZZRTVZbEl0Ui1MRzJubC15QVYxbElpcnNHQzNhOERIcU9HSHRTNW5hanBqdkNLcjQyZzRkVm1pSHM4TFlEdURSYUYzMmR4bkRzODVxaGtPTE1nYXh4X3BJQ0ZpOUQzT2hFaU9obkl0VXQ0aEhYLWdhWFY3SFRtd0pleXRzNklHNHQtaHdZSTdKZUtTbUtOcVBJeTMtT0xfTFc4QXUzdjRKVEFuLVJRQkoxTDM0NDlmRmtCTzc5U0FYMtIBzgFBVV95cUxONTNiU0U1U3k1VzkzcUV6Wk5ldmtUcml3NGtBVGp4d2hrbmNKQ3RQTEVzUGowYkEwUG43QlBxZC1WT0VXNFQtYWxocXlMMFdxVl94QWlUN1NYUlN5TFdzRXhfbFdtcnBPRmFiejIzWmFEMEE3SnBldk5BMjdwS2stV1BNSEsyTHE1WjNncGJNcmh2cjRLZ1FxQS03dnBDUWNUYll4WjIybncxbEg5UlI1VkxBRGliUmgxaTE3d0R1UWdnMzZYbjJBaGExTG5JZw?oc=5",
+      "published_at": "2026-11-03T04:02:00+00:00",
       "topics": [
         "bcrd",
         "economy"
@@ -395,61 +97,6 @@
       "searches": [
         "bcrd",
         "economy"
-      ]
-    },
-    {
-      "title": "Segunda edición del Financial Summit 2026",
-      "publisher": "El Dia.com.do",
-      "publisher_url": "https://eldia.com.do",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9qOVFyTzlHUHpQLVcyMDdiVzlLX3F1V0M5amtwU2s1TkxKRHJ0b2dxOXM0WER5Q3NodDBXVWFZUHpHVk1vZ04xanlHZWFKV0hxTXBielNiV3F1OHJnOWZuMWdnc3o0djdENnJBQXJBalA?oc=5",
-      "published_at": "2026-11-02T04:01:00+00:00",
-      "topics": [
-        "economy",
-        "opinion",
-        "securities"
-      ],
-      "economists": [
-        "jaime",
-        "jose_luis"
-      ],
-      "economist_match": null,
-      "searches": [
-        "economist_jaime",
-        "economist_jose_luis",
-        "economy",
-        "securities"
-      ]
-    },
-    {
-      "title": "Fondos de inversión duplican en menos de tres años sus activos",
-      "publisher": "El Caribe",
-      "publisher_url": "https://www.elcaribe.com.do",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQ2xLN0pSN1QxODRBRDVia1c4QjQtVVhWWGcxOG4yakFOVjk0bWJSWW93Q0hfdk15bHNFc0FycS1WZm9fSjhZSUpDenFObTBmY1cydm5tQXcyZUwxUWEtN2FxQnVWbTYyaEtPRWRWVThwdlNfblN1XzBnUGpRN3JCbEljMTlsMlo5ZC1kTFB0a2ZzcGFrVV9YQTNGRlVJaGc3UURibkliZDBiNE0?oc=5",
-      "published_at": "2026-11-02T04:00:00+00:00",
-      "topics": [
-        "economy",
-        "securities"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "economy",
-        "securities"
-      ]
-    },
-    {
-      "title": "En camino más impuestos y mayor control fiscal",
-      "publisher": "Listín Diario",
-      "publisher_url": "https://listindiario.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOS2sxMk5Qd3lYbFNTcTlWRUJaMFlIVHRseVNtaGQ0LWx4cTR3aDYzRGxvaXluY3FBZEFCQlE3d1BNejVQWWNXUTExSUQ3UzFwajlZOS1rdU1mbS1YNWtoY01jT255STB3c1hRd0J6dmRTS0VDc21EYjJETzI4YXpkOUtOazllMms1aklKRmxDcWltc0hYT3dra3FkUUZNS2g1RmRlV1oxN0VsQXROem96Q1Zxa9IBswFBVV95cUxOS2sxMk5Qd3lYbFNTcTlWRUJaMFlIVHRseVNtaGQ0LWx4cTR3aDYzRGxvaXluY3FBZEFCQlE3d1BNejVQWWNXUTExSUQ3UzFwajlZOS1rdU1mbS1YNWtoY01jT255STB3c1hRd0J6dmRTS0VDc21EYjJETzI4YXpkOUtOazllMms1aklKRmxDcWltc0hYT3dra3FkUUZNS2g1RmRlV1oxN0VsQXROem96Q1Zxaw?oc=5",
-      "published_at": "2026-11-02T04:00:00+00:00",
-      "topics": [
-        "dgii"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "dgii"
       ]
     }
   ],
