@@ -1,7 +1,7 @@
 {
   "date": "2026-11-03",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-03T17:52:57+00:00",
+  "checked_at": "2026-11-03T23:26:11+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -23,12 +23,12 @@
     "bcrd": {
       "ok": true,
       "error": null,
-      "count": 2
+      "count": 4
     },
     "fiscal": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 2
     },
     "dgii": {
       "ok": true,
@@ -38,7 +38,7 @@
     "finance": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 5
     },
     "securities": {
       "ok": true,
@@ -48,7 +48,7 @@
     "economy": {
       "ok": true,
       "error": null,
-      "count": 4
+      "count": 7
     },
     "economist_andy": {
       "ok": true,
@@ -82,6 +82,146 @@
     }
   },
   "items": [
+    {
+      "title": "Fitch proyecta que la deuda pública dominicana baje a 47.9 % del PIB en 2026",
+      "publisher": "Listín Diario",
+      "publisher_url": "https://listindiario.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZ0YtZXN1VGRGNHRxcndkTGkxN3E3SU9kNW5nMWhMV2FJZWZOVWVSVkNvcHhfUEJlMWpjWUVVNF9QemkwZ2dieDZkR3RQNWkzSzN1d2lTQmFoZjZkNm9VVE9UaEFQVW9pY3ZpanpwRGo3dTRLejhGdWtybGFEYnFGV2JOTFVTaTF6ZnhUVHNBNWducXZfUFozd3dSa1lYbVVEQVd5WkhZLUc1d0FTZFVRY19pME9FMmJMRjF0ZTJzONIBxAFBVV95cUxQSi1wR085a0xUR2prTmNYMXJuTkRMSHpvZGt2NFdhRW1zZ2wzaTZYNVJOZHAzbUd4elRTS2lxQkRRZGxjNzBCdVlYWXVGMC1sVEpWTENyZVJDT3RzUVBQT3hWUXEySlJYNEkwTFBtbVZyTFNmVWQ2XzdNUWt2Szl2Tm0wX1FhSmxudWJuRjBBWHc4QUtUU3NkbUJwYTZjLTF3TUExNWhIUFdhVUR0RHVGMXJRRVF1SENQb1VEQy1VWUZCVTcz?oc=5",
+      "published_at": "2026-11-03T21:53:35+00:00",
+      "topics": [
+        "economy",
+        "fiscal"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "economy",
+        "fiscal"
+      ]
+    },
+    {
+      "title": "UASD presenta investigaciones sobre economía dominicana en VIII Congreso Internacional de Historia",
+      "publisher": "El Nuevo Diario",
+      "publisher_url": "https://elnuevodiario.com.do",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYTc5MndfMS1XZ0V2ZHpOMUVnUVVkYlZVREE3ajdSWVV1WExBcjNPa1NmQzFJaEE0eGhIbndtRUYwTmRQUGo1YWV1d1hsNE5rZk41NVlIWUowTDg0X3dPV0NVc1BXSEJ6TEhjSXpTSkpWcmJidEVlSnF1OXJhTmhCc19MYnZlWVhoVE9nLXZmeUYwU19jUllsLTI1akV3cHpMZjJod011b0dMZE0wMGJmRTZSMVEtb1ZIWWFtMXlITy1hOFJuVDA4?oc=5",
+      "published_at": "2026-11-03T20:31:40+00:00",
+      "topics": [
+        "economy"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "economy"
+      ]
+    },
+    {
+      "title": "Los bancos no tienen que convertirse en venture capital. Pueden financiar el contrato",
+      "publisher": "Periódico elDinero",
+      "publisher_url": "https://eldinero.com.do",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeDJNU0tFdHgxZV9DNkhTb3hoWGc5Q19oM0s4bWYzUmhPaU1wYVd2N3pRSlJmWGF0RWtCckRJNVcxWUNkdWtucXduVFdkM0ZTSmRvNkVUUGJKampYWTVoVlV2TWJtMHdYbEMtMHAwVEdrS3J5eDdYZ2hHTWRJZEpSZVVPajBfYUtjdXJDMlRLblhyVTNURXRYT1ZGa3dzWVFLSGFjOFZFUVZmSFlFZjhoamZCUGhQTnc?oc=5",
+      "published_at": "2026-11-03T20:17:48+00:00",
+      "topics": [
+        "finance"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "finance"
+      ]
+    },
+    {
+      "title": "RD fue el segundo mayor receptor de inversión extranjera del Caribe en 2025",
+      "publisher": "Acento",
+      "publisher_url": "https://acento.com.do",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxON2UxVnFVVDRzZ0VqX0JHRWowRm0tX2xBaGRjT1EwUnZnang5RG9UVFl6OW50ejFqTFhiTTA1ZWZvR21WSW5USG1ZMDRBYVpfR0M0SFNxbUk4UUJ0bFZibjJuaE9TN1l0Tm96NENJSlFrcUJTdU1VVmliNGp0UmNvU3phcUdDSlQxNnhudHNxWmFEUlBKNTF1WUFBakpSXzNPMnBfTlc4N3ltdFNiZm84bEtUZTRNRnBhZU040gG7AUFVX3lxTE43ZTFWcVVUNHNnRWpfQkdFajBGbS1fbEFoZGNPUTBSdmdqeDlEb1RUWXo5bnR6MWpMWGJNMDVlZm9HbVZJblRIbVkwNEFhWl9HQzRIU3FtSThRQnRsVmJuMm5oT1M3WXROb3o0Q0lKUWtxQlN1TVVWaWI0anRSY29TemFxR0NKVDE2eG50c3FaYURSUEo1MXVZQUFqSlJfM08ycF9OVzg3eW10U2JmbzhsS1RlNE1GcGFlTTg?oc=5",
+      "published_at": "2026-11-03T20:00:04+00:00",
+      "topics": [
+        "finance"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "finance"
+      ]
+    },
+    {
+      "title": "Premio Nobel de Economía participará en encuentro financiero internacional en República Dominicana",
+      "publisher": "El Dia.com.do",
+      "publisher_url": "https://eldia.com.do",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNT2hRS1lVZnMzS19tcHVVdjZGbVpIenlhVW96Wnp4YkVJR0JyMWhnTjVqZ2g3NmZlVnlnMjZiOUVUancwN1pnUVl1MXhaUEF5TlNNbmxLTmxmenNieGZtWEdMZ1dSWTRSZ1RhTjFTSWJFaUE1SE9OaWhUR0tmS3psSnlMYjJlSjgwQWZELW9USHJwOFFxcFRJM2lEYVpkOEVoQVo4NmRBSzZHbHhuNVRKcWg4ajNPZWF1VS05Tw?oc=5",
+      "published_at": "2026-11-03T19:42:01+00:00",
+      "topics": [
+        "economy"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "economy"
+      ]
+    },
+    {
+      "title": "Fitch proyecta que deuda pública de RD baje a 47.9% del PIB en 2026",
+      "publisher": "Periódico elDinero",
+      "publisher_url": "https://eldinero.com.do",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeVAwRGdrYTRnUHVUZ0lWZF9kUkk4N0FpRndNcGI4N1l1WWtVSTFtamduRXNZNnJQVFVCc1R4WlNJM0ZtNEhzcmZiMTlOeDhOQnFuMWRqYnpBUzdvOV94bjNmMXNPaXY0eTdiM3JyNDFNeHAtTFA3c09HWEFqNzBKZzIyeW13czNzQkg5ZHl6ald5VkF4amZueFhhTXVYZzQ?oc=5",
+      "published_at": "2026-11-03T19:30:16+00:00",
+      "topics": [
+        "fiscal"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "fiscal"
+      ]
+    },
+    {
+      "title": "Banco Popular financia al turismo dominicano con RD$ 97,901 millones",
+      "publisher": "Acento",
+      "publisher_url": "https://acento.com.do",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOd1hzSzhMTWJQSVNfOVEtSVJ6ZTlmbDZObzBiQWJTd3BkQTZwSmVzSWdLUDJLSV9FRDd4SDhRaG5kMzJ5N1FlTXh1eTJuUDVmRzJiV0RjYlNRT3BZOWZuVUJlMGEyZnhXQy1wdmRwNnBaVnJ5N1duMmo2MWNXay0tTTgwaEl6akN3WE9Cay00b1pSMnF4bVkzUGJ0Z0lleW9EUldhTWJFWGVmSHVfMzRn0gGvAUFVX3lxTE53WHNLOExNYlBJU185US1JUnplOWZsNk5vMGJBYlN3cGRBNnBKZXNJZ0tQMktJX0VEN3hIOFFobmQzMnk3UWVNeHV5Mm5QNWZHMmJXRGNiU1FPcFk5Zm5VQmUwYTJmeFdDLXB2ZHA2cFpWcnk3V24yajYxY1drLS1NODBoSXpqQ3dYT0JrLTRvWlIycXhtWTNQYnRnSWV5b0RSV2FNYkVYZWZIdV8zNGc?oc=5",
+      "published_at": "2026-11-03T19:20:57+00:00",
+      "topics": [
+        "economy",
+        "finance"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "economy",
+        "finance"
+      ]
+    },
+    {
+      "title": "Fitch proyecta que la deuda pública dominicana baje a 47,9 % del PIB en 2026",
+      "publisher": "El Caribe",
+      "publisher_url": "https://www.elcaribe.com.do",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPckhJX0xaUnZUdTcxN1FjRHRuWW9wTzNkRGFLNi1tOWZWV0tXY1YwOXlrQlVrNTdfTXhobDUzQi1ESG5uVkVDbFVSd1NObFJRSGVTSmkxa2Z0MzVFNkFOZnhIa05uRjR2T0FpQXprc3BpaHdjM3Q4YWJqcVd1Y0p2Sk5OdFh4VFdJUWpUMjFEdkFzQjVsZ2tPMV9zekpCcnpaSUhIZGs0OUh0YnJpU2NySQ?oc=5",
+      "published_at": "2026-11-03T18:53:14+00:00",
+      "topics": [
+        "bcrd",
+        "fiscal"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "bcrd"
+      ]
+    },
+    {
+      "title": "Reino Unido y RD exploran oportunidades de inversión para transición energética",
+      "publisher": "El Caribe",
+      "publisher_url": "https://www.elcaribe.com.do",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWHpSQ2h3dXJkM29rM0pjSkZYUEp0MXEtZVAxeC1yWm1ueURMdFdpUThwdWVsTFhFb1BzTWFRLTBsVlFWdUZxcUxUU1JxSmVuSXgxbm40dkxoZnFScTY2TlZnOTVUaXVqUFlkMllEVnRTSVRBOGFYUWUyZWRwWTI3RHl6SDQza3JFblpQOWw5ZkotUWNhSm5vRTNjLW5uN0tMYm5hODdrLXhGV3dhYXZWdkR4eU9jTHNMYnNwb0FTWQ?oc=5",
+      "published_at": "2026-11-03T17:14:09+00:00",
+      "topics": [
+        "finance"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "finance"
+      ]
+    },
     {
       "title": "Fallece el economista Milovan Pérez Prats, asesor de varias instituciones del Estado",
       "publisher": "Acento",
@@ -121,12 +261,16 @@
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPREozcjQ3bUJ0MEtLeXFCcF9LR2RzTVQzaWxHN0FHUVVKWVUwUTVUWGVSOTk1cTFSVUY3YWVkM05zd0Jyb3JtQlVncUtaMlBjcHlYTU0yZWVQUXRyNEJtMi15YzhSMWppM0FJSzdPSEVOLWlXQzFfMERWdDU1ZjdYUHhfckotYmE1dEFlTFE3TXNhb3JUcGd3Q3BDdV9PeHRJdWFKVVdCa0tZekdxMmtFUFdhaVM4OE82bHg4SWVoWTE1QW9xdXdjbdIByAFBVV95cUxPREozcjQ3bUJ0MEtLeXFCcF9LR2RzTVQzaWxHN0FHUVVKWVUwUTVUWGVSOTk1cTFSVUY3YWVkM05zd0Jyb3JtQlVncUtaMlBjcHlYTU0yZWVQUXRyNEJtMi15YzhSMWppM0FJSzdPSEVOLWlXQzFfMERWdDU1ZjdYUHhfckotYmE1dEFlTFE3TXNhb3JUcGd3Q3BDdV9PeHRJdWFKVVdCa0tZekdxMmtFUFdhaVM4OE82bHg4SWVoWTE1QW9xdXdjbQ?oc=5",
       "published_at": "2026-11-03T08:00:19+00:00",
       "topics": [
-        "economy"
+        "bcrd",
+        "economy",
+        "finance"
       ],
       "economists": [],
       "economist_match": null,
       "searches": [
-        "economy"
+        "bcrd",
+        "economy",
+        "finance"
       ]
     },
     {

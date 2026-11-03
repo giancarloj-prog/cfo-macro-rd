@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-03T17:52:54+00:00",
+  "checked_at": "2026-11-03T23:26:08+00:00",
   "series": {
     "resins": {
       "name": "Resinas termoplásticas",
@@ -263,7 +263,7 @@
         "qoq": -8.56,
         "yoy": 6.7
       },
-      "verified_at": "2026-11-03T17:52:54+00:00"
+      "verified_at": "2026-11-03T23:26:08+00:00"
     },
     "corrugated": {
       "name": "Cartón corrugado",
@@ -527,7 +527,7 @@
         "qoq": 5.11,
         "yoy": 7.95
       },
-      "verified_at": "2026-11-03T17:52:54+00:00"
+      "verified_at": "2026-11-03T23:26:08+00:00"
     },
     "paperboard": {
       "name": "Cajas plegadizas",
@@ -791,7 +791,7 @@
         "qoq": 1.7,
         "yoy": -4.29
       },
-      "verified_at": "2026-11-03T17:52:54+00:00"
+      "verified_at": "2026-11-03T23:26:08+00:00"
     },
     "ethanol": {
       "name": "Etanol",
@@ -1055,7 +1055,7 @@
         "qoq": 4.89,
         "yoy": 5.36
       },
-      "verified_at": "2026-11-03T17:52:54+00:00"
+      "verified_at": "2026-11-03T23:26:08+00:00"
     },
     "aluminum": {
       "name": "Aluminio primario",
@@ -1067,10 +1067,6 @@
       "id": "aluminum",
       "url": "https://www.worldbank.org/en/research/commodity-markets",
       "history": [
-        {
-          "period": "2021-09",
-          "value": 2835.0
-        },
         {
           "period": "2021-10",
           "value": 2934.0
@@ -1310,18 +1306,22 @@
         {
           "period": "2026-09",
           "value": 3283.0
+        },
+        {
+          "period": "2026-10",
+          "value": 3061.0
         }
       ],
-      "period": "2026-09",
-      "value": 3283.0,
+      "period": "2026-10",
+      "value": 3061.0,
       "changes": {
-        "mom": 0.98,
-        "qoq": -4.54,
-        "yoy": 23.75
+        "mom": -6.76,
+        "qoq": -3.16,
+        "yoy": 9.6
       },
       "download_url": "https://thedocs.worldbank.org/en/doc/74e8be41ceb20fa0da750cda2f6b9e4e-0050012026/related/CMO-Historical-Data-Monthly.xlsx",
       "methodology": "Histórico completo reconstruido con Banco Mundial; no se empalma con FMI/FRED.",
-      "verified_at": "2026-11-03T17:52:54+00:00"
+      "verified_at": "2026-11-03T23:26:08+00:00"
     },
     "sugar": {
       "name": "Azúcar mundial",
@@ -1333,10 +1333,6 @@
       "id": "sugar",
       "url": "https://www.worldbank.org/en/research/commodity-markets",
       "history": [
-        {
-          "period": "2021-09",
-          "value": 19.504472
-        },
         {
           "period": "2021-10",
           "value": 19.05088
@@ -1576,18 +1572,22 @@
         {
           "period": "2026-09",
           "value": 18.597287
+        },
+        {
+          "period": "2026-10",
+          "value": 19.504472
         }
       ],
-      "period": "2026-09",
-      "value": 18.597287,
+      "period": "2026-10",
+      "value": 19.504472,
       "changes": {
-        "mom": 7.89,
-        "qoq": 28.12,
-        "yoy": 17.14
+        "mom": 4.88,
+        "qoq": 26.47,
+        "yoy": 26.47
       },
       "download_url": "https://thedocs.worldbank.org/en/doc/74e8be41ceb20fa0da750cda2f6b9e4e-0050012026/related/CMO-Historical-Data-Monthly.xlsx",
       "methodology": "Histórico completo reconstruido con Banco Mundial; no se empalma con FMI/FRED.",
-      "verified_at": "2026-11-03T17:52:54+00:00"
+      "verified_at": "2026-11-03T23:26:08+00:00"
     },
     "gscpi": {
       "id": "gscpi",
@@ -1845,48 +1845,48 @@
       ],
       "period": "2026-09",
       "value": 1.28,
-      "verified_at": "2026-11-03T17:52:54+00:00"
+      "verified_at": "2026-11-03T23:26:08+00:00"
     }
   },
   "source_health": {
     "resins": {
       "ok": true,
-      "checked_at": "2026-11-03T17:52:54+00:00",
+      "checked_at": "2026-11-03T23:26:08+00:00",
       "error": null
     },
     "corrugated": {
       "ok": true,
-      "checked_at": "2026-11-03T17:52:54+00:00",
+      "checked_at": "2026-11-03T23:26:08+00:00",
       "error": null
     },
     "paperboard": {
       "ok": true,
-      "checked_at": "2026-11-03T17:52:54+00:00",
+      "checked_at": "2026-11-03T23:26:08+00:00",
       "error": null
     },
     "ethanol": {
       "ok": true,
-      "checked_at": "2026-11-03T17:52:54+00:00",
+      "checked_at": "2026-11-03T23:26:08+00:00",
       "error": null
     },
     "aluminum": {
       "ok": true,
-      "checked_at": "2026-11-03T17:52:54+00:00",
+      "checked_at": "2026-11-03T23:26:08+00:00",
       "error": null
     },
     "sugar": {
       "ok": true,
-      "checked_at": "2026-11-03T17:52:54+00:00",
+      "checked_at": "2026-11-03T23:26:08+00:00",
       "error": null
     },
     "gscpi": {
       "ok": true,
-      "checked_at": "2026-11-03T17:52:54+00:00",
+      "checked_at": "2026-11-03T23:26:08+00:00",
       "error": null
     },
     "fda": {
       "ok": true,
-      "checked_at": "2026-11-03T17:52:54+00:00",
+      "checked_at": "2026-11-03T23:26:08+00:00",
       "error": null
     }
   },
@@ -2144,7 +2144,7 @@
     ]
   },
   "fda": {
-    "last_updated": "2026-11-02",
+    "last_updated": "2026-11-03",
     "url": "https://www.fda.gov/drugs/drug-safety-and-availability/drug-shortages",
     "source": "FDA · openFDA Drug Shortages",
     "items": [
@@ -2249,6 +2249,6 @@
         "presentations": []
       }
     ],
-    "verified_at": "2026-11-03T17:52:54+00:00"
+    "verified_at": "2026-11-03T23:26:08+00:00"
   }
 }
