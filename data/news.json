@@ -1,7 +1,7 @@
 {
   "date": "2026-11-04",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-04T06:40:10+00:00",
+  "checked_at": "2026-11-04T11:56:05+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -24,33 +24,146 @@
     "mexico": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 1
     },
     "usa": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 6
     },
     "europa": {
       "ok": true,
       "error": null,
-      "count": 3
+      "count": 8
     },
     "global": {
       "ok": true,
       "error": null,
-      "count": 2
+      "count": 5
     }
   },
   "items": [
     {
-      "title": "Drug and alcohol use leads to charge for Weymouth toilets",
+      "title": "Swiss pharma industry behind in technology and clinical trials, index shows",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVU9SUWQtQXZ6SlZ4bGNJOFpBSlJLQ3U2S0NweUgtMVAtWktuTm1aY2hqV1BTRUJNTTlUZm0wMkpFRXhkejQ1WTB1YkN1c0dFMTY5b3VMXy1sd3JNUU9nUzlqaFhjaXpNMVJJTmY3YVljdG9DbEcyUEhCUVMxY0hIX1V2TTJ3eTNPdlk5em9mdzdUUjZXeXZlbWxyVGZNRnFGcGNjY0xyZVV3M3JERFhfczlfQmxUZVpWQUVxUUY5cFNMdTdZcDY1NVFxQXZuUmFjdTRYSExn?oc=5",
+      "published_at": "2026-11-04T11:26:45+00:00",
+      "regions": [
+        "usa"
+      ]
+    },
+    {
+      "title": "Bayer seeks bigger role in fast-growing Latin American biologicals market",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNckc2UDBmSXd2aEI5SHFSZ1dzdDNob210eE91Y3JVNjBjTWtFa2pVRDVTT3BZbTh6bDVhZTNWNTg2NEtLbW8zUXJoN0xNRzk2aWVfcWNyamJzdEFsLS1jRWswU0FfWTVUaDFzbGppMmxMMXZyeVpLUmp1d1VVaDcwVTRiOU9oSFhBMXdJMFBZWEEyYzlYLWNqWXNzZkg2a3Fobi01RE9CRURReEo4eW1rNWstWk1MZDlVbG95MnpRTzhSLTBvOVQ2bU01Ul9yaWhITXVmTGRzUmlJZw?oc=5",
+      "published_at": "2026-11-04T11:05:44+00:00",
+      "regions": [
+        "usa"
+      ]
+    },
+    {
+      "title": "Armed drug dealer caught hiding in bush is jailed",
       "publisher": "BBC",
-      "publisher_url": "http://news.bbc.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBjemhDMWdVOG9GRGFZdHdnY2tST1pScGZZS21hSzJQc0t6eFdrS3cwcFk5QVdaeTIyRkpJVTVWNzRueG5ZZWpydGFXWHdJWThPR0pLMmdlT1Z2ZjdaZEE?oc=5",
-      "published_at": "2026-11-04T06:09:34+00:00",
+      "publisher_url": "https://www.bbc.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1tcUpZcmRrYVRxRTBUSUNRNFlVR01aQWdKeTV0ZnVZYTNILUZPS0xvZ0NrZy16WHdnYnhkRjcwbXlFZnltdWJ2LUFLckQ0cVlud0h5VUd3S1ljbGtBeEE?oc=5",
+      "published_at": "2026-11-04T11:00:05+00:00",
       "regions": [
         "europa"
+      ]
+    },
+    {
+      "title": "Armed drug dealer caught hiding in bush in Halesowen jailed",
+      "publisher": "BBC",
+      "publisher_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zeVRLNU9QQm5KdjhfSXVuVGlrLWhnWXd5RmRLYWdUUmk2eXRRb1BEb29FX1ktRmh3X2RXV1BhOG5rNUJ5REQ3NGRNZEZZSkwyWTJ3S09KdlVCOGs?oc=5",
+      "published_at": "2026-11-04T11:00:05+00:00",
+      "regions": [
+        "europa",
+        "global"
+      ]
+    },
+    {
+      "title": "Ganzhou Hemay Pharmaceutical Co., Ltd.",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9qX2RtenZDTlJ3c28yVWM3aDVXcmE2Z0tPaFdDcFFEQ3VlN2paeHZQMGt6XzhQYzBjQXNHVjhfWlhwa0VjR0xyQWVDbUJxejdTQ2FDeVRsdTktazB4anExUnFja2FySzF3M0ZmVmR4b21VNGp3WU9N?oc=5",
+      "published_at": "2026-11-04T10:01:43+00:00",
+      "regions": [
+        "usa"
+      ]
+    },
+    {
+      "title": "India's Alembic Pharma profit jumps on strong US sales",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOX0NmdUNyYlk4bFE0VVhhT3VYTDFBNTFSd0hwLWNHNUZfdUpqZk5PMUZORTI1ZXNHQlhtV0YwRkFNSlRiSm1lUjlLSGtqWGxkaWY0Y3U0eVlheEVkSHlBMi1EbXhmNWJLVGxTRVdKYklISXhEY0VOaDZyeHR0RG9EUGV2ZEIzQVBaeHNBaHE0NkttZHA5c1U4eWVtQWNhaTlxX3h4ejg2WGxOdW9MNEFzUFdNTmNZX2loSXV6akJuNA?oc=5",
+      "published_at": "2026-11-04T09:50:43+00:00",
+      "regions": [
+        "usa"
+      ]
+    },
+    {
+      "title": "What do midterms mean for Trump's pharma and health agenda?",
+      "publisher": "pharmaphorum",
+      "publisher_url": "https://pharmaphorum.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQempIVnEtRnVjMjIwR2htTEQ2Yk9TTmtTU2Y5WE1IUHhTaEVOZTE3SzNOeXFIelpVRkNQelJ4MTB4V05FVWNST0Z5MlVIbkxHa010dE9Rcnp0eWNTQVlRSGNqOHl1UXlwNlp2Nno5WHJIeWdIYTdVdnpSb2xrZk1QYVdoTVFkdkF6M05V?oc=5",
+      "published_at": "2026-11-04T09:36:18+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "Sino Biopharmaceutical, Boehringer ink cancer drug deal worth $7 billion in milestones",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaDYzOHVfdXZxZVVUNEdPbl9EbkFwcERQRkI0dnJaN3FObTdpSmZoaXpIWUM4TEhQMDQ5UU1PZFhJWm9RMl8zbC1tSmwxRzRUVjdLVldaN0RWXzVUQXM2RVRzM1VNUW5vODRaRzBZNUwxTlNDVFZuM1Y3YTdhWGpkZzg0bkpSaFU3UlQ2U2dibmxYSVZHQ3h4bjZoWnZzU2ZJcTdJajlhTHhGakdwX3Y3T3VnZGJ3ZWNkWVlwRkVmWlhiejd6Tmp0Yw?oc=5",
+      "published_at": "2026-11-04T09:24:44+00:00",
+      "regions": [
+        "usa"
+      ]
+    },
+    {
+      "title": "Cupón Farmacias del Ahorro: hasta 70% en Noviembre 2026",
+      "publisher": "El Universal",
+      "publisher_url": "https://www.eluniversal.com.mx",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVnI0QTNHaVkxbzBYemh6MWZfVjFvT2prNlU0SS1VVE54UHpiU196eTlBVS1zWk0wM3FNbXhrSWlxLXZLZkVjejZ0allBM2w4SFBlSE9BVEJybUVoYWdtRXJsMFlKYi1VNWtaY3gyVUVJQ0w2cmZIc21fRmxPOTBpRUJB?oc=5",
+      "published_at": "2026-11-04T09:11:13+00:00",
+      "regions": [
+        "mexico"
+      ]
+    },
+    {
+      "title": "Sydney Swans player Tom Papley allegedly returns positive roadside drug test",
+      "publisher": "The Guardian",
+      "publisher_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTEY5N0RkLTU1R3dLNEN2NVpmTm1Fa2FTbG9VaTZkTG14WWdZelE5NUp1dVBXWTluWlVvOGM1Rkg5VjBPS2E0NE1wWnRkbHY4SWhDY3N1ZzNENlF6UVJtMmU4SUFpMDRTNDJ5bUh0cHpZUWV2UzRQelE0d2dOeGliVm96bFdrcy1jN1RvTHpVOVllU2pWaU1BM0FhbktXVXFDTHppX0xPb0FTN1FPeEFpdFMzN1VRZmVqVkFZdUUyS1N2UQ?oc=5",
+      "published_at": "2026-11-04T08:11:00+00:00",
+      "regions": [
+        "europa",
+        "global"
+      ]
+    },
+    {
+      "title": "Novo shares jump 6% as Wegovy pill sales impress, drugmaker hikes outlook",
+      "publisher": "CNBC",
+      "publisher_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5EeWxWUXh3ZXdOSGpqUkgtcU9IbEtfMHVveklXdGVTMDkxaWtRYWpoMHRId2JjcnM1aU1DM01NOXN2bTNHWG5zNkFWOHMtbHZjRjJpVVhCSXlNdHdIbmpTNmNLMWRFOFBtR1hDWUlrb21xX3pl0gF6QVVfeXFMT2xOZkxOMG5fdmhRaUJLUkh2TWZHdGdZWmw1Xzh5SWJ0LVp0UC0tcXd1SjlGcG16a0JaSkJyNnUxcW0tTzVDVWRTSmtEbGMxak9ZRWdseWlBZkkwMjF3VnBuc3dZcVRqbXF0MlRrUEdfS3VhNlB0WFlnNFE?oc=5",
+      "published_at": "2026-11-04T06:40:57+00:00",
+      "regions": [
+        "usa"
+      ]
+    },
+    {
+      "title": "Public toilets to charge after drug and alcohol use",
+      "publisher": "BBC",
+      "publisher_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9kNzRxZk5PVGVqdXlheDB6VjR5bzVNWUtwWmppY3hXUXc3dUs1ZEVEYWJQRmZLTWRKdjZ1M1hPQ0F6blJnWVNqV3BzdGlybjMzeUhVV1FiY2E0WGs?oc=5",
+      "published_at": "2026-11-04T06:09:34+00:00",
+      "regions": [
+        "europa",
+        "global"
       ]
     },
     {
@@ -75,11 +188,11 @@
       ]
     },
     {
-      "title": "The Biotech Leader Who Erased Team Lanes",
+      "title": "Lee's Pharmaceutical Holdings Ltd. (LPCUF) Stock Price Today - The Wall Street Journal",
       "publisher": "WSJ",
       "publisher_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMlRMWjVURVN0OTh2bmlRa2NUVlBHSk5tNFBSMnVCckZwZ2g5S1hwTzBqeWFKWTZfTjV2UXQteVZGeGdyTlJ1MnREZDZyUUZ5N2tBdHVZdVp4T1dXRVktTVRKcktzSUtrbUo0XzdPVC16eFo1RVBrVlBwNnQ5blBzeXI2SW4?oc=5",
-      "published_at": "2026-11-04T04:08:22+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5hSzNYQ09fVjktODNXXzBCTTBaRDh3aFR5a0EzVTVSQmFjU19GdjJWMnBmZTYzTEtncDZqQ1lUUHJ6Ymt5cDdYZE01QnVMMTZ5Z1JsWGVR?oc=5",
+      "published_at": "2026-11-04T04:12:30+00:00",
       "regions": [
         "global"
       ]

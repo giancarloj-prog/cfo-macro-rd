@@ -1,7 +1,7 @@
 {
   "date": "2026-11-04",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-04T06:40:09+00:00",
+  "checked_at": "2026-11-04T11:56:04+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -53,12 +53,12 @@
     "economist_andy": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 1
     },
     "economist_jaime": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 3
     },
     "economist_juan_ariel": {
       "ok": true,
@@ -68,12 +68,12 @@
     "economist_raul": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 1
     },
     "economist_jose_luis": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 2
     },
     "economist_nassim": {
       "ok": true,
@@ -87,7 +87,7 @@
       "publisher": "Diario Libre",
       "publisher_url": "https://www.diariolibre.com",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYm1RajhIWmxfY1ZOQ2oxZ3o4MkJ0MkN1LVI0U3dRZHpFSTYwd3dCYVlQVWY3Q1YzOFVIYzAzSjJmT0JKek9NajRXdW43NWhzOVFWUnVKNXRvcFlYbHFZQ2VCZWd3NmFlUTZpWXRIcXprcEpCSnNTOTFwV3FrYUxyNXVjdDQzTzZPSlVGRHU1TS11cHlSMjdSbkpEMmVTaGN3QjJuSFpsc2pwbTRBQTJOLUJLaWc5WFprb29DVGxJNDEwcnhrcW1IS2RR0gHPAUFVX3lxTE80emNzVFl1b2w0NFpfRW5aUnhyNTMyTVA0Q05NWFBBM3ZFdUpxRjhTQS1OekFiajVDbFh0QlFJaWdEMWl4UkU5Nk10TEJtSmdqMkNTMG1hVTdXM2ZFREtMMG1BcnF6dEhLVXc2X3hiQm9yOFpXbFRYTHNxcTkwREZieWRWcEhRdUtFTUowcEJBU1JpVnM3eGxnMlFYS2VfMGRLYkNYMkVjb0JzcXhwSHdoU096QVBoWmplbmRiRlJDSlJfdXFfTC1SMnNiWXFLZw?oc=5",
-      "published_at": "2026-11-04T05:56:43+00:00",
+      "published_at": "2026-11-04T04:01:00+00:00",
       "topics": [
         "finance"
       ],
@@ -144,6 +144,93 @@
       "searches": [
         "economist_jaime",
         "economist_jose_luis"
+      ]
+    },
+    {
+      "title": "Ministros Yayo y Magín abordarán este miércoles la nueva realidad de RD ante crisis global",
+      "publisher": "Periódico elDinero",
+      "publisher_url": "https://eldinero.com.do",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOT1lFRzl6OW4yeExDeXc0T0Rmdk13VDB6WGY3Tk1XZURNLUtEbS1IR0tQT09jS2JxaU1rT01WWnZRQ2xhYU02Q3NBYUVjXzYyeUt6Tm1uMWlTcVpvZjBnS3E3UmZmekRLSVNUR2VmT0ZhM2o2R1czUFpfM3BIdzltV2xUaEZ1WGUtSUdkemxQZDRWVXZLZnNYejZmODQta05rOWlYQXprVlh5bFRWWWc5VnRZMkk4YVVNUmxPVXhxZw?oc=5",
+      "published_at": "2026-11-03T20:41:59+00:00",
+      "topics": [
+        "opinion"
+      ],
+      "economists": [
+        "jaime"
+      ],
+      "economist_match": "search",
+      "searches": [
+        "economist_jaime"
+      ]
+    },
+    {
+      "title": "Ministros Sanz Lovatón y Díaz abordarán nueva realidad de RD ante crisis global",
+      "publisher": "El Nuevo Diario",
+      "publisher_url": "https://elnuevodiario.com.do",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOLVhfc0RSS2Jjc3cxZ0hNa0VRZ3dKM2tTdkZWbmxLYldnTnRkWlJnSkEySVozOWp1SDZKWldOa0pKNXlQSVJmRUVtSmxOblZFalM1LTBYeklmUlE0MEd3U0ZsS3lLdmg3YzdfTFhDczFSRjg4Mm5uV21RYTBLZzl4c3pGS2VOamdIUGRHaDNIc3RVb1pFTzZjbEV4UHQ4YXJZcy1jUG9qcldkdXJOZFE?oc=5",
+      "published_at": "2026-11-03T14:21:45+00:00",
+      "topics": [
+        "opinion"
+      ],
+      "economists": [
+        "jaime"
+      ],
+      "economist_match": "search",
+      "searches": [
+        "economist_jaime"
+      ]
+    },
+    {
+      "title": "Cinco etapas de un duelo energético",
+      "publisher": "El Caribe",
+      "publisher_url": "https://www.elcaribe.com.do",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUVhSWjNieE9vLUJxRWR0Qi13SFhtYUZlcFNncTZJSXlKUnZvLWpvaWFYczM2ODdybHNCMmNsbzZIMlFOZ0FmdTM0ZDZ5Vmg0VG1uZ2k4OEJXb2ZoanNYUk5ZanN3ekhvR2p5SEVwQW5ZZ0ZhOVJUVnFGaTBpb3EzUmVaOUdrbUE?oc=5",
+      "published_at": "2026-11-03T10:58:34+00:00",
+      "topics": [
+        "opinion"
+      ],
+      "economists": [
+        "raul"
+      ],
+      "economist_match": "search",
+      "searches": [
+        "economist_raul"
+      ]
+    },
+    {
+      "title": "Segunda edición del Financial Summit 2026",
+      "publisher": "El Dia.com.do",
+      "publisher_url": "https://eldia.com.do",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9qOVFyTzlHUHpQLVcyMDdiVzlLX3F1V0M5amtwU2s1TkxKRHJ0b2dxOXM0WER5Q3NodDBXVWFZUHpHVk1vZ04xanlHZWFKV0hxTXBielNiV3F1OHJnOWZuMWdnc3o0djdENnJBQXJBalA?oc=5",
+      "published_at": "2026-11-02T04:01:00+00:00",
+      "topics": [
+        "opinion"
+      ],
+      "economists": [
+        "jaime",
+        "jose_luis"
+      ],
+      "economist_match": "search",
+      "searches": [
+        "economist_jaime",
+        "economist_jose_luis"
+      ]
+    },
+    {
+      "title": "Conversando con John Nash",
+      "publisher": "El Caribe",
+      "publisher_url": "https://www.elcaribe.com.do",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5wTkFEUGF0cm9nTUViTEZqNlVMWEJYM183ZnZCTlNRcWNTSVA1T09FaEQ4V2tKR0haaFBkS3RRUXlKbEx6Z0N6WTZ4ZGVVQnBzazJIY3VmVDJtSnVuYjBZOVFvbDNTdHNVMDloNWMyaG5sbkh3ZVVRWFdR?oc=5",
+      "published_at": "2026-11-02T04:00:00+00:00",
+      "topics": [
+        "opinion"
+      ],
+      "economists": [
+        "andy"
+      ],
+      "economist_match": "search",
+      "searches": [
+        "economist_andy"
       ]
     }
   ],
