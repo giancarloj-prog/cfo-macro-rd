@@ -56,10 +56,12 @@ def parse_feed(content,day,topic=None,economist=None):
         suffix=' - '+publisher
         if title.endswith(suffix):title=title[:-len(suffix)]
         context=fold(title+' '+clean(item.findtext('description')))
-        if not ECON_RX.search(context):continue
+        if economist is None and not ECON_RX.search(context):continue
         try:
             published=parsedate_to_datetime(item.findtext('pubDate') or '')
-            if published.tzinfo is None or published.astimezone(TZ).date().isoformat()!=day:continue
+            if published.tzinfo is None:continue
+            age=(datetime.fromisoformat(day).date()-published.astimezone(TZ).date()).days
+            if age<0 or age>(6 if economist is not None else 0):continue
         except (ValueError,TypeError,OverflowError):continue
         link=item.findtext('link') or ''
         if urlparse(link).scheme!='https' or not(host(link)=='news.google.com' or trusted(host(link))):continue
@@ -79,7 +81,7 @@ def fetch_job(job,day):
     key,topic,economist,query=job
     dt=datetime.fromisoformat(day)
     if economist is None:query+=' ("República Dominicana" OR dominicano OR dominicana OR BCRD OR DGII OR SIMV)'
-    query+=f' after:{(dt-timedelta(days=1)).date()} before:{(dt+timedelta(days=1)).date()}'
+    query+=f' after:{(dt-timedelta(days=8 if economist is not None else 1)).date()} before:{(dt+timedelta(days=1)).date()}'
     url='https://news.google.com/rss/search?'+urlencode(dict(q=query,hl='es-419',gl='DO',ceid='DO:es-419'))
     try:
         r=requests.get(url,headers={'User-Agent':'Mozilla/5.0 (CFO-Macro-RD)'},timeout=25);r.raise_for_status()
@@ -94,14 +96,16 @@ def build(day,results,previous=None):
             x=dict(item,topics=list(item['topics']),economists=list(item['economists']),searches=[key])
             add_item(merged,x,day)
     # Keep discoveries for the whole day, even when search ranking changes later.
-    if previous and previous.get('date')==day:
+    if previous:
         for x in previous.get('items',[]):add_item(merged,x,day)
     return dict(date=day,timezone=str(TZ),checked_at=datetime.now(timezone.utc).isoformat(timespec='seconds'),topics=TOPICS,economists={k:v['name'] for k,v in ECONOMISTS.items()},source_health=health,items=sorted(merged.values(),key=lambda x:x['published_at'],reverse=True),discovery='Google News RSS · medios dominicanos seleccionados y fuentes oficiales; cobertura no exhaustiva.')
 
 def add_item(merged,item,day):
     try:
         published=datetime.fromisoformat(item['published_at'])
-        if published.tzinfo is None or published.astimezone(TZ).date().isoformat()!=day:return
+        if published.tzinfo is None:return
+        age=(datetime.fromisoformat(day).date()-published.astimezone(TZ).date()).days
+        if age<0 or age>(6 if item.get('economists') else 0):return
     except (ValueError,KeyError):return
     key=host(item['publisher_url'])+':'+re.sub(r'\W+','',fold(item['title']))
     if key in merged:
