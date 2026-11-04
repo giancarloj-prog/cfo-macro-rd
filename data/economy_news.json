@@ -1,7 +1,7 @@
 {
   "date": "2026-11-04",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-04T11:56:04+00:00",
+  "checked_at": "2026-11-04T13:35:19+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -58,7 +58,7 @@
     "economist_jaime": {
       "ok": true,
       "error": null,
-      "count": 3
+      "count": 1
     },
     "economist_juan_ariel": {
       "ok": true,
