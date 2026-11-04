@@ -1,7 +1,7 @@
 {
-  "date": "2026-11-03",
+  "date": "2026-11-04",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-03T23:26:11+00:00",
+  "checked_at": "2026-11-04T06:40:09+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -23,12 +23,12 @@
     "bcrd": {
       "ok": true,
       "error": null,
-      "count": 4
+      "count": 0
     },
     "fiscal": {
       "ok": true,
       "error": null,
-      "count": 2
+      "count": 0
     },
     "dgii": {
       "ok": true,
@@ -38,7 +38,7 @@
     "finance": {
       "ok": true,
       "error": null,
-      "count": 5
+      "count": 1
     },
     "securities": {
       "ok": true,
@@ -48,7 +48,7 @@
     "economy": {
       "ok": true,
       "error": null,
-      "count": 7
+      "count": 1
     },
     "economist_andy": {
       "ok": true,
@@ -58,7 +58,7 @@
     "economist_jaime": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 1
     },
     "economist_juan_ariel": {
       "ok": true,
@@ -73,7 +73,7 @@
     "economist_jose_luis": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 1
     },
     "economist_nassim": {
       "ok": true,
@@ -83,43 +83,11 @@
   },
   "items": [
     {
-      "title": "Fitch proyecta que la deuda pública dominicana baje a 47.9 % del PIB en 2026",
-      "publisher": "Listín Diario",
-      "publisher_url": "https://listindiario.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZ0YtZXN1VGRGNHRxcndkTGkxN3E3SU9kNW5nMWhMV2FJZWZOVWVSVkNvcHhfUEJlMWpjWUVVNF9QemkwZ2dieDZkR3RQNWkzSzN1d2lTQmFoZjZkNm9VVE9UaEFQVW9pY3ZpanpwRGo3dTRLejhGdWtybGFEYnFGV2JOTFVTaTF6ZnhUVHNBNWducXZfUFozd3dSa1lYbVVEQVd5WkhZLUc1d0FTZFVRY19pME9FMmJMRjF0ZTJzONIBxAFBVV95cUxQSi1wR085a0xUR2prTmNYMXJuTkRMSHpvZGt2NFdhRW1zZ2wzaTZYNVJOZHAzbUd4elRTS2lxQkRRZGxjNzBCdVlYWXVGMC1sVEpWTENyZVJDT3RzUVBQT3hWUXEySlJYNEkwTFBtbVZyTFNmVWQ2XzdNUWt2Szl2Tm0wX1FhSmxudWJuRjBBWHc4QUtUU3NkbUJwYTZjLTF3TUExNWhIUFdhVUR0RHVGMXJRRVF1SENQb1VEQy1VWUZCVTcz?oc=5",
-      "published_at": "2026-11-03T21:53:35+00:00",
-      "topics": [
-        "economy",
-        "fiscal"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "economy",
-        "fiscal"
-      ]
-    },
-    {
-      "title": "UASD presenta investigaciones sobre economía dominicana en VIII Congreso Internacional de Historia",
-      "publisher": "El Nuevo Diario",
-      "publisher_url": "https://elnuevodiario.com.do",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYTc5MndfMS1XZ0V2ZHpOMUVnUVVkYlZVREE3ajdSWVV1WExBcjNPa1NmQzFJaEE0eGhIbndtRUYwTmRQUGo1YWV1d1hsNE5rZk41NVlIWUowTDg0X3dPV0NVc1BXSEJ6TEhjSXpTSkpWcmJidEVlSnF1OXJhTmhCc19MYnZlWVhoVE9nLXZmeUYwU19jUllsLTI1akV3cHpMZjJod011b0dMZE0wMGJmRTZSMVEtb1ZIWWFtMXlITy1hOFJuVDA4?oc=5",
-      "published_at": "2026-11-03T20:31:40+00:00",
-      "topics": [
-        "economy"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "economy"
-      ]
-    },
-    {
-      "title": "Los bancos no tienen que convertirse en venture capital. Pueden financiar el contrato",
-      "publisher": "Periódico elDinero",
-      "publisher_url": "https://eldinero.com.do",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeDJNU0tFdHgxZV9DNkhTb3hoWGc5Q19oM0s4bWYzUmhPaU1wYVd2N3pRSlJmWGF0RWtCckRJNVcxWUNkdWtucXduVFdkM0ZTSmRvNkVUUGJKampYWTVoVlV2TWJtMHdYbEMtMHAwVEdrS3J5eDdYZ2hHTWRJZEpSZVVPajBfYUtjdXJDMlRLblhyVTNURXRYT1ZGa3dzWVFLSGFjOFZFUVZmSFlFZjhoamZCUGhQTnc?oc=5",
-      "published_at": "2026-11-03T20:17:48+00:00",
+      "title": "El sur lidera el crecimiento de las captaciones del sistema financiero, con un 22.9 % a junio",
+      "publisher": "Diario Libre",
+      "publisher_url": "https://www.diariolibre.com",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYm1RajhIWmxfY1ZOQ2oxZ3o4MkJ0MkN1LVI0U3dRZHpFSTYwd3dCYVlQVWY3Q1YzOFVIYzAzSjJmT0JKek9NajRXdW43NWhzOVFWUnVKNXRvcFlYbHFZQ2VCZWd3NmFlUTZpWXRIcXprcEpCSnNTOTFwV3FrYUxyNXVjdDQzTzZPSlVGRHU1TS11cHlSMjdSbkpEMmVTaGN3QjJuSFpsc2pwbTRBQTJOLUJLaWc5WFprb29DVGxJNDEwcnhrcW1IS2RR0gHPAUFVX3lxTE80emNzVFl1b2w0NFpfRW5aUnhyNTMyTVA0Q05NWFBBM3ZFdUpxRjhTQS1OekFiajVDbFh0QlFJaWdEMWl4UkU5Nk10TEJtSmdqMkNTMG1hVTdXM2ZFREtMMG1BcnF6dEhLVXc2X3hiQm9yOFpXbFRYTHNxcTkwREZieWRWcEhRdUtFTUowcEJBU1JpVnM3eGxnMlFYS2VfMGRLYkNYMkVjb0JzcXhwSHdoU096QVBoWmplbmRiRlJDSlJfdXFfTC1SMnNiWXFLZw?oc=5",
+      "published_at": "2026-11-04T05:56:43+00:00",
       "topics": [
         "finance"
       ],
@@ -130,26 +98,11 @@
       ]
     },
     {
-      "title": "RD fue el segundo mayor receptor de inversión extranjera del Caribe en 2025",
-      "publisher": "Acento",
-      "publisher_url": "https://acento.com.do",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxON2UxVnFVVDRzZ0VqX0JHRWowRm0tX2xBaGRjT1EwUnZnang5RG9UVFl6OW50ejFqTFhiTTA1ZWZvR21WSW5USG1ZMDRBYVpfR0M0SFNxbUk4UUJ0bFZibjJuaE9TN1l0Tm96NENJSlFrcUJTdU1VVmliNGp0UmNvU3phcUdDSlQxNnhudHNxWmFEUlBKNTF1WUFBakpSXzNPMnBfTlc4N3ltdFNiZm84bEtUZTRNRnBhZU040gG7AUFVX3lxTE43ZTFWcVVUNHNnRWpfQkdFajBGbS1fbEFoZGNPUTBSdmdqeDlEb1RUWXo5bnR6MWpMWGJNMDVlZm9HbVZJblRIbVkwNEFhWl9HQzRIU3FtSThRQnRsVmJuMm5oT1M3WXROb3o0Q0lKUWtxQlN1TVVWaWI0anRSY29TemFxR0NKVDE2eG50c3FaYURSUEo1MXVZQUFqSlJfM08ycF9OVzg3eW10U2JmbzhsS1RlNE1GcGFlTTg?oc=5",
-      "published_at": "2026-11-03T20:00:04+00:00",
-      "topics": [
-        "finance"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "finance"
-      ]
-    },
-    {
-      "title": "Premio Nobel de Economía participará en encuentro financiero internacional en República Dominicana",
+      "title": "Una economía que sigue generando confianza",
       "publisher": "El Dia.com.do",
       "publisher_url": "https://eldia.com.do",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNT2hRS1lVZnMzS19tcHVVdjZGbVpIenlhVW96Wnp4YkVJR0JyMWhnTjVqZ2g3NmZlVnlnMjZiOUVUancwN1pnUVl1MXhaUEF5TlNNbmxLTmxmenNieGZtWEdMZ1dSWTRSZ1RhTjFTSWJFaUE1SE9OaWhUR0tmS3psSnlMYjJlSjgwQWZELW9USHJwOFFxcFRJM2lEYVpkOEVoQVo4NmRBSzZHbHhuNVRKcWg4ajNPZWF1VS05Tw?oc=5",
-      "published_at": "2026-11-03T19:42:01+00:00",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE80QVA2a2Yxc1hMVllKYnlyaTctZVNoR2tRYlBlRnFSaUFoOGFINWlQMUx1N21tNi00VVJRNnpjX0NpN1lsSXF5bVZsMUN2a1ltaUg1cEhxbmwxLTBQWkZVOV9Lci12SE5SWFZKZU0yajJTZw?oc=5",
+      "published_at": "2026-11-04T04:01:00+00:00",
       "topics": [
         "economy"
       ],
@@ -160,93 +113,13 @@
       ]
     },
     {
-      "title": "Fitch proyecta que deuda pública de RD baje a 47.9% del PIB en 2026",
-      "publisher": "Periódico elDinero",
-      "publisher_url": "https://eldinero.com.do",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeVAwRGdrYTRnUHVUZ0lWZF9kUkk4N0FpRndNcGI4N1l1WWtVSTFtamduRXNZNnJQVFVCc1R4WlNJM0ZtNEhzcmZiMTlOeDhOQnFuMWRqYnpBUzdvOV94bjNmMXNPaXY0eTdiM3JyNDFNeHAtTFA3c09HWEFqNzBKZzIyeW13czNzQkg5ZHl6ald5VkF4amZueFhhTXVYZzQ?oc=5",
-      "published_at": "2026-11-03T19:30:16+00:00",
+      "title": "DGII: ajuste en tarifa del marbete está contemplado en ley",
+      "publisher": "Listín Diario",
+      "publisher_url": "https://listindiario.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOaFNNZWtKdmJPTU5aby1HVXJ1Ul9QQjMwa21FRTl4NW9TSUItVEZsVDJhYWJDWWdKMGcyakxzbHNZLUpvSFZnNzVrTXFkVVdGT2NnWHZ4WmpleUVtdGtrMDJ5RnpCWGFOQkljdC1VZlNHWE9GVXBDejRwN2xobHBvcWN2NFk2MEhNLTJrUi10cDQ0a2kzRlJnMEtZd2VXUlQ4aU9XVlc5SFMwVmtsQ091eNIBtgFBVV95cUxPamgwX01BVjUzUjRGMEx4VWU5ajNuQThIMUNySjlHamlfOFhsYlh0WUdOQTZXUVVPdVI1azFZTVdzV2k0Y2NQaUpUa2twMXVpXzNUWGVIQjdkTEdmU1dyR0FMTElxbjZLUTktYkdPNTNzMTAxQUFKTTU0ZVJZZW9LamlpbFRrcm5zNFk3a1dXcG9CRmYyOUh5SmVUVWpCcDJNV1NJVWJWR29ES1ZydzFJRlMtUEpSUQ?oc=5",
+      "published_at": "2026-11-04T04:00:00+00:00",
       "topics": [
-        "fiscal"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "fiscal"
-      ]
-    },
-    {
-      "title": "Banco Popular financia al turismo dominicano con RD$ 97,901 millones",
-      "publisher": "Acento",
-      "publisher_url": "https://acento.com.do",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOd1hzSzhMTWJQSVNfOVEtSVJ6ZTlmbDZObzBiQWJTd3BkQTZwSmVzSWdLUDJLSV9FRDd4SDhRaG5kMzJ5N1FlTXh1eTJuUDVmRzJiV0RjYlNRT3BZOWZuVUJlMGEyZnhXQy1wdmRwNnBaVnJ5N1duMmo2MWNXay0tTTgwaEl6akN3WE9Cay00b1pSMnF4bVkzUGJ0Z0lleW9EUldhTWJFWGVmSHVfMzRn0gGvAUFVX3lxTE53WHNLOExNYlBJU185US1JUnplOWZsNk5vMGJBYlN3cGRBNnBKZXNJZ0tQMktJX0VEN3hIOFFobmQzMnk3UWVNeHV5Mm5QNWZHMmJXRGNiU1FPcFk5Zm5VQmUwYTJmeFdDLXB2ZHA2cFpWcnk3V24yajYxY1drLS1NODBoSXpqQ3dYT0JrLTRvWlIycXhtWTNQYnRnSWV5b0RSV2FNYkVYZWZIdV8zNGc?oc=5",
-      "published_at": "2026-11-03T19:20:57+00:00",
-      "topics": [
-        "economy",
-        "finance"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "economy",
-        "finance"
-      ]
-    },
-    {
-      "title": "Fitch proyecta que la deuda pública dominicana baje a 47,9 % del PIB en 2026",
-      "publisher": "El Caribe",
-      "publisher_url": "https://www.elcaribe.com.do",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPckhJX0xaUnZUdTcxN1FjRHRuWW9wTzNkRGFLNi1tOWZWV0tXY1YwOXlrQlVrNTdfTXhobDUzQi1ESG5uVkVDbFVSd1NObFJRSGVTSmkxa2Z0MzVFNkFOZnhIa05uRjR2T0FpQXprc3BpaHdjM3Q4YWJqcVd1Y0p2Sk5OdFh4VFdJUWpUMjFEdkFzQjVsZ2tPMV9zekpCcnpaSUhIZGs0OUh0YnJpU2NySQ?oc=5",
-      "published_at": "2026-11-03T18:53:14+00:00",
-      "topics": [
-        "bcrd",
-        "fiscal"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "bcrd"
-      ]
-    },
-    {
-      "title": "Reino Unido y RD exploran oportunidades de inversión para transición energética",
-      "publisher": "El Caribe",
-      "publisher_url": "https://www.elcaribe.com.do",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWHpSQ2h3dXJkM29rM0pjSkZYUEp0MXEtZVAxeC1yWm1ueURMdFdpUThwdWVsTFhFb1BzTWFRLTBsVlFWdUZxcUxUU1JxSmVuSXgxbm40dkxoZnFScTY2TlZnOTVUaXVqUFlkMllEVnRTSVRBOGFYUWUyZWRwWTI3RHl6SDQza3JFblpQOWw5ZkotUWNhSm5vRTNjLW5uN0tMYm5hODdrLXhGV3dhYXZWdkR4eU9jTHNMYnNwb0FTWQ?oc=5",
-      "published_at": "2026-11-03T17:14:09+00:00",
-      "topics": [
-        "finance"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "finance"
-      ]
-    },
-    {
-      "title": "Fallece el economista Milovan Pérez Prats, asesor de varias instituciones del Estado",
-      "publisher": "Acento",
-      "publisher_url": "https://acento.com.do",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQa0x4OEhUelM2cUtCTkRvSHlrSk9yLUk3S2lXd3I3YldoSDh0VUpocEhGUXgtOFVVbkticGdYb2FaS2k4YWpkdUtKWnRBaWt4MlZNSUNfY0gxRXhyLWpIcWttcWo1a1dfck5raEZCQzNQTzJxU0g5T1BBbDVHcnA3T0ptTWVoWER6UjZqMm5BY01faGNEWk1JY3dONEFYcUFPZ2U4bGkzNm9PbTB0MGhnWTlwWmVxUXN0Ui1hUmYzUWpOeVJYTHdFYtIByAFBVV95cUxQa0x4OEhUelM2cUtCTkRvSHlrSk9yLUk3S2lXd3I3YldoSDh0VUpocEhGUXgtOFVVbkticGdYb2FaS2k4YWpkdUtKWnRBaWt4MlZNSUNfY0gxRXhyLWpIcWttcWo1a1dfck5raEZCQzNQTzJxU0g5T1BBbDVHcnA3T0ptTWVoWER6UjZqMm5BY01faGNEWk1JY3dONEFYcUFPZ2U4bGkzNm9PbTB0MGhnWTlwWmVxUXN0Ui1hUmYzUWpOeVJYTHdFYg?oc=5",
-      "published_at": "2026-11-03T16:00:12+00:00",
-      "topics": [
-        "bcrd",
-        "opinion"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "bcrd"
-      ]
-    },
-    {
-      "title": "Propietarios de bancas de lotería tienen hasta el 15 de noviembre para declarar negocios irregulares",
-      "publisher": "Acento",
-      "publisher_url": "https://acento.com.do",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPQUg5TVZlMHdMcGRTMzZaSzlzZW40a2JrZGZSOTFTaU92VDFUTWRpaVpucFFmZEg2ckgzS2g2dzkzRnQ0eGEtakwtNmtlUXJCVlpwUC1oV21xZzR0TU1aUlRPVmd5ak54S2pMQ3ZJQXZQWnJNTHJVOTVBM3htekJnT3l2WjBZR0hXRWFPakVFOUxEY2hDODB2UVgxY3RGWTUtdUVDYzZhY090Vm9KNlBaa05LdmhnR2xUbXlBWXVvaTNITUFrSVJCcG5MQ2lXR3pDMlBiLXp3cjhwSjlEcGtZ0gHfAUFVX3lxTE9BSDlNVmUwd0xwZFMzNlpLOXNlbjRrYmtkZlI5MVNpT3ZUMVRNZGlpWm5wUWZkSDZySDNLaDZ3OTNGdDR4YS1qTC02a2VRckJWWnBQLWhXbXFnNHRNTVpSVE9WZ3lqTnhLakxDdklBdlBack1MclU5NUEzeG16QmdPeXZaMFlHSFdFYU9qRUU5TERjaEM4MHZRWDFjdEZZNS11RUNjNmFjT3RWb0o2UFprTkt2aGdHbFRteUFZdW9pM0hNQWtJUkJwbkxDaVdHekMyUGItendyOHBKOURwa1k?oc=5",
-      "published_at": "2026-11-03T10:00:51+00:00",
-      "topics": [
-        "dgii",
-        "finance"
+        "dgii"
       ],
       "economists": [],
       "economist_match": null,
@@ -255,54 +128,22 @@
       ]
     },
     {
-      "title": "Alza de 23 % en productos básicos plantea retos para la inflación y los subsidios en RD",
-      "publisher": "Acento",
-      "publisher_url": "https://acento.com.do",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPREozcjQ3bUJ0MEtLeXFCcF9LR2RzTVQzaWxHN0FHUVVKWVUwUTVUWGVSOTk1cTFSVUY3YWVkM05zd0Jyb3JtQlVncUtaMlBjcHlYTU0yZWVQUXRyNEJtMi15YzhSMWppM0FJSzdPSEVOLWlXQzFfMERWdDU1ZjdYUHhfckotYmE1dEFlTFE3TXNhb3JUcGd3Q3BDdV9PeHRJdWFKVVdCa0tZekdxMmtFUFdhaVM4OE82bHg4SWVoWTE1QW9xdXdjbdIByAFBVV95cUxPREozcjQ3bUJ0MEtLeXFCcF9LR2RzTVQzaWxHN0FHUVVKWVUwUTVUWGVSOTk1cTFSVUY3YWVkM05zd0Jyb3JtQlVncUtaMlBjcHlYTU0yZWVQUXRyNEJtMi15YzhSMWppM0FJSzdPSEVOLWlXQzFfMERWdDU1ZjdYUHhfckotYmE1dEFlTFE3TXNhb3JUcGd3Q3BDdV9PeHRJdWFKVVdCa0tZekdxMmtFUFdhaVM4OE82bHg4SWVoWTE1QW9xdXdjbQ?oc=5",
-      "published_at": "2026-11-03T08:00:19+00:00",
-      "topics": [
-        "bcrd",
-        "economy",
-        "finance"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "bcrd",
-        "economy",
-        "finance"
-      ]
-    },
-    {
-      "title": "España aporta el 14.4 % de la inversión extranjera hacia el país en el primer semestre del año",
-      "publisher": "Diario Libre",
-      "publisher_url": "https://www.diariolibre.com",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMDFrZU55V3ZZRTVZbEl0Ui1MRzJubC15QVYxbElpcnNHQzNhOERIcU9HSHRTNW5hanBqdkNLcjQyZzRkVm1pSHM4TFlEdURSYUYzMmR4bkRzODVxaGtPTE1nYXh4X3BJQ0ZpOUQzT2hFaU9obkl0VXQ0aEhYLWdhWFY3SFRtd0pleXRzNklHNHQtaHdZSTdKZUtTbUtOcVBJeTMtT0xfTFc4QXUzdjRKVEFuLVJRQkoxTDM0NDlmRmtCTzc5U0FYMtIBzgFBVV95cUxONTNiU0U1U3k1VzkzcUV6Wk5ldmtUcml3NGtBVGp4d2hrbmNKQ3RQTEVzUGowYkEwUG43QlBxZC1WT0VXNFQtYWxocXlMMFdxVl94QWlUN1NYUlN5TFdzRXhfbFdtcnBPRmFiejIzWmFEMEE3SnBldk5BMjdwS2stV1BNSEsyTHE1WjNncGJNcmh2cjRLZ1FxQS03dnBDUWNUYll4WjIybncxbEg5UlI1VkxBRGliUmgxaTE3d0R1UWdnMzZYbjJBaGExTG5JZw?oc=5",
-      "published_at": "2026-11-03T04:02:00+00:00",
-      "topics": [
-        "bcrd",
-        "economy"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "bcrd",
-        "economy"
-      ]
-    },
-    {
-      "title": "Christopher Paniagua resalta la estabilidad dominicana para la atracción de inversión",
+      "title": "Realizan edición del Financial Summit 2026",
       "publisher": "El Caribe",
       "publisher_url": "https://www.elcaribe.com.do",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQ2w3SGVfeHJOOWREVUw3Z0lqVVROeF90SUdCMlZWTG05RFY2aXFaTHdsSG1yQXFqbmk0RlRiVUt1aTQ2Y3Z2ZWxMOWU5S1lwLVh5WXV2dlZlUW8zNi1NalBQUUNkemVRek81SEJDSmgybkx3TnNmTk5xYS1kcDhoUzBYbWs2Vzc4Uy0zVTZHNnkxeHBlVjg4aDFFa3RWeURMX1JVZjhZWm94SmpjN196WS1YdEJxWmVvNE5FNXQ0RzdvbHNLSGdCTUNn?oc=5",
-      "published_at": "2026-11-03T04:00:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWlBjbWQ3Y2NMNllvNEhHTVNGdFNFMTVJTkZseFRaVVRvWnQ5NUU2WVhSazI5U1YtZnNLbzFxRWN4aFUtSkVmWHVXYVg5ck9SREtuNzI0ZGcwb0FhVHc1MlFiNFNJd2FjUHNuOTlLZjF5b2FZY3E2Sk1keFF1dTdTTURhNUlBd0lhNmNSZg?oc=5",
+      "published_at": "2026-11-04T04:00:00+00:00",
       "topics": [
-        "economy"
+        "opinion"
       ],
-      "economists": [],
-      "economist_match": null,
+      "economists": [
+        "jaime",
+        "jose_luis"
+      ],
+      "economist_match": "search",
       "searches": [
-        "economy"
+        "economist_jaime",
+        "economist_jose_luis"
       ]
     }
   ],
