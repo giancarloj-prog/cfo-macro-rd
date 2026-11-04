@@ -17,7 +17,7 @@ class EconomyNewsTests(unittest.TestCase):
         self.assertEqual(x['economist_match'],'search')
         self.assertEqual(x['economists'],['andy'])
         self.assertNotIn('author',x)
-        self.assertEqual(parse_feed(FEED.replace('Banco Central evalúa inflación dominicana','Andy Dauhajre juega tenis'),'2026-10-18',economist='andy'),[])
+        self.assertEqual(len(parse_feed(FEED.replace('Banco Central evalúa inflación dominicana','Andy Dauhajre juega tenis'),'2026-10-18',economist='andy')),1)
 
     def test_economist_alias_and_topic_tags(self):
         x=parse_feed(FEED.replace('Banco Central evalúa inflación dominicana','Juan Ariel Jimenez analiza el ITBIS y la economía'),'2026-10-18')[0]
@@ -33,5 +33,11 @@ class EconomyNewsTests(unittest.TestCase):
         second=build('2026-10-18',{'bcrd':([],None)},first)
         self.assertEqual(len(second['items']),1)
         next_day=build('2026-10-19',{'bcrd':([], 'offline')},first)
-        self.assertEqual(next_day['items'],[])
+        self.assertEqual(len(next_day['items']),1)  # Economist-tagged discovery remains for seven days
         self.assertFalse(next_day['source_health']['bcrd']['ok'])
+
+    def test_seven_day_retention_expires(self):
+        item=parse_feed(FEED,'2026-10-18',economist='andy')[0]
+        previous=build('2026-10-18',{'economist_andy':([item],None)})
+        self.assertEqual(len(build('2026-10-24',{},previous)['items']),1)
+        self.assertEqual(build('2026-10-25',{},previous)['items'],[])
