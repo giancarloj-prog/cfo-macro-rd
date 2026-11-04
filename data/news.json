@@ -1,7 +1,7 @@
 {
   "date": "2026-11-04",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-04T13:35:20+00:00",
+  "checked_at": "2026-11-04T18:01:10+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -24,25 +24,163 @@
     "mexico": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 3
     },
     "usa": {
       "ok": true,
       "error": null,
-      "count": 6
+      "count": 11
     },
     "europa": {
       "ok": true,
       "error": null,
-      "count": 13
+      "count": 12
     },
     "global": {
       "ok": true,
       "error": null,
-      "count": 10
+      "count": 21
     }
   },
   "items": [
+    {
+      "title": "Sanofi stops development of Nurix-partnered immune drug",
+      "publisher": "BioPharma Dive",
+      "publisher_url": "https://www.biopharmadive.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRnhGUnFFZm1SNnBiVzVWeW1TR3k3cVFOXzBVVlp3ZE9UVXBwQThOdFRXUFZ1c3VSaDdnaG10cnlUTWE3ZURwWHlIQmRQd1pkQUxyYTBIX3JHRi1OdTYxNm5hU3BQMzJURlBnVGdBeDJGeDAtMGc5RW01NkdCSlNabUhVdUkweVFLeXgxUmo3bFphckxMd2Z5di1wYmNNYy05dlE4?oc=5",
+      "published_at": "2026-11-04T17:41:44+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "UNAM ofrecerá 100 mil vacunas gratuitas contra covid, influenza, sarampión y neumococo",
+      "publisher": "Milenio",
+      "publisher_url": "https://www.milenio.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQ3JaYjNtU2J3VzZfaUsxWVo0Q0dqVmR0WjJCMDBscm9WUldueUxza0o0ak96ci1XT2UxSVZFUE4yWmhaUF80ckw2R2V2cVMxaWF1RWRWWUhJVmNHVUJzaDdzYVJVZjZOWmdKbm1MandFRm43MzNmbUc1bF9FVWd1OWM0Tno5aDA2RGZMWXY1N2hEX2gxelR1c2JhZzhqQdIBngFBVV95cUxNcjZlWGd6OGw1RFo3cXRSMXlCOXd6YVk3ODNydkF2VVMzd0w3YkY1UW9UT0ZXMmgtMmRsRTg0anR4RGhtUXdfSXZIRUpoT21ScERyeUpGaWxzdEF1NHhhLWRhOFIwZXd1ei1UaVZ6QXpWM0pLY1JjcHFXX3BuOTlHcHF3S3dfMTA0OWdkOVBwdjJ2Q0tFNk5wSzZtS25YQQ?oc=5",
+      "published_at": "2026-11-04T17:37:00+00:00",
+      "regions": [
+        "mexico"
+      ]
+    },
+    {
+      "title": "CVS Health to split, reversing years of deal-making to combine pharmacies and insurance",
+      "publisher": "STAT",
+      "publisher_url": "https://www.statnews.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8xSjFqRXh6ME5LZVNfQlJQNUo2RG93dk1GTl93SXg4cFJMazQ3MDBIeGpRUlJxQ3dPRUN1bW5sZnJUbnIyQkNWanVpSGpMTmphcG40VDZKTVBTeFFHdmN2dzJxRmJnOFhBTUs0VGFhM2taQjNyUm1NLU9Cbw?oc=5",
+      "published_at": "2026-11-04T16:35:38+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "OMS aprueba ensayos clínicos de nuevas vacunas contra el ébola; epidemia en África ha matado a más de 5 mil 300 personas",
+      "publisher": "El Universal",
+      "publisher_url": "https://www.eluniversal.com.mx",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQbzhQcG9XTUVkRGdXOG1FekxIUW8tckhyZm5IM1kyZHhLM2ZSbnp3T0RWUGU1U3c1bzF0Zlh4ZnNpV2lmQU01TldYUkFJSGdFQ1BzcnJpOTQ4RmdzcnBYT2Z5Vi12X1pWUVg5aW1VMU5PSXhPcFFteWNfRTNmekdJaWc5eldRMGY0ZWNzWXp3RGt1ZkdaZzBUNXhPZUVfbGdkcFhtZzBuZ3JIa1hBbUNESDNDYjJnb2FVYThtS0o1REJEWWdqNy1ReVVXLW9DYTlISE11XzY2UXR5dDM1Rko2T3Y2NUFFLUUwaVk4Z3B30gGCAkFVX3lxTE9ORUFNR3NvX3ZGc3psU3ZKMFQ5ODFxbnhLX2FHMW01ZVNPZExHUzFyVnVNUjVXZS12aTU4MEpMRWhvQnFiQUUxUHFyOFRsMVJNTGVTU3FyV2J4U014ZXdOQ2FkLUVjd1pPMm9zQkpvY0xoRnZIeDE0Zk1BMnNoZzJaNlBDTmM1eUp1bW14d3NNR3psYkhvenBuUm9kLTRINGlaWHdxTzM2RHIzeUJqOUkyQzdtSkxkNDJMRHRCd2VKV1REZUFNYXFPaUFlbW10VDliOTNOMUxjVWRzNlc3V3ExdjlGdWRVMk1Bb1lwLXJFTHpmRzFtTFh1U0I2dUZ2OEZWQQ?oc=5",
+      "published_at": "2026-11-04T16:27:00+00:00",
+      "regions": [
+        "mexico"
+      ]
+    },
+    {
+      "title": "Biopharma likely to climb higher after ‘blue wave,’ analysts say",
+      "publisher": "BioPharma Dive",
+      "publisher_url": "https://www.biopharmadive.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQ05pMHFodnhXOVZuMElNVF92NWVCX2ZmSVoxSWtvc1U1NFJ3aHZFRko4NURfdGN3QmNiQU9pNG1iMHJhNS0zTHVfSDNqdkVXSkh4ekhnQ0JQVFZMNjF3NUJBeDNLZ1hFQl9uSElWcmhaOUV4UDUwcTlnZTJXb2w3TkZXak1HcG9fVlE?oc=5",
+      "published_at": "2026-11-04T16:00:43+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "CVS to break up $117 billion business, separating pharmacies from insurance; shares fall",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQajJWZGJKRmQ0T1UtdWxsc1Q5d2ItVmFRUjdzRmRnT2tpVjc5Q3ZobXd1bmxyMHZUMDVtVFNsQkRTYTFkMUV3SXpGRmNRel93bEl4OW12YV9yTGpnUzV0Sk01OWFJZ1BzdXhWYmdQeUR4eG02OWdqbHJhWXcwODhyN0RpS0JxMk1UdUlrTGpvRUFrRGFPcXJCcmNHV3dvb1dfOHlGWjNYYnA0TlViRGJOamdUSzMxQQ?oc=5",
+      "published_at": "2026-11-04T15:46:22+00:00",
+      "regions": [
+        "global"
+      ]
+    },
+    {
+      "title": "How Africa became a key hub in the global drug trade",
+      "publisher": "DW.com",
+      "publisher_url": "https://www.dw.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQS0RBNUFZNk44WEtieUdQZV9mWDF6OXhEeEpWV3UwRFdKRmtzMjhqM2NkUmxBbjkzdk9qSFA5THZuLWR2anh0OFBoTVRWQ1BYNGY0bmhJVXNLNDVpdGt4ZUdsTmxKN20tWnVmWUJaUjhFdHFUTkdXWlJtbFZlRENSVl9Ndmg1UQ?oc=5",
+      "published_at": "2026-11-04T15:24:03+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "AI is exposing a new digital maturity divide in pharma businesses",
+      "publisher": "pharmaphorum",
+      "publisher_url": "https://pharmaphorum.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORDhiM2VfcTlyQ3JZUS1wZkxUWlJzbS1xMDlEZC1jME5iSGMyM0d3c3VWNVRTZzlGVTdjSU1fTW1Bd2VURjB6ak51dWdYRWhSSWRUVkNMQk83bzIzdXpFd2pmcFZkaHZ6WjFTQXpMVGFxVmdkNjFfREZNR1hCNWhic2xFYkU1UXhhb1lqV0ZOWTNxaENB?oc=5",
+      "published_at": "2026-11-04T14:56:56+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "Cocaine overtakes heroin as leading cause of drug deaths in England and Wales",
+      "publisher": "The Guardian",
+      "publisher_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZW5HM3dyT3daSUNoRnhvSEY3UHFlT0dPQU9sY0Z1MHhhazFqXzJScHRkZGJxZU81UkVoam5GR19oN05mUjNlUk1ZQUhKVWpxdjVjZjhRT0hrZVNXMkxRbGJ6QzBweDdLVGlPUTNNb3pGQXQwd3hvVXRPX01pSHQwUlRtalJWN1RwTTZvNTl3RjJHblFHY3BGd3hkRzIxOUE?oc=5",
+      "published_at": "2026-11-04T14:54:00+00:00",
+      "regions": [
+        "europa",
+        "global"
+      ]
+    },
+    {
+      "title": "Pharmalittle: We're reading about CVS plans to split up, FDA inspections in India and China and more",
+      "publisher": "STAT",
+      "publisher_url": "https://www.statnews.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQkFLYWZMR3Z6Vl9yZ1N3Qm00OVE1Q0txSjFieFJfeDJPTHA1eFZEZUVDMllucmhBbS1Ed0tieDdQZHkyWXBsRUVwQkFNQzF6ZVJVMmtNSllHNFBDa3RLUUsxWlc4SVdfZ1pQLUJCakMyMVZpLWVuaE5SMXQydUNkdUE5N3lsQnVfY3E4SVFnb0lxZUJ5NlUxTmpMNEZKYUtHZWlEYmRn?oc=5",
+      "published_at": "2026-11-04T14:25:21+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "NEWSLETTER: GLP-1 drugs help control prediabetes better than current standard medicine",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxORHJraGhpZDJuNGN4MGhLWkR2UEltdXpUaVphcjVHVGU1WERiSElLc1d1UUE4blNsUDR5ZmRZcVFoVFE1RkhCMnhXWUt3WndiQzQ3LWh4aXBibWV6dXlXb0Nkd0RleHpvdmNnSWc1a0prQnR4MDI1QXFzZEdfSW02UFdxTGxNZ1A4SmYyakd4Vml2NDlHbjdtWko3NV80Y2hTVDlNUnAwSkZYYkhqczlNczA3VHVxcUJURXFEYjJhRnhMWGRCZFgzc0NrcVJZYjRWSnEzSDRmMmk2UktLeS0w?oc=5",
+      "published_at": "2026-11-04T14:18:12+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "U.S. FDA Grants Priority Review to BeOne Medicines' BRUKINSA Combination in First-Line Mantle Cell Lymphoma",
+      "publisher": "Financial Times",
+      "publisher_url": "https://markets.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNlhkZDc5VUhHcGhaTGtHeDFRYUx2WmRWQzBSNmhqRU80cDJtM3ZsaDB3SzR2XzJUSmoydU9VQWxQUXZKR2tTdmhweEhObTZZSGNlaDk1UU9GaWVjOWVPR3lUOXdTTHlVLVJtRUNKak9hLWx0eXFnajljSFhtSDktVmFZVDJzTkpiX2tUVVBFVDlkUHZSSlcxWVlvLUNXbHdIal9hSHdB?oc=5",
+      "published_at": "2026-11-04T14:13:00+00:00",
+      "regions": [
+        "europa",
+        "global"
+      ]
+    },
+    {
+      "title": "Amylyx Pharmaceuticals to Host Investor Event at ObesityWeek® 2026 Featuring Leading PBH Experts",
+      "publisher": "Financial Times",
+      "publisher_url": "https://markets.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRl9oMFlQc1gxYTZqRUZWMTZQSTR4VW0xTEtTSjViRm8wa2xwMVlNZlYtcUxLRGxvYzBUZGlyZjV1UlVFRDdnUG1hb1Iwdk80ZHR3dlZqcmNHOEJaczdmcDFwQzcta3FQRjRSRWtTaUVuVERreGJhZFZteUxaeENMUlZMU25pTjFjaWl3U216XzJvanphdUVpWFRuTWNxbTNQWDhXbk1B?oc=5",
+      "published_at": "2026-11-04T14:00:00+00:00",
+      "regions": [
+        "europa",
+        "global"
+      ]
+    },
     {
       "title": "VC Firm NSV Raises Nearly $55 Million in First Close of Inaugural Biotech Fund",
       "publisher": "WSJ",
@@ -114,28 +252,28 @@
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5kaG1NcTZUZjlZZHJEd0g0ODFSX05nc1lpYlhiRXRCbllYUldfZUYyNnBXNnMwdG5fWkhGWTJlQzlSV1VOdk9iM1FOQzJnQlNqSEtNRVBqOA?oc=5",
       "published_at": "2026-11-04T11:49:48+00:00",
       "regions": [
-        "europa",
         "global"
       ]
     },
     {
-      "title": "CVS to split off drugstore business in major breakup of healthcare giant",
+      "title": "CVS Raises Forecast on Health Care Benefits, Pharmacy Gains",
+      "publisher": "WSJ",
+      "publisher_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQLWZvUkRMQTZLRlNrTjlVNDhBWmpDVi1xaUhrVWtLdWZYTzdvS3hSRFVpSXBXb3lUYzdWWGx5MVp0THlHSGQxTTB6YmxIN0NzQW5EUlo2V1liM19RazZtWXNlOXB5QnM4bjhhNFVOakdvaFlheU1NV1NWS2pDQXFoeTFWOHdpQVExdWx0X1I3ZmN2TXFYT0R0TlBPb1RhcElMdjNXOXc4MGI?oc=5",
+      "published_at": "2026-11-04T11:42:00+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "CVS to split off drugstore business in major breakup of healthcare giant; shares fall 10%",
       "publisher": "CNBC",
       "publisher_url": "https://www.cnbc.com",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE02NmJqOUVDcHlJclhoTFUyNkM5eVhOWHNQT2tpenJRbWwzLW1OUkhTNFM5SUl2QlUtNnFzLVpfY2dqUmYwRkR0WnBLRXhWT21NMkdicTZJUjBSYXMwN3ZncHh1M2thNGJXSFBPQi1OUnVXYk1JZU1GUkRlR0LSAYIBQVVfeXFMT2x6SmliYjNvdnFVUEowWUdXejdaTmRnWHZoaWx3bzZqSGhqdUVtVlpQMEdKRTlpdFMzRHBCclpjWGU0bEVXeHRsRDdzVVkxXzJuVFN6bUdZdGtLV0o5d0U3NmZweFBCcDhFbDhsMGtabFVjQmlDUWd5UE9PbVFSODZzdw?oc=5",
       "published_at": "2026-11-04T11:35:53+00:00",
       "regions": [
         "usa"
-      ]
-    },
-    {
-      "title": "Swiss pharma industry behind in technology and clinical trials, index shows",
-      "publisher": "Reuters",
-      "publisher_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVU9SUWQtQXZ6SlZ4bGNJOFpBSlJLQ3U2S0NweUgtMVAtWktuTm1aY2hqV1BTRUJNTTlUZm0wMkpFRXhkejQ1WTB1YkN1c0dFMTY5b3VMXy1sd3JNUU9nUzlqaFhjaXpNMVJJTmY3YVljdG9DbEcyUEhCUVMxY0hIX1V2TTJ3eTNPdlk5em9mdzdUUjZXeXZlbWxyVGZNRnFGcGNjY0xyZVV3M3JERFhfczlfQmxUZVpWQUVxUUY5cFNMdTdZcDY1NVFxQXZuUmFjdTRYSExn?oc=5",
-      "published_at": "2026-11-04T11:26:45+00:00",
-      "regions": [
-        "europa"
       ]
     },
     {
@@ -151,22 +289,11 @@
     {
       "title": "Armed drug dealer caught hiding in bush in Halesowen jailed",
       "publisher": "BBC",
-      "publisher_url": "http://news.bbc.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ZZ0RhN0pTdGVCRFFLSU9MUmF2aU04Z0VZQ2stbHZfNHdvb09DN3R2bVF5Q1pDeW5xTGhFdUppV29sRTVxaEk2MmNwTndrR1o3WFlya0tEWHNUSWsxVlE?oc=5",
+      "publisher_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zeVRLNU9QQm5KdjhfSXVuVGlrLWhnWXd5RmRLYWdUUmk2eXRRb1BEb29FX1ktRmh3X2RXV1BhOG5rNUJ5REQ3NGRNZEZZSkwyWTJ3S09KdlVCOGs?oc=5",
       "published_at": "2026-11-04T11:00:05+00:00",
       "regions": [
-        "europa",
         "global"
-      ]
-    },
-    {
-      "title": "India's Alembic Pharma profit jumps on strong US sales",
-      "publisher": "Reuters",
-      "publisher_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOX0NmdUNyYlk4bFE0VVhhT3VYTDFBNTFSd0hwLWNHNUZfdUpqZk5PMUZORTI1ZXNHQlhtV0YwRkFNSlRiSm1lUjlLSGtqWGxkaWY0Y3U0eVlheEVkSHlBMi1EbXhmNWJLVGxTRVdKYklISXhEY0VOaDZyeHR0RG9EUGV2ZEIzQVBaeHNBaHE0NkttZHA5c1U4eWVtQWNhaTlxX3h4ejg2WGxOdW9MNEFzUFdNTmNZX2loSXV6akJuNA?oc=5",
-      "published_at": "2026-11-04T09:50:43+00:00",
-      "regions": [
-        "europa"
       ]
     },
     {
@@ -175,16 +302,6 @@
       "publisher_url": "https://pharmaphorum.com",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQempIVnEtRnVjMjIwR2htTEQ2Yk9TTmtTU2Y5WE1IUHhTaEVOZTE3SzNOeXFIelpVRkNQelJ4MTB4V05FVWNST0Z5MlVIbkxHa010dE9Rcnp0eWNTQVlRSGNqOHl1UXlwNlp2Nno5WHJIeWdIYTdVdnpSb2xrZk1QYVdoTVFkdkF6M05V?oc=5",
       "published_at": "2026-11-04T09:36:18+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "Sino Biopharmaceutical, Boehringer ink cancer drug deal worth $7 billion in milestones",
-      "publisher": "Reuters",
-      "publisher_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaDYzOHVfdXZxZVVUNEdPbl9EbkFwcERQRkI0dnJaN3FObTdpSmZoaXpIWUM4TEhQMDQ5UU1PZFhJWm9RMl8zbC1tSmwxRzRUVjdLVldaN0RWXzVUQXM2RVRzM1VNUW5vODRaRzBZNUwxTlNDVFZuM1Y3YTdhWGpkZzg0bkpSaFU3UlQ2U2dibmxYSVZHQ3h4bjZoWnZzU2ZJcTdJajlhTHhGakdwX3Y3T3VnZGJ3ZWNkWVlwRkVmWlhiejd6Tmp0Yw?oc=5",
-      "published_at": "2026-11-04T09:24:44+00:00",
       "regions": [
         "europa"
       ]
@@ -221,6 +338,16 @@
       ]
     },
     {
+      "title": "BridgeBio Pharma Inc. BBIO (Mexico)",
+      "publisher": "WSJ",
+      "publisher_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1HSzg5YmI4SjBvazRrdk5aTE9DVTJRTHBVWml1RThBUlJ0MkphUDRoaFhjbWliUU53aGZWdXNlcjR0Wk9Vd1EyMlZZekZHVmwzTGt4SnFNSTVmMGdxTHVrUjNibWZfZnd6c0RmeGNRclpJc0hlMDNjVQ?oc=5",
+      "published_at": "2026-11-04T06:10:29+00:00",
+      "regions": [
+        "global"
+      ]
+    },
+    {
       "title": "Public toilets to charge after drug and alcohol use",
       "publisher": "BBC",
       "publisher_url": "https://www.bbc.com",
@@ -249,8 +376,7 @@
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5hSzNYQ09fVjktODNXXzBCTTBaRDh3aFR5a0EzVTVSQmFjU19GdjJWMnBmZTYzTEtncDZqQ1lUUHJ6Ymt5cDdYZE01QnVMMTZ5Z1JsWGVR?oc=5",
       "published_at": "2026-11-04T04:12:30+00:00",
       "regions": [
-        "global",
-        "usa"
+        "global"
       ]
     },
     {
