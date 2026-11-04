@@ -11,14 +11,14 @@
   if(!data)return;
   const list=el('economyList'),status=el('economyStatus');
   if(data.date!==today()){
-   list.innerHTML='<div class="empty">Pendiente la actualización de hoy. Las publicaciones de días anteriores se han ocultado.</div>';
+   list.innerHTML='<div class="empty">Pendiente la actualización de hoy. Se conservan publicaciones de autores prioritarios hasta 7 días, cuando se actualice la consulta.</div>';
    status.textContent='Solo noticias del día · hora dominicana';return;
   }
   const topic=el('economyTopic').value,who=el('economyEconomist').value,q=fold(el('economySearch').value);
-  const items=(data.items||[]).filter(x=>(topic==='all'||x.topics?.includes(topic))&&(who==='all'||x.economists?.includes(who))&&fold(x.title+' '+x.publisher+' '+(x.economists||[]).map(k=>data.economists[k]).join(' ')).includes(q));
+  const items=(data.items||[]).filter(x=>{const age=Math.floor((new Date(today()+'T12:00:00-04:00')-new Date(x.published_at))/86400000);return age>=0&&age<(x.economists?.length?7:1)}).filter(x=>(topic==='all'||x.topics?.includes(topic))&&(who==='all'||x.economists?.includes(who))&&fold(x.title+' '+x.publisher+' '+(x.economists||[]).map(k=>data.economists[k]).join(' ')).includes(q));
   const failures=Object.values(data.source_health||{}).filter(x=>!x.ok).length;
   status.textContent=`${data.date} · ${items.length} publicaciones · Última búsqueda: ${time(data.checked_at)} (RD)${failures?' · Cobertura incompleta: '+failures+' búsquedas pendientes':''}`;
-  list.innerHTML=items.map(x=>`<article class="card news-card"><div class="k">${esc(x.publisher)} · ${time(x.published_at)} RD</div><h3><a href="${esc(safe(x.url))}" target="_blank" rel="noopener noreferrer">${esc(x.title)}</a></h3><div class="news-tags">${(x.topics||[]).map(k=>`<span>${esc(data.topics[k]||k)}</span>`).join('')}${(x.economists||[]).map(k=>`<span>${esc(data.economists[k]||k)}</span>`).join('')}</div>${x.economist_match==='search'?'<p class="source-note">Coincidencia por búsqueda de nombre; no confirma autoría.</p>':''}</article>`).join('')||`<div class="empty">${failures?'La búsqueda está incompleta. No hay publicaciones disponibles con estos filtros.':'No se encontraron publicaciones de hoy con estos filtros.'}</div>`;
+  list.innerHTML=items.map(x=>`<article class="card news-card"><div class="k">${esc(x.publisher)} · ${new Date(x.published_at).toLocaleDateString('es-DO',{timeZone:'America/Santo_Domingo'})} ${time(x.published_at)} RD</div><h3><a href="${esc(safe(x.url))}" target="_blank" rel="noopener noreferrer">${esc(x.title)}</a></h3><div class="news-tags">${(x.topics||[]).map(k=>`<span>${esc(data.topics[k]||k)}</span>`).join('')}${(x.economists||[]).map(k=>`<span>${esc(data.economists[k]||k)}</span>`).join('')}</div>${x.economist_match==='search'?'<p class="source-note">Coincidencia por búsqueda de nombre; no confirma autoría.</p>':''}</article>`).join('')||`<div class="empty">${failures?'La búsqueda está incompleta. No hay publicaciones disponibles con estos filtros.':'No se encontraron publicaciones de hoy con estos filtros.'}</div>`;
  }
  async function load(){
   try{
