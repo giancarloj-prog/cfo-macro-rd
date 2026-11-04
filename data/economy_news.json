@@ -1,7 +1,7 @@
 {
   "date": "2026-11-04",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-04T18:01:09+00:00",
+  "checked_at": "2026-11-04T23:42:36+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -23,12 +23,12 @@
     "bcrd": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 2
     },
     "fiscal": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 1
     },
     "dgii": {
       "ok": true,
@@ -38,7 +38,7 @@
     "finance": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 0
     },
     "securities": {
       "ok": true,
@@ -48,7 +48,7 @@
     "economy": {
       "ok": true,
       "error": null,
-      "count": 4
+      "count": 7
     },
     "economist_andy": {
       "ok": true,
@@ -58,7 +58,7 @@
     "economist_jaime": {
       "ok": true,
       "error": null,
-      "count": 2
+      "count": 3
     },
     "economist_juan_ariel": {
       "ok": true,
@@ -83,6 +83,112 @@
   },
   "items": [
     {
+      "title": "Banco Central explica mayor volatilidad del dólar y defiende flexibilidad cambia",
+      "publisher": "El Caribe",
+      "publisher_url": "https://www.elcaribe.com.do",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOE03aEN1YU5Ba1ZOUENQMVBjcFlZWnRsWW9qZWtxM194a0N2Y0RkSl9hWkE3d0d3TXFaaFJXSU5ScG5PZHQweHJMU1RXcnBwS0M4MkltblF3Z0U2UmJ2SHg5Q2oyby1sdzJkejI1NXQ4aE1udFBVbFR6SVBzNXJTTEJuSU91RGdRc25HQmtkdTQxcUJfT3ZwNFdoR3g5YlZPTl95dENHTnhBYzZZRno0bEFVeVNmUk1JdWdfd0pPa1Y?oc=5",
+      "published_at": "2026-11-04T21:18:04+00:00",
+      "topics": [
+        "bcrd",
+        "finance"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "bcrd"
+      ]
+    },
+    {
+      "title": "Gobierno prevé déficit fiscal cierre 2026 en torno al 4% del PIB",
+      "publisher": "Periódico elDinero",
+      "publisher_url": "https://eldinero.com.do",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOX2E2Y19EMVhYakVSUjd3azBiMzJqRENpT2k5SmZzWExRdTRaVWNCaC1RR2lrMDhLdE9rUGVlVk9mRnFkSUJNQ0NTYWI3VmhkMVBxVURmZGYxM05LYWViUENJWms4UC1zd2Z4SnRYanpydHRPRVBEZnJsS3BIUWlBOFFkQVNscWYzVk5jUWVkNmU2eDhFY3NuOVowZw?oc=5",
+      "published_at": "2026-11-04T20:26:57+00:00",
+      "topics": [
+        "fiscal"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "fiscal"
+      ]
+    },
+    {
+      "title": "Paniagua destaca estabilidad económica de RD como atractivo para inversionistas",
+      "publisher": "Acento",
+      "publisher_url": "https://acento.com.do",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUmJxLXZGRjVFN1NkZmtnOHphalhpaU5nR1hLUWRQdnNvNkFXMXROUWdnN3oyd1NCRmpmMmxDUEt2U3pjVUhwSjVmS3Zyakk4NXFJZjdiNEN0aGdMbWowU2FYMEhWLUxmS0hmNGV3eGUtRUpJT3VjYlp5LVg0akRwZEFHMUJzdFBZS3FIMmV3R2tFc0EwRDcwekdSQXhOMlk5Umd0QUJKQTQwM19LaDFQMHQ1b2dfR2E0UzNWajRDWnTSAcABQVVfeXFMTlJicS12RkY1RTdTZGZrZzh6YWpYaWlOZ0dYS1FkUHZzbzZBVzF0TlFnZzd6MndTQkZqZjJsQ1BLdlN6Y1VIcEo1Zkt2cmpJODVxSWY3YjRDdGhnTG1qMFNhWDBIVi1MZktIZjRld3hlLUVKSU91Y2JaeS1YNGpEcGRBRzFCc3RQWUtxSDJld0drRXNBMEQ3MHpHUkF4TjJZOVJndEFCSkE0MDNfS2gxUDB0NW9nX0dhNFMzVmo0Q1p0?oc=5",
+      "published_at": "2026-11-04T20:00:24+00:00",
+      "topics": [
+        "economy"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "economy"
+      ]
+    },
+    {
+      "title": "Abinader apuesta a Asamblea de ONU Turismo 2027 para atraer inversiones",
+      "publisher": "El Dia.com.do",
+      "publisher_url": "https://eldia.com.do",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQnVFZzNnb1hXSURucllDQ2VkLUhfRjdiOEpMbG52MTJWb0RPaUJwaFZOZGwxMXd5Q19zb2dOTV9fX0ZkaEpNMzlmR3JrbW5iLV9UODNlYmg3aTFlSm0wcUdnMU8xNFpEVkhJNkRQRklxaHFBTWM5RTZXV0xJa1BjbzljUzBfbUpuczh4Z1M4cm5tanNJVXE1OE42MHNmVllJU0dVVDRmOW9pNm5hTktXbklRb2lZVHI4QTQ5X0pxd2FNeENIalJ6VG1naDk?oc=5",
+      "published_at": "2026-11-04T19:23:15+00:00",
+      "topics": [
+        "economy"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "economy"
+      ]
+    },
+    {
+      "title": "República Dominicana reivindica lo diversa que es su economía: Somos más que turismo",
+      "publisher": "Diario Libre",
+      "publisher_url": "https://www.diariolibre.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdmp4emJCb1RMa2NRWktCM0kwdlE5QWVNYlRhY1U2MWYzT1JNcFlScy00NF9iMy1ET2FPUG9ibXVHV0hqRFJ5MXpEQXhtNUZaTEF1T2Jma3l1ckIwTWFaVXZRaF9jbTd3M3F2bVBfakp2akxtSlNqUWZKcGpsc3loQkdKVVBVczVJajdlSmJOX3RlU0xGVnZWeFdPbGd1MmpJckpsR2FPeVlSbm5UN1FudF9EeEJ3by1XcmFHRS14VlpYMjjSAcgBQVVfeXFMTXVlTEpabVJtRW14YmEzWHIzcTMxZUM1cFhaaDJodkRLUzcyQXp1eWJMVUV5NkJicEhWdWtacXN3dzNVTjNscUhQd1hKa24tZXpkSmVDUDBHclZrRlo2bFA1STZ1WWFOLXZ2bDQ4bGxMQVNNMzlxUm5FUkhuYUlIOUJ4YVd0cVpESGZSaFRWUUVWV25FNm40S0N0cUQzLVpBUWtMOVc4M1pWeTNuaUFsek9RRWxNalJ1dFlpRzdjc20yMHhGX2tSemk?oc=5",
+      "published_at": "2026-11-04T18:59:00+00:00",
+      "topics": [
+        "economy"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "economy"
+      ]
+    },
+    {
+      "title": "Abinader busca atraer nuevas inversiones con asamblea de ONU Turismo en RD",
+      "publisher": "Diario Libre",
+      "publisher_url": "https://www.diariolibre.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOb0RlTUg4VEROMmJLZGpiYXJveWtmVDNDTGtKVDlNRmswYXllR2xXWUZMNHZ5YlQ2MEdacnZqNlF5YTFnVWNqTnc1X2Y2OEEtc3V5M3AtQ3hKVS03ZnJVd2RoWTF0MndCRnVNMkJvbWI0QUVtQ3h5ZWhROHBxQlNEQ3BxYkV1bXVPZlpLUW05NEtsaUNQcnYtY0h4SXVvSXRJWG1yNVFEUEE0TE1OanNjZXhrUXpLRll6TnlqQjFzWW7SAcYBQVVfeXFMTWlBM05PSlNnNVpjZWRna0RHUGlwTVNRWUt3VkZFbFlodmhaS2E2c2djTWJhLUNQOWdKaVduSDd0UGlnY1hrbWtHMDFYeXVpeHhwV2NheXZ6cHZ3dElCU3VmS1JpbExNMnljdF9ncTdJWnRzNG9PSXNaZnFOSWV0VWJ5cE9rbXlMbnpCa3BqcHBmZUZiNDR5YS1JNkptNU9LUHczOUo2SDZZWjFZSGd0M3FWbVh0aE5aZDk0MGh5WTFSd2h4cWZ3?oc=5",
+      "published_at": "2026-11-04T17:37:00+00:00",
+      "topics": [
+        "economy"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "economy"
+      ]
+    },
+    {
+      "title": "Magín Díaz asegura economía RD avanzó en 2026 pese a crisis mundial; crecerá el doble del promedio de América Latina",
+      "publisher": "El Nuevo Diario",
+      "publisher_url": "https://elnuevodiario.com.do",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVFJLVjFhd1Rlb2FYVmctUzczVml6RzM3djdJNmJ1ajcyaDVyQ1NHOGtoTWZVZE5JdG1TYlZNRFpkVTQ3OGI4c2lBaUtjc2ZRX2oxSmNxYkxMcGZ4Tnp1VnM4QUlVem1CSGRlWHdmUFJkeTZmb0lPUVZvVVpkcThfSkFmbF9hZUR6VFIzRWRqYWtKOHc5X2tUZThuRFhvWlNyNXNEZ3hkTkNxS3FUMTN4MzVUTE9yZEZlVDhlYlpuRHZ0cFRWeWl5Ni1GZUViWG9TcnJTYVFhTHk1UQ?oc=5",
+      "published_at": "2026-11-04T15:27:10+00:00",
+      "topics": [
+        "economy"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "economy"
+      ]
+    },
+    {
       "title": "Magín Díaz asegura economía RD avanzó en 2026 pese a crisis mundial; dice país crecerá el doble de América Latina",
       "publisher": "El Nuevo Diario",
       "publisher_url": "https://elnuevodiario.com.do",
@@ -104,11 +210,13 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNVh3VUl2LU5lbjhIYjZkNU9EUm5ZRjJoZER1b2puSmdaMEF4WXFmSW5ZNU5IQUxfN21OdDd5N0RDSk16ZkVLYkpYMVh2T3E3Z2ZjRG1EVW5ZZjNkMmh5em1vazJURXZoRUdRV09kMzhPMUpsRkxIcVlvZkpvUWhCUnk5TTllQ2NOZktvYWNnMVdaVDRab0dQWTlyYTNNN0JGcEhZZWZ1eUJiQQ?oc=5",
       "published_at": "2026-11-04T15:09:21+00:00",
       "topics": [
+        "bcrd",
         "economy"
       ],
       "economists": [],
       "economist_match": null,
       "searches": [
+        "bcrd",
         "economy"
       ]
     },
@@ -118,6 +226,21 @@
       "publisher_url": "https://eldinero.com.do",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYUw5UW5UYjc5SVpOSGRtakhGNGlha2R6T3VmTEhkQXl0MUdBMGJ0Z1lMdVN6M19NMnNGeF8zMUNLRzROcG9nQnpCc2xza3NjY0lSempNX3Vhc1o4Ry1jai1fcHZmWUZ1ZTdHaXpzRlcxNkFMbXlRcTBSWDludm5DaEx3VEZZWDEwbjNWdmg3d21LNEV0a2hETHBTSjk1WXBlbF9PdG15eERyY2FGX3c?oc=5",
       "published_at": "2026-11-04T15:02:17+00:00",
+      "topics": [
+        "economy"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "economy"
+      ]
+    },
+    {
+      "title": "Una economía que sigue generando confianza",
+      "publisher": "El Dia.com.do",
+      "publisher_url": "https://eldia.com.do",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE80QVA2a2Yxc1hMVllKYnlyaTctZVNoR2tRYlBlRnFSaUFoOGFINWlQMUx1N21tNi00VVJRNnpjX0NpN1lsSXF5bVZsMUN2a1ltaUg1cEhxbmwxLTBQWkZVOV9Lci12SE5SWFZKZU0yajJTZw?oc=5",
+      "published_at": "2026-11-04T04:01:00+00:00",
       "topics": [
         "economy"
       ],
@@ -140,21 +263,6 @@
       "economist_match": null,
       "searches": [
         "finance"
-      ]
-    },
-    {
-      "title": "Una economía que sigue generando confianza",
-      "publisher": "El Dia.com.do",
-      "publisher_url": "https://eldia.com.do",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE80QVA2a2Yxc1hMVllKYnlyaTctZVNoR2tRYlBlRnFSaUFoOGFINWlQMUx1N21tNi00VVJRNnpjX0NpN1lsSXF5bVZsMUN2a1ltaUg1cEhxbmwxLTBQWkZVOV9Lci12SE5SWFZKZU0yajJTZw?oc=5",
-      "published_at": "2026-11-04T04:01:00+00:00",
-      "topics": [
-        "economy"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "economy"
       ]
     },
     {
