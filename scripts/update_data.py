@@ -5,6 +5,8 @@ Keeps the last validated value whenever a field cannot be parsed.
 from pathlib import Path
 from datetime import datetime, timezone
 from io import BytesIO
+from math import isclose
+from urllib.parse import urljoin, urlsplit
 from zipfile import ZipFile
 import json, re, requests
 from bs4 import BeautifulSoup
@@ -14,6 +16,7 @@ ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / "data" / "current.json"
 BCRD = "https://www.bancentral.gov.do/"
 HACIENDA = "https://www.hacienda.gob.do/"
+DIGEPRES_WEEKLY = "https://digepres.gob.do/reporte-semanal/"
 DIGEPRES_EXECUTION = "https://digepres.gob.do/ejecucion-presupuestaria-{year}/"
 DGII_PAGE = "https://www.dgii.gov.do/estadisticas/Operaciones-Recaudaciones-ITBIS/Paginas/default.aspx"
 DGII_FILES = {
@@ -107,6 +110,56 @@ def update_dgii(p, hist):
     }
     return updated
 
+def digepres_weekly():
+    page = requests.get(DIGEPRES_WEEKLY, headers=UA, timeout=30)
+    page.raise_for_status()
+    reports = []
+    for link in BeautifulSoup(page.text, "html.parser").find_all("a", href=True):
+        url = urljoin(DIGEPRES_WEEKLY, link["href"])
+        path = urlsplit(url).path
+        match = re.search(r"/Reporte-Semanal-(\d{1,2}-\d{1,2}-20\d{2})(?:-[^/]*)?\.xlsx$", path, re.I)
+        if match:
+            reports.append((datetime.strptime(match[1], "%d-%m-%Y").date(), url))
+    if not reports:
+        raise ValueError("No se encontraron reportes semanales de DIGEPRES")
+    cutoff, url = max(reports)
+    response = requests.get(url, headers=UA, timeout=60)
+    response.raise_for_status()
+    wb = load_workbook(BytesIO(response.content), read_only=True, data_only=True)
+    try:
+        sheet = wb["Fiscal Mes"]
+        rows = list(sheet.iter_rows(max_row=45, values_only=True))
+        month = next(name for name, number in MONTHS.items() if int(number) == cutoff.month)
+        date_pattern = rf"\b0?{cutoff.day} de {month} de {cutoff.year}\b"
+        if not re.search(date_pattern, norm(" ".join(str(row[0] or "") for row in rows[:10])).lower()):
+            raise ValueError("El corte del reporte semanal no coincide con el archivo")
+
+        headers = next(
+            [norm(v).lower() if isinstance(v, str) else "" for v in row]
+            for row in rows if "Devengado" in row and "% Devengado" in row
+        )
+        label, budget, actual, ratio = (
+            headers.index(name) for name in ("indicadores", "pres. vigente", "devengado", "% devengado")
+        )
+        labels = ("1 - ingresos", "2 - gastos", "3.1 - fuentes financieras", "3.2 - aplicaciones financieras")
+        amounts = {}
+        for row in rows:
+            name = norm(str(row[label])).lower()
+            if name not in labels:
+                continue
+            # The workbook mixes raw pesos and millions in the execution column.
+            # The percentage of the current budget verifies which scale applies.
+            budget_millions = row[budget] / 1_000_000
+            candidates = (row[actual] / 1_000_000, row[actual])
+            amounts[name] = next(
+                value for value in candidates
+                if isclose(value / budget_millions, row[ratio], rel_tol=1e-4, abs_tol=1e-8)
+            )
+        return cutoff.isoformat(), [amounts[name] for name in labels], url
+    finally:
+        wb.close()
+
+
 def update_hacienda(p, hist):
     """Update the headline fiscal execution figures published by Hacienda."""
     updated = []
@@ -124,35 +177,41 @@ def update_hacienda(p, hist):
         m = re.search(pattern, text, re.I | re.S)
         if not m:
             raise ValueError("No se encontró el bloque de indicadores fiscales")
-        income, expense, sources, applications = map(num, m.groups()[:4])
+        amounts = list(map(num, m.groups()[:4]))
         day, month, year = m.groups()[4:]
         period = f"{year}-{MONTHS[month.lower()]}-{int(day):02d}"
-        values = {
-            "fiscal_income": income,
-            "fiscal_expense": expense,
-            "financial_sources": sources,
-            "financial_applications": applications,
-            "budget_balance_simple": income - expense,
-            "net_financing": sources - applications,
-        }
-        fiscal_hist = hist.setdefault("fiscal", {})
-        for key, value in values.items():
-            if setv(p, key, value, period, "Hacienda"):
+        source = "Hacienda"
+        health = {"ok": True, "url": HACIENDA, "http_status": r.status_code}
+    except Exception as exc:
+        health = {"ok": False, "url": HACIENDA, "error": str(exc)}
+        try:
+            period, amounts, url = digepres_weekly()
+            source = "DIGEPRES"
+            health.update(ok=True, url=url, primary_error=health.pop("error"))
+        except Exception as fallback_exc:
+            health["fallback_error"] = str(fallback_exc)
+            p.setdefault("source_health", {})["hacienda"] = {**health, "updated_fields": updated}
+            return updated
+
+    income, expense, sources, applications = amounts
+    values = {
+        "fiscal_income": income,
+        "fiscal_expense": expense,
+        "financial_sources": sources,
+        "financial_applications": applications,
+        "budget_balance_simple": income - expense,
+        "net_financing": sources - applications,
+    }
+    fiscal_hist = hist.setdefault("fiscal", {})
+    for key, value in values.items():
+        current = p.get("series", {}).get(key, {})
+        if period > current.get("period", "") or (
+            period == current.get("period") and (source == "Hacienda" or current.get("source") != "Hacienda")
+        ):
+            if setv(p, key, value, period, source):
                 updated.append(key)
             fiscal_hist.setdefault(key, {})[period] = value
-        p.setdefault("source_health", {})["hacienda"] = {
-            "ok": True,
-            "url": HACIENDA,
-            "http_status": r.status_code,
-            "updated_fields": updated,
-        }
-    except Exception as exc:
-        p.setdefault("source_health", {})["hacienda"] = {
-            "ok": False,
-            "url": HACIENDA,
-            "updated_fields": [],
-            "error": str(exc),
-        }
+    p.setdefault("source_health", {})["hacienda"] = {**health, "source": source, "updated_fields": updated}
     return updated
 
 def find_fiscal_summary(wb):

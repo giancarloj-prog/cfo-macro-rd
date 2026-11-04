@@ -162,34 +162,34 @@
       "source": "DGII"
     },
     "fiscal_income": {
-      "value": 1036441.93,
-      "period": "2026-10-16",
-      "source": "Hacienda"
+      "value": 1112914,
+      "period": "2026-10-30",
+      "source": "DIGEPRES"
     },
     "fiscal_expense": {
-      "value": 1266414.47,
-      "period": "2026-10-16",
-      "source": "Hacienda"
+      "value": 1315052.546447758,
+      "period": "2026-10-30",
+      "source": "DIGEPRES"
     },
     "financial_sources": {
-      "value": 423932.26,
-      "period": "2026-10-16",
-      "source": "Hacienda"
+      "value": 422436.0,
+      "period": "2026-10-30",
+      "source": "DIGEPRES"
     },
     "financial_applications": {
-      "value": 70632.84,
-      "period": "2026-10-16",
-      "source": "Hacienda"
+      "value": 80731.22659369999,
+      "period": "2026-10-30",
+      "source": "DIGEPRES"
     },
     "budget_balance_simple": {
-      "value": -229972.53999999992,
-      "period": "2026-10-16",
-      "source": "Hacienda"
+      "value": -202138.5464477581,
+      "period": "2026-10-30",
+      "source": "DIGEPRES"
     },
     "net_financing": {
-      "value": 353299.42000000004,
-      "period": "2026-10-16",
-      "source": "Hacienda"
+      "value": 341704.7734063,
+      "period": "2026-10-30",
+      "source": "DIGEPRES"
     },
     "fiscal_income_yoy": {
       "value": 12.789132681695348,
@@ -255,10 +255,18 @@
       "errors": {}
     },
     "hacienda": {
-      "ok": false,
-      "url": "https://www.hacienda.gob.do/",
-      "updated_fields": [],
-      "error": "403 Client Error: Forbidden for url: https://www.hacienda.gob.do/"
+      "ok": true,
+      "url": "https://digepres.gob.do/wp-content/uploads/2026/11/Reporte-Semanal-30-10-2026-1.xlsx",
+      "primary_error": "403 Client Error: Forbidden for url: https://www.hacienda.gob.do/",
+      "source": "DIGEPRES",
+      "updated_fields": [
+        "fiscal_income",
+        "fiscal_expense",
+        "financial_sources",
+        "financial_applications",
+        "budget_balance_simple",
+        "net_financing"
+      ]
     },
     "digepres_history": {
       "ok": true,
@@ -288,7 +296,13 @@
     "current_account_gdp",
     "itbis_total_operations",
     "itbis_taxed_operations",
-    "itbis_revenue"
+    "itbis_revenue",
+    "fiscal_income",
+    "fiscal_expense",
+    "financial_sources",
+    "financial_applications",
+    "budget_balance_simple",
+    "net_financing"
   ],
   "cfo_watch": [
     {
