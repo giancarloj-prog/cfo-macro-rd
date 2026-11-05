@@ -1,7 +1,7 @@
 {
   "date": "2026-11-05",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-05T06:59:51+00:00",
+  "checked_at": "2026-11-05T18:03:47+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -23,37 +23,37 @@
     "bcrd": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 2
     },
     "fiscal": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 1
     },
     "dgii": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 1
     },
     "finance": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 2
     },
     "securities": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 1
     },
     "economy": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 1
     },
     "economist_andy": {
       "ok": true,
       "error": null,
-      "count": 4
+      "count": 3
     },
     "economist_jaime": {
       "ok": true,
@@ -83,6 +83,87 @@
   },
   "items": [
     {
+      "title": "BCRD anuncia nueva convocatoria para competencia académica “Economistas del futuro” 2027",
+      "publisher": "El Nuevo Diario",
+      "publisher_url": "https://elnuevodiario.com.do",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQWxEdVE0OW5sUmRxV09MWF9EZjJmV0tWQnRKOThWdnpKdk9lMG9ybGpJTm4yVFlaSll1ZUFWR2RDYXRZM1BLaXhUMG5vX3NRbElxNWExbGJzOTlnMkVjRXlkRWVDa3RMRTNtd08zOEFuTUxackNScEtlRkpiQ1lUaW1RdDNyNzQ5MzBzNXlwNGVWZlc1SzRfM2lyWU1EMTRUUm85c3JZcnB6RUc0cy0tcWdKemVKcDg?oc=5",
+      "published_at": "2026-11-05T17:24:33+00:00",
+      "topics": [
+        "bcrd",
+        "opinion"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "bcrd"
+      ]
+    },
+    {
+      "title": "LatinFinance reconoce a Banreservas como Banco del Año 2026 en RD",
+      "publisher": "El Caribe",
+      "publisher_url": "https://www.elcaribe.com.do",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTXVwUDY5VWFlNUdMV1czQndfMzlYa19HbUtqWXhxTjdER2o4Q0NrNVF1bWF6Mjg0YlBnYnNfT0tFMUh2Z3FKMTZNczRGRkdSbjEzSzdJOGtELVV2ZmQ3b0xmalU5RGRZYlItdDdYN3ZpVG1HNjF2RldsQVJyeDhGSEJHMkFpb2FwekYwcmQ0VlZncmFjV1htZXdKT1dsWkJVa19QR3R3?oc=5",
+      "published_at": "2026-11-05T15:56:21+00:00",
+      "topics": [
+        "finance",
+        "fiscal"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "fiscal"
+      ]
+    },
+    {
+      "title": "Gobierno descarta una reforma fiscal y apuesta a ajustes de gastos e ingresos para enfrentar crisis de combustibles",
+      "publisher": "El Dia.com.do",
+      "publisher_url": "https://eldia.com.do",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOb1RBaU0xd2VMaEF0d2RvcEVqeVBSaDlud2tYc0lDZ09GQTZndTd4NE84dXlqR0FpTkhCZ1ZvdFgzdmdMUHp3RWVZR2RNeGtrdFQ0a0dMbFBMUzdUV0xOTnJPMHdDZWFuMGdKcDU2aS1lQnF3ZDZZSGJyZVM5Z3FGY2QtN2xyVUlZZmdtSzh3dGl1QjRWWmZKSXdHZGpLV1REcUh6NDRsazFoRUdIQ2ZQN2g0SUhhTFRlcmlEOXlieVJBZS0zTXhwbEpWVE5MZ2tQRmxJ?oc=5",
+      "published_at": "2026-11-05T15:41:27+00:00",
+      "topics": [
+        "dgii"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "dgii"
+      ]
+    },
+    {
+      "title": "Alpha conmemora 15 años de operaciones en el mercado de valores dominicano",
+      "publisher": "El Nuevo Diario",
+      "publisher_url": "https://elnuevodiario.com.do",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYThoZWdndjhXRHZnbEJNMkIxT3A3NFg1M3B5a3lpZ2F2b1hlaHhvM29VRnB6ajhveU1QN0pUOG1xSVZjZWtkeUtXV0plWEtJQXNpV2tBVnJ0eDdqb0NsRmJ5N2VvVFotdGlHYWk2VEREZUlNS21Ua0F5TXgwT1lIbkp3aFBwMGRkUTFSRUJZbkFaM3Q5WGVPRTJ6X2FpNVhzY1lOWWw3dw?oc=5",
+      "published_at": "2026-11-05T15:02:36+00:00",
+      "topics": [
+        "finance",
+        "securities"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "finance",
+        "securities"
+      ]
+    },
+    {
+      "title": "Jaime Aristy Escuder propone que usuarios puedan renunciar voluntariamente al subsidio eléctrico",
+      "publisher": "El Dia.com.do",
+      "publisher_url": "https://eldia.com.do",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMVJYbW02NHl0ZFVLYnl5d1VwOTJVQjF3b01lOUhaYnJkVDlWZVhsaXlTMjBGX1I3dkFZZ3hhcmd5TUhGZ056RlFSSVRLU1hVQnFlNkMwWDVQaWVDY28xSHVWUlpNSjFFRXQ3R2p2QTJvTEUybUd0RE5vYWIzM0lzTFRUSWhZc3IxUy1SLW84Z1hsSjY5ckdNb3U0Ukwwa09qS0wxaDFOZ2tXMUhfaDVzTThfVEtuUXVucHc?oc=5",
+      "published_at": "2026-11-05T13:53:07+00:00",
+      "topics": [
+        "opinion"
+      ],
+      "economists": [
+        "jaime"
+      ],
+      "economist_match": "headline",
+      "searches": [
+        "economist_jaime"
+      ]
+    },
+    {
       "title": "Asiex procura más inversión extranjera y competitividad",
       "publisher": "Periódico elDinero",
       "publisher_url": "https://eldinero.com.do",
@@ -102,7 +183,7 @@
       "publisher": "Periódico elDinero",
       "publisher_url": "https://eldinero.com.do",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQXAxd1ZvdXZGbENoMzNuUDltb082LVZTUmE0REQ2RUNMN1U5ZUtLdXJ0bU1QV3lmbVVoYmZpNkN2dS1NTmNhUEhxMWJjOEh1emR1YmJQdkJmNDhrM3lXRDNVVW52SEFQUFhpQ0JQdHdzdHpDRHdfREwzVnVHVW5pZ3RFamtJTU9RSkNkeVVENTFXUFlHd0dnclBuYllWblY1YmgxNG5n?oc=5",
-      "published_at": "2026-11-05T05:23:17+00:00",
+      "published_at": "2026-11-05T05:26:38+00:00",
       "topics": [
         "opinion"
       ],
@@ -118,7 +199,7 @@
       "title": "La experiencia chilena y el déficit cuasifiscal dominicano",
       "publisher": "Hoy Digital",
       "publisher_url": "https://hoy.com.do",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbEd4dkpXQUE5TzRTc1RoQVVWYlliN29QZTJUdXRFeWZZWEN3SlhibnQ0d19FYUVuTlBnTHo1UUNFRUFHd0tpY3JibElqb1lDOTBzZDJoMEJyTjNFZERFYzdhd2hhcXVxcW1FSEdrQ1lOM2p3bGcyV2NUYk1oM1dEQTRYaUtUeTR2a3JEWEVGREk1SzdmZHlhOGZ30gGaAUFVX3lxTFBsR3h2SldBQTlPNFNzVGhBVVZiWWI3b1BlMlR1dEV5ZllYQ3dKWGJudDR3X0VhRW5OUGdMejVRQ0VFQUd3S2ljcmJsSWpvWUM5MHNkMmgwQnJOM0VkREVjN2F3aGFxdXFxbUVIR2tDWU4zandsZzJXY1RiTWgzV0RBNFhpS1R5NHZrckRYRUZESTVLN2ZkeWE4Znc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRldRbDVQOUd2VmdUWjJDZjhYUWhidWkzQTdOS3ZmYnNFZ1pfbTlzZU5pTnZVc0hHSEJQX21kbXUzeXRSdGhRLWRqc2R3TGJGT3l1U2pQMGRDeEh2a0xHQUhRTFBtSjFxY0o1VkhyYXczdTItQmNNbVJOUGZ3Z1VPRXVqblRzMEdFOFl2STVOVnRZeFo00gGaAUFVX3lxTFBsR3h2SldBQTlPNFNzVGhBVVZiWWI3b1BlMlR1dEV5ZllYQ3dKWGJudDR3X0VhRW5OUGdMejVRQ0VFQUd3S2ljcmJsSWpvWUM5MHNkMmgwQnJOM0VkREVjN2F3aGFxdXFxbUVIR2tDWU4zandsZzJXY1RiTWgzV0RBNFhpS1R5NHZrckRYRUZESTVLN2ZkeWE4Znc?oc=5",
       "published_at": "2026-11-05T04:05:00+00:00",
       "topics": [
         "bcrd"
@@ -127,6 +208,21 @@
       "economist_match": null,
       "searches": [
         "bcrd"
+      ]
+    },
+    {
+      "title": "Christopher Paniagua resalta en Londres estabilidad económica de República Dominicana",
+      "publisher": "El Dia.com.do",
+      "publisher_url": "https://eldia.com.do",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcElpOU12VTdnZnZ3REJHSXp0WFVKZ1puNUdCYmxFbVd4LVRNX3N3Y1lETkpWYVZ2emhLWnB4VG8zbWt4MjB6cmFwb295Mmg5V0Vaem1GNUJsVkxVRHBIQ0ZuMDdzTEx4WXNpSEZkUGhhbUw2bzNKQ2RJUnd0M1JaUEpiZWhnUnVLWGg4STdOR0hoUU5aRTloTEUtNlZDRGhnZ1ZzSF9ELXpuMG8?oc=5",
+      "published_at": "2026-11-05T04:01:00+00:00",
+      "topics": [
+        "economy"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "economy"
       ]
     },
     {
@@ -164,23 +260,6 @@
       ]
     },
     {
-      "title": "¿Llegó la hora de focalizar los subsidios a los combustibles?",
-      "publisher": "Hoy Digital",
-      "publisher_url": "https://hoy.com.do",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbllDclY5QXhhZmtvamFaOGt4Q0psNUljOVlFTkVHQ1o1VGlLTHFNUHI4WHdpcmVNcW5RYi1uUThUQ1diN3MxbkZPWmdEYnpldEhiT0doYkZHYmQ4OGllQTJ0eE42elZfY0lTYjFhS3hvTmtpSFdyX0dIZ1EtNWVoMllhRzJvcFpFOFZpV9IBkgFBVV95cUxNcFpyRW1LTlBkUXBVM2xfamdUM3ZiRDE3bGZXb2l5emF4Mllfd1QyZl84MldxNXdvaVh6U2ZaaHV3b1VnWDRLdmZfaUJadHNhUnhHSWpsejctUkdBU0FRX1liT0ZGc2JyYVVLMDBMTl9XTTE2OHJvTEd4UUttUmpZb0tsWEgzdzhyS1R6aW45bUpzdw?oc=5",
-      "published_at": "2026-11-04T04:00:00+00:00",
-      "topics": [
-        "opinion"
-      ],
-      "economists": [
-        "andy"
-      ],
-      "economist_match": "search",
-      "searches": [
-        "economist_andy"
-      ]
-    },
-    {
       "title": "Realizan edición del Financial Summit 2026",
       "publisher": "El Caribe",
       "publisher_url": "https://www.elcaribe.com.do",
@@ -197,6 +276,23 @@
       "searches": [
         "economist_jaime",
         "economist_jose_luis"
+      ]
+    },
+    {
+      "title": "¿Llegó la hora de focalizar los subsidios a los combustibles?",
+      "publisher": "Hoy Digital",
+      "publisher_url": "https://hoy.com.do",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbllDclY5QXhhZmtvamFaOGt4Q0psNUljOVlFTkVHQ1o1VGlLTHFNUHI4WHdpcmVNcW5RYi1uUThUQ1diN3MxbkZPWmdEYnpldEhiT0doYkZHYmQ4OGllQTJ0eE42elZfY0lTYjFhS3hvTmtpSFdyX0dIZ1EtNWVoMllhRzJvcFpFOFZpV9IBkgFBVV95cUxNcFpyRW1LTlBkUXBVM2xfamdUM3ZiRDE3bGZXb2l5emF4Mllfd1QyZl84MldxNXdvaVh6U2ZaaHV3b1VnWDRLdmZfaUJadHNhUnhHSWpsejctUkdBU0FRX1liT0ZGc2JyYVVLMDBMTl9XTTE2OHJvTEd4UUttUmpZb0tsWEgzdzhyS1R6aW45bUpzdw?oc=5",
+      "published_at": "2026-11-04T04:00:00+00:00",
+      "topics": [
+        "opinion"
+      ],
+      "economists": [
+        "andy"
+      ],
+      "economist_match": "search",
+      "searches": [
+        "economist_andy"
       ]
     },
     {

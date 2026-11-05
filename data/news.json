@@ -1,7 +1,7 @@
 {
   "date": "2026-11-05",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-05T06:59:52+00:00",
+  "checked_at": "2026-11-05T18:03:48+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -24,25 +24,318 @@
     "mexico": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 1
     },
     "usa": {
       "ok": true,
       "error": null,
-      "count": 2
+      "count": 9
     },
     "europa": {
       "ok": true,
       "error": null,
-      "count": 2
+      "count": 19
     },
     "global": {
       "ok": true,
       "error": null,
-      "count": 4
+      "count": 17
     }
   },
   "items": [
+    {
+      "title": "Chris Lynn: Northants batter failed T20 Blast Finals Day drug test",
+      "publisher": "BBC",
+      "publisher_url": "https://www.bbc.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5VQ0d6NGxLZlZUSFVUYnJTTURTaW5pVmNpbTcwcTNtS2tKZVJrV0hwZ0R2aEpSNThJM1RvOFFSckxSODdrb0xGNTFUeXNHZzBrWmN5S3RNNmpUMjlCVklKU0VyeHFVTE5EelE?oc=5",
+      "published_at": "2026-11-05T17:47:10+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "At ASH, drugmakers to showcase early data for three-pronged cancer therapies",
+      "publisher": "BioPharma Dive",
+      "publisher_url": "https://www.biopharmadive.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVzd3bEZtY1hoNEVYb2Itb1FoMHdZM0F4T0VKOTBiU0djbG1XLUE3UzhQaUJvaElsVEdEaG0wTEJBUzRTOTJsWkdjRzRBZXQtY0gtaFczbWNISEdrTjN4VFMxa1lBb1UzaFpCYy1zX3RnLS1UYklLTzNJYlhkWEUwdExMLVZQV1Nndk50QWRhN3dPNGdHUnd3TzlxS04tTEItSnQtcV9B?oc=5",
+      "published_at": "2026-11-05T17:21:40+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "ANI makes $560M play for Egetis and its approved orphan drug Emcitate",
+      "publisher": "Fierce Pharma",
+      "publisher_url": "https://www.fiercepharma.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOS0Q3ZHNqSHBqTmZVYlJPNkNnSDczVk1ITUVra0hGWDJBcXdsaEJjeTdqdmpZcXBNVVFtQlZWODc5N2tSQlpRZGt6YWQtNUxBMG1YZTBxSlJBUUh4MWNBWmxrN05fYUxVc01EYzhYT19aMWRMeXNEX0ZMRWlRZHJQTEMzRThkWFRxVjV5Mmg1V0hOTzBxdnc?oc=5",
+      "published_at": "2026-11-05T16:35:15+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Revolution’s Rasonque off to best cancer drug launch ‘in history’",
+      "publisher": "BioPharma Dive",
+      "publisher_url": "https://www.biopharmadive.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSGpJU2dWaWVkQ0lDLWVJd05jSGQ2MkVCdXZORTQtdFozNlc1dVNBcERrX1dfazBlbHViSFdNNXRXanVQV1kta2p5enJJT1YyX1ZiVTF5alZwSENDRE9GX1pIY3AwQWhqaUllLVRLd21keURqSDdtZzVVRGpoZVlaa18xbi1vRkNuVXNkTE4ydi1VbS1JZElIN29B?oc=5",
+      "published_at": "2026-11-05T16:22:22+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Biodiversity summit saw progress on subsidy reform, but pharma firms push back against fund for Indigenous peoples",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNTVNwVGxWY295OVRXMHZZNVJPYUhIRUNvT2t6QUNaN1pKeHhvUk9TeU4zTkkxZy13SGhFREs1dmRDYUxVczlFMldyM1RxelRIUDVnNUdXTkQ0ZGJjWkdOLUsxQWdFQ3FvcjQ1MVdZRTJJMXpINjFudnR0WDBuWWlxN1VpODdDOEJsTXpxZTY4TXZPRnppTlZqWHRTSGNlZnhLcnAzY2k5UDlLLUVwdGtZTGl2TXlGYnhmcG9FMWRydTF3ekZ3a2ZkMGNleWtuZWtmMjNTUF80ZkJsS09HSWhUbWVqaWJoWDFtd1JZZEJIaw?oc=5",
+      "published_at": "2026-11-05T15:55:24+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "Rezera launches US IPO as biotech listings wave continues",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVzhEdHVkTkNVcDEtNEZ5UzREZXZIUDVvN0ZfWWFBdjJyaFhRM3lNX241Qk9ISW9EQ3BSd1ozdV8xMFpGZ3NXZ2l2cERyNW5qT1RUQ0kzUElFM3MxdmpTM0tKaDFkejhkRlNxTHpyRlNJOF9OMEhjTm80cHRuMU5aRmV3b21YOTJqeF9PUC01NEQ0Tzl5U1NzMG1DZENYUkJKVGxmNnNCNFU1TXVWdlgxbGpxZ0xnWENHWlhFZDBJT1BJMHFR?oc=5",
+      "published_at": "2026-11-05T15:50:59+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "Farmacias Similares ofrece medicamentos de red fría y promociones para su compra",
+      "publisher": "El Universal",
+      "publisher_url": "https://www.eluniversal.com.mx",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPalJiV1JMSmx1S25PZDh1cnk1UDJvbnNOX2pyeUZVV20wbmplZHFUZjlXNFF1SjBsVVJzOXlWR3hIcmFKaldNQV9WYWdPQmt5cW1kd3h4Qkw5eDJ1RHlVOXM4c3pCRUtJWXNweDZUTW81MkVhVHJpOTlnZzM1M3RMdGp2dDQ4eVBZb0JsXzJfcDVJeDczTWpDT2s3Tll3SkVfNjhoU3ZiNGhMQzIxRURoWEN3SGJGYW1MQVZsUGMxQ1I?oc=5",
+      "published_at": "2026-11-05T15:04:10+00:00",
+      "regions": [
+        "mexico"
+      ]
+    },
+    {
+      "title": "Lung cancer vaccine renews synthetic DNA discussions",
+      "publisher": "pharmaphorum",
+      "publisher_url": "https://pharmaphorum.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVllpdklTZ0hUMmJyUkUyZkpwRjZoRHFkczc1QVp3czl6d1hUMGNOd1ZjaHJmOVo5NFdUcFVjd0xLdXhUV2RJeFpFVF91UTVrcHlOeXZCdTNKU1A5cUhlS19aZG9URWVvdjN4TkpycjNSRTBKMWtDRVhqVXctZWE1TnRUWEVYYXZTZTJ5THpGZw?oc=5",
+      "published_at": "2026-11-05T14:59:16+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "Raped wife could have died from drugs given by husband, court hears",
+      "publisher": "BBC",
+      "publisher_url": "https://www.bbc.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE03SGhJX0EwU0NJN2ZaR21aeXRVZ0RmMHkzWHFDb1FESksxM1FDOTNTcWFXRzBkeW1yQmpXbmF6cnA3T1dNSmJDZUZsUGxfeTJzVEtJdDBPNnJSa3pvN0E?oc=5",
+      "published_at": "2026-11-05T14:56:42+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "Russia is back in world sport. But who's drug testing its athletes?",
+      "publisher": "DW.com",
+      "publisher_url": "https://www.dw.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUGpPMy1pUi14SlJmaG9HNVdvMlRIcy1EM3VkcDdBV3JRakNZdWtXZk9xYl9XNDdUOWRPR3JvWUN0OHZzdlN4V3ZfLVJkOEYwbks2YmgxdkNBLUFHVkV4Q2dyMktOVWFGOV9TV1laeEJkUDdEV2owdUZnOEFuRnpkYnhyZnByZzEzZVk4enZCQkEycTU4N0V0WXZxdmJFQms2LUlITHlLdDhfZVJiTW5hb2p2RG9PMTQzYVJ3SjNvOUVuUXds0gHEAUFVX3lxTFBlRWVJOVN6cHpWODlkUUtEV3dCeHlGLUxkQjlvLVhkR3dCNTB3RUo4TlRPNnBPUmljcFRhRlU3NlhSR2hWSThubHZfWHZqQTNnSXJJbGluYUdEemdjYmRjeWtvYXFPd2dkMTRWOVQxaGNZYmNNaHFRT1FUWDN4anFUNmNJdWRoVmVzXzhIemJXTFVRX1VfSG9VRmREN2taS0ZhRDIyZmtsN1VYTWZzTU5HNE1LTE9pekNiYVRNaXBFVXAyLWE?oc=5",
+      "published_at": "2026-11-05T14:54:01+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "VC Firm NSV Raises Nearly $55 Million in First Close of Inaugural Biotech Fund",
+      "publisher": "WSJ",
+      "publisher_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMzhyMkh3SllteDZfX05GLVNPZmdTUXFyeVEtQ0p3MFl1elZfSmNWc0xaSUdPVEsydlJDMnN5VUJtd1ZEUlF4dU00XzJhU0U2TWdvd3RmWVVsS2ZVd3ZRb0pvVzkzcHRFcE9nZHYwV3V1YU5JQUZmZ2ZsVElvcktrMlZYZjhjZ3lPcm9XZFhiY3dTVWt0Q3hHNUVTSldDRWl0d1ZUMWYxeHBKcUJCZzUyUmxBNjBfbU9kSjFOQWs4Z3MwM2Vt?oc=5",
+      "published_at": "2026-11-05T14:51:36+00:00",
+      "regions": [
+        "global"
+      ]
+    },
+    {
+      "title": "Pharmalittle: We're reading about India's new manufacturing rules, clinical trials in China, and more",
+      "publisher": "STAT",
+      "publisher_url": "https://www.statnews.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSFE0elBQM2M1b0F6Y2R5RUFiNUVwSEUyd2JkeDdYVU1LVTdXZTdFQWNMY2Z1OVZGcWZJeTdBNURBUGZQZi1LSXBPTzh0WDBzU1Jxb3dDbVFYYjhtaWZHYjJUdm5ST1NmM2E1ZnJISExLcFdMU2RqbmdJbkt4M0cySWhQdTJ6bW9PUUkzV0I4WWRhcnhCMjFDV25HaUppYzg?oc=5",
+      "published_at": "2026-11-05T14:51:09+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren’t Buying It.",
+      "publisher": "WSJ",
+      "publisher_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNek9QMkZhM3RqT2tlNWZraXFsM05WSE1FVl9rZ2xzcmc0bktZcE1KODl0bjhic2VIaVM1VF85TzBvTGJJdUZhYXFzUzEwVE1pWW1rSG14b1hPdFFuM0dTRUlMYW1GZFNKeHl3OWQ5T1RlbTQ1am9lMzNSME81ang2Tms2V0FLdGttWUs4RmlhWGNXVHdIQ3htVjNUX1ZoODFRTmVzN0Y4YXZqU2RHMXFEOHpn?oc=5",
+      "published_at": "2026-11-05T14:43:17+00:00",
+      "regions": [
+        "global"
+      ]
+    },
+    {
+      "title": "Kairos Pharma Recognized by Biotech Breakthrough Awards in Oncology – Company Announcement",
+      "publisher": "Financial Times",
+      "publisher_url": "https://markets.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQTBweUhDcG9LRmpsZXpWZC1PNUU4WFJQWkVDQ0RCMjJyLU45Z2t4Z01qcXQ0XzJJT1FuT1VwajFnMXlCS3FKQ2I5YWZpV21Cby1lZURPTTA0a2hxTW45NWNMS3cwVUZaM2xSNFlheWxJYnJtQ2ZBSnNLdmlXaEZUQVNNclZFLTBOOVJVVVRsbFpEclhLUlVjdXdOVzZjbnROa013b3ZR?oc=5",
+      "published_at": "2026-11-05T14:15:00+00:00",
+      "regions": [
+        "europa",
+        "global"
+      ]
+    },
+    {
+      "title": "Beyond statins, one drug lowered heart attack risk by 20%",
+      "publisher": "STAT",
+      "publisher_url": "https://www.statnews.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdWpxMGRxWDlHSk0xUFdicFpQZDNMVlVFb0RUV1EtN0dJeERleFpiay1IWkVJU05ZelQzWjhFajBZTjZBV2syRE5FejI1NWVXRHlDNi1LZEVPX2ZoMm9rZ2t2eDFWU2VmUGVrTUg5LXY3NGZCXzNxdUxFMnAtTDBkUzV2dEVYUXlDemdGNnRWMWpOTzg?oc=5",
+      "published_at": "2026-11-05T14:01:09+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "UK backs startup Potential Sciences' AI-powered drug hunt",
+      "publisher": "pharmaphorum",
+      "publisher_url": "https://pharmaphorum.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeU9IdzdoMWhUSm9SazVHVzBCNXF3VnNBSURpV3BBenpfZkRkOFRkOF81VF8zM3ZZWWhRVkVZczl2SF9sTG5fWDhhNllPWVhXX0JQVmV2c01EQUNVamJXdWo4b1BhYU5GMzZEYXhQQkxBMGFaY09RYmt0cEVKbkZ0dmFXZ2xLcHpPeFNoQmxPOA?oc=5",
+      "published_at": "2026-11-05T13:48:29+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "How precision medicine treats an overlooked clinical variable: Time",
+      "publisher": "pharmaphorum",
+      "publisher_url": "https://pharmaphorum.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTkJxVzRjZWduNEQ2RjdJc2FYQXNHa0cteDN1V3g1S19POWVhSEU0eXY4cS12MUV6VEd5aW9JSUI1OVl0OC1WTUhZUEF5aENxbGJMTWdsTmt0eEE2SFJkTXBvMFlRd0VVbm5HT0VSLUhQZ3lVdW15VmdPYTA0V2dsVFhSUmQxLWxBRENRNGRHWEhDSlc5XzZOYTVPX3QxQQ?oc=5",
+      "published_at": "2026-11-05T13:37:40+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "Turn Therapeutics' GX-03 Earns “Developmental Immunology Solution of the Year” in 2026 BioTech Breakthrough Awards Program – Company Announcement - FT.com",
+      "publisher": "Financial Times",
+      "publisher_url": "https://markets.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZ2ppWG82enNuY1BJaTk3SmxKUXVON1NwZU9JWGhPSGpPRXJQNEFKN19jX3BDZGNxQWRyZ3JHSm5vNDdVOFJwdVFsT0RQQ013LVpTQ2dybzI1OU1YMmhod3ZHZVB1Si1aN1RrMlc3aU9BVjF4OXB2a0hIS21CeGxraGpYbjZXSTItcUFxaVNpclB5YVBaaHI4SFc4MFVvRjZiNzJFZkhn?oc=5",
+      "published_at": "2026-11-05T13:00:00+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "UK biotechs T-Therapeutics and Alethio score big financings",
+      "publisher": "pharmaphorum",
+      "publisher_url": "https://pharmaphorum.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONmJLa2tPZTF4S010cFdJbExzY2dpYjIzY25KSm4wNFI1SjZReTJ0VG5MalA5YVpkOWFnbTg4NU5mVW9BNmhCVTVRT2FMUXp3dlJCcjVEeVdFN0FHaHhDc0xzSjZDVnA0V2hOTksyY05BVnRkS0EyeG9keW1HTF9KZnMyU2tCbnF3Q2MweXprY2FYZE0?oc=5",
+      "published_at": "2026-11-05T12:52:01+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "A closer look at ProMis Neurosciences and its Alzheimer’s drug",
+      "publisher": "STAT",
+      "publisher_url": "https://www.statnews.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNV9DSDZieHdoR2dRdVdZTmdfRllUdWNpbzZNYzFTVFR2QmswZzhLRkdvZmdJZk1fS1lsWTZSMXozcWFjb0k0enVRN29sZXBZdkw1UDhZeHNCZlU2VVhsQllXTGZqMlgzUHNYQXhFaVlvZEt4bXNDMy1LWkIzNUZUS1lpS2xrY3RkWTBFYkVRMXpRQlg1NzR0Y1RWUE5aNWFRbDBwcw?oc=5",
+      "published_at": "2026-11-05T12:42:05+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Revolution Medicines’ pancreatic cancer drug has stunning commercial debut",
+      "publisher": "STAT",
+      "publisher_url": "https://www.statnews.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPR2lBRTR5LTlzOTRtYnU2VDNRUkphV25SSXpZcHVxU2xYTWtZZU91Z1UtV2gySTF4UG1FTGFXN3RRYmhfQURDY3RKWWhDWThYVFpQdWJUbkVQRTdET2Q5RzdveEtoRk1yYzlFMU5vN2FRbk95aVp4ZktOMk1oWGp1NFFjRnVvOURYMFJUTGtocjNUcnVvS0tqczVrLWttcmYzT05tRg?oc=5",
+      "published_at": "2026-11-05T12:36:09+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Kazia Therapeutics Recognized as \"Drug Discovery Company of the Year\" in 2026 BioTech Breakthrough Awards",
+      "publisher": "Financial Times",
+      "publisher_url": "https://markets.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMUtuMEljRk1Cb0NFUWJDLU9ELUNwS1V3cDNsRmRtNUExQ28wbVFacXRHWTBuakVQdVNKdHh3dlMzYURqS1hzQUhrcWZWWE5QYmlXYS03RDcyNTR0Y0E1UjQ5RW5VWDZtWXEyak1JUkhHWENzZ0ppZTV2TElIYWhDVll4dU5tTjBQX0c5Y2dibUE5cy02enc?oc=5",
+      "published_at": "2026-11-05T12:00:00+00:00",
+      "regions": [
+        "europa",
+        "global"
+      ]
+    },
+    {
+      "title": "Amylyx Pharmaceuticals Reports Third Quarter 2026 Financial Results – Company Announcement",
+      "publisher": "Financial Times",
+      "publisher_url": "https://markets.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOUtwSVVvLW8tODFkNlBSVDRpeG9yamlPcVVGNzhoc2N2al9TVHpxaXI0V254RzA1VE0zN2t0bV9RV2Q1eUJ6eEtESFdtbWJ4TEFla2UwSUV1X2tZMWhWWHBGWmQtbmRqdVZ4cndSMzBBY1ZUc1IyaHRmSXd6am4xVFFjNlMyMVJQaUVJSDZzT0N0Z1pWVFdtOTFjVXRBTW5KWTNld3RB?oc=5",
+      "published_at": "2026-11-05T12:00:00+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "Armada Acquisition Corp. III and Brains Bioceutical Corp. Announce Business Combination to Advance a Global Life Sciences and Pharmaceutical Innovation Platform – Company Announcement - FT.com",
+      "publisher": "Financial Times",
+      "publisher_url": "https://markets.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOGlWRHZEeE12TEpDUmNPeTVDZWp4NTVrWk5UN09KSEk0cVhRT2JRbGtQZUdxanhLUXpIUTQyTFZSRWwxdFlHdnhFLUwzR2w3aXdsaC1ydGdzNC1zUEFmbGQyd3pfTUF1aFROZmhRTEowSGRVa3VNNzJmWENFbTlUSm40Zmp4RGV4YlQtUXFya0FWTlNLNVNQTTVTVnBFUkRDMXJqTU5B?oc=5",
+      "published_at": "2026-11-05T11:30:00+00:00",
+      "regions": [
+        "europa",
+        "global"
+      ]
+    },
+    {
+      "title": "Kenyan pharmacists warn against viral craze of using allergy drug for vaginal tightening",
+      "publisher": "BBC",
+      "publisher_url": "https://www.bbc.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBmT3N5YWZBdlM5UHdlc3lMY2J6WE5fRjd4RS12RXlIR1NLOFVHUWV1by1uc0RMcUlnMkpPYUdIUHA1a3JHaldWRWlfeXN1MU5WQV9qTV9EcnlGWkdoYUE?oc=5",
+      "published_at": "2026-11-05T11:23:22+00:00",
+      "regions": [
+        "europa",
+        "global"
+      ]
+    },
+    {
+      "title": "EQS-News: Over 15 million active customers for Redcare Pharmacy. – Company Announcement",
+      "publisher": "Financial Times",
+      "publisher_url": "https://markets.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOejdmSU5jX2xSejd6M0FTcW04WlhPdjV1cmx4bWx0V1ppNzFCbDZfdTJyWnJpUU12dHlxTllXMzlIcm9MelFwRGt0ak9BZzB0LXowdjdpY3VQRVE4bEY1ZnAzMjdXMlpNcHBGRExVSWlMZUIwOGZUWmhLeG9jdnpkMi1MV2E2eG5HaHJBLWlmdS1sM092Zjd4Z29NZlptMHlyVUQ1SnIzb0R0UQ?oc=5",
+      "published_at": "2026-11-05T09:59:00+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "In China, a flood of controversial clinical trials slows to a trickle",
+      "publisher": "STAT",
+      "publisher_url": "https://www.statnews.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaTB6V0xCX2otYkkyYmpqQ0NrS1pMUzlXWVhYUndqZHI0U3UtWFZIRTN0SVhGbE5xcUVPcG00NGQwcmFnX3NrMnAxNllvd3pZZmhCTzc2MmZJX2hrdWR4aTJuODFkZlpLOUF1dHpHOXdSNG83eXBHU0tPcXJMSmJHb1RCMUVqRm5qT2tiSTFvejU1cFZDODU3OC1KTEtSRllfWGxJajV6Skw4aHVGYkthSGh3?oc=5",
+      "published_at": "2026-11-05T09:36:09+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Vanda drives straight into FDA trouble with fast-paced Nereus ad",
+      "publisher": "Fierce Pharma",
+      "publisher_url": "https://www.fiercepharma.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOXZuS2dDZEtKZjJzeFdTNFBTRWRTWnBnQkZDNFJTVWFPTDlHMkM3Tzc1MVpxaktOdmhrQ3IwbkYybjEzaUdrVzhlRDNVTVVkX0lmVndRUDA1Ui1fbldET0VHT2FTcjEzNTdYSFlHVGg4TGRxOWdwd254QlQ5cnc1RFJxVG9MUW5kSjBCYnhxSldFbE0wcXNreA?oc=5",
+      "published_at": "2026-11-05T07:33:46+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
     {
       "title": "Novartis Raises Guidance Despite Drug-Trial Setbacks Hitting Profit",
       "publisher": "WSJ",
@@ -60,8 +353,7 @@
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTnNKOGFVM3N1QjRFT2JKb0RoQV9LeG9VNGZ2SGVmZGxvd1lkQlpZZ3hwZk5Nek5DQ25DeFI5bkN0c2RDSzR4a1pRV2ZwWGtIc2dVM1pkYklHbXF0WmxZNTk5X05PaE1BRmFuR2NjU2w3QmVjcU9GSlBxSThJeFFDcEN5aEU1Z0VENEhHMVNlM09EZEs1NTRrZjA4c0pEY2Vnb2RzbEN3?oc=5",
       "published_at": "2026-11-05T06:00:00+00:00",
       "regions": [
-        "europa",
-        "global"
+        "europa"
       ]
     },
     {
@@ -72,19 +364,7 @@
       "published_at": "2026-11-05T05:42:00+00:00",
       "regions": [
         "europa",
-        "global",
-        "usa"
-      ]
-    },
-    {
-      "title": "Bayer Shares Jump After Pharma Recovery Prompts Outlook Raise",
-      "publisher": "WSJ",
-      "publisher_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbXFMY2ZOaTVNTVdwMXZoWmlmc0xvMmZ0UTFFb1RjNUFBMUlzbzRpMkpubkM1OXE5c3pTajlBUkNPSV9wUHFuaGVjdUJVZGZKOHRpZWtYdE5WLUZnRmFrOFBMTHI5UlFrNmlJdmRvOHhrRmZKbXVBSnZFdU80YlhfYW9NX085YUVWNGJkaXdYZ1NFOXk2Yjh5TGw3TQ?oc=5",
-      "published_at": "2026-11-05T05:10:35+00:00",
-      "regions": [
-        "global",
-        "usa"
+        "global"
       ]
     },
     {
