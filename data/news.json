@@ -1,7 +1,7 @@
 {
   "date": "2026-11-05",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-05T18:03:48+00:00",
+  "checked_at": "2026-11-05T23:40:46+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -24,33 +24,160 @@
     "mexico": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 3
     },
     "usa": {
       "ok": true,
       "error": null,
-      "count": 9
+      "count": 16
     },
     "europa": {
       "ok": true,
       "error": null,
-      "count": 19
+      "count": 21
     },
     "global": {
       "ok": true,
       "error": null,
-      "count": 17
+      "count": 23
     }
   },
   "items": [
     {
-      "title": "Chris Lynn: Northants batter failed T20 Blast Finals Day drug test",
+      "title": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren’t Buying It.",
+      "publisher": "WSJ",
+      "publisher_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNek9QMkZhM3RqT2tlNWZraXFsM05WSE1FVl9rZ2xzcmc0bktZcE1KODl0bjhic2VIaVM1VF85TzBvTGJJdUZhYXFzUzEwVE1pWW1rSG14b1hPdFFuM0dTRUlMYW1GZFNKeHl3OWQ5T1RlbTQ1am9lMzNSME81ang2Tms2V0FLdGttWUs4RmlhWGNXVHdIQ3htVjNUX1ZoODFRTmVzN0Y4YXZqU2RHMXFEOHpn?oc=5",
+      "published_at": "2026-11-05T23:01:06+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Cobertura de vacunación contra el sarampión sigue por debajo de niveles recomendados: OPS",
+      "publisher": "El Economista",
+      "publisher_url": "https://www.eleconomista.com.mx",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxORkNIMnJxcm5ZMGw3bWpJVGJlTmFMMS00ZFk1Wm0xd18wZ3RTa3g3R2RnbGRPakJPUW1ZS1Q1RFl0aUhsbTdSNnREbm0yWFRMRmJJTG14TXB6RU41bWlrNmtFM3RYYzFjVnFIWEt0TmpXbnlTaUR2enJvUXZlOG5DYlh1Nm5TV2lialZZeHpLMU95WTRrZmJOaWFhX2JDeWhETC15bUNXdnVGcUJ0NE9kUlUyQ01mcVl0Tnpxb3dSQUJTWDlsZlNxejlZSThKQdIB0wFBVV95cUxONG1Rcm11djZSdDl3Mzk3aUxURUZtRGdvSUFrX1hmaGpIOW9KanBtODFPdzhWSW56UWFucm80MnRGS21na3VNZ2w0WEJUUkVpQ2NVSVliR3k1NUw5ZE40MlgxaVo3ams1ZkdhY3g2cjZRLVFlU090SlZRUXRteW5hX2w3NU5tQzRGRFpUcHhYUEloWmNydnJ0Y09teWs2anh6V1pCa0lnMnU4T3Nta1BMRXF5TUloSkxNZnZuR1o0R0d2NTVFWDlvUTZFalRIajg2SFB3?oc=5",
+      "published_at": "2026-11-05T22:47:32+00:00",
+      "regions": [
+        "mexico"
+      ]
+    },
+    {
+      "title": "Abrían una tienda cada 48 horas hasta sumar 3,100 Farmacias Guadalajara: así es el imperio tapatío de la familia Arroyo",
+      "publisher": "Expansión",
+      "publisher_url": "https://expansion.mx",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZDRNVlZwZGJheDhya2JFdURaZHJzMnZ5T2FsMEtScTk5QjlEYXV2Mkh4VGRldURaci1GMjlhRS1SQVg2T3F5MFhWTW10NG9mRkNPaXdOekRyRDdxd0FDU0poZW90Z0RabFpwX0EzVkhsZU9FaDdLVFV3NXpBOHFKb2NsSmNxUHR2M3JPTGFLM1hJS2FvdHYtcTNsR2hjUdIBqwFBVV95cUxNQUttVk5kS3FtYllzTTNON09aTXh1N1FOMkNJTFR2ZGl6RlhRNHJzZ1RPREYwLVFrZjNQbU9NMEM0X3lLcTF1bjJJVnl2SVdoVXU4ZmNNQjQwZ1dRZkxSMk9FQ1hmWGJkb1c2aVRSU0wyZmRxd2l2OWxuZUdWZU4wczBhai1hSEJfVEVHci1IQVFiMkNFczhRcFNCbXF4Sk1ycW9qV0tQMFR3WHc?oc=5",
+      "published_at": "2026-11-05T22:04:00+00:00",
+      "regions": [
+        "mexico"
+      ]
+    },
+    {
+      "title": "Colombia Arrests Mexican Judge Tied to Drug Gang Led by Ex-Olympian",
+      "publisher": "WSJ",
+      "publisher_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSUF6THhybjlSa1lJN0JjZ0hFaXRWaDE2anBJYU12d0VvSjRQWmtNMi1tR2hkeTZROUFCNkJRakNTNmdUTTZPX0c0YmFqQldhWFhSb0l6Nmw2c2NtcTJ5YTAyNDV5clc5WHQ0ZmFXdjlDTjlaNnFQTTZTOVlsTkpvdUdQRkY0UzdPVG5DdXZheDh4bG5pQWY1V2VVbDFaN2stejAzbW5rQkg0NlhTR0hIbg?oc=5",
+      "published_at": "2026-11-05T21:50:00+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Pharma’s trade group spent heavily on search ads to sway public opinion",
+      "publisher": "STAT",
+      "publisher_url": "https://www.statnews.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWU1wTVgteGVEd0dadkZMMTRUTXA0NF92dFluYlVSRFVVU2VYWm9pWXZVM3ZKYlFwclpnSkVVVDdoS2V0UTFsR3R4amg5X1FkcnlYRGlmenlzTGhRRWdqdDlYMUR1WXlRcC1fdHVHTjY5WVNlejlvREhOeEw0YUdSQkdaYmM5SGlSYTlGTks1NWxpdDd5b0M0?oc=5",
+      "published_at": "2026-11-05T21:41:15+00:00",
+      "regions": [
+        "usa"
+      ]
+    },
+    {
+      "title": "US accuses Mexican judge of $2m bribe to free accused drug trafficker allegedly linked to ex-Olympic snowboarder",
+      "publisher": "The Guardian",
+      "publisher_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMVFRRU9pYzlPdURyc1o2RnJWODV5OGR0MjBEdHlVNThPUWFtNzRBRU0tVU9zNHVtUVBuRE1YX29SVFFoeVZ5NXNPUzRDZjRnemVwR2U1MzdSUllpMHVuYnZRdGpvYVpjSzVFdzlwMzZsU0k4RWFBcDF3RERrdERmdVc0bC1iWFdmWFpnRWpvdDRFZw?oc=5",
+      "published_at": "2026-11-05T20:13:00+00:00",
+      "regions": [
+        "europa",
+        "global"
+      ]
+    },
+    {
+      "title": "In Court | Stockport Drug and Rape: Could it get any worse?",
       "publisher": "BBC",
-      "publisher_url": "https://www.bbc.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5VQ0d6NGxLZlZUSFVUYnJTTURTaW5pVmNpbTcwcTNtS2tKZVJrV0hwZ0R2aEpSNThJM1RvOFFSckxSODdrb0xGNTFUeXNHZzBrWmN5S3RNNmpUMjlCVklKU0VyeHFVTE5EelE?oc=5",
-      "published_at": "2026-11-05T17:47:10+00:00",
+      "publisher_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9LcldneGQtRjNHRmljMllhQnB3WVNzVU9kZEMzbUxIYmJGNXFGWG1iV3VXNlNPc1F6Rm4xUjZZUExSR2RTbEJTMDlrX0EtOVVD?oc=5",
+      "published_at": "2026-11-05T20:11:20+00:00",
+      "regions": [
+        "global"
+      ]
+    },
+    {
+      "title": "RFK Jr.’s Appointees to Health Task Force Included Four Allowed to Keep Drug Stocks",
+      "publisher": "The New York Times",
+      "publisher_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1FbTNKQVRETmdiOGgtM25aMGM4U2lOYjU5eHlleDZubDFJZnMzVFlQdER4ZmR5a0IwRzBuQjY3SzBSaTZ2eFdRTHV5Wkc1TGNXdERES050ZjBNTnc5cE1LS3EtZ3JUbnVUUUtVU3BxcmkxWk0?oc=5",
+      "published_at": "2026-11-05T19:47:17+00:00",
+      "regions": [
+        "usa"
+      ]
+    },
+    {
+      "title": "The Guardian view on cocaine and domestic abuse: new links between drugs and crime need investigating | Editorial",
+      "publisher": "The Guardian",
+      "publisher_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPQnFCNGpQWFd4MmNFbkV3OGpINEQtdE9pcWZJMDFhUEFTNEJWanZoX2g3XzFkTjlmU2pPSmJhOVlBNmNLamNoLVJSb3d5V1loMmZlc3JOZGhWVEZJZXZzdUNYLXpVY190eGpDMkRmZ1NEdHFJazQySEVqRW1PeVlOaElyNUVYMDEwcEQ5bWNJOUF4R3B6NzFnUFRhOFJUUjFVeWFJcjZrekZPNFBzRVhSWUdnNEh5THYzMHVWS0NjTGFwVmVQWWk4eGRQd3FlSHcyc3Z6Sk1zWXBGc05pS0pYN21R?oc=5",
+      "published_at": "2026-11-05T18:56:00+00:00",
+      "regions": [
+        "europa",
+        "global"
+      ]
+    },
+    {
+      "title": "31st Edition Strategic Project & Portfolio Management for Pharma",
+      "publisher": "pharmaphorum",
+      "publisher_url": "https://pharmaphorum.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOE1hM2ZFVHhkdTBMVC05ZFZiREI3a0Jod3BMdEdRV3lYZkdtbk9IOEJjemhiSmJTckZyV0dEeGFqblg0RTBnU1Uzc3RIRFNLbGhENFB4cWpIRElTa0dMVEZMLWJ0dFp1UDBIWG0tV3FyQ2pReGhnR0szdVBXcm85Ny1fWnRTNXpoVXlYTU1iX0o?oc=5",
+      "published_at": "2026-11-05T18:51:50+00:00",
       "regions": [
         "europa"
+      ]
+    },
+    {
+      "title": "US says Mexican judge arrested in Colombia over $2 million bribe to free accused Canadian drug trafficker",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMzkyZGt0SVRIOXI5d3NJU2Z6UUlfeE5IVmd5QVVsa1dwb2hhS29qTTdRc0JPNGZhT0pjUGFGSzRNOGJBUS1TNUI2azFDZFFpSWNvb0lPa3FCV2c0WWd1RU9fN0NkZ3BNaWtOdHF6TkpVNXpDV0lGdExiZlliVUZxdXRJdXpQclRuczQzOHRXaFJ6TFMzS1NGaXhVNkFBT3NacFlHYmdBSU1TeV9kdHVhN0pMYmc0U0d0MUxBdjdqS0RTZw?oc=5",
+      "published_at": "2026-11-05T18:27:43+00:00",
+      "regions": [
+        "europa",
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Stockport Drug and Rape: Could it get any worse?",
+      "publisher": "BBC",
+      "publisher_url": "https://www.bbc.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1zaDctSkFNMjcyOHF0RDNzMG10ZGJvNlQ1akE2b21MOTlOZE5uekQ0eUM4RzI1TVhXU2s1WG9kS29ZbDgyVW9jQTRzZDh2TmNjVWotWg?oc=5",
+      "published_at": "2026-11-05T18:16:42+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "Chris Lynn: Northants batter failed T20 Blast Finals Day drug test",
+      "publisher": "BBC",
+      "publisher_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5lT1pPa2F0ci1ENjhBZ0ptUTlNRm1DVDFab0pBU2dCcFJPOGdPT1ZGQzhBQ0JrVjNiNV9zdk9LT1lYWDAtcFJ2ZlUtYlM3Sm1KMHRQNll4WVpMOUgwaHNkXzVtZmt0N2s?oc=5",
+      "published_at": "2026-11-05T17:47:10+00:00",
+      "regions": [
+        "europa",
+        "global"
       ]
     },
     {
@@ -71,7 +198,6 @@
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOS0Q3ZHNqSHBqTmZVYlJPNkNnSDczVk1ITUVra0hGWDJBcXdsaEJjeTdqdmpZcXBNVVFtQlZWODc5N2tSQlpRZGt6YWQtNUxBMG1YZTBxSlJBUUh4MWNBWmxrN05fYUxVc01EYzhYT19aMWRMeXNEX0ZMRWlRZHJQTEMzRThkWFRxVjV5Mmg1V0hOTzBxdnc?oc=5",
       "published_at": "2026-11-05T16:35:15+00:00",
       "regions": [
-        "global",
         "usa"
       ]
     },
@@ -87,23 +213,15 @@
       ]
     },
     {
-      "title": "Biodiversity summit saw progress on subsidy reform, but pharma firms push back against fund for Indigenous peoples",
-      "publisher": "Reuters",
-      "publisher_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNTVNwVGxWY295OVRXMHZZNVJPYUhIRUNvT2t6QUNaN1pKeHhvUk9TeU4zTkkxZy13SGhFREs1dmRDYUxVczlFMldyM1RxelRIUDVnNUdXTkQ0ZGJjWkdOLUsxQWdFQ3FvcjQ1MVdZRTJJMXpINjFudnR0WDBuWWlxN1VpODdDOEJsTXpxZTY4TXZPRnppTlZqWHRTSGNlZnhLcnAzY2k5UDlLLUVwdGtZTGl2TXlGYnhmcG9FMWRydTF3ekZ3a2ZkMGNleWtuZWtmMjNTUF80ZkJsS09HSWhUbWVqaWJoWDFtd1JZZEJIaw?oc=5",
-      "published_at": "2026-11-05T15:55:24+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
       "title": "Rezera launches US IPO as biotech listings wave continues",
       "publisher": "Reuters",
       "publisher_url": "https://www.reuters.com",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVzhEdHVkTkNVcDEtNEZ5UzREZXZIUDVvN0ZfWWFBdjJyaFhRM3lNX241Qk9ISW9EQ3BSd1ozdV8xMFpGZ3NXZ2l2cERyNW5qT1RUQ0kzUElFM3MxdmpTM0tKaDFkejhkRlNxTHpyRlNJOF9OMEhjTm80cHRuMU5aRmV3b21YOTJqeF9PUC01NEQ0Tzl5U1NzMG1DZENYUkJKVGxmNnNCNFU1TXVWdlgxbGpxZ0xnWENHWlhFZDBJT1BJMHFR?oc=5",
       "published_at": "2026-11-05T15:50:59+00:00",
       "regions": [
-        "europa"
+        "europa",
+        "global",
+        "usa"
       ]
     },
     {
@@ -114,6 +232,16 @@
       "published_at": "2026-11-05T15:04:10+00:00",
       "regions": [
         "mexico"
+      ]
+    },
+    {
+      "title": "Zealand Pharma conference call on Nov 12 at 2pm CET (8am ET) to present third quarter 2026 financial results",
+      "publisher": "Financial Times",
+      "publisher_url": "https://markets.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWHZQWmhVWlhjT0hvZndwaUh5a2ZWNUxkV1VuREI0b1ZsYzhQdVVhRWh5Z3U5YVA1Y0ZHQkwtWDlUVkVOZXJRd1VFVVhabjFzaEJrY2JJTVd0Y0QyZU9CZnVMYzRuZlI4X2U2U1VtZjZDb3FRLWdEMjlEbXNYaUFPOElqODZVeG5DblVEQXprX3cyVjRkckdJa2JwZw?oc=5",
+      "published_at": "2026-11-05T15:00:00+00:00",
+      "regions": [
+        "global"
       ]
     },
     {
@@ -163,18 +291,7 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSFE0elBQM2M1b0F6Y2R5RUFiNUVwSEUyd2JkeDdYVU1LVTdXZTdFQWNMY2Z1OVZGcWZJeTdBNURBUGZQZi1LSXBPTzh0WDBzU1Jxb3dDbVFYYjhtaWZHYjJUdm5ST1NmM2E1ZnJISExLcFdMU2RqbmdJbkt4M0cySWhQdTJ6bW9PUUkzV0I4WWRhcnhCMjFDV25HaUppYzg?oc=5",
       "published_at": "2026-11-05T14:51:09+00:00",
       "regions": [
-        "global",
         "usa"
-      ]
-    },
-    {
-      "title": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren’t Buying It.",
-      "publisher": "WSJ",
-      "publisher_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNek9QMkZhM3RqT2tlNWZraXFsM05WSE1FVl9rZ2xzcmc0bktZcE1KODl0bjhic2VIaVM1VF85TzBvTGJJdUZhYXFzUzEwVE1pWW1rSG14b1hPdFFuM0dTRUlMYW1GZFNKeHl3OWQ5T1RlbTQ1am9lMzNSME81ang2Tms2V0FLdGttWUs4RmlhWGNXVHdIQ3htVjNUX1ZoODFRTmVzN0Y4YXZqU2RHMXFEOHpn?oc=5",
-      "published_at": "2026-11-05T14:43:17+00:00",
-      "regions": [
-        "global"
       ]
     },
     {
@@ -184,7 +301,6 @@
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQTBweUhDcG9LRmpsZXpWZC1PNUU4WFJQWkVDQ0RCMjJyLU45Z2t4Z01qcXQ0XzJJT1FuT1VwajFnMXlCS3FKQ2I5YWZpV21Cby1lZURPTTA0a2hxTW45NWNMS3cwVUZaM2xSNFlheWxJYnJtQ2ZBSnNLdmlXaEZUQVNNclZFLTBOOVJVVVRsbFpEclhLUlVjdXdOVzZjbnROa013b3ZR?oc=5",
       "published_at": "2026-11-05T14:15:00+00:00",
       "regions": [
-        "europa",
         "global"
       ]
     },
@@ -210,6 +326,16 @@
       ]
     },
     {
+      "title": "The Biotech Growth Trust PLC - Net Asset Value(s) – Company Announcement",
+      "publisher": "Financial Times",
+      "publisher_url": "https://markets.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYVFhWnItRmRYMlJtVXR6ZWZXM2R1Y2NvclpFRXdrd3ZhRXpaSm12MVdPNUpxd2R2YkhqVkdMM0tFMnNZZnpXTmRTbjdWYjZDS2gtSGgzMG1vTS02YUhpdWhWMVRsdFI1YTZzc1ZZa1ljR3ZyeEdTMjhCZHJKR1FKZy1nR1ZKS3NTUGJ0NmJ2c0ZzUE5q?oc=5",
+      "published_at": "2026-11-05T13:38:00+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
       "title": "How precision medicine treats an overlooked clinical variable: Time",
       "publisher": "pharmaphorum",
       "publisher_url": "https://pharmaphorum.com",
@@ -226,7 +352,7 @@
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZ2ppWG82enNuY1BJaTk3SmxKUXVON1NwZU9JWGhPSGpPRXJQNEFKN19jX3BDZGNxQWRyZ3JHSm5vNDdVOFJwdVFsT0RQQ013LVpTQ2dybzI1OU1YMmhod3ZHZVB1Si1aN1RrMlc3aU9BVjF4OXB2a0hIS21CeGxraGpYbjZXSTItcUFxaVNpclB5YVBaaHI4SFc4MFVvRjZiNzJFZkhn?oc=5",
       "published_at": "2026-11-05T13:00:00+00:00",
       "regions": [
-        "europa"
+        "global"
       ]
     },
     {
@@ -262,24 +388,23 @@
       ]
     },
     {
+      "title": "How Africa became a key hub in the global drug trade",
+      "publisher": "DW.com",
+      "publisher_url": "https://www.dw.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQS0RBNUFZNk44WEtieUdQZV9mWDF6OXhEeEpWV3UwRFdKRmtzMjhqM2NkUmxBbjkzdk9qSFA5THZuLWR2anh0OFBoTVRWQ1BYNGY0bmhJVXNLNDVpdGt4ZUdsTmxKN20tWnVmWUJaUjhFdHFUTkdXWlJtbFZlRENSVl9Ndmg1UdIBhgFBVV95cUxPQjlMdGNwVFFuRnhTc1V3bEQ4RUVNSXZnSGNZVTh3M2pCZ1dEUjVnSWpFM2R3WTZ2R194TlRaa25hRVc2M0syZVdKUkhidy1Qd2puM0l5M0RadXpZcDVXTTNjcG5QTzZrZjROZGFyVHNKQnV1TV94V0EyMWI4SGpyTG1xR3pRZw?oc=5",
+      "published_at": "2026-11-05T12:24:02+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
       "title": "Kazia Therapeutics Recognized as \"Drug Discovery Company of the Year\" in 2026 BioTech Breakthrough Awards",
       "publisher": "Financial Times",
       "publisher_url": "https://markets.ft.com",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMUtuMEljRk1Cb0NFUWJDLU9ELUNwS1V3cDNsRmRtNUExQ28wbVFacXRHWTBuakVQdVNKdHh3dlMzYURqS1hzQUhrcWZWWE5QYmlXYS03RDcyNTR0Y0E1UjQ5RW5VWDZtWXEyak1JUkhHWENzZ0ppZTV2TElIYWhDVll4dU5tTjBQX0c5Y2dibUE5cy02enc?oc=5",
       "published_at": "2026-11-05T12:00:00+00:00",
       "regions": [
-        "europa",
         "global"
-      ]
-    },
-    {
-      "title": "Amylyx Pharmaceuticals Reports Third Quarter 2026 Financial Results – Company Announcement",
-      "publisher": "Financial Times",
-      "publisher_url": "https://markets.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOUtwSVVvLW8tODFkNlBSVDRpeG9yamlPcVVGNzhoc2N2al9TVHpxaXI0V254RzA1VE0zN2t0bV9RV2Q1eUJ6eEtESFdtbWJ4TEFla2UwSUV1X2tZMWhWWHBGWmQtbmRqdVZ4cndSMzBBY1ZUc1IyaHRmSXd6am4xVFFjNlMyMVJQaUVJSDZzT0N0Z1pWVFdtOTFjVXRBTW5KWTNld3RB?oc=5",
-      "published_at": "2026-11-05T12:00:00+00:00",
-      "regions": [
-        "europa"
       ]
     },
     {
@@ -332,18 +457,7 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOXZuS2dDZEtKZjJzeFdTNFBTRWRTWnBnQkZDNFJTVWFPTDlHMkM3Tzc1MVpxaktOdmhrQ3IwbkYybjEzaUdrVzhlRDNVTVVkX0lmVndRUDA1Ui1fbldET0VHT2FTcjEzNTdYSFlHVGg4TGRxOWdwd254QlQ5cnc1RFJxVG9MUW5kSjBCYnhxSldFbE0wcXNreA?oc=5",
       "published_at": "2026-11-05T07:33:46+00:00",
       "regions": [
-        "global",
         "usa"
-      ]
-    },
-    {
-      "title": "Novartis Raises Guidance Despite Drug-Trial Setbacks Hitting Profit",
-      "publisher": "WSJ",
-      "publisher_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaVFMeFV6aEp4TlZ0cGg2SVBPSVoxTlp5cnlFLTl5TU16QUtBeXNfcFFMelg3QUg2WVkwdmFpbXpqNDZYcmJxNWFJcFhNRU90MWhSdzZNejFNeVVTd21ZeHZKZnk2SU5OZWhURXpmVHpkWXJ4V01iRDh6MnBKQ1RXb2JTSjhOVmFURVF6ejlYcURla2NLUl9rcnNRMmdyVGlndlRBSTZweWpuTmU5Nmc?oc=5",
-      "published_at": "2026-11-05T06:01:12+00:00",
-      "regions": [
-        "global"
       ]
     },
     {
@@ -353,7 +467,7 @@
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTnNKOGFVM3N1QjRFT2JKb0RoQV9LeG9VNGZ2SGVmZGxvd1lkQlpZZ3hwZk5Nek5DQ25DeFI5bkN0c2RDSzR4a1pRV2ZwWGtIc2dVM1pkYklHbXF0WmxZNTk5X05PaE1BRmFuR2NjU2w3QmVjcU9GSlBxSThJeFFDcEN5aEU1Z0VENEhHMVNlM09EZEs1NTRrZjA4c0pEY2Vnb2RzbEN3?oc=5",
       "published_at": "2026-11-05T06:00:00+00:00",
       "regions": [
-        "europa"
+        "global"
       ]
     },
     {
@@ -364,7 +478,8 @@
       "published_at": "2026-11-05T05:42:00+00:00",
       "regions": [
         "europa",
-        "global"
+        "global",
+        "usa"
       ]
     },
     {

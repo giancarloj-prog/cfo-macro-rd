@@ -1,7 +1,7 @@
 {
   "date": "2026-11-05",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-05T18:03:47+00:00",
+  "checked_at": "2026-11-05T23:40:45+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -23,17 +23,17 @@
     "bcrd": {
       "ok": true,
       "error": null,
-      "count": 2
+      "count": 3
     },
     "fiscal": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 0
     },
     "dgii": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 2
     },
     "finance": {
       "ok": true,
@@ -68,7 +68,7 @@
     "economist_raul": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 2
     },
     "economist_jose_luis": {
       "ok": true,
@@ -87,7 +87,86 @@
       "publisher": "El Nuevo Diario",
       "publisher_url": "https://elnuevodiario.com.do",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQWxEdVE0OW5sUmRxV09MWF9EZjJmV0tWQnRKOThWdnpKdk9lMG9ybGpJTm4yVFlaSll1ZUFWR2RDYXRZM1BLaXhUMG5vX3NRbElxNWExbGJzOTlnMkVjRXlkRWVDa3RMRTNtd08zOEFuTUxackNScEtlRkpiQ1lUaW1RdDNyNzQ5MzBzNXlwNGVWZlc1SzRfM2lyWU1EMTRUUm85c3JZcnB6RUc0cy0tcWdKemVKcDg?oc=5",
-      "published_at": "2026-11-05T17:24:33+00:00",
+      "published_at": "2026-11-05T23:04:35+00:00",
+      "topics": [
+        "bcrd",
+        "opinion"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "bcrd"
+      ]
+    },
+    {
+      "title": "Raúl Ovalle: Hogar promedio dominicano destina 15% de su salario solo a pagar intereses; en la capital ya es 18%",
+      "publisher": "Periódico elDinero",
+      "publisher_url": "https://eldinero.com.do",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdExLT3BrbzgzMWtnN01WX1BiVGtUNUNzZHlZWkw5M1M2ZHBHUGZZMXp6VEZzaEVGazlXTWJCbkJHR0pUTHpYUDdqS3NOVzNFZmZVci1Ja2p0ZGJnb2FuVkhFWk1HV3hNLTByaW5IcWZDRkdSRE9iSHZUcVNQSUU5M3ZQTkN2WWVsOGtRNTFDdXF6bFZGdHFRcllwX25FUXZiSktDY2lhWm5BcmJPYXhseU9ld19QNFBHdkVJTjNZMlNlYWxRdHlLOU53bHBhcGEzaFZYcVRmQQ?oc=5",
+      "published_at": "2026-11-05T22:27:20+00:00",
+      "topics": [
+        "opinion"
+      ],
+      "economists": [
+        "raul"
+      ],
+      "economist_match": "headline",
+      "searches": [
+        "economist_raul"
+      ]
+    },
+    {
+      "title": "DGII reporta cerca de 129 mil contribuyentes autorizados para emitir facturas electrónicas",
+      "publisher": "El Nuevo Diario",
+      "publisher_url": "https://elnuevodiario.com.do",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaXUyeUJJdmYwR3oxV1FzU2VhR19hWmNEak45TmNQbUh1UmVOYlZySTlra0tXcGpqVnQyQkJxbUxLZjQ2ZDZKaW9pOURLa0JkQW1nWkRZRUhTM3JCUndBMndRVkxiMnY4eGZFaUp5UFJmOUEzMlZPNmN4RWtyVDkwZHZJb3VremJBeEMtd1VLVktWTXMtTkJVa3RvdnlvUDdJTjFhYnJiaDVGdkFTT0dkSXR0ZFVrMnFhRVVyag?oc=5",
+      "published_at": "2026-11-05T22:24:34+00:00",
+      "topics": [
+        "dgii"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "dgii"
+      ]
+    },
+    {
+      "title": "Ministro Magín Díaz defiende ante el Congreso el Presupuesto General de 2027",
+      "publisher": "Acento",
+      "publisher_url": "https://acento.com.do",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTFRqWHV1anlYczRraUphYmJxQ1lYT214c1RqdUw3OGJQM3RjZ3NTZG44R3BKQzRfWENCNzJjR2oyRHNrWTBsUTExck5OaEpQZjVCYVpWbnF2ck9fRm9HZTFMaUFSYjZianZCRkFGMFN3U21xV2Q0cXBXT0hpZXl2YTV5MUpEWklRTGdhN29lYW1DMUlPQ1RCcnZpYjJqSGs4RXlWMGVDLUpTbE5fZHBORFdPNzNEcDR2d1B0ZdIBvAFBVV95cUxPTFRqWHV1anlYczRraUphYmJxQ1lYT214c1RqdUw3OGJQM3RjZ3NTZG44R3BKQzRfWENCNzJjR2oyRHNrWTBsUTExck5OaEpQZjVCYVpWbnF2ck9fRm9HZTFMaUFSYjZianZCRkFGMFN3U21xV2Q0cXBXT0hpZXl2YTV5MUpEWklRTGdhN29lYW1DMUlPQ1RCcnZpYjJqSGs4RXlWMGVDLUpTbE5fZHBORFdPNzNEcDR2d1B0ZQ?oc=5",
+      "published_at": "2026-11-05T22:15:08+00:00",
+      "topics": [
+        "finance",
+        "fiscal"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "finance"
+      ]
+    },
+    {
+      "title": "Banco Popular ocupa por cuarto año el primer lugar en reputación corporativa, según Merco",
+      "publisher": "Acento",
+      "publisher_url": "https://acento.com.do",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQcWlKWU1lX0hnX3V4MGlhMjBXMW1Xb2Y2S3dHQ0pmcVIyQ05keEZOdjhSLWxLUEQ0YjRQUW1vcHNDME1qdFZJQmdTRF9fOHppanJnLV9Fbmo4RWtJZ2dwcEdqMTlHaXRPMWVEVWo5cFhhMGpqWDhhaGx3aDlHN0xlcEZwd21jN0haRUk4Ri1adzkxTVh4YjRwdnJlOElJbXpQOXlYZlhyR3cwM3JYdkJxc3M3dUlXanc3YXo3QzN6R1JEZ2prMjVVcjJJc1DSAcwBQVVfeXFMUHFpSllNZV9IZ191eDBpYTIwVzFtV29mNkt3R0NKZnFSMkNOZHhGTnY4Ui1sS1BENGI0UFFtb3BzQzBNanRWSUJnU0RfXzh6aWpyZy1fRW5qOEVrSWdncHBHajE5R2l0TzFlRFVqOXBYYTBqalg4YWhsd2g5RzdMZXBGcHdtYzdIWkVJOEYtWnc5MU1YeGI0cHZyZThJSW16UDl5WGZYckd3MDNyWHZCcXNzN3VJV2p3N2F6N0MzekdSRGdqazI1VXIySXNQ?oc=5",
+      "published_at": "2026-11-05T22:00:13+00:00",
+      "topics": [
+        "finance"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "finance"
+      ]
+    },
+    {
+      "title": "BCRD anuncia una nueva convocatoria para la competencia académica “Economistas del futuro” 2027",
+      "publisher": "Hoy Digital",
+      "publisher_url": "https://hoy.com.do",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORUdSaTk1dENwZXpIMWgwLTBSSFVUTFljbmxIZkdPYVY0QzZLc2lEeTVuSXRWVmgyYWpHdDFNek5zTjduLUZzSmgxV3VWWHNkMGdFcDFrcXd3dm92cXBxU2ZINkg4Sko1bEVZbWtxb1FWSmo4RXJhVDd4bzlBN0d0MWd1enU4MjlRSm85ZEFmODN6OVhZUUh2aDNGSEhrSWpoY1BOblZISkRRNVJOa2huTzdyZWNkS3dMc3fSAb8BQVVfeXFMT1NlMHZCclcxQjBJNEhocHZRd0hWdXBfTUxkVzVmT1l4SjViZzZCS3gtR1R5VXN5SnN6UE4zVkJ1aXBoVnFfZXN1dDl3YnJ4ODExd2NlZ25VNkZILUJURV9hcS1zWENmR3FsRkF6dVdIQjlUMTI5cThUSTVKWXlDUElQRXp1RGF4U3JqNlpxX0RQSXphZkxWLXBSRER5NDhfTUJnN3BBNlNVeEk1TzBLajV2SEdyQlJvQzB0RnhrUUU?oc=5",
+      "published_at": "2026-11-05T19:37:41+00:00",
       "topics": [
         "bcrd",
         "opinion"
@@ -144,6 +223,23 @@
       "searches": [
         "finance",
         "securities"
+      ]
+    },
+    {
+      "title": "Jaime Aristy Escuder propone que quienes puedan pagar la luz renuncien voluntariamente al subsidio eléctrico",
+      "publisher": "El Dia.com.do",
+      "publisher_url": "https://eldia.com.do",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMVJYbW02NHl0ZFVLYnl5d1VwOTJVQjF3b01lOUhaYnJkVDlWZVhsaXlTMjBGX1I3dkFZZ3hhcmd5TUhGZ056RlFSSVRLU1hVQnFlNkMwWDVQaWVDY28xSHVWUlpNSjFFRXQ3R2p2QTJvTEUybUd0RE5vYWIzM0lzTFRUSWhZc3IxUy1SLW84Z1hsSjY5ckdNb3U0Ukwwa09qS0wxaDFOZ2tXMUhfaDVzTThfVEtuUXVucHc?oc=5",
+      "published_at": "2026-11-05T13:53:07+00:00",
+      "topics": [
+        "opinion"
+      ],
+      "economists": [
+        "jaime"
+      ],
+      "economist_match": "headline",
+      "searches": [
+        "economist_jaime"
       ]
     },
     {
