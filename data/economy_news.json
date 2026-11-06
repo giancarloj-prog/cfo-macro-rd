@@ -1,7 +1,7 @@
 {
   "date": "2026-11-06",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-06T17:32:08+00:00",
+  "checked_at": "2026-11-06T23:11:43+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -28,12 +28,12 @@
     "fiscal": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 1
     },
     "dgii": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 2
     },
     "finance": {
       "ok": true,
@@ -43,22 +43,22 @@
     "securities": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 3
     },
     "economy": {
       "ok": true,
       "error": null,
-      "count": 3
+      "count": 4
     },
     "economist_andy": {
       "ok": true,
       "error": null,
-      "count": 4
+      "count": 3
     },
     "economist_jaime": {
       "ok": true,
       "error": null,
-      "count": 4
+      "count": 3
     },
     "economist_juan_ariel": {
       "ok": true,
@@ -73,7 +73,7 @@
     "economist_jose_luis": {
       "ok": true,
       "error": null,
-      "count": 3
+      "count": 4
     },
     "economist_nassim": {
       "ok": true,
@@ -82,6 +82,100 @@
     }
   },
   "items": [
+    {
+      "title": "¿Afectará la crisis del Paraguay su calificación grado de inversión? Moody's tiene su opinión",
+      "publisher": "Periódico elDinero",
+      "publisher_url": "https://eldinero.com.do",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZzFfeHJFX29pTG9ldG1LdWdGa2pjSDBIS1hSVjZ5ejlpV3RnZVN4ZUhtaGEzUE1LTnI1Y1U0YldZM3pRRXRSUmF5UmlLcjNlVE9xUzVVMXFEOTVNS2RwbUtSQmJ1dXVRUVlTZkxObGwzaTYzQWtpdHBfNWRDaHNObjk0em5YSTBPcTBTS1FnYTVVXy1WUlliNWdiek1sY1pFYjJaQ25CejgtRjVOX2J3Nm9mTXBlU2w5WEtQWFFwaw?oc=5",
+      "published_at": "2026-11-06T21:23:35+00:00",
+      "topics": [
+        "opinion",
+        "securities"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "securities"
+      ]
+    },
+    {
+      "title": "DGII informa recaudación de RD$83,680.6 millones en el mes de octubre",
+      "publisher": "El Nuevo Diario",
+      "publisher_url": "https://elnuevodiario.com.do",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNb1MwRGF2T1N2ZTd6bmt4cGJnYl85ZVVOVFp5dVdpak9GcEZxQ1VEV3lDckREVXRseVVxSnhScHVRV0VXLUt0T1R2LURpNTdnelRxUGU1TFlhT1NuLTdBR3lCQ3EyUEliYUhDbGdBM2Z1b2RrZGFjSUpISjhpZFVqci12S1FVUElydllPQXRRdDQ5MWFwRVRMMTd2SF85dw?oc=5",
+      "published_at": "2026-11-06T20:56:46+00:00",
+      "topics": [
+        "dgii"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "dgii"
+      ]
+    },
+    {
+      "title": "Precios de transferencia: más contribuyentes podrían quedar bajo la lupa de la DGII",
+      "publisher": "Periódico elDinero",
+      "publisher_url": "https://eldinero.com.do",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWndsYWViZjdvUFNTNXJ1RzBYdXUwVjQ2ZGdoVVQyZWFqcHc1bnZrLXRPWmx6Q1VZTkJUVmpockNzLTFhN3lEb2U3TFhLVlc4eUJlVi1YUXZIUDZTbjh5NjV4bmFYek1MRWpSUkZSNUZKNmZVRHhUaFBJb083VWJkV25pNUd4OUpNbXhMeFpISFdlMFBzeHJsM1BDUGZ6VGJXaFRiYVl0Mm1jbGt0ZHVUNlB0c00?oc=5",
+      "published_at": "2026-11-06T20:48:27+00:00",
+      "topics": [
+        "dgii"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "dgii"
+      ]
+    },
+    {
+      "title": "Mercado de valores dominicano cuenta con 74 fondos de inversión y administra RD$493,023 millones",
+      "publisher": "Periódico elDinero",
+      "publisher_url": "https://eldinero.com.do",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPV205ZkNsaFhRa3FocFNmeVM1U0xaT3R5OEhUM0M5ZlB3XzVVRi1YenJJQmlaeUROblZ5QnZaMTRzaXVmUnZxTERoRV9LWXdCbXZMLUprNmRucUdkTmptamJ2d2h1Vk1xSjZqeDJVQlpDS2Y5QXdHcm5GZ3hWRUxUZEFTa2JUTmdJZ3NwazlxVkltaTA4VjIyUVZfQURHMEt4N0NuX2laOTY1R0J3VTFsN04xLUpweEV1RDJYR09MZFRGUkU1?oc=5",
+      "published_at": "2026-11-06T20:47:57+00:00",
+      "topics": [
+        "economy",
+        "securities"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "economy",
+        "securities"
+      ]
+    },
+    {
+      "title": "¿Qué impulsa las exportaciones de RD? Alcanzan US$12,019 millones",
+      "publisher": "El Caribe",
+      "publisher_url": "https://www.elcaribe.com.do",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQk5kWVdLa011b2h2M0gtNEQtN0p5Q05yM2dvaWZGd29jTWVkN3JjdEFmWmNpZ1ZERWdTYTJtNzI3N1ROMUY1ZWR5cWpFLUpkYzlRRTgwTkZ5eXhNU2N5Mmh2a0N6cjhnNjZkX2pEMnVmSFZSYzBDNWc5dGVwMV9ieFNGLVF2QXd6TUhKaXdka2E?oc=5",
+      "published_at": "2026-11-06T20:11:15+00:00",
+      "topics": [
+        "economy"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "economy"
+      ]
+    },
+    {
+      "title": "Economista advierte sobre dificultades del Gobierno para financiar el gasto público",
+      "publisher": "El Nuevo Diario",
+      "publisher_url": "https://elnuevodiario.com.do",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQM2NlOWR3R25xdjAwYkx2cUxFak4yTkJQMS1WZjNDd1c4ckhMdkM3ZnZDbmJBem9rVzlvZTVwWFp5ZDg5Sm45TE9wb0l5RUJ0MXRpV1N0NUdGbWR6TGE1ZjZrSEVtcVE1MThoMDQzMkt6Q0R1dzhaT0J0WmR5RXJLZUppdUk0UjVycm1sWlllZnplOTVJUWlLM1lSUUdCeHU0dnAzbzlUc0Z6akZaUGJTZzM4NA?oc=5",
+      "published_at": "2026-11-06T18:21:44+00:00",
+      "topics": [
+        "fiscal",
+        "opinion"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "fiscal"
+      ]
+    },
     {
       "title": "Empresarios españoles destacan oportunidades de inversión en República Dominicana",
       "publisher": "Acento",
@@ -141,11 +235,13 @@
         "opinion"
       ],
       "economists": [
-        "andy"
+        "andy",
+        "jose_luis"
       ],
       "economist_match": "headline",
       "searches": [
         "economist_andy",
+        "economist_jose_luis",
         "economy"
       ]
     },

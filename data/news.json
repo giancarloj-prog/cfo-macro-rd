@@ -1,7 +1,7 @@
 {
   "date": "2026-11-06",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-06T17:32:08+00:00",
+  "checked_at": "2026-11-06T23:11:44+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -29,7 +29,7 @@
     "usa": {
       "ok": true,
       "error": null,
-      "count": 7
+      "count": 13
     },
     "europa": {
       "ok": true,
@@ -39,10 +39,76 @@
     "global": {
       "ok": true,
       "error": null,
-      "count": 11
+      "count": 18
     }
   },
   "items": [
+    {
+      "title": "Hims & Hers inks deal with Eli Lilly to offer branded weight loss drugs",
+      "publisher": "Fierce Healthcare",
+      "publisher_url": "https://www.fiercepharma.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYWFUVU0wN1JTbEl5bmFhM1dKX3BQdGJ3ZDczNUYxVU9Ya0tfWEVGeDZBZ0g2MFg4c0xzNXEyYXJwWkpZSHFPV3NRaG5yTHRxelE1MWhnZFVrVjdaRGFNbmFkRzNrSktiR1Vyc0M5RnNnWlFORUkwQ20xRjZqZmZUSGJodTJaN2VFNWx0QzEyeWZFUnlfbC00QkJyVlJXNEhpS0NLSg?oc=5",
+      "published_at": "2026-11-06T21:30:00+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "CMS makes it official, codifying Medicare drug price negotiations established under IRA",
+      "publisher": "Fierce Pharma",
+      "publisher_url": "https://www.fiercepharma.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNR29vM3R4ZVF4N1NDdXBRcFpMQ21DelVIWHZYZkZWOGdKQjg0Vkt5bEx6SldyTGJZXzFjNC1DQWNhaEE4NWZSbldqbEN4azFINmNYdTFvMlJneF9QUWNUbGp0aW9MeWp4VVp0YTBaZXotTXlOLWc3NWFVUGxYNngwODhyMy0xZHFHa0NhMV84M2Nxci1kRU5ZOEFkamhaTnJXbVg2SjNhT2RzYWFjQkdFLXlFV25wQ3FpN043dmVB?oc=5",
+      "published_at": "2026-11-06T21:24:38+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Hengrui Pharma and Braveheart Bio Present Data from 52-Week Open-Label Extension of Phase 2 Study of HRS/BHB-1893 in Obstructive Hypertrophic Cardiomyopathy at American Heart Association Scientific Sessions 2026 – Company Announcement - FT.",
+      "publisher": "Financial Times",
+      "publisher_url": "https://markets.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYk1XUjdRZVh1b3ZabU9Fay1wdzcxZkJZSGk2MFVGRUZFaDRjaWF6dkkyRF9nN0ZfVVdaaWhkOS1QWEwxcjItWm55eE9YelgxNmJrWjlkc0xHNlluZVVkcFp1S2tvRGFaLVlBZU1aSVFUMU5BS21IZDZUX1VuNk91YnppckhmM093MjlvYzZSVzJzLXFTRWpV?oc=5",
+      "published_at": "2026-11-06T19:15:00+00:00",
+      "regions": [
+        "europa",
+        "global"
+      ]
+    },
+    {
+      "title": "'Drug test' of ancient remains proves earliest known use of cannabis",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbExJb09SZDNMaGdCMndrell1RkVsbVpaNXZfbG1uRmx6Y0owN0ZmNkExZDRiSE1GR0xhbDJCWkhrTlhHUDFzeEpHcjBFVlAzZVJQU0pQa3k5a1dCUWYxS3dDTUdkaWthUlE4TmlTdnM0N2U0akE3dFBFOXZYZm9tS0xRcURwZVJXWmU0VVluekVoOGM5VkE?oc=5",
+      "published_at": "2026-11-06T17:38:20+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "Moderna lifts annual revenue forecast on strong COVID vaccine demand overseas",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMDhadHhGWmZFVl9UTzNKeW1PaXdMbW9QS2dWd2NZVklVQWFScG0teTJTREVpdU1oc0tYdkJ2RE5oSi1ESVBCdTNqekZtb0FvemZhRjlVVUNMOUdqdklndTQ4cFB6dUJmZXYwcS0xa3hMX2ZJVmNiMUpzTFVDWE42NUE1YkgyYkhzUVlMZElXMUdaOTFEMkxaV2k4QWk0TVRmbVNQZDQ1RDZWRjFaOEkyazQ2MlhEeC1MVS1GMkxyR2xod0hyckYwYTZheU1zSk9SdFhGLWk1dkJvQlNkY0JF?oc=5",
+      "published_at": "2026-11-06T17:11:07+00:00",
+      "regions": [
+        "europa",
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "The Biotech Growth Trust PLC - Transaction in Own Shares – Company Announcement",
+      "publisher": "Financial Times",
+      "publisher_url": "https://markets.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSm9TR1l2bXhkX0NkUTlYQWYxN3lCSEt6SG5KcDJkeTR4anVtMDJBYlBIYkJtVFVXLXZPd2czQlVScEN1b3FBWHl2ZmdpYlNNR3VTcllWbVhRaDB3N0pVeFZ2ZnpMOWg4TnNEeUVqb0xkOHpXeGNJVU82N1pFZU5PbER1VWVoSk1pOWdtUjZsdzVFcmNz?oc=5",
+      "published_at": "2026-11-06T17:10:00+00:00",
+      "regions": [
+        "europa",
+        "global"
+      ]
+    },
     {
       "title": "Moderna's COVID vaccine carries stellar Q3 revenue beat",
       "publisher": "Fierce Pharma",
@@ -51,6 +117,16 @@
       "published_at": "2026-11-06T17:00:00+00:00",
       "regions": [
         "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "This pharmaceutical ETF is outperforming. Why it could keep climbing",
+      "publisher": "CNBC",
+      "publisher_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPN3NHbTR3eFd2MF9aYkIyS1lzUVBmRm41TVZheUN2TlVSZFVNQWVOT1dxTjFBVnBIeElyNXlDWFBHSXFQR3gzUkNLN2Uybm1pR0pnR2xib3JaWFlSbXpkeEVZQWZnS0haMVY0anJLZWNMRmpubXNwcXJaYjNHVmFUcEt6SGZaQW9zVmFPX19ZdlkzZ2JraG4zZkhFYlpqelFEWm9nVzJ0VQ?oc=5",
+      "published_at": "2026-11-06T16:57:09+00:00",
+      "regions": [
         "usa"
       ]
     },
@@ -71,7 +147,9 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdmJkQXdDMzRzVFRXRmh1UHN4R1c0Y3FtUTBFTm5PcVUtaWhvU09FWkY5RGxLZDk2X091SWRySFVqX1NDaUtoQkljX3ZRanNwZThzWHZvWnB5N1NuTUlIa29QdXNmU091dDNudi1FSU05SG9UVmRYbnNwQzNWWXpQQ2plZlExMmhPMlMtUUktS1c5MXphUVB0cWR6QmJOUGRFSFZ4aUNPWmFFZUpj?oc=5",
       "published_at": "2026-11-06T16:06:38+00:00",
       "regions": [
-        "europa"
+        "europa",
+        "global",
+        "usa"
       ]
     },
     {
@@ -91,17 +169,6 @@
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSXNzWkZLTUx6QTVKQ1NuTnVoNUo3XzZTNGM3ZjU2VS1PVmtyaGFNSTBZdmNsZDlYTktrOXZFVFo3MF9YbFJ6TE1lczdfSUhqbGIzYUZPTEF6T1N3ZmxaNlFBOXdKLU4xZUJPeUJrQ1dMb09QclM2UVNfLURfMVVRQ2ppa0lkT3FOa3c2eC1FaXlXMTJR?oc=5",
       "published_at": "2026-11-06T15:49:00+00:00",
       "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "Moderna lifts annual revenue forecast on strong COVID vaccine demand overseas",
-      "publisher": "Reuters",
-      "publisher_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMDhadHhGWmZFVl9UTzNKeW1PaXdMbW9QS2dWd2NZVklVQWFScG0teTJTREVpdU1oc0tYdkJ2RE5oSi1ESVBCdTNqekZtb0FvemZhRjlVVUNMOUdqdklndTQ4cFB6dUJmZXYwcS0xa3hMX2ZJVmNiMUpzTFVDWE42NUE1YkgyYkhzUVlMZElXMUdaOTFEMkxaV2k4QWk0TVRmbVNQZDQ1RDZWRjFaOEkyazQ2MlhEeC1MVS1GMkxyR2xod0hyckYwYTZheU1zSk9SdFhGLWk1dkJvQlNkY0JF?oc=5",
-      "published_at": "2026-11-06T15:22:45+00:00",
-      "regions": [
-        "europa",
         "global"
       ]
     },
@@ -153,10 +220,20 @@
       "publisher": "STAT",
       "publisher_url": "https://www.statnews.com",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdUlMT1lGOGtwODlydFdpT0lRUnZEbU9ZaXNoNjVzdC1EWS1TN2RIWHVMYkdJclpfRndLX0hiLUppLVJ6aEZGaXY4ZTlYakJSZ3luMk54YzZMYmVqX3Q0b2x5MEZrazctWm82WmtOblIzM0JYSnhGd3ZvTHpPZ0F6LVJ5amhybUtibXp5TDBjakZRdGt6c0JzOFZNNlFUVk1MblJzSnpEUQ?oc=5",
-      "published_at": "2026-11-06T14:42:39+00:00",
+      "published_at": "2026-11-06T14:43:36+00:00",
       "regions": [
         "global",
         "usa"
+      ]
+    },
+    {
+      "title": "biotech Archives",
+      "publisher": "STAT",
+      "publisher_url": "https://www.statnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1IaUhyZDNFMU03U0phdWNuLW40STEtTjdwOUpFT2REMkRfdFBRRUVqNi1jTk1wTHFSZ1RQdkVJV3gwV29fQkVkN1VxcDJSdUNHWHB2UFVXSmFUaEk?oc=5",
+      "published_at": "2026-11-06T14:25:06+00:00",
+      "regions": [
+        "global"
       ]
     },
     {
@@ -186,7 +263,8 @@
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYN1ZQeEdrOUlPWXFpTl9oUkhHcjY0dXprek4ySllyWnpsWDBBRFprZVJaTF9oRk1DSXh5MGpJRW5rRjN2ei12UUNaajVEalZPZHdOQmk5TVRXR0k?oc=5",
       "published_at": "2026-11-06T13:43:42+00:00",
       "regions": [
-        "europa"
+        "europa",
+        "global"
       ]
     },
     {
@@ -211,16 +289,6 @@
       ]
     },
     {
-      "title": "Denmark's Leo Pharma could postpone IPO amid market turmoil, Berlingske reports",
-      "publisher": "Reuters",
-      "publisher_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTjltWWNEQU5QLUJtQ0wxbmhBd2pkSXFEZXlSVGRLTGt1ZXFON2JGTDduQ1FlellGcXp5aWd5UjlFWFU1NmRMM1JxLVBkY09objYyZkFqVV9ZMXA3QzNVbG9Wc2pmM3hGOWptblpmMV9GNjVuSWJERThSY1hveENzS01QWVVnZmFQSjA5TE9NWDRheU5QWXhqcDhicm1xSzhNanBRcFVreXdLMXoybzJaSTZvelo5OW1NS3djN1hFZHlRQUF5WFpBbmFn?oc=5",
-      "published_at": "2026-11-06T12:40:53+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
       "title": "Moderna Swings to Profit, Lifts Outlook as Covid-19 Vaccine Demand Stabilizes",
       "publisher": "WSJ",
       "publisher_url": "https://www.wsj.com",
@@ -236,7 +304,7 @@
       "publisher": "BioPharma Dive",
       "publisher_url": "https://www.biopharmadive.com",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRmJFMWNLTmx3ZW03SVJRVm9LcTllaG15TFB3R1RhQkxMWmtDT1AyOFhzQWFDQlVPd3U3SWI3MFpnNEk2bDlLQ3dTMkFJdm5NZjRTOXZhNTZrX0RnVHJNNlVBSGdRcmxBLVZhR2VoeXdBakJEUEtHZk56dEQ3LXlIR0FPRWdTSWtkUHdvV0wtQzhnY05NdEVZaUhUdjlDT0pXVG5aTVhR?oc=5",
-      "published_at": "2026-11-06T12:02:14+00:00",
+      "published_at": "2026-11-06T12:31:59+00:00",
       "regions": [
         "global",
         "usa"
@@ -290,17 +358,8 @@
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSjNyTWR6Z2I0d3B5enYyMHlJdjZMVDY1djNqaGppaml5YzRkNXN3VW9hR21JZmtBZ0J0NEVwcTlxMzZ2MmhTSElkV0ZUUi12THlFVGY1MU03R1RGcTlmck1GbFV4UnRSQ0dMN1pCNDEyNHc4UV9Kci1kZW5xYzdRM0xNUmNTYWRieUxIdkRhVjBVNk1lTUJpTFJpNEZudGFJNG1NQ19wS3Fpd3Rpc0lfUXRwWnBJcWFM?oc=5",
       "published_at": "2026-11-06T11:27:56+00:00",
       "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "Biotech Archives",
-      "publisher": "STAT",
-      "publisher_url": "https://www.statnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBoelk3SURLVjBCMzhIX3ItZ0VWTHVnUUxraDRodDhZV016OEJHVzQ5UUlRdS1KU1lURmV6NzdrYnA1eVgxZ2ZrSG5uelc0TTB4S0ZXLVdnSVJoeEZucWpCaQ?oc=5",
-      "published_at": "2026-11-06T11:24:42+00:00",
-      "regions": [
-        "global"
+        "europa",
+        "usa"
       ]
     },
     {
