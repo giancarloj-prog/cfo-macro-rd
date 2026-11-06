@@ -141,7 +141,8 @@
       "2026-06": 20900.35216245,
       "2026-07": 20123.703549840004,
       "2026-08": 20559.68192375,
-      "2026-09": 20309.339006259997
+      "2026-09": 20289.094581459995,
+      "2026-10": 18101.432018389994
     }
   },
   "daily": {
@@ -243,7 +244,7 @@
     }
   },
   "note": "Base histórica V4 con BCRD y DGII. La automatización conserva estos puntos y agrega o actualiza nuevos períodos.",
-  "updated_utc": "2026-11-06T06:58:04+00:00",
+  "updated_utc": "2026-11-06T17:30:49+00:00",
   "fiscal": {
     "fiscal_income": {
       "2026-09-04": 892399.25,

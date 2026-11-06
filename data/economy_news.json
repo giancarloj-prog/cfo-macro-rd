@@ -1,7 +1,7 @@
 {
   "date": "2026-11-06",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-06T06:59:20+00:00",
+  "checked_at": "2026-11-06T17:32:08+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -43,17 +43,17 @@
     "securities": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 1
     },
     "economy": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 3
     },
     "economist_andy": {
       "ok": true,
       "error": null,
-      "count": 3
+      "count": 4
     },
     "economist_jaime": {
       "ok": true,
@@ -83,19 +83,70 @@
   },
   "items": [
     {
-      "title": "Banco Central celebra eucaristía por su aniversario",
-      "publisher": "Listín Diario",
-      "publisher_url": "https://listindiario.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObzIyUkdyVXFpcmEwemQxMFVJeFhRMGIwQmV5dkFPTXNOeDBibXZNb0tUX1lTTXBqMDZ3R2htalBISF9uamNYQ3JreDQ3enR1UVk5bVdqZWExQWdEX3dYbzBYZy1DWHN4dzdabXUzMV9RRllaeEg2ZEM0QWVBaV9UVVlONnNXZHE5QVpGd1dUXzZHLVNiN1UtOU5GNmRDZlNoSXVIT2530gGrAUFVX3lxTFBmaXVEMHljYS1EYVNsbFh1NWs0c3VhdDRLRi0zWXVydmM2VGNkZU9qSWpjYmFTWEd2YjhvM3lwc1ZhZlJDX25lYzNMR08wS0gtd09XUjhLSFl0Um9OWnpmVTBPX0hLbkRiamNDSFpJOFRrY2ZqNzRaeFhWQjdyZmJmT3Z5VVFncFJfOTFVRnRwRkV6X0k0Ul9rN3VxUm5ENGhWQTdpTXdFY1lkOA?oc=5",
-      "published_at": "2026-11-06T04:00:00+00:00",
+      "title": "Empresarios españoles destacan oportunidades de inversión en República Dominicana",
+      "publisher": "Acento",
+      "publisher_url": "https://acento.com.do",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORmI0OVlYVmhoUVVsQ0RVeG9sNmZ4Y2ZjOXhJeUlRcWlXT2dTX2IxbnIwMlZRcEFQV041STRhZE5hc1lGN3lrcm80ODdNVDVpVVcyN2JIckMwZjV6SnlWRTVJY2pqMm5MZlo3RXF5LWZJdURyN2gtRUF3d1h0bHdLb3U4RDVnZlkzVU9BSjAzTGhhOGV0amNOT3RsUVItU2VVT0MzbHFwWlFzSUlTM1NST2ZMQ29kbmc4SThBUkM4OE41bHp4LWfSAcYBQVVfeXFMTkZiNDlZWFZoaFFVbENEVXhvbDZmeGNmYzl4SXlJUXFpV09nU19iMW5yMDJWUXBBUFdONUk0YWROYXNZRjd5a3JvNDg3TVQ1aVVXMjdiSHJDMGY1ekp5VkU1SWNqajJuTGZaN0VxeS1mSXVEcjdoLUVBd3dYdGx3S291OEQ1Z2ZZM1VPQUowM0xoYThldGpjTk90bFFSLVNlVU9DM2xxcFpRc0lJUzNTUk9mTENvZG5nOEk4QVJDODhONWx6eC1n?oc=5",
+      "published_at": "2026-11-06T16:00:43+00:00",
       "topics": [
-        "bcrd",
-        "finance"
+        "economy"
       ],
       "economists": [],
       "economist_match": null,
       "searches": [
-        "bcrd"
+        "economy"
+      ]
+    },
+    {
+      "title": "Abinader se reúne con la presidenta del BE de Inversiones para promover nuevas oportunidades de desarrollo en RD",
+      "publisher": "Periódico elDinero",
+      "publisher_url": "https://eldinero.com.do",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUUp2ZUN0UGNTMEp2YjMwbndublVGSVhFWW9Ock9SRHQ2OHZVN1FicFpNVk44MVI2UldLaFRZNDY5Nk96YWdpTWhwVEhjMkNkMUNTTVhheEppVXluVVZPVjFRNGNlUGl3aVU0bXJsbVpsRTc5NjRuX2Q2NmZKMDFsS2VFWS1CbkNyQWZWdGJxQURSUGxVcTlPRk9XdXF5eHBqd05ncDMteVdIaHJJdjBNdXFYbzNWdmRTZ29kWVdtbmpUSWgtS2NIbkZyWFdPMHBvZnVTVTJrMG90U0FV?oc=5",
+      "published_at": "2026-11-06T14:02:53+00:00",
+      "topics": [
+        "securities"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "securities"
+      ]
+    },
+    {
+      "title": "BCRD convoca a estudiantes de secundaria a competencia “Economistas del futuro” 2027",
+      "publisher": "Acento",
+      "publisher_url": "https://acento.com.do",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWXNaUHc1WlZ3ckNubFpnajc4QzhZRmEtVmlaN0U2Wm42b3BsWU13eXM0RDZ4a191cmFqRDZ1ZGlmT0RvLWR6aDkzeGt2c2o3VERKWXZGU1A5UnNCLVF6NFg5VHpoY1ZjWFVmUDRHTnVSMWNOR3NEM0RWTjhnbnlfYURuY2ZoZTYzYUhGVkxDNlhRM19QWVEzOUtpMExtRlZIRU9oMnBGajlYX1dDYV9Fd1cycFZuSThKQVRDZExmbnJueFdH0gHEAUFVX3lxTE9Zc1pQdzVaVndyQ25sWmdqNzhDOFlGYS1WaVo3RTZabjZvcGxZTXd5czRENnhrX3VyYWpENnVkaWZPRG8tZHpoOTN4a3ZzajdUREpZdkZTUDlSc0ItUXo0WDlUemhjVmNYVWZQNEdOdVIxY05Hc0QzRFZOOGdueV9hRG5jZmhlNjNhSEZWTEM2WFEzX1BZUTM5S2kwTG1GVkhFT2gycEZqOVhfV0NhX0V3VzJwVm5JOEpBVENkTGZucm54V0c?oc=5",
+      "published_at": "2026-11-06T06:00:10+00:00",
+      "topics": [
+        "bcrd",
+        "economy",
+        "opinion"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "bcrd",
+        "economy"
+      ]
+    },
+    {
+      "title": "Andy Dauhajre abordará los retos de la nueva fiscalidad en el VI Foro Económico elDinero",
+      "publisher": "Periódico elDinero",
+      "publisher_url": "https://eldinero.com.do",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOT0NnaURzOTktQ0FEMVN1NWhMWXZ4UDd0cVBuZEt2OWpIOS16TFlBYksxZDl3YXlsTmQwZjBhRy1OOGRfUmllUEJzYjIzVkNEM1pjOVUwVWoyeVplTklwRkk0UEwxNUFfeU94a2JKWThfQ01udDYyYXN4bzdtUzlWQjk0Uk9mU2p1Ykg5aHJGOUpUeVZ0TlpvVk5ZSXBxOG1qeWZJMWluMlExRllWMFlRZU1nMFRpeU5mVVBSdw?oc=5",
+      "published_at": "2026-11-06T05:05:31+00:00",
+      "topics": [
+        "economy",
+        "opinion"
+      ],
+      "economists": [
+        "andy"
+      ],
+      "economist_match": "headline",
+      "searches": [
+        "economist_andy",
+        "economy"
       ]
     },
     {
@@ -113,6 +164,22 @@
       "economist_match": "search",
       "searches": [
         "economist_jose_luis"
+      ]
+    },
+    {
+      "title": "Banco Central celebra eucaristía por su aniversario",
+      "publisher": "Listín Diario",
+      "publisher_url": "https://listindiario.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObzIyUkdyVXFpcmEwemQxMFVJeFhRMGIwQmV5dkFPTXNOeDBibXZNb0tUX1lTTXBqMDZ3R2htalBISF9uamNYQ3JreDQ3enR1UVk5bVdqZWExQWdEX3dYbzBYZy1DWHN4dzdabXUzMV9RRllaeEg2ZEM0QWVBaV9UVVlONnNXZHE5QVpGd1dUXzZHLVNiN1UtOU5GNmRDZlNoSXVIT2530gGrAUFVX3lxTFBmaXVEMHljYS1EYVNsbFh1NWs0c3VhdDRLRi0zWXVydmM2VGNkZU9qSWpjYmFTWEd2YjhvM3lwc1ZhZlJDX25lYzNMR08wS0gtd09XUjhLSFl0Um9OWnpmVTBPX0hLbkRiamNDSFpJOFRrY2ZqNzRaeFhWQjdyZmJmT3Z5VVFncFJfOTFVRnRwRkV6X0k0Ul9rN3VxUm5ENGhWQTdpTXdFY1lkOA?oc=5",
+      "published_at": "2026-11-06T04:00:00+00:00",
+      "topics": [
+        "bcrd",
+        "finance"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "bcrd"
       ]
     },
     {
