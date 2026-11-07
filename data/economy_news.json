@@ -1,7 +1,7 @@
 {
-  "date": "2026-11-06",
+  "date": "2026-11-07",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-07T02:51:21+00:00",
+  "checked_at": "2026-11-07T06:11:48+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -23,7 +23,7 @@
     "bcrd": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 0
     },
     "fiscal": {
       "ok": true,
@@ -33,7 +33,7 @@
     "dgii": {
       "ok": true,
       "error": null,
-      "count": 2
+      "count": 0
     },
     "finance": {
       "ok": true,
@@ -43,12 +43,12 @@
     "securities": {
       "ok": true,
       "error": null,
-      "count": 4
+      "count": 0
     },
     "economy": {
       "ok": true,
       "error": null,
-      "count": 5
+      "count": 1
     },
     "economist_andy": {
       "ok": true,
@@ -83,162 +83,21 @@
   },
   "items": [
     {
-      "title": "Gestion-de-Riesgos-de-la-deuda-publica-dominicana",
-      "publisher": "Periódico elDinero",
-      "publisher_url": "https://eldinero.com.do",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOSFdZSkxEeExRWVJrbnlFZE9xeGpkWnhmSDMwSDRJeks5MGZJMXFBQVFITTJ1YTJRY0hHeEVsa1hFRmNlYnk5NUlOamRqQklJWVRMRHpTYXJuRkE3alQ4OVZLWm10ZFEwMHo3RHpHeVpwSy1pNkRqRF9DVEhaUzBhSDBFVW84N0Q5TGZLUnFZYkExRXRVaWpSQkM4Q0JxNEZScm93bDFIOVRnYl9sd0dyNDhPdHI3Wk9PWjMxYmZKaENMTlVnQWw0RnZyWUU3ZTZ3dnlqeUlzZld2WVRXOUo0cUVlcldIbEU?oc=5",
-      "published_at": "2026-11-06T21:40:36+00:00",
-      "topics": [
-        "fiscal"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "fiscal"
-      ]
-    },
-    {
-      "title": "¿Afectará la crisis del Paraguay su calificación grado de inversión? Moody's tiene su opinión",
-      "publisher": "Periódico elDinero",
-      "publisher_url": "https://eldinero.com.do",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZzFfeHJFX29pTG9ldG1LdWdGa2pjSDBIS1hSVjZ5ejlpV3RnZVN4ZUhtaGEzUE1LTnI1Y1U0YldZM3pRRXRSUmF5UmlLcjNlVE9xUzVVMXFEOTVNS2RwbUtSQmJ1dXVRUVlTZkxObGwzaTYzQWtpdHBfNWRDaHNObjk0em5YSTBPcTBTS1FnYTVVXy1WUlliNWdiek1sY1pFYjJaQ25CejgtRjVOX2J3Nm9mTXBlU2w5WEtQWFFwaw?oc=5",
-      "published_at": "2026-11-06T21:25:39+00:00",
-      "topics": [
-        "opinion",
-        "securities"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "securities"
-      ]
-    },
-    {
-      "title": "DGII informa recaudación de RD$83,680.6 millones en el mes de octubre",
-      "publisher": "El Nuevo Diario",
-      "publisher_url": "https://elnuevodiario.com.do",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNb1MwRGF2T1N2ZTd6bmt4cGJnYl85ZVVOVFp5dVdpak9GcEZxQ1VEV3lDckREVXRseVVxSnhScHVRV0VXLUt0T1R2LURpNTdnelRxUGU1TFlhT1NuLTdBR3lCQ3EyUEliYUhDbGdBM2Z1b2RrZGFjSUpISjhpZFVqci12S1FVUElydllPQXRRdDQ5MWFwRVRMMTd2SF85dw?oc=5",
-      "published_at": "2026-11-06T20:56:46+00:00",
-      "topics": [
-        "dgii"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "dgii"
-      ]
-    },
-    {
-      "title": "Precios de transferencia: más contribuyentes podrían quedar bajo la lupa de la DGII",
-      "publisher": "Periódico elDinero",
-      "publisher_url": "https://eldinero.com.do",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWndsYWViZjdvUFNTNXJ1RzBYdXUwVjQ2ZGdoVVQyZWFqcHc1bnZrLXRPWmx6Q1VZTkJUVmpockNzLTFhN3lEb2U3TFhLVlc4eUJlVi1YUXZIUDZTbjh5NjV4bmFYek1MRWpSUkZSNUZKNmZVRHhUaFBJb083VWJkV25pNUd4OUpNbXhMeFpISFdlMFBzeHJsM1BDUGZ6VGJXaFRiYVl0Mm1jbGt0ZHVUNlB0c00?oc=5",
-      "published_at": "2026-11-06T20:48:27+00:00",
+      "title": "¿Ha llegado el sistema tributario dominicano a su límite?",
+      "publisher": "Hoy Digital",
+      "publisher_url": "https://hoy.com.do",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQb3FBMTZLeXEzS3pwT0hRS3NjSlQyVnotX2lGdjJsNzBRcV8wdkJkQUE3VE9kRGxGWkpBaGdhUU9qWUpJdDZ3cjlQSkFjZjFpM3dWQ0l4aXBrTmxWWnhfMjJ3aXRRdUJWV2pOX3dWVmFMMDR3bVRhUmJRTEd0Q05JMjMyY281dl9GSkkxddIBkgFBVV95cUxPaHdCSm1PN0NMd2FzaFdzdTg4a0VGcHQ3MFhENWhzZEdsZmpXUVJQMDhwRThvYS0wTlo5QjdpOWdVRVBSX0pHT19feTFnQnhIaTlyckNLODEzdnNzT3RqR1JmdFNNaW05NVJZS0J0c1RiYlg5UmxTdTZRV1htRWpQQWFmUHNhQ1FkN2FUSHBIZGpkUQ?oc=5",
+      "published_at": "2026-11-07T04:05:00+00:00",
       "topics": [
         "dgii",
-        "securities"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "dgii",
-        "securities"
-      ]
-    },
-    {
-      "title": "Mercado de valores dominicano cuenta con 74 fondos de inversión y administra RD$493,023 millones",
-      "publisher": "Periódico elDinero",
-      "publisher_url": "https://eldinero.com.do",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPV205ZkNsaFhRa3FocFNmeVM1U0xaT3R5OEhUM0M5ZlB3XzVVRi1YenJJQmlaeUROblZ5QnZaMTRzaXVmUnZxTERoRV9LWXdCbXZMLUprNmRucUdkTmptamJ2d2h1Vk1xSjZqeDJVQlpDS2Y5QXdHcm5GZ3hWRUxUZEFTa2JUTmdJZ3NwazlxVkltaTA4VjIyUVZfQURHMEt4N0NuX2laOTY1R0J3VTFsN04xLUpweEV1RDJYR09MZFRGUkU1?oc=5",
-      "published_at": "2026-11-06T20:47:57+00:00",
-      "topics": [
         "economy",
-        "securities"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "economy",
-        "securities"
-      ]
-    },
-    {
-      "title": "¿Qué impulsa las exportaciones de RD? Alcanzan US$12,019 millones",
-      "publisher": "El Caribe",
-      "publisher_url": "https://www.elcaribe.com.do",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQk5kWVdLa011b2h2M0gtNEQtN0p5Q05yM2dvaWZGd29jTWVkN3JjdEFmWmNpZ1ZERWdTYTJtNzI3N1ROMUY1ZWR5cWpFLUpkYzlRRTgwTkZ5eXhNU2N5Mmh2a0N6cjhnNjZkX2pEMnVmSFZSYzBDNWc5dGVwMV9ieFNGLVF2QXd6TUhKaXdka2E?oc=5",
-      "published_at": "2026-11-06T20:11:15+00:00",
-      "topics": [
-        "economy"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "economy"
-      ]
-    },
-    {
-      "title": "Economista advierte sobre dificultades del Gobierno para financiar el gasto público",
-      "publisher": "El Nuevo Diario",
-      "publisher_url": "https://elnuevodiario.com.do",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQM2NlOWR3R25xdjAwYkx2cUxFak4yTkJQMS1WZjNDd1c4ckhMdkM3ZnZDbmJBem9rVzlvZTVwWFp5ZDg5Sm45TE9wb0l5RUJ0MXRpV1N0NUdGbWR6TGE1ZjZrSEVtcVE1MThoMDQzMkt6Q0R1dzhaT0J0WmR5RXJLZUppdUk0UjVycm1sWlllZnplOTVJUWlLM1lSUUdCeHU0dnAzbzlUc0Z6akZaUGJTZzM4NA?oc=5",
-      "published_at": "2026-11-06T18:21:44+00:00",
-      "topics": [
-        "fiscal",
-        "opinion"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
         "fiscal"
-      ]
-    },
-    {
-      "title": "Empresarios españoles destacan oportunidades de inversión en República Dominicana",
-      "publisher": "Acento",
-      "publisher_url": "https://acento.com.do",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORmI0OVlYVmhoUVVsQ0RVeG9sNmZ4Y2ZjOXhJeUlRcWlXT2dTX2IxbnIwMlZRcEFQV041STRhZE5hc1lGN3lrcm80ODdNVDVpVVcyN2JIckMwZjV6SnlWRTVJY2pqMm5MZlo3RXF5LWZJdURyN2gtRUF3d1h0bHdLb3U4RDVnZlkzVU9BSjAzTGhhOGV0amNOT3RsUVItU2VVT0MzbHFwWlFzSUlTM1NST2ZMQ29kbmc4SThBUkM4OE41bHp4LWfSAcYBQVVfeXFMTkZiNDlZWFZoaFFVbENEVXhvbDZmeGNmYzl4SXlJUXFpV09nU19iMW5yMDJWUXBBUFdONUk0YWROYXNZRjd5a3JvNDg3TVQ1aVVXMjdiSHJDMGY1ekp5VkU1SWNqajJuTGZaN0VxeS1mSXVEcjdoLUVBd3dYdGx3S291OEQ1Z2ZZM1VPQUowM0xoYThldGpjTk90bFFSLVNlVU9DM2xxcFpRc0lJUzNTUk9mTENvZG5nOEk4QVJDODhONWx6eC1n?oc=5",
-      "published_at": "2026-11-06T16:00:43+00:00",
-      "topics": [
-        "economy"
       ],
       "economists": [],
       "economist_match": null,
       "searches": [
-        "economy"
-      ]
-    },
-    {
-      "title": "Abinader se reúne con la presidenta del BE de Inversiones para promover nuevas oportunidades de desarrollo en RD",
-      "publisher": "Periódico elDinero",
-      "publisher_url": "https://eldinero.com.do",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUUp2ZUN0UGNTMEp2YjMwbndublVGSVhFWW9Ock9SRHQ2OHZVN1FicFpNVk44MVI2UldLaFRZNDY5Nk96YWdpTWhwVEhjMkNkMUNTTVhheEppVXluVVZPVjFRNGNlUGl3aVU0bXJsbVpsRTc5NjRuX2Q2NmZKMDFsS2VFWS1CbkNyQWZWdGJxQURSUGxVcTlPRk9XdXF5eHBqd05ncDMteVdIaHJJdjBNdXFYbzNWdmRTZ29kWVdtbmpUSWgtS2NIbkZyWFdPMHBvZnVTVTJrMG90U0FV?oc=5",
-      "published_at": "2026-11-06T14:02:53+00:00",
-      "topics": [
-        "securities"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "securities"
-      ]
-    },
-    {
-      "title": "BCRD convoca a estudiantes de secundaria a competencia “Economistas del futuro” 2027",
-      "publisher": "Acento",
-      "publisher_url": "https://acento.com.do",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWXNaUHc1WlZ3ckNubFpnajc4QzhZRmEtVmlaN0U2Wm42b3BsWU13eXM0RDZ4a191cmFqRDZ1ZGlmT0RvLWR6aDkzeGt2c2o3VERKWXZGU1A5UnNCLVF6NFg5VHpoY1ZjWFVmUDRHTnVSMWNOR3NEM0RWTjhnbnlfYURuY2ZoZTYzYUhGVkxDNlhRM19QWVEzOUtpMExtRlZIRU9oMnBGajlYX1dDYV9Fd1cycFZuSThKQVRDZExmbnJueFdH0gHEAUFVX3lxTE9Zc1pQdzVaVndyQ25sWmdqNzhDOFlGYS1WaVo3RTZabjZvcGxZTXd5czRENnhrX3VyYWpENnVkaWZPRG8tZHpoOTN4a3ZzajdUREpZdkZTUDlSc0ItUXo0WDlUemhjVmNYVWZQNEdOdVIxY05Hc0QzRFZOOGdueV9hRG5jZmhlNjNhSEZWTEM2WFEzX1BZUTM5S2kwTG1GVkhFT2gycEZqOVhfV0NhX0V3VzJwVm5JOEpBVENkTGZucm54V0c?oc=5",
-      "published_at": "2026-11-06T06:00:10+00:00",
-      "topics": [
-        "bcrd",
         "economy",
-        "opinion"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "bcrd",
-        "economy"
+        "fiscal"
       ]
     },
     {
@@ -277,22 +136,6 @@
       "economist_match": "search",
       "searches": [
         "economist_jose_luis"
-      ]
-    },
-    {
-      "title": "Banco Central celebra eucaristía por su aniversario",
-      "publisher": "Listín Diario",
-      "publisher_url": "https://listindiario.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObzIyUkdyVXFpcmEwemQxMFVJeFhRMGIwQmV5dkFPTXNOeDBibXZNb0tUX1lTTXBqMDZ3R2htalBISF9uamNYQ3JreDQ3enR1UVk5bVdqZWExQWdEX3dYbzBYZy1DWHN4dzdabXUzMV9RRllaeEg2ZEM0QWVBaV9UVVlONnNXZHE5QVpGd1dUXzZHLVNiN1UtOU5GNmRDZlNoSXVIT2530gGrAUFVX3lxTFBmaXVEMHljYS1EYVNsbFh1NWs0c3VhdDRLRi0zWXVydmM2VGNkZU9qSWpjYmFTWEd2YjhvM3lwc1ZhZlJDX25lYzNMR08wS0gtd09XUjhLSFl0Um9OWnpmVTBPX0hLbkRiamNDSFpJOFRrY2ZqNzRaeFhWQjdyZmJmT3Z5VVFncFJfOTFVRnRwRkV6X0k0Ul9rN3VxUm5ENGhWQTdpTXdFY1lkOA?oc=5",
-      "published_at": "2026-11-06T04:00:00+00:00",
-      "topics": [
-        "bcrd",
-        "finance"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "bcrd"
       ]
     },
     {
