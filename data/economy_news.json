@@ -1,7 +1,7 @@
 {
   "date": "2026-11-06",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-06T23:11:43+00:00",
+  "checked_at": "2026-11-07T02:51:21+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -43,17 +43,17 @@
     "securities": {
       "ok": true,
       "error": null,
-      "count": 3
+      "count": 4
     },
     "economy": {
       "ok": true,
       "error": null,
-      "count": 4
+      "count": 5
     },
     "economist_andy": {
       "ok": true,
       "error": null,
-      "count": 3
+      "count": 4
     },
     "economist_jaime": {
       "ok": true,
@@ -83,11 +83,26 @@
   },
   "items": [
     {
+      "title": "Gestion-de-Riesgos-de-la-deuda-publica-dominicana",
+      "publisher": "Periódico elDinero",
+      "publisher_url": "https://eldinero.com.do",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOSFdZSkxEeExRWVJrbnlFZE9xeGpkWnhmSDMwSDRJeks5MGZJMXFBQVFITTJ1YTJRY0hHeEVsa1hFRmNlYnk5NUlOamRqQklJWVRMRHpTYXJuRkE3alQ4OVZLWm10ZFEwMHo3RHpHeVpwSy1pNkRqRF9DVEhaUzBhSDBFVW84N0Q5TGZLUnFZYkExRXRVaWpSQkM4Q0JxNEZScm93bDFIOVRnYl9sd0dyNDhPdHI3Wk9PWjMxYmZKaENMTlVnQWw0RnZyWUU3ZTZ3dnlqeUlzZld2WVRXOUo0cUVlcldIbEU?oc=5",
+      "published_at": "2026-11-06T21:40:36+00:00",
+      "topics": [
+        "fiscal"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "fiscal"
+      ]
+    },
+    {
       "title": "¿Afectará la crisis del Paraguay su calificación grado de inversión? Moody's tiene su opinión",
       "publisher": "Periódico elDinero",
       "publisher_url": "https://eldinero.com.do",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZzFfeHJFX29pTG9ldG1LdWdGa2pjSDBIS1hSVjZ5ejlpV3RnZVN4ZUhtaGEzUE1LTnI1Y1U0YldZM3pRRXRSUmF5UmlLcjNlVE9xUzVVMXFEOTVNS2RwbUtSQmJ1dXVRUVlTZkxObGwzaTYzQWtpdHBfNWRDaHNObjk0em5YSTBPcTBTS1FnYTVVXy1WUlliNWdiek1sY1pFYjJaQ25CejgtRjVOX2J3Nm9mTXBlU2w5WEtQWFFwaw?oc=5",
-      "published_at": "2026-11-06T21:23:35+00:00",
+      "published_at": "2026-11-06T21:25:39+00:00",
       "topics": [
         "opinion",
         "securities"
@@ -120,12 +135,14 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWndsYWViZjdvUFNTNXJ1RzBYdXUwVjQ2ZGdoVVQyZWFqcHc1bnZrLXRPWmx6Q1VZTkJUVmpockNzLTFhN3lEb2U3TFhLVlc4eUJlVi1YUXZIUDZTbjh5NjV4bmFYek1MRWpSUkZSNUZKNmZVRHhUaFBJb083VWJkV25pNUd4OUpNbXhMeFpISFdlMFBzeHJsM1BDUGZ6VGJXaFRiYVl0Mm1jbGt0ZHVUNlB0c00?oc=5",
       "published_at": "2026-11-06T20:48:27+00:00",
       "topics": [
-        "dgii"
+        "dgii",
+        "securities"
       ],
       "economists": [],
       "economist_match": null,
       "searches": [
-        "dgii"
+        "dgii",
+        "securities"
       ]
     },
     {

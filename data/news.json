@@ -1,7 +1,7 @@
 {
   "date": "2026-11-06",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-06T23:11:44+00:00",
+  "checked_at": "2026-11-07T02:51:22+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -14,12 +14,12 @@
     "rd": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 2
     },
     "centroamerica": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 1
     },
     "mexico": {
       "ok": true,
@@ -29,20 +29,60 @@
     "usa": {
       "ok": true,
       "error": null,
-      "count": 13
+      "count": 14
     },
     "europa": {
       "ok": true,
       "error": null,
-      "count": 21
+      "count": 19
     },
     "global": {
       "ok": true,
       "error": null,
-      "count": 18
+      "count": 15
     }
   },
   "items": [
+    {
+      "title": "Cuba y China firman tres acuerdos para desarrollar medicamentos y proyectos biotecnológicos",
+      "publisher": "Prensa Libre",
+      "publisher_url": "https://www.prensalibre.com",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSGdkcmlmV1c0c2tsRmNnOFU2bHZWTW01M3I4TVV0cHNMeHNjMWJXTVVMQjVfR2Y0OE12RTV6M19MYWxFT0taaHVJMC04cXk0SzhDa0Jhbm1qVW1lbUJHR2RfcGZpanVocURKYUNlQWNtb1JjUVhudmFZWnZNUHpzUm1LNnNKNXhOVURxeXQ5dV9ianQ5aERKYzlSajBVR19wZFFWOG1INE1hcWZVbG9SYUFqQ2hQTUVwS1pmc1FGUkgzclhGZHpKSVp0X0xDdkpaN2ZnVW1QSQ?oc=5",
+      "published_at": "2026-11-07T01:46:00+00:00",
+      "regions": [
+        "centroamerica"
+      ]
+    },
+    {
+      "title": "¿Falta de medicamentos en IMSS? Zoé Robledo asegura que 97% de las recetas se surten completas",
+      "publisher": "El Financiero",
+      "publisher_url": "https://www.elfinanciero.com.mx",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZThuNTRHOFg1S3RXZUdHbjFwZTJ6ZE5NZHNMNlFpNERUaHlmakZtXy1nN2ExcUhPZk9iYWthTnNoREtQNUljTGdiSVJwZmhZNkRDNG8tUGxERm5IX0EzdFFGWllTblotYUxOUnNkWk1CbHgxSGMwczYxVHExcnJldVZsUDVGeWFnRGRxY09STUQ2cnM3Y3M1ZWhrejRHT01KWUduVkwwQVFMbjhlc3JTekQ3eUE1elVBZGMzNHVrVUVHbEcyamdNNWpNN1I4UXRsWElsTXBjTXVEUmdV?oc=5",
+      "published_at": "2026-11-07T01:32:00+00:00",
+      "regions": [
+        "mexico"
+      ]
+    },
+    {
+      "title": "Gobernadora Hochul anuncia alianza entre centros de oncología de Nueva York y Puerto Rico",
+      "publisher": "El Nuevo Diario",
+      "publisher_url": "https://elnuevodiario.com.do",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaXBsc0Z5QlJGcFl2bjdjelF2bXhwYUpaRlQzVWNIRk1kQ3RqaFhtSUlCcHBYeE5DbTM4bTh0QkdTRUthWlNQUm5MRGZaOFVpekhDc0U2WW1lQTI4RGg5ZU95ZWxtenJFdk5PVVpBcTAzbU1zeXpqNmZjWlNsTUlDVFRGZjN6YkhlY3l2WWpCOEhwc1djY2RnWW5xaTZaQnphWDNxNXh6WEEyNk9Bd3FyS0FUQkpRR2NpaWNj?oc=5",
+      "published_at": "2026-11-07T00:34:48+00:00",
+      "regions": [
+        "rd"
+      ]
+    },
+    {
+      "title": "Biotech Firm Claims Some Credit for Groundbreaking Virus Research",
+      "publisher": "The New York Times",
+      "publisher_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYmNiVk5DWWF3ZHdMNW5KeDFqNE1ieFR0ZUMyTHBTYnVzZFdBQjNxekp5TDk0TTVSOExybG81LS1YR1R0REpLeUMwS0JIc1FmRFQ2VWNNQXA1LU9iMGo4WnNJZmNhdkF5T3FtLWY1MHRTUFktd0NsYW1DY0FrX21FbHZBWQ?oc=5",
+      "published_at": "2026-11-06T21:52:00+00:00",
+      "regions": [
+        "usa"
+      ]
+    },
     {
       "title": "Hims & Hers inks deal with Eli Lilly to offer branded weight loss drugs",
       "publisher": "Fierce Healthcare",
@@ -71,17 +111,6 @@
       "publisher_url": "https://markets.ft.com",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYk1XUjdRZVh1b3ZabU9Fay1wdzcxZkJZSGk2MFVGRUZFaDRjaWF6dkkyRF9nN0ZfVVdaaWhkOS1QWEwxcjItWm55eE9YelgxNmJrWjlkc0xHNlluZVVkcFp1S2tvRGFaLVlBZU1aSVFUMU5BS21IZDZUX1VuNk91YnppckhmM093MjlvYzZSVzJzLXFTRWpV?oc=5",
       "published_at": "2026-11-06T19:15:00+00:00",
-      "regions": [
-        "europa",
-        "global"
-      ]
-    },
-    {
-      "title": "'Drug test' of ancient remains proves earliest known use of cannabis",
-      "publisher": "Reuters",
-      "publisher_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbExJb09SZDNMaGdCMndrell1RkVsbVpaNXZfbG1uRmx6Y0owN0ZmNkExZDRiSE1GR0xhbDJCWkhrTlhHUDFzeEpHcjBFVlAzZVJQU0pQa3k5a1dCUWYxS3dDTUdkaWthUlE4TmlTdnM0N2U0akE3dFBFOXZYZm9tS0xRcURwZVJXWmU0VVluekVoOGM5VkE?oc=5",
-      "published_at": "2026-11-06T17:38:20+00:00",
       "regions": [
         "europa"
       ]
@@ -141,11 +170,11 @@
       ]
     },
     {
-      "title": "Two tumour cases in children linked to SMA drug, Novartis says",
+      "title": "FDA probes tumour risk tied to Novartis gene therapy",
       "publisher": "Reuters",
       "publisher_url": "https://www.reuters.com",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdmJkQXdDMzRzVFRXRmh1UHN4R1c0Y3FtUTBFTm5PcVUtaWhvU09FWkY5RGxLZDk2X091SWRySFVqX1NDaUtoQkljX3ZRanNwZThzWHZvWnB5N1NuTUlIa29QdXNmU091dDNudi1FSU05SG9UVmRYbnNwQzNWWXpQQ2plZlExMmhPMlMtUUktS1c5MXphUVB0cWR6QmJOUGRFSFZ4aUNPWmFFZUpj?oc=5",
-      "published_at": "2026-11-06T16:06:38+00:00",
+      "published_at": "2026-11-06T16:06:00+00:00",
       "regions": [
         "europa",
         "global",
@@ -160,16 +189,6 @@
       "published_at": "2026-11-06T15:52:34+00:00",
       "regions": [
         "europa"
-      ]
-    },
-    {
-      "title": "The Biotech Growth Trust PLC - Net Asset Value(s) – Company Announcement",
-      "publisher": "Financial Times",
-      "publisher_url": "https://markets.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSXNzWkZLTUx6QTVKQ1NuTnVoNUo3XzZTNGM3ZjU2VS1PVmtyaGFNSTBZdmNsZDlYTktrOXZFVFo3MF9YbFJ6TE1lczdfSUhqbGIzYUZPTEF6T1N3ZmxaNlFBOXdKLU4xZUJPeUJrQ1dMb09QclM2UVNfLURfMVVRQ2ppa0lkT3FOa3c2eC1FaXlXMTJR?oc=5",
-      "published_at": "2026-11-06T15:49:00+00:00",
-      "regions": [
-        "global"
       ]
     },
     {
@@ -227,13 +246,14 @@
       ]
     },
     {
-      "title": "biotech Archives",
-      "publisher": "STAT",
-      "publisher_url": "https://www.statnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1IaUhyZDNFMU03U0phdWNuLW40STEtTjdwOUpFT2REMkRfdFBRRUVqNi1jTk1wTHFSZ1RQdkVJV3gwV29fQkVkN1VxcDJSdUNHWHB2UFVXSmFUaEk?oc=5",
-      "published_at": "2026-11-06T14:25:06+00:00",
+      "title": "Moderna Swings to Profit, Lifts Outlook as Covid-19 Vaccine Demand Stabilizes",
+      "publisher": "WSJ",
+      "publisher_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVmlUVzJOSnVoWnJtbjFleU50WkxQN2tXTENqbFZRVUNVejBoSzNUdWt5TUxOWHNUcmM4YkFDS2pEV3pRYzRsSmFuTHprQzJxNU9GZm1JMGI3cjVCTzk3OXBxTVU5U2gxMnlWWGdUbTR3TVYxVG5WaTNkbE96T2FYbnJFbzR3SWVSRDRQSXN1elBRMVlmT0dmdVdR?oc=5",
+      "published_at": "2026-11-06T14:10:08+00:00",
       "regions": [
-        "global"
+        "global",
+        "usa"
       ]
     },
     {
@@ -263,8 +283,7 @@
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYN1ZQeEdrOUlPWXFpTl9oUkhHcjY0dXprek4ySllyWnpsWDBBRFprZVJaTF9oRk1DSXh5MGpJRW5rRjN2ei12UUNaajVEalZPZHdOQmk5TVRXR0k?oc=5",
       "published_at": "2026-11-06T13:43:42+00:00",
       "regions": [
-        "europa",
-        "global"
+        "europa"
       ]
     },
     {
@@ -289,17 +308,6 @@
       ]
     },
     {
-      "title": "Moderna Swings to Profit, Lifts Outlook as Covid-19 Vaccine Demand Stabilizes",
-      "publisher": "WSJ",
-      "publisher_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVmlUVzJOSnVoWnJtbjFleU50WkxQN2tXTENqbFZRVUNVejBoSzNUdWt5TUxOWHNUcmM4YkFDS2pEV3pRYzRsSmFuTHprQzJxNU9GZm1JMGI3cjVCTzk3OXBxTVU5U2gxMnlWWGdUbTR3TVYxVG5WaTNkbE96T2FYbnJFbzR3SWVSRDRQSXN1elBRMVlmT0dmdVdR?oc=5",
-      "published_at": "2026-11-06T12:39:00+00:00",
-      "regions": [
-        "global",
-        "usa"
-      ]
-    },
-    {
       "title": "This week in charts: 3 drug launches Wall Street is watching",
       "publisher": "BioPharma Dive",
       "publisher_url": "https://www.biopharmadive.com",
@@ -318,16 +326,6 @@
       "published_at": "2026-11-06T11:47:42+00:00",
       "regions": [
         "usa"
-      ]
-    },
-    {
-      "title": "Lilly and Hims & Hers expand access to FDA-approved Lilly medicines – Company Announcement",
-      "publisher": "Financial Times",
-      "publisher_url": "https://markets.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORjJETEhmQW5ibXZlVGFnVWF0THVZMGZlelNqZUdZWDc4YlBLUkFQeVc1YnRaU0c1WWtWRFJqMFIybzNWMi0xSDdUVklYN1pWOTVMZmJLWGNGVzRuWlh1dzQ4c1hXNHU1M3lwZnpyZ1VqdUM3bmJibEx3dFJIVTZDcC1TQVd0eVpSYnNSU3ZYUnNrdXNGTHQ1bA?oc=5",
-      "published_at": "2026-11-06T11:47:00+00:00",
-      "regions": [
-        "europa"
       ]
     },
     {
@@ -363,6 +361,16 @@
       ]
     },
     {
+      "title": "Biotech Archives",
+      "publisher": "STAT",
+      "publisher_url": "https://www.statnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBoelk3SURLVjBCMzhIX3ItZ0VWTHVnUUxraDRodDhZV016OEJHVzQ5UUlRdS1KU1lURmV6NzdrYnA1eVgxZ2ZrSG5uelc0TTB4S0ZXLVdnSVJoeEZucWpCaQ?oc=5",
+      "published_at": "2026-11-06T11:24:42+00:00",
+      "regions": [
+        "global"
+      ]
+    },
+    {
       "title": "UK pilots shorter NICE appraisal for new medicines",
       "publisher": "pharmaphorum",
       "publisher_url": "https://pharmaphorum.com",
@@ -391,16 +399,6 @@
       "regions": [
         "europa",
         "global"
-      ]
-    },
-    {
-      "title": "Cupón Farmacias del Ahorro: hasta 70% en Noviembre 2026",
-      "publisher": "El Universal",
-      "publisher_url": "https://www.eluniversal.com.mx",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVnI0QTNHaVkxbzBYemh6MWZfVjFvT2prNlU0SS1VVE54UHpiU196eTlBVS1zWk0wM3FNbXhrSWlxLXZLZkVjejZ0allBM2w4SFBlSE9BVEJybUVoYWdtRXJsMFlKYi1VNWtaY3gyVUVJQ0w2cmZIc21fRmxPOTBpRUJB?oc=5",
-      "published_at": "2026-11-06T08:18:53+00:00",
-      "regions": [
-        "mexico"
       ]
     },
     {
