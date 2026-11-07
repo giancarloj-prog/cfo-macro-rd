@@ -1,7 +1,7 @@
 {
   "date": "2026-11-07",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-07T06:11:48+00:00",
+  "checked_at": "2026-11-07T16:29:02+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -28,12 +28,12 @@
     "fiscal": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 2
     },
     "dgii": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 1
     },
     "finance": {
       "ok": true,
@@ -43,12 +43,12 @@
     "securities": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 1
     },
     "economy": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 2
     },
     "economist_andy": {
       "ok": true,
@@ -58,7 +58,7 @@
     "economist_jaime": {
       "ok": true,
       "error": null,
-      "count": 3
+      "count": 2
     },
     "economist_juan_ariel": {
       "ok": true,
@@ -82,6 +82,53 @@
     }
   },
   "items": [
+    {
+      "title": "Fondos de inversión duplican en menos de tres años sus activos",
+      "publisher": "El Caribe",
+      "publisher_url": "https://www.elcaribe.com.do",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQ2xLN0pSN1QxODRBRDVia1c4QjQtVVhWWGcxOG4yakFOVjk0bWJSWW93Q0hfdk15bHNFc0FycS1WZm9fSjhZSUpDenFObTBmY1cydm5tQXcyZUwxUWEtN2FxQnVWbTYyaEtPRWRWVThwdlNfblN1XzBnUGpRN3JCbEljMTlsMlo5ZC1kTFB0a2ZzcGFrVV9YQTNGRlVJaGc3UURibkliZDBiNE0?oc=5",
+      "published_at": "2026-11-07T15:00:00+00:00",
+      "topics": [
+        "securities"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "securities"
+      ]
+    },
+    {
+      "title": "¿Grandes hospitales o centros preventivos? Especialista japonés orienta sobre la mejor inversión para el futuro de RD",
+      "publisher": "El Dia.com.do",
+      "publisher_url": "https://eldia.com.do",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSVkxUlgzcy1pRlBvVEY0VVRHWE5KS1dNZ3hiZGhyUGhjM1pVYWJXNVF5RGZzV3UtdWp2QkNyR3MzUjN5RHUxblgyWWQ4Mkxpa1ZmWDRKV2JsU19RX3B4U1IwbVNjZjJ0NnF5bWVrOG5CSnlnUDB4cDRFRDdNWGxiSm43YmdRM2cybkFhV0lrY3RkLWZIUzVvUVgxbm95UXlIbVFLcFNQc2NaaDJSUml1bFlYY1ZVbC16d1BrS2wyOExXdHFiWHRmWHhBaTZfc3hvVFU4?oc=5",
+      "published_at": "2026-11-07T12:00:00+00:00",
+      "topics": [
+        "fiscal"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "fiscal"
+      ]
+    },
+    {
+      "title": "DGII recauda RD$ 83,680.6 millones en octubre",
+      "publisher": "Acento",
+      "publisher_url": "https://acento.com.do",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQM0hPdXVINFZja01NbzlyRkZaV2xCZ3hKcFEzMmQ0WEpTdU1yb3pHdjk3d0xCazEwdHJNa0ExSktUb2g5ejhRX2RaVC1GaXdzbTFEeVZHUWpCb3JvNkFab291Tkh5SXVjdHFGY3JnVjVKS1ViNm1Ya2VpaTZCaXh5UVhSZFRwN3ZQRjNjVmVhZTbSAZABQVVfeXFMUDNIT3V1SDRWY2tNTW85ckZGWldsQmd4SnBRMzJkNFhKU3VNcm96R3Y5N3dMQmsxMHRyTWtBMUpLVG9oOXo4UV9kWlQtRml3c20xRHlWR1FqQm9ybzZBWm9vdU5IeUl1Y3RxRmNyZ1Y1SktVYjZtWGtlaWk2Qml4eVFYUmRUcDd2UEYzY1ZlYWU2?oc=5",
+      "published_at": "2026-11-07T11:00:58+00:00",
+      "topics": [
+        "dgii",
+        "economy"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "dgii",
+        "economy"
+      ]
+    },
     {
       "title": "¿Ha llegado el sistema tributario dominicano a su límite?",
       "publisher": "Hoy Digital",
