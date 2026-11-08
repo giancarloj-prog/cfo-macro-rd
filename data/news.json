@@ -1,7 +1,7 @@
 {
   "date": "2026-11-08",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-08T16:42:39+00:00",
+  "checked_at": "2026-11-08T21:13:12+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -14,7 +14,7 @@
     "rd": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 2
     },
     "centroamerica": {
       "ok": true,
@@ -24,31 +24,51 @@
     "mexico": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 3
     },
     "usa": {
       "ok": true,
       "error": null,
-      "count": 3
+      "count": 4
     },
     "europa": {
       "ok": true,
       "error": null,
-      "count": 4
+      "count": 5
     },
     "global": {
       "ok": true,
       "error": null,
-      "count": 4
+      "count": 5
     }
   },
   "items": [
     {
-      "title": "Cupón Farmacias del Ahorro: hasta 70% en Noviembre 2026",
-      "publisher": "El Universal",
-      "publisher_url": "https://www.eluniversal.com.mx",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVnI0QTNHaVkxbzBYemh6MWZfVjFvT2prNlU0SS1VVE54UHpiU196eTlBVS1zWk0wM3FNbXhrSWlxLXZLZkVjejZ0allBM2w4SFBlSE9BVEJybUVoYWdtRXJsMFlKYi1VNWtaY3gyVUVJQ0w2cmZIc21fRmxPOTBpRUJB?oc=5",
-      "published_at": "2026-11-08T15:47:43+00:00",
+      "title": "Muere Diosmedy Rosario tras clamar por un medicamento de alto costo para combatir el cáncer",
+      "publisher": "Listín Diario",
+      "publisher_url": "https://listindiario.com",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeDdpLThhRU9Rdm1CTllORzcxNWxTTXIyZWtybVh4b2RoRkQ3a1BrZks1eUozcW9LTEduOW5YTkNrWmxwVEZwQzNyMlgzQndLdTd5VHJXdFc5bzBnQkc0Rm0zWmI0TDBWSEYzNU5nTU9UVmJTMWtrUERzMjEyZjhQRTFGTHpjNFp1YnI3Tk9hSlpaam1TekpNRXVwRkVORnAyZEVNaXYzdUs0N2c0Nk9Ydmx5bnNpREJkOTBfNngzY0d4U0JhSEHSAcsBQVVfeXFMT2hPSTZQeEVWUGFqTTBneVkxcHFIVFhrb2haUV9yR1ItWVRfRy1XcFdPQnIwTU5sTFZkM2phd1QzQXdFaXhTVk93Q1A0U1gxRmpyTG9LczJnS0xrRXBvZ2VyaTVKTm16ZnhxNjVDRmdtLUUyQjhoaG85MXIyTThnVzBYZTYyNGwyX0FXTkNFeS1rX3ZWdG9YbmpMc2RCRU92bFBEbk9tNXhwVEJSd25jMEtKYXlSeFR4Ti1qVWZnbHB1TzNLcnNpMTVrN1U?oc=5",
+      "published_at": "2026-11-08T19:20:01+00:00",
+      "regions": [
+        "rd"
+      ]
+    },
+    {
+      "title": "Gobierno entrega enseres y gestionará medicamentos para hombre enfermo en San Cristóbal",
+      "publisher": "Diario Libre",
+      "publisher_url": "https://www.diariolibre.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVWlrUXgxRWVWRk9XYUlQSHpzMy12bl9OZ2lxN0RnRUt2NFlQVjhEd0NjZHlvdjVWUDlfTFdNMjBvLTUtbTBGTklFTFhEUi0wUmRwVk8yd3hJd1JFV3ZxeHVNNmpMYmtlVlRCbHI4YnJXcWJTcjBZbmxTNE1PVlZQRTN4QlhuMTlvNFpCM2lMeWsyNDFjR3MtQVdfT05vbVhrYlBMc3BRQV9PM0V1U3JXTVROeDhMR01fcXFlLW5ERdIBxAFBVV95cUxONldiMHJMcVV6Q1pwcmVlaFpXdkw3QjlxWFZRVURaWk1IcjdCbUUtRF91NTFnZXBvUjRzT2xrQUZ1TzVBWENmamVxcmFJcEtEV1R4R1FzY0RrVmcyaXlYb3NpaHRJSjRkU0pVcHByQzZ4cnpEXzJRNGxqWGJxVS1KMzByNDNzMF9MNl9yMUsyUTFSVlp1bjRhYjRlTURHTzY1R2N0V3F5aHZHeGVrakdCSWRoYjVMS2lxWVk0V25kVHlQZkhZ?oc=5",
+      "published_at": "2026-11-08T17:52:24+00:00",
+      "regions": [
+        "rd"
+      ]
+    },
+    {
+      "title": "UNAM invita a vacunarse gratis contra COVID y sarampión en campus",
+      "publisher": "MILENIO",
+      "publisher_url": "https://www.milenio.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOa0NTbmFHa3lwTzI3SnpHVmZqUktEbVJuTnRBOGRhM1A1bkhMMVhGcExCTzMtU1JRcUFaSE1jcEVOdU1qaW9TRTFWNGpXZ1A3UW85RTFySTNmZjhxdjJJTjZFRWZSd190WjlFUDl4Snp5SUpERVA0SGpZQW9QV05zMjZfemtXZnd2bzdGYzY4YnhIMVpSMzYxTllCN2RHY1RLWGlVbVRqY9IBpwFBVV95cUxNZmdtaHpYWTViNUlfV3dOYUs0QUs2WEk3VEFKQUZiT2dyX3dFN1VkRjdmTEFXMkhHaFdTTnhvODlkdkxZeVJWRUlnMmtiaDEyb1JFbXFBcTd1aVlmWlVWZi1zRGt1VWJvSklsNTN4dXo2b25xWUVSVkFlWGo2UE9mR3hodW04SkhJLTdhcjE0ZVhJVWF4aEhSOTRxZG93bEJYN3BDdHgzcw?oc=5",
+      "published_at": "2026-11-08T17:28:51+00:00",
       "regions": [
         "mexico"
       ]
@@ -58,20 +78,51 @@
       "publisher": "The Guardian",
       "publisher_url": "https://www.theguardian.com",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdkUyODdxU2lpWjdmdm0taE1KLWJmVlZrR2RKc3N4aEpzbXZwYnF4dVdwMlp5QWQ3SzY0Qk5nVlB6TktseEpHOGJIX0ZRZGY5ODJ6Nm1yZ1gzTXo1WTliSzRiMmVfV1JOcHZrLTNsTjk1ZHFTZEF5WnJoSFBINlZaZFVXcVMtN3JrMzN0Ynh0RUc?oc=5",
-      "published_at": "2026-11-08T15:14:00+00:00",
+      "published_at": "2026-11-08T17:12:00+00:00",
       "regions": [
         "europa",
         "global"
       ]
     },
     {
-      "title": "Ebola: Why is there still no vaccine?",
-      "publisher": "DW.com",
-      "publisher_url": "https://www.dw.com",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE51VExRNXZuTUNOVUNDMHl0dFNGSXdYZXhnRndfSXpieXBlRWRHZTR0YVB0V0szbzdmQ09sU0dkcnFqUWxDOHlEaUYxZExCR3I3X21zbHpGX3o4c2xCaDlDbF9WLUYwWHpEX2syWHVOWEZWQ0VJd1I40gF3QVVfeXFMUE40aDJ2cm91cUV1WVRpOXZaMEhud0duUUVRQlJqQVJmZGFJQzFkYTNtanQ4VXdmUkxMbWJIajd6RFpELU5uMldiZWlYTk43QS1pRmZvbV90VVNieWFPSDVTb2FDZWVwNFk0M2NwdTNkS2gzXzJ0bXM?oc=5",
-      "published_at": "2026-11-08T12:28:01+00:00",
+      "title": "Vacunas gratis contra COVID-19, influenza, sarampión y neumococo: así será la jornada de la UNAM",
+      "publisher": "El Economista",
+      "publisher_url": "https://www.eleconomista.com.mx",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSVhORlhmamtNZFpkOGZVV0JHYkFQclhJQVA2bUJKbmFDejBEZlhNTnFLM3ZvOXVOamo0V0JJN3NtMV9ZdFNjRFVodWxRZW9QSmFqU05VMVhiQ19TeTJESnNEVmlCbjlXVWY2Y0JfVXJtUG5ZWVo1QzhkZTJtX3Rhc1NQNnZQSGdSRnFtZHMtSEliU2FKaVFCQnpKbW1rQW5zT0w4TzdJVnZEaFJDclQ4cmg0bzR6dGVpQ1k4OFJKa1k1anVrMUNILXd6VDU1R2Voc0pz0gHYAUFVX3lxTFAzWUhBTkZCTDRGU2lDREktSWt0WThHMzU0R0JzRUFYXzJia2Nkb2FpdHJJc09OSTBoLUUyejUzTWdPMHJEZmVMa2Q3ZWJyY1NETE8xTWpDRE44T0ZvOGc4MXJsUklESzVTcTlxY0o2SlRNVUwtY2hiS3hBMnJ2WG9JT3RmZzlZeUxxTEZMY21McjRjdHpqeWJ0U1NmaDBjWEJqQ2pxUG40eG1NLW1LeG9lNmk3dzJYeG45Q25JYzQ1elIxUERjcWlvZlBWcDNfZEVacUk3eGNIMw?oc=5",
+      "published_at": "2026-11-08T17:00:00+00:00",
       "regions": [
-        "europa"
+        "mexico"
+      ]
+    },
+    {
+      "title": "Cupón Farmacias del Ahorro: hasta 70% en Noviembre 2026",
+      "publisher": "El Universal",
+      "publisher_url": "https://www.eluniversal.com.mx",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVnI0QTNHaVkxbzBYemh6MWZfVjFvT2prNlU0SS1VVE54UHpiU196eTlBVS1zWk0wM3FNbXhrSWlxLXZLZkVjejZ0allBM2w4SFBlSE9BVEJybUVoYWdtRXJsMFlKYi1VNWtaY3gyVUVJQ0w2cmZIc21fRmxPOTBpRUJB?oc=5",
+      "published_at": "2026-11-08T16:04:53+00:00",
+      "regions": [
+        "mexico"
+      ]
+    },
+    {
+      "title": "Doctors Absorb the Stunning Failure of Two High-Profile Heart Drugs",
+      "publisher": "The New York Times",
+      "publisher_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOa0NfZEYxYnc3ZWxPRlJYQVZZR3hEYWEtMHlQRldPdE02QWhaanpnUHdIWVByaFBaR2hidkt0Ym1GZHRNVkZpVENpajJKUWN6cXprb1h2dW5wZGtzSUpyZ1Rsak9DOGdQRFgtN2c2WHVTckRqeV9sQXVPMnNVel9fVkpPU2VFUDJBVmhtMVJVQzFTUQ?oc=5",
+      "published_at": "2026-11-08T14:14:00+00:00",
+      "regions": [
+        "usa"
+      ]
+    },
+    {
+      "title": "Lanzhou Foci Pharmaceutical Co Ltd (002644.SZ) | Stock Price & Latest News",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBfdmtuZ3d0bTNXV252M0E0QXFGLXZmTE5CRVVnanZoS0NaRkJob0w5Zzl6RkZvYlpoQTNuczNMNWNRdDBXLUd4bjJOWkdCal9kUlFRc1M1U2NqMWhoVXlicHhyQ1pMNVQyNE9nSm04VHlYZw?oc=5",
+      "published_at": "2026-11-08T12:17:16+00:00",
+      "regions": [
+        "europa",
+        "global"
       ]
     },
     {
@@ -91,7 +142,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBUQzAwU1VxbHV2bE5ublc0Rzl3OGx0VU5fcmpYcHlkY19tTDV3U1ZoR1puYkRvWVhRa3RnSWR5ZW5DM1lfY0NZUTNuc3FmU1VYTS1rS3YySXEwSnhfanZrZHdmMy04S0E?oc=5",
       "published_at": "2026-11-08T09:40:18+00:00",
       "regions": [
-        "global",
         "usa"
       ]
     },
@@ -107,11 +157,22 @@
       ]
     },
     {
+      "title": "Ningbo Menovo Pharmaceutical Co Ltd (603538.SS) | Stock Price & Latest News",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFByamlJX2s3cW5SQmZ6QVpTMzVEWmNJcUlFMFlyVDlaYjN3NFVLb2dldTdaS0lwTnItdDlqZDA0M2xVQW5haXF2Y190bjc2Mm1qdi1oMzh2bWRrX18xdXJneWhCUUhSYlRvMVh6a2lSZw?oc=5",
+      "published_at": "2026-11-08T09:27:42+00:00",
+      "regions": [
+        "europa",
+        "global"
+      ]
+    },
+    {
       "title": "Medicine",
       "publisher": "BBC",
       "publisher_url": "https://www.bbc.com",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE11ZnRZcTljLTNYRS1DLWV4Z1R2UzV2SE84S0JQdjNwTHJ6TGF5UUJxSmpQQ29aOFA0cUtYM0o1RVJDNHAtTTNBN3N4SFRRRVhFY1JSdXZIQQ?oc=5",
-      "published_at": "2026-11-08T08:55:33+00:00",
+      "published_at": "2026-11-08T08:58:09+00:00",
       "regions": [
         "europa",
         "global"

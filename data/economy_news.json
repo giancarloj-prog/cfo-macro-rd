@@ -1,7 +1,7 @@
 {
   "date": "2026-11-08",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-08T16:42:39+00:00",
+  "checked_at": "2026-11-08T21:13:11+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -28,7 +28,7 @@
     "fiscal": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 2
     },
     "dgii": {
       "ok": true,
@@ -38,7 +38,7 @@
     "finance": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 1
     },
     "securities": {
       "ok": true,
@@ -48,7 +48,7 @@
     "economy": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 1
     },
     "economist_andy": {
       "ok": true,
@@ -58,7 +58,7 @@
     "economist_jaime": {
       "ok": true,
       "error": null,
-      "count": 2
+      "count": 3
     },
     "economist_juan_ariel": {
       "ok": true,
@@ -68,7 +68,7 @@
     "economist_raul": {
       "ok": true,
       "error": null,
-      "count": 2
+      "count": 3
     },
     "economist_jose_luis": {
       "ok": true,
@@ -82,6 +82,87 @@
     }
   },
   "items": [
+    {
+      "title": "Entre crisis globales y estabilidad: Magín Díaz defiende el desempeño económico de RD",
+      "publisher": "Hoy Digital",
+      "publisher_url": "https://hoy.com.do",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObGRGSE9WQnNkQXJaampvRnc0T3FLSEtHc0p6US1rQXYtbmRBNUIzVFllbk1nUUtKQnVvV3dNbnBMNHNMdkxyWUM4UHZKeEdidlA4Sjl3bm9GUEk0NC1heUtoOUNjcFhmdzR0ZWZKTzAxWE5Ha2FXa1BnNTY2cWxsbVY4Z1VSN25nUEpiaVcteDUyQnIxV0JJTGVnT1pJTmRBV3hjT2hhcDJWN3FLaFNkX9IBtgFBVV95cUxPREZyNWJXMlAwX2x2c0l1SERrclNBcUg2ZVBaR2RRR3RRNjdZYmh0aGhzZTVwMF9xdjdkeVlzc0Z4THQ5V2FsVldkUnIxYnFjeVQwYjNnUG5PNWl3MjUzTmRCTkZvejhxdmhhall1Q3hFdEM2bEticG9hSTZvSC1wZHlEQ0Joa0NDX3ZtMEswMG5mQUlVTWs2eG02aVlycDItbHp3c285OXhmVW1NVEVjWFBkQWZOQQ?oc=5",
+      "published_at": "2026-11-08T19:53:08+00:00",
+      "topics": [
+        "economy",
+        "fiscal"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "economy",
+        "fiscal"
+      ]
+    },
+    {
+      "title": "Panel-republica-dominicana-frente-al-impacto-global-de-los-combustibles",
+      "publisher": "Periódico elDinero",
+      "publisher_url": "https://eldinero.com.do",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNakhQUndReE1yRVNqS0JfTGMxVU9Yd1JISUNTR1NEcjNDVk0xZUw3bHZWS2syckVYZ0h1RnVOalRvVnRqekVmSElUMWdMSVEwLVNhVWFqdVVXVFZjbzdxalZoenlUSWdjeWthTFpYQlMxTmZBR1Z6Q0JucXNNSmJ5Z0ZCRTBTUjdMMWE4R3lTQ1RIWC1RajJZRmZmVUFXcHlJZkZvQkhkQ2dDZ3AxdXU2bUdPcWxtT09CMEhDOF94LUxTRE9Ud2lWdmdRNFFkYjQzWkFFNzZ0VXlIb2lWUktDczYwWkZqZ3ExOFg5dU9aaUNXM25WYjlBUGNJVE00d1NJS0ZkWXVB?oc=5",
+      "published_at": "2026-11-08T18:41:17+00:00",
+      "topics": [
+        "opinion"
+      ],
+      "economists": [
+        "jaime"
+      ],
+      "economist_match": "search",
+      "searches": [
+        "economist_jaime"
+      ]
+    },
+    {
+      "title": "Raúl Ovalle",
+      "publisher": "Periódico elDinero",
+      "publisher_url": "https://eldinero.com.do",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQV1BpamxlcXFRcjcyMTdOTjJCM3p1RVNuTjdjdkloQ1pNU3R2MklDQTlVVTFLekpJWXplTklZMFY0aGY5WjlXQ1RWei12VXBLclJoVjZtdk9fOXBTWDlXNHlYb2RWaFJXOGZyWkpmNTk2T2FIVUhkNjgwTkRaeHhxNGFQU3V6UEM5emtqS1Q5aDlNM0xVVUl2MDJpdUdPeFNwMzdMOWZ3cnhReWdLQW5ZazdHbFlkMWVMenpFSkFMbzhIY0l0UDJ6Vm5PeElvMWF0cnFnd0dZT3UxV3R5LVViUnJ2WmlQOU5KUWc?oc=5",
+      "published_at": "2026-11-08T18:41:04+00:00",
+      "topics": [
+        "opinion"
+      ],
+      "economists": [
+        "raul"
+      ],
+      "economist_match": "headline",
+      "searches": [
+        "economist_raul"
+      ]
+    },
+    {
+      "title": "El ministro de Hacienda y Economía, Magín Díaz",
+      "publisher": "Periódico elDinero",
+      "publisher_url": "https://eldinero.com.do",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOS3ZPaDMwaEZFN2NBMzdMMjVZY2ljZWY4RFBmRVF5T0p4dmgwVGJpZWY5MmM0TVV5dUhhSWNZNkJZeVJvdm5UVmVPbE9nR3NaU2lVaEZ3WmgzU1VoekZJUTlLd2F3M2hOWlFMMXhSay1xb21uSWV1VjFlQlNiR0dSNlFJb3R0TDB2d1lJQ09IOWtOWEN3Nm84ZVVuTFo1Q0d0VVlqVU1uQXplNXBWRmYzZ25pd0ZkRFhZZEoyck40bW5ocjU0MTdob2psYy1jbU1QU3UxSkQ1bl9ibzBqeHFsa0lpYUdEYlNMdmc?oc=5",
+      "published_at": "2026-11-08T18:40:39+00:00",
+      "topics": [
+        "fiscal"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "fiscal"
+      ]
+    },
+    {
+      "title": "Finanzas-y-banca-dominicana-en-la-oficina",
+      "publisher": "Periódico elDinero",
+      "publisher_url": "https://eldinero.com.do",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTFF4ejB0YVhOYVBzZGZHdVBkdUZiOExDalBTQi1rU2ZFNlBrVkdlbjRGQm52R0VhNXdaTDg1dHY0QkJMY29lUlliSW5pVUwzdFlXYlMwYVh6OFVLUWZTS2JTMjdvX1dUdk0yTTkyM2ZBSU1pWVI0TmVESDh5WnQ2ek1OUXY0Q0hfTjB3a1lZVnZHV1hBMVZXeFdLdjFYYjV5MGd6Q29TM193ZzZyQzdiTnBtX1FpVVVnNFVKZmhfNmFYelpLSGRrNzI2Tld3b295TE43Y2lkT2gzVzM0dFZJUHdiZmI?oc=5",
+      "published_at": "2026-11-08T18:40:30+00:00",
+      "topics": [
+        "finance"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "finance"
+      ]
+    },
     {
       "title": "Andy Dauhajre abordará los retos de la nueva fiscalidad en el VI Foro Económico elDinero",
       "publisher": "Periódico elDinero",
