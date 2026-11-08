@@ -1,7 +1,7 @@
 {
-  "date": "2026-11-07",
+  "date": "2026-11-08",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-08T00:39:27+00:00",
+  "checked_at": "2026-11-08T06:17:41+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -24,182 +24,24 @@
     "mexico": {
       "ok": true,
       "error": null,
-      "count": 4
+      "count": 0
     },
     "usa": {
       "ok": true,
       "error": null,
-      "count": 7
+      "count": 0
     },
     "europa": {
       "ok": true,
       "error": null,
-      "count": 8
+      "count": 0
     },
     "global": {
       "ok": true,
       "error": null,
-      "count": 6
+      "count": 0
     }
   },
-  "items": [
-    {
-      "title": "Monterrey inicia programa de Vacunas Regias ante temporada de frío; conoce los detalles",
-      "publisher": "MILENIO",
-      "publisher_url": "https://www.milenio.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNnktamczdkJhQWNRZVg0Tkl2cDFVaEx5WnpfVTF5ck1YNnljVTladW00U1NLdlZvajdNUkFYYVNFbU13eEg4UVp1aktjT18tRmdkcHRwM0h1MnpmVHJOWFAzMUZSZ0lFRDdaaFZNTWRpb3hYR1duN0s4VFpLeE5Ob195MW11bVlRMk5RYzVDb9IBjwFBVV95cUxPZm9BVWtUY0VMM0M5MGxDR0pWMjVhZnJicGVybG9hYlJ6Z0puMk5vSGVtV0JQd3BIYWFxdUk5UWJXeXZrcFdSNTVsRXRQX2VCelZSeHlmWnhfdVo0OGZ5eDhndDJhTElXaWpyT0M0a1hOZnZKamZremx4VjhwMVVrM2pDQjFzdlRPQVduZ0ZDZw?oc=5",
-      "published_at": "2026-11-07T22:18:00+00:00",
-      "regions": [
-        "mexico"
-      ]
-    },
-    {
-      "title": "Arrowhead Pharmaceuticals Presents Plozasiran Data Highlighting Sustained Triglyceride Reductions and Reduced Acute Pancreatitis Rates – Company Announcement - FT.com",
-      "publisher": "Financial Times",
-      "publisher_url": "https://markets.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNV0k4OU5lYURoeVNpdk44UnYyNFd1cjU3aUF5b1hEUWF5WWs0R05Rd01EZVhPNG5iLVh2S2xlMTRfcXVoT1BCZ2ZmaDBoaUxiSXd4VWh1X0stbnJud01pelViUjh6VnNBQXBDSnhIaWo2OTBTc2pOWE9WZG9wUlQ3dU5DMmZyVHEtam16WWZuWEE1bDZBWWwxUTFJWldZdFhtSVhrTkFR?oc=5",
-      "published_at": "2026-11-07T21:15:00+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "Ebola: Why is there still no vaccine?",
-      "publisher": "DW.com",
-      "publisher_url": "https://www.dw.com",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE51VExRNXZuTUNOVUNDMHl0dFNGSXdYZXhnRndfSXpieXBlRWRHZTR0YVB0V0szbzdmQ09sU0dkcnFqUWxDOHlEaUYxZExCR3I3X21zbHpGX3o4c2xCaDlDbF9WLUYwWHpEX2syWHVOWEZWQ0VJd1I40gF3QVVfeXFMUE40aDJ2cm91cUV1WVRpOXZaMEhud0duUUVRQlJqQVJmZGFJQzFkYTNtanQ4VXdmUkxMbWJIajd6RFpELU5uMldiZWlYTk43QS1pRmZvbV90VVNieWFPSDVTb2FDZWVwNFk0M2NwdTNkS2gzXzJ0bXM?oc=5",
-      "published_at": "2026-11-07T21:11:15+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "Fracaso en ensayos clínicos de fármacos para el corazón de Novartis y Novo Nordisk siembran dudas",
-      "publisher": "El Economista",
-      "publisher_url": "https://www.eleconomista.com.mx",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPN2hrSXBIVTJVYmZYSHQ5Um93Um5EMWtaR1NqM1lFaGNTSWVtVldGd0dCcXpGY0cwTmI3MzltY3V3OTNHcEJlSEZoOU1aYXpfWGVTV294dFJiNWhwX1cxbkhnMU1vX3d2UFBNdlJscWNqa2NZWmp5TG5sdnp0V1VYVm4xbTRRNnJ0ang3Nm1lZHVfNmcwdjdxSVlNWjh2N0JhRjV2VVAwcG1QclZQVmxVM3VYbGRSREEtWVNGWUJjbmFhSy1RWE9Hc2FIME9oVWRZdzFPYzJjNnY4TWfSAeABQVVfeXFMT2NjV2M2V2NvdDhRZUQwYzZOcHVUNk9fQmEzOUZWZkVvYnVzLTdpN2V0bnRCRmFCRVpXX29JdllpTnBBNUdXbVBFUjZRR2JJMWs1MzJGc3IzMFRsb29wcjZabFRtSlV2eG51SUxyN0RjcE9RaDBtUEl2QTN0MU40M1BPYy16eUJzSS1Ka0tuMXdSM1F3dkZrUHVodHM0U05LMmVSY200T28tdnpwSUdzNFVmLVBvX0JDU2lCWTBNamtLblNocTZDbmxoVTEwNmxoYTN5eDBkTW5pd0tyODFfRzM?oc=5",
-      "published_at": "2026-11-07T19:40:02+00:00",
-      "regions": [
-        "mexico"
-      ]
-    },
-    {
-      "title": "Below-par Dundee 'need to take our medicine'",
-      "publisher": "BBC",
-      "publisher_url": "https://www.bbc.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4xNGNYU0FxODhpdnp6bmJwcVRUVVZCYUJZWUo3UkRtUnUwU0Y1OUVyUGdIRTZFRzZUaHAxRU9CZ2FvLTg0OEJ6dE9iTHlxVFpmZ0tCQ2FaRGU3LUdC?oc=5",
-      "published_at": "2026-11-07T19:07:26+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "BIO joins the legal fight against Medicare pilot that ties drug prices to peer countries",
-      "publisher": "STAT",
-      "publisher_url": "https://www.statnews.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMXJHa1ZINkZmWXBqOUdNeHNndDkyZXZyMDFUOEtfR2JXdUhva3ZIeHZFYlM1SEFkeU13eTJNaHd1WHliS2lfdGgyckFCbjNlcnRJMDEwXzgtbnJiTmpYSWp2M1FtMmc2Nl80bHM4UFNEUUxwRDJCeEdDTnViM3NlNWhMbm85UQ?oc=5",
-      "published_at": "2026-11-07T16:58:59+00:00",
-      "regions": [
-        "global",
-        "usa"
-      ]
-    },
-    {
-      "title": "Johnson & Johnson announces ICOTYDE® (icotrokinra) delivers significant improvement in psoriatic arthritis disease activity among biologic-naive patients with once-daily targeted oral peptide – Company Announcement - FT.com",
-      "publisher": "Financial Times",
-      "publisher_url": "https://markets.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVEQ2RkptVW1uZnB5QWVsa0cxWVI1SXNkSmJTMjk3MjhVVC1ycTJlZXJmRnVacmR6WkFFR2hubUtycmFQN3FQQjBxMVlYb3M4RnJHQ0lCNW9HNFUxR0NvcUJpSGg2c2FfWUNPbUlaSlRnMVRhZ0x0ZHhLVmJpdzJIRk1pSUVQS0FpTFlVa2o2MUQtZzIteU5ldA?oc=5",
-      "published_at": "2026-11-07T15:03:00+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "Failure of Novartis Lp(a) drug raises questions about cardiovascular strategy",
-      "publisher": "STAT",
-      "publisher_url": "https://www.statnews.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYzZjRi0zQ2tqem9tc21wRDZpLUxuVzJpNVl5ZVkxQ2dVZnhHUm1IYVFsMDRjQU9tSzB3cnlXbnI5eUpaUmYydjhYeVZKUWNTcnBYQlVQS0ItMkxDTFFaMm1XWWxFSmdkUWdJVVFDOTJNMzEtVko4eEM0V0JWLXAwNzdnd1VPTTFUc2tMbmVxRUZ5d1dFOWNObFNOQzJrd2d2Y29kM2NLVWt5dERNNGc?oc=5",
-      "published_at": "2026-11-07T14:54:03+00:00",
-      "regions": [
-        "global",
-        "usa"
-      ]
-    },
-    {
-      "title": "Trial failures of Novartis, Novo Nordisk heart drugs leave experts guessing",
-      "publisher": "Reuters",
-      "publisher_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNDRBaXRqTWZJbUE1MlA0dEJQdnBOWnVkQm5hbGhTODhFbEMtV1g1eEdJbFJsb2k3WTZVMWluZmtmUjVDenIxUk9YalR4SzZYRS1vSDZxdXlPZlpZeVhjVnVFaHJDdmlxYWVHS19xbE0xUFNPQjhPQ1dfdzJPNzAxcnA0M0wtT2hYVXFLMVk3N0pSRV95bklxXzg3WDZ5U0FLNVRSWGNueUxQY1FScFJtNFFNdzNUN1p5NmxRVGNhMEpYdw?oc=5",
-      "published_at": "2026-11-07T14:51:30+00:00",
-      "regions": [
-        "europa",
-        "global",
-        "usa"
-      ]
-    },
-    {
-      "title": "Pelacarsen, a promising drug for an inherited heart risk, flops, stunning doctors",
-      "publisher": "CNN",
-      "publisher_url": "https://www.cnn.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE85b2prT3ZGd3ZrRGJRRTRLNFBVVjBxdUR6QTlZSHhHNXZrd0lBaW1jbld0Q1ZiMlg5S04xemlfUkQwLVFpQXo0TzlERDRISXJpOWRmZ2JNVXZZRnZCenZ3YlBSUkpJUnV2eGM3WDZHeVFRRjh1b095UWdzSGpELVk?oc=5",
-      "published_at": "2026-11-07T14:50:15+00:00",
-      "regions": [
-        "global",
-        "usa"
-      ]
-    },
-    {
-      "title": "How Cardiologists’ High Hopes for Two Drugs Were Dashed",
-      "publisher": "The New York Times",
-      "publisher_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOa0NfZEYxYnc3ZWxPRlJYQVZZR3hEYWEtMHlQRldPdE02QWhaanpnUHdIWVByaFBaR2hidkt0Ym1GZHRNVkZpVENpajJKUWN6cXprb1h2dW5wZGtzSUpyZ1Rsak9DOGdQRFgtN2c2WHVTckRqeV9sQXVPMnNVel9fVkpPU2VFUDJBVmhtMVJVQzFTUQ?oc=5",
-      "published_at": "2026-11-07T14:50:04+00:00",
-      "regions": [
-        "usa"
-      ]
-    },
-    {
-      "title": "Despite Novo drug’s failure, cardiologists say they will still pursue anti-inflammatories",
-      "publisher": "STAT",
-      "publisher_url": "https://www.statnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQS05c1RPRjVlUjk4dER5TzkwbUlLVEJua0I3NVFENm5WaGFvOHU0eXJ2VXFOenBDQUp2NlFtV1pVOVRzdDI2WUdBOUlwbnhhRnlzeVJWUVlyVHZEUzNJSG1uZlZOb3JRZGRxc291REVscUtYbnR1TWlUdkhfWXFhUWx4R0dzeFJnUUZ4by1xenRSajQ2ZmZOREhZU25ZcTZFcFVn?oc=5",
-      "published_at": "2026-11-07T14:36:45+00:00",
-      "regions": [
-        "global",
-        "usa"
-      ]
-    },
-    {
-      "title": "Impact of psychedelic drugs could link to age - Durham University",
-      "publisher": "BBC",
-      "publisher_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5SQlpNUlFudllZZnFJelVMdWNvaGpNNjRkamZQcGpnMDlzcl9qUmtuc3ZLYVc4amJXVFY3Q1czNU82ZmtfREI4LUJkTjh2Qlh1SzRESGdVRERxcFE?oc=5",
-      "published_at": "2026-11-07T11:13:35+00:00",
-      "regions": [
-        "europa",
-        "global"
-      ]
-    },
-    {
-      "title": "Medix busca entrar a la carrera de los medicamentos para bajar de peso",
-      "publisher": "MILENIO",
-      "publisher_url": "https://www.milenio.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQU0EzZmEtYlYtVXZlQ21jLURuY2dGcTFKdG12cHRuT0llSkplSFBRZ3ktblBKeEdRNmdjUW9ualFfd0pUTG03cWIyNVMwSEpMQjRlTkItTDFwUVVDdjlKcXFNTGNaa0FNa3JFQVhQbFVVejRrNzdwZTVRNUZnS0VwY0530gGCAUFVX3lxTE5aVVBhMGlxZkFQbkR4WWlNaVkzbFhJZEJIWGhTYWRrcmZQY1dTTVAzUU1PR0dxNzZISjRiY3p6eFRjeEpZVzdUS2ZFSHFkUVByYUJaSnNCc3M5VHhEa1ppalZ0al9MMERJc0xPaTYtY0NyeEtNMVJHc0k3d2ZnVko3UVE?oc=5",
-      "published_at": "2026-11-07T06:40:57+00:00",
-      "regions": [
-        "mexico"
-      ]
-    },
-    {
-      "title": "Cupón Farmacias del Ahorro: hasta 70% en Noviembre 2026",
-      "publisher": "El Universal",
-      "publisher_url": "https://www.eluniversal.com.mx",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVnI0QTNHaVkxbzBYemh6MWZfVjFvT2prNlU0SS1VVE54UHpiU196eTlBVS1zWk0wM3FNbXhrSWlxLXZLZkVjejZ0allBM2w4SFBlSE9BVEJybUVoYWdtRXJsMFlKYi1VNWtaY3gyVUVJQ0w2cmZIc21fRmxPOTBpRUJB?oc=5",
-      "published_at": "2026-11-07T04:00:35+00:00",
-      "regions": [
-        "mexico"
-      ]
-    }
-  ],
+  "items": [],
   "discovery": "Google News RSS · medios seleccionados; enlaces al agregador redirigen a la publicación original"
 }
