@@ -1,7 +1,7 @@
 {
   "date": "2026-11-08",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-08T06:17:41+00:00",
+  "checked_at": "2026-11-08T16:42:39+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -24,24 +24,99 @@
     "mexico": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 1
     },
     "usa": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 3
     },
     "europa": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 4
     },
     "global": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 4
     }
   },
-  "items": [],
+  "items": [
+    {
+      "title": "Cupón Farmacias del Ahorro: hasta 70% en Noviembre 2026",
+      "publisher": "El Universal",
+      "publisher_url": "https://www.eluniversal.com.mx",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVnI0QTNHaVkxbzBYemh6MWZfVjFvT2prNlU0SS1VVE54UHpiU196eTlBVS1zWk0wM3FNbXhrSWlxLXZLZkVjejZ0allBM2w4SFBlSE9BVEJybUVoYWdtRXJsMFlKYi1VNWtaY3gyVUVJQ0w2cmZIc21fRmxPOTBpRUJB?oc=5",
+      "published_at": "2026-11-08T15:47:43+00:00",
+      "regions": [
+        "mexico"
+      ]
+    },
+    {
+      "title": "New drug could be cure for common cause of high blood pressure",
+      "publisher": "The Guardian",
+      "publisher_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdkUyODdxU2lpWjdmdm0taE1KLWJmVlZrR2RKc3N4aEpzbXZwYnF4dVdwMlp5QWQ3SzY0Qk5nVlB6TktseEpHOGJIX0ZRZGY5ODJ6Nm1yZ1gzTXo1WTliSzRiMmVfV1JOcHZrLTNsTjk1ZHFTZEF5WnJoSFBINlZaZFVXcVMtN3JrMzN0Ynh0RUc?oc=5",
+      "published_at": "2026-11-08T15:14:00+00:00",
+      "regions": [
+        "europa",
+        "global"
+      ]
+    },
+    {
+      "title": "Ebola: Why is there still no vaccine?",
+      "publisher": "DW.com",
+      "publisher_url": "https://www.dw.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE51VExRNXZuTUNOVUNDMHl0dFNGSXdYZXhnRndfSXpieXBlRWRHZTR0YVB0V0szbzdmQ09sU0dkcnFqUWxDOHlEaUYxZExCR3I3X21zbHpGX3o4c2xCaDlDbF9WLUYwWHpEX2syWHVOWEZWQ0VJd1I40gF3QVVfeXFMUE40aDJ2cm91cUV1WVRpOXZaMEhud0duUUVRQlJqQVJmZGFJQzFkYTNtanQ4VXdmUkxMbWJIajd6RFpELU5uMldiZWlYTk43QS1pRmZvbV90VVNieWFPSDVTb2FDZWVwNFk0M2NwdTNkS2gzXzJ0bXM?oc=5",
+      "published_at": "2026-11-08T12:28:01+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "Nautilus Biotechnology, Inc. (NAUT.OQ) | Stock Price & Latest News",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE82cWF6Qm5Dd05Xd2tHVXk3SEE1R2RrcDRVdnk5aVlHeTdwZFBTU05nMnphMWhmbmZsUEV1cWEwSFFFeVd4N2tReVFhekdnSWlVWUtwaDFiS2ZCX1Vyb0J6aGpQRWsycFFLRG5mdUE3Yw?oc=5",
+      "published_at": "2026-11-08T10:05:49+00:00",
+      "regions": [
+        "usa"
+      ]
+    },
+    {
+      "title": "State Street SPDR S&P Biotech ETF (XBI) | Stock Price & Latest News",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBUQzAwU1VxbHV2bE5ublc0Rzl3OGx0VU5fcmpYcHlkY19tTDV3U1ZoR1puYkRvWVhRa3RnSWR5ZW5DM1lfY0NZUTNuc3FmU1VYTS1rS3YySXEwSnhfanZrZHdmMy04S0E?oc=5",
+      "published_at": "2026-11-08T09:40:18+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Why the latest heart drug failures should make us all more skeptical of AI hype",
+      "publisher": "STAT",
+      "publisher_url": "https://www.statnews.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcWRTRTRFXzg3M2F5SW4tTDNQOWFkcEY5aWhtNUNCNjlaM0hnVjlseFZyUDFNcnp1UkdINGRIV0FYNjR6Q0xWZXU5RWFTTVlSa0o1Y3hFenRlbTBja2xCU3QxXzRKand2XzUyN0hBYWNZU0gxcWlKMDczdFFvXzVFTU92anBhMEF3SzFaY29xWkp2OXgzclNybzlzSXBpUWtLOEsyVjhxU2E0M2d0U1pKUXJR?oc=5",
+      "published_at": "2026-11-08T09:34:05+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Medicine",
+      "publisher": "BBC",
+      "publisher_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE11ZnRZcTljLTNYRS1DLWV4Z1R2UzV2SE84S0JQdjNwTHJ6TGF5UUJxSmpQQ29aOFA0cUtYM0o1RVJDNHAtTTNBN3N4SFRRRVhFY1JSdXZIQQ?oc=5",
+      "published_at": "2026-11-08T08:55:33+00:00",
+      "regions": [
+        "europa",
+        "global"
+      ]
+    }
+  ],
   "discovery": "Google News RSS · medios seleccionados; enlaces al agregador redirigen a la publicación original"
 }
