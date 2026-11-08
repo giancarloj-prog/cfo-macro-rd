@@ -1,7 +1,7 @@
 {
   "date": "2026-11-07",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-07T20:56:10+00:00",
+  "checked_at": "2026-11-08T00:39:27+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -12,37 +12,108 @@
   },
   "source_health": {
     "rd": {
-      "ok": false,
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28medicamentos+OR+farmac%C3%A9utica+OR+farmacia+OR+vacunas%29+%28site%3Alistindiario.com+OR+site%3Adiariolibre.com+OR+site%3Aacento.com.do%29++after%3A2026-11-06+before%3A2026-11-09&hl=es-419&gl=DO&ceid=DO%3Aes-419; 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28medicamentos+OR+farmac%C3%A9utica+OR+farmacia+OR+vacunas%29+%28site%3Aeldia.com.do+OR+site%3Aelnuevodiario.com.do+OR+site%3Ahoy.com.do%29++after%3A2026-11-06+before%3A2026-11-09&hl=es-419&gl=DO&ceid=DO%3Aes-419; 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28medicamentos+OR+farmac%C3%A9utica+OR+farmacia+OR+vacunas%29+%28site%3Aelcaribe.com.do%29++after%3A2026-11-06+before%3A2026-11-09&hl=es-419&gl=DO&ceid=DO%3Aes-419",
+      "ok": true,
+      "error": null,
       "count": 0
     },
     "centroamerica": {
-      "ok": false,
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28medicamentos+OR+farmac%C3%A9utica+OR+farmacia+OR+vacunas%29+%28site%3Aprensalibre.com+OR+site%3Alahora.gt+OR+site%3Anacion.com%29++after%3A2026-11-06+before%3A2026-11-09&hl=es-419&gl=MX&ceid=MX%3Aes-419; 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28medicamentos+OR+farmac%C3%A9utica+OR+farmacia+OR+vacunas%29+%28site%3Acrhoy.com+OR+site%3Alaprensagrafica.com+OR+site%3Aelsalvador.com%29++after%3A2026-11-06+before%3A2026-11-09&hl=es-419&gl=MX&ceid=MX%3Aes-419; 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28medicamentos+OR+farmac%C3%A9utica+OR+farmacia+OR+vacunas%29+%28site%3Aelmundo.sv+OR+site%3Alaprensa.hn+OR+site%3Aelheraldo.hn%29++after%3A2026-11-06+before%3A2026-11-09&hl=es-419&gl=MX&ceid=MX%3Aes-419; 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28medicamentos+OR+farmac%C3%A9utica+OR+farmacia+OR+vacunas%29+%28site%3Aprensa.com+OR+site%3Alaestrella.com.pa+OR+site%3Alaprensani.com%29++after%3A2026-11-06+before%3A2026-11-09&hl=es-419&gl=MX&ceid=MX%3Aes-419; 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28medicamentos+OR+farmac%C3%A9utica+OR+farmacia+OR+vacunas%29+%28site%3Aconfidencial.digital%29++after%3A2026-11-06+before%3A2026-11-09&hl=es-419&gl=MX&ceid=MX%3Aes-419",
+      "ok": true,
+      "error": null,
       "count": 0
     },
     "mexico": {
-      "ok": false,
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28medicamentos+OR+farmac%C3%A9utica+OR+farmacia+OR+vacunas%29+%28site%3Aeluniversal.com.mx+OR+site%3Aeleconomista.com.mx+OR+site%3Aelfinanciero.com.mx%29++after%3A2026-11-06+before%3A2026-11-09&hl=es-419&gl=MX&ceid=MX%3Aes-419; 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28medicamentos+OR+farmac%C3%A9utica+OR+farmacia+OR+vacunas%29+%28site%3Amilenio.com+OR+site%3Aexpansion.mx+OR+site%3Aforbes.com.mx%29++after%3A2026-11-06+before%3A2026-11-09&hl=es-419&gl=MX&ceid=MX%3Aes-419",
-      "count": 0
+      "ok": true,
+      "error": null,
+      "count": 4
     },
     "usa": {
-      "ok": false,
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28pharma+OR+drug+OR+biotech+OR+pharmaceutical+OR+medicine%29+%28site%3Areuters.com+OR+site%3Aapnews.com+OR+site%3Acnn.com%29+%28FDA+OR+US+OR+USA+OR+%22United+States%22+OR+American%29+after%3A2026-11-06+before%3A2026-11-09&hl=en-US&gl=US&ceid=US%3Aen; 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28pharma+OR+drug+OR+biotech+OR+pharmaceutical+OR+medicine%29+%28site%3Awsj.com+OR+site%3Acnbc.com+OR+site%3Anytimes.com%29+%28FDA+OR+US+OR+USA+OR+%22United+States%22+OR+American%29+after%3A2026-11-06+before%3A2026-11-09&hl=en-US&gl=US&ceid=US%3Aen; 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28pharma+OR+drug+OR+biotech+OR+pharmaceutical+OR+medicine%29+%28site%3Astatnews.com+OR+site%3Afiercepharma.com+OR+site%3Abiopharmadive.com%29+%28FDA+OR+US+OR+USA+OR+%22United+States%22+OR+American%29+after%3A2026-11-06+before%3A2026-11-09&hl=en-US&gl=US&ceid=US%3Aen",
-      "count": 0
+      "ok": true,
+      "error": null,
+      "count": 7
     },
     "europa": {
-      "ok": false,
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28pharma+OR+drug+OR+biotech+OR+pharmaceutical+OR+medicine%29+%28site%3Areuters.com+OR+site%3Abbc.com+OR+site%3Abbc.co.uk%29+%28Europe+OR+Europa+OR+European+OR+EU+OR+EMA+OR+UK%29+after%3A2026-11-06+before%3A2026-11-09&hl=en-US&gl=US&ceid=US%3Aen; 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28pharma+OR+drug+OR+biotech+OR+pharmaceutical+OR+medicine%29+%28site%3Aft.com+OR+site%3Atheguardian.com+OR+site%3Aeuronews.com%29+%28Europe+OR+Europa+OR+European+OR+EU+OR+EMA+OR+UK%29+after%3A2026-11-06+before%3A2026-11-09&hl=en-US&gl=US&ceid=US%3Aen; 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28pharma+OR+drug+OR+biotech+OR+pharmaceutical+OR+medicine%29+%28site%3Adw.com+OR+site%3Aelpais.com+OR+site%3Aelmundo.es%29+%28Europe+OR+Europa+OR+European+OR+EU+OR+EMA+OR+UK%29+after%3A2026-11-06+before%3A2026-11-09&hl=en-US&gl=US&ceid=US%3Aen; 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28pharma+OR+drug+OR+biotech+OR+pharmaceutical+OR+medicine%29+%28site%3Aeldiario.es+OR+site%3Apharmaphorum.com%29+%28Europe+OR+Europa+OR+European+OR+EU+OR+EMA+OR+UK%29+after%3A2026-11-06+before%3A2026-11-09&hl=en-US&gl=US&ceid=US%3Aen",
-      "count": 0
+      "ok": true,
+      "error": null,
+      "count": 8
     },
     "global": {
-      "ok": false,
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28pharma+OR+drug+OR+biotech+OR+pharmaceutical+OR+medicine%29+%28site%3Areuters.com+OR+site%3Aapnews.com+OR+site%3Acnn.com%29++after%3A2026-11-06+before%3A2026-11-09&hl=en-US&gl=US&ceid=US%3Aen; 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28pharma+OR+drug+OR+biotech+OR+pharmaceutical+OR+medicine%29+%28site%3Awsj.com+OR+site%3Aft.com+OR+site%3Abbc.com%29++after%3A2026-11-06+before%3A2026-11-09&hl=en-US&gl=US&ceid=US%3Aen; 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28pharma+OR+drug+OR+biotech+OR+pharmaceutical+OR+medicine%29+%28site%3Atheguardian.com+OR+site%3Astatnews.com+OR+site%3Afiercepharma.com%29++after%3A2026-11-06+before%3A2026-11-09&hl=en-US&gl=US&ceid=US%3Aen; 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28pharma+OR+drug+OR+biotech+OR+pharmaceutical+OR+medicine%29+%28site%3Abiopharmadive.com%29++after%3A2026-11-06+before%3A2026-11-09&hl=en-US&gl=US&ceid=US%3Aen",
-      "count": 0
+      "ok": true,
+      "error": null,
+      "count": 6
     }
   },
   "items": [
+    {
+      "title": "Monterrey inicia programa de Vacunas Regias ante temporada de frío; conoce los detalles",
+      "publisher": "MILENIO",
+      "publisher_url": "https://www.milenio.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNnktamczdkJhQWNRZVg0Tkl2cDFVaEx5WnpfVTF5ck1YNnljVTladW00U1NLdlZvajdNUkFYYVNFbU13eEg4UVp1aktjT18tRmdkcHRwM0h1MnpmVHJOWFAzMUZSZ0lFRDdaaFZNTWRpb3hYR1duN0s4VFpLeE5Ob195MW11bVlRMk5RYzVDb9IBjwFBVV95cUxPZm9BVWtUY0VMM0M5MGxDR0pWMjVhZnJicGVybG9hYlJ6Z0puMk5vSGVtV0JQd3BIYWFxdUk5UWJXeXZrcFdSNTVsRXRQX2VCelZSeHlmWnhfdVo0OGZ5eDhndDJhTElXaWpyT0M0a1hOZnZKamZremx4VjhwMVVrM2pDQjFzdlRPQVduZ0ZDZw?oc=5",
+      "published_at": "2026-11-07T22:18:00+00:00",
+      "regions": [
+        "mexico"
+      ]
+    },
+    {
+      "title": "Arrowhead Pharmaceuticals Presents Plozasiran Data Highlighting Sustained Triglyceride Reductions and Reduced Acute Pancreatitis Rates – Company Announcement - FT.com",
+      "publisher": "Financial Times",
+      "publisher_url": "https://markets.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNV0k4OU5lYURoeVNpdk44UnYyNFd1cjU3aUF5b1hEUWF5WWs0R05Rd01EZVhPNG5iLVh2S2xlMTRfcXVoT1BCZ2ZmaDBoaUxiSXd4VWh1X0stbnJud01pelViUjh6VnNBQXBDSnhIaWo2OTBTc2pOWE9WZG9wUlQ3dU5DMmZyVHEtam16WWZuWEE1bDZBWWwxUTFJWldZdFhtSVhrTkFR?oc=5",
+      "published_at": "2026-11-07T21:15:00+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "Ebola: Why is there still no vaccine?",
+      "publisher": "DW.com",
+      "publisher_url": "https://www.dw.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE51VExRNXZuTUNOVUNDMHl0dFNGSXdYZXhnRndfSXpieXBlRWRHZTR0YVB0V0szbzdmQ09sU0dkcnFqUWxDOHlEaUYxZExCR3I3X21zbHpGX3o4c2xCaDlDbF9WLUYwWHpEX2syWHVOWEZWQ0VJd1I40gF3QVVfeXFMUE40aDJ2cm91cUV1WVRpOXZaMEhud0duUUVRQlJqQVJmZGFJQzFkYTNtanQ4VXdmUkxMbWJIajd6RFpELU5uMldiZWlYTk43QS1pRmZvbV90VVNieWFPSDVTb2FDZWVwNFk0M2NwdTNkS2gzXzJ0bXM?oc=5",
+      "published_at": "2026-11-07T21:11:15+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "Fracaso en ensayos clínicos de fármacos para el corazón de Novartis y Novo Nordisk siembran dudas",
+      "publisher": "El Economista",
+      "publisher_url": "https://www.eleconomista.com.mx",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPN2hrSXBIVTJVYmZYSHQ5Um93Um5EMWtaR1NqM1lFaGNTSWVtVldGd0dCcXpGY0cwTmI3MzltY3V3OTNHcEJlSEZoOU1aYXpfWGVTV294dFJiNWhwX1cxbkhnMU1vX3d2UFBNdlJscWNqa2NZWmp5TG5sdnp0V1VYVm4xbTRRNnJ0ang3Nm1lZHVfNmcwdjdxSVlNWjh2N0JhRjV2VVAwcG1QclZQVmxVM3VYbGRSREEtWVNGWUJjbmFhSy1RWE9Hc2FIME9oVWRZdzFPYzJjNnY4TWfSAeABQVVfeXFMT2NjV2M2V2NvdDhRZUQwYzZOcHVUNk9fQmEzOUZWZkVvYnVzLTdpN2V0bnRCRmFCRVpXX29JdllpTnBBNUdXbVBFUjZRR2JJMWs1MzJGc3IzMFRsb29wcjZabFRtSlV2eG51SUxyN0RjcE9RaDBtUEl2QTN0MU40M1BPYy16eUJzSS1Ka0tuMXdSM1F3dkZrUHVodHM0U05LMmVSY200T28tdnpwSUdzNFVmLVBvX0JDU2lCWTBNamtLblNocTZDbmxoVTEwNmxoYTN5eDBkTW5pd0tyODFfRzM?oc=5",
+      "published_at": "2026-11-07T19:40:02+00:00",
+      "regions": [
+        "mexico"
+      ]
+    },
+    {
+      "title": "Below-par Dundee 'need to take our medicine'",
+      "publisher": "BBC",
+      "publisher_url": "https://www.bbc.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4xNGNYU0FxODhpdnp6bmJwcVRUVVZCYUJZWUo3UkRtUnUwU0Y1OUVyUGdIRTZFRzZUaHAxRU9CZ2FvLTg0OEJ6dE9iTHlxVFpmZ0tCQ2FaRGU3LUdC?oc=5",
+      "published_at": "2026-11-07T19:07:26+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "BIO joins the legal fight against Medicare pilot that ties drug prices to peer countries",
+      "publisher": "STAT",
+      "publisher_url": "https://www.statnews.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMXJHa1ZINkZmWXBqOUdNeHNndDkyZXZyMDFUOEtfR2JXdUhva3ZIeHZFYlM1SEFkeU13eTJNaHd1WHliS2lfdGgyckFCbjNlcnRJMDEwXzgtbnJiTmpYSWp2M1FtMmc2Nl80bHM4UFNEUUxwRDJCeEdDTnViM3NlNWhMbm85UQ?oc=5",
+      "published_at": "2026-11-07T16:58:59+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Johnson & Johnson announces ICOTYDE® (icotrokinra) delivers significant improvement in psoriatic arthritis disease activity among biologic-naive patients with once-daily targeted oral peptide – Company Announcement - FT.com",
+      "publisher": "Financial Times",
+      "publisher_url": "https://markets.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVEQ2RkptVW1uZnB5QWVsa0cxWVI1SXNkSmJTMjk3MjhVVC1ycTJlZXJmRnVacmR6WkFFR2hubUtycmFQN3FQQjBxMVlYb3M4RnJHQ0lCNW9HNFUxR0NvcUJpSGg2c2FfWUNPbUlaSlRnMVRhZ0x0ZHhLVmJpdzJIRk1pSUVQS0FpTFlVa2o2MUQtZzIteU5ldA?oc=5",
+      "published_at": "2026-11-07T15:03:00+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
     {
       "title": "Failure of Novartis Lp(a) drug raises questions about cardiovascular strategy",
       "publisher": "STAT",
@@ -61,7 +132,9 @@
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNDRBaXRqTWZJbUE1MlA0dEJQdnBOWnVkQm5hbGhTODhFbEMtV1g1eEdJbFJsb2k3WTZVMWluZmtmUjVDenIxUk9YalR4SzZYRS1vSDZxdXlPZlpZeVhjVnVFaHJDdmlxYWVHS19xbE0xUFNPQjhPQ1dfdzJPNzAxcnA0M0wtT2hYVXFLMVk3N0pSRV95bklxXzg3WDZ5U0FLNVRSWGNueUxQY1FScFJtNFFNdzNUN1p5NmxRVGNhMEpYdw?oc=5",
       "published_at": "2026-11-07T14:51:30+00:00",
       "regions": [
-        "europa"
+        "europa",
+        "global",
+        "usa"
       ]
     },
     {
