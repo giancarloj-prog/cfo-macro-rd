@@ -1,7 +1,7 @@
 {
-  "date": "2026-11-08",
+  "date": "2026-11-09",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-09T00:57:25+00:00",
+  "checked_at": "2026-11-09T06:50:21+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -23,12 +23,12 @@
     "bcrd": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 1
     },
     "fiscal": {
       "ok": true,
       "error": null,
-      "count": 2
+      "count": 0
     },
     "dgii": {
       "ok": true,
@@ -48,17 +48,17 @@
     "economy": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 2
     },
     "economist_andy": {
       "ok": true,
       "error": null,
-      "count": 4
+      "count": 3
     },
     "economist_jaime": {
       "ok": true,
       "error": null,
-      "count": 2
+      "count": 3
     },
     "economist_juan_ariel": {
       "ok": true,
@@ -73,7 +73,7 @@
     "economist_jose_luis": {
       "ok": true,
       "error": null,
-      "count": 4
+      "count": 3
     },
     "economist_nassim": {
       "ok": true,
@@ -83,20 +83,67 @@
   },
   "items": [
     {
-      "title": "Entre crisis globales y estabilidad: Magín Díaz defiende el desempeño económico de RD",
+      "title": "Breve historia de los logros económicos del Gobierno agosto 2020-2026",
       "publisher": "Hoy Digital",
       "publisher_url": "https://hoy.com.do",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObGRGSE9WQnNkQXJaampvRnc0T3FLSEtHc0p6US1rQXYtbmRBNUIzVFllbk1nUUtKQnVvV3dNbnBMNHNMdkxyWUM4UHZKeEdidlA4Sjl3bm9GUEk0NC1heUtoOUNjcFhmdzR0ZWZKTzAxWE5Ha2FXa1BnNTY2cWxsbVY4Z1VSN25nUEpiaVcteDUyQnIxV0JJTGVnT1pJTmRBV3hjT2hhcDJWN3FLaFNkX9IBtgFBVV95cUxPREZyNWJXMlAwX2x2c0l1SERrclNBcUg2ZVBaR2RRR3RRNjdZYmh0aGhzZTVwMF9xdjdkeVlzc0Z4THQ5V2FsVldkUnIxYnFjeVQwYjNnUG5PNWl3MjUzTmRCTkZvejhxdmhhall1Q3hFdEM2bEticG9hSTZvSC1wZHlEQ0Joa0NDX3ZtMEswMG5mQUlVTWs2eG02aVlycDItbHp3c285OXhmVW1NVEVjWFBkQWZOQQ?oc=5",
-      "published_at": "2026-11-08T19:53:08+00:00",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQak1ZcUZpeC1ldThTS05NbnpjT1UzNm95YktTSENNWnRQSXVxelFyeThhUkdFbXdJU1Nsd2ttRlR4WUJvZzVEN0hsT01qNW9YQmJXZV8zMUV1WV96NGtVUjhvWklMRmlCTTlhdlpYMUpPYUE2bWlGb3lWempULWpLU0NuMjRfVVdiTjZ5ZjllbnFISEQ0TU1qMThpclVLMmRDY0lRZtIBpAFBVV95cUxQak1ZcUZpeC1ldThTS05NbnpjT1UzNm95YktTSENNWnRQSXVxelFyeThhUkdFbXdJU1Nsd2ttRlR4WUJvZzVEN0hsT01qNW9YQmJXZV8zMUV1WV96NGtVUjhvWklMRmlCTTlhdlpYMUpPYUE2bWlGb3lWempULWpLU0NuMjRfVVdiTjZ5ZjllbnFISEQ0TU1qMThpclVLMmRDY0lRZg?oc=5",
+      "published_at": "2026-11-09T04:05:00+00:00",
       "topics": [
-        "economy",
-        "fiscal"
+        "economy"
       ],
       "economists": [],
       "economist_match": null,
       "searches": [
-        "economy",
-        "fiscal"
+        "economy"
+      ]
+    },
+    {
+      "title": "El costo de los combustibles y su impacto sobre la economía dominicana",
+      "publisher": "Diario Libre",
+      "publisher_url": "https://www.diariolibre.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQckJhTHRiQndDUDdQQmZsXzVMbld3OWtyQzNZd0RDVXF5aE5wOGJkUWx0eHhzTEd5Nm9VaGoxVVlWSDN0ZnVPSU9jMWxoVGt5STBfVlN3RG5kRDRrT3ZOYm5hc0EwUEpaclBubFJuczhWMlQwTUE3S1k3aVZBM09pcHBjaEw5THRtRExaYkVYY2lpYkJqckF1ZlQ1bml1NmN6NGtmanB6X3hPZVZ1V3ZZdkVBQ05ySkJTbWNmbHQ2bko1WWdVc2ZCeTlOVdIB0AFBVV95cUxORE9qaDFfckVjUW1fbng0Umd1TnFCaDZkeGFmYVU2RnZYWVJ1ajR3YkQyMW10ZkRuOXlhdjJoNHJhLTRza2VxZnFNdG1IYzNteklpaUpsdHkxWWVTUGtYQXk1ZFFDZkhXbGlPbzhEcmpLRGp6U3RTM0Z6X0JxNV9JQnJZWGVDdUdCcFAzaHBsU08wWGpUQUQ2YWwzbFdxU2piWXNMcldTM2Zsdmx5QWZFblBqZms4Z1pCaVBpeWFmQkVzVDNld2pxV3JyWUFZWXNu?oc=5",
+      "published_at": "2026-11-09T04:01:00+00:00",
+      "topics": [
+        "bcrd",
+        "economy"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "bcrd",
+        "economy"
+      ]
+    },
+    {
+      "title": "Banca local incorpora lentamente los riesgos climáticos en créditos",
+      "publisher": "El Caribe",
+      "publisher_url": "https://www.elcaribe.com.do",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNenY3MHVwVW5VOU9Lcmh3SFhmN1hENE1SU0k4TUtlZzF0NmJ6QzlUSTl1OC1fTFlPY3RNTUVwSUdDdmxjOWdzczZqanpuZ195Z0dETXFQMVpwRlFUUkhaTlVhVWRCLVZBNlVZbTV3RGZyMi1vbWM3ZHR2cUtjbURzV3lBNXQycmEwNXNrODBzSk1hUm1xYWY4b2JsUUdQYUxVY2pydmRPQU1yc2sxSEpKU1BR?oc=5",
+      "published_at": "2026-11-09T04:00:00+00:00",
+      "topics": [
+        "finance"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "finance"
+      ]
+    },
+    {
+      "title": "Una página sin margen",
+      "publisher": "Diario Libre",
+      "publisher_url": "https://www.diariolibre.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOaUdrZVY5cFgwZjUtTzh4VWF6LUtmT3RXcGNpZHBtQnM2SjRMSUJDb1VOV2NpZjkxYXVYbWlseElidm1rY01FTVZGU0hTNXRfcTdPdHlyWGhGU2NRMDhtZmRzaG10VmJtY0VucGlqdHAtOXNzZVR1ajF4SkhWWlA0NjZHem83aVAxZzRpbU1GOGJlVW9USVRwcW9TYjU4ejVQNktFaHRxOHN3cW1IVUdXdtIBsAFBVV95cUxOaUdrZVY5cFgwZjUtTzh4VWF6LUtmT3RXcGNpZHBtQnM2SjRMSUJDb1VOV2NpZjkxYXVYbWlseElidm1rY01FTVZGU0hTNXRfcTdPdHlyWGhGU2NRMDhtZmRzaG10VmJtY0VucGlqdHAtOXNzZVR1ajF4SkhWWlA0NjZHem83aVAxZzRpbU1GOGJlVW9USVRwcW9TYjU4ejVQNktFaHRxOHN3cW1IVUdXdg?oc=5",
+      "published_at": "2026-11-09T03:00:00+00:00",
+      "topics": [
+        "opinion"
+      ],
+      "economists": [
+        "jaime"
+      ],
+      "economist_match": "search",
+      "searches": [
+        "economist_jaime"
       ]
     },
     {
@@ -131,36 +178,6 @@
       "economist_match": "headline",
       "searches": [
         "economist_raul"
-      ]
-    },
-    {
-      "title": "El ministro de Hacienda y Economía, Magín Díaz",
-      "publisher": "Periódico elDinero",
-      "publisher_url": "https://eldinero.com.do",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOS3ZPaDMwaEZFN2NBMzdMMjVZY2ljZWY4RFBmRVF5T0p4dmgwVGJpZWY5MmM0TVV5dUhhSWNZNkJZeVJvdm5UVmVPbE9nR3NaU2lVaEZ3WmgzU1VoekZJUTlLd2F3M2hOWlFMMXhSay1xb21uSWV1VjFlQlNiR0dSNlFJb3R0TDB2d1lJQ09IOWtOWEN3Nm84ZVVuTFo1Q0d0VVlqVU1uQXplNXBWRmYzZ25pd0ZkRFhZZEoyck40bW5ocjU0MTdob2psYy1jbU1QU3UxSkQ1bl9ibzBqeHFsa0lpYUdEYlNMdmc?oc=5",
-      "published_at": "2026-11-08T18:40:39+00:00",
-      "topics": [
-        "fiscal"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "fiscal"
-      ]
-    },
-    {
-      "title": "Finanzas-y-banca-dominicana-en-la-oficina",
-      "publisher": "Periódico elDinero",
-      "publisher_url": "https://eldinero.com.do",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTFF4ejB0YVhOYVBzZGZHdVBkdUZiOExDalBTQi1rU2ZFNlBrVkdlbjRGQm52R0VhNXdaTDg1dHY0QkJMY29lUlliSW5pVUwzdFlXYlMwYVh6OFVLUWZTS2JTMjdvX1dUdk0yTTkyM2ZBSU1pWVI0TmVESDh5WnQ2ek1OUXY0Q0hfTjB3a1lZVnZHV1hBMVZXeFdLdjFYYjV5MGd6Q29TM193ZzZyQzdiTnBtX1FpVVVnNFVKZmhfNmFYelpLSGRrNzI2Tld3b295TE43Y2lkT2gzVzM0dFZJUHdiZmI?oc=5",
-      "published_at": "2026-11-08T18:40:30+00:00",
-      "topics": [
-        "finance"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "finance"
       ]
     },
     {
@@ -388,42 +405,6 @@
       "economist_match": "search",
       "searches": [
         "economist_raul"
-      ]
-    },
-    {
-      "title": "Segunda edición del Financial Summit 2026",
-      "publisher": "El Dia.com.do",
-      "publisher_url": "https://eldia.com.do",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9qOVFyTzlHUHpQLVcyMDdiVzlLX3F1V0M5amtwU2s1TkxKRHJ0b2dxOXM0WER5Q3NodDBXVWFZUHpHVk1vZ04xanlHZWFKV0hxTXBielNiV3F1OHJnOWZuMWdnc3o0djdENnJBQXJBalA?oc=5",
-      "published_at": "2026-11-02T04:01:00+00:00",
-      "topics": [
-        "opinion"
-      ],
-      "economists": [
-        "jaime",
-        "jose_luis"
-      ],
-      "economist_match": "search",
-      "searches": [
-        "economist_jaime",
-        "economist_jose_luis"
-      ]
-    },
-    {
-      "title": "Conversando con John Nash",
-      "publisher": "El Caribe",
-      "publisher_url": "https://www.elcaribe.com.do",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5wTkFEUGF0cm9nTUViTEZqNlVMWEJYM183ZnZCTlNRcWNTSVA1T09FaEQ4V2tKR0haaFBkS3RRUXlKbEx6Z0N6WTZ4ZGVVQnBzazJIY3VmVDJtSnVuYjBZOVFvbDNTdHNVMDloNWMyaG5sbkh3ZVVRWFdR?oc=5",
-      "published_at": "2026-11-02T04:00:00+00:00",
-      "topics": [
-        "opinion"
-      ],
-      "economists": [
-        "andy"
-      ],
-      "economist_match": "search",
-      "searches": [
-        "economist_andy"
       ]
     }
   ],

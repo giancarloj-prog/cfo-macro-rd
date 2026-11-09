@@ -1,7 +1,7 @@
 {
-  "date": "2026-11-08",
+  "date": "2026-11-09",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-09T00:57:26+00:00",
+  "checked_at": "2026-11-09T06:50:22+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -14,7 +14,7 @@
     "rd": {
       "ok": true,
       "error": null,
-      "count": 2
+      "count": 0
     },
     "centroamerica": {
       "ok": true,
@@ -24,169 +24,100 @@
     "mexico": {
       "ok": true,
       "error": null,
-      "count": 3
+      "count": 0
     },
     "usa": {
       "ok": true,
       "error": null,
-      "count": 4
+      "count": 3
     },
     "europa": {
       "ok": true,
       "error": null,
-      "count": 5
+      "count": 8
     },
     "global": {
       "ok": true,
       "error": null,
-      "count": 7
+      "count": 6
     }
   },
   "items": [
     {
-      "title": "Nascent Biotech Inc (NBIO.PK) | Stock Price & Latest News",
-      "publisher": "Reuters",
-      "publisher_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1nTnpkakF5d1RIV3ZYQXhaeXlhUjl2VnRxUkU5cDBMWk0xSG52Wm5aWURJQ0M3YXo1RlpWRjVwMWoyUnVsVVdFc1k3RDN6WlhSZlhkTHhqem5pOGJlVkhPRWRuUzB4RGRwal9ZVlFKTQ?oc=5",
-      "published_at": "2026-11-08T21:47:36+00:00",
+      "title": "Almost 2,000 drug-driving arrests made in Essex in 2026",
+      "publisher": "BBC",
+      "publisher_url": "http://www.bbc.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9qQXlRSGJ5a04wYy1SR3VmVTVpNWVsWmZBZi1jVEFZYTU1Z21YSnBsQlNoWXZnWlR3VkN4LXdMWkM4clplSUFkejVMMVUzWWJDVHNTa1Z2RURpRzh2?oc=5",
+      "published_at": "2026-11-09T06:26:20+00:00",
       "regions": [
         "europa",
-        "usa"
-      ]
-    },
-    {
-      "title": "Muere Diosmedy Rosario tras clamar por un medicamento de alto costo para combatir el cáncer",
-      "publisher": "Listín Diario",
-      "publisher_url": "https://listindiario.com",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeDdpLThhRU9Rdm1CTllORzcxNWxTTXIyZWtybVh4b2RoRkQ3a1BrZks1eUozcW9LTEduOW5YTkNrWmxwVEZwQzNyMlgzQndLdTd5VHJXdFc5bzBnQkc0Rm0zWmI0TDBWSEYzNU5nTU9UVmJTMWtrUERzMjEyZjhQRTFGTHpjNFp1YnI3Tk9hSlpaam1TekpNRXVwRkVORnAyZEVNaXYzdUs0N2c0Nk9Ydmx5bnNpREJkOTBfNngzY0d4U0JhSEHSAcsBQVVfeXFMT2hPSTZQeEVWUGFqTTBneVkxcHFIVFhrb2haUV9yR1ItWVRfRy1XcFdPQnIwTU5sTFZkM2phd1QzQXdFaXhTVk93Q1A0U1gxRmpyTG9LczJnS0xrRXBvZ2VyaTVKTm16ZnhxNjVDRmdtLUUyQjhoaG85MXIyTThnVzBYZTYyNGwyX0FXTkNFeS1rX3ZWdG9YbmpMc2RCRU92bFBEbk9tNXhwVEJSd25jMEtKYXlSeFR4Ti1qVWZnbHB1TzNLcnNpMTVrN1U?oc=5",
-      "published_at": "2026-11-08T19:20:01+00:00",
-      "regions": [
-        "rd"
-      ]
-    },
-    {
-      "title": "Gobierno entrega enseres y gestionará medicamentos para hombre enfermo en San Cristóbal",
-      "publisher": "Diario Libre",
-      "publisher_url": "https://www.diariolibre.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVWlrUXgxRWVWRk9XYUlQSHpzMy12bl9OZ2lxN0RnRUt2NFlQVjhEd0NjZHlvdjVWUDlfTFdNMjBvLTUtbTBGTklFTFhEUi0wUmRwVk8yd3hJd1JFV3ZxeHVNNmpMYmtlVlRCbHI4YnJXcWJTcjBZbmxTNE1PVlZQRTN4QlhuMTlvNFpCM2lMeWsyNDFjR3MtQVdfT05vbVhrYlBMc3BRQV9PM0V1U3JXTVROeDhMR01fcXFlLW5ERdIBxAFBVV95cUxONldiMHJMcVV6Q1pwcmVlaFpXdkw3QjlxWFZRVURaWk1IcjdCbUUtRF91NTFnZXBvUjRzT2xrQUZ1TzVBWENmamVxcmFJcEtEV1R4R1FzY0RrVmcyaXlYb3NpaHRJSjRkU0pVcHByQzZ4cnpEXzJRNGxqWGJxVS1KMzByNDNzMF9MNl9yMUsyUTFSVlp1bjRhYjRlTURHTzY1R2N0V3F5aHZHeGVrakdCSWRoYjVMS2lxWVk0V25kVHlQZkhZ?oc=5",
-      "published_at": "2026-11-08T17:52:24+00:00",
-      "regions": [
-        "rd"
-      ]
-    },
-    {
-      "title": "Mirum Pharmaceuticals Inc. (MIRM) Stock Price Today - The Wall Street Journal",
-      "publisher": "WSJ",
-      "publisher_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5IQlQwLWFmSGQ4UWhUcFR1VmwyM1NzNjdmekhEU0FMT1hzSWI5TFBFUGpab3VMd3U4Vi1VQjlGSy1XaWxZektZYk1mRk5rZnlxNXhhZg?oc=5",
-      "published_at": "2026-11-08T17:41:16+00:00",
-      "regions": [
         "global"
       ]
     },
     {
-      "title": "UNAM invita a vacunarse gratis contra COVID y sarampión en campus",
-      "publisher": "MILENIO",
-      "publisher_url": "https://www.milenio.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOa0NTbmFHa3lwTzI3SnpHVmZqUktEbVJuTnRBOGRhM1A1bkhMMVhGcExCTzMtU1JRcUFaSE1jcEVOdU1qaW9TRTFWNGpXZ1A3UW85RTFySTNmZjhxdjJJTjZFRWZSd190WjlFUDl4Snp5SUpERVA0SGpZQW9QV05zMjZfemtXZnd2bzdGYzY4YnhIMVpSMzYxTllCN2RHY1RLWGlVbVRqY9IBpwFBVV95cUxNZmdtaHpYWTViNUlfV3dOYUs0QUs2WEk3VEFKQUZiT2dyX3dFN1VkRjdmTEFXMkhHaFdTTnhvODlkdkxZeVJWRUlnMmtiaDEyb1JFbXFBcTd1aVlmWlVWZi1zRGt1VWJvSklsNTN4dXo2b25xWUVSVkFlWGo2UE9mR3hodW04SkhJLTdhcjE0ZVhJVWF4aEhSOTRxZG93bEJYN3BDdHgzcw?oc=5",
-      "published_at": "2026-11-08T17:28:51+00:00",
-      "regions": [
-        "mexico"
-      ]
-    },
-    {
-      "title": "New drug could be cure for common cause of high blood pressure",
+      "title": "TV tonight: a stirring documentary about two mothers taking on Big Pharma",
       "publisher": "The Guardian",
       "publisher_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdkUyODdxU2lpWjdmdm0taE1KLWJmVlZrR2RKc3N4aEpzbXZwYnF4dVdwMlp5QWQ3SzY0Qk5nVlB6TktseEpHOGJIX0ZRZGY5ODJ6Nm1yZ1gzTXo1WTliSzRiMmVfV1JOcHZrLTNsTjk1ZHFTZEF5WnJoSFBINlZaZFVXcVMtN3JrMzN0Ynh0RUc?oc=5",
-      "published_at": "2026-11-08T17:12:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOFJhcmtlSGtGdmpQS3FleURhRzl3bXdvMl9OOG5wRUtCM2ZnVURGa00xdGhuRVhBRnZqcHVJYTJGb0xPZXlVaWZoOXk5c0pjR3pDdGZQYWk0eWRZWkd0UnMwbWZkMVM0QkgyWm9XX2RDWW1nUGR3VzZ2Y1c0OW51WXYyLTdVTkVRVHlmT0hoVy1aWUNoNE9PSUlLeTN5MlgyazhfdmdlVGExUWROWDVGVEhzbEFETzU2Q01TMTVSZHVBM2s?oc=5",
+      "published_at": "2026-11-09T06:20:00+00:00",
       "regions": [
         "europa",
         "global"
       ]
     },
     {
-      "title": "Vacunas gratis contra COVID-19, influenza, sarampión y neumococo: así será la jornada de la UNAM",
-      "publisher": "El Economista",
-      "publisher_url": "https://www.eleconomista.com.mx",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSVhORlhmamtNZFpkOGZVV0JHYkFQclhJQVA2bUJKbmFDejBEZlhNTnFLM3ZvOXVOamo0V0JJN3NtMV9ZdFNjRFVodWxRZW9QSmFqU05VMVhiQ19TeTJESnNEVmlCbjlXVWY2Y0JfVXJtUG5ZWVo1QzhkZTJtX3Rhc1NQNnZQSGdSRnFtZHMtSEliU2FKaVFCQnpKbW1rQW5zT0w4TzdJVnZEaFJDclQ4cmg0bzR6dGVpQ1k4OFJKa1k1anVrMUNILXd6VDU1R2Voc0pz0gHYAUFVX3lxTFAzWUhBTkZCTDRGU2lDREktSWt0WThHMzU0R0JzRUFYXzJia2Nkb2FpdHJJc09OSTBoLUUyejUzTWdPMHJEZmVMa2Q3ZWJyY1NETE8xTWpDRE44T0ZvOGc4MXJsUklESzVTcTlxY0o2SlRNVUwtY2hiS3hBMnJ2WG9JT3RmZzlZeUxxTEZMY21McjRjdHpqeWJ0U1NmaDBjWEJqQ2pxUG40eG1NLW1LeG9lNmk3dzJYeG45Q25JYzQ1elIxUERjcWlvZlBWcDNfZEVacUk3eGNIMw?oc=5",
-      "published_at": "2026-11-08T17:00:00+00:00",
-      "regions": [
-        "mexico"
-      ]
-    },
-    {
-      "title": "Cupón Farmacias del Ahorro: hasta 70% en Noviembre 2026",
-      "publisher": "El Universal",
-      "publisher_url": "https://www.eluniversal.com.mx",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVnI0QTNHaVkxbzBYemh6MWZfVjFvT2prNlU0SS1VVE54UHpiU196eTlBVS1zWk0wM3FNbXhrSWlxLXZLZkVjejZ0allBM2w4SFBlSE9BVEJybUVoYWdtRXJsMFlKYi1VNWtaY3gyVUVJQ0w2cmZIc21fRmxPOTBpRUJB?oc=5",
-      "published_at": "2026-11-08T16:04:53+00:00",
-      "regions": [
-        "mexico"
-      ]
-    },
-    {
-      "title": "Doctors Absorb the Stunning Failure of Two High-Profile Heart Drugs",
-      "publisher": "The New York Times",
-      "publisher_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOa0NfZEYxYnc3ZWxPRlJYQVZZR3hEYWEtMHlQRldPdE02QWhaanpnUHdIWVByaFBaR2hidkt0Ym1GZHRNVkZpVENpajJKUWN6cXprb1h2dW5wZGtzSUpyZ1Rsak9DOGdQRFgtN2c2WHVTckRqeV9sQXVPMnNVel9fVkpPU2VFUDJBVmhtMVJVQzFTUQ?oc=5",
-      "published_at": "2026-11-08T14:14:00+00:00",
-      "regions": [
-        "usa"
-      ]
-    },
-    {
-      "title": "Lanzhou Foci Pharmaceutical Co Ltd (002644.SZ) | Stock Price & Latest News",
-      "publisher": "Reuters",
-      "publisher_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBfdmtuZ3d0bTNXV252M0E0QXFGLXZmTE5CRVVnanZoS0NaRkJob0w5Zzl6RkZvYlpoQTNuczNMNWNRdDBXLUd4bjJOWkdCal9kUlFRc1M1U2NqMWhoVXlicHhyQ1pMNVQyNE9nSm04VHlYZw?oc=5",
-      "published_at": "2026-11-08T12:17:16+00:00",
-      "regions": [
-        "global"
-      ]
-    },
-    {
-      "title": "State Street SPDR S&P Biotech ETF (XBI) | Stock Price & Latest News",
-      "publisher": "Reuters",
-      "publisher_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBUQzAwU1VxbHV2bE5ublc0Rzl3OGx0VU5fcmpYcHlkY19tTDV3U1ZoR1puYkRvWVhRa3RnSWR5ZW5DM1lfY0NZUTNuc3FmU1VYTS1rS3YySXEwSnhfanZrZHdmMy04S0E?oc=5",
-      "published_at": "2026-11-08T09:40:18+00:00",
-      "regions": [
-        "europa",
-        "global",
-        "usa"
-      ]
-    },
-    {
-      "title": "Why the latest heart drug failures should make us all more skeptical of AI hype",
-      "publisher": "STAT",
-      "publisher_url": "https://www.statnews.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcWRTRTRFXzg3M2F5SW4tTDNQOWFkcEY5aWhtNUNCNjlaM0hnVjlseFZyUDFNcnp1UkdINGRIV0FYNjR6Q0xWZXU5RWFTTVlSa0o1Y3hFenRlbTBja2xCU3QxXzRKand2XzUyN0hBYWNZU0gxcWlKMDczdFFvXzVFTU92anBhMEF3SzFaY29xWkp2OXgzclNybzlzSXBpUWtLOEsyVjhxU2E0M2d0U1pKUXJR?oc=5",
-      "published_at": "2026-11-08T09:34:05+00:00",
-      "regions": [
-        "global",
-        "usa"
-      ]
-    },
-    {
-      "title": "Ningbo Menovo Pharmaceutical Co Ltd (603538.SS) | Stock Price & Latest News",
-      "publisher": "Reuters",
-      "publisher_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFByamlJX2s3cW5SQmZ6QVpTMzVEWmNJcUlFMFlyVDlaYjN3NFVLb2dldTdaS0lwTnItdDlqZDA0M2xVQW5haXF2Y190bjc2Mm1qdi1oMzh2bWRrX18xdXJneWhCUUhSYlRvMVh6a2lSZw?oc=5",
-      "published_at": "2026-11-08T09:27:42+00:00",
-      "regions": [
-        "global"
-      ]
-    },
-    {
-      "title": "Medicine",
+      "title": "Medicinal cannabis supplies at risk as drug company goes bankrupt",
       "publisher": "BBC",
       "publisher_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE11ZnRZcTljLTNYRS1DLWV4Z1R2UzV2SE84S0JQdjNwTHJ6TGF5UUJxSmpQQ29aOFA0cUtYM0o1RVJDNHAtTTNBN3N4SFRRRVhFY1JSdXZIQQ?oc=5",
-      "published_at": "2026-11-08T08:13:22+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1nRXo2VDZXVm9yRWtoWlFRWWd4WFFBUzN5Z1pUZ01LMWZET2tuRkJsNFFwcUZYeVNPdFM5YVRWZzRDOE5vSUdTeTdnZFg0aG90VU5NTVRDX2xaQ28?oc=5",
+      "published_at": "2026-11-09T06:07:18+00:00",
       "regions": [
         "europa",
         "global"
+      ]
+    },
+    {
+      "title": "Inside the French drug gangs recruiting children to kill",
+      "publisher": "BBC",
+      "publisher_url": "https://www.bbc.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5jcXlIOWxZd0NKWThrcjlpOHZ3U0thYVVVVnlTT0hTYldmaWpDLWxkX0FQVW51Qi1fekY5T2xUZXZndW9fTXRFWDBiQWZUQmJFN3FQRnNybjAtS1l5SFE?oc=5",
+      "published_at": "2026-11-09T06:00:26+00:00",
+      "regions": [
+        "europa",
+        "global"
+      ]
+    },
+    {
+      "title": "pharma Archives",
+      "publisher": "STAT",
+      "publisher_url": "https://www.statnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE56YVhqMk5ET2xnMnc4bVhOazFmMFRhSXM4dHIxMExYamJUM1lTR2MtVnV6bVRLN3cxM3BuZnNoSU4tbFphSEo1eTlBbHFxek1tbWd1YXJGWFk?oc=5",
+      "published_at": "2026-11-09T05:54:27+00:00",
+      "regions": [
+        "usa"
+      ]
+    },
+    {
+      "title": "Breakingviews - COMMENTARY: Biotech rising star has lifeline from geopolitics",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdHY2M1B2TmVxZFJ6Sm9vd1JIekpHZWRfNkYwNEN0S0NZRzFMbmItZnVIamFzV3VSa181Y1MxLUJ3eWZ0NjRpYm1qeHpHUDhjMkxHSFBHcUdYMXJBZHJYWldXWnFsZ2RxQzJBSThpY0Qxdkd6VHpzb0lhY3BiNU9mZlh3SlprTWlYVms5UDZFY0JCOVdqZ2UtSEExdFhrbkdIWFE1RV9Vc04?oc=5",
+      "published_at": "2026-11-09T04:38:00+00:00",
+      "regions": [
+        "europa",
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "VC Firm NSV Raises Nearly $55 Million in First Close of Inaugural Biotech Fund",
+      "publisher": "WSJ",
+      "publisher_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMzhyMkh3SllteDZfX05GLVNPZmdTUXFyeVEtQ0p3MFl1elZfSmNWc0xaSUdPVEsydlJDMnN5VUJtd1ZEUlF4dU00XzJhU0U2TWdvd3RmWVVsS2ZVd3ZRb0pvVzkzcHRFcE9nZHYwV3V1YU5JQUZmZ2ZsVElvcktrMlZYZjhjZ3lPcm9XZFhiY3dTVWt0Q3hHNUVTSldDRWl0d1ZUMWYxeHBKcUJCZzUyUmxBNjBfbU9kSjFOQWs4Z3MwM2Vt?oc=5",
+      "published_at": "2026-11-09T04:21:01+00:00",
+      "regions": [
+        "global",
+        "usa"
       ]
     }
   ],
