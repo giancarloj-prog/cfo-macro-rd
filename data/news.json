@@ -1,7 +1,7 @@
 {
   "date": "2026-11-08",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-08T21:13:12+00:00",
+  "checked_at": "2026-11-09T00:57:26+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -39,10 +39,21 @@
     "global": {
       "ok": true,
       "error": null,
-      "count": 5
+      "count": 7
     }
   },
   "items": [
+    {
+      "title": "Nascent Biotech Inc (NBIO.PK) | Stock Price & Latest News",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1nTnpkakF5d1RIV3ZYQXhaeXlhUjl2VnRxUkU5cDBMWk0xSG52Wm5aWURJQ0M3YXo1RlpWRjVwMWoyUnVsVVdFc1k3RDN6WlhSZlhkTHhqem5pOGJlVkhPRWRuUzB4RGRwal9ZVlFKTQ?oc=5",
+      "published_at": "2026-11-08T21:47:36+00:00",
+      "regions": [
+        "europa",
+        "usa"
+      ]
+    },
     {
       "title": "Muere Diosmedy Rosario tras clamar por un medicamento de alto costo para combatir el cáncer",
       "publisher": "Listín Diario",
@@ -61,6 +72,16 @@
       "published_at": "2026-11-08T17:52:24+00:00",
       "regions": [
         "rd"
+      ]
+    },
+    {
+      "title": "Mirum Pharmaceuticals Inc. (MIRM) Stock Price Today - The Wall Street Journal",
+      "publisher": "WSJ",
+      "publisher_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5IQlQwLWFmSGQ4UWhUcFR1VmwyM1NzNjdmekhEU0FMT1hzSWI5TFBFUGpab3VMd3U4Vi1VQjlGSy1XaWxZektZYk1mRk5rZnlxNXhhZg?oc=5",
+      "published_at": "2026-11-08T17:41:16+00:00",
+      "regions": [
+        "global"
       ]
     },
     {
@@ -121,18 +142,7 @@
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBfdmtuZ3d0bTNXV252M0E0QXFGLXZmTE5CRVVnanZoS0NaRkJob0w5Zzl6RkZvYlpoQTNuczNMNWNRdDBXLUd4bjJOWkdCal9kUlFRc1M1U2NqMWhoVXlicHhyQ1pMNVQyNE9nSm04VHlYZw?oc=5",
       "published_at": "2026-11-08T12:17:16+00:00",
       "regions": [
-        "europa",
         "global"
-      ]
-    },
-    {
-      "title": "Nautilus Biotechnology, Inc. (NAUT.OQ) | Stock Price & Latest News",
-      "publisher": "Reuters",
-      "publisher_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE82cWF6Qm5Dd05Xd2tHVXk3SEE1R2RrcDRVdnk5aVlHeTdwZFBTU05nMnphMWhmbmZsUEV1cWEwSFFFeVd4N2tReVFhekdnSWlVWUtwaDFiS2ZCX1Vyb0J6aGpQRWsycFFLRG5mdUE3Yw?oc=5",
-      "published_at": "2026-11-08T10:05:49+00:00",
-      "regions": [
-        "usa"
       ]
     },
     {
@@ -142,6 +152,8 @@
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBUQzAwU1VxbHV2bE5ublc0Rzl3OGx0VU5fcmpYcHlkY19tTDV3U1ZoR1puYkRvWVhRa3RnSWR5ZW5DM1lfY0NZUTNuc3FmU1VYTS1rS3YySXEwSnhfanZrZHdmMy04S0E?oc=5",
       "published_at": "2026-11-08T09:40:18+00:00",
       "regions": [
+        "europa",
+        "global",
         "usa"
       ]
     },
@@ -163,7 +175,6 @@
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFByamlJX2s3cW5SQmZ6QVpTMzVEWmNJcUlFMFlyVDlaYjN3NFVLb2dldTdaS0lwTnItdDlqZDA0M2xVQW5haXF2Y190bjc2Mm1qdi1oMzh2bWRrX18xdXJneWhCUUhSYlRvMVh6a2lSZw?oc=5",
       "published_at": "2026-11-08T09:27:42+00:00",
       "regions": [
-        "europa",
         "global"
       ]
     },
@@ -172,7 +183,7 @@
       "publisher": "BBC",
       "publisher_url": "https://www.bbc.com",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE11ZnRZcTljLTNYRS1DLWV4Z1R2UzV2SE84S0JQdjNwTHJ6TGF5UUJxSmpQQ29aOFA0cUtYM0o1RVJDNHAtTTNBN3N4SFRRRVhFY1JSdXZIQQ?oc=5",
-      "published_at": "2026-11-08T08:58:09+00:00",
+      "published_at": "2026-11-08T08:13:22+00:00",
       "regions": [
         "europa",
         "global"
