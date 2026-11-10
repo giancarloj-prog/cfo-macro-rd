@@ -1,7 +1,7 @@
 {
-  "date": "2026-11-09",
+  "date": "2026-11-10",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-10T03:36:50+00:00",
+  "checked_at": "2026-11-10T07:29:24+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -23,37 +23,37 @@
     "bcrd": {
       "ok": true,
       "error": null,
-      "count": 2
+      "count": 0
     },
     "fiscal": {
       "ok": true,
       "error": null,
-      "count": 3
+      "count": 1
     },
     "dgii": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 2
     },
     "finance": {
       "ok": true,
       "error": null,
-      "count": 6
+      "count": 0
     },
     "securities": {
       "ok": true,
       "error": null,
-      "count": 3
+      "count": 1
     },
     "economy": {
       "ok": true,
       "error": null,
-      "count": 2
+      "count": 0
     },
     "economist_andy": {
       "ok": true,
       "error": null,
-      "count": 3
+      "count": 4
     },
     "economist_jaime": {
       "ok": true,
@@ -68,7 +68,7 @@
     "economist_raul": {
       "ok": true,
       "error": null,
-      "count": 4
+      "count": 3
     },
     "economist_jose_luis": {
       "ok": true,
@@ -83,112 +83,67 @@
   },
   "items": [
     {
-      "title": "El valor de elegir bien: cuando la banca promueve ciudadanía y valores",
+      "title": "La amnistía fiscal aumenta las recaudaciones de las penalidades en un 134.5 %",
+      "publisher": "Diario Libre",
+      "publisher_url": "https://www.diariolibre.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQS3U5Z1dJNTdRbl8zV1YxdmNWRmJYT3VzLTRKZWdCbWUzdk1lQXFDUldDUmpJSGFZbldtdkVfRDNFYnlmYVdOTFZ0a3pmYVhQQ0lYVTYtMTQ3bHl6RjFfUWVpcGpQYUsxNWUwdVF6VFM3SzR1UjFQYUkyUHJaNVhMbDJxN1NYWHBlYTJjRElhc2lPTnFsUldDcEJnSWF3ejVESXpSZHNKQnlXMkVHV044c2xENzczbVJxdWwzVjFtYUdZU2FF0gHKAUFVX3lxTE1taUFRQmE2WjZZLU9Ga3Z5SVJQM3FPN3cxRlhfTVVzUHkwZ0dFTFBMckI1TmczcE9oY2NVM3V0bkgyTExKOHA4TlE5Vk91UWEzTlJuVUp2N3F5OExlNzlIdDM2TVpRWXlTZEhOYjdZMVIyWVFRWVEyZDVSU1hIREVHRDdEWlZtOW1sb19VSUEyN0l0V2VTaHFvWkczUjFfWVcwdG5tdUFDOUdSR0piallyeXUyV1ZHN0JrY2pVenc2eVRETTV2R05RcFE?oc=5",
+      "published_at": "2026-11-10T04:02:00+00:00",
+      "topics": [
+        "dgii"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "dgii"
+      ]
+    },
+    {
+      "title": "Reclaman bono navideño para portuarios",
       "publisher": "Hoy Digital",
       "publisher_url": "https://hoy.com.do",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYkpsRzRWU1dmTnF4QWhuSzZpUnFpNnpjRldFemk2NmdlaVhWNDVDSzNEeTdmNkdFSmVLZVAzMHVyTG1ZZEFaa1MzOE40ZHJxX2hOaFhuYzFneU50dmpHUklsakkxN1dEN0pGRFRIdVV1OHFvenlCQ2JOOEY5SVU3LWxHaWtzV3BZQVNKbF9LWdIBlAFBVV95cUxORzdfa0FYaEM5RkRhLVdkZU1nUVVRMHJLNDNQUkhVMlBqQk8xenVtclRQTkFoNE0xS1FoamJBMXU2R1NmY2hraVpTbnN1a2loLWd6bWNrN0Y0R0lMakxkclBXZlF5aXduY2RZMzdFbXJBTm9lLXNRSldMQmppcGhhTE91REd0TzBFTlludUVGaHptNnlT?oc=5",
-      "published_at": "2026-11-09T22:15:30+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcFVYdnhsTVE0TkdwRjYyd0J3Q211dG0xbVIxeXg4b2pxVU1wb0g3bkZueGV6OWhKc1dxZW9UZmRLam9SX0drcUJiTXJXREVWOXNOSXVqcVJkVHdGS1JvTnE0MTJGVmRVb0tKamE2SVExQ0kzbUNKak1fTkdhaUFJRmNaWmTSAYQBQVVfeXFMUHBVWHZ4bE1RNE5HcEY2MndCd0NtdXRtMW1SMXl4OG9qcVVNcG9IN25GbnhlejloSnNXcWVvVGZkS2pvUl9Ha3FCYk1yV0RFVjlzTkl1anFSZFR3RktSb05xNDEyRlZkVW9LSmphNklRMUNJM21DSmpNX05HYWlBSUZjWlpk?oc=5",
+      "published_at": "2026-11-10T04:00:00+00:00",
       "topics": [
-        "finance"
+        "fiscal"
       ],
       "economists": [],
       "economist_match": null,
       "searches": [
-        "finance"
+        "fiscal"
       ]
     },
     {
-      "title": "Superintendencia de Bancos y BID promueven uso de economía conductual en el sector financiero",
-      "publisher": "Acento",
-      "publisher_url": "https://acento.com.do",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTGV0blFFT2pzZEVkS2lFbkROa1FZbFVnY25XSFJjekt6QWVtVzBtWWlkYlJpNFgwZkplLTA3b3prSUp2OG1ORDhJaW81YzVKUFpyOU90NThQeEhTVjdGTnJFYVU5aWpxREpoZHhjR1RjOGxLdVZjLU5PTEV6Z2JvQ3k0dFBJbi1sRDE3VC1fX3RwdFlfTnlOQXlfQ21TZmt3eVhsYmRUQ2s2a2tTNjVYSWVFZHY4ZXhOcEtYR1JwZ2RlQkdlZkFITG8td1pvUWhpekJB0gHTAUFVX3lxTE1MZXRuUUVPanNkRWRLaUVuRE5rUVlsVWdjbldIUmN6S3pBZW1XMG1ZaWRiUmk0WDBmSmUtMDdvemtJSnY4bU5EOElpbzVjNUpQWnI5T3Q1OFB4SFNWN0ZOckVhVTlpanFESmhkeGNHVGM4bEt1VmMtTk9MRXpnYm9DeTR0UEluLWxEMTdULV9fdHB0WV9OeU5BeV9DbVNma3d5WGxiZFRDazZra1M2NVhJZUVkdjhleE5wS1hHUnBnZGVCR2VmQUhMby13Wm9RaGl6QkE?oc=5",
-      "published_at": "2026-11-09T22:00:35+00:00",
+      "title": "SB y BID entrenan entidades en economía conductual",
+      "publisher": "El Caribe",
+      "publisher_url": "https://www.elcaribe.com.do",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdlVVQTJlS0k2V1UyaWQ4Wk9yMUhfdVEyTzV2dlFDc1RFRi1XQ1VzMVpaQjh2MjRfTmwyS21MYnhFYjJBY0RPQ3NKbDZyeHoxMk5GUEVhQ3lrQklwVGt0OUszWmlSeUFybEFSTC1jSW94UEZIWTFyOUFUMENjWkRWRWJBNzRpcF9VNE0xWEIwb3ZkYV9KUkVwTg?oc=5",
+      "published_at": "2026-11-10T04:00:00+00:00",
       "topics": [
-        "finance",
+        "dgii",
         "securities"
       ],
       "economists": [],
       "economist_match": null,
       "searches": [
-        "finance",
+        "dgii",
         "securities"
       ]
     },
     {
-      "title": "Banco Promerica consolida su fortaleza financiera con calificación AA- de Moody’s",
-      "publisher": "El Nuevo Diario",
-      "publisher_url": "https://elnuevodiario.com.do",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRUhoWjFSbGNyb185bG81ZDJaWTM2LWVDWmFNX2J3RnVYMmEzekZTZDRxSmFHUUV1SUs5TDZfa2o1SXA1U3FSSHpNTTRDb251aGhEWmJHa3VmZjNwSERyRWpKVFl3MEd0d0t1NUxyNHlGekFrX0tORFAzMGZydkJ5NXdoYXh2VUNRdmt4YUJERkxCcFJUMWRGR2s0RzBfMmFBX1pNNHhILUQyS0VFWUE?oc=5",
-      "published_at": "2026-11-09T21:28:36+00:00",
+      "title": "Republicanos, demócratas y el déficit",
+      "publisher": "El Caribe",
+      "publisher_url": "https://www.elcaribe.com.do",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMlI0czVHcFdrYkp1dW9qRGlxY0tBeUc0UzhzZWZ2a2pFVzNzVjYzLUpFTkdkeUFMQ3RmNzlLbU0tNjNIMlBvcGlPR0J1SFMya3hpMndyR1d4aXc0b1o2YmV1ZlpGcmZQa0xsTVJ2UVRhR1M1RzdQMXlaa2FQbUNiR2RxOUZnY3FB?oc=5",
+      "published_at": "2026-11-10T04:00:00+00:00",
       "topics": [
-        "finance"
+        "opinion"
       ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "finance"
-      ]
-    },
-    {
-      "title": "La inflación interanual de octubre llega a 5.14%, según el Banco Central",
-      "publisher": "Listín Diario",
-      "publisher_url": "https://listindiario.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRTk0dW9JUzF5UlhNSW5ncXJUSWlGVHVSZHRHLW9sUkFCa3M3cm0wYk5HS1lRUl9EUW5fRkpsaG1CTy1uNEI5djhfVW11SEtfNmVyQ0NUV1FtaDM0OTN2bGhBcm1HRC1ZZmRWLTVJTnR4T1JJbTZGcXA3NmpOcEZnMWsxUkxHSER1TXNPLUpYWjY5X20tSGNFZDR2UDg4WUNucUd3M0FB0gGrAUFVX3lxTE95WmZob2ozRWJTVDFXRXk3VTE2ZWw5VDJDeGJDc2hEdnhvWTVVU0VZdFdqR0daNkJBQzl4Vld2WWxMRjlFamk2OWFRcG1RQU12M0x2cG8yQW5uMmpxa2tUY3gxa0tSWHUtV3JOY1YwdEpjXzZRSDBMQk4xUDZxZFoyRFZMVWhHd2Jhb2xSb1Q4MkRvZ0V3Vm9DS3R5NFdaTldLMjk5ZWppWWZqVQ?oc=5",
-      "published_at": "2026-11-09T20:35:56+00:00",
-      "topics": [
-        "bcrd",
-        "finance"
+      "economists": [
+        "andy"
       ],
-      "economists": [],
-      "economist_match": null,
+      "economist_match": "search",
       "searches": [
-        "bcrd"
-      ]
-    },
-    {
-      "title": "¿Cuál debería ser la ejecución porcentual del presupuesto hasta octubre de este año?",
-      "publisher": "Periódico elDinero",
-      "publisher_url": "https://eldinero.com.do",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRmRFZF91Q0NSZnRTS3hNSXEyc1gzbVBzTkxJYnA5TldpU2xhMWxQeHBMOXNNNDhCVEd3aVBobWtVWkx2YmtTTUY1aGpBY2JVelhaUGhFaDBvdlFZU3A3eHV3T1VhQkVmSkRzWjhtZDNESjJCOGp4NjV3a2F3ZjI5ZmR4UlIwQ2pHbnVPdWdBRHdoS3NSUzBLSjQ4ZmRaNkhmX1ZDaFo1YWY3bTRIb3lEZjR0SGE?oc=5",
-      "published_at": "2026-11-09T19:05:12+00:00",
-      "topics": [
-        "fiscal"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "fiscal"
-      ]
-    },
-    {
-      "title": "Trabajadores portuarios exigen al Gobierno cumplir ley sobre bono navideño",
-      "publisher": "Acento",
-      "publisher_url": "https://acento.com.do",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPLXNPenFQWjBmRlY3ankxWUZYbWc3NXc4U0p4NWt5ekNwWjVlUGkwYjhWSG5MTV9zX1BJTl9mZVhEUlhtTWZ5ZU84Tk5oWVVPRHlaRjZuNnNIcm92RWcyb1ZmbnZ3Yk9Wa0RIVjN5eTRnX2Q5LWh5TW1nV2k5Q0RxVVpCQ1ZJTHRPYVVSbndBZVIzZjJ3TnZmMVNIS0QtMnoyMnlaWmhreEc5T0NOa3FRYjNQekkzZ1ctLVHSAboBQVVfeXFMTy1zT3pxUFowZkZWN2p5MVlGWG1nNzV3OFNKeDVreXpDcFo1ZVBpMGI4VkhuTE1fc19QSU5fZmVYRFJYbU1meWVPOE5OaFlVT0R5WkY2bjZzSHJvdkVnMm9WZm52d2JPVmtESFYzeXk0Z19kOS1oeU1tZ1dpOUNEcVVaQkNWSUx0T2FVUm53QWVSM2Yyd052ZjFTSEtELTJ6MjJ5Wlpoa3hHOU9DTmtxUWIzUHpJM2dXLS1R?oc=5",
-      "published_at": "2026-11-09T19:00:54+00:00",
-      "topics": [
-        "fiscal"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "fiscal"
-      ]
-    },
-    {
-      "title": "BCRD reporta inflación de 0.58 % en octubre, impulsada por alzas en transporte y alimentos",
-      "publisher": "Acento",
-      "publisher_url": "https://acento.com.do",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTEdGUmdUd3ZQZS1mQmVMZXpiT2std1BGdmhjUUNaQWVQRjRaMlhDX1p0dGl6RGJEX21IdjVRNFpkaG81d0pObVBkZFF2Z2JmajlOWXBRdGpmWkZzajBNVnZqd2N6Rk5Nei1IeWhGSTlqQnk3R3JEeUdzYlZkY1NrdEJmejlBNnhGSzh6aHRnZS05QVV3QVpCVDJGRFpEOVNPdUFWRkR5dUJhMXlDWXVYUWcxV0ZDVkxBWmIzSE9FRUxQU3pZRGsxVHRJd9IBywFBVV95cUxOTEdGUmdUd3ZQZS1mQmVMZXpiT2std1BGdmhjUUNaQWVQRjRaMlhDX1p0dGl6RGJEX21IdjVRNFpkaG81d0pObVBkZFF2Z2JmajlOWXBRdGpmWkZzajBNVnZqd2N6Rk5Nei1IeWhGSTlqQnk3R3JEeUdzYlZkY1NrdEJmejlBNnhGSzh6aHRnZS05QVV3QVpCVDJGRFpEOVNPdUFWRkR5dUJhMXlDWXVYUWcxV0ZDVkxBWmIzSE9FRUxQU3pZRGsxVHRJdw?oc=5",
-      "published_at": "2026-11-09T17:00:22+00:00",
-      "topics": [
-        "bcrd",
-        "economy"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "economy"
+        "economist_andy"
       ]
     },
     {
@@ -206,119 +161,6 @@
       "economist_match": "search",
       "searches": [
         "economist_raul"
-      ]
-    },
-    {
-      "title": "Superintendencia de Bancos y el BID impulsan economía conductual aplicada al sector financiero",
-      "publisher": "Diario Libre",
-      "publisher_url": "https://www.diariolibre.com",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQaUVNRUFwSlVBd0YycE4tc3dWdWR0VzFkWjNsd3pDVHpCTmFoSEg4SHF3Y3NtWXJDVkJ6dG1DZXFlQ3FfamZaYWdlSUloa0dfejlhMXlKYVpYV0pBRDBDemlVYjk4Zjdxa0hwTkgyRzdzQWpoRktDS19aNTZkVTRwUjlnUTFsQ0JuRkVNOE95TFoxWnJKVHFHUHVpMUYtdmFHVVg1WFlacU9BSGEycWkwNFJwQ1BLYnBHR0ZPaU0xeXRkM01yWUoyWWFhSmMwd9IB0wFBVV95cUxNRXkxZWZwakc5MzBlTUVpb2RNY3Z3ZUpQdVpHWlMzc21wQjNDdngtay02RG1uYmo2aGhjZWR3eUtnNzJXYlhtV3FQU1JjNFNpRHJhbjdxLTZEeFJoNzdwRmVyRTNnY1pxVWFEQXQ2RHZUSkl4Tk1qUkZtcmZmczNGMEdDTmRNNHlOTkttNmdyUmtKTmk4aGRYbTZBeW80eFhNZGhKR0loYTVUWWVSX0tFY2NpNmlWUEdMUUFMbXFWUVp6VEpYTzdvd20yWElWZUdnUWpV?oc=5",
-      "published_at": "2026-11-09T15:14:00+00:00",
-      "topics": [
-        "finance",
-        "securities"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "finance",
-        "securities"
-      ]
-    },
-    {
-      "title": "Superintendencia de Bancos y BID promueven economía conductual en el sector financiero",
-      "publisher": "El Nuevo Diario",
-      "publisher_url": "https://elnuevodiario.com.do",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRU1KSTRtUnNYTll0amFHOERzUG9ZcTZYZmt2aTdqM25vQWM3UF9udGRUaHlldnIwNXVTdE1iMHNsbzlnaXdGb3ZXX3F6TDJNSG11cm5ud2NpUTRWNGYwY3dIaXJIYnoxcmtKd1oxTG9zZzdNTVBkVXJ1a0hRY2dSYXpSUUtMSjRsaktPOHJLT05mRGQ4bzk3SzduLW83VUl5OTZYS3FXVVBnUVpubi1xV0lvXzZmMFE?oc=5",
-      "published_at": "2026-11-09T14:53:13+00:00",
-      "topics": [
-        "finance",
-        "securities"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "finance",
-        "securities"
-      ]
-    },
-    {
-      "title": "El choque energético global empuja la inflación que sube a 5.14 % en octubre",
-      "publisher": "Diario Libre",
-      "publisher_url": "https://www.diariolibre.com",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcDNzYlBremdBc0cwWTJXTG5acFVmUmdWMlE4VFRpR1BlaWFaX2JQWVQ0WkJEbU9kNWRMamNJbGY1ZlVtZ0l5VXFuWlZaSDFfektwdjl0b2l0U0RKbWlDZEdVNGhnRUZxc1VwU3hzOXE4Zjc1bUtaZzJaelRZTTY5RTl4X0VFb3ptRnBrOEF1UWRPNG90N2swYTdDa3ZrNU5MV1ZFOFNBWFRfdDRDN1cwQzJZZ05sbzU2TnNkYTk0a2lnRFJfWFNWTF9n0gHPAUFVX3lxTFA2QkMyMnNMbm5uZU5HYmpaU2pmTldVZXotMzI0ekdiMlUzY3E4OWhWaXhwU0dKeTlySHZlTDRXd29rU1JYNGN3eXAzNGpVVl9EbjZ2UDlPbUJQY1RvT0d4cDBfcjZ0Q3BTY0dsRkoyb0tuQ0Q3TkJxXzByMlhHOXROdlhaUmhtNkg4aUI0cXhYOFZQVkRZS1poTFAxdGRHNkxyZHk3cklJQlMzUGJtTjhmTlNkZWkyRDIxYUhmem1LVHVlN051MHdIQ1NWdDBTdw?oc=5",
-      "published_at": "2026-11-09T14:15:00+00:00",
-      "topics": [
-        "economy"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "economy"
-      ]
-    },
-    {
-      "title": "Banco Central informa que la variación del IPC de octubre fue de 0.58 %",
-      "publisher": "El Caribe",
-      "publisher_url": "https://www.elcaribe.com.do",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM1NISEdUaXl2VlE3WUF1ZGJNMHlUZDlfVUVKWTBIWmIxT3UteW9TcUtRcU9lUXZhelBKNVZEaWhtS3VXSG1rbmY4blk5Xzh1OFZYWEh2aTl4OFpwMTFyODBrZVdjZE1CQVZaSVlPd1dHdHRFbkNkeFVPTklLaWRfWkxSaGZmRlFEOWJHdml0eUZzZmpOQTRXNkoyOVZOVzdyNW40SEpIaExTQVU?oc=5",
-      "published_at": "2026-11-09T13:04:08+00:00",
-      "topics": [
-        "bcrd",
-        "finance",
-        "fiscal"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "fiscal"
-      ]
-    },
-    {
-      "title": "Breve historia de los logros económicos del Gobierno agosto 2020-2026",
-      "publisher": "Hoy Digital",
-      "publisher_url": "https://hoy.com.do",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQak1ZcUZpeC1ldThTS05NbnpjT1UzNm95YktTSENNWnRQSXVxelFyeThhUkdFbXdJU1Nsd2ttRlR4WUJvZzVEN0hsT01qNW9YQmJXZV8zMUV1WV96NGtVUjhvWklMRmlCTTlhdlpYMUpPYUE2bWlGb3lWempULWpLU0NuMjRfVVdiTjZ5ZjllbnFISEQ0TU1qMThpclVLMmRDY0lRZtIBpAFBVV95cUxQak1ZcUZpeC1ldThTS05NbnpjT1UzNm95YktTSENNWnRQSXVxelFyeThhUkdFbXdJU1Nsd2ttRlR4WUJvZzVEN0hsT01qNW9YQmJXZV8zMUV1WV96NGtVUjhvWklMRmlCTTlhdlpYMUpPYUE2bWlGb3lWempULWpLU0NuMjRfVVdiTjZ5ZjllbnFISEQ0TU1qMThpclVLMmRDY0lRZg?oc=5",
-      "published_at": "2026-11-09T04:05:00+00:00",
-      "topics": [
-        "economy"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "economy"
-      ]
-    },
-    {
-      "title": "El costo de los combustibles y su impacto sobre la economía dominicana",
-      "publisher": "Diario Libre",
-      "publisher_url": "https://www.diariolibre.com",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQckJhTHRiQndDUDdQQmZsXzVMbld3OWtyQzNZd0RDVXF5aE5wOGJkUWx0eHhzTEd5Nm9VaGoxVVlWSDN0ZnVPSU9jMWxoVGt5STBfVlN3RG5kRDRrT3ZOYm5hc0EwUEpaclBubFJuczhWMlQwTUE3S1k3aVZBM09pcHBjaEw5THRtRExaYkVYY2lpYkJqckF1ZlQ1bml1NmN6NGtmanB6X3hPZVZ1V3ZZdkVBQ05ySkJTbWNmbHQ2bko1WWdVc2ZCeTlOVdIB0AFBVV95cUxORE9qaDFfckVjUW1fbng0Umd1TnFCaDZkeGFmYVU2RnZYWVJ1ajR3YkQyMW10ZkRuOXlhdjJoNHJhLTRza2VxZnFNdG1IYzNteklpaUpsdHkxWWVTUGtYQXk1ZFFDZkhXbGlPbzhEcmpLRGp6U3RTM0Z6X0JxNV9JQnJZWGVDdUdCcFAzaHBsU08wWGpUQUQ2YWwzbFdxU2piWXNMcldTM2Zsdmx5QWZFblBqZms4Z1pCaVBpeWFmQkVzVDNld2pxV3JyWUFZWXNu?oc=5",
-      "published_at": "2026-11-09T04:01:00+00:00",
-      "topics": [
-        "bcrd",
-        "economy"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "bcrd",
-        "economy"
-      ]
-    },
-    {
-      "title": "Banca local incorpora lentamente los riesgos climáticos en créditos",
-      "publisher": "El Caribe",
-      "publisher_url": "https://www.elcaribe.com.do",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNenY3MHVwVW5VOU9Lcmh3SFhmN1hENE1SU0k4TUtlZzF0NmJ6QzlUSTl1OC1fTFlPY3RNTUVwSUdDdmxjOWdzczZqanpuZ195Z0dETXFQMVpwRlFUUkhaTlVhVWRCLVZBNlVZbTV3RGZyMi1vbWM3ZHR2cUtjbURzV3lBNXQycmEwNXNrODBzSk1hUm1xYWY4b2JsUUdQYUxVY2pydmRPQU1yc2sxSEpKU1BR?oc=5",
-      "published_at": "2026-11-09T04:00:00+00:00",
-      "topics": [
-        "finance"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "finance"
       ]
     },
     {
@@ -546,57 +388,6 @@
       "economist_match": "search",
       "searches": [
         "economist_andy"
-      ]
-    },
-    {
-      "title": "Ministros Yayo y Magín abordarán este miércoles la nueva realidad de RD ante crisis global",
-      "publisher": "Periódico elDinero",
-      "publisher_url": "https://eldinero.com.do",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOT1lFRzl6OW4yeExDeXc0T0Rmdk13VDB6WGY3Tk1XZURNLUtEbS1IR0tQT09jS2JxaU1rT01WWnZRQ2xhYU02Q3NBYUVjXzYyeUt6Tm1uMWlTcVpvZjBnS3E3UmZmekRLSVNUR2VmT0ZhM2o2R1czUFpfM3BIdzltV2xUaEZ1WGUtSUdkemxQZDRWVXZLZnNYejZmODQta05rOWlYQXprVlh5bFRWWWc5VnRZMkk4YVVNUmxPVXhxZw?oc=5",
-      "published_at": "2026-11-03T20:41:59+00:00",
-      "topics": [
-        "opinion"
-      ],
-      "economists": [
-        "jaime"
-      ],
-      "economist_match": "search",
-      "searches": [
-        "economist_jaime"
-      ]
-    },
-    {
-      "title": "Ministros Sanz Lovatón y Díaz abordarán nueva realidad de RD ante crisis global",
-      "publisher": "El Nuevo Diario",
-      "publisher_url": "https://elnuevodiario.com.do",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOLVhfc0RSS2Jjc3cxZ0hNa0VRZ3dKM2tTdkZWbmxLYldnTnRkWlJnSkEySVozOWp1SDZKWldOa0pKNXlQSVJmRUVtSmxOblZFalM1LTBYeklmUlE0MEd3U0ZsS3lLdmg3YzdfTFhDczFSRjg4Mm5uV21RYTBLZzl4c3pGS2VOamdIUGRHaDNIc3RVb1pFTzZjbEV4UHQ4YXJZcy1jUG9qcldkdXJOZFE?oc=5",
-      "published_at": "2026-11-03T14:21:45+00:00",
-      "topics": [
-        "opinion"
-      ],
-      "economists": [
-        "jaime"
-      ],
-      "economist_match": "search",
-      "searches": [
-        "economist_jaime"
-      ]
-    },
-    {
-      "title": "Cinco etapas de un duelo energético",
-      "publisher": "El Caribe",
-      "publisher_url": "https://www.elcaribe.com.do",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUVhSWjNieE9vLUJxRWR0Qi13SFhtYUZlcFNncTZJSXlKUnZvLWpvaWFYczM2ODdybHNCMmNsbzZIMlFOZ0FmdTM0ZDZ5Vmg0VG1uZ2k4OEJXb2ZoanNYUk5ZanN3ekhvR2p5SEVwQW5ZZ0ZhOVJUVnFGaTBpb3EzUmVaOUdrbUE?oc=5",
-      "published_at": "2026-11-03T10:58:34+00:00",
-      "topics": [
-        "opinion"
-      ],
-      "economists": [
-        "raul"
-      ],
-      "economist_match": "search",
-      "searches": [
-        "economist_raul"
       ]
     }
   ],
