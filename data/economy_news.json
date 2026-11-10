@@ -1,7 +1,7 @@
 {
   "date": "2026-11-10",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-10T17:53:39+00:00",
+  "checked_at": "2026-11-10T23:25:20+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -38,17 +38,17 @@
     "finance": {
       "ok": true,
       "error": null,
-      "count": 2
+      "count": 3
     },
     "securities": {
       "ok": true,
       "error": null,
-      "count": 2
+      "count": 3
     },
     "economy": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 2
     },
     "economist_andy": {
       "ok": true,
@@ -83,11 +83,72 @@
   },
   "items": [
     {
+      "title": "Superintendente de Pensiones destaca controles en RD para evitar crisis como la de Paraguay",
+      "publisher": "Hoy Digital",
+      "publisher_url": "https://hoy.com.do",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVjh2MUU1c3ptQklFTmJpU0xtU084b2JNUFBvZGNBeGNqb0pDT2N5MDcxQXdhS0FkcnZuck1sdXQtM2lsUWNYamlUWWJFMExhNUhZQjJ2aFR2NjBCNWh4bWdVemZFVVFleXFFdjBGQWZnbHBrcFdpeTBUeDV5UGpwZkVGeWNicmNRd2NxSl90enFiSkp4MXFmSlJOTnBSVmZNRnlXbHI5WC1JVHRJSnNZ0gG0AUFVX3lxTE00cmdNelprd3dKQ3Y2SU5LUEZzMXhic3EtY0V0U2Iwa0JMZE50Z0owTTZFQmRNeXBWWlNCVEZscXdUTHRiSUtqNG8wX3Q4elU5VXpHb1l4WjdZWXpSNWVPWm1Md05QUm8wMzJKNzI4SFFPUXBMV3Q0aUhkMl93WXowNUVQQkdJd0VmV0E3Z0RLdlk0dndaY0VEenZlT2tsbVF3UlN0MzVsR3dLN0hSM0VTTF8xRQ?oc=5",
+      "published_at": "2026-11-10T22:36:05+00:00",
+      "topics": [
+        "finance",
+        "securities"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "securities"
+      ]
+    },
+    {
+      "title": "El 79 % de los bancos múltiples en RD utiliza inteligencia artificial",
+      "publisher": "El Nuevo Diario",
+      "publisher_url": "https://elnuevodiario.com.do",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQ3hpazJ1LXNMbjRPbUczaGg1Z3lIQmtCZXI2YXFqdWFKZzEzVzdybFVULVRVU1h4YjBQYXhWYVJhU2lXV3J3OXZLNDN2eHZzRWNvWDQ3ZzdEbW1GX1BVYzQydmtXT3VoVlZUY2NJSWI2cm1fSW05UW43UWhxc003d3Y4TTdZbGxmeE9GUS0tRngyb2dTWUV3cEJnU1VzQQ?oc=5",
+      "published_at": "2026-11-10T20:17:54+00:00",
+      "topics": [
+        "finance"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "finance"
+      ]
+    },
+    {
+      "title": "Felaban advierte que El Niño podría afectar la economía y la banca de América Latina",
+      "publisher": "Acento",
+      "publisher_url": "https://acento.com.do",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUmYwcG9PNlJnRTJkU05STi0xZlk1R1BfNnAtR1RHQXpSbTlnZWhTaUFReXJaY1Z2ZkR0UVhvZDY2RFd4QkNoZGhmOEtFNlY4emxIOWZiSmRCX0pJMlhpc1pZNjVJU2RyLUFuQk9OUnFsR3d4UElIc09HUmN2Y2tlUFJGRDBDR0REYlNHUVBRSmlPZmhFdDFFSy03YUdzMXJsTkNFTTBOVlZQNzZ3cTBvLXRna1dyRjV3ZkN1TXlEV0NBandLbzd30gHHAUFVX3lxTFBSZjBwb082UmdFMmRTTlJOLTFmWTVHUF82cC1HVEdBelJtOWdlaFNpQVF5clpjVnZmRHRRWG9kNjZEV3hCQ2hkaGY4S0U2Vjh6bEg5ZmJKZEJfSkkyWGlzWlk2NUlTZHItQW5CT05ScWxHd3hQSUhzT0dSY3Zja2VQUkZEMENHRERiU0dRUFFKaU9maEV0MUVLLTdhR3MxcmxOQ0VNME5WVlA3NndxMG8tdGdrV3JGNXdmQ3VNeURXQ0Fqd0tvN3c?oc=5",
+      "published_at": "2026-11-10T20:00:12+00:00",
+      "topics": [
+        "finance"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "finance"
+      ]
+    },
+    {
+      "title": "Haití concentra el 40.9% de las exportaciones industriales de República Dominicana",
+      "publisher": "Periódico elDinero",
+      "publisher_url": "https://eldinero.com.do",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbVNHSzNVcnlhR21oSDhaeVA5Qi0wSm5GMktRVkpZTmhvd3owQ1UwdnFQMHBWdUw3SFhqWmJXRWF5bDVjazlfNEROVWNrWXRfMzZJTVlqUjBtcmJXZ0NwWGlHTTgxckNOVEZ5aXdXQzNYOTdiY1prUGhVTFVYRWJST2RIUFkxOXBSeU82cUI2RGNsZ2F6Tk1NMVBwSnZHeTUzN0kxcGVtRDJ1X0o1TEFsRmxjUQ?oc=5",
+      "published_at": "2026-11-10T18:12:24+00:00",
+      "topics": [
+        "economy"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "economy"
+      ]
+    },
+    {
       "title": "¿Está la República Dominicana al límite entre la deuda y los impuestos? (II)",
       "publisher": "El Nuevo Diario",
       "publisher_url": "https://elnuevodiario.com.do",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdnRwV3hFV1NRbXZlSTZPOU0tT2JhU0FScXlXZWtNQ1hCTk54NTl0eTg1ZDVZUk4xSV83N0Fhd3JtSXlxQUxhcFNzd1FhRjNRM1ExV1BlUHZLOUo5cDRWek04ZzVMMnB0TlkwdHUtbFdlOXlQLTQ1Q2wtaFNVRHp3eGkwbWk5SFBIWDgydXc2VDYwY0hKQUZzSlYtMVVuQ2tzLVdKWQ?oc=5",
-      "published_at": "2026-11-10T17:02:09+00:00",
+      "published_at": "2026-11-10T17:12:10+00:00",
       "topics": [
         "dgii",
         "fiscal"

@@ -1,7 +1,7 @@
 {
   "date": "2026-11-10",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-10T17:53:40+00:00",
+  "checked_at": "2026-11-10T23:25:22+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -14,35 +14,253 @@
     "rd": {
       "ok": true,
       "error": null,
-      "count": 2
+      "count": 3
     },
     "centroamerica": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 2
     },
     "mexico": {
       "ok": true,
       "error": null,
-      "count": 3
+      "count": 5
     },
     "usa": {
       "ok": true,
       "error": null,
-      "count": 14
+      "count": 21
     },
     "europa": {
       "ok": true,
       "error": null,
-      "count": 15
+      "count": 26
     },
     "global": {
       "ok": true,
       "error": null,
-      "count": 18
+      "count": 31
     }
   },
   "items": [
+    {
+      "title": "Biofarmacéutica Takeda anuncia nueva directora de salud en México; buscará acelerar la innovación en el país",
+      "publisher": "MILENIO",
+      "publisher_url": "https://www.milenio.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUkh0ODE0UlduazBfX0FlTHpESkxTdFUzd2p3WkdHVm5BYXA3TEJXN21NOUNoaWpmM1V6amFEd2M5VW42bG8xd1VNRTFjMlV0REZSdFJMOTY4RVRMeGxMWHhDS2ZYMC1rUHdZMmN4dmZ2eUZ3SFR4WXRLWkdUcDVOMjIyMHoyamhzei1zR3ZNdTE2eUktTENZ0gGXAUFVX3lxTE9VMkVLdFdaS2FjVE92dUVXRUZWMlhYQURfUDFJM2hLZjQzb2k0VjRkZ1BkYWx4U1dRRjVCN2NMc09LU3Z2a0pPTW52WE1oeU1QXzJzdkpBR1dITXNUYjU3bHJfU19wdGd2aFNOc3Btczc5TFcxbGxHczQ1R3I4bUlfQ3F1ZzZqMXlaQ2drWGFFUDlzbVNlQXc?oc=5",
+      "published_at": "2026-11-10T23:10:00+00:00",
+      "regions": [
+        "mexico"
+      ]
+    },
+    {
+      "title": "Drug price hikes in Germany could cost health insurers extra $6.2 billion annually, study finds",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTDYyckNEcE91d291YVYtLWtUR3ZibU9qZ2wxSjdXU0VBZGV0UEc2MTdjak9wMVpleTlEV0xFSHg4eFU4b2dYcWFCdWxSMU5rcndzQjBiOFZOQkszZUw3OXk4QlpDVHAzQ3lsVnQ4ZzRweDB0VjM3T01COXVQejV4Rkw1XzY2WTBGZTVkQzd1UWN0OHBVUlNnb25DS1UwSmZBOVVOeTc1dUNIZDJwTTJ5RVZ3OFdQTHZuWXZqODhvanNEcHBaTmpodzhR?oc=5",
+      "published_at": "2026-11-10T23:07:43+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "Merck KGaA lands FDA nod in rare tumor disorder, portending Ono, Daiichi showdown",
+      "publisher": "Fierce Pharma",
+      "publisher_url": "https://www.fiercepharma.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMFRvbkJoanZQWGVfQWNGbzV2NEZHRV9zdXVBWjBBMVlUOFZXQmMzM0xiQ0t1QlRNbWxlVVF5bnpJb0xHNGRTc1JyMnpNSmpZSGpEb3NRekNVZzhtNVVTdDhPR09OLWx2aTB3ZzM5NjJpN0pWWFJnYnRVTGczb28tMUp6M2YtVUU?oc=5",
+      "published_at": "2026-11-10T22:45:36+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Trabajadores del Hospital de Amatitlán denuncian falta de medicamentos, hacinamiento y deterioro de las instalaciones",
+      "publisher": "Prensa Libre",
+      "publisher_url": "https://www.prensalibre.com",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQRFRRMG8xLV9MSjd6dGJaUmV5S1JwMHp5bjA0WmV1am0yeklYeDJhVVpvOVZQOW5ZMkZfVEJuUjBmWXNyNVkwa3hBWUZHb2dLdUhQM0JIRU9YVExPSHNCeEdVOGVpdHM0d0c5TTV0RllIbU1uVUVUaVB4dW5KYlkxNVNjOGhHWGRrODlPMGdsOWlubTloS1dxcnB1aEVvNlh1MWlDeDFFekRrajd3cVdCd2VtbW1NMVlJSTBBdkd6TUNiT01BUmFtQUdka2l5ZEtXVEtLTWJpR3d0aUlyZHYzbG1OZTZraHRuY0JZOUlPSFlGd3JRRjFTNXBiSQ?oc=5",
+      "published_at": "2026-11-10T22:30:37+00:00",
+      "regions": [
+        "centroamerica"
+      ]
+    },
+    {
+      "title": "Francisco Javier tras muerte de paciente que solicitó medicamentos: “Las autoridades deben salir de su burbuja”",
+      "publisher": "El Nuevo Diario",
+      "publisher_url": "https://elnuevodiario.com.do",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRWkxSThEd3pZbkt6cDFwWDgtRlJKN1plOGs4LTRDLTRkNmRhV2JQYUxmT0tXb0loOER2QnZBN0w4UzlCSGpQOVg4Q0JrSVk0TVE2Y19VelNGQlhYN2REbmNIMUVFV3RjOWR5VG5NenE0YVVzY2w5aHhWQmpvTnZtWWYtVkZUR2hFOG1xeTQ5cDFCRWlnX3ZTTnVLNWE1b2tGTW5TQTV6VUVUUmxwV1p1RGZQWWFJZWFpZGVsTl9EQUNHR3FKQl9pdEttUGh5TURwQTRONQ?oc=5",
+      "published_at": "2026-11-10T22:23:23+00:00",
+      "regions": [
+        "rd"
+      ]
+    },
+    {
+      "title": "PepGen soars on promising early data for muscular dystrophy drug",
+      "publisher": "BioPharma Dive",
+      "publisher_url": "https://www.biopharmadive.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNX1A0ellWZlJNQm5XcWJYdDBiS1NkR2RSYVVoLXpBaXAzMXAxOGNCZkgtSDFEQzhzZGJOMDZpeXc5SXBKSzNYWXZXS09LblBHUzkwTmZubDlZZFM3a1dGLXJtMUdwMVJPblVBN1p4dzFlaXJva3c4WWhaMTc5Q3hrRUNXTDdXaFIyZWZ1S1htcHo4ei02SmlqTQ?oc=5",
+      "published_at": "2026-11-10T22:09:07+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Stockport Drug and Rape: Barbaric Fantasies",
+      "publisher": "BBC",
+      "publisher_url": "https://www.bbc.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5zblZZbTAtWWhJR1BMd0VtdFhnZVhBS0pULW42Q0lkNEp1cWpXTzhqbWJYZF92TkRpYjVkXzNrVC1pd3c2dzV0ZmxPa0YtWXFRVFM3bw?oc=5",
+      "published_at": "2026-11-10T21:43:09+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "In Court | Stockport Drug and Rape: Barbaric Fantasies",
+      "publisher": "BBC",
+      "publisher_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9VMGY0WVFNWjU1bzU5cjhjajVXTTBTT1FFak9VZHlkRTZKS0V4VXBkMHBmd2UxMFN0cXdjSnFORkZrd0RicXRSYWw0bXBZZEh5?oc=5",
+      "published_at": "2026-11-10T21:16:25+00:00",
+      "regions": [
+        "global"
+      ]
+    },
+    {
+      "title": "FDA identifica posible riesgo en usuario de Ozempic y otros medicamentos para la diabetes",
+      "publisher": "La Prensa - Noticias de Nicaragua y el mundo",
+      "publisher_url": "https://www.laprensani.com",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZXlvbHpKMGcwU0VKN0tlVVpSclEyY0VZQ1BVMW02QUczSk5ONVhXQmVpNF95eFRja1hBRldWZlRsYnBIcXBxWXlwZ3ZzTHVLOGNJT211QktHcDdyVFd0bk56NE9ZdGh2dWZOUDB4cERXdmRGOG90eGxhTWZ4dlUzSktYcXJKblBFZmlyS3htbGpzWXZXMWkyWE5tb1NYbjhTb3ZsUEdVS0QzX3Jmc0t1d2RsMTFVMndxWE9GdWQ4dG5iWlNmMGxWOEVaRlBDQ25Da0UtT0ZjMjZfbVQ4dm83VFFWRlYyQQ?oc=5",
+      "published_at": "2026-11-10T21:16:00+00:00",
+      "regions": [
+        "centroamerica"
+      ]
+    },
+    {
+      "title": "The Multi-Vendor Problem in Specialty Pharma -- and Why Manufacturers Are Consolidating",
+      "publisher": "Fierce Pharma",
+      "publisher_url": "https://www.fiercepharma.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQzJGWERUZk95Rm9EaVRUMERGeG42U3E1V0EycHRfbVFFYWlNOFpteHVmYnFSLXRjMGtGcHV3QUFNbFFBZ0ZQOGFZWHVXMTV2bE5VbThhTWJsbFJEWllBOEVEamRhYktFYzJ6elY0akREaVk3Qm5EbWZHU2ptV0tocEg3aFBvekVWWlo5SDRnb2lqM3NtVUVIdm1jZjNSQnY5YldlZXk4dV93S2szRnBGekFQTGE1dw?oc=5",
+      "published_at": "2026-11-10T21:14:01+00:00",
+      "regions": [
+        "usa"
+      ]
+    },
+    {
+      "title": "CUMBERLAND PHARMACEUTICALS REPORTS Q3 2026 FINANCIAL RESULTS & COMPANY UPDATE",
+      "publisher": "Financial Times",
+      "publisher_url": "https://markets.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQjBydFhGYk5yVkpPU0VWWTRXa3J3OU9Xd0tJaV9hUHVvSlJpWHFxN1B6N3Fpd1JoSHEyblREVjZnUmJYWjdvMHhJczlYOHB6RHg1UHllUzItSFE2eGtkVi1vbmVXMGpKdkhZQ2xHQi1zbkRwaC0xYVczNXhhV1N3cjdlM1NKYkhEZzc2WjdUZkFOeERJRERmcg?oc=5",
+      "published_at": "2026-11-10T21:00:00+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "FDA warns of rare eye condition causing blindness from GLP-1 weight loss medications",
+      "publisher": "The Guardian",
+      "publisher_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPc3B6dHJQa0tfRnFMY3BHeWZ4RFprSVY1N01Va1Y4NkxHQWNVN3RIZUJnMWx2TXU4czJXVFRXRmhSNGJOZ3hRMG1XLTUwYTQ5V0tVc01JRzlRWGEzaEx5Z0h5SHpCSENRZVFoTWhRRTU0U01WNTA0VXJMX2E2UGpuNG9vYUJISTVPUUZCOQ?oc=5",
+      "published_at": "2026-11-10T20:20:00+00:00",
+      "regions": [
+        "europa",
+        "global"
+      ]
+    },
+    {
+      "title": "Pharma firms’ focus on weight-loss drugs could put insulin supply at risk, experts warn",
+      "publisher": "The Guardian",
+      "publisher_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWDZCT0N5T1hSTXBHbkprMkFGNjA3Y0psazB6Tk1NdFJ0b0xfTjZzTXhZbUtubHgtbEMxYkx1UlJkRzE5ekFGeHU1UzRJaUFGTkpxdTUyWldnLUtHODhiOXAtMkdrS0xCRDBzR2trRTJmVERKc01RLUxZWTZxb0VXeHh1M1M3YjJSaEtQNGJHbkdIckFsSkcwUE15azJhVktVMnN0SGt1VHFhWDgzUG5z?oc=5",
+      "published_at": "2026-11-10T19:27:00+00:00",
+      "regions": [
+        "europa",
+        "global"
+      ]
+    },
+    {
+      "title": "FDA Approves PIMJETMI® (pimicotinib) for Patients with Tenosynovial Giant Cell Tumor – Company Announcement",
+      "publisher": "Financial Times",
+      "publisher_url": "https://markets.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdDhudjctU1puSW9iWXBLcEI0djUyNVFCTlVmLWFmZk1aWEJWakQ5YkpfRUJVRldhYVg1eHpSNE1pYnFhZ3ZjN0ZmWDBuMm5YUkE1NkZReFVZanU3NEdlaWFLYUZpWlJsY3NLRHJGRzJXWmlUemx5dzNLVndrblcwRkU3Y0R6cmpJT3hyeW5oNlZfSzQzaUN4SDJQMWZJNnJqNWhSZGpn?oc=5",
+      "published_at": "2026-11-10T19:23:00+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "Summit sheds commercial leaders ahead of ivonescimab's FDA decision",
+      "publisher": "Fierce Pharma",
+      "publisher_url": "https://www.fiercepharma.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYV9qeG1oV0JPSDhxY3pFTUMta19sZjd5emN4dkV2UDN1elUzRlIxV0dpSENOdXJyMDlUUnVSR0VCRUNneUxyWnB0clRlRElTMVBuZTFNZEU3N2lBZWVKc1VraGhsTThhMUFKRFRxUXJJVFN2MHlrMW42R2xWd3FyalNhNGw5VTNWSnA3U0VjMTNQVXpyZ0N3ZmxIYW5ZQmhPdEZyeQ?oc=5",
+      "published_at": "2026-11-10T19:12:09+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Makers of GLP-1 drugs ordered to add warnings about rare eye condition that can lead to blindness",
+      "publisher": "BBC",
+      "publisher_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE02N2prd0FUZWRGTWdTOGlOMTg3R1RmR0pOMllPSWt1bjJReXFaSm9ON0tsdzNLWXBhbk4xSnlDdGxjbTRSLTVjcVQ3azBsUGFkbDZwNjFrc0NwdGc?oc=5",
+      "published_at": "2026-11-10T18:43:04+00:00",
+      "regions": [
+        "europa",
+        "global"
+      ]
+    },
+    {
+      "title": "Vatican investigation into the Sodalitium reveals ovary removals and the use of psychiatric drugs to ‘treat’ homosexuality",
+      "publisher": "EL PAÍS English",
+      "publisher_url": "https://english.elpais.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQb2ROSkdhdW9ianhmdExrVmNJZHpSQnc1YnRrWWg0QXE4WXJNMGVKWGNXZXdHSlgtRUZueGY3VjJHbGtCR2JjWE9YekR0WklNLWdWX1hJZXZ3V3JucXBtdE1BZURvcUFkVUFVTHdmTE03OWctaU84NUZzM29tV2JDc0xYTW43dGtuMFpZQk5wdURNc210SmVEdTJVUXVmV3ZhdlltM1pYNzRBLUp4REVZRVloLWJSUEhpRThyMUNNa1FRVWdWeTM0TFdobFJ6cWQwY3NBLUhvdGlaNmVQUEF1bUlFQjdXR25GbzZESEFmMndwejNpVDh5bENqWjhnazlWWFhFVmk5QXbSAZwCQVVfeXFMT2tYc0RWQkgwbkl1TzhhU25od3RsSThJajQyMVNvc2tScVd2bG9uZWhYY3VtcjZCVlZ5Wm95UU51MGxMQUlPbG9WV3R0eVp1eXZBaUNCX2hmaGd2ZmRza1VWTU5aUXN3amdRckRQNXAyMFgxTlQyYW1JSzUycmRONzc0Z0ZwZ08zaENaNXp1aWlta1NnSk9kbXN0RTlybVZkVG1yMjlDRTdKemh0ZTRnTTUwS2duVFFzbmpZWmpmRHlrcUF1NWZnamZacnc0N2Q5Y2Y4NEdJelpiZl9OV0NDWktLaERZQkNQajREYk5pZ0xLU3ktU2dpdV9jR2N0aXhRV2lLY09ZUk42NERkLTBkb1N1eXhhM0xVcXdaLUw?oc=5",
+      "published_at": "2026-11-10T18:33:23+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "UNAM dispone de 100 mil vacunas gratuitas contra Covid, influenza, sarampión y neumococo",
+      "publisher": "El Universal",
+      "publisher_url": "https://www.eluniversal.com.mx",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQTjliSmxBNDQtZTlpdjN6a294Y1BPZ0pQX19FRFhNVEY2bG41VThSZXpQdFgtWHpiNlJHNUE2X0lYY0l6b21kQUxfeFlfQi1CQkJyWE1oalUxYlJCRG1xZUpiRHdOeGktOWZIRW8wX01mUW0xRkVZWlN0WjNNUHlrLWNnQ3I3d296alEwTV9wenlMSXZ6Q2FKdUVqemxsZGNMQ1F6ZGVRODhWM0loeHFEWi1uQU5xbmIwMXFuSG5YYzlObkJ3V2VyUWN4T203d01vUm9xVEdvczFZNnlucWZfZjJCXzZnOVplWnfSAf4BQVVfeXFMUEdBaGdUQWg5Q0pkYmZ6akhvOUlVbkNIazE3dDBiT3ZCeFUzcWpQQjRObWE2V185bFlCZFdLbmxGby1YWnMxTFNqeGRWODQxNTRNNDQ0OUFzMGtheXhGWUpCRV85bE00M1dOUUJ6ZDY3VlFJU25mbkRmYVFUYmZtTGRLVWRzb19MbHpHMDBuMWtHY0EteE9Ka2p1V0ZSZ1ZSamFrYWZ6MGVPay14OElrNnhkRG1LMzViak5IcWJJRUpjb2VkTVlhckppbWdfeU8zWmNiN3pKZDJacmhnNlB0QmJtbGNCdkNCZWVpSTR1S21sLXE5VVMxUW9RZE1hTmc?oc=5",
+      "published_at": "2026-11-10T18:23:40+00:00",
+      "regions": [
+        "mexico"
+      ]
+    },
+    {
+      "title": "Former Eli Lilly rep claims she was fired for complaining about marketing of Mounjaro diabetes drug",
+      "publisher": "STAT",
+      "publisher_url": "https://www.statnews.com",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOU3Vfa3FCUnpGVEtydk5yMHM1Qm9wT2xMMGQzVlpPVlBsaGlEM0FTOGtiN0dNMVcxWTFScmxCd001eFV2U2xsVmtuelNfNzB0VVQxWFBWUGxkaWVYSW1oZmJjVEVGTW05cGJrOHBUMlBEcjluTGhPVmNLWG1lTGtKdzJ0UnZDM2VmOWJfaWJqTHNxQ0NPQVl6a29HYU1sT0hicG9JZVNucUhZUkZ3NmMweTgtV0RtMVVsWnhIN2dhNFhvS1VWSHN1V0d6dVBMZzQxbUZ3YmxIVlI2dw?oc=5",
+      "published_at": "2026-11-10T18:04:58+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Gang members jailed for plotting to kill drugs boss lose appeal",
+      "publisher": "BBC",
+      "publisher_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9JQnozbnpBNE1FdEpBX0ROV3hNNURINUh5a2dIXzRHalJUMFJQdS1SS2I5aE5TLVBwb3RzNTFWenp2R1NLcGF6N2VCMUh6TXE5Y0VCcUlwYlF1RmM?oc=5",
+      "published_at": "2026-11-10T16:54:49+00:00",
+      "regions": [
+        "europa",
+        "global"
+      ]
+    },
+    {
+      "title": "Mums v Big Pharma",
+      "publisher": "BBC",
+      "publisher_url": "https://www.bbc.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE51NWFoa3JoM3lka3h3Zld6TG9XRUlqSWVOUFdjX1ZscFRyMjBrY3gwT0FoTG5TUjhzWG9NNjNZV2tpNzJodmFVbXBKVTFYSVVhUkw2ZjY5WXh2R1NMaTF2TTlPWW9naUU1UTNrdjNwTmNlSGc?oc=5",
+      "published_at": "2026-11-10T16:52:13+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
     {
       "title": "AstraZeneca bolsters vaccine pipeline with US-biotech Omniose acquisition",
       "publisher": "Reuters",
@@ -51,7 +269,8 @@
       "published_at": "2026-11-10T16:33:15+00:00",
       "regions": [
         "europa",
-        "global"
+        "global",
+        "usa"
       ]
     },
     {
@@ -139,11 +358,21 @@
       ]
     },
     {
+      "title": "Hegseth Defends Military Campaign Against Drug Boats",
+      "publisher": "WSJ",
+      "publisher_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOEd5Z1ZCR2tNUmdjRzdJZ2tmdnByRlNTVGdXNEhnTWFfbjlKQ0Zwb1J4Z0FyQi11S05lVXBPZE5ZaFR6MFY5S29qcGdqOVJqdHVPa2FsTXlDSkhaZHlmbk4tU1Q1TWREM2Y0ZWpWZThJYjdGSi13bGdVelJIZHgwNmpmZWtJWDd2QXNCTWVOUFF2bVp5S2xoRmhUS3E4T0lEX1JJT2o1Qngtc2JNdDFmZVQ1RUNaUQ?oc=5",
+      "published_at": "2026-11-10T14:46:53+00:00",
+      "regions": [
+        "global"
+      ]
+    },
+    {
       "title": "GLP-1s are given an FDA warning for rare eye condition risk",
       "publisher": "STAT",
       "publisher_url": "https://www.statnews.com",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdTk2Qkt3YVR2NmtVYUlwdmhkYWZXTnh6TXpDT3Z5YmVtbDlURFN4enJpOFlzM1RIZU80RHBWMXZoZWdXeFd6am16S015SnVVX01CMFJJQllma2drcXlyRmY0TUVQY25lME9MakZKNmdjLWdCU2NDOVc5eGVhdE5kOHpTc2hpMVU4OGw1UHVielJuUXpCVXRBX0FQaXFrR3hBNWk5SkxQZw?oc=5",
-      "published_at": "2026-11-10T14:42:48+00:00",
+      "published_at": "2026-11-10T14:46:00+00:00",
       "regions": [
         "global",
         "usa"
@@ -182,24 +411,14 @@
       ]
     },
     {
-      "title": "Pharma firms’ focus on weight-loss drugs could put insulin supply at risk, experts warn",
-      "publisher": "The Guardian",
-      "publisher_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWDZCT0N5T1hSTXBHbkprMkFGNjA3Y0psazB6Tk1NdFJ0b0xfTjZzTXhZbUtubHgtbEMxYkx1UlJkRzE5ekFGeHU1UzRJaUFGTkpxdTUyWldnLUtHODhiOXAtMkdrS0xCRDBzR2trRTJmVERKc01RLUxZWTZxb0VXeHh1M1M3YjJSaEtQNGJHbkdIckFsSkcwUE15azJhVktVMnN0SGt1VHFhWDgzUG5z?oc=5",
-      "published_at": "2026-11-10T14:15:00+00:00",
-      "regions": [
-        "europa",
-        "global"
-      ]
-    },
-    {
       "title": "The Biotech Growth Trust PLC - Net Asset Value(s) – Company Announcement",
       "publisher": "Financial Times",
       "publisher_url": "https://markets.ft.com",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNT21DQVNtZktYTEJ4ZHJENDNVb3RSaVVNV3ZNdXBidnVoM1Vya1lBN21CNlJ0WFlzd0tNek40Z0k0a3V5U0xmRkNoeDVXdjhOLU95MWNuLVZ1SldmSkNGY0lxSXM0SU41elktZjZmbFItQktTVEhKRExRbkRDOUNCdnYzb1dfbXlNTWY1dU5DZHQtZDE4?oc=5",
       "published_at": "2026-11-10T13:45:00+00:00",
       "regions": [
-        "europa"
+        "europa",
+        "global"
       ]
     },
     {
@@ -256,6 +475,16 @@
       ]
     },
     {
+      "title": "Preclinical Biotech Unnatural Products Lands $1.15 Billion M&A Deal",
+      "publisher": "WSJ",
+      "publisher_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWXpYUnZxOWw4YW5fSzRXUHZaYlh4akxWWV9fZjhlLWltVmt3d3FKTVJHSzdUUUpXNlFnM0twVlA1MFdfRzNqb2RtWXdKcU1UQ0xhM1N3VTd5REU2ZzQ4TGpFYXQtMFFseUtLaDBGUTZIVHhzbVZPcW82V0lPQjI1YWFuXzlRUlFmTGFua0Y0b0N3X2hweldwWk45bTZQLVQ3bEhxMllaQ2hfM2dBd1ZqQVgzVDRnUQ?oc=5",
+      "published_at": "2026-11-10T13:01:00+00:00",
+      "regions": [
+        "global"
+      ]
+    },
+    {
       "title": "Pharma is a 'mixed bag' when providing drug access to low- and middle-income countries, analysis finds",
       "publisher": "STAT",
       "publisher_url": "https://www.statnews.com",
@@ -273,7 +502,8 @@
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMTlEbDlrdno0Z250N1phS3Axb2MzcVZtZHJRQ1dkR1RxcjQ2eWczS21oQndqQXVaTUhFUE5uNXpEU0FjQXlKbmhvdHA5TTJSYnRvemc4dEx3ZFhPVHZ4NGo3MVVlX19oeW1lSWdMWVluYXFsZ3FrUkFLdG5MM25kR1NzbGcydWtGaW5ReVp0dThxLTBreGEyVDFzTXlpM3cyZXBRazRB?oc=5",
       "published_at": "2026-11-10T13:00:00+00:00",
       "regions": [
-        "europa"
+        "europa",
+        "global"
       ]
     },
     {
@@ -284,6 +514,16 @@
       "published_at": "2026-11-10T12:47:24+00:00",
       "regions": [
         "europa"
+      ]
+    },
+    {
+      "title": "\"Fall 2026 Pharmacy Outlook\"",
+      "publisher": "Fierce Pharma",
+      "publisher_url": "https://fp-resources.fiercepharma.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWTlncUNaVndSQTRWci1vbU10NGUzUVR3d2p3blMyeTAtYmRLakptWnhsX3ZoRHZVREhrdjBMOVd0R3Fub3FxZGZjckpMV01Ubm1ndmtsSlU1aEJBNVc2a1BBYms3dklkTzJCSEFveTF1amxzTzEyRjZMSkItcktEdDJrU181QVdqUHRXbzRMV2o1RzBQZHg2dVJWc3BDMWUwZXc?oc=5",
+      "published_at": "2026-11-10T12:39:38+00:00",
+      "regions": [
+        "usa"
       ]
     },
     {
@@ -304,7 +544,8 @@
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1yMFZzaVdOMVVwRjdhdXRYVlRPVzFLZ1RWcC10ZmRKN3ktOEhPdjFlaE1VcEpaNkljMmhzeDV0UDk4bGxkODFzTkh3T2pFSnhUYmk5ZTNqd08zNXJfQlE?oc=5",
       "published_at": "2026-11-10T12:01:59+00:00",
       "regions": [
-        "europa"
+        "europa",
+        "global"
       ]
     },
     {
@@ -316,16 +557,6 @@
       "regions": [
         "global",
         "usa"
-      ]
-    },
-    {
-      "title": "Lundbeck hikes annual forecasts as migraine drug powers earnings beat",
-      "publisher": "Reuters",
-      "publisher_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOOW9VZ1NUTDVEeXBBWnY5ZTUwc0d2WDA0RVRhcVFEcEFJaUZhWEVnTjlCU3BrZ1pfaGM5Qk9EVHhtM2JlOG8ycU9HdU4wNjFKN0J3bjVLb1NOTURUX2lGUEh5aWFCSEpyaGhHRGtPT2dKNDRSVEo4NFNtSFpmS3hrdjl5WTJHSmFRQk9WUjFLb1RnaFYwTmM1N3h1MWJVeEQ3SVBpcWYwOFRCdndTMXVhTGMyZTNBdEpPckNvQnFva1Nzb2theEdrc2FyZ1JuZUtHZjBubg?oc=5",
-      "published_at": "2026-11-10T11:28:09+00:00",
-      "regions": [
-        "global"
       ]
     },
     {
@@ -346,6 +577,16 @@
       "published_at": "2026-11-10T11:02:34+00:00",
       "regions": [
         "europa"
+      ]
+    },
+    {
+      "title": "Drug use",
+      "publisher": "BBC",
+      "publisher_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Ibm1Ka2F5VWpwS1JGNXNHeVVRaHhiYm14Q1dzd1lUOERLV3JMd0szM1JCdndhUS0zMFJtSVZ0OFRldm5fYlM0bXVZWTZvN1RWNGxkR3U4OA?oc=5",
+      "published_at": "2026-11-10T10:38:32+00:00",
+      "regions": [
+        "global"
       ]
     },
     {
