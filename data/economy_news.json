@@ -1,7 +1,7 @@
 {
   "date": "2026-11-10",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-10T07:29:24+00:00",
+  "checked_at": "2026-11-10T17:53:39+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -23,12 +23,12 @@
     "bcrd": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 1
     },
     "fiscal": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 2
     },
     "dgii": {
       "ok": true,
@@ -38,17 +38,17 @@
     "finance": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 2
     },
     "securities": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 2
     },
     "economy": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 1
     },
     "economist_andy": {
       "ok": true,
@@ -83,6 +83,84 @@
   },
   "items": [
     {
+      "title": "¿Está la República Dominicana al límite entre la deuda y los impuestos? (II)",
+      "publisher": "El Nuevo Diario",
+      "publisher_url": "https://elnuevodiario.com.do",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdnRwV3hFV1NRbXZlSTZPOU0tT2JhU0FScXlXZWtNQ1hCTk54NTl0eTg1ZDVZUk4xSV83N0Fhd3JtSXlxQUxhcFNzd1FhRjNRM1ExV1BlUHZLOUo5cDRWek04ZzVMMnB0TlkwdHUtbFdlOXlQLTQ1Q2wtaFNVRHp3eGkwbWk5SFBIWDgydXc2VDYwY0hKQUZzSlYtMVVuQ2tzLVdKWQ?oc=5",
+      "published_at": "2026-11-10T17:02:09+00:00",
+      "topics": [
+        "dgii",
+        "fiscal"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "fiscal"
+      ]
+    },
+    {
+      "title": "Inversión de fondos de pensiones en el exterior está permitida desde 2001, pero sigue fuera de agenda",
+      "publisher": "Acento",
+      "publisher_url": "https://acento.com.do",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNTEZSb21OaWRka3VvY1pkX2x5Y1NGSmpkZXNIVmRESEVkSzNzLVZKemxTanVyMnBTdzUxVG51ajJmRFBKS2hqbnZ5bnpWQm1Ta2RodWRVY3ozeXUwV09KbmNOTHZmYWlzTlFOVi1lcVFWTFR5NnJpUmk3cnN4NXd1b2hEbnRreTBoVUJqVlhfVFl6ODA1eThVYUliZVVicFFFM1RrZGw5bHpVZHRDejgyQ0t6eXlxVlJLSDBMTTd0WVhtbzlBSm53cVkwZlI5QTNzLUs5UHE3bG1Kbm15?oc=5",
+      "published_at": "2026-11-10T14:15:49+00:00",
+      "topics": [
+        "finance"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "finance"
+      ]
+    },
+    {
+      "title": "BCRD informa inflación octubre fue de 0.58 %",
+      "publisher": "El Caribe",
+      "publisher_url": "https://www.elcaribe.com.do",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTVRhQlZGWWY2ZzJaTjhONndtNmsteC03NXVDaE5KdGhvSHZOM0JhSDRObi1Od0ZMSGZscGp0RzFOUmc2YnhrYU43RldybnRTUHZkbDZFTUh3dFZXTEdReTljQWVsbzg5aW5JZ2JBSWpNRFNGQXdhcFpUMURhZ0t6OTJvSU1NNUNQY3VDaVo2NVE?oc=5",
+      "published_at": "2026-11-10T10:30:38+00:00",
+      "topics": [
+        "bcrd",
+        "economy"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "bcrd",
+        "economy"
+      ]
+    },
+    {
+      "title": "El depósito que más crece en la banca es el que más rápido puede irse",
+      "publisher": "Acento",
+      "publisher_url": "https://acento.com.do",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZ0tyMElMcFNWUjFwTEhFY1ZGVXNtZ056ank3YkNYcU1lcEdkNnZ5LU1pOXpLU0VDNWtmZV9SY0Q4S3JEYkhDYkhpdU56X0tndVVIYTcybmczMVpWM082Wk5fRUpBTkNndTlrekNrRzhjVEV2azkxbm5PbnYwNk0wMGNZbE1mUGVIVnU2bGJQM2dZSWZ2dGJsT0puWFhxSkJZQWU2TGtBN0E3cE52MFpBejNkONIBswFBVV95cUxQZ0tyMElMcFNWUjFwTEhFY1ZGVXNtZ056ank3YkNYcU1lcEdkNnZ5LU1pOXpLU0VDNWtmZV9SY0Q4S3JEYkhDYkhpdU56X0tndVVIYTcybmczMVpWM082Wk5fRUpBTkNndTlrekNrRzhjVEV2azkxbm5PbnYwNk0wMGNZbE1mUGVIVnU2bGJQM2dZSWZ2dGJsT0puWFhxSkJZQWU2TGtBN0E3cE52MFpBejNkOA?oc=5",
+      "published_at": "2026-11-10T07:00:48+00:00",
+      "topics": [
+        "finance"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "finance"
+      ]
+    },
+    {
+      "title": "La Asociación de Puestos de Bolsa de la República Dominicana (APB)",
+      "publisher": "Periódico elDinero",
+      "publisher_url": "https://eldinero.com.do",
+      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPOU11cloyX2lydEdCY0hrSGI4MVhaSkxlQkswWDlvVHhXQ0VGU0Vxa0wzNGtQNWlMUVZ5aXZ6R1gxSGVoU3BCTm81Q1c1VG9maXJ4Mjhta1lhS1Bob3JxNWRrWjk0VnY0ZVBxRHcwSndobWxNaFJfTVc2NTUwOGdpc0VMbUVzbjlpd0xreW9tVjc5MHRpc0tMc1BuU2ZRVnRCREVFaHAyOTd1RzVjaTRBZ24zbHNZWWw3REJDa05pUzhkTThLVU05VE1xN0hMWVRrUUZPLV9tY2VCUGYwV1BRZGl4Mm5vMG45MWZodFlFMVJmTG96VUNOOWY3LXZnZ1VxM3JZUDVPRnBNY3dVYXk2TDAzQ21fSW83UldqQzMzUQ?oc=5",
+      "published_at": "2026-11-10T06:37:41+00:00",
+      "topics": [
+        "securities"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "securities"
+      ]
+    },
+    {
       "title": "La amnistía fiscal aumenta las recaudaciones de las penalidades en un 134.5 %",
       "publisher": "Diario Libre",
       "publisher_url": "https://www.diariolibre.com",
@@ -116,7 +194,7 @@
       "title": "SB y BID entrenan entidades en economía conductual",
       "publisher": "El Caribe",
       "publisher_url": "https://www.elcaribe.com.do",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdlVVQTJlS0k2V1UyaWQ4Wk9yMUhfdVEyTzV2dlFDc1RFRi1XQ1VzMVpaQjh2MjRfTmwyS21MYnhFYjJBY0RPQ3NKbDZyeHoxMk5GUEVhQ3lrQklwVGt0OUszWmlSeUFybEFSTC1jSW94UEZIWTFyOUFUMENjWkRWRWJBNzRpcF9VNE0xWEIwb3ZkYV9KUkVwTg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVGVubVp5UE1TMGNhVi1zSENhY09EXzFGWFQxRnJ5TDNudlNwMXVkR1M0c09YNnBuREd0RGNwcTE5eHFidHNMc0lDOUpZUzR2RW1YV0FPRW1BM01ESmZCMnZqM0Y4Um92NVZCUEVmbnRBRUpRSHZCVURTSTNGcjA2YmZhczFlTVU3clpNajRxLVdtUDRJRmNGTnZjSQ?oc=5",
       "published_at": "2026-11-10T04:00:00+00:00",
       "topics": [
         "dgii",
