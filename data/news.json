@@ -1,7 +1,7 @@
 {
   "date": "2026-11-09",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-09T20:47:00+00:00",
+  "checked_at": "2026-11-10T03:36:51+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -14,35 +14,202 @@
     "rd": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 2
     },
     "centroamerica": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 3
     },
     "mexico": {
       "ok": true,
       "error": null,
-      "count": 4
+      "count": 8
     },
     "usa": {
       "ok": true,
       "error": null,
-      "count": 18
+      "count": 20
     },
     "europa": {
       "ok": true,
       "error": null,
-      "count": 26
+      "count": 28
     },
     "global": {
       "ok": true,
       "error": null,
-      "count": 25
+      "count": 33
     }
   },
   "items": [
+    {
+      "title": "Bayer brings factor XIa to US stroke prevention with FDA nod for 1st-in-class asundexian",
+      "publisher": "Fierce Pharma",
+      "publisher_url": "https://www.fiercepharma.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOUczU0RScFJrODA2czJsWmFHMjE1LUxRX0htVHhHaUFrOUVKQ252VEgweFhCQVQyd0dfSmdwRF9LVmhMeTVjdGJ5NGZtdzBnQ3JvV1kyM3E0alBWN0VBR1hVcGdUT2cyX2ZWazNwbkthUTY3RFVqcXU3clBGa0V1di1GUGVsaWtRdkNZV3Z1WkVwRF92dHAzTzNLTHZmMjItSzZKc1Rka2xSVjJGbGc?oc=5",
+      "published_at": "2026-11-10T02:10:00+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Salud Pública asegura que paciente con cáncer que pidió ayuda tenía medicamentos aprobados",
+      "publisher": "El Nuevo Diario",
+      "publisher_url": "https://elnuevodiario.com.do",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOGZ1UzFBc09Ic2NwQWprbVZkVnV1dW9DVUx4d3RNMDYyQkpyM2FKaWJIMU85R2k0Y3R5SE5qdG4zdmJPcnBDeTJyYXFldUVDRk5tM3Y0WkFEbXBRSTJQaWNUUGdRcmx1TU1QenBWaEFhb1FPNkhRa2d5N19SVnhhcmkzZjlPMWtISS1LaTdzMlBjcjZQSkZ6cXNGOUFGOC0xTzFHY1hkR3prU2dZRG9Db2VKamU4UGZ5UG44dQ?oc=5",
+      "published_at": "2026-11-10T01:44:03+00:00",
+      "regions": [
+        "rd"
+      ]
+    },
+    {
+      "title": "Ionis Pharmaceuticals shares plummet after slow rollout of biotech’s triglyceride-lowering drug",
+      "publisher": "STAT",
+      "publisher_url": "https://www.statnews.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSG9jVkI2UlV1R1FSQllMSnRnZkdXNmpHQ2J6bF9Cb0NBT3A1aVBpN2VtYXpMU2ZJSnRNRTNQbnNaT09UeFJsN1VLVDVTLWNqNmVMMzZUV3NOTElhS0NyR2hpdXhta2NEY1FCcEdaMjJDQzZjUzhQUWxRX1hpWk84WDdzOTRPdFRtd0VzSEJSSEtJYm5KaHdScTR0OXFLWTlaUWx6LQ?oc=5",
+      "published_at": "2026-11-10T00:54:47+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "BBC News - BBC Investigates Drug Gangs in France",
+      "publisher": "BBC",
+      "publisher_url": "https://www.bbc.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBiX3MwdjNuRnluLVBIWEhMSHNpUHNjbUF6V1VScTg1VngzWEx6NFpYS1pXR3dpSFNaalRaOW05MGNhVDJQcmhLcjN1NTJ0dzVMeWUw?oc=5",
+      "published_at": "2026-11-10T00:16:57+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "Farmacias Guadalajara, a 14 aperturas de su meta de crecimiento para 2026",
+      "publisher": "El Economista",
+      "publisher_url": "https://www.eleconomista.com.mx",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTEtsNWxGRXpySmxBMFYzeHNQM0U3dFVpZklrY3VvMEdUZ1gtZ0RHb281TjZTRXp6eDIwTUFxdkNEeThCeGxWa2RJSk9kZWJxQml6UnpkSWtFX2g2aWdqUHlXSENvS1U0TGd1VjItYkZiSWJjdmJkREg0VmNyOGRxLXZWTlBsQ2R1NDE3YTFCZHcwLTg5R0pCTzVabFpMNzZzZy12NTFWRlZtdVd5Y2RvQWp0VdIBuAFBVV95cUxNVWFGdnpmeENZb1VmVGRvN1Z2WkQ4Nmd5U3ZNT0FDUVAwMm5BSlpJQXdYdjkzeDJDNVJCR1ZJM0xCNzE2VkFMS3ZoNG5Rc1BhS3R6YXdKQy1sWlNQZFJ3NHhTRHNVLUZQNkV2eW0xWTM2c1A1QVhGUHVLalhZckxjN21wNlJxMmNpelNDdXF2V1Rzby1NY0tuY3doLUtoVEFEQmF2TmY3X1liOVg5Ty0tU3hjendmVVNH?oc=5",
+      "published_at": "2026-11-09T23:07:38+00:00",
+      "regions": [
+        "mexico"
+      ]
+    },
+    {
+      "title": "Precio y desconocimiento, entre principales barreras para el consumo de medicamentos GLP-1: NielsenIQ México",
+      "publisher": "El Economista",
+      "publisher_url": "https://www.eleconomista.com.mx",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPTGNEZ1hzQW9tcEZvQks5TE45X05UQUVKVHZ2aGI2bEExTjlNU0FhNldTSmhKLXJZM0VHYkdLZHFyUnphSGZHSHV3OXFfODBhLW5sWUkzM1JBa1hyVWlKVGxCTHJDcVpGVlk1eXpqRE5NeVVtbkNUYmJWV3NYM2hoWE1TeGZDanJvaVhlUUtHT1dlSDBoSS00ZXRRMjA4VG5RRWlkbWF3OXlQY1FJaHhRcEI1WUVRclk5bWJkeDJJLXNNd1pCcVRLT0ZublBxNzdqMnd1cHU0Z1FmOHBlNVFFWWlHa9IB6AFBVV95cUxNaTRKcXBnUjdESF9NZEE1bWRLX2FOaUZjNW9vUzRDYnpKd3NsWWNIanJ4TExEOFVuMlIteVJfTkZjb19ERGxpSTVrUm82eVZURUJqQUZETmNpcEhHMzEtbk0yOXRSZXlBYXMzRGN6N0ZXckl2WVFBQ0RPcEV6SEdUYUtlLU1ZV3AzQ3JtMXJ3NXVvOTJoVXdyVVltZFBYRGk1MFRsMGFoSWM3bVUzanhXYV9HWTczVmxRNl8tTFFibzJiUkpmWU9EWi1TeEhKVnBEelJ1MG5aaFNMbks3V3NhU3V4U01xN3E0?oc=5",
+      "published_at": "2026-11-09T22:54:01+00:00",
+      "regions": [
+        "mexico"
+      ]
+    },
+    {
+      "title": "Bayer wins FDA nod for a new kind of blood thinner",
+      "publisher": "BioPharma Dive",
+      "publisher_url": "https://www.biopharmadive.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWl8wZThJMmdUREJrQkRWR3ozUXRnMmxzdVUxOVYyRkYwYmQ1enRTTDdqNktacXZXUUw5aERIZGtvS3ltdXBnWHBRTXozSnlnenNwdmpsLXJfUkdpakJDY2Q3N3Vic1VST2QxT3EwaG96Zk1WVFRXSmpJWTJxUHUyNTdDRUpqelJ0VVFjTldxdHM2NWVjQkNpQkZmdWpsZw?oc=5",
+      "published_at": "2026-11-09T22:44:21+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "FDA approves novel Bayer drug to reduce recurrence of stroke",
+      "publisher": "STAT",
+      "publisher_url": "https://www.statnews.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUXNZUTNPR3h4OFhqTzlDT1FSSGQ0Q25ZODNPeEZRTFY1RTFyOUFMZ2tZOWg1azVwcWVPaThpTE5vb2pKUUFDRVd1aUFxUVFZZ3EtLUtrcHdfRjY3Z1FaN0Z1T2Rvc21nVFIzQzNDWUV0VzlxMGhnNzlURWlHZ2l0TFhkcFZWTUtzV25tdW42a0FYcWR2cGZLbA?oc=5",
+      "published_at": "2026-11-09T22:29:35+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "US FDA approves Bayer's blood thinner to prevent repeat strokes",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWHJCUkhIWXpORTZiYTc3dUdIdDkyVXJQc2EzODlZTWxkNmFJTUdrVURGcUpudHEwdWdjaFdZcXNMRjNZTTFndDliUnZ4NXpOZE5NWUFxNV9PMWtocVYycERIaEFLUnRDVS1NRGkwQURkU2tDOXBhNVg4VkRoYzFrUFVySnZ3b1dGRXJ4c0Y0MktBb2lFSGVHWXAyM25vNlpZUlUycGdpVzhoQ29WZjJOZ05B?oc=5",
+      "published_at": "2026-11-09T22:27:43+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Mums v Big Pharma review – the ‘bored, hysterical housewives’ who exposed a horrifying scandal",
+      "publisher": "The Guardian",
+      "publisher_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWTl2WWxqZDNuUlUzZGVpSVpTYVhEbVpIMldWVGVQcFk4NWFnajZNdVZnajFsT1N4NGhuZE5oWVU2SjEtT2Ewbm9zZDVnQnlSQ3plNy1oaDRkRm5KaWk2MnlHTGR4OE1SXzhSMDVwZnRJaE9Ba0dMUzRETWtBeEJvVVNiWkJKVGx2Ung3MGctLWg5Q1hiZGhZTEpsWUlaS3VOMVVFNXlraWpfTXJIbGFiUm5nendXX05OcmhIaDFBV3Q3cjl3SGNManZDNFd3X2Q3QzFGcEtfMWJHQQ?oc=5",
+      "published_at": "2026-11-09T22:00:00+00:00",
+      "regions": [
+        "europa",
+        "global"
+      ]
+    },
+    {
+      "title": "Torreón refuerza vacunación contra Covid-19, influenza y neumococo; conoce los detalles",
+      "publisher": "MILENIO",
+      "publisher_url": "https://www.milenio.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQjJVU0lwOEFmRFdfcHhoaDFzaG1QdFdjVjRSZkJ3NWEycHY5QzFPb0U5N3B1Wm9JbnZXN0UwQkUwWFlnYi0xU0NCbmFkZW5LZk1VRExFUjhWWTZuNVVUYjgxYUhrVVNPV3oxWHRSQWxRdUF0R01lMk9IcU04d2V4aGFXTWJ6cDF4YlpjMm9iRW11d9IBkgFBVV95cUxPTG9lQ0hfbWItalA3NTJoRXl5OXpKdkl6eVJrTldRYnI2bF9fUVZFc203NzJpeWNpUG0xYVFobmNtTFhGdV9NVVd5TnYxSUVHSTZOWE55LWZ5UFVrY3JQU2lYX3VNNzNMdk9pVHhLUkRNWjNtLVVQeTNieTJIWWx4NnU4cnZpZXNxQVAwcWQ1Wkt4dw?oc=5",
+      "published_at": "2026-11-09T21:52:52+00:00",
+      "regions": [
+        "mexico"
+      ]
+    },
+    {
+      "title": "SOTERIA Collaborates with Tempus to Advance Precision Oncology for U.S. Military and Veterans Battling Cancer",
+      "publisher": "Financial Times",
+      "publisher_url": "https://markets.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSkN3RjZocThzQ1M4UW4tdzJDQmRHRVVZZXh3Um5ONnFxRjZHeWFaRXhYWTdTaHdXZEVLUXJMQzlZUEFDMVM2dUdLNFRiMGJ5UTZKNmFMSlJQYzdIV0R4WnBFZzZibXUya1R1dGVCc09xSTVMUGQ4OFVXdURyZjBlbjV1eHBjT2otdEtlNzhRVjd6bDNBUGhjaQ?oc=5",
+      "published_at": "2026-11-09T21:39:00+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "‘Escuchen a los pacientes’: La realidad detrás del abastecimiento de medicamentos en la CSS y el Minsa",
+      "publisher": "La Estrella de Panamá",
+      "publisher_url": "https://www.laestrella.com.pa",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOemRwOXJqNmdSd3BGdGl5bWdzcmdVOEFkVXIwRld2TUprSF9QZGszbEItQlZNSDZXT18zY1FMLWwtcTl1WGlqMkNNRnBOZGJJM3hheEIzV29CcW1BSU1DOEw0SFFhdTdWUzNfUmVDT0FKNzctc1YwRm9zLTBwV3BxUlRvMHEtQnc5WVlGYmRycXhMaEhlcGtpNEFkUlB5REk4NG05Ynh1SWQ0dVp1LXBDenJJVEdDR0E4VVpEU2UxdHdHZUpISjlGclFFZFdoMFk3dms1SW42V092OG93bFlweENGTHJ0b0Y4WW1EOdIB8gFBVV95cUxQdkdMdlZfV18yT2k1OUtKVXVVQ3RMSEo0S0NSeFJIMTkxc3FnRTItN09DSFBmQzZCSHl6TUFjY0dxUHhlQ0pUN1dlQnQzUHNwU0ljdEJKaGhpNkswWUtKYkpYUVhLTHRzTnZzSUl5eVhxRTNHSHBMYW8xZlJPZUVfY0Y1ZlRIRnljYk9zelYxZ0JKLTcyRGw4MkZ0djl2QmROd2VzVHctem9MYzBYZDFyUW5UMjNMUW55bVZPN2ZpNkFuRzJGYTRoRkI2YnFxNDRmRnpOMmYyRXBOa1czeHpFUkdRRm5hbUxDelFzdDhrZEw5Zw?oc=5",
+      "published_at": "2026-11-09T21:24:00+00:00",
+      "regions": [
+        "centroamerica"
+      ]
+    },
+    {
+      "title": "PharmaLogic to Acquire Lantheus' CDMO Business and Springfield, New Jersey Manufacturing Facility",
+      "publisher": "Financial Times",
+      "publisher_url": "https://markets.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQV2Q3OWMzME54dlJNa3EzNmdLTWJhYkhrQmloeXpzVVVPeXQzZWJOV1RhLXdFQTVnem5meU9uejlYN1VQZ3B2aXoybFRHMm91Nl8wdzktbm14N21iVkhjMXJqS0Fzc19rZWM4VHFLdk9ITy1hbVdnNU1MekptdXRCYU16NnJSYUJYN3I4ZU9YVlpuWHh0RXJWWA?oc=5",
+      "published_at": "2026-11-09T21:05:00+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "BUAP lanza campaña de vacunación estacional 2026: ¿Dónde se pondrá la vacuna contra influenza, covid y neumoco",
+      "publisher": "MILENIO",
+      "publisher_url": "https://amp.milenio.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWXMtR0FJUkNvdE1UR2JreS1rWWVHMWIwWjRob0RsajhGM0FVX0g4WDA1dW9VTWwwLWtOWFIzeDdRd09fVDNWRndRMEpDdks1NFpQTGNNYUpsSHRlR0Fqck1MY2xESE5nc3ROY01oekpTZnJ4LU1pSzZsaGtyMzlYMnlHZnZ4RlNJM1M3WmROZC1pdERV0gGUAUFVX3lxTE1Zcy1HQUlSQ290TVRHYmt5LWtZZUcxYjBaNGhvRGxqOEYzQVVfSDhYMDV1b1VNbDAta05YUjN4N1F3T19UM1ZGd1EwSkN2SzU0WlBMY01hSmxIdGVHQWpyTUxjbERITmdzdE5jTWh6SlNmcngtTWlLNmxoa3IzOVgyeUdmdnhGU0kzUzdaZE5kLWl0RFU?oc=5",
+      "published_at": "2026-11-09T20:46:00+00:00",
+      "regions": [
+        "mexico"
+      ]
+    },
+    {
+      "title": "FDA adds rare vision-loss warning to popular GLP-1 drugs",
+      "publisher": "AP News",
+      "publisher_url": "https://apnews.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWVZSQ09GWGpSaFhYeklfRVNZVUNsNGtycVZrOTJ1eXUzSEl3OFhpUnF3eTVJSWNCT0QxR19JXzhrNU5rOUFjclhnS2hxb0ZSazRjNjhKcWo1ZlV4RFl0ZzZDWjVmcm9ZN2xiZzlqR3c0RWxvSnJPOFRFRkdlZVJWMUd4SDRNOE1XckNLZFpnOUxhMmpf?oc=5",
+      "published_at": "2026-11-09T20:27:00+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
     {
       "title": "Ojo ahí: ¿Qué nueva advertencia deberán incluir los medicamentos para bajar de peso?",
       "publisher": "El Financiero",
@@ -51,6 +218,26 @@
       "published_at": "2026-11-09T20:22:48+00:00",
       "regions": [
         "mexico"
+      ]
+    },
+    {
+      "title": "Disruptive Pharma AB (publ) (5LH0.MU) | Stock Price & Latest News",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5JeXhNdzkxWlVPaVZLRjdhWVNKZUMyajVEQWQ0VG1Dc2RsT1V4TGRNUlk1c2NTMjFYMWc5ME5mZDhtX3M5MDFZU2dXbHBfMlFJMHdtaFFhcGIyMUhZbk1vV0dFQjdDMEdVX0hRRA?oc=5",
+      "published_at": "2026-11-09T20:08:21+00:00",
+      "regions": [
+        "global"
+      ]
+    },
+    {
+      "title": "Salud busca recuperar la vacunación ante presencia de enfermedades prevenibles",
+      "publisher": "ElHeraldo.hn",
+      "publisher_url": "https://www.elheraldo.hn",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNHFIWmZvM3hRdDN5WnV0OWt0cm9kWDBmbnBab2tmVGo1Y0Y5T2xiaVlpNk1fbDhoMm85M0RTdERHVmx1TlJQd2RZaHZVLUpKSHYtMnYtdmwzUjJyV09sajZSbjFtdHNMU3BJVjdUZDBQSHA2akRaLVlrWVAxY0hRMUFEM1B6TEhBbEFiRXdJZVZUcTVYaU9SN3RjT0FLMkF4emtPZTRVcWpraEEwdzlpY0JVN19RbHpo?oc=5",
+      "published_at": "2026-11-09T20:07:00+00:00",
+      "regions": [
+        "centroamerica"
       ]
     },
     {
@@ -70,7 +257,8 @@
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1xQndFZGtkWl9TV3N2a1djdjd0Q0NyQ0xyc1lKRnFPZ3VpRVRGTnRralNvTVpabFVjdHpncXBaX0VUNFZaa1VldW1tSF95c1lhdjRaamd0Qkl2NjU0Y2c?oc=5",
       "published_at": "2026-11-09T17:37:37+00:00",
       "regions": [
-        "europa"
+        "europa",
+        "global"
       ]
     },
     {
@@ -167,7 +355,6 @@
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdkJNeGlkUnByRGFEM0tZVGRiUlBoOU5rTGFhZmk0ejBvZV9iUTdRdzBYcGF6b1BKc1ZKZkJVNG5mdU9NT3RUVTVwUkRqQzZNUnQ3amI4OWkycG1YV0xZck1WMFcwU2liRTl0WXc0LXhUMEtmd1Q5Z205X1AyZkY1MTNLbXpVcWVBcl9LdTM5NkNxT3ByTDFrMlU1b015WVNrR1ZlWHBqQkNWRkJyMDJxQ1U5aXh6ajNGMW90aENxMDdaUDJ3RnplRjFuR1BtTWo2YTdJRlFBSm5ncUl6SWJxSQ?oc=5",
       "published_at": "2026-11-09T15:58:10+00:00",
       "regions": [
-        "europa",
         "global",
         "usa"
       ]
@@ -198,7 +385,7 @@
       "publisher": "BioPharma Dive",
       "publisher_url": "https://www.biopharmadive.com",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNd2IySTctSUZ3TjdNUndpRTRXSHllblJ3YkdUVGtHZTRqSEhOeHpWcnY5aDJTdUI3VERWelludVBYR1JFSmNmZDJ5bzhUUU9nc2taMWF1TUZkVzE2OVlfcWVMR3QxclprOTJ4T0p0RENhenN1dS1sWE5iNk9iMjdEYlB3bkU0SEJtNlVySmJwZ2Y?oc=5",
-      "published_at": "2026-11-09T15:45:06+00:00",
+      "published_at": "2026-11-09T15:45:20+00:00",
       "regions": [
         "global",
         "usa"
@@ -211,7 +398,6 @@
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcVJweGRmRk5ZdlNvRU43VkROdWw3N1JWWmUzZHVMNmxOUGo0TkhwbTNUaUI5clQ5aFFmMTJrd0JSanBVSk1Vci1jaVFNVVhEQ28xVUpNRmQwTFZPQTJ0bjFWZXkxTE90UVpGSW5ISXRCZm9UNFhWbzV2T2o0dWVjZUk3TDM5MnJlNXMweXpKNFFXUHlFSVNxcXZ4SHVSYjdaVXNMSHJBSWk?oc=5",
       "published_at": "2026-11-09T15:29:26+00:00",
       "regions": [
-        "global",
         "usa"
       ]
     },
@@ -352,11 +538,11 @@
       ]
     },
     {
-      "title": "Novocure Provides Regulatory Update on U.S. FDA Premarket Approval Application for Optune Mya® for Brain Metastases from Non-Small Cell Lung Cancer – Company Announcement - FT.com",
-      "publisher": "Financial Times",
-      "publisher_url": "https://markets.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQendOclZJeHFpMi1IMV9kanp0LTdhdmpYNWNDdnFpOHE1emp1N2NqN0NwODgyMUc1VlFIMzUxNk1UUXBVby16dklZVnFCcjhkYmNzOVlxdkxxXzhBZ1VLOXg0NlR3b0ZTeU9mbHFuUnZ5eWtjZ3ktV1NObkl2ZUtJYnFyMDVkWE44ZlJ0SDNDRGhYajF5a0FUSEhlMTdQUjBjdU1MVlBB?oc=5",
-      "published_at": "2026-11-09T12:00:00+00:00",
+      "title": "South Africa: Are weight-loss drugs safe?",
+      "publisher": "DW.com",
+      "publisher_url": "https://www.dw.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVURlTlZBczhpb19OcWxCclJjSzdETXl0NzA0cmJjdXJFYzNtTG0yYlVTNjMwNENKR2Z6dUN1UjV2cEJMbUJoRWlRYlRRRFNCbmxxWGNhMk9xQTZyeFZfbHA1YV9QU0tMVi0tRXp0X240Y0JwQnB5Rk5jSkwxMXVzaGxB?oc=5",
+      "published_at": "2026-11-09T11:50:09+00:00",
       "regions": [
         "europa"
       ]
@@ -402,12 +588,23 @@
       ]
     },
     {
+      "title": "Kenya seize 454kg of methamphetamine in drug crackdown",
+      "publisher": "BBC",
+      "publisher_url": "https://www.bbc.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5SYmZvWWJMNEVIRjMtSGxnVTBEV3ltU0lLdTlvU0V1eDlyZWRXMEVNSk5iXzlHVXlPV0lKYlRCeElPNVhOVkk5N1JFdzRZUEdrTnEyYmVEZ1RKQmRkQ2c?oc=5",
+      "published_at": "2026-11-09T07:37:33+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
       "title": "Vaccines Archives",
       "publisher": "STAT",
       "publisher_url": "https://www.statnews.com",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9zNlREQXJ2QVE1VHotWU1xbmVQLUt4SE5OUXphUFR4UXlRZ0hFUVhnUm9xbEJDc2UxWXAxVTEtaEc1d2lCWDJILXdjM3RQWEZVYWIzSGVxR25SWnhh?oc=5",
       "published_at": "2026-11-09T07:25:10+00:00",
       "regions": [
+        "global",
         "usa"
       ]
     },
@@ -418,19 +615,17 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAyQ1FnWmtfOXJDNC1lY2NFWnlvdnVxVXJxM203T1ZtTkZaWS1GcWI0ZG1HaTdDT3ptWVpYYTNSd1JXSWhwb2JRRHlrZ1ZxVEpKNU9kM21nSkZvdGNVaEQ0bnFFaTRTTkNCWVhmcw?oc=5",
       "published_at": "2026-11-09T07:16:40+00:00",
       "regions": [
-        "global",
-        "usa"
+        "global"
       ]
     },
     {
       "title": "Medicus Pharma Equity Warrants Exp 15th Nov 2029 (MDCXW.O) | Stock Price & Latest News",
       "publisher": "Reuters",
       "publisher_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBJXzhJellSQ0xtSVdFa1ZGYXRjcG82dlMyQnFlS0R0VDdqc0MxUlQ2c1ZWUWVKNzROUmVUWlZmTDZEVVhNTUpLdXVzYzNQXzNtLVJYb0FVQ0RGUUg1WUNrQkhnVWtXdHYtSjA3SmotTQ?oc=5",
-      "published_at": "2026-11-09T06:34:34+00:00",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5iR3VVcURLb3Zpd3Fla3dnclNtVDlsSG01cVRROHNnbC1JMkc1TmsxcmtNZTg3STZBWFBFWHpUSHJ6cllkRXdZQ3hqVkhsYS1RZi1VMFgxQlhFQ0ZXMlVWazZ0OWJsN2Vmam8yVg?oc=5",
+      "published_at": "2026-11-09T06:34:05+00:00",
       "regions": [
-        "global",
-        "usa"
+        "global"
       ]
     },
     {
@@ -450,8 +645,7 @@
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE05b0tEYldzbmRINERsUnRjMHg2aExvWjdwNVZKRUtybVZHV0g4VVZoazNZRzlSaExaSXdhWE9hVjJPVHEydG1XOXo4bHpqQWNoVjNMcG9QN0dieHBjWUJkMTFUZVBCTTRjTnV6SzJ3?oc=5",
       "published_at": "2026-11-09T06:26:01+00:00",
       "regions": [
-        "global",
-        "usa"
+        "global"
       ]
     },
     {
@@ -483,8 +677,7 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE56YVhqMk5ET2xnMnc4bVhOazFmMFRhSXM4dHIxMExYamJUM1lTR2MtVnV6bVRLN3cxM3BuZnNoSU4tbFphSEo1eTlBbHFxek1tbWd1YXJGWFk?oc=5",
       "published_at": "2026-11-09T05:54:27+00:00",
       "regions": [
-        "global",
-        "usa"
+        "global"
       ]
     },
     {
@@ -494,7 +687,8 @@
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdHY2M1B2TmVxZFJ6Sm9vd1JIekpHZWRfNkYwNEN0S0NZRzFMbmItZnVIamFzV3VSa181Y1MxLUJ3eWZ0NjRpYm1qeHpHUDhjMkxHSFBHcUdYMXJBZHJYWldXWnFsZ2RxQzJBSThpY0Qxdkd6VHpzb0lhY3BiNU9mZlh3SlprTWlYVms5UDZFY0JCOVdqZ2UtSEExdFhrbkdIWFE1RV9Vc04?oc=5",
       "published_at": "2026-11-09T04:38:00+00:00",
       "regions": [
-        "global"
+        "global",
+        "usa"
       ]
     }
   ],

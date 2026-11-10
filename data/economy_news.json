@@ -1,7 +1,7 @@
 {
   "date": "2026-11-09",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-09T20:46:59+00:00",
+  "checked_at": "2026-11-10T03:36:50+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -23,7 +23,7 @@
     "bcrd": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 2
     },
     "fiscal": {
       "ok": true,
@@ -38,17 +38,17 @@
     "finance": {
       "ok": true,
       "error": null,
-      "count": 3
+      "count": 6
     },
     "securities": {
       "ok": true,
       "error": null,
-      "count": 2
+      "count": 3
     },
     "economy": {
       "ok": true,
       "error": null,
-      "count": 3
+      "count": 2
     },
     "economist_andy": {
       "ok": true,
@@ -83,11 +83,74 @@
   },
   "items": [
     {
+      "title": "El valor de elegir bien: cuando la banca promueve ciudadanía y valores",
+      "publisher": "Hoy Digital",
+      "publisher_url": "https://hoy.com.do",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYkpsRzRWU1dmTnF4QWhuSzZpUnFpNnpjRldFemk2NmdlaVhWNDVDSzNEeTdmNkdFSmVLZVAzMHVyTG1ZZEFaa1MzOE40ZHJxX2hOaFhuYzFneU50dmpHUklsakkxN1dEN0pGRFRIdVV1OHFvenlCQ2JOOEY5SVU3LWxHaWtzV3BZQVNKbF9LWdIBlAFBVV95cUxORzdfa0FYaEM5RkRhLVdkZU1nUVVRMHJLNDNQUkhVMlBqQk8xenVtclRQTkFoNE0xS1FoamJBMXU2R1NmY2hraVpTbnN1a2loLWd6bWNrN0Y0R0lMakxkclBXZlF5aXduY2RZMzdFbXJBTm9lLXNRSldMQmppcGhhTE91REd0TzBFTlludUVGaHptNnlT?oc=5",
+      "published_at": "2026-11-09T22:15:30+00:00",
+      "topics": [
+        "finance"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "finance"
+      ]
+    },
+    {
+      "title": "Superintendencia de Bancos y BID promueven uso de economía conductual en el sector financiero",
+      "publisher": "Acento",
+      "publisher_url": "https://acento.com.do",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTGV0blFFT2pzZEVkS2lFbkROa1FZbFVnY25XSFJjekt6QWVtVzBtWWlkYlJpNFgwZkplLTA3b3prSUp2OG1ORDhJaW81YzVKUFpyOU90NThQeEhTVjdGTnJFYVU5aWpxREpoZHhjR1RjOGxLdVZjLU5PTEV6Z2JvQ3k0dFBJbi1sRDE3VC1fX3RwdFlfTnlOQXlfQ21TZmt3eVhsYmRUQ2s2a2tTNjVYSWVFZHY4ZXhOcEtYR1JwZ2RlQkdlZkFITG8td1pvUWhpekJB0gHTAUFVX3lxTE1MZXRuUUVPanNkRWRLaUVuRE5rUVlsVWdjbldIUmN6S3pBZW1XMG1ZaWRiUmk0WDBmSmUtMDdvemtJSnY4bU5EOElpbzVjNUpQWnI5T3Q1OFB4SFNWN0ZOckVhVTlpanFESmhkeGNHVGM4bEt1VmMtTk9MRXpnYm9DeTR0UEluLWxEMTdULV9fdHB0WV9OeU5BeV9DbVNma3d5WGxiZFRDazZra1M2NVhJZUVkdjhleE5wS1hHUnBnZGVCR2VmQUhMby13Wm9RaGl6QkE?oc=5",
+      "published_at": "2026-11-09T22:00:35+00:00",
+      "topics": [
+        "finance",
+        "securities"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "finance",
+        "securities"
+      ]
+    },
+    {
+      "title": "Banco Promerica consolida su fortaleza financiera con calificación AA- de Moody’s",
+      "publisher": "El Nuevo Diario",
+      "publisher_url": "https://elnuevodiario.com.do",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRUhoWjFSbGNyb185bG81ZDJaWTM2LWVDWmFNX2J3RnVYMmEzekZTZDRxSmFHUUV1SUs5TDZfa2o1SXA1U3FSSHpNTTRDb251aGhEWmJHa3VmZjNwSERyRWpKVFl3MEd0d0t1NUxyNHlGekFrX0tORFAzMGZydkJ5NXdoYXh2VUNRdmt4YUJERkxCcFJUMWRGR2s0RzBfMmFBX1pNNHhILUQyS0VFWUE?oc=5",
+      "published_at": "2026-11-09T21:28:36+00:00",
+      "topics": [
+        "finance"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "finance"
+      ]
+    },
+    {
+      "title": "La inflación interanual de octubre llega a 5.14%, según el Banco Central",
+      "publisher": "Listín Diario",
+      "publisher_url": "https://listindiario.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRTk0dW9JUzF5UlhNSW5ncXJUSWlGVHVSZHRHLW9sUkFCa3M3cm0wYk5HS1lRUl9EUW5fRkpsaG1CTy1uNEI5djhfVW11SEtfNmVyQ0NUV1FtaDM0OTN2bGhBcm1HRC1ZZmRWLTVJTnR4T1JJbTZGcXA3NmpOcEZnMWsxUkxHSER1TXNPLUpYWjY5X20tSGNFZDR2UDg4WUNucUd3M0FB0gGrAUFVX3lxTE95WmZob2ozRWJTVDFXRXk3VTE2ZWw5VDJDeGJDc2hEdnhvWTVVU0VZdFdqR0daNkJBQzl4Vld2WWxMRjlFamk2OWFRcG1RQU12M0x2cG8yQW5uMmpxa2tUY3gxa0tSWHUtV3JOY1YwdEpjXzZRSDBMQk4xUDZxZFoyRFZMVWhHd2Jhb2xSb1Q4MkRvZ0V3Vm9DS3R5NFdaTldLMjk5ZWppWWZqVQ?oc=5",
+      "published_at": "2026-11-09T20:35:56+00:00",
+      "topics": [
+        "bcrd",
+        "finance"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "bcrd"
+      ]
+    },
+    {
       "title": "¿Cuál debería ser la ejecución porcentual del presupuesto hasta octubre de este año?",
       "publisher": "Periódico elDinero",
       "publisher_url": "https://eldinero.com.do",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRmRFZF91Q0NSZnRTS3hNSXEyc1gzbVBzTkxJYnA5TldpU2xhMWxQeHBMOXNNNDhCVEd3aVBobWtVWkx2YmtTTUY1aGpBY2JVelhaUGhFaDBvdlFZU3A3eHV3T1VhQkVmSkRzWjhtZDNESjJCOGp4NjV3a2F3ZjI5ZmR4UlIwQ2pHbnVPdWdBRHdoS3NSUzBLSjQ4ZmRaNkhmX1ZDaFo1YWY3bTRIb3lEZjR0SGE?oc=5",
-      "published_at": "2026-11-09T19:05:02+00:00",
+      "published_at": "2026-11-09T19:05:12+00:00",
       "topics": [
         "fiscal"
       ],
@@ -133,7 +196,7 @@
       "publisher": "Periódico elDinero",
       "publisher_url": "https://eldinero.com.do",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQeUhxbzdLX2ItclFrY29rWGwyaElINFpWTHY1MzRiSWJJSUYzMUgzU0FHdHQyRmVBYjZoVld6T0NsRFB1LXpRNW1lOTI3a1hmdi12NnVTeVRULUY1X0pEUksxWi04ZTU3SEhEQmt0V3pubUVDc1JnemhTVlRDSXVBTTYzcnNBX2RtYlMwZGlyQ3dMVUxHS29XRk9ETkNIUUFZQVNxU2c2WUhQTXp5NE1URDI5Zm1tbHZSVzJZUHBrcmg2LW55Wk92ZEI0R1NBUWdwcTNSUFFIVHRYN0VRY0JpWWpn?oc=5",
-      "published_at": "2026-11-09T16:05:03+00:00",
+      "published_at": "2026-11-09T16:05:11+00:00",
       "topics": [
         "opinion"
       ],
