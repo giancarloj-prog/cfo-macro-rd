@@ -1,7 +1,7 @@
 {
   "date": "2026-11-11",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-11T06:42:14+00:00",
+  "checked_at": "2026-11-11T17:56:15+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -28,7 +28,7 @@
     "fiscal": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 1
     },
     "dgii": {
       "ok": true,
@@ -38,17 +38,17 @@
     "finance": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 1
     },
     "securities": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 2
     },
     "economy": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 3
     },
     "economist_andy": {
       "ok": true,
@@ -82,6 +82,112 @@
     }
   },
   "items": [
+    {
+      "title": "Exministro de Hacienda colombiano: “RD llega con fortaleza al actual contexto de crisis internacional”",
+      "publisher": "El Nuevo Diario",
+      "publisher_url": "https://elnuevodiario.com.do",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWE5PZU5pR09kQWMwWXY2QklEbG5kTEZDdjNOWm1iUGkzVjlSVFljQXpaTUNZNHBGdGxsUDhFMDIzZFNLd3IydmZXTnV2NjdjcS1iaEZyWXBrR1MteUNiZ1YxRlNHbE0tZkdGZDFzVVdPSkM4YkV6OWNpM1FVQVpjY0RiQmtldW9GM0VqZXplU0w3cEo3MGpvLUpkU1A2OVNHVE12dDVlRlM0UmdlcWdQOTZsTjNVeUkwaTBzRHJzakFiMWZtUFM3WQ?oc=5",
+      "published_at": "2026-11-11T17:47:52+00:00",
+      "topics": [
+        "fiscal"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "fiscal"
+      ]
+    },
+    {
+      "title": "Conep advierte sobre volatilidad de precios y llama a prepararse ante posibles fluctuaciones económicas en 2027",
+      "publisher": "Hoy Digital",
+      "publisher_url": "https://hoy.com.do",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRWlCTktBQkMwdGRfdThNbGNWdDZGanlBN291TjFCbEgxYkxveGVMLXp1UEhVUm9KWmpkTFRQd1c5VUNmSF80aHhxblRMNVlhSGsyc2xXdkRNVXpuMlZZU0NxNkJXWUszUnZ3TUxsMVVMSFZBQjd3UVpwM1RUUFNDYUlOQTI2dVZaUzdCQjlaOWV5bkx1a1FfRFlqZjh3QnB1U1dGbXlXaERtV29LQmhkN29DME9nYzZETDdJd3VGVWg5bXBzaGZROVlOdlZsRUdhZTM00gHYAUFVX3lxTE82MjlhZFBmc21JUXNSSkRTUVlCcHFiWFFaYzZUMVJaWDBIdW43NXhGOGFYWXJ1ZGZRSmJqc0FnM2JsSXJzQ0lTejJtWkZFdW4yTm1Fc2hTdXpRYk52ZHBvdHR2UUhJNG9HaDBGc0NPWEdiUFJTVWVrLTdWcGVSbUFVS184cDZFNWNNdTcteTRZTEVIQi0xcTM2M2RVSXp5aS1FTlVrS0xTeERMRFh2dW1RdXNOZzB5bkg0VWJ0SW54a3I5bXg3R1JmaS1keTVvbTRaVS1CZEQ4UQ?oc=5",
+      "published_at": "2026-11-11T16:33:01+00:00",
+      "topics": [
+        "economy"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "economy"
+      ]
+    },
+    {
+      "title": "Conep espera que negociaciones con EE. UU. permitan revisar arancel de 12.5 % a exportaciones dominicanas",
+      "publisher": "Acento",
+      "publisher_url": "https://acento.com.do",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTDViMURqbmFLNFJoZEJaTW5kVnl4LUQ4SlFFbzB5NmRBbHRHMGoyQ3lNUlFmWDNJODdKRHY2SGRuc1hmSnpuTjRuM1M2NjVLRnlEZkk1bFJPaUduUnRfMndRa21DZF9pV1lKTS11andYcGZxNzFIVk9qQnlGeUpUeXJvZUF0dEp0aVc3RGgzUnJhU1JUMEpONUUwVHd0RWMyUllOZlN1cVRPc091N1F5RkZQNDFscFo3eXhBcVZyTHpEdDE5NVpKSWctQVkzdzBURFdqeUdUSGItWUV1cEHSAd4BQVVfeXFMTUw1YjFEam5hSzRSaGRCWk1uZFZ5eC1EOEpRRW8weTZkQWx0RzBqMkN5TVJRZlgzSTg3SkR2NkhkbnNYZkp6bk40bjNTNjY1S0Z5RGZJNWxST2lHblJ0XzJ3UWttQ2RfaVdZSk0tdWp3WHBmcTcxSFZPakJ5RnlKVHlyb2VBdHRKdGlXN0RoM1JyYVNSVDBKTjVFMFR3dEVjMlJZTmZTdXFUT3NPdTdReUZGUDQxbHBaN3l4QXFWckx6RHQxOTVaSklnLUFZM3cwVERXanlHVEhiLVlFdXBB?oc=5",
+      "published_at": "2026-11-11T13:56:10+00:00",
+      "topics": [
+        "economy"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "economy"
+      ]
+    },
+    {
+      "title": "SIPEN destaca vigilancia de las inversiones de las AFP tras caso de Paraguay",
+      "publisher": "El Dia.com.do",
+      "publisher_url": "https://eldia.com.do",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNT1lWN3R2UU5QMFB3OFAwdFFDVDg4eHFFd2c4QklDUGJGOVdJbnA1ZDJMSEtQTkJ3UDFYMzZtMlJsamNPRFRZV1NKRFh5MVhNRWxnNTFkcTNwMmFEYlZGMlFVNF9LTVpEWVgwb3d5TV84dzVSRktBREItbDB0MElFV3FFVDNkMGJMMjRQeE1nNTBQcE00eGJEUE1fbU1jSTg?oc=5",
+      "published_at": "2026-11-11T13:37:26+00:00",
+      "topics": [
+        "finance",
+        "securities"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "securities"
+      ]
+    },
+    {
+      "title": "Puestos de Bolsa reconoce a varias empresas del Cibao",
+      "publisher": "El Caribe",
+      "publisher_url": "https://www.elcaribe.com.do",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaWRzWWJWcVEwZkwzaUhMWEdvS3BSMG9Yb2UwU1duaVBpcUdIajYtemRfQmZUbnJiZWMtVGJWR3RwOV9sZlFnMzJCbTdZQ2NUVi1MZi1PdmJfVEpmSHVKam1NaFRpSU5aTk5iNU9kS2VnYkVyODZ6cEJRVTdvOUd6Q3lDM19fZnFDYVpjTElKak1vSzFRbWZUbmV2RGhVZVUxeGZKcjR4Zw?oc=5",
+      "published_at": "2026-11-11T12:16:37+00:00",
+      "topics": [
+        "securities"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "securities"
+      ]
+    },
+    {
+      "title": "Las mujeres conquistan el 30 % de empleos en minera Barrick",
+      "publisher": "Diario Libre",
+      "publisher_url": "https://www.diariolibre.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcHhlUXZxRzZYSWtFemIwWGVpelFhdmZpTjN0ZE54RUJXM1lSelJiN3A4MmNPZDA2Y2tQUWpEV3p5a2s3TmpsQ3hTUEZPOWs0RFFGVzd5d0dvVV9xMW5LSk8xNkIydmVnTHVDQTY3ejR2MUdMdGxiSWtaUUJxcnpNcXl6Mmh6TEJRc0FXYlJiUFVvemw1amszY1NBNmdFbk45cVJDREdvUW5OUm9ZaC1IT3R4V3hvX01Db0htUWN6UkLSAcYBQVVfeXFMUFZQb1ZmNm1tZThzT2JFOUptNjcycTJqcUJUWHZqS2xTelNyeDZheVpOcF8zOEh1emtFSWJ3UVRzNkgtTVdfTlFlSjFMWlNpTVhXUTNseEk1YWlvNUNwd3ZLTzdQSHZVZUxkeTh0UVIwV19ETmxCNG9RczBNd200T3UxUU1KVUVwVEpPR2FtYmJCdlRqck5CUTVLcEdpTEFEU3dJS0FqT0x1dV9BWWJWV1k5NDUtbHRUdUZPY2RzWnp1TG1RZFdB?oc=5",
+      "published_at": "2026-11-11T04:01:00+00:00",
+      "topics": [
+        "economy"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "economy"
+      ]
+    },
+    {
+      "title": "La IA gana terreno en el sector financiero nacional, 79% de los bancos múltiples ya la utiliza",
+      "publisher": "Listín Diario",
+      "publisher_url": "https://listindiario.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdEVsc1hpUWlaTEltSno3TklyNW5rVF8wSDhNQW5aT1dSdnFHSzF2ckFJazA2RXVVYTE2XzdwS3lSTVVQd3drNEtzZE5qRlJ6LWppMkgya2cyVm1mU1RzYlhNeHllRkRuanVOT2Y0VzRkVWRhSW1RbllTbWNPWlIxbGlaWktLblYtYlhHM01maDNLYVdYbkFhbzVXV1dhNWNyWlpEOF9JZXFpc3NZNENrY29mOFEyRFRlNVdiREJpMkk3VTDSAcgBQVVfeXFMTnd4d1dKMl9SZkVyS3RaZXo5Q1I0RXc0aVEzazdLa3d1NHJEUzRmeDNsR1Jtb0FreWwxNnhkT3hVQnlSQkZoVHdMRmN1Q1E2d3dhc25aSVRUYTlNWEhwLVBCQ1JyaGNYSkdRd3I2ei1Sc1o2WFJCUHJwU1Ywdl9oMzA0WTA2dkdCU0hzdDFLWFdzdEwwUWhycjR0ZTMzZmk3SDRKZHZXZTAzT3cyX2FQanV0VnNINjJfYXI5Q0lnYTk5aUtsUXZRZWU?oc=5",
+      "published_at": "2026-11-11T04:00:00+00:00",
+      "topics": [
+        "finance"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "finance"
+      ]
+    },
     {
       "title": "Republicanos, demócratas y el déficit",
       "publisher": "El Caribe",
@@ -168,27 +274,6 @@
       ]
     },
     {
-      "title": "Andy Dauhajre abordará los retos de la nueva fiscalidad en el VI Foro Económico elDinero",
-      "publisher": "Periódico elDinero",
-      "publisher_url": "https://eldinero.com.do",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOT0NnaURzOTktQ0FEMVN1NWhMWXZ4UDd0cVBuZEt2OWpIOS16TFlBYksxZDl3YXlsTmQwZjBhRy1OOGRfUmllUEJzYjIzVkNEM1pjOVUwVWoyeVplTklwRkk0UEwxNUFfeU94a2JKWThfQ01udDYyYXN4bzdtUzlWQjk0Uk9mU2p1Ykg5aHJGOUpUeVZ0TlpvVk5ZSXBxOG1qeWZJMWluMlExRllWMFlRZU1nMFRpeU5mVVBSdw?oc=5",
-      "published_at": "2026-11-06T05:05:31+00:00",
-      "topics": [
-        "economy",
-        "opinion"
-      ],
-      "economists": [
-        "andy",
-        "jose_luis"
-      ],
-      "economist_match": "headline",
-      "searches": [
-        "economist_andy",
-        "economist_jose_luis",
-        "economy"
-      ]
-    },
-    {
       "title": "La segunda edición del Financial Summit",
       "publisher": "Listín Diario",
       "publisher_url": "https://listindiario.com",
@@ -254,6 +339,27 @@
       "economist_match": "headline",
       "searches": [
         "economist_jaime"
+      ]
+    },
+    {
+      "title": "Andy Dauhajre abordará los retos de la nueva fiscalidad en el VI Foro Económico elDinero",
+      "publisher": "Periódico elDinero",
+      "publisher_url": "https://eldinero.com.do",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOT0NnaURzOTktQ0FEMVN1NWhMWXZ4UDd0cVBuZEt2OWpIOS16TFlBYksxZDl3YXlsTmQwZjBhRy1OOGRfUmllUEJzYjIzVkNEM1pjOVUwVWoyeVplTklwRkk0UEwxNUFfeU94a2JKWThfQ01udDYyYXN4bzdtUzlWQjk0Uk9mU2p1Ykg5aHJGOUpUeVZ0TlpvVk5ZSXBxOG1qeWZJMWluMlExRllWMFlRZU1nMFRpeU5mVVBSdw?oc=5",
+      "published_at": "2026-11-05T08:00:00+00:00",
+      "topics": [
+        "economy",
+        "opinion"
+      ],
+      "economists": [
+        "andy",
+        "jose_luis"
+      ],
+      "economist_match": "headline",
+      "searches": [
+        "economist_andy",
+        "economist_jose_luis",
+        "economy"
       ]
     },
     {
