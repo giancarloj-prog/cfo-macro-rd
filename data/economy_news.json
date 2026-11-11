@@ -1,7 +1,7 @@
 {
-  "date": "2026-11-10",
+  "date": "2026-11-11",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-10T23:25:20+00:00",
+  "checked_at": "2026-11-11T06:42:14+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -23,37 +23,37 @@
     "bcrd": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 0
     },
     "fiscal": {
       "ok": true,
       "error": null,
-      "count": 2
+      "count": 0
     },
     "dgii": {
       "ok": true,
       "error": null,
-      "count": 2
+      "count": 0
     },
     "finance": {
       "ok": true,
       "error": null,
-      "count": 3
+      "count": 0
     },
     "securities": {
       "ok": true,
       "error": null,
-      "count": 3
+      "count": 0
     },
     "economy": {
       "ok": true,
       "error": null,
-      "count": 2
+      "count": 0
     },
     "economist_andy": {
       "ok": true,
       "error": null,
-      "count": 4
+      "count": 2
     },
     "economist_jaime": {
       "ok": true,
@@ -73,7 +73,7 @@
     "economist_jose_luis": {
       "ok": true,
       "error": null,
-      "count": 3
+      "count": 2
     },
     "economist_nassim": {
       "ok": true,
@@ -82,192 +82,6 @@
     }
   },
   "items": [
-    {
-      "title": "Superintendente de Pensiones destaca controles en RD para evitar crisis como la de Paraguay",
-      "publisher": "Hoy Digital",
-      "publisher_url": "https://hoy.com.do",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVjh2MUU1c3ptQklFTmJpU0xtU084b2JNUFBvZGNBeGNqb0pDT2N5MDcxQXdhS0FkcnZuck1sdXQtM2lsUWNYamlUWWJFMExhNUhZQjJ2aFR2NjBCNWh4bWdVemZFVVFleXFFdjBGQWZnbHBrcFdpeTBUeDV5UGpwZkVGeWNicmNRd2NxSl90enFiSkp4MXFmSlJOTnBSVmZNRnlXbHI5WC1JVHRJSnNZ0gG0AUFVX3lxTE00cmdNelprd3dKQ3Y2SU5LUEZzMXhic3EtY0V0U2Iwa0JMZE50Z0owTTZFQmRNeXBWWlNCVEZscXdUTHRiSUtqNG8wX3Q4elU5VXpHb1l4WjdZWXpSNWVPWm1Md05QUm8wMzJKNzI4SFFPUXBMV3Q0aUhkMl93WXowNUVQQkdJd0VmV0E3Z0RLdlk0dndaY0VEenZlT2tsbVF3UlN0MzVsR3dLN0hSM0VTTF8xRQ?oc=5",
-      "published_at": "2026-11-10T22:36:05+00:00",
-      "topics": [
-        "finance",
-        "securities"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "securities"
-      ]
-    },
-    {
-      "title": "El 79 % de los bancos múltiples en RD utiliza inteligencia artificial",
-      "publisher": "El Nuevo Diario",
-      "publisher_url": "https://elnuevodiario.com.do",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQ3hpazJ1LXNMbjRPbUczaGg1Z3lIQmtCZXI2YXFqdWFKZzEzVzdybFVULVRVU1h4YjBQYXhWYVJhU2lXV3J3OXZLNDN2eHZzRWNvWDQ3ZzdEbW1GX1BVYzQydmtXT3VoVlZUY2NJSWI2cm1fSW05UW43UWhxc003d3Y4TTdZbGxmeE9GUS0tRngyb2dTWUV3cEJnU1VzQQ?oc=5",
-      "published_at": "2026-11-10T20:17:54+00:00",
-      "topics": [
-        "finance"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "finance"
-      ]
-    },
-    {
-      "title": "Felaban advierte que El Niño podría afectar la economía y la banca de América Latina",
-      "publisher": "Acento",
-      "publisher_url": "https://acento.com.do",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUmYwcG9PNlJnRTJkU05STi0xZlk1R1BfNnAtR1RHQXpSbTlnZWhTaUFReXJaY1Z2ZkR0UVhvZDY2RFd4QkNoZGhmOEtFNlY4emxIOWZiSmRCX0pJMlhpc1pZNjVJU2RyLUFuQk9OUnFsR3d4UElIc09HUmN2Y2tlUFJGRDBDR0REYlNHUVBRSmlPZmhFdDFFSy03YUdzMXJsTkNFTTBOVlZQNzZ3cTBvLXRna1dyRjV3ZkN1TXlEV0NBandLbzd30gHHAUFVX3lxTFBSZjBwb082UmdFMmRTTlJOLTFmWTVHUF82cC1HVEdBelJtOWdlaFNpQVF5clpjVnZmRHRRWG9kNjZEV3hCQ2hkaGY4S0U2Vjh6bEg5ZmJKZEJfSkkyWGlzWlk2NUlTZHItQW5CT05ScWxHd3hQSUhzT0dSY3Zja2VQUkZEMENHRERiU0dRUFFKaU9maEV0MUVLLTdhR3MxcmxOQ0VNME5WVlA3NndxMG8tdGdrV3JGNXdmQ3VNeURXQ0Fqd0tvN3c?oc=5",
-      "published_at": "2026-11-10T20:00:12+00:00",
-      "topics": [
-        "finance"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "finance"
-      ]
-    },
-    {
-      "title": "Haití concentra el 40.9% de las exportaciones industriales de República Dominicana",
-      "publisher": "Periódico elDinero",
-      "publisher_url": "https://eldinero.com.do",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbVNHSzNVcnlhR21oSDhaeVA5Qi0wSm5GMktRVkpZTmhvd3owQ1UwdnFQMHBWdUw3SFhqWmJXRWF5bDVjazlfNEROVWNrWXRfMzZJTVlqUjBtcmJXZ0NwWGlHTTgxckNOVEZ5aXdXQzNYOTdiY1prUGhVTFVYRWJST2RIUFkxOXBSeU82cUI2RGNsZ2F6Tk1NMVBwSnZHeTUzN0kxcGVtRDJ1X0o1TEFsRmxjUQ?oc=5",
-      "published_at": "2026-11-10T18:12:24+00:00",
-      "topics": [
-        "economy"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "economy"
-      ]
-    },
-    {
-      "title": "¿Está la República Dominicana al límite entre la deuda y los impuestos? (II)",
-      "publisher": "El Nuevo Diario",
-      "publisher_url": "https://elnuevodiario.com.do",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdnRwV3hFV1NRbXZlSTZPOU0tT2JhU0FScXlXZWtNQ1hCTk54NTl0eTg1ZDVZUk4xSV83N0Fhd3JtSXlxQUxhcFNzd1FhRjNRM1ExV1BlUHZLOUo5cDRWek04ZzVMMnB0TlkwdHUtbFdlOXlQLTQ1Q2wtaFNVRHp3eGkwbWk5SFBIWDgydXc2VDYwY0hKQUZzSlYtMVVuQ2tzLVdKWQ?oc=5",
-      "published_at": "2026-11-10T17:12:10+00:00",
-      "topics": [
-        "dgii",
-        "fiscal"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "fiscal"
-      ]
-    },
-    {
-      "title": "Inversión de fondos de pensiones en el exterior está permitida desde 2001, pero sigue fuera de agenda",
-      "publisher": "Acento",
-      "publisher_url": "https://acento.com.do",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNTEZSb21OaWRka3VvY1pkX2x5Y1NGSmpkZXNIVmRESEVkSzNzLVZKemxTanVyMnBTdzUxVG51ajJmRFBKS2hqbnZ5bnpWQm1Ta2RodWRVY3ozeXUwV09KbmNOTHZmYWlzTlFOVi1lcVFWTFR5NnJpUmk3cnN4NXd1b2hEbnRreTBoVUJqVlhfVFl6ODA1eThVYUliZVVicFFFM1RrZGw5bHpVZHRDejgyQ0t6eXlxVlJLSDBMTTd0WVhtbzlBSm53cVkwZlI5QTNzLUs5UHE3bG1Kbm15?oc=5",
-      "published_at": "2026-11-10T14:15:49+00:00",
-      "topics": [
-        "finance"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "finance"
-      ]
-    },
-    {
-      "title": "BCRD informa inflación octubre fue de 0.58 %",
-      "publisher": "El Caribe",
-      "publisher_url": "https://www.elcaribe.com.do",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTVRhQlZGWWY2ZzJaTjhONndtNmsteC03NXVDaE5KdGhvSHZOM0JhSDRObi1Od0ZMSGZscGp0RzFOUmc2YnhrYU43RldybnRTUHZkbDZFTUh3dFZXTEdReTljQWVsbzg5aW5JZ2JBSWpNRFNGQXdhcFpUMURhZ0t6OTJvSU1NNUNQY3VDaVo2NVE?oc=5",
-      "published_at": "2026-11-10T10:30:38+00:00",
-      "topics": [
-        "bcrd",
-        "economy"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "bcrd",
-        "economy"
-      ]
-    },
-    {
-      "title": "El depósito que más crece en la banca es el que más rápido puede irse",
-      "publisher": "Acento",
-      "publisher_url": "https://acento.com.do",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZ0tyMElMcFNWUjFwTEhFY1ZGVXNtZ056ank3YkNYcU1lcEdkNnZ5LU1pOXpLU0VDNWtmZV9SY0Q4S3JEYkhDYkhpdU56X0tndVVIYTcybmczMVpWM082Wk5fRUpBTkNndTlrekNrRzhjVEV2azkxbm5PbnYwNk0wMGNZbE1mUGVIVnU2bGJQM2dZSWZ2dGJsT0puWFhxSkJZQWU2TGtBN0E3cE52MFpBejNkONIBswFBVV95cUxQZ0tyMElMcFNWUjFwTEhFY1ZGVXNtZ056ank3YkNYcU1lcEdkNnZ5LU1pOXpLU0VDNWtmZV9SY0Q4S3JEYkhDYkhpdU56X0tndVVIYTcybmczMVpWM082Wk5fRUpBTkNndTlrekNrRzhjVEV2azkxbm5PbnYwNk0wMGNZbE1mUGVIVnU2bGJQM2dZSWZ2dGJsT0puWFhxSkJZQWU2TGtBN0E3cE52MFpBejNkOA?oc=5",
-      "published_at": "2026-11-10T07:00:48+00:00",
-      "topics": [
-        "finance"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "finance"
-      ]
-    },
-    {
-      "title": "La Asociación de Puestos de Bolsa de la República Dominicana (APB)",
-      "publisher": "Periódico elDinero",
-      "publisher_url": "https://eldinero.com.do",
-      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPOU11cloyX2lydEdCY0hrSGI4MVhaSkxlQkswWDlvVHhXQ0VGU0Vxa0wzNGtQNWlMUVZ5aXZ6R1gxSGVoU3BCTm81Q1c1VG9maXJ4Mjhta1lhS1Bob3JxNWRrWjk0VnY0ZVBxRHcwSndobWxNaFJfTVc2NTUwOGdpc0VMbUVzbjlpd0xreW9tVjc5MHRpc0tMc1BuU2ZRVnRCREVFaHAyOTd1RzVjaTRBZ24zbHNZWWw3REJDa05pUzhkTThLVU05VE1xN0hMWVRrUUZPLV9tY2VCUGYwV1BRZGl4Mm5vMG45MWZodFlFMVJmTG96VUNOOWY3LXZnZ1VxM3JZUDVPRnBNY3dVYXk2TDAzQ21fSW83UldqQzMzUQ?oc=5",
-      "published_at": "2026-11-10T06:37:41+00:00",
-      "topics": [
-        "securities"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "securities"
-      ]
-    },
-    {
-      "title": "La amnistía fiscal aumenta las recaudaciones de las penalidades en un 134.5 %",
-      "publisher": "Diario Libre",
-      "publisher_url": "https://www.diariolibre.com",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQS3U5Z1dJNTdRbl8zV1YxdmNWRmJYT3VzLTRKZWdCbWUzdk1lQXFDUldDUmpJSGFZbldtdkVfRDNFYnlmYVdOTFZ0a3pmYVhQQ0lYVTYtMTQ3bHl6RjFfUWVpcGpQYUsxNWUwdVF6VFM3SzR1UjFQYUkyUHJaNVhMbDJxN1NYWHBlYTJjRElhc2lPTnFsUldDcEJnSWF3ejVESXpSZHNKQnlXMkVHV044c2xENzczbVJxdWwzVjFtYUdZU2FF0gHKAUFVX3lxTE1taUFRQmE2WjZZLU9Ga3Z5SVJQM3FPN3cxRlhfTVVzUHkwZ0dFTFBMckI1TmczcE9oY2NVM3V0bkgyTExKOHA4TlE5Vk91UWEzTlJuVUp2N3F5OExlNzlIdDM2TVpRWXlTZEhOYjdZMVIyWVFRWVEyZDVSU1hIREVHRDdEWlZtOW1sb19VSUEyN0l0V2VTaHFvWkczUjFfWVcwdG5tdUFDOUdSR0piallyeXUyV1ZHN0JrY2pVenc2eVRETTV2R05RcFE?oc=5",
-      "published_at": "2026-11-10T04:02:00+00:00",
-      "topics": [
-        "dgii"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "dgii"
-      ]
-    },
-    {
-      "title": "Reclaman bono navideño para portuarios",
-      "publisher": "Hoy Digital",
-      "publisher_url": "https://hoy.com.do",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcFVYdnhsTVE0TkdwRjYyd0J3Q211dG0xbVIxeXg4b2pxVU1wb0g3bkZueGV6OWhKc1dxZW9UZmRLam9SX0drcUJiTXJXREVWOXNOSXVqcVJkVHdGS1JvTnE0MTJGVmRVb0tKamE2SVExQ0kzbUNKak1fTkdhaUFJRmNaWmTSAYQBQVVfeXFMUHBVWHZ4bE1RNE5HcEY2MndCd0NtdXRtMW1SMXl4OG9qcVVNcG9IN25GbnhlejloSnNXcWVvVGZkS2pvUl9Ha3FCYk1yV0RFVjlzTkl1anFSZFR3RktSb05xNDEyRlZkVW9LSmphNklRMUNJM21DSmpNX05HYWlBSUZjWlpk?oc=5",
-      "published_at": "2026-11-10T04:00:00+00:00",
-      "topics": [
-        "fiscal"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "fiscal"
-      ]
-    },
-    {
-      "title": "SB y BID entrenan entidades en economía conductual",
-      "publisher": "El Caribe",
-      "publisher_url": "https://www.elcaribe.com.do",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVGVubVp5UE1TMGNhVi1zSENhY09EXzFGWFQxRnJ5TDNudlNwMXVkR1M0c09YNnBuREd0RGNwcTE5eHFidHNMc0lDOUpZUzR2RW1YV0FPRW1BM01ESmZCMnZqM0Y4Um92NVZCUEVmbnRBRUpRSHZCVURTSTNGcjA2YmZhczFlTVU3clpNajRxLVdtUDRJRmNGTnZjSQ?oc=5",
-      "published_at": "2026-11-10T04:00:00+00:00",
-      "topics": [
-        "dgii",
-        "securities"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "dgii",
-        "securities"
-      ]
-    },
     {
       "title": "Republicanos, demócratas y el déficit",
       "publisher": "El Caribe",
@@ -457,76 +271,6 @@
       "economist_match": "search",
       "searches": [
         "economist_jaime"
-      ]
-    },
-    {
-      "title": "Del campo al río: la deshumanización",
-      "publisher": "Acento",
-      "publisher_url": "https://acento.com.do",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaUEtLUhKR1VwX1UxdHE0a3hKdFcyYWh6Z1dyNVBlbUx2NzFOTVJ2RzFVX3lwN3RPaFMyM25pV0x1bWY0WXlvcmJjS3o5OHFVYWVCWEF6OXRFN3dPNENpSVJkSVpwMHlJb2pfZG54dGwwNEdCS01SMF9zRGRLMnBsb01nM3DSAYQBQVVfeXFMUGlBLS1ISkdVcF9VMXRxNGt4SnRXMmFoemdXcjVQZW1MdjcxTk1SdkcxVV95cDd0T2hTMjNuaVdMdW1mNFl5b3JiY0t6OThxVWFlQlhBejl0RTd3TzRDaUlSZElacDB5SW9qX2RueHRsMDRHQktNUjBfc0RkSzJwbG9NZzNw?oc=5",
-      "published_at": "2026-11-05T03:05:13+00:00",
-      "topics": [
-        "opinion"
-      ],
-      "economists": [
-        "andy"
-      ],
-      "economist_match": "search",
-      "searches": [
-        "economist_andy"
-      ]
-    },
-    {
-      "title": "«¿Inmigración empobrecedora?» de Andy Dauhajre (2 de 3)",
-      "publisher": "Acento",
-      "publisher_url": "https://acento.com.do",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVHNLVzF0eW9EMWhTWFVRdm44SGMzNFktM196NmdOT3JFRE1ObnR6eERlRzVhVE80dkhwVEx1azdEQjB5NVp2ZUZqRnpKcHhLQkZKR1pPbFZLb3hKcmFjWWhPZzFwTE9fV0RqVUpFX0hIU0ZsNzBfQWtzcVg2LWI1Q1hmT09hX1k3aHdrM2JRbUxMNnRjNlVV0gGXAUFVX3lxTE1Uc0tXMXR5b0QxaFNYVVF2bjhIYzM0WS0zX3o2Z05PckVETU5udHp4RGVHNWFUTzR2SHBUTHVrN0RCMHk1WnZlRmpGekpweEtCRkpHWk9sVktveEpyYWNZaE9nMXBMT19XRGpVSkVfSEhTRmw3MF9Ba3NxWDYtYjVDWGZPT2FfWTdod2szYlFtTEw2dGM2VVU?oc=5",
-      "published_at": "2026-11-05T03:04:53+00:00",
-      "topics": [
-        "opinion"
-      ],
-      "economists": [
-        "andy"
-      ],
-      "economist_match": "headline",
-      "searches": [
-        "economist_andy"
-      ]
-    },
-    {
-      "title": "Realizan edición del Financial Summit 2026",
-      "publisher": "El Caribe",
-      "publisher_url": "https://www.elcaribe.com.do",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWlBjbWQ3Y2NMNllvNEhHTVNGdFNFMTVJTkZseFRaVVRvWnQ5NUU2WVhSazI5U1YtZnNLbzFxRWN4aFUtSkVmWHVXYVg5ck9SREtuNzI0ZGcwb0FhVHc1MlFiNFNJd2FjUHNuOTlLZjF5b2FZY3E2Sk1keFF1dTdTTURhNUlBd0lhNmNSZg?oc=5",
-      "published_at": "2026-11-04T04:00:00+00:00",
-      "topics": [
-        "opinion"
-      ],
-      "economists": [
-        "jaime",
-        "jose_luis"
-      ],
-      "economist_match": "search",
-      "searches": [
-        "economist_jaime",
-        "economist_jose_luis"
-      ]
-    },
-    {
-      "title": "¿Llegó la hora de focalizar los subsidios a los combustibles?",
-      "publisher": "Hoy Digital",
-      "publisher_url": "https://hoy.com.do",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbllDclY5QXhhZmtvamFaOGt4Q0psNUljOVlFTkVHQ1o1VGlLTHFNUHI4WHdpcmVNcW5RYi1uUThUQ1diN3MxbkZPWmdEYnpldEhiT0doYkZHYmQ4OGllQTJ0eE42elZfY0lTYjFhS3hvTmtpSFdyX0dIZ1EtNWVoMllhRzJvcFpFOFZpV9IBkgFBVV95cUxNcFpyRW1LTlBkUXBVM2xfamdUM3ZiRDE3bGZXb2l5emF4Mllfd1QyZl84MldxNXdvaVh6U2ZaaHV3b1VnWDRLdmZfaUJadHNhUnhHSWpsejctUkdBU0FRX1liT0ZGc2JyYVVLMDBMTl9XTTE2OHJvTEd4UUttUmpZb0tsWEgzdzhyS1R6aW45bUpzdw?oc=5",
-      "published_at": "2026-11-04T04:00:00+00:00",
-      "topics": [
-        "opinion"
-      ],
-      "economists": [
-        "andy"
-      ],
-      "economist_match": "search",
-      "searches": [
-        "economist_andy"
       ]
     }
   ],
