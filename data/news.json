@@ -1,7 +1,7 @@
 {
-  "date": "2026-11-11",
+  "date": "2026-11-12",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-12T00:47:14+00:00",
+  "checked_at": "2026-11-12T07:24:09+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -14,449 +14,43 @@
     "rd": {
       "ok": true,
       "error": null,
-      "count": 3
+      "count": 0
     },
     "centroamerica": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 0
     },
     "mexico": {
       "ok": true,
       "error": null,
-      "count": 2
+      "count": 0
     },
     "usa": {
       "ok": true,
       "error": null,
-      "count": 15
+      "count": 0
     },
     "europa": {
       "ok": true,
       "error": null,
-      "count": 22
+      "count": 1
     },
     "global": {
       "ok": true,
       "error": null,
-      "count": 15
+      "count": 0
     }
   },
   "items": [
     {
-      "title": "Eli Radiopharma Completes Series A Financing of Nearly RMB 400 Million to Advance Innovative Radiopharmaceutical Pipeline Toward Clinical Development – Company Announcement - FT.com",
-      "publisher": "Financial Times",
-      "publisher_url": "https://markets.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORXN1YWNSTFNfejZ4YW1MZ0VjS2hQN1ozSHRVSmRaaDZxQnF2N25oem9sb3RiOU0tbmlEZC1yQlAxSkNTYThyRnhCakdVRXhmcVlCOFVzQlp6ZFNMTm5sN0VjV1o1VjJNbmdSNnJvb2Y2MHpLd2hFbkNSa21lN3BkMGVteHMzaWUzS3llRFNZb1FaTC1TVHExaw?oc=5",
-      "published_at": "2026-11-12T00:05:51+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "Cómo proteger a tus mascotas del frío: vacunas, mantas y los errores más comunes en invierno",
-      "publisher": "Milenio",
-      "publisher_url": "https://www.milenio.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVy12My0tMXV4cEM5MFJPbFVtYWdwYzF0LUtWZ2k1RlpSdzc5c09iU1EtbWlnNC0tempneGZ2ZlFNdjZNcHdRRnJMTlE4S3RCUzhHNXQ5STVkZG94MnlkY1lkZTliWnBaaXNEOWJSSldBN1RpOGJKY1FjeXlJZVRacUhCUEVPSHBUSHVvb0pVNXFhWHhEVVdPLXdOUdIBmwFBVV95cUxPclc2S0pCNzF1azF5bnZCcW5IZkFiRkxXRFJ5aTllZWltU0xEcG1UYlotd3hRYmRHQzdFVXJkd2RyVnp0QlJBQW4yMjVfbjZDWUhobTdsaWR6dE92MWExVkJWbmhuczhhcHlFTlljUUlYUEZJNWotbHYtNmkyS2JHVjdPZV9WMVppWlVLbXd6bk50TDRDOXJzb21Kdw?oc=5",
-      "published_at": "2026-11-11T22:19:00+00:00",
-      "regions": [
-        "mexico"
-      ]
-    },
-    {
-      "title": "Breakingviews - COMMENTARY: China emerges as obesity drug lab for Big Pharma",
-      "publisher": "Reuters",
-      "publisher_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWDllYlJYMi1TWmR0QXlzeEwxT3Y2RENJMktwS2lxX0RUZzJnVTRPNGFRU0xROUw5OWFqdmhpR3NmTDdiRE5Jaks0TkE2c3p1UGxnQ3YxTi1uTGw3QXBPTW5UenlFN2pnMDJlUFBwX3dvZWl5Sm9FY2VFQzFHSlVVc1NWS2FvbnRjOThRQUtUQkdTcmtCNV9TY1EwT0lsalo1dHRrVg?oc=5",
-      "published_at": "2026-11-11T22:00:40+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "All of Us study finds thousands of new genetic variants affecting drug responses",
-      "publisher": "STAT",
-      "publisher_url": "https://www.statnews.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQVJ5ZWpsQm1OTEJ4QV80d09CamxOcWh5a3BzalZLYTRYZEVYMWVXX0t0YWI2dkdVdmVtNUN0SlZnbkpBSXFOSDVyVHJGc091Z1FSeUEzbndXWERlMDExbE1DMWtyYmhkS0U1eVpObkVYR3U5bVhvZlBLQ3lQOFZ1dHA3bzVSaXhhVUN5QjZnMTc?oc=5",
-      "published_at": "2026-11-11T21:40:28+00:00",
-      "regions": [
-        "global",
-        "usa"
-      ]
-    },
-    {
-      "title": "Feds arrest top official of healthcare company, alleging illegal drug importation",
-      "publisher": "CNBC",
-      "publisher_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNazI4eWlxb3BiLVhYRW1jZjNuVnNpbUZYTHVTMTFYZVloRGtfWTkydmlvSDNfTFdlUmdaQjBtcjYtVFdVUXFkVzg4QzA0R0tZd3ZHU3dIZi1sUjJ5M2hWRXUxZ3JxOUFBQUVOTE1oRmkzVlZoU2lPWFE1eVNEaUNJVHFZMjU?oc=5",
-      "published_at": "2026-11-11T21:33:17+00:00",
-      "regions": [
-        "usa"
-      ]
-    },
-    {
-      "title": "FDA cites record request breakdowns in trio of warning letters to API makers",
-      "publisher": "Fierce Pharma",
-      "publisher_url": "https://www.fiercepharma.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQVVzSmF3REtBVUstbVc0NC1yWWJoS2tfcV9ZNkE1am55V3prMml6NkM1bnJPSldQaTRhek52WVdiUTN2ZHlmT2t3eTJLUGZqRmVLTk5laHRuUzN1b01NV1NVazhMNmxJZ2RMVnN6MmFUR3Myc2YzWXEzNjA2Yk5xQmZBMlVmNFo5ZS1tQ2tPNFByRDlyTGZwc2NzYVRtVTI1cDI0bw?oc=5",
-      "published_at": "2026-11-11T21:20:49+00:00",
-      "regions": [
-        "global",
-        "usa"
-      ]
-    },
-    {
-      "title": "CPC Biotech Launches the Quattroflow HTX All-in-One Pump Drive for Bioprocessing – Company Announcement",
-      "publisher": "Financial Times",
-      "publisher_url": "https://markets.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRjNGeEFZTm5lZy1jdWJING91NzFIR3BObGRWVGpsY0EyUVVDWC1PT2JzWEN2N0d1bXV0WkxQMzJRXzA1QW00a0lRd2wyVU8yNW1ZMHRtOXJlSnhJMS11bUtJd3JKTHZ5S2NvWldkUWp4eHZEaGUyeTVsd0F0RzU2bkZwSFU4enVRYzJRR0VXTlExaVJlbU02Wg?oc=5",
-      "published_at": "2026-11-11T21:15:00+00:00",
-      "regions": [
-        "europa",
-        "global"
-      ]
-    },
-    {
-      "title": "Cassidy sets key vote on Overton, even as he remains undecided on nominee to lead FDA",
-      "publisher": "STAT",
-      "publisher_url": "https://www.statnews.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRldUbDU0ZFY2bFdBWXNMcWczckFvb2xJMURTVFFyRXU4QUtIaE1NNG5qcTZZM2JDYUF4U3d4QzNqcFo3X3oyMUVZa050WmIwNmpISjJzZ0VFdUFEOGhIcWE2MlA2TWNObnFvODZuNUJlRFBQMWdYTXdoNnJJSjAwUi1vTWVQTE1DTkVDdlJvTW1OdHNpNG9KVVJqcmdQdw?oc=5",
-      "published_at": "2026-11-11T21:10:57+00:00",
-      "regions": [
-        "global",
-        "usa"
-      ]
-    },
-    {
-      "title": "Most-favored nations policy makes drugmakers rethink launches abroad",
-      "publisher": "STAT",
-      "publisher_url": "https://www.statnews.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYTkybHhqZXhXOVJkLUpKUU9QRkhDa0FycERhQlktWlNoY3hZRzNqQUg4bG9OSElhb2xVYjR5ODQ4dDRtYlZIYzExdmt5MnhxN3l3SGdkNmFWYWVENUxsWGlMeG5DdGQwR19jQUd2UW1wZS12bDVlZkRNdTV4Z2JiUHNha18tVFZ2aXQ4eENabzlsb0tjb2dKaENn?oc=5",
-      "published_at": "2026-11-11T19:45:28+00:00",
-      "regions": [
-        "global",
-        "usa"
-      ]
-    },
-    {
-      "title": "Emergency Medicine Leader Condemns Corridor Care",
+      "title": "Drugs running was like 'a paper round' for exploited son, mum says",
       "publisher": "BBC",
-      "publisher_url": "https://www.bbc.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5VY1BmS2FXbHZnMVowZnlKTGlnWVAyNmlOUm1rcUxtb3ppcDk2TmRrQXRxZ0lrOGpYeV9iNlQyRWFHRzlxWVZ1R0xBbzJ0c0tLNmg4?oc=5",
-      "published_at": "2026-11-11T19:17:11+00:00",
+      "publisher_url": "http://www.bbc.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAyVlB1Tml5a1VnT3oxeEtKR2lka215MGVWcTNmaGFidjQ0ajNFUTdwUWdVYS1xMGJ5TlZneHh4T1kxOHFDNVg4TFBYdGRSdEZrUzRURkdzNS1Cbkxi?oc=5",
+      "published_at": "2026-11-12T06:03:10+00:00",
       "regions": [
         "europa"
-      ]
-    },
-    {
-      "title": "GB and Wales' Griffiths banned after drug test",
-      "publisher": "BBC",
-      "publisher_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1UY1RDeThQN2o1WGVuWUZoUTNhb20xc3lEWEpvbXpLdGhlQzNNTExlOF9oU2RqNUhSdXhidjJTSzZhdU00Wlo3RGJ3MGhVcENrenI1RktNc2RFZWJRY3BiZi0xVm1BYUF5RVE?oc=5",
-      "published_at": "2026-11-11T19:03:02+00:00",
-      "regions": [
-        "europa",
-        "global"
-      ]
-    },
-    {
-      "title": "No, la vida no se compra en la farmacia: Se conquista, se defiende, se vive",
-      "publisher": "El Nuevo Diario",
-      "publisher_url": "https://elnuevodiario.com.do",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWXlzRTlRWFhhX2ItUUtpLTlQemxVc01GeWxKNDFaSy1oaUM5Q2k1UGR1M2Y2emR6SjJ4Zm55ZDk4eGgzOWFfenpHRzM5bHNqcEQwcG96ci1GWUxIaXNQYXRwR0V5bzFibjdSVEoydGlsSjBIcUxlMUVwV3JBWXdYUkJjMTA0SmgtSmV4Ui1VaUZiT0hoMERnU2pqYjdjTGtZU3gw?oc=5",
-      "published_at": "2026-11-11T18:18:25+00:00",
-      "regions": [
-        "rd"
-      ]
-    },
-    {
-      "title": "Prediction markets tied to clinical trials and drug approvals draw lawmakers' ire",
-      "publisher": "CNBC",
-      "publisher_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTGszZV95WGlKT3FOMjBQYUU0M3ZRb2xiNFJyaVZFcl9NSE9pMXNLUDhmVnI0Z2VPZmdPX1dsNEJvRXZvQU9LZGF2SjMtLVZiaUN2ZllZSjJHVFNEUTZSNXFCWUpSMmd3N0k4TW9HUzV0dTJzX3FySkl2ZkpuNVhMNVE0UkVxblFUU1lYZ05OOERHNnctU1JOSDNUT0lBT0k?oc=5",
-      "published_at": "2026-11-11T17:52:40+00:00",
-      "regions": [
-        "usa"
-      ]
-    },
-    {
-      "title": "Christa Pike: abogados investigan fármaco usado en ejecución fallida y por qué Tennessee busca impedirlo",
-      "publisher": "Prensa Libre",
-      "publisher_url": "https://www.prensalibre.com",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVzVYWjRaTjZtUXVObUJNeFJuNmtsQy1hS3htT2ZmQ2R6RVRNcDEyeVcxYkZBZko1cVhJSW1YQXFfQWNlOHpRanVmVk9vTXJaX2lWeGYwQmljNWpYeVZsZjh3Z2xZME9aaE9MZnpKdEo5TXVBMjBJREZCbURlSDVmOFJrTXdJRk5kVmR2YTA3dG5oV1E5ZmRfRW5tcVNvTUpvWUo3VGFTcGtSNWM5NFRwZXZ3QkRNZ1lENFpBaG9aQUoteEdHZi1RRWxuQWUxWkVYdE1DX21OYUYyQi1pZGtj?oc=5",
-      "published_at": "2026-11-11T17:16:38+00:00",
-      "regions": [
-        "centroamerica"
-      ]
-    },
-    {
-      "title": "Drug courier, 19, found guilty of murdering teen with zombie knife",
-      "publisher": "BBC",
-      "publisher_url": "https://www.bbc.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5HT09qSkdfaWdkWVAxS0kyNmRmeUZ3S1hkWkN4bFhTZ3pIVEY2VkpwMVpQNXVMakFscF9DbzJOUmFOLUR4enRLMTEtc0ZCaWVBQ3NZYWg2RHFHc01CY2c?oc=5",
-      "published_at": "2026-11-11T17:15:08+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "Drug price hikes in Germany could push US costs higher, study says",
-      "publisher": "BioPharma Dive",
-      "publisher_url": "https://www.biopharmadive.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVXZMd2FmcUNsOElhd0lBUV9ETS1WZ2pCeERPdnBoTWVFdDA4QmJHY1JCbllkUTZDaF8xYm5UNkljTXdYMXZDY1VCVTdNckN2Z085NFZQR0d2ZE5YX0g4NHJMRDJYaVBkNTQxRHBmWUljUE1UbUhUbFdVVHZwQ3FkLW1QMVU0WHBSaURsRHdFS0c?oc=5",
-      "published_at": "2026-11-11T16:24:18+00:00",
-      "regions": [
-        "global",
-        "usa"
-      ]
-    },
-    {
-      "title": "Amgen's Sjogren's drug cuts disease activity in trial",
-      "publisher": "Reuters",
-      "publisher_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSFMtZ1VMajdmc2hreXdTMnZOYUZXVEJSNDZpSFFON2NvUzBzRXJ2UDlzWnJ4Z0o0aFRFLWNWMVY4N21fcV9EQjA3UFV3dzZTNjI1YVdhSlZ5eVV6T21lXzkta1g2Qkw4aHZra2FHVzNsRDNaR3Y4eWlVaGJpMjZ0VTJjY1NtTzcyeU1EM292QzhpVHN6RVhhSmRNNWQ4cVh5N3Nfa1AxZm8zQWVYWFNHNlFSbkZ1NUJiT1p4R2p0OU5IWDNQdTg3QUJCWGl4Zw?oc=5",
-      "published_at": "2026-11-11T15:29:07+00:00",
-      "regions": [
-        "europa",
-        "global",
-        "usa"
-      ]
-    },
-    {
-      "title": "Legend Biotech shares fall 16% after first earnings report under new CEO",
-      "publisher": "Fierce Pharma",
-      "publisher_url": "https://www.fiercepharma.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSTdUMWJDWHB6cTVzN0c4YU9yNzA5dWpVeGxHa0wxaVNabDd6VnFuc29kU3RfRzJkejZEV21hT1B1UVk0TG1VYlhUT3BGSExpR2RDcVhEdEU3T1lxUkNTY2RFcFlicWpKZmhQbDVNQ19yOVZXRUxsNHJnX0tNRjdBcURXU1Rhc3lpOVFaME4tRXdYTWQ3bUg1VlpHSlJzMnlLcm1NRFhwTVZhT1k?oc=5",
-      "published_at": "2026-11-11T15:19:40+00:00",
-      "regions": [
-        "global",
-        "usa"
-      ]
-    },
-    {
-      "title": "Pharmalittle: We're reading about Dems eyeing Trump MFN deals, fewer drug launches in Europe, and more",
-      "publisher": "STAT",
-      "publisher_url": "https://www.statnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTE82aVc1eTg5TnJPckxaRDdMa2dxZGJNSnBaYlVhLVRjS013eDU0d2tfR1JhNU8yWWNuZWhWMExCeE4zM2p4THNnMUN6cjBuX2tmT1NYMDluNXZDallqMVliTXZISWN6aVZEUUxFeXpsc0wyWmZtbEUyUFUyb3l5SjRiaDJpU20xMmlMR2pHU3hOdmV5S083YmN5RVZtYmhWaHlJ?oc=5",
-      "published_at": "2026-11-11T14:50:46+00:00",
-      "regions": [
-        "global",
-        "usa"
-      ]
-    },
-    {
-      "title": "No solo quitan el hambre: los fármacos antiobesidad despiertan nuevas esperanzas médicas",
-      "publisher": "Hoy Digital",
-      "publisher_url": "https://hoy.com.do",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNR0dWVFV5cm1kZ195WHVtcUFsVTF2OUJVRjBDTzNvQWJXejhOSnlBclVlZlhYVElJT2dWZGQxVGFvZDBWNnRfLUVBQ2llMHJZc2otZF85Q3RjN0RBWkxUdDRzSW1oVW5yNi1NQmljRTVvcTVmNFVCQ1Z2c1M5UlFtSDJsVHZkRVVJN0YyY0xVNnR4T1NrYWgtNGNtOGtDREE2ZEZUQzN0R3lYc01yM0pIYmNsbXBhaHpMMTktMdIBvAFBVV95cUxNR0dWVFV5cm1kZ195WHVtcUFsVTF2OUJVRjBDTzNvQWJXejhOSnlBclVlZlhYVElJT2dWZGQxVGFvZDBWNnRfLUVBQ2llMHJZc2otZF85Q3RjN0RBWkxUdDRzSW1oVW5yNi1NQmljRTVvcTVmNFVCQ1Z2c1M5UlFtSDJsVHZkRVVJN0YyY0xVNnR4T1NrYWgtNGNtOGtDREE2ZEZUQzN0R3lYc01yM0pIYmNsbXBhaHpMMTktMQ?oc=5",
-      "published_at": "2026-11-11T14:48:51+00:00",
-      "regions": [
-        "rd"
-      ]
-    },
-    {
-      "title": "AstraZeneca buys vaccine startup; FDA issues GLP-1 safety warning",
-      "publisher": "BioPharma Dive",
-      "publisher_url": "https://www.biopharmadive.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ISVU3VmxNNXRjUVdRT3c3RWo2QjRSU3FIcUxCRkVzTkJXSWdCeUFXZGFSQmFJR3BOT3lxdXFBanFmdjRTWGhvblRnWWZ4bkNnTGZ0RXBJZUdPTmtjMzByQVVqd1FoSnY5MTBERGwtdjJFcERrMHFMVnRWc1Y0UQ?oc=5",
-      "published_at": "2026-11-11T14:20:27+00:00",
-      "regions": [
-        "global",
-        "usa"
-      ]
-    },
-    {
-      "title": "Could we see 10 Chinese Big Pharmas within a decade? Some CEOs think so",
-      "publisher": "Fierce Biotech",
-      "publisher_url": "https://www.fiercepharma.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVG9JYzF2VWNOUkFhUGMxMkp5TS10NllHLTZPS1pyVmlBbjBmbExGNEk1c0RFc0ZKdWViTnZxcjhDc2lhMHdISktIWDQ3T0RaVUJ4QUxsR2N4WVdFOWJKOXIyQzdOWVR5cm1XNGxFY3VWcVhDTjl5S3ZKSmJySkV3YmJvenVKYmxaNUVBdGRRZVBuTGgzZUlucTI0T0xRSGRpOEN0TXlOZw?oc=5",
-      "published_at": "2026-11-11T14:00:00+00:00",
-      "regions": [
-        "global",
-        "usa"
-      ]
-    },
-    {
-      "title": "Citius Pharmaceuticals to Participate in the Jefferies Global Healthcare Conference in London",
-      "publisher": "Financial Times",
-      "publisher_url": "https://markets.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOazdzTnBYcTQ4VXRRX0h4QXlYQXFaVDFLQ0twY1RTZXJNRjYzOVRraUNROE10cnB0UDVJOEtLdUNYSXdiWFNZaU1LVjh4a3FBNGZZRWVfdmRycUhhc2JHS2M2cmM5QmtlNEJ4XzJfem54eTY3bXYySDluUHpVU3BycWE1QXlCeGc5dm1HMTI2a1BZNmtlREpDSg?oc=5",
-      "published_at": "2026-11-11T13:30:00+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "BioNTech pays $205M for FDA voucher to speed up ‘late-stage oncology pipeline’",
-      "publisher": "Fierce Pharma",
-      "publisher_url": "https://www.fiercepharma.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQLWZrZ2VfZy13VERyLVJwTllQc2pWN2FjbG5qaG5VMVRqSjNmemQ3TmNsV21fbXdBNWNiWlUyaG1tR2tRTU1TMFFjaFctRDhUYnlIeXFsaXAwQ0ZoMzNvTFQwTVBFcVlYeDE4VDhOU3YwOUpuYlBHU0g4Zk5haXpWUVA2RjdjcUlXN0QwVGZkbm45bW9rRzBRQ3ZNaEpneUZYV040?oc=5",
-      "published_at": "2026-11-11T13:20:00+00:00",
-      "regions": [
-        "global",
-        "usa"
-      ]
-    },
-    {
-      "title": "Ro Was a ‘Zombie Company.’ A Reset and GLP-1 Drugs Changed That.",
-      "publisher": "The New York Times",
-      "publisher_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1leWxHRTNIYUZMT3QyZnNMbXljelYyNUE0dnJoSXpUUXVqZVRLNzhCcFQyaERiUm8ycFdpUFlCYzhzUU9fY0lpaV9jSW14ZVVmRVBsVkxMdDNlOHVHS0pSdldxTFQ5MnVMekYtX3FIbnlBSHM1YlhIQlBDN0RDQQ?oc=5",
-      "published_at": "2026-11-11T13:15:53+00:00",
-      "regions": [
-        "usa"
-      ]
-    },
-    {
-      "title": "Actinium Pharmaceuticals Announces Enrollment in the RADIANZ Imaging Clinical Trial Intended to Demonstrate the Pan-Cancer Potential of ATNM-400, A First-in-Class HER3-Targeting Radiotherapy – Company Announcement",
-      "publisher": "Financial Times",
-      "publisher_url": "https://markets.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWDJydUdwODdTOWtYVDlOQm9aTUJ1M1phblgybDhMTkF2enYtR2IxUjl6cFBWcm8ybDk1ZlhoNXA1TUxaMDM4NWJFR25wZWFMSDBwcHhWWXN4TGFITU5jUmhyUTUxTHJKVlEwOEx6YkxNazh3VHFQU0lqVkJDNHNEbk5mQXdtTEhLT3YwNUN1YXYyOVVrWDR2Mw?oc=5",
-      "published_at": "2026-11-11T13:00:00+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "Gravity is an experimental variable pharma has rarely been able to change",
-      "publisher": "pharmaphorum",
-      "publisher_url": "https://pharmaphorum.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPclJmeWFJNlpiSFlhVmFST3duNzY4SkxLcXF0RjhpRXNVcDFIMDk4OGs5R0JxZDJReHRMYy1qOERWWkZwR0FwT2hLRmVDTm1fRlBBaVlZanlvVDlUSXpoM3NCVi1OdnRtajlEWWx1RUxoRGZackpNTVhxZ1VZaFlzeHFQZW85aVQ4dk10VE1KY1NCdFJBekxN?oc=5",
-      "published_at": "2026-11-11T12:51:05+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "We need to test drugs on newborns despite the risks",
-      "publisher": "Financial Times",
-      "publisher_url": "https://www.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNllMYUVCdGVtNXhCMlhxUzlSaTRXZTJZQUl5ZWpUREJoTk1uWHZrNERlX3pFNS1Id2g4WFlrR1BneW92d3RMR3dDWVpVM3lNYktQSjU2dWdDaE9hTFBvT0FfYjZBTkUySkFMdTdrTC13dUJwaFdKcWdUM3VuZEVfbk5FZXU?oc=5",
-      "published_at": "2026-11-11T12:07:57+00:00",
-      "regions": [
-        "europa",
-        "global"
-      ]
-    },
-    {
-      "title": "Noticias de Administración de Alimentos y Medicamentos de Estados Unidos (FDA)",
-      "publisher": "Acento",
-      "publisher_url": "https://acento.com.do",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNU5MQy14bllDcDVpLUMwempudk5SQUU5eWJ3VjNPRHhPLVFUX1k1T19uY2YtTVRYVFJxSTkybHVYME1KLTE0cGxHWUJqSFJYZ2IwNnBaaTJKYzBadVVKNUVNN2dZNEZPbldqdFRqclkycVJTSk44b3B0bUNfTmI2Y1RsUTkxeUVNRDUyV2VGYkVFYmUxU0l6VzZ3VUk?oc=5",
-      "published_at": "2026-11-11T11:06:46+00:00",
-      "regions": [
-        "rd"
-      ]
-    },
-    {
-      "title": "AZ boosts vaccine capabilities with Omniose buy",
-      "publisher": "pharmaphorum",
-      "publisher_url": "https://pharmaphorum.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9pUHpHZE9iVmNHNENXRFpYVXNJajlrY1kxX0hNa1lfcjVXS0M0RVJmQXFxTlBNS0RHaHRmTTRISGgzYTEyLWJsdlQ4ZE0zeWlUOUd5VXQwcHRBNXlybE53Q2hTWTB6SXdxMmhBMVlsVVRSS0gwdU4zMzEwWjA?oc=5",
-      "published_at": "2026-11-11T11:06:31+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "Amphastar Pharmaceuticals to Present at the Jefferies Global Healthcare Conference in London",
-      "publisher": "Financial Times",
-      "publisher_url": "https://markets.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdzlNTlZ2WGk1TFo1YUdsWUpqRzhDa3Uxdkp0VVpSYzM2cEJXc3l3MU9vekh3ZUdXNGFyREFzcXBMNlF6Zm91eEdYeDNWZ01uZEhtRkZvZW9mY3pJd0xjRkxLMUNfdWY0QWU4ZXlrUHMtUVJTV3lXT0FuNGk4Um9uMXdnN3hzZWVWQUhvMjZrR0Q0RWRCS0ZRYg?oc=5",
-      "published_at": "2026-11-11T11:00:00+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "Merck's rare tumour drug Pimjetmi claims FDA approval",
-      "publisher": "pharmaphorum",
-      "publisher_url": "https://pharmaphorum.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNc0JMUkpscEtUYmZvbmUwcjl3RHI4M1k3TFAyclFKaEVISEZXTVZyWmlhVmctTjJjMEI4UklBQVdwTkc2S2MwZktsbnBfTUNHVVY2cjU2bmVXa2R4VjZpVWw2bWJ1OUU5UXBRQ3NRUjZtZnViZ29fRHRQS2JQaW1iNFYycmhGSDlJckE?oc=5",
-      "published_at": "2026-11-11T10:10:53+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "Ascletis Submits IND Application to the U.S. FDA for ASC30_39 FDC, a Potentially First-in-Class Oral Small Molecule Fixed-Dose Combination of GLP-1R Agonist and Selective Amylin Receptor Agonist, for the Treatment of Obesity – Company Announcement",
-      "publisher": "Financial Times",
-      "publisher_url": "https://markets.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcFBiZkNOajB0UDVXYWRYNjNSWTFSSTZEWUY3U1hyR0tBWXp4X2JqM21WcjRaRkxMZlZzdFU5TUhPaUF4cENSNDJxR0pMUV8tVzJvcndsNFR6ZjhTWmVlZmo5cjJCS2hGRktScGUwaFBLUlpqYU12X2lacnNVdUNXRTRxRzk0eWRqbUVmd1Y4d181YVRGRkcxNw?oc=5",
-      "published_at": "2026-11-11T09:10:00+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "KDventures’ portfolio company SVF Vaccines enters research collaboration with Orexo to explore powder-based mRNA vaccine formulations – Company Announcement - FT.com",
-      "publisher": "Financial Times",
-      "publisher_url": "https://markets.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbXk3UjZQbnhUa3RaVXRmOE5vNGV0TE1CaTVadTM2SEV6bjBxZkdWSVdib0wyWm5odHBBU0o0cmRfN3J4VU5qcGtQWi1VemxCU0k4OG1aUmxIWE12VDF0UmlDVFg5V2hqQUNSQ095QXJMYWo0bldESmhKMjFCbUNlZnRMRXFQX3dWOGNSUWlmRVdsUGxSMXRYOE9waXVhTnhSbVFiMVUzWlZLV3k5TEtaUjVucWg2NktWRHlZ?oc=5",
-      "published_at": "2026-11-11T07:45:00+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "Drugmakers tap China AI app boom to reach doctors as crackdown upends marketing",
-      "publisher": "Reuters",
-      "publisher_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNUhMNG1KUG10c1p6SkJRa3N4T3pGcHN6dU9fOWU4MDdEbFJGLV9mQlRRYUVZYU1FQ2kzb2NiTV92elFwQ0ZMalh4VzF4LWJ0NDZXUC1FUzZ4QzMtb0VvRUcxRFVqSmY4VWRpLS1uTHFwZGNxbWtlMHVFZ2YtWW9xU19ha3ctOGVyRE1nbzhpaFVKUXRtdHA1VVRKSld5NDlqcVVURFc0VFVlMGowUVFhcHN4VVM3TWwyRW1EUmNtS1N4dm5R?oc=5",
-      "published_at": "2026-11-11T07:03:00+00:00",
-      "regions": [
-        "global",
-        "usa"
-      ]
-    },
-    {
-      "title": "Liverpool School of Tropical Medicine staff oppose cuts",
-      "publisher": "BBC",
-      "publisher_url": "https://www.bbc.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1Cd0ptU0xXQ2FJTGtua0VicmNlbWRyQ0pXN2o0Q3Z6SlpRRnMyYi1ZSmxDcnZob21qQlVaSWNZSi1YMDV0ZmllalBUalBja2cyN2Y5aXNVRWpKUEQ2bWc?oc=5",
-      "published_at": "2026-11-11T06:25:52+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "Liverpool School of Tropical Medicine staff oppose planned cuts",
-      "publisher": "BBC",
-      "publisher_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9tV2ZlOEQ1RXBCcVA2WHVzcGYwQVZZd0t1bWpWUkdwcmpieDlHaHRzdjNsblhCZEppWGx6Q3VtQzN6Rjd4Nzlab3NQV1RTUGRNYTFHMWJqeHp0dmc?oc=5",
-      "published_at": "2026-11-11T06:25:52+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "Innate Pharma to Host In-Person and Virtual Event on IPH4502 on November 18, 2026 – Company Announcement",
-      "publisher": "Financial Times",
-      "publisher_url": "https://markets.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNb08zMGZaMDVYT0hHU0xVOU1FdnJnb0Z6ZHZQazUzUERveVZiT095OTExeWsxaUE2RXFrNXliNk5kUjNaSVRxSDdsaE5SVzRWR041R2dNZ2VZbVFQMGJ4aTU0aXZBLUJ4TVllMnZjYzJmRDhzQ0tmREY4VTM2V2lWaUVOR1JvV1FveTFMb3ZodVpOYXc4ckJ6bUdvcWFYQklRUnduc1NR?oc=5",
-      "published_at": "2026-11-11T06:00:00+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "PIMJETMI® (pimicotinib) Developed by Abbisko Therapeutics and Licensed by Merck KGaA, Darmstadt, Germany Receive U.S. FDA Approval for TGCT – Company Announcement - FT.com",
-      "publisher": "Financial Times",
-      "publisher_url": "https://markets.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWXF0NkhDbDFNSTRLSFZWUHN2ZzNGT2xkYWNIdkh5QlZxZmY0OHoxelM2aXk3ZmRNRnVLWVhfbW41SHNEVl9WYXlLUlBuaGRidnhEcW5GdWVWTGN1LU1palNDTDhoTVpYV05WQ3hjU05YanN4QmpmVnkwaFJwTndkVVUxeEZqWUxmbXhCWUFJdG9hX3J4OEg0QQ?oc=5",
-      "published_at": "2026-11-11T04:05:00+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "Diputado de Morena propone reformar Ley General de Salud; busca promover la donación de medicamentos",
-      "publisher": "El Universal",
-      "publisher_url": "https://www.eluniversal.com.mx",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSUVUbXZEVV9SUUZnSlhsTHVtZzZFcUNBUG5hVzFFNGhJaDlvSVZTbmQta19peE9UVWtBWXlRVlMtSWVibHVlRGJJWW1OdXlERm1lelkzQjduR1U1ODJKLXhoUkJVMmxMR0xTdkJMRml0bVZqclZrY1hOZGwzUVNtM1pnXzZwaXNzM0hqS084dEVtV3JmeXJxby11bUZXZnl3NE9pQWo1WG4yTGlxSGR4X3BOWm1ZQV81SjNXQkdVVzN4ajdJWmhWUUs5d3hjLTFzVnZLQ9IB6AFBVV95cUxQNHVBMEt6MWVTcjFtUEM2eGY5ZEljYWc4WFNjR2w1Rk9pTEQtYUFwdGNpams0TUw0UkdodTZuTmVuY2ItSUhtczVTZGtPVTc5ZjZQNGF1SUZ0c2hUOUVaQUkzblRnYWRudHJnejVYMTRoYWJFcXNWMHhrdWdOaUEzV2gyLXFjRkZVdHI0TVhBazBJWFVEeEVnRFFTdWpGa1hZU19DNXVxXy1lSG5aampsX2dXWTVYazBtbUJSbUl0VXh0Y2hmR0lFbl81OFFQeU92MkxmLXJaNDBRTVN0ZGZBVklKUFB6Z3Y4?oc=5",
-      "published_at": "2026-11-11T04:03:42+00:00",
-      "regions": [
-        "mexico"
       ]
     }
   ],
