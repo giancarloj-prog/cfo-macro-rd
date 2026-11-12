@@ -1,7 +1,7 @@
 {
   "date": "2026-11-11",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-11T17:56:15+00:00",
+  "checked_at": "2026-11-12T00:47:13+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -23,32 +23,32 @@
     "bcrd": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 3
     },
     "fiscal": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 0
     },
     "dgii": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 2
     },
     "finance": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 2
     },
     "securities": {
       "ok": true,
       "error": null,
-      "count": 2
+      "count": 1
     },
     "economy": {
       "ok": true,
       "error": null,
-      "count": 3
+      "count": 7
     },
     "economist_andy": {
       "ok": true,
@@ -83,6 +83,163 @@
   },
   "items": [
     {
+      "title": "Jefe de la misión del FMI afirma comportamiento de la economía dominicana es admirable",
+      "publisher": "Listín Diario",
+      "publisher_url": "https://listindiario.com",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaVpWdFRzeng5R1RQTjZqNmZNZlM0M3o3MDhiYnI2LThHQ1ZuTmoyNDg5VzgwTTc0bTVVMVFMYjRiR0dZNlMwdGtqNnRUalI5TUF1VUdwRlZPSVpOdDZNNzlnOTFLUG5NUmw0UlhTMlJaRDZmMTNEb3ZtQThyalFVWmNXTmxITmYwNVlSanhuWlpUN0xzZzJ5cmV6TUFKU3doZUZRZEVLN21WVDZtZzM1alpUcVhVazhWeDFHMTNoYk44cEZ4UnR4bm1CdzVxdnBT0gHQAUFVX3lxTE1pWlZ0VHN6eDlHVFBONmo2Zk1mUzQzejcwOGJicjYtOEdDVm5OajI0ODlXODBNNzRtNVUxUUxiNGJHR1k2UzB0a2o2dFRqUjlNQXVVR3BGVk9JWk50Nk03OWc5MUtQbk1SbDRSWFMyUlpENmYxM0Rvdm1BOHJqUVVaY1dObEhOZjA1WVJqeG5aWlQ3THNnMnlyZXpNQUpTd2hlRlFkRUs3bVZUNm1nMzVqWlRxWFVrOFZ4MUcxM2hiTjhwRnhSdHhubUJ3NXF2cFM?oc=5",
+      "published_at": "2026-11-11T22:29:32+00:00",
+      "topics": [
+        "economy"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "economy"
+      ]
+    },
+    {
+      "title": "Banco Popular obtiene primer lugar en banca personal del ranking de digitalización de la SB",
+      "publisher": "Acento",
+      "publisher_url": "https://acento.com.do",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUkxmSEpHTUlwSnV2azkwVElLdmdlOUdVUXI1XzVIekdUYXpUSThoVzQ1c3l5OGhiWDJEMWlyU0FKQ0lPTmphVXNXUXdmcEJtYnZLSXlEOHFuLWRrcUZ0STZnS2FnU1U2MlpuR0pZTGFjYnh0Y0F2ZHNCUkh5LVNYRzRFdU16TVRobFV1Z0xNdThhc01lUkcxME5sNGNXbGg1OEtJckFfSlRMRTNGN29nX2ZiOWFzLUdtWHNQZ2JwWmZsLWdoc3I4cTVSVHRQeUlN0gHQAUFVX3lxTE1STGZISkdNSXBKdXZrOTBUSUt2Z2U5R1VRcjVfNUh6R1RhelRJOGhXNDVzeXk4aGJYMkQxaXJTQUpDSU9OamFVc1dRd2ZwQm1idktJeUQ4cW4tZGtxRnRJNmdLYWdTVTYyWm5HSllMYWNieHRjQXZkc0JSSHktU1hHNEV1TXpNVGhsVXVnTE11OGFzTWVSRzEwTmw0Y1dsaDU4S0lyQV9KVExFM0Y3b2dfZmI5YXMtR21Yc1BnYnBaZmwtZ2hzcjhxNVJUdFB5SU0?oc=5",
+      "published_at": "2026-11-11T22:00:42+00:00",
+      "topics": [
+        "finance"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "finance"
+      ]
+    },
+    {
+      "title": "Leonel reconoce necesidad de reforma fiscal, pero advierte que presentarla ahora provocaría grandes protestas",
+      "publisher": "El Dia.com.do",
+      "publisher_url": "https://eldia.com.do",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUXBDZjlqYmVNcEppVlRlUV9pMFZBcGlYRWlxcy1ESm1FYWd6SV8xMnpzNC1rQURVeW8zRWZFN1ctdGtjcFNGc2RqQW8zYWU5MDV0ZnRqczlKaDliSG1sTjA2U1JTUFRwcmVzVXhMN3U3eDVLQmhIa0lLOGlJMlZvcGRPdlA4cHc1ZjB0a1V0Z3d4TEZBRDFTZDBLTXRTX05RODYzM0I4TTF2dGtlNVVxcE5WNU9qWFA3RDc3eUFtN2hqV0FmVHNCWE9R?oc=5",
+      "published_at": "2026-11-11T22:00:00+00:00",
+      "topics": [
+        "dgii"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "dgii"
+      ]
+    },
+    {
+      "title": "Valdez Albizu informa que economía dominicana creció 4.6 % hasta septiembre de 2026",
+      "publisher": "El Nuevo Diario",
+      "publisher_url": "https://elnuevodiario.com.do",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQXJaT3E1Wm40MDFOUXhFLU1TTHlFN2J6N1Z6bTBHUVVTSG1CV3dHanVmMFdrSUhWbDdrRG54U3REanl5azZjSk9va2daM1VjLWg2QVMtalEwU1FueWFzTWVsaTBDTTRqMkswbHlmWGhwWUFxclRhN0h3a0NGYkljdUp6TGpPTFBGVFdSMTlzZ1NRZmJoaVpNSGF4VVJEOHhCVGp3Y3ZjNG0xZHRub1BWSg?oc=5",
+      "published_at": "2026-11-11T21:14:30+00:00",
+      "topics": [
+        "bcrd",
+        "economy"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "bcrd",
+        "economy"
+      ]
+    },
+    {
+      "title": "Provisiones de la banca de RD le permiten respaldar otro sistema financiero de su tamaño",
+      "publisher": "Diario Libre",
+      "publisher_url": "https://www.diariolibre.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOY1BvYmZZT0JlOXFNVTVVMEdFTXJqV3dJLUR5X3l1QTBvbGdTbUw1Y2hCSFdjYk1PcWdWVWRhYUpVTFk4dll4aTlqV2JRVG1Wc1JXZnpHWHZuRFpqZEJKNmg1WmtMeHZCelFKZTBkRWtVWXZ6TDhOYWtYMmtKb3o3VkE2NEJsUWR6NWprVGtWcTA5eGZXQk8tZVlTYWdnT0JUa2VHcTZWbDZ0RlJHcjliRGZldHB1SXdsYnhhWVY0WTNFa1kxWkNVTHNqSdIB0AFBVV95cUxPRmU5cGNYaUQwc0wzeXFoVmhXWHJRbkhwS2FtN0s4cVRzS3UybTFrWmNvUVlRNEY0V0JhTk1KZ1l1Z3hlbGZaN0YtN1NOZTZhOUg4Q2ZWMjZTUEw1Z0U4enFaM0pPTFlIUzczR2ZtVFNjQmk3NFV2dmdTRzVReG1uMkVLWWFQOG04U3JKczJxeFZzZzJRSkItakdDWlFFUkVHc280eDlqV3lRLWQzUFA2MnRPb3BQQ3dnQkVRck9qTjdKRXpMZ2Y0cjlOYnd5OVgw?oc=5",
+      "published_at": "2026-11-11T21:03:00+00:00",
+      "topics": [
+        "finance"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "finance"
+      ]
+    },
+    {
+      "title": "Economía dominicana creció 4.6 % hasta septiembre, destaca Valdez Albizu",
+      "publisher": "El Caribe",
+      "publisher_url": "https://www.elcaribe.com.do",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbmtHWnVHQUx4d2ZuWDRCSmhKcWpZZkdTR01ZUC1IZTllR2dESlNjV3B3OUMwT2x1NkVCMnlHb2Zmd1cxTkcwQ2tPT0FtYS1RUklDb1dqc3JyN2tzV3BMN2xTVEhGUkxXejZ4UzVkdlRmdUxvU1dicmVRc1JwMjlSOUdTem1IcTZRWm5UOW5PWi1oRDBaVExnYzdEWW1zQ3NLbk42ZGd1Y0J0V2M?oc=5",
+      "published_at": "2026-11-11T20:23:16+00:00",
+      "topics": [
+        "bcrd",
+        "economy"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "bcrd",
+        "economy"
+      ]
+    },
+    {
+      "title": "El FMI destaca el admirable comportamiento de la economía dominicana",
+      "publisher": "Diario Libre",
+      "publisher_url": "https://www.diariolibre.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMlRQVnJzdER3X1prZ1hrYnZZZU9Sdm94UWdoZ3dyRGlVTmlFN0MyRlZacGhGOGpCX3ZQa3lKNHhhZHJCZzE2ajZGQjFQX09JcUNfeEJyZWdqbUpPUzNhUlp6d1NfZG8zNjBjMVhVclpjdlZxVTY2bU5OdzljYWs1Zk9xMEU3MFhaNGVYbkdkV2hOd2NUb08yQnJHSFgwNlJjR21qc2x3YXo0SFRiNHRsbEwwM2E3TmlWcmhKTNIBwgFBVV95cUxQUTluaUh6RUlncEhKOC1QaEtNVVVTWmlqZnFRU2I2M1VSSTUySWNSeHB3Z28zY1VmTlF5VjV2UTJ3V25CYTVZZUtOejM1TDktdm8zMk9rYjJBNDFfMGhTZkFIYzBvUVZtdFo2RlZCVFMtb01DX29LQloydTZzRG90X0dRSDJpUVg2eDR1QzhyZ180ODM4SDlxam9rTzk3M2RwZHA3TFB0X1MtRDhrbmNXY3Vhc0ROcHp6MkdFZGp2bkEzQQ?oc=5",
+      "published_at": "2026-11-11T20:19:00+00:00",
+      "topics": [
+        "bcrd",
+        "economy"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "bcrd",
+        "economy"
+      ]
+    },
+    {
+      "title": "Sanz Lovatón vincula la libre competencia con el desarrollo económico del país",
+      "publisher": "Acento",
+      "publisher_url": "https://acento.com.do",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTWFfWGQyb1dval9Qazk5LXFYWTZ6QnFsT0NZUzNZQjdxNkNBSWxPQnE4VzlpTFAwOC1OY2xIdy10X2ZVenE5a0lydWU1a2s2aGxQT2ZuRmZvMjktWGN5UmRkUEFLUFBUYmlWVy1SVmJRUnpaVUFXTUFxZWdVU1lxZ3hmUkEyNko3ZVIyRGNsT3ZmYXhubGdpdnNYVnFrYmIzZndKdjZSQjRzelhKclB6RlljLTJfdkt2SjF1ZzNPZ9IBvwFBVV95cUxQTWFfWGQyb1dval9Qazk5LXFYWTZ6QnFsT0NZUzNZQjdxNkNBSWxPQnE4VzlpTFAwOC1OY2xIdy10X2ZVenE5a0lydWU1a2s2aGxQT2ZuRmZvMjktWGN5UmRkUEFLUFBUYmlWVy1SVmJRUnpaVUFXTUFxZWdVU1lxZ3hmUkEyNko3ZVIyRGNsT3ZmYXhubGdpdnNYVnFrYmIzZndKdjZSQjRzelhKclB6RlljLTJfdkt2SjF1ZzNPZw?oc=5",
+      "published_at": "2026-11-11T20:00:03+00:00",
+      "topics": [
+        "economy"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "economy"
+      ]
+    },
+    {
+      "title": "Economía dominicana creció 4.6 % hasta septiembre, pero inflación sigue sobre la meta",
+      "publisher": "Acento",
+      "publisher_url": "https://acento.com.do",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQYlQ1VGp0N0NzQ2RNaGp3cWFOMVliTHU1UEhITjMydVZXWkJmOElOdF9Pd2U1TjEyQTNrOVlyM2hzUXAxYWNHZEs1RHhyZlV5RldyQ2QtcmxkZUVELU1iWk0tQThqc1JxaDdEUkxMUUdlMHdWUlJkZEFwdWRmMFZTUHdES3FoclpmTDExV3J3ckFOS2NaTlA4enVrVTBqejEwZ1dxWlNUM1JVSk45eDhmV0NQbndkenN0VkdBX25xLXFiSmly0gHEAUFVX3lxTFBiVDVUanQ3Q3NDZE1oandxYU4xWWJMdTVQSEhOMzJ1VldaQmY4SU50X093ZTVOMTJBM2s5WXIzaHNRcDFhY0dkSzVEeHJmVXlGV3JDZC1ybGRlRUQtTWJaTS1BOGpzUnFoN0RSTExRR2Uwd1ZSUmRkQXB1ZGYwVlNQd0RLcWhyWmZMMTFXcndyQU5LY1pOUDh6dWtVMGp6MTBnV3FaU1QzUlVKTjl4OGZXQ1Bud2R6c3RWR0FfbnEtcWJKaXI?oc=5",
+      "published_at": "2026-11-11T19:37:22+00:00",
+      "topics": [
+        "economy"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "economy"
+      ]
+    },
+    {
+      "title": "República Dominicana necesita una reforma fiscal progresiva, plantea economista Mauricio Cárdenas",
+      "publisher": "El Dia.com.do",
+      "publisher_url": "https://eldia.com.do",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNR3diNlpzMm9YY05YNUFqWkUtRm4tS3hGYi03bkw0R0FWbXRIVEFCOEhrNmVSTmZ6bTdKQUZLOUdFdjVMM05IdDM5d2RQWWRVM3hWc3NqdHp3dmNHVWFPUEVQTnd6M2lrcWZfT3k1eTFIcHRLTmllTzBqUnBQNGdHS0JFT0NfcFFTVlRLdnU4TGY0dGlTSXpCX2hFSU9hcm1mVEk5Wng2LUhuTzl4cnhOSW44MDlhNHR1alE?oc=5",
+      "published_at": "2026-11-11T19:00:06+00:00",
+      "topics": [
+        "dgii",
+        "opinion"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "dgii"
+      ]
+    },
+    {
       "title": "Exministro de Hacienda colombiano: “RD llega con fortaleza al actual contexto de crisis internacional”",
       "publisher": "El Nuevo Diario",
       "publisher_url": "https://elnuevodiario.com.do",
@@ -116,7 +273,7 @@
       "title": "Conep espera que negociaciones con EE. UU. permitan revisar arancel de 12.5 % a exportaciones dominicanas",
       "publisher": "Acento",
       "publisher_url": "https://acento.com.do",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTDViMURqbmFLNFJoZEJaTW5kVnl4LUQ4SlFFbzB5NmRBbHRHMGoyQ3lNUlFmWDNJODdKRHY2SGRuc1hmSnpuTjRuM1M2NjVLRnlEZkk1bFJPaUduUnRfMndRa21DZF9pV1lKTS11andYcGZxNzFIVk9qQnlGeUpUeXJvZUF0dEp0aVc3RGgzUnJhU1JUMEpONUUwVHd0RWMyUllOZlN1cVRPc091N1F5RkZQNDFscFo3eXhBcVZyTHpEdDE5NVpKSWctQVkzdzBURFdqeUdUSGItWUV1cEHSAd4BQVVfeXFMTUw1YjFEam5hSzRSaGRCWk1uZFZ5eC1EOEpRRW8weTZkQWx0RzBqMkN5TVJRZlgzSTg3SkR2NkhkbnNYZkp6bk40bjNTNjY1S0Z5RGZJNWxST2lHblJ0XzJ3UWttQ2RfaVdZSk0tdWp3WHBmcTcxSFZPakJ5RnlKVHlyb2VBdHRKdGlXN0RoM1JyYVNSVDBKTjVFMFR3dEVjMlJZTmZTdXFUT3NPdTdReUZGUDQxbHBaN3l4QXFWckx6RHQxOTVaSklnLUFZM3cwVERXanlHVEhiLVlFdXBB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTDViMURqbmFLNFJoZEJaTW5kVnl4LUQ4SlFFbzB5NmRBbHRHMGoyQ3lNUlFmWDNJODdKRHY2SGRuc1hmSnpuTjRuM1M2NjVLRnlEZkk1bFJPaUduUnRfMndRa21DZF9pV1lKTS11andYcGZxNzFIVk9qQnlGeUpUeXJvZUF0dEp0aVc3RGgzUnJhU1JUMEpONUUwVHd0RWMyUllOZlN1cVRPc091N1F5RkZQNDFscFo3eXhBcVZyTHpEdDE5NVpKSWctQVkzdzBURFdqeUdUSGItWUV1cEE?oc=5",
       "published_at": "2026-11-11T13:56:10+00:00",
       "topics": [
         "economy"
