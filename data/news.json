@@ -1,7 +1,7 @@
 {
   "date": "2026-11-12",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-12T18:21:59+00:00",
+  "checked_at": "2026-11-13T00:27:57+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -19,30 +19,112 @@
     "centroamerica": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 2
     },
     "mexico": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 2
     },
     "usa": {
       "ok": true,
       "error": null,
-      "count": 11
+      "count": 13
     },
     "europa": {
       "ok": true,
       "error": null,
-      "count": 15
+      "count": 19
     },
     "global": {
       "ok": true,
       "error": null,
-      "count": 17
+      "count": 15
     }
   },
   "items": [
+    {
+      "title": "Cipher Pharmaceuticals Reports Third Quarter 2026 Results – Company Announcement",
+      "publisher": "Financial Times",
+      "publisher_url": "https://markets.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNV0xNeDk5Nk9wVnpjMWMtRmNHcFBmcDFKTUcyVE41NGhXelVMVHVyaDRfZnh1Q05QZmRwVm9UclhUOWFyTzAtNmlfVnJtaHpxN2lFUHI4Z2VRdExleGVlUVVmbXMwdU9WMkI4a2F2RGQ2T3BHTWRsbGl6akQzUW9xOFMwa2xkbkRlRFV2TW04VGtXclV3NEE?oc=5",
+      "published_at": "2026-11-12T22:00:00+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "Eli Lilly se convierte en primera farmacéutica autorizada por China para vender pastilla GLP-1",
+      "publisher": "El Economista",
+      "publisher_url": "https://www.eleconomista.com.mx",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTk9jOV9KSWhra3JrRHgyelZrSFF1UDhRMjByV1JqRTJfM21tWHBwUEFDQjQxZ29aS1ZiT0RUamxORTFNdGtzYzVKY2hzakI0ek1JUE1fSDNGQ2NfWmRocFFQTC12NEhUbjd6TTk2QXlaaEdEczlGaG9hYnVKeGNDZUlldEJrcTBjd0tQR2dHM1lCa3hMZUlzc2xJQzl1YmxJZWphVjhPbUxFUTVqX3hKOTBJNk1LaVRzRFRURkNVVXVBcmhTbG0wWHBybFEwekxJU1ZUb1J30gHbAUFVX3lxTFBMbDNyNzBDWE9OVUowNDVjcGFUQ3NqSUZmWDBBVzJKWndTMTZVZ24tNWtpVUJuYm5INTJja2daZS1QUkdsTDBvWDhWNnNMcTRuUmFmQk1aeGRJb2tFTWVoOE5nQ2ZFZzA1dzdNOEtodmcwX0FkeG1rcEFIckF1Nk5BbVVuZXRqbWN6QmlXMFhDSWU2WjdFUHdQcHNSZUtkczEyNkZMcGpZZDlCemtWT19MbDNWTGZ1V29BRWxpOUtDb2hBUk95Zk03VmVvdVA0ZHIteXYwVW9kQTF0dw?oc=5",
+      "published_at": "2026-11-12T21:08:04+00:00",
+      "regions": [
+        "mexico"
+      ]
+    },
+    {
+      "title": "Lilly breaks ground in Pennsylvania's Lehigh Valley on a $3.5 billion site to make next-generation obesity medicines, the latest of 10 new U.S. sites since 2020 – Company Announcement - FT.com",
+      "publisher": "Financial Times",
+      "publisher_url": "https://markets.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNekR2NnE5X1NEQkUxS1RmZ3V3cWxwWnNKUlVIR21BaURZODl4cXlyTGJ3QU44VWx1U3JSeGNyOXdXejdFN1ZMUjVlTEFOUWtBOWgzNGMyNy15YjFEdXVRSXhxaFp6elZ5SzZNYkJ3c0dMR05PQUFReklLVEpFLVl4R0ZYSVRkRWUtNU81Y3NzeDc0aXBpYm50bQ?oc=5",
+      "published_at": "2026-11-12T20:30:00+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "Cambios alimenticios en las personas e industria generados por los fármacos GLP-1",
+      "publisher": "Milenio",
+      "publisher_url": "https://www.milenio.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdy1Jdlphd09OUnY4SDA5eFJmX3RIN3I2TVF3UU5OSmM3cVBqV3BEalJxcVYwazlZWHE1b0h1REd3YXM2Z0lPdmp1NGc1VG9GN0VYMWxJYTRWSkZtSG5kYjI4TWJHbTBvQXUxSTdaVGZYYjZQQUIwZmdTWHJTd0lKdlJ6MS1VWkJ3YzJBMldVb1RSWk04OThZLVdtLXJaMmpoSFJqV3Y5ODFENTQ40gGsAUFVX3lxTE04cGp1Y0lpTHVRZUszOGxtUEtkdnV3QmVBQjlib0stbFd3RmxfN3pNRXZUc3dtOFk5TzNTNG01UmVpWlFIVWNEaVIzcmFKS3NCZTJRYzFzaWtwZ1VWdm9TTkZ2cndWUVVDNVNYYVV3S0dTLW56dDdrWTJQa0l4VFlITFV2ZDhleFdGN2NDbDhHSXJPbTZJU3czU09IelFjcXk3d3FFMHZBMHdzZ04?oc=5",
+      "published_at": "2026-11-12T20:17:51+00:00",
+      "regions": [
+        "mexico"
+      ]
+    },
+    {
+      "title": "Time running out for young people to receive meningitis B vaccines in UK",
+      "publisher": "The Guardian",
+      "publisher_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNG9FcVNmTEJHTG0xWWs4dzZVclBpeDdGVWZjV28xdmc3c0lUd01FTUk0YlpmRGI5Rm9JTjVJeGJwSnJkQTRaY1Z4UWxHb0Q3dWhHZ1dPNWlrLWN6SlNhZDZLQThWNDBwV2dGOVR2UDd4aU1kV2hPd2JOWmNzODdfdkRJT0dMR1NpVFBEblA2dUo0ZW1qd3dnWm9YYzdLM1RYMFpjVw?oc=5",
+      "published_at": "2026-11-12T19:27:00+00:00",
+      "regions": [
+        "europa",
+        "global"
+      ]
+    },
+    {
+      "title": "Pharmas should stay agile as Democrats amp up scrutiny over Trump's MFN deals",
+      "publisher": "Fierce Pharma",
+      "publisher_url": "https://www.fiercepharma.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQS3I5a214UXVuMk5EVjhNcThINW9aLXYyOGZlVTZLVG1vUExOTDQxU0l0OFdsaWI0aG1iaW9kUGd1RDU5TG5iQkNmaTVBZWNrRFFzVXFJRTRRM3YybUc1bXFYLW05ZjdCVVlrQUVKTWczVnlZRDZnQ3g2Q1pwMlVaUGNEd2VCZzlYZ1NBaGh3?oc=5",
+      "published_at": "2026-11-12T19:22:33+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "In Court | Stockport Drug and Rape: “I really want her shared”",
+      "publisher": "BBC",
+      "publisher_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA5Z1FrQk5hTUQwbFdwblBNOXpqRXJTdVdPa3JQcXEzSmM1VkJoNWNBTWQ0V0drdEt5cHNJNjB5U0xzdWUtUzlEcU12czJVRHhz?oc=5",
+      "published_at": "2026-11-12T18:29:12+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "Stockport Drug and Rape: “I really want her shared”",
+      "publisher": "BBC",
+      "publisher_url": "https://www.bbc.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBWLWMtNnlfVGwwc1NyMDdRdFluM2dzbnpFbHgycUxYYzRzWXhiQ3E1YTlXSmFLVnhtYWRUYlJGSmlVUmFtOXFwb2d0VU15bjMxZ01KSQ?oc=5",
+      "published_at": "2026-11-12T18:28:45+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
     {
       "title": "Ibero Fármacos lanza su nueva línea de medicamentos para la odontología",
       "publisher": "El Nuevo Diario",
@@ -60,7 +142,8 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSE1qa2dJZWlYb1JHRzk3ZzRrbG5Ba1Qxd0tWeG1OUlA0dzJySk1rNWE0UFpybkQ5T3VkRlprUHJOUFJUX2VLU2tTbXI2WVhjUVdKT3RDUC1ESjV4OFI5TWxUSlZlYzdEcHBZM05hMTZQR094b2JCUm1NS3lDNmxiTmdJTFVLXzI2STdxMjYyMTdxWHpvaGcxNFRzWEZYdzZVNFJiem13NA?oc=5",
       "published_at": "2026-11-12T17:19:00+00:00",
       "regions": [
-        "global"
+        "global",
+        "usa"
       ]
     },
     {
@@ -70,8 +153,7 @@
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcWVtZERRaXV0Sy1ac2FjSi02LUNsWDhYVVI2eklWUHRSdFFyR1lDQkEyOFVjdm1IX3ZOVjZsc2pQUDc2TXBQWXNycDE0dmxkYjVOUHhiMDJzNV9ETHlhS3BlcG04azd0TjBYYUs4NHZrVFI1ZXVLX2cySzZzUkRLdEx4TXZEYnRyZFBHckZkSjRMbkxFYnk5MFpyMTBoZTVwTHg2RE1JSEl6ajk5eWNWWHZibEpkZzZVNjBSN2V3UQ?oc=5",
       "published_at": "2026-11-12T17:02:17+00:00",
       "regions": [
-        "europa",
-        "global"
+        "europa"
       ]
     },
     {
@@ -103,18 +185,18 @@
       "published_at": "2026-11-12T16:43:13+00:00",
       "regions": [
         "europa",
-        "global"
+        "global",
+        "usa"
       ]
     },
     {
-      "title": "Preclinical Biotech Unnatural Products Lands $1.15 Billion M&A Deal",
-      "publisher": "WSJ",
-      "publisher_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWXpYUnZxOWw4YW5fSzRXUHZaYlh4akxWWV9fZjhlLWltVmt3d3FKTVJHSzdUUUpXNlFnM0twVlA1MFdfRzNqb2RtWXdKcU1UQ0xhM1N3VTd5REU2ZzQ4TGpFYXQtMFFseUtLaDBGUTZIVHhzbVZPcW82V0lPQjI1YWFuXzlRUlFmTGFua0Y0b0N3X2hweldwWk45bTZQLVQ3bEhxMllaQ2hfM2dBd1ZqQVgzVDRnUQ?oc=5",
-      "published_at": "2026-11-12T16:37:29+00:00",
+      "title": "Receta electrónica en Panamá: cómo usar SUREM para retirar medicamentos en farmacias afiliadas",
+      "publisher": "La Estrella de Panamá",
+      "publisher_url": "https://www.laestrella.com.pa",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPWVRrdnlJS1kxMzZsUk54c29sbGpXVFJKTnBoa3V6VVNwWXFpMWZDZy1SRVNoQVpDV1RMUDBYQ3h1R0Fkd0h2Vl9oM0xYbDRUMXJ2WVlGdGhtR0RXR2FkOGtwNmpQOThLaHVWUDNyTVpRMi1iZUxFVmJrR05EZUsxY1N5aW5PTWplMmdObi1QbUYybEhVOFN0X2ZVMmlmbG54SDhCZ3REZnY1cG5oUHFpZWtMaTFrSFlvaFQ2SkhfdHl4ZnNfXy0zVFJwOGxtU09QbzRCNnhOdkpxRDhFUURfRllDcETSAeoBQVVfeXFMUDV2NkR3QjlIX3c5TXdWZ0xLalBzUEwzU0t1eVhCSGlBanVYMVE5MURQbjAtN0tyLWtTT09zX1Bqa3lOc2staThMX2oyQTdTTGtCbnhtQ3A1VF9RdnNWb1VOVXZJM2NMeTlEd01oZ3Awc05aV2M5V2hBQUxBYllLZGhsNjU1SkFkSHU0YU52Y1FWOWJXY2dqdWE4VEVNd21uLUZxQTJqanRqZ24xQzhlYzQtSHE2d2JvNmxMUEhKYkxuVHVUYTlERUZhdDd1V2Rka0RVZnhOVENTNFYwSGhTaTBUT21NQ0NtUGpn?oc=5",
+      "published_at": "2026-11-12T16:39:00+00:00",
       "regions": [
-        "global",
-        "usa"
+        "centroamerica"
       ]
     },
     {
@@ -162,17 +244,6 @@
       ]
     },
     {
-      "title": "Time running out for young people to receive meningitis B vaccines in UK",
-      "publisher": "The Guardian",
-      "publisher_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNG9FcVNmTEJHTG0xWWs4dzZVclBpeDdGVWZjV28xdmc3c0lUd01FTUk0YlpmRGI5Rm9JTjVJeGJwSnJkQTRaY1Z4UWxHb0Q3dWhHZ1dPNWlrLWN6SlNhZDZLQThWNDBwV2dGOVR2UDd4aU1kV2hPd2JOWmNzODdfdkRJT0dMR1NpVFBEblA2dUo0ZW1qd3dnWm9YYzdLM1RYMFpjVw?oc=5",
-      "published_at": "2026-11-12T15:26:00+00:00",
-      "regions": [
-        "europa",
-        "global"
-      ]
-    },
-    {
       "title": "The FDA has over 1k open jobs — and the staffing shortage is hitting pharma",
       "publisher": "BioPharma Dive",
       "publisher_url": "https://www.biopharmadive.com",
@@ -184,7 +255,7 @@
       ]
     },
     {
-      "title": "First UK patient given groundbreaking diabetes drug in Birmingham",
+      "title": "First NHS patient gets Teplizumab drug to delay Type 1 diabetes",
       "publisher": "BBC",
       "publisher_url": "https://www.bbc.com",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBSdlVTNjZCZkN4MnVoM3hFNzBpMHFMU0d4REo4M2NVblhPcjlZUVJ3eGt1U2RaeG4ydU9RalZTSEZvYU1LQXpTTWNLTU5GNVlFSkFhSWNFeDhJRjA?oc=5",
@@ -199,7 +270,7 @@
       "publisher": "STAT",
       "publisher_url": "https://www.statnews.com",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVEtEMjFuOXBhVENtVFZJRldCM2N4dm1nay1zenFTS1FCeXVrdDFHZHRUSXBrSTN4cnR0bk1BQTV3a1VyNjRUNzR3V0JHRzB6MENTUHFCbFMybS1teG1raDNSc09ZREctZF9mVXdtOW5SZ20yNzhQd2VoQTdrWXZiSG01b1NsemttVGhFWnhBbTlPbHJJb25BU0NDaEJUN2syVHJvbGpR?oc=5",
-      "published_at": "2026-11-12T14:16:21+00:00",
+      "published_at": "2026-11-12T14:16:49+00:00",
       "regions": [
         "global",
         "usa"
@@ -319,16 +390,6 @@
       ]
     },
     {
-      "title": "Tetra Bio Pharma Inc (TBPMQ.PK) | Stock Price & Latest News",
-      "publisher": "Reuters",
-      "publisher_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE41Zmp5OU1QU1dTWl9LRENzQ1ZmeGMyNzBBbWEzcWdiZVY2amx2VFRKN2NsQ0JlRnZwdVBocWJXMENJUldMQVhXNWJJa0pqcS1fWnpwbWlFNXhZT1pEQ1NyLS1FNUNUck5kZndRcEtR?oc=5",
-      "published_at": "2026-11-12T07:44:55+00:00",
-      "regions": [
-        "global"
-      ]
-    },
-    {
       "title": "Eli Lilly becomes first drugmaker to have a GLP-1 weight-loss pill approved in China",
       "publisher": "Reuters",
       "publisher_url": "https://www.reuters.com",
@@ -338,16 +399,6 @@
         "europa",
         "global",
         "usa"
-      ]
-    },
-    {
-      "title": "Drugs running was like 'a paper round' for exploited son, mum says",
-      "publisher": "BBC",
-      "publisher_url": "https://www.bbc.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE90M2RoY09xWWxmN3BHNG9RQWNwVF9YZjBuYm1wR00tbS1QWjJGTWU4b3Jhc0syQ29EVUlQZnhPakwyVE8weGNSU2VMdTk3bzRNemJTdk01ckpRVll2cUE?oc=5",
-      "published_at": "2026-11-12T06:03:10+00:00",
-      "regions": [
-        "europa"
       ]
     }
   ],

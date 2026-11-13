@@ -1,7 +1,7 @@
 {
   "date": "2026-11-12",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-12T18:21:58+00:00",
+  "checked_at": "2026-11-13T00:27:56+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -28,12 +28,12 @@
     "fiscal": {
       "ok": true,
       "error": null,
-      "count": 2
+      "count": 3
     },
     "dgii": {
       "ok": true,
       "error": null,
-      "count": 3
+      "count": 2
     },
     "finance": {
       "ok": true,
@@ -48,7 +48,7 @@
     "economy": {
       "ok": true,
       "error": null,
-      "count": 3
+      "count": 4
     },
     "economist_andy": {
       "ok": true,
@@ -82,6 +82,23 @@
     }
   },
   "items": [
+    {
+      "title": "BID considera factible que República Dominicana duplique su PIB en 12 años",
+      "publisher": "Periódico elDinero",
+      "publisher_url": "https://eldinero.com.do",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZ01BX2ZyeU5mZXhwaUtQX1docHM2SmdLSmxWamRXdzFheWFralpmZURKZU5qQnhFM19FUnJvcW9xWC00MjU3UGo5YzA4UkNqaWNVM3BZMnVkUERhTnZ6emJ2M2pTQnhOT01LdmxWbjFabEJBTld0SHdHdmxjeXlKMHd4aU11MFlCemJEVVRiSDdzNVBXNnNyd3RDNC1tU0g5OUExSkJyaGx5Zw?oc=5",
+      "published_at": "2026-11-12T20:21:11+00:00",
+      "topics": [
+        "economy",
+        "fiscal"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "economy",
+        "fiscal"
+      ]
+    },
     {
       "title": "Monte de Piedad convoca a comerciantes de la Ciudad Colonial a jornada de capacitación tributaria",
       "publisher": "El Nuevo Diario",
