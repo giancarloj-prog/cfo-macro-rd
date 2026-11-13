@@ -1,7 +1,7 @@
 {
   "date": "2026-11-13",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-13T06:56:30+00:00",
+  "checked_at": "2026-11-13T17:47:02+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -28,7 +28,7 @@
     "fiscal": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 2
     },
     "dgii": {
       "ok": true,
@@ -43,22 +43,22 @@
     "securities": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 2
     },
     "economy": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 3
     },
     "economist_andy": {
       "ok": true,
       "error": null,
-      "count": 2
+      "count": 3
     },
     "economist_jaime": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 1
     },
     "economist_juan_ariel": {
       "ok": true,
@@ -83,8 +83,91 @@
   },
   "items": [
     {
+      "title": "Foro elDinero planteará los desafíos de una nueva fiscalidad para la economía dominicana",
+      "publisher": "El Nuevo Diario",
+      "publisher_url": "https://elnuevodiario.com.do",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMWV4OUd0Zmp6VjVCR2s3Slc5MHRWWlN1UG12OVdLNGF5MXlpVjllV0tKZG80X24yODdxZWJGWmpFMVlOc1F4bGhMbW83ckNZQ1FGc1MwYjVBX0hnRzhSQ2ZKWk5UVWVZaFJFcHNVdmZrLWEyWEJqNkR5RjRLbV81SGZpd2pCczZOS1k5RkYzbGhtMlNqc3RaTVlkQnE0WEllVHh5QmFYQVVfako4aFh1OUhyek03RWFJcmc?oc=5",
+      "published_at": "2026-11-13T17:29:44+00:00",
+      "topics": [
+        "economy",
+        "opinion"
+      ],
+      "economists": [
+        "andy"
+      ],
+      "economist_match": null,
+      "searches": [
+        "economist_andy",
+        "economy"
+      ]
+    },
+    {
+      "title": "Ministerio de Hacienda y Economía cumple 182 aniversario transformando las finanzas públicas",
+      "publisher": "Periódico elDinero",
+      "publisher_url": "https://eldinero.com.do",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRUEwcndZa2JNaFpHMjRLZDJZTWM5angxSHRxeU82OV9ybTN1V2Y0SGtHWkhEZGhQUFg4M0d6X1Blb283Zi1LaHVwOUd1RlJLZFJDR2xtc1BNWUdJSVhGNk9na19XNXJpbUtNc2tMVGtOVHJuS2txWV9jR25CZmdBWFQ0cTVaaERUMGZyYnlBVl9KRVFualFzUVBTT3czMDVTX3JLTDJJa0hVMDZwcmltWXdnald4WlFKWlZpWl9sQWJfUQ?oc=5",
+      "published_at": "2026-11-13T15:42:12+00:00",
+      "topics": [
+        "economy",
+        "fiscal"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "economy"
+      ]
+    },
+    {
+      "title": "Magín Díaz destaca fortaleza económica de RD al celebrar los 182 años de Hacienda",
+      "publisher": "Hoy Digital",
+      "publisher_url": "https://hoy.com.do",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeDh2cVRHNnVEOXdJMHl2ZUhRUk5hQ0lYMVhkUGVhaUV0ZEk1V3hoeEI5UVh5WkNNSXV1djFfck9odkNWTFY5UWJRMTh2UFhOeTV1SnhMcW1BZVFsd3BHdVhOaWExS0NoX3dZTGZGUTg2cXh6Q2RQendGNENPdU5wUXZJN1V4Y2ZDTlZRVDBCVkJnSHpob1h4eWJuQnprTmN2blhIRzlqYnBFSzJNa3fSAbMBQVVfeXFMTlRXVGM2eHJkamNycWZYY3U2STNnM1J0T3d1M3hDNHYxQnJsUkV0dmhlX3ZpU09Nel9SekF5QTNOdk5ya2RYckU5MHpSdmVuOEFuWmJJZmxxQlhuNy1DVnpsdDUwMDdjZEFUdHcyZXVLOHpXbGRtRTlWNm1GeHhlUUJVel82NVVING44NEtta3NnaXU0OXp0WEVpaG1kVW42bU52ZC1lY1hPNmxtdWZ1MlZoQ3c?oc=5",
+      "published_at": "2026-11-13T15:26:07+00:00",
+      "topics": [
+        "fiscal"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "fiscal"
+      ]
+    },
+    {
+      "title": "Sipen inaugura Escuela Previsional Persia Álvarez de Hernández en honor a la primera superintendente de pensiones",
+      "publisher": "Periódico elDinero",
+      "publisher_url": "https://eldinero.com.do",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdGl1UzJBLWliYUtmMnZ0YVEtMWFYYjcwUmhpVmtZQVFESklBSGNZakFnN0U4SlJPYVJkalBaaG4wU1BfQkpmU2tTT3k5U0EtNnFNc1g1RWg1c08zaUJlUllTVl95T2hkLXlqNVhYRVdQNlVqeHBNV1J0ZkNWYTVObm0yVlBJU2RGTm5yV2ppWFc4U2pXVmR2N0tfREg0a3dXcTVRVHBFRHItSWVNVG0xbXFoaTRtbmtyNW1KX290WFNmMXVUM1htUGc2eWM0cGF2NElUa1FzUGdPUU5JMWc?oc=5",
+      "published_at": "2026-11-13T13:21:53+00:00",
+      "topics": [
+        "finance",
+        "securities"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "securities"
+      ]
+    },
+    {
+      "title": "¿Cómo invertir en la bolsa de valores en República Dominicana? Experto explica requisitos, ganancias y riesgos",
+      "publisher": "Acento",
+      "publisher_url": "https://acento.com.do",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNU0lEUHg1R3JmaDZna3RMVlhEYk5ITjlqN3V3YXFNamRtejlDU3M1ZTViTmRJMUhSQzFUaVJSQlVMTkVBZ2lZWHB5ajczYU5wU1BHd243NkVLQ3ZtVzh2NGlQSjlDVkYtWWppZWp5RGVuSDJfX0hjamgwekNsaGJja2tHcFJ0b0NyNzdWUkRtVUVFeTZNcUU1VVpWMGc4WV9xLUozTUtQZGRZbExaTWFJR09mR3Q3TVdDTDEzTEo1LUdheHJRSHJzRFp3c2dySzhfUEx2Z0tFY1BVQ01xOXdSTENCZ2wyQdIB5gFBVV95cUxNU0lEUHg1R3JmaDZna3RMVlhEYk5ITjlqN3V3YXFNamRtejlDU3M1ZTViTmRJMUhSQzFUaVJSQlVMTkVBZ2lZWHB5ajczYU5wU1BHd243NkVLQ3ZtVzh2NGlQSjlDVkYtWWppZWp5RGVuSDJfX0hjamgwekNsaGJja2tHcFJ0b0NyNzdWUkRtVUVFeTZNcUU1VVpWMGc4WV9xLUozTUtQZGRZbExaTWFJR09mR3Q3TVdDTDEzTEo1LUdheHJRSHJzRFp3c2dySzhfUEx2Z0tFY1BVQ01xOXdSTENCZ2wyQQ?oc=5",
+      "published_at": "2026-11-13T08:00:49+00:00",
+      "topics": [
+        "fiscal",
+        "securities"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "fiscal",
+        "securities"
+      ]
+    },
+    {
       "title": "Comisión del FMI evalúa economía",
-      "publisher": "eldia.com.do",
+      "publisher": "El Dia.com.do",
       "publisher_url": "https://eldia.com.do",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9sejI1dHJKSnIwWkdfUU1NTXU4Tkt5VWM4MTVpaF9iTm5Ud2M0anlqYWtxQUZhSEF0ZzRMV2h4V2JsM3QzeEczMEZwUm9JUHdINXQxNWpidEx3UmF1VGV3S19hNE0?oc=5",
       "published_at": "2026-11-13T04:01:00+00:00",

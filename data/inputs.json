@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-13T06:56:27+00:00",
+  "checked_at": "2026-11-13T17:46:59+00:00",
   "series": {
     "resins": {
       "name": "Resinas termoplásticas",
@@ -11,10 +11,6 @@
       "id": "resins",
       "url": "https://data.bls.gov/timeseries/WPU0662",
       "history": [
-        {
-          "period": "2021-09",
-          "value": 339.206
-        },
         {
           "period": "2021-10",
           "value": 339.441
@@ -245,25 +241,29 @@
         },
         {
           "period": "2026-07",
-          "value": 285.532
+          "value": 284.089
         },
         {
           "period": "2026-08",
-          "value": 283.037
+          "value": 282.982
         },
         {
           "period": "2026-09",
-          "value": 278.148
+          "value": 281.786
+        },
+        {
+          "period": "2026-10",
+          "value": 286.777
         }
       ],
-      "period": "2026-09",
-      "value": 278.148,
+      "period": "2026-10",
+      "value": 286.777,
       "changes": {
-        "mom": -1.73,
-        "qoq": -8.56,
-        "yoy": 6.7
+        "mom": 1.77,
+        "qoq": 0.95,
+        "yoy": 10.13
       },
-      "verified_at": "2026-11-13T06:56:27+00:00"
+      "verified_at": "2026-11-13T17:46:59+00:00"
     },
     "corrugated": {
       "name": "Cartón corrugado",
@@ -275,10 +275,6 @@
       "id": "corrugated",
       "url": "https://data.bls.gov/timeseries/PCU32221132221105",
       "history": [
-        {
-          "period": "2021-09",
-          "value": 349.897
-        },
         {
           "period": "2021-10",
           "value": 362.018
@@ -513,21 +509,25 @@
         },
         {
           "period": "2026-08",
-          "value": 413.035
+          "value": 414.559
         },
         {
           "period": "2026-09",
-          "value": 422.632
+          "value": 423.622
+        },
+        {
+          "period": "2026-10",
+          "value": 423.852
         }
       ],
-      "period": "2026-09",
-      "value": 422.632,
+      "period": "2026-10",
+      "value": 423.852,
       "changes": {
-        "mom": 2.32,
-        "qoq": 5.11,
-        "yoy": 7.95
+        "mom": 0.05,
+        "qoq": 2.9,
+        "yoy": 8.25
       },
-      "verified_at": "2026-11-13T06:56:27+00:00"
+      "verified_at": "2026-11-13T17:46:59+00:00"
     },
     "paperboard": {
       "name": "Cajas plegadizas",
@@ -539,10 +539,6 @@
       "id": "paperboard",
       "url": "https://data.bls.gov/timeseries/WPU09150336",
       "history": [
-        {
-          "period": "2021-09",
-          "value": 120.179
-        },
         {
           "period": "2021-10",
           "value": 123.969
@@ -777,21 +773,25 @@
         },
         {
           "period": "2026-08",
-          "value": 157.934
+          "value": 157.881
         },
         {
           "period": "2026-09",
-          "value": 158.477
+          "value": 158.388
+        },
+        {
+          "period": "2026-10",
+          "value": 159.476
         }
       ],
-      "period": "2026-09",
-      "value": 158.477,
+      "period": "2026-10",
+      "value": 159.476,
       "changes": {
-        "mom": 0.34,
-        "qoq": 1.7,
-        "yoy": -4.29
+        "mom": 0.69,
+        "qoq": 1.34,
+        "yoy": -2.18
       },
-      "verified_at": "2026-11-13T06:56:27+00:00"
+      "verified_at": "2026-11-13T17:46:59+00:00"
     },
     "ethanol": {
       "name": "Etanol",
@@ -803,10 +803,6 @@
       "id": "ethanol",
       "url": "https://data.bls.gov/timeseries/WPU06140341",
       "history": [
-        {
-          "period": "2021-09",
-          "value": 293.845
-        },
         {
           "period": "2021-10",
           "value": 295.523
@@ -1045,17 +1041,21 @@
         },
         {
           "period": "2026-09",
-          "value": 269.716
+          "value": 270.158
+        },
+        {
+          "period": "2026-10",
+          "value": 277.505
         }
       ],
-      "period": "2026-09",
-      "value": 269.716,
+      "period": "2026-10",
+      "value": 277.505,
       "changes": {
-        "mom": 3.66,
-        "qoq": 4.89,
-        "yoy": 5.36
+        "mom": 2.72,
+        "qoq": 9.67,
+        "yoy": 9.05
       },
-      "verified_at": "2026-11-13T06:56:27+00:00"
+      "verified_at": "2026-11-13T17:46:59+00:00"
     },
     "aluminum": {
       "name": "Aluminio primario",
@@ -1321,7 +1321,7 @@
       },
       "download_url": "https://thedocs.worldbank.org/en/doc/74e8be41ceb20fa0da750cda2f6b9e4e-0050012026/related/CMO-Historical-Data-Monthly.xlsx",
       "methodology": "Histórico completo reconstruido con Banco Mundial; no se empalma con FMI/FRED.",
-      "verified_at": "2026-11-13T06:56:27+00:00"
+      "verified_at": "2026-11-13T17:46:59+00:00"
     },
     "sugar": {
       "name": "Azúcar mundial",
@@ -1587,7 +1587,7 @@
       },
       "download_url": "https://thedocs.worldbank.org/en/doc/74e8be41ceb20fa0da750cda2f6b9e4e-0050012026/related/CMO-Historical-Data-Monthly.xlsx",
       "methodology": "Histórico completo reconstruido con Banco Mundial; no se empalma con FMI/FRED.",
-      "verified_at": "2026-11-13T06:56:27+00:00"
+      "verified_at": "2026-11-13T17:46:59+00:00"
     },
     "gscpi": {
       "id": "gscpi",
@@ -1851,42 +1851,42 @@
   "source_health": {
     "resins": {
       "ok": true,
-      "checked_at": "2026-11-13T06:56:27+00:00",
+      "checked_at": "2026-11-13T17:46:59+00:00",
       "error": null
     },
     "corrugated": {
       "ok": true,
-      "checked_at": "2026-11-13T06:56:27+00:00",
+      "checked_at": "2026-11-13T17:46:59+00:00",
       "error": null
     },
     "paperboard": {
       "ok": true,
-      "checked_at": "2026-11-13T06:56:27+00:00",
+      "checked_at": "2026-11-13T17:46:59+00:00",
       "error": null
     },
     "ethanol": {
       "ok": true,
-      "checked_at": "2026-11-13T06:56:27+00:00",
+      "checked_at": "2026-11-13T17:46:59+00:00",
       "error": null
     },
     "aluminum": {
       "ok": true,
-      "checked_at": "2026-11-13T06:56:27+00:00",
+      "checked_at": "2026-11-13T17:46:59+00:00",
       "error": null
     },
     "sugar": {
       "ok": true,
-      "checked_at": "2026-11-13T06:56:27+00:00",
+      "checked_at": "2026-11-13T17:46:59+00:00",
       "error": null
     },
     "gscpi": {
       "ok": false,
-      "checked_at": "2026-11-13T06:56:27+00:00",
+      "checked_at": "2026-11-13T17:46:59+00:00",
       "error": "ValueError: Sin edición GSCPI identificada"
     },
     "fda": {
       "ok": true,
-      "checked_at": "2026-11-13T06:56:27+00:00",
+      "checked_at": "2026-11-13T17:46:59+00:00",
       "error": null
     }
   },
@@ -2249,6 +2249,6 @@
         "presentations": []
       }
     ],
-    "verified_at": "2026-11-13T06:56:27+00:00"
+    "verified_at": "2026-11-13T17:46:59+00:00"
   }
 }
