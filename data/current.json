@@ -3,73 +3,73 @@
   "status": "live-bcrd-dgii-hacienda-v2",
   "series": {
     "usd_dop_sell": {
-      "value": 60.865,
-      "period": "2026-11-12",
+      "value": 60.8132,
+      "period": "2026-11-13",
       "source": "BCRD",
-      "verified_at": "2026-11-13T17:45:46+00:00",
+      "verified_at": "2026-11-13T23:36:07+00:00",
       "url": "https://www.bancentral.gov.do/"
     },
     "usd_dop_buy": {
-      "value": 60.5931,
-      "period": "2026-11-12",
+      "value": 60.3636,
+      "period": "2026-11-13",
       "source": "BCRD",
-      "verified_at": "2026-11-13T17:45:46+00:00",
+      "verified_at": "2026-11-13T23:36:07+00:00",
       "url": "https://www.bancentral.gov.do/"
     },
     "active_rate": {
       "value": 14.03,
       "period": "2026-10",
       "source": "BCRD",
-      "verified_at": "2026-11-13T17:45:46+00:00",
+      "verified_at": "2026-11-13T23:36:07+00:00",
       "url": "https://www.bancentral.gov.do/"
     },
     "passive_rate": {
       "value": 7.09,
       "period": "2026-10",
       "source": "BCRD",
-      "verified_at": "2026-11-13T17:45:46+00:00",
+      "verified_at": "2026-11-13T23:36:07+00:00",
       "url": "https://www.bancentral.gov.do/"
     },
     "interbank_rate": {
       "value": 8.2,
       "period": "2026-10",
       "source": "BCRD",
-      "verified_at": "2026-11-13T17:45:46+00:00",
+      "verified_at": "2026-11-13T23:36:07+00:00",
       "url": "https://www.bancentral.gov.do/"
     },
     "policy_rate": {
       "value": 5.5,
       "period": "2026-11",
       "source": "BCRD",
-      "verified_at": "2026-11-13T17:45:46+00:00",
+      "verified_at": "2026-11-13T23:36:07+00:00",
       "url": "https://www.bancentral.gov.do/"
     },
     "inflation_yoy": {
       "value": 5.14,
       "period": "2026-10",
       "source": "BCRD",
-      "verified_at": "2026-11-13T17:45:46+00:00",
+      "verified_at": "2026-11-13T23:36:07+00:00",
       "url": "https://www.bancentral.gov.do/"
     },
     "core_inflation_yoy": {
       "value": 4.54,
       "period": "2026-10",
       "source": "BCRD",
-      "verified_at": "2026-11-13T17:45:46+00:00",
+      "verified_at": "2026-11-13T23:36:07+00:00",
       "url": "https://www.bancentral.gov.do/"
     },
     "imae_yoy": {
       "value": 5.6,
       "period": "2026-09",
       "source": "BCRD",
-      "verified_at": "2026-11-13T17:45:46+00:00",
+      "verified_at": "2026-11-13T23:36:07+00:00",
       "url": "https://www.bancentral.gov.do/"
     },
     "private_credit_yoy": {
       "value": 7.4,
       "period": "2026-10",
       "source": "BCRD",
-      "verified_at": "2026-11-13T17:45:46+00:00",
+      "verified_at": "2026-11-13T23:36:07+00:00",
       "url": "https://www.bancentral.gov.do/"
     },
     "gross_reserves_usd_mm": {
@@ -81,49 +81,49 @@
       "value": 3.53,
       "period": "2026-10",
       "source": "BCRD",
-      "verified_at": "2026-11-13T17:45:46+00:00",
+      "verified_at": "2026-11-13T23:36:07+00:00",
       "url": "https://www.bancentral.gov.do/"
     },
     "inflation_monthly": {
       "value": 0.58,
       "period": "2026-10",
       "source": "BCRD",
-      "verified_at": "2026-11-13T17:45:46+00:00",
+      "verified_at": "2026-11-13T23:36:07+00:00",
       "url": "https://www.bancentral.gov.do/"
     },
     "imae_ytd": {
       "value": 4.6,
       "period": "2026-09",
       "source": "BCRD",
-      "verified_at": "2026-11-13T17:45:46+00:00",
+      "verified_at": "2026-11-13T23:36:07+00:00",
       "url": "https://www.bancentral.gov.do/"
     },
     "gross_reserves": {
       "value": 15047.2,
       "period": "2026-10",
       "source": "BCRD",
-      "verified_at": "2026-11-13T17:45:46+00:00",
+      "verified_at": "2026-11-13T23:36:07+00:00",
       "url": "https://www.bancentral.gov.do/"
     },
     "net_reserves": {
       "value": 15038.9,
       "period": "2026-10",
       "source": "BCRD",
-      "verified_at": "2026-11-13T17:45:46+00:00",
+      "verified_at": "2026-11-13T23:36:07+00:00",
       "url": "https://www.bancentral.gov.do/"
     },
     "gdp_growth": {
       "value": 2.1,
       "period": "2025",
       "source": "BCRD",
-      "verified_at": "2026-11-13T17:45:46+00:00",
+      "verified_at": "2026-11-13T23:36:07+00:00",
       "url": "https://www.bancentral.gov.do/"
     },
     "current_account_gdp": {
       "value": -1.4,
       "period": "2025",
       "source": "BCRD",
-      "verified_at": "2026-11-13T17:45:46+00:00",
+      "verified_at": "2026-11-13T23:36:07+00:00",
       "url": "https://www.bancentral.gov.do/"
     },
     "itbis_total_operations": {
@@ -192,32 +192,32 @@
       "source": "DIGEPRES"
     },
     "fiscal_income_yoy": {
-      "value": 12.789132681695348,
-      "period": "2026-09",
+      "value": 7.243586379023204,
+      "period": "2026-10",
       "source": "DIGEPRES"
     },
     "fiscal_expense_yoy": {
-      "value": 23.359222792703548,
-      "period": "2026-09",
+      "value": 7.736734539977008,
+      "period": "2026-10",
       "source": "DIGEPRES"
     },
     "budget_balance_yoy_change": {
-      "value": -13386.167073180113,
-      "period": "2026-09",
+      "value": -1053.2282679897917,
+      "period": "2026-10",
       "source": "DIGEPRES"
     },
     "fiscal_income_execution_pct": {
-      "value": 70.43673037796685,
-      "period": "2026-09",
+      "value": 78.74838113747748,
+      "period": "2026-10",
       "source": "DIGEPRES"
     },
     "fiscal_expected_execution_pct": {
-      "value": 75.0,
-      "period": "2026-09",
+      "value": 83.33333333333334,
+      "period": "2026-10",
       "source": "Cálculo"
     }
   },
-  "automation_check_utc": "2026-11-13T17:45:46+00:00",
+  "automation_check_utc": "2026-11-13T23:36:07+00:00",
   "source_health": {
     "bcrd": {
       "ok": true,
@@ -265,7 +265,7 @@
       "ok": true,
       "url": "https://digepres.gob.do/ejecucion-presupuestaria-2026/",
       "parsed_files": 2,
-      "latest_period": "2026-09",
+      "latest_period": "2026-10",
       "errors": {}
     }
   },
@@ -320,12 +320,12 @@
     {
       "level": "yellow",
       "title": "Hacienda: gasto supera ingresos",
-      "text": "El gasto mensual crece 23.4% interanual frente a 12.8% de los ingresos, una brecha de 10.6 puntos."
+      "text": "El gasto mensual crece 7.7% interanual frente a 7.2% de los ingresos, una brecha de 0.5 puntos."
     },
     {
       "level": "red",
       "title": "Hacienda: deterioro fiscal",
-      "text": "El balance mensual se deterioró en RD$13,386 MM frente al mismo mes del año anterior."
+      "text": "El balance mensual se deterioró en RD$1,053 MM frente al mismo mes del año anterior."
     }
   ]
 }

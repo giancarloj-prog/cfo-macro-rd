@@ -1,7 +1,7 @@
 {
   "date": "2026-11-13",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-13T17:47:02+00:00",
+  "checked_at": "2026-11-13T23:37:24+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -43,12 +43,12 @@
     "securities": {
       "ok": true,
       "error": null,
-      "count": 2
+      "count": 3
     },
     "economy": {
       "ok": true,
       "error": null,
-      "count": 3
+      "count": 4
     },
     "economist_andy": {
       "ok": true,
@@ -63,7 +63,7 @@
     "economist_juan_ariel": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 1
     },
     "economist_raul": {
       "ok": true,
@@ -83,6 +83,41 @@
   },
   "items": [
     {
+      "title": "SIPEN inaugura escuela para orientar a afiliados sobre el sistema de pensiones",
+      "publisher": "Acento",
+      "publisher_url": "https://acento.com.do",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQakZybzdDa2tjUVk2R2xBbzZ3X2dTQXNUVUJVVW1qWmhCSlN1Vk9TZ0c5SmRzb0Iyd1dfcS1jem1CZWY2V2RVSnJGUlhqU3E3aG1KUE1nOEVkRHBGUnhqN2FxSjk4WFFZdW9FMzR6M3BjS1NMbmpiVTlHN051Q3YyN0xDUXNhX1lpZmxIbUFZMmF0Y0toTTFzblJRUVFQcW1uU2FwcE91Ui1wakNFaTB4aUtORDVUeFlUXzU2bmdNbjZTUdIBwgFBVV95cUxQakZybzdDa2tjUVk2R2xBbzZ3X2dTQXNUVUJVVW1qWmhCSlN1Vk9TZ0c5SmRzb0Iyd1dfcS1jem1CZWY2V2RVSnJGUlhqU3E3aG1KUE1nOEVkRHBGUnhqN2FxSjk4WFFZdW9FMzR6M3BjS1NMbmpiVTlHN051Q3YyN0xDUXNhX1lpZmxIbUFZMmF0Y0toTTFzblJRUVFQcW1uU2FwcE91Ui1wakNFaTB4aUtORDVUeFlUXzU2bmdNbjZTUQ?oc=5",
+      "published_at": "2026-11-13T21:32:39+00:00",
+      "topics": [
+        "finance",
+        "securities"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "securities"
+      ]
+    },
+    {
+      "title": "Hacienda y Economía celebra 182 años en medio de un proceso de transformación institucional",
+      "publisher": "Acento",
+      "publisher_url": "https://acento.com.do",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUmRrU01iWnVWSEI1d25wdUNlUzlPZ0xKNW1rT25SeFdfV2VFbC1MbmM5UnNmOVhfNkE3SjJycUszZlhSUERydmZjWWRqRFo5cWUtMXNNMTNSNmJnUlg0QnJhNXNsdW4xY2hvMGRYTTkwb0huNHBkQ1d4MFZLazVfcWdjd3htaENDNWgwNE1kNFBfWXlLMktwX0M2XzA4YzRSUlNERlNNMTRkcEpOeTNmdWFYaFR3NkpTRlAxMm9xTHQwVkoyWDZzVlB5eTg1R1J20gHQAUFVX3lxTE9SZGtTTWJadVZIQjV3bnB1Q2VTOU9nTEo1bWtPblJ4V19XZUVsLUxuYzlSc2Y5WF82QTdKMnJxSzNmWFJQRHJ2ZmNZZGpEWjlxZS0xc00xM1I2YmdSWDRCcmE1c2x1bjFjaG8wZFhNOTBvSG40cGRDV3gwVktrNV9xZ2N3eG1oQ0M1aDA0TWQ0UF9ZeUsyS3BfQzZfMDhjNFJSU0RGU00xNGRwSk55M2Z1YVhoVHc2SlNGUDEyb3FMdDBWSjJYNnNWUHl5ODVHUnY?oc=5",
+      "published_at": "2026-11-13T21:18:19+00:00",
+      "topics": [
+        "economy",
+        "fiscal",
+        "securities"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "economy",
+        "fiscal",
+        "securities"
+      ]
+    },
+    {
       "title": "Foro elDinero planteará los desafíos de una nueva fiscalidad para la economía dominicana",
       "publisher": "El Nuevo Diario",
       "publisher_url": "https://elnuevodiario.com.do",
@@ -98,6 +133,21 @@
       "economist_match": null,
       "searches": [
         "economist_andy",
+        "economy"
+      ]
+    },
+    {
+      "title": "Magín Díaz destaca resiliencia económica de RD y respaldo de Fitch Ratings y el FMI",
+      "publisher": "El Dia.com.do",
+      "publisher_url": "https://eldia.com.do",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOazFNRnYwNnc1VEtKRVFUTFJhZ0tLRG8zNXRFcVJYaWFTYkwtNWNXTUJBVXBFOVBIa0hkLTRSdlV6QnFQYWJrSmdhM0NfTjBYWkFSN3BZeGRvR2VhN01jLU9tZ0ptQVQwbzNwTUxNYm1BMzQzSjJYNXM2bnI5blFnejFzREJxRWdvZzhfa0ozMnVUdmM3VnBQZW4zeW14OWVrYmNMaTJUdlU?oc=5",
+      "published_at": "2026-11-13T15:46:58+00:00",
+      "topics": [
+        "economy"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
         "economy"
       ]
     },
@@ -121,7 +171,7 @@
       "title": "Magín Díaz destaca fortaleza económica de RD al celebrar los 182 años de Hacienda",
       "publisher": "Hoy Digital",
       "publisher_url": "https://hoy.com.do",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeDh2cVRHNnVEOXdJMHl2ZUhRUk5hQ0lYMVhkUGVhaUV0ZEk1V3hoeEI5UVh5WkNNSXV1djFfck9odkNWTFY5UWJRMTh2UFhOeTV1SnhMcW1BZVFsd3BHdVhOaWExS0NoX3dZTGZGUTg2cXh6Q2RQendGNENPdU5wUXZJN1V4Y2ZDTlZRVDBCVkJnSHpob1h4eWJuQnprTmN2blhIRzlqYnBFSzJNa3fSAbMBQVVfeXFMTlRXVGM2eHJkamNycWZYY3U2STNnM1J0T3d1M3hDNHYxQnJsUkV0dmhlX3ZpU09Nel9SekF5QTNOdk5ya2RYckU5MHpSdmVuOEFuWmJJZmxxQlhuNy1DVnpsdDUwMDdjZEFUdHcyZXVLOHpXbGRtRTlWNm1GeHhlUUJVel82NVVING44NEtta3NnaXU0OXp0WEVpaG1kVW42bU52ZC1lY1hPNmxtdWZ1MlZoQ3c?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVFdUYzZ4cmRqY3JxZlhjdTZJM2czUnRPd3UzeEM0djFCcmxSRXR2aGVfdmlTT016X1J6QXlBM052TnJrZFhyRTkwelJ2ZW44QW5aYklmbHFCWG43LUNWemx0NTAwN2NkQVR0dzJldUs4eldsZG1FOVY2bUZ4eGVRQlV6XzY1VUg0bjg0S21rc2dpdTQ5enRYRWlobWRVbjZtTnZkLWVjWE82bG11ZnUyVmhDd9IBswFBVV95cUxOVFdUYzZ4cmRqY3JxZlhjdTZJM2czUnRPd3UzeEM0djFCcmxSRXR2aGVfdmlTT016X1J6QXlBM052TnJrZFhyRTkwelJ2ZW44QW5aYklmbHFCWG43LUNWemx0NTAwN2NkQVR0dzJldUs4eldsZG1FOVY2bUZ4eGVRQlV6XzY1VUg0bjg0S21rc2dpdTQ5enRYRWlobWRVbjZtTnZkLWVjWE82bG11ZnUyVmhDdw?oc=5",
       "published_at": "2026-11-13T15:26:07+00:00",
       "topics": [
         "fiscal"
@@ -235,6 +285,23 @@
       "economist_match": "search",
       "searches": [
         "economist_andy"
+      ]
+    },
+    {
+      "title": "Lecciones desde Paraguay",
+      "publisher": "Listín Diario",
+      "publisher_url": "https://listindiario.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTFMwc2pNem1VY2R6UkNKX3U1SThvSVo0enN5VVlVS0ROZm5pdG1reEFXS0J5Nm1HeXJVMDdFVldKMkVqaVdoVVVZN0UxWUJwVWdEa1doYTBWVWVwWHUtaU5vZVY0NXNGcFU0ODdPMGV0NmhJNEhMVTRRUGJjQUlKQ3BBZlpGTDg?oc=5",
+      "published_at": "2026-11-10T04:00:00+00:00",
+      "topics": [
+        "opinion"
+      ],
+      "economists": [
+        "juan_ariel"
+      ],
+      "economist_match": "search",
+      "searches": [
+        "economist_juan_ariel"
       ]
     },
     {

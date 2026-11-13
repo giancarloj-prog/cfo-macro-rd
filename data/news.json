@@ -1,7 +1,7 @@
 {
   "date": "2026-11-13",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-13T17:47:03+00:00",
+  "checked_at": "2026-11-13T23:37:25+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -24,34 +24,134 @@
     "mexico": {
       "ok": true,
       "error": null,
-      "count": 4
+      "count": 13
     },
     "usa": {
       "ok": true,
       "error": null,
-      "count": 5
+      "count": 7
     },
     "europa": {
       "ok": true,
       "error": null,
-      "count": 15
+      "count": 16
     },
     "global": {
       "ok": true,
       "error": null,
-      "count": 7
+      "count": 6
     }
   },
   "items": [
+    {
+      "title": "Farmacias del Ahorro expandirá su presencia en el mercado con la compra de Benavides y dará la batalla a Simil",
+      "publisher": "Milenio",
+      "publisher_url": "https://www.milenio.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMXM4WDlrdVdoRDV0eWZTNnRndGVHZTFrQkZOS2w5X0trSC1tanJYc0dUeVl3aXNJODEwMWFpRXVNeWFjRlctREt1em0wdi11VXFKY1RrZXlPaFpPUkduQ3ZwSTg3dUtsUVRaSDlVNXMxb0VXel9TbzNoNzJFc3hXblNDWFI0X0U0WjdXNFVn0gGOAUFVX3lxTE9Cc2J1LXRDUXNEakFsZm40TnkyRERrWWdGcGdSUThHYTJsSi1qbGtGdlBQUHBhYjY4MGZTMWE4NU5NV0hNZml6SFBjeFl1RURBdk50WVFFYUVVUnhIdC1kZUpPS0dWejNUVXFwTHY0Sy1ZLVRrUTJ2TTUtN1hDRVppTnI1T3dZcEs4UldvT0E?oc=5",
+      "published_at": "2026-11-13T22:51:01+00:00",
+      "regions": [
+        "mexico"
+      ]
+    },
+    {
+      "title": "¡Regresa a manos mexicanas! Farmacias del Ahorro adquiere a la centenaria Farmacias Benavides",
+      "publisher": "Milenio",
+      "publisher_url": "https://www.milenio.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWFlzY25WWDFncmQ1STZWZkVidDJWajJZdFNfTWUtcG8yNllzaGQ3Zmd4aFM0bmJkbnp3VERNNDN6YlNVWHN5R29NRndNMzVpa3dES2MtVUxKU1QwRmduZkZvS3ZHYjI4QlhaazJYdTIweVpJdEJ3UjZFSkJPaEFQVmdyRWtYUU5tbXRRZjRBRnptWWlE0gGUAUFVX3lxTE5zS3kxY0dDalp6S01KaG84X3RtcEZfR0lrM1ZibEttVkxDQTBFSjE3czFtMEFkay1OUm0yQTdEMno3NTQ4UDBRZzgtS3lwMWtwai1nVHFkb1BLRWEtVkwyZmdmYllmQi1JVFlQZ01QdEdDQ3FybUgwRmxkVlVLdFdwMGxzMDVvQWp0TkxfbUhDRFZQUF8?oc=5",
+      "published_at": "2026-11-13T22:51:00+00:00",
+      "regions": [
+        "mexico"
+      ]
+    },
+    {
+      "title": "¿Quién es el dueño de Farmacias del Ahorro? El origen de la empresa mexicana que concretó un acuerdo para adqu",
+      "publisher": "Milenio",
+      "publisher_url": "https://www.milenio.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONE03a1h4X0tQT3dNMng5LVRlQ3M1WFpoSEVYSWE5M3pnZTRXaVJqdTFmUWltQWJHdGVSWmc0VUQxZDVBWEdac1g4UXpycUhVdjg5YkU5TU02VE83YlBhbXJiUUMzajdaN1IyTjdoLVFrUnpqTkhWb2pZSnU0anhDZGZmbTRZYzVNUHAzdDlVSHfSAZABQVVfeXFMTUh2QmVYT212am1vY1ctRk1iY0NJRmlpWXljLVM1ZHFJbGVwbWctVTdldDE0alU3X01sSGU3SThGblFfMEJEQnF5OGp4czlMMXNiZTh0SEt2MXdnUWszZk5FUTVpeFB0ZXdfel8tZktyM0hFZmFUX0JGZmtRdEx4NEpzY1hBOGg1T2hEenlRQkxw?oc=5",
+      "published_at": "2026-11-13T21:18:00+00:00",
+      "regions": [
+        "mexico"
+      ]
+    },
+    {
+      "title": "Farmacias del Ahorro acuerda compra de 96.56% de Farmacias Benavides",
+      "publisher": "El Economista",
+      "publisher_url": "https://www.eleconomista.com.mx",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOHlPX1EwdU5MQ2NDZ1lrNnJCVElvYXJCbnBMd2lLUnZVejYxMDVEV1ZKU19vN0dMRU13blJJZEhmbHlnMk55VjZoeVdodUpyNFl0M3VFemE2TVA0RVVBQ3Q1aFVWRkNIekRKam04aVN1ZER4VlloNExvcGtlLUlwZzJnc3piLXJieHVNNk5LNm96NnE3OVJIQnV5T0F4YTlJOGhkUkljYlR5V2ZSdHZvVGV0dE14bVpzcHVN0gHAAUFVX3lxTE5ZTkIyMGxmVGhkMG1Qd1EtbFJ2cHhTMjhmay1mdzNvTTJfUHh5aDhzaU9qU2IxWVhPcDRIaFBzbG5JWlZsZ0xKLU5PeFhrcURKVHB1UFlKVVgwYm1UVFNPS3VZU21ZbEpFdmp5Y3NjU3BVMG44eldsU1Z5bVB1Qm84WkRWWXVyd0hLTFFnTmRFQlF2ejdkZ0cxcXVyRWktVUJpN19saXpLX0JUR0pGbnZkZ3dJVUlCbkVVY0FYcnBDbQ?oc=5",
+      "published_at": "2026-11-13T20:53:46+00:00",
+      "regions": [
+        "mexico"
+      ]
+    },
+    {
+      "title": "Farmacias Benavides anuncia un acuerdo definitivo para ser adquirida por Farmacias del Ahorro",
+      "publisher": "El Financiero",
+      "publisher_url": "https://www.elfinanciero.com.mx",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOdk5OWXNvS2lFSmN5WldHb3R3aDNscnlpemNhYlZMNnNZeG80UndpYUhpM0RCOGxnLU1RRXJWTHZUem9CX2VOQmdVV0Iyc2JSTGlzczliTTVCYlhRRmgwXzBzMFBhdTl1bV9KZDlETXVRZXkySmFLXy1HWFRzNThFYVI4YmppMGFfNklabENNaWw3d183NVVKTkJjRThRV3hPQjV2NTBWbGVId284VzdvbDVjbE1nOF8xNmpReW1MWE9ZOUU1Nm4zQTY2dVFIOFlMbTVYNnN2Ukg1Smh6WFJxUDVsZS1Ydw?oc=5",
+      "published_at": "2026-11-13T20:34:31+00:00",
+      "regions": [
+        "mexico"
+      ]
+    },
+    {
+      "title": "Farmacias del Ahorro acuerda compra de Farmacias Benavides; sumarán más de 3 mil sucursales",
+      "publisher": "Milenio",
+      "publisher_url": "https://www.milenio.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbWNKXzAwcXBWTV85cGkzRVEyZnFGdFI1MmdQY2dhcmVrcVdrQll6bjN0UkkxRkhlc3RhVWtvTzduSGN6NGJlU2Q3ZndKWm9NbDVoUDlxNHdQaGJsLUhuZzBYMHBxVHdzMmxsMkJHa2MwQ0RHWHR4OElOWkVERE5tOHp5anZhdTQtUmfSAYoBQVVfeXFMUHNVYlp4V0pyME53THNOLWh2UUNwcjNuNWp3cVhzanpWTjNteHBCdHJuQTJyVVR5VUxEdVNRMjk3YnNVd292cUhYUTBRcTJWeGtOX0ZWN2RpTzd1VE1TXzcyaEJnVlJsQk91NVBLZUhBbUwtT1Z4VDROSTAzLVRQTHpsNkIycy1vOFVR?oc=5",
+      "published_at": "2026-11-13T20:30:38+00:00",
+      "regions": [
+        "mexico"
+      ]
+    },
+    {
+      "title": "Farmacias del Ahorro compra 96.56% de Benavides y suma más de 3 mil sucursales",
+      "publisher": "El Financiero",
+      "publisher_url": "https://www.elfinanciero.com.mx",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbTNwUWctVFAxM0VJeFZYN2JOWVNza21iSVNvdU5tbTU5cXc3UGItSFZIOXNKd09VYTFvRmk3TWF0NUVjTlItNUwzcS1SNENRU2Ffc0ZMbkRuR1ZQS1BhcHhHSGRzc18zcEUybW5zWnA5b1dlS3hsalgxZnZxVmhJc0lfdXA0MjNHeTNObVhKa3hFeVpvS0sya3NaRWNPdWkwNUg2aWhyU2RLandqSVkwNFN2aUhXdkEzWVNESFNWR3VjQ1R1WVlNaw?oc=5",
+      "published_at": "2026-11-13T20:24:32+00:00",
+      "regions": [
+        "mexico"
+      ]
+    },
     {
       "title": "Novo's haemophilia drug gets EU approval",
       "publisher": "Reuters",
       "publisher_url": "https://www.reuters.com",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOamhwT3l4TXFRdmE2NjNhbzBnSTZURG9rNDJQOXFiYUdLZkZQUlo3NEwxTEVySjZzSk44Z1k4WWZpZDc2c0NoTjFBZWlnZ2FzZkg0TXViM1dLSFZVM3lpOEZuS1VmbENIM0Vsc3g3OXBFSU9IdzVZbFd4aC1BemJSdnRvWUs4NWhlMkkxLVZhUmtzU3FPVDdJ?oc=5",
-      "published_at": "2026-11-13T17:27:43+00:00",
+      "published_at": "2026-11-13T19:59:28+00:00",
       "regions": [
-        "europa",
-        "global"
+        "europa"
+      ]
+    },
+    {
+      "title": "Farmacias del Ahorro suma 3 mil sucursales al comprar Benavides",
+      "publisher": "Milenio",
+      "publisher_url": "https://www.milenio.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOY2xPM3pJbC1RbUd3ems5NGpxTTRPZ0gweXd0RTBQZkJfcUJHbF9GblpxakV1NmZydHk0UWV6VkFfd1hYY2pVV2NWbEd5LWlBYTZWbE9TZWQ4OVBiVkhfczdTdG9saVM3Y1hyMURJMkhZZll1Yng5TnJXWU1FRW1nejQ3dlljLW1tR3AxTXlyQTVXSVFCdl9OQXo0MFVVZ09MYl9wVDV5UHJxZ9IBqgFBVV95cUxNOFNSRk1uNTdNcXMtWTdvTElBTmpTV0w5TlNFQW5zalJtMTlFWWk2MmZ4S1RsbGNFRW1vTU81dUVySUNpb1FIMW5iSmJNcjZMZmVza1RTS095a0pNaGY2RWZiRDJSak9MN2lpQnJIWVhOQ0hHSTZ1OGZHS1JyS0Y3NjZfZWpySW5uMXJhTjVRa1ZyVF8zaHdNUmFfOXctbDZLbjZBd2MwSk9OQQ?oc=5",
+      "published_at": "2026-11-13T19:25:15+00:00",
+      "regions": [
+        "mexico"
+      ]
+    },
+    {
+      "title": "Farmacias del Ahorro acuerda la compra de Farmacias Benavides",
+      "publisher": "Expansión",
+      "publisher_url": "https://expansion.mx",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSFZaWDVMVGZNZDRTU3p5YUxZdC1LQ0psU21YZ0p2YklGZVlZblNRSlVpVHZVdjExSHYyS0x3b1VLMmFOcU81ckstbVdnUVZpUDMtVEtBRXlKanMwLTg0dG9vT0RPOGJ2b0xGZGlfV3AtSGtTV09PczhVOVgzTEE4SzZhVmwzdnNoS1lTMkluQlVuNk5uUjg3aW1kVWJQTkNz0gGuAUFVX3lxTE01cnBhTWNCOWw2a1Nkd2hfclFPbnFnZnFTaV9vVkw4eFI1cVlQSFRWbjBKNkVmZnBCV0dNUlRfSTE5Z0lSUFJ3bkxUX0x0czR6MGZsdkpmVHNaX2JlWWVPUENFSHVXQ3NLRGdkLWlkQW54TkpwbUxyTXJtWEREcGVVQktHNmZRNS10VEd3NWtaeFZ0c003WDEyYjZRbnM5SEczYWZwZVkxUDJVQjZHdw?oc=5",
+      "published_at": "2026-11-13T17:28:00+00:00",
+      "regions": [
+        "mexico"
+      ]
+    },
+    {
+      "title": "Congress’s Top Doctor Resigns Amid IG Findings of Lax Drug Handling",
+      "publisher": "WSJ",
+      "publisher_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNR0kzd29fdzk5QVJNbFY5ckduWmU5NGdHMDNFTVpJVTZ5VU9VVXVJcWpxWVE4VnIwdHZ4OUs1cGpxTTcwZDVCaDNncDFQWHhQSFl1ZTJjZHY0ampKWkJuUVFKbjNzd0N5SjF4WDZQcnhhdVFLYUVwVFhsd2Z5c3FvbHBnWm9ST2xZTkxobUVESDBmSDZacHhSUg?oc=5",
+      "published_at": "2026-11-13T17:28:00+00:00",
+      "regions": [
+        "global",
+        "usa"
       ]
     },
     {
@@ -85,13 +185,13 @@
       ]
     },
     {
-      "title": "Farmacias del Ahorro acuerdan compra de Farmacias Benavides; sumarán más de 3 mil sucursales",
-      "publisher": "Milenio",
-      "publisher_url": "https://www.milenio.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbWNKXzAwcXBWTV85cGkzRVEyZnFGdFI1MmdQY2dhcmVrcVdrQll6bjN0UkkxRkhlc3RhVWtvTzduSGN6NGJlU2Q3ZndKWm9NbDVoUDlxNHdQaGJsLUhuZzBYMHBxVHdzMmxsMkJHa2MwQ0RHWHR4OElOWkVERE5tOHp5anZhdTQtUmfSAYoBQVVfeXFMUHNVYlp4V0pyME53THNOLWh2UUNwcjNuNWp3cVhzanpWTjNteHBCdHJuQTJyVVR5VUxEdVNRMjk3YnNVd292cUhYUTBRcTJWeGtOX0ZWN2RpTzd1VE1TXzcyaEJnVlJsQk91NVBLZUhBbUwtT1Z4VDROSTAzLVRQTHpsNkIycy1vOFVR?oc=5",
-      "published_at": "2026-11-13T17:00:00+00:00",
+      "title": "This drug wholesaler's transformation is paying off. Here's why the stock still looks attractive",
+      "publisher": "CNBC",
+      "publisher_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYmNKUmstTGRXLUVEVWR4N29kMHhTX0QxeTdGaEpscVhTb19zYy1FWElJbGNpdmJkMFdVV1B6UmZjT0VSOHEySXptNlQxZFJNTEZIQmxCeE1UaF9RVTBDT2tSLTlzWTRQWHladWZCRldzekNIckJuNzd5eXpyaWM0U2VHeFM?oc=5",
+      "published_at": "2026-11-13T17:12:37+00:00",
       "regions": [
-        "mexico"
+        "usa"
       ]
     },
     {
@@ -101,8 +201,7 @@
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWGFLbWZyNm93cXhRb3BTcDZhMlhFTzRGUU5GUXkyOTF0VENtVFU3MWxWSmtIT1p2UUtvQVB2R1BrWmtGYnNycHcwSzFtWU1MRVl0OFZRaUJhUEo5ajkwMjg0djN3bFNwb3pVaVhFaGRfVTBoeXpubFBQWVZscDRqRHE1QUwyMVNJWW9HcUdDNjNsX1hvVjh1RXFyeURKSVZiS3NIeERaYmVldEt2c2tNU2sxdzF5TkI5SkdsZ1ZEYV96VTVBc2c?oc=5",
       "published_at": "2026-11-13T16:11:47+00:00",
       "regions": [
-        "europa",
-        "global"
+        "europa"
       ]
     },
     {
@@ -151,7 +250,7 @@
       "publisher": "STAT",
       "publisher_url": "https://www.statnews.com",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPX3BQMEZ6cEhpalk5ZmJSX0gxcDZBSE5qNXdfQWlpN0JWMzlnbmE1QmdVVW1KaEVaeTNBd00xRkswaERYUVBMNXd4bldFbE1ZMzVYajNpV3k2TEhPckpJb2gzTHBtY2xVTkZaSm52eGhrMFVLWHZqVUgtcS11bHFpM2FYNTBsbERTcTA0M3Rfektoang4ZjdUOWN0WXlmLTVPWWJ3WlBzQQ?oc=5",
-      "published_at": "2026-11-13T14:36:09+00:00",
+      "published_at": "2026-11-13T14:43:57+00:00",
       "regions": [
         "global",
         "usa"
@@ -179,22 +278,22 @@
       ]
     },
     {
-      "title": "Fierce Pharma Asia—China’s Big Pharma ambition; Treasury’s China crackdown; Takeda’s narcolepsy launch",
-      "publisher": "Fierce Pharma",
-      "publisher_url": "https://www.fiercepharma.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcHNXbkJaanZuNFpoQnBTMnc4VEx3UUtFQVdycXllaDlJemRUcndIVXR2ZC1ZaTFiNjNfU2oyZW9OSUs4WUdxcW51Tl96QXNNaHF2ZTdKeFNnVE5CaTU3Zk5BTEpGMkw1cHNPRmxyN2UtNDlDUDRqMUJ5VFZteWx0SjNHbW1COWF3VVc3VC1hb2pXZ2lZVHZxeHQ2UjI1QmtZUHRGbWE0TVR6bWdU?oc=5",
-      "published_at": "2026-11-13T13:38:51+00:00",
+      "title": "The future of heart drug research in the wake of study setbacks",
+      "publisher": "STAT",
+      "publisher_url": "https://www.statnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUE1GSG5HcUVVcWg3X3FEUXY5OW5SNkNrS2phREhUZWtkNVBfTjByTEpSOUtxWEtFbUFQUnVNMk53NFpWeGpaTWtqdEJvem1fa21NcF9MLVFLbEZocWNuWGVfdFctNmJDZ0lFMVpZNjVQMHFaV0pCM2l3VG11dmNoNVpRUjJXUXhHOWxxbjh0WXFNbTNtXzZoRHR5ekFBc25ZRUE?oc=5",
+      "published_at": "2026-11-13T13:41:34+00:00",
       "regions": [
         "global",
         "usa"
       ]
     },
     {
-      "title": "The future of heart drug research in the wake of study setbacks",
-      "publisher": "STAT",
-      "publisher_url": "https://www.statnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUE1GSG5HcUVVcWg3X3FEUXY5OW5SNkNrS2phREhUZWtkNVBfTjByTEpSOUtxWEtFbUFQUnVNMk53NFpWeGpaTWtqdEJvem1fa21NcF9MLVFLbEZocWNuWGVfdFctNmJDZ0lFMVpZNjVQMHFaV0pCM2l3VG11dmNoNVpRUjJXUXhHOWxxbjh0WXFNbTNtXzZoRHR5ekFBc25ZRUE?oc=5",
-      "published_at": "2026-11-13T13:36:19+00:00",
+      "title": "Fierce Pharma Asia—China’s Big Pharma ambition; Treasury’s China crackdown; Takeda’s narcolepsy launch",
+      "publisher": "Fierce Pharma",
+      "publisher_url": "https://www.fiercepharma.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcHNXbkJaanZuNFpoQnBTMnc4VEx3UUtFQVdycXllaDlJemRUcndIVXR2ZC1ZaTFiNjNfU2oyZW9OSUs4WUdxcW51Tl96QXNNaHF2ZTdKeFNnVE5CaTU3Zk5BTEpGMkw1cHNPRmxyN2UtNDlDUDRqMUJ5VFZteWx0SjNHbW1COWF3VVc3VC1hb2pXZ2lZVHZxeHQ2UjI1QmtZUHRGbWE0TVR6bWdU?oc=5",
+      "published_at": "2026-11-13T13:38:51+00:00",
       "regions": [
         "global",
         "usa"
@@ -296,6 +395,16 @@
       "publisher_url": "https://markets.ft.com",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWWctbGlfY1JnQXVGYTNDajk0TFd4X3FtWC1pYk5LNU1BR01VdkJoT2Ytdjg2eFBja0hsVjJxc01GekNFWHBzdHowT0NwdndCUWp1dkpfeW9Qc2M5SmZFSWI0dkRaeVlDQ3VGRU5ZT0dwQklfWUY0M2Z2ZXRJZ1VqZHBEeDNHXzZsZG0yQ055UVhpazJzaFcw?oc=5",
       "published_at": "2026-11-13T05:00:00+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "China Resources Pharmaceutical Group Ltd",
+      "publisher": "Financial Times",
+      "publisher_url": "https://markets-origin.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQU3N6cEsxNWVVdkVMQzNqSEx6QVZpSjR5cUV4TWd5aFZYdUVsaElldi1CcngtakZIRkRpdElCd2xjY2RuVDBHd2c5aUxiV3VPeTZDdlF5ZWV3YUxxRnhzb25iLTF6UlJiZ3YySThsSW9IT2RfQy1QWjQxblFVQ0MtTk4taGhPTW93NUZKTDJ0OUxXdWZfNmJpRWYyMA?oc=5",
+      "published_at": "2026-11-13T04:20:10+00:00",
       "regions": [
         "europa"
       ]
