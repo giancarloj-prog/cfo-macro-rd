@@ -1,7 +1,7 @@
 {
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-13T00:27:56+00:00",
+  "checked_at": "2026-11-13T06:56:30+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -23,22 +23,22 @@
     "bcrd": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 1
     },
     "fiscal": {
       "ok": true,
       "error": null,
-      "count": 3
+      "count": 0
     },
     "dgii": {
       "ok": true,
       "error": null,
-      "count": 2
+      "count": 0
     },
     "finance": {
       "ok": true,
       "error": null,
-      "count": 4
+      "count": 0
     },
     "securities": {
       "ok": true,
@@ -48,17 +48,17 @@
     "economy": {
       "ok": true,
       "error": null,
-      "count": 4
+      "count": 1
     },
     "economist_andy": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 2
     },
     "economist_jaime": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 0
     },
     "economist_juan_ariel": {
       "ok": true,
@@ -73,7 +73,7 @@
     "economist_jose_luis": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 0
     },
     "economist_nassim": {
       "ok": true,
@@ -83,130 +83,37 @@
   },
   "items": [
     {
-      "title": "BID considera factible que República Dominicana duplique su PIB en 12 años",
-      "publisher": "Periódico elDinero",
-      "publisher_url": "https://eldinero.com.do",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZ01BX2ZyeU5mZXhwaUtQX1docHM2SmdLSmxWamRXdzFheWFralpmZURKZU5qQnhFM19FUnJvcW9xWC00MjU3UGo5YzA4UkNqaWNVM3BZMnVkUERhTnZ6emJ2M2pTQnhOT01LdmxWbjFabEJBTld0SHdHdmxjeXlKMHd4aU11MFlCemJEVVRiSDdzNVBXNnNyd3RDNC1tU0g5OUExSkJyaGx5Zw?oc=5",
-      "published_at": "2026-11-12T20:21:11+00:00",
+      "title": "Comisión del FMI evalúa economía",
+      "publisher": "eldia.com.do",
+      "publisher_url": "https://eldia.com.do",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9sejI1dHJKSnIwWkdfUU1NTXU4Tkt5VWM4MTVpaF9iTm5Ud2M0anlqYWtxQUZhSEF0ZzRMV2h4V2JsM3QzeEczMEZwUm9JUHdINXQxNWpidEx3UmF1VGV3S19hNE0?oc=5",
+      "published_at": "2026-11-13T04:01:00+00:00",
       "topics": [
-        "economy",
-        "fiscal"
+        "bcrd",
+        "economy"
       ],
       "economists": [],
       "economist_match": null,
       "searches": [
-        "economy",
-        "fiscal"
+        "bcrd",
+        "economy"
       ]
     },
     {
-      "title": "Monte de Piedad convoca a comerciantes de la Ciudad Colonial a jornada de capacitación tributaria",
-      "publisher": "El Nuevo Diario",
-      "publisher_url": "https://elnuevodiario.com.do",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPS1NVS2kzRHFhNVJsQWYwZEF5aEVDUXY1a0NtTmhYV3VMa05uaGxlaEx4TWFoUVVtZHhDSzNLbDFHRDJjZDVYMkU3Wnl1SkF6RU5CRWdMM2kzWlRVZmo2Z0lXY24xU2YyY3pwakFpcnRRUkRZUTk2MTNxNzNRNTluazBtSEhDc0JrVS01N2F3RF9RM0hlbWQtVjBvOUVjMm1MMkRqQV9DUTFidjNoM1l6QS11NFFpbGcwUEhPcElPb0JDdG9uSGc?oc=5",
-      "published_at": "2026-11-12T17:04:33+00:00",
+      "title": "«¿Inmigración empobrecedora?» de Andy Dauhajre (3 de 3)",
+      "publisher": "Acento",
+      "publisher_url": "https://acento.com.do",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPODhtUFR6bUlFODZHR2VVVERkSi1ZUUhQcy1mWTZmRlV1YWxQNWRfbVZxOGdUQnhtQTN4MEJqMWtXNTFFS3pJYVQ1cnYzZzJUZWw5UU9CVDNMVlJqMS1LY3liQ2RzVE9tdHYydV9UWGZXZEpDSTRfd09ldEszZ2t5N0xKV2NBT3h4cXJ1RnVhX0d1MDlDRW9F0gGXAUFVX3lxTE84OG1QVHptSUU4NkdHZVVURGRKLVlRSFBzLWZZNmZGVXVhbFA1ZF9tVnE4Z1RCeG1BM3gwQmoxa1c1MUVLeklhVDVydjNnMlRlbDlRT0JUM0xWUmoxLUtjeWJDZHNUT210djJ1X1RYZldkSkNJNF93T2V0SzNna3k3TEpXY0FPeHhxcnVGdWFfR3UwOUNFb0U?oc=5",
+      "published_at": "2026-11-13T03:05:03+00:00",
       "topics": [
-        "dgii"
+        "opinion"
       ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "dgii"
-      ]
-    },
-    {
-      "title": "(VIDEO) Conacer pide flexibilidad a DGII y nueva prórroga por facturación electrónica",
-      "publisher": "El Nuevo Diario",
-      "publisher_url": "https://elnuevodiario.com.do",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQX3BBTDR4cndKZ3NaVU9EQTY2bmdaRk1iaEhTZGpvcUtOTFV1WUQ5SWJQWW52LS1uVzJYazRGQjM2MUFYcnp6ZXRNS1JfbXJGRkIwRVRtSF9senVWQ1RxRWxqY2xmaW5JZmJxZ25xTEhLOGF1SW1GWEQ1SkdrYWc3M1ZERXRoUFF0U01NZFlxbWRyTGlEMDhQZ2ZsbWpkZDlOR3ZrMDJGa0xXaS1Ra3E3clE3Zw?oc=5",
-      "published_at": "2026-11-12T16:44:38+00:00",
-      "topics": [
-        "dgii"
+      "economists": [
+        "andy"
       ],
-      "economists": [],
-      "economist_match": null,
+      "economist_match": "headline",
       "searches": [
-        "dgii"
-      ]
-    },
-    {
-      "title": "Comerciante dice DGII prometió que no habrá persecución contra mipymes por facturación electrónica",
-      "publisher": "Listín Diario",
-      "publisher_url": "https://listindiario.com",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOckJLUWtTQzduV3lKTUkwVUhaSDlNVDZWbHNhSy1RbjB2YmRCWjdvTWNJYlBzZ2VYbkgzMTBVTkZXREpnQ25uam11S0M0ZnFCWlBFRmN0RHBLT0JJSjZLNy1DOXBCMlNoLUJTSTJ5cFhvNzdsVWtGTHZhUVktSkpWbzdiZWREbl9Nd3J2NjRtNlR3Vkw3UmZFdk9RM2NROW4ycXZjYm9yQUhxek9DTEphTXRBaVVVaVd4b3RmYzRnVDZmS1VJ0gHKAUFVX3lxTE12WlNXbWd2ODN4RHJBQUwtWWVadGltZjNaRHQ1Rk1EdEswUUNxY3dCN3ZDMVM0elBKcXZaWE5HeUJmSjlGYmFDWVh6RVBiTVJyYVBrQU12bW40UTN4ZXBIcUt3SGVka3Vod2htUkN0WkluSU9ZaUQ5U2d3a3V1V0J2NFA2cGRBb2Faa3pHZXdoQzM1eWNOaTZXeTVoakJzQlZxUHhIRTlMWHJ4WF9kSWN0WTRtZkhDMzcyN1BpazVMdDR6bk5ObHQ0aWc?oc=5",
-      "published_at": "2026-11-12T15:12:10+00:00",
-      "topics": [
-        "dgii"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "dgii"
-      ]
-    },
-    {
-      "title": "Exministro colombiano advierte sobre deuda, baja presión tributaria y subsidios en RD",
-      "publisher": "Diario Libre",
-      "publisher_url": "https://www.diariolibre.com",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQdTJQSkJWR2g4cDVSRmVJV2E3VGo2QllVME5GbWE0aGwtTENCMUxmZ3RyZUNPNmpxMGZXanRKMXJHenQyVzRQVUxEa0RHeTdZOUUtUFBfcm9GbjRnaFJ5eXdWdnJ5Q3lJWUFRdVdpZkxJZnQ1b0NEcy13dTd4bFFLVjdWNndDSUFrX2psMGJ0d09aLVdITXhoSHc1QktaVjZaUW54b2NaS0tKM2ZyUUVPSkVXXzFaeC16SERwRndxbE1QMnJCejBQVFU2QU9mRmvSAc8BQVVfeXFMUHUyUEpCVkdoOHA1UkZlSVdhN1RqNkJZVTBORm1hNGhsLUxDQjFMZmd0cmVDTzZqcTBmV2p0SjFyR3p0Mlc0UFVMRGtER3k3WTlFLVBQX3JvRm40Z2hSeXl3VnZyeUN5SVlBUXVXaWZMSWZ0NW9DRHMtd3U3eGxRS1Y3VjZ3Q0lBa19qbDBidHdPWi1XSE14aEh3NUJLWlY2WlFueG9jWktLSjNmclFFT0pFV18xWngtekhEcEZ3cWxNUDJyQnowUFRVNkFPZkZr?oc=5",
-      "published_at": "2026-11-12T05:57:45+00:00",
-      "topics": [
-        "dgii",
-        "economy",
-        "fiscal"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "economy",
-        "fiscal"
-      ]
-    },
-    {
-      "title": "Pruebas de estrés: clave para fortaleza de la banca dominicana",
-      "publisher": "Periódico elDinero",
-      "publisher_url": "https://eldinero.com.do",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZXAxd1BYLThkbmhVemg0V3h1TlJZZWdfbXFsSENlZnRXSGJfVU5wbHlRVDF5aERBWEl6bHo4WklNcGtyekFkUzJRRm1WYVhmdmlkMFV5ODJ4ZE1zRmZFb01ybmw5TGY1bl9OeERnaThmcnJqQlpzN1JVNzNWdWRUTVN0dG9aYTZ1YmxqR2gyUmRDbXF4czZ4cA?oc=5",
-      "published_at": "2026-11-12T05:57:20+00:00",
-      "topics": [
-        "economy",
-        "finance"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "economy",
-        "finance"
-      ]
-    },
-    {
-      "title": "En República Dominicana, el 60% de entidades bancarias hace uso de la IA",
-      "publisher": "Periódico elDinero",
-      "publisher_url": "https://eldinero.com.do",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONHBrRzNxS0lvRWRyenMxb183bnZnRFZ1N0d3OFNwSkxHbklTSzkyVjVpY29MQWhlUVJ0dmlqZm1YakxkeU9mN1VfZTFXMk5ELUQyYUxreHphNzdfcFNTSmxMSzdHSTBVV2twNFlMTFJhU1pwWjhNcHhCTS1vQkNQV2pxUG9hZGJGaU4wUTFaNmpWRk1UTFNfZmN5Vm9YcmtxNDVrUA?oc=5",
-      "published_at": "2026-11-12T05:57:20+00:00",
-      "topics": [
-        "finance"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "finance"
-      ]
-    },
-    {
-      "title": "Superintendencia de Bancos ve inconveniente bajar tasas a tarjetas de crédito",
-      "publisher": "Periódico elDinero",
-      "publisher_url": "https://eldinero.com.do",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQXl2a1h2T1NnQlpaOWw3T0lqd2JJZDJQYnN4SDlBVzJvUVQxcDlYYm81MnNhT0tkUmRiMkdpQWFENm5ncmNBb2RiNlJsRk1NU2lTQnRobW11ZThIWl9BN29vMFh4Q0FVdU9zZ2MwQWZNLTNLTUUwOGxCVFdaMTZneklwUExpMWZha2VycWJHc2dpZUI3RkVCMjVrYUo3ckE2c05CUjFOUkk2Q1UzSlE?oc=5",
-      "published_at": "2026-11-12T05:57:20+00:00",
-      "topics": [
-        "finance"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "finance"
+        "economist_andy"
       ]
     },
     {
@@ -223,41 +130,11 @@
       "economists": [
         "raul"
       ],
-      "economist_match": null,
+      "economist_match": "search",
       "searches": [
         "economist_raul",
         "economy",
         "fiscal"
-      ]
-    },
-    {
-      "title": "Sector eléctrico limita ruta de República Dominicana a grado de inversión",
-      "publisher": "Periódico elDinero",
-      "publisher_url": "https://eldinero.com.do",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOFY3LU9TSHZ2OU9oLWd3QnRaOUlRSl9JbnBZNXJLNDZxSU95cnc4QVdnc243OFlaOXg4SlVoS3hTcHVjNWRfM2dPc09iUW1LN2ZCejM2Vm5ZM0ZWVFBxbUx2MVFOaWlkRUcwajZzTWp6azhkQU81VDVyR1U0X29IYU1fUURUeEdFalRJYWRoNTd1WEVtWmxQUEJ1eHhzSm1OdWxFUktDTXA?oc=5",
-      "published_at": "2026-11-12T05:53:48+00:00",
-      "topics": [
-        "finance"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "finance"
-      ]
-    },
-    {
-      "title": "FMI elogia economía dominicana",
-      "publisher": "Hoy Digital",
-      "publisher_url": "https://hoy.com.do",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB0OElNaXJJV1JNb05SWFVxU09UUnQ1QjVBWDBKcW1qWmZmeDdYT0pQX052dlUzMy0yUXJDUFh4aUhNX0RiTElyaVVXUnZEUUsxUnlBV1cxZlRZVjhQbFBNczR5N2w4bk01eWxjbHgzV1Q4c2tFV2RWNkxiUdIBgAFBVV95cUxOYk5QbFcxVGNnS3VfVF8zai1FN1I2Y29VaEFVbk9vWV84dWI1WE1FaXlBQ3lkM0JFUTA2bi16Q2tTbVdQanpqNzR4SlRHdWlQTjBWUjdORFU4dkkyZ1V6U1ZjWm9QdG02VTJCd04taXFEY3FrdkVxamxxVmpCTk1ENg?oc=5",
-      "published_at": "2026-11-12T04:00:00+00:00",
-      "topics": [
-        "economy"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "economy"
       ]
     },
     {
@@ -343,23 +220,6 @@
       "economist_match": "headline",
       "searches": [
         "economist_raul"
-      ]
-    },
-    {
-      "title": "La segunda edición del Financial Summit",
-      "publisher": "Listín Diario",
-      "publisher_url": "https://listindiario.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYkZ6cmdJaVh3bmJ4V3A4NlJNZTU2YjAzWXhNeko3UHhEQ1ZfeE5ROGhYSmxBbzc4SzR2QXc2bjFGOGd4cmxFWnRVbmZQeVRqa0VUWXY0cUZfTGsyaVlDVmt2Y256NjFFaW5WNnBsUHZqSkJCNHJpYzJQbi1PUEZINGtPanVJOE5GR0pJUXlTdUJWSE9tS1HSAZsBQVVfeXFMUEwtZ1lXcmJqdjdlTnhmcmYtd0xNZEY1eVNpb0hqQWF1Z0VmNkpZZm5wWDZYT0E0WnBCSTBacC01ZDV0MnFNZE50VW5qVVM2NUdGTS1MWHVlY3pmdFNvc0hzN0FrZGlWVjFLRm1aSk9xRUpSaDE1T01vdFprak9iOUhmdUxOcmdzbHdRQlRqRUVXdTgxOTdOeWtDNDQ?oc=5",
-      "published_at": "2026-11-06T04:00:00+00:00",
-      "topics": [
-        "opinion"
-      ],
-      "economists": [
-        "jose_luis"
-      ],
-      "economist_match": "search",
-      "searches": [
-        "economist_jose_luis"
       ]
     }
   ],
