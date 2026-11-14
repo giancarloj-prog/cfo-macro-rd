@@ -1,7 +1,7 @@
 {
-  "date": "2026-11-13",
+  "date": "2026-11-14",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-13T23:37:24+00:00",
+  "checked_at": "2026-11-14T06:41:29+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -23,12 +23,12 @@
     "bcrd": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 0
     },
     "fiscal": {
       "ok": true,
       "error": null,
-      "count": 2
+      "count": 0
     },
     "dgii": {
       "ok": true,
@@ -38,17 +38,17 @@
     "finance": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 1
     },
     "securities": {
       "ok": true,
       "error": null,
-      "count": 3
+      "count": 0
     },
     "economy": {
       "ok": true,
       "error": null,
-      "count": 4
+      "count": 0
     },
     "economist_andy": {
       "ok": true,
@@ -58,12 +58,12 @@
     "economist_jaime": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 0
     },
     "economist_juan_ariel": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 0
     },
     "economist_raul": {
       "ok": true,
@@ -83,38 +83,18 @@
   },
   "items": [
     {
-      "title": "SIPEN inaugura escuela para orientar a afiliados sobre el sistema de pensiones",
-      "publisher": "Acento",
-      "publisher_url": "https://acento.com.do",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQakZybzdDa2tjUVk2R2xBbzZ3X2dTQXNUVUJVVW1qWmhCSlN1Vk9TZ0c5SmRzb0Iyd1dfcS1jem1CZWY2V2RVSnJGUlhqU3E3aG1KUE1nOEVkRHBGUnhqN2FxSjk4WFFZdW9FMzR6M3BjS1NMbmpiVTlHN051Q3YyN0xDUXNhX1lpZmxIbUFZMmF0Y0toTTFzblJRUVFQcW1uU2FwcE91Ui1wakNFaTB4aUtORDVUeFlUXzU2bmdNbjZTUdIBwgFBVV95cUxQakZybzdDa2tjUVk2R2xBbzZ3X2dTQXNUVUJVVW1qWmhCSlN1Vk9TZ0c5SmRzb0Iyd1dfcS1jem1CZWY2V2RVSnJGUlhqU3E3aG1KUE1nOEVkRHBGUnhqN2FxSjk4WFFZdW9FMzR6M3BjS1NMbmpiVTlHN051Q3YyN0xDUXNhX1lpZmxIbUFZMmF0Y0toTTFzblJRUVFQcW1uU2FwcE91Ui1wakNFaTB4aUtORDVUeFlUXzU2bmdNbjZTUQ?oc=5",
-      "published_at": "2026-11-13T21:32:39+00:00",
+      "title": "Banco Popular ratifica su liderazgo digital en el ranking de la Superintendencia de Bancos",
+      "publisher": "Listín Diario",
+      "publisher_url": "https://listindiario.com",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUG5kVndUeWtrSzZ4YUVuLTdHWklMMDBiNjRpY3RldjNhSmlJMnNUd2pxMG9KNUhIVEhGRFlWV1NETU4zU3RTcW1ZazNBeXdVdG1abjZGN2piRno3MGFzNGhBbFJvbnQ1aXZ5TVV0cUdvbExZbHRUbkdoNmtaVnF4X2VoRkdWVGxhanh3bGIwYno5UjN3QnUwSWIwMFM2ZjZkMmtiY1NOTVNFVmZNb2pGLU9aRWt0alFNUnJ6M1RtUUc2VFNLelYySzd4Z1h6LWdCRmfSAdcBQVVfeXFMTm9yc19mNUotNENZUGEyTWhQbUd1TFRpZGRfTndKTXVqQ0hub1VuZnJkdXgtamE5NkpqZFJjWmtRRTdtU0JlbkVKaVZHdjF6YlpsLXJGS0Joc08tZjgtckpMVW1KbGR3VVd2WjMwM0w5R0VTUE1ud29MSDJoNUJ3SjNUdy1FbDJESk9tTVlRSW9tdzJTcnJXbmRnR0VENDNBV1Y4VFRHbzlkRVIxNHNlQW9HSkFUR0VmeWgxc0FVOXdxWllicVZ1Szd6OXRwWmhTYkZGeXljeHM?oc=5",
+      "published_at": "2026-11-14T04:00:00+00:00",
       "topics": [
-        "finance",
-        "securities"
+        "finance"
       ],
       "economists": [],
       "economist_match": null,
       "searches": [
-        "securities"
-      ]
-    },
-    {
-      "title": "Hacienda y Economía celebra 182 años en medio de un proceso de transformación institucional",
-      "publisher": "Acento",
-      "publisher_url": "https://acento.com.do",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUmRrU01iWnVWSEI1d25wdUNlUzlPZ0xKNW1rT25SeFdfV2VFbC1MbmM5UnNmOVhfNkE3SjJycUszZlhSUERydmZjWWRqRFo5cWUtMXNNMTNSNmJnUlg0QnJhNXNsdW4xY2hvMGRYTTkwb0huNHBkQ1d4MFZLazVfcWdjd3htaENDNWgwNE1kNFBfWXlLMktwX0M2XzA4YzRSUlNERlNNMTRkcEpOeTNmdWFYaFR3NkpTRlAxMm9xTHQwVkoyWDZzVlB5eTg1R1J20gHQAUFVX3lxTE9SZGtTTWJadVZIQjV3bnB1Q2VTOU9nTEo1bWtPblJ4V19XZUVsLUxuYzlSc2Y5WF82QTdKMnJxSzNmWFJQRHJ2ZmNZZGpEWjlxZS0xc00xM1I2YmdSWDRCcmE1c2x1bjFjaG8wZFhNOTBvSG40cGRDV3gwVktrNV9xZ2N3eG1oQ0M1aDA0TWQ0UF9ZeUsyS3BfQzZfMDhjNFJSU0RGU00xNGRwSk55M2Z1YVhoVHc2SlNGUDEyb3FMdDBWSjJYNnNWUHl5ODVHUnY?oc=5",
-      "published_at": "2026-11-13T21:18:19+00:00",
-      "topics": [
-        "economy",
-        "fiscal",
-        "securities"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "economy",
-        "fiscal",
-        "securities"
+        "finance"
       ]
     },
     {
@@ -130,105 +110,9 @@
       "economists": [
         "andy"
       ],
-      "economist_match": null,
+      "economist_match": "search",
       "searches": [
         "economist_andy",
-        "economy"
-      ]
-    },
-    {
-      "title": "Magín Díaz destaca resiliencia económica de RD y respaldo de Fitch Ratings y el FMI",
-      "publisher": "El Dia.com.do",
-      "publisher_url": "https://eldia.com.do",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOazFNRnYwNnc1VEtKRVFUTFJhZ0tLRG8zNXRFcVJYaWFTYkwtNWNXTUJBVXBFOVBIa0hkLTRSdlV6QnFQYWJrSmdhM0NfTjBYWkFSN3BZeGRvR2VhN01jLU9tZ0ptQVQwbzNwTUxNYm1BMzQzSjJYNXM2bnI5blFnejFzREJxRWdvZzhfa0ozMnVUdmM3VnBQZW4zeW14OWVrYmNMaTJUdlU?oc=5",
-      "published_at": "2026-11-13T15:46:58+00:00",
-      "topics": [
-        "economy"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "economy"
-      ]
-    },
-    {
-      "title": "Ministerio de Hacienda y Economía cumple 182 aniversario transformando las finanzas públicas",
-      "publisher": "Periódico elDinero",
-      "publisher_url": "https://eldinero.com.do",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRUEwcndZa2JNaFpHMjRLZDJZTWM5angxSHRxeU82OV9ybTN1V2Y0SGtHWkhEZGhQUFg4M0d6X1Blb283Zi1LaHVwOUd1RlJLZFJDR2xtc1BNWUdJSVhGNk9na19XNXJpbUtNc2tMVGtOVHJuS2txWV9jR25CZmdBWFQ0cTVaaERUMGZyYnlBVl9KRVFualFzUVBTT3czMDVTX3JLTDJJa0hVMDZwcmltWXdnald4WlFKWlZpWl9sQWJfUQ?oc=5",
-      "published_at": "2026-11-13T15:42:12+00:00",
-      "topics": [
-        "economy",
-        "fiscal"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "economy"
-      ]
-    },
-    {
-      "title": "Magín Díaz destaca fortaleza económica de RD al celebrar los 182 años de Hacienda",
-      "publisher": "Hoy Digital",
-      "publisher_url": "https://hoy.com.do",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVFdUYzZ4cmRqY3JxZlhjdTZJM2czUnRPd3UzeEM0djFCcmxSRXR2aGVfdmlTT016X1J6QXlBM052TnJrZFhyRTkwelJ2ZW44QW5aYklmbHFCWG43LUNWemx0NTAwN2NkQVR0dzJldUs4eldsZG1FOVY2bUZ4eGVRQlV6XzY1VUg0bjg0S21rc2dpdTQ5enRYRWlobWRVbjZtTnZkLWVjWE82bG11ZnUyVmhDd9IBswFBVV95cUxOVFdUYzZ4cmRqY3JxZlhjdTZJM2czUnRPd3UzeEM0djFCcmxSRXR2aGVfdmlTT016X1J6QXlBM052TnJrZFhyRTkwelJ2ZW44QW5aYklmbHFCWG43LUNWemx0NTAwN2NkQVR0dzJldUs4eldsZG1FOVY2bUZ4eGVRQlV6XzY1VUg0bjg0S21rc2dpdTQ5enRYRWlobWRVbjZtTnZkLWVjWE82bG11ZnUyVmhDdw?oc=5",
-      "published_at": "2026-11-13T15:26:07+00:00",
-      "topics": [
-        "fiscal"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "fiscal"
-      ]
-    },
-    {
-      "title": "Sipen inaugura Escuela Previsional Persia Álvarez de Hernández en honor a la primera superintendente de pensiones",
-      "publisher": "Periódico elDinero",
-      "publisher_url": "https://eldinero.com.do",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdGl1UzJBLWliYUtmMnZ0YVEtMWFYYjcwUmhpVmtZQVFESklBSGNZakFnN0U4SlJPYVJkalBaaG4wU1BfQkpmU2tTT3k5U0EtNnFNc1g1RWg1c08zaUJlUllTVl95T2hkLXlqNVhYRVdQNlVqeHBNV1J0ZkNWYTVObm0yVlBJU2RGTm5yV2ppWFc4U2pXVmR2N0tfREg0a3dXcTVRVHBFRHItSWVNVG0xbXFoaTRtbmtyNW1KX290WFNmMXVUM1htUGc2eWM0cGF2NElUa1FzUGdPUU5JMWc?oc=5",
-      "published_at": "2026-11-13T13:21:53+00:00",
-      "topics": [
-        "finance",
-        "securities"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "securities"
-      ]
-    },
-    {
-      "title": "¿Cómo invertir en la bolsa de valores en República Dominicana? Experto explica requisitos, ganancias y riesgos",
-      "publisher": "Acento",
-      "publisher_url": "https://acento.com.do",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNU0lEUHg1R3JmaDZna3RMVlhEYk5ITjlqN3V3YXFNamRtejlDU3M1ZTViTmRJMUhSQzFUaVJSQlVMTkVBZ2lZWHB5ajczYU5wU1BHd243NkVLQ3ZtVzh2NGlQSjlDVkYtWWppZWp5RGVuSDJfX0hjamgwekNsaGJja2tHcFJ0b0NyNzdWUkRtVUVFeTZNcUU1VVpWMGc4WV9xLUozTUtQZGRZbExaTWFJR09mR3Q3TVdDTDEzTEo1LUdheHJRSHJzRFp3c2dySzhfUEx2Z0tFY1BVQ01xOXdSTENCZ2wyQdIB5gFBVV95cUxNU0lEUHg1R3JmaDZna3RMVlhEYk5ITjlqN3V3YXFNamRtejlDU3M1ZTViTmRJMUhSQzFUaVJSQlVMTkVBZ2lZWHB5ajczYU5wU1BHd243NkVLQ3ZtVzh2NGlQSjlDVkYtWWppZWp5RGVuSDJfX0hjamgwekNsaGJja2tHcFJ0b0NyNzdWUkRtVUVFeTZNcUU1VVpWMGc4WV9xLUozTUtQZGRZbExaTWFJR09mR3Q3TVdDTDEzTEo1LUdheHJRSHJzRFp3c2dySzhfUEx2Z0tFY1BVQ01xOXdSTENCZ2wyQQ?oc=5",
-      "published_at": "2026-11-13T08:00:49+00:00",
-      "topics": [
-        "fiscal",
-        "securities"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "fiscal",
-        "securities"
-      ]
-    },
-    {
-      "title": "Comisión del FMI evalúa economía",
-      "publisher": "El Dia.com.do",
-      "publisher_url": "https://eldia.com.do",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9sejI1dHJKSnIwWkdfUU1NTXU4Tkt5VWM4MTVpaF9iTm5Ud2M0anlqYWtxQUZhSEF0ZzRMV2h4V2JsM3QzeEczMEZwUm9JUHdINXQxNWpidEx3UmF1VGV3S19hNE0?oc=5",
-      "published_at": "2026-11-13T04:01:00+00:00",
-      "topics": [
-        "bcrd",
-        "economy"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "bcrd",
         "economy"
       ]
     },

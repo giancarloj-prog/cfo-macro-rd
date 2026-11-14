@@ -1,7 +1,7 @@
 {
-  "date": "2026-11-13",
+  "date": "2026-11-14",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-13T23:37:25+00:00",
+  "checked_at": "2026-11-14T06:41:30+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -19,394 +19,38 @@
     "centroamerica": {
       "ok": true,
       "error": null,
-      "count": 2
+      "count": 0
     },
     "mexico": {
       "ok": true,
       "error": null,
-      "count": 13
+      "count": 1
     },
     "usa": {
       "ok": true,
       "error": null,
-      "count": 7
+      "count": 0
     },
     "europa": {
       "ok": true,
       "error": null,
-      "count": 16
+      "count": 0
     },
     "global": {
       "ok": true,
       "error": null,
-      "count": 6
+      "count": 0
     }
   },
   "items": [
-    {
-      "title": "Farmacias del Ahorro expandirá su presencia en el mercado con la compra de Benavides y dará la batalla a Simil",
-      "publisher": "Milenio",
-      "publisher_url": "https://www.milenio.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMXM4WDlrdVdoRDV0eWZTNnRndGVHZTFrQkZOS2w5X0trSC1tanJYc0dUeVl3aXNJODEwMWFpRXVNeWFjRlctREt1em0wdi11VXFKY1RrZXlPaFpPUkduQ3ZwSTg3dUtsUVRaSDlVNXMxb0VXel9TbzNoNzJFc3hXblNDWFI0X0U0WjdXNFVn0gGOAUFVX3lxTE9Cc2J1LXRDUXNEakFsZm40TnkyRERrWWdGcGdSUThHYTJsSi1qbGtGdlBQUHBhYjY4MGZTMWE4NU5NV0hNZml6SFBjeFl1RURBdk50WVFFYUVVUnhIdC1kZUpPS0dWejNUVXFwTHY0Sy1ZLVRrUTJ2TTUtN1hDRVppTnI1T3dZcEs4UldvT0E?oc=5",
-      "published_at": "2026-11-13T22:51:01+00:00",
-      "regions": [
-        "mexico"
-      ]
-    },
-    {
-      "title": "¡Regresa a manos mexicanas! Farmacias del Ahorro adquiere a la centenaria Farmacias Benavides",
-      "publisher": "Milenio",
-      "publisher_url": "https://www.milenio.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWFlzY25WWDFncmQ1STZWZkVidDJWajJZdFNfTWUtcG8yNllzaGQ3Zmd4aFM0bmJkbnp3VERNNDN6YlNVWHN5R29NRndNMzVpa3dES2MtVUxKU1QwRmduZkZvS3ZHYjI4QlhaazJYdTIweVpJdEJ3UjZFSkJPaEFQVmdyRWtYUU5tbXRRZjRBRnptWWlE0gGUAUFVX3lxTE5zS3kxY0dDalp6S01KaG84X3RtcEZfR0lrM1ZibEttVkxDQTBFSjE3czFtMEFkay1OUm0yQTdEMno3NTQ4UDBRZzgtS3lwMWtwai1nVHFkb1BLRWEtVkwyZmdmYllmQi1JVFlQZ01QdEdDQ3FybUgwRmxkVlVLdFdwMGxzMDVvQWp0TkxfbUhDRFZQUF8?oc=5",
-      "published_at": "2026-11-13T22:51:00+00:00",
-      "regions": [
-        "mexico"
-      ]
-    },
-    {
-      "title": "¿Quién es el dueño de Farmacias del Ahorro? El origen de la empresa mexicana que concretó un acuerdo para adqu",
-      "publisher": "Milenio",
-      "publisher_url": "https://www.milenio.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONE03a1h4X0tQT3dNMng5LVRlQ3M1WFpoSEVYSWE5M3pnZTRXaVJqdTFmUWltQWJHdGVSWmc0VUQxZDVBWEdac1g4UXpycUhVdjg5YkU5TU02VE83YlBhbXJiUUMzajdaN1IyTjdoLVFrUnpqTkhWb2pZSnU0anhDZGZmbTRZYzVNUHAzdDlVSHfSAZABQVVfeXFMTUh2QmVYT212am1vY1ctRk1iY0NJRmlpWXljLVM1ZHFJbGVwbWctVTdldDE0alU3X01sSGU3SThGblFfMEJEQnF5OGp4czlMMXNiZTh0SEt2MXdnUWszZk5FUTVpeFB0ZXdfel8tZktyM0hFZmFUX0JGZmtRdEx4NEpzY1hBOGg1T2hEenlRQkxw?oc=5",
-      "published_at": "2026-11-13T21:18:00+00:00",
-      "regions": [
-        "mexico"
-      ]
-    },
-    {
-      "title": "Farmacias del Ahorro acuerda compra de 96.56% de Farmacias Benavides",
-      "publisher": "El Economista",
-      "publisher_url": "https://www.eleconomista.com.mx",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOHlPX1EwdU5MQ2NDZ1lrNnJCVElvYXJCbnBMd2lLUnZVejYxMDVEV1ZKU19vN0dMRU13blJJZEhmbHlnMk55VjZoeVdodUpyNFl0M3VFemE2TVA0RVVBQ3Q1aFVWRkNIekRKam04aVN1ZER4VlloNExvcGtlLUlwZzJnc3piLXJieHVNNk5LNm96NnE3OVJIQnV5T0F4YTlJOGhkUkljYlR5V2ZSdHZvVGV0dE14bVpzcHVN0gHAAUFVX3lxTE5ZTkIyMGxmVGhkMG1Qd1EtbFJ2cHhTMjhmay1mdzNvTTJfUHh5aDhzaU9qU2IxWVhPcDRIaFBzbG5JWlZsZ0xKLU5PeFhrcURKVHB1UFlKVVgwYm1UVFNPS3VZU21ZbEpFdmp5Y3NjU3BVMG44eldsU1Z5bVB1Qm84WkRWWXVyd0hLTFFnTmRFQlF2ejdkZ0cxcXVyRWktVUJpN19saXpLX0JUR0pGbnZkZ3dJVUlCbkVVY0FYcnBDbQ?oc=5",
-      "published_at": "2026-11-13T20:53:46+00:00",
-      "regions": [
-        "mexico"
-      ]
-    },
-    {
-      "title": "Farmacias Benavides anuncia un acuerdo definitivo para ser adquirida por Farmacias del Ahorro",
-      "publisher": "El Financiero",
-      "publisher_url": "https://www.elfinanciero.com.mx",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOdk5OWXNvS2lFSmN5WldHb3R3aDNscnlpemNhYlZMNnNZeG80UndpYUhpM0RCOGxnLU1RRXJWTHZUem9CX2VOQmdVV0Iyc2JSTGlzczliTTVCYlhRRmgwXzBzMFBhdTl1bV9KZDlETXVRZXkySmFLXy1HWFRzNThFYVI4YmppMGFfNklabENNaWw3d183NVVKTkJjRThRV3hPQjV2NTBWbGVId284VzdvbDVjbE1nOF8xNmpReW1MWE9ZOUU1Nm4zQTY2dVFIOFlMbTVYNnN2Ukg1Smh6WFJxUDVsZS1Ydw?oc=5",
-      "published_at": "2026-11-13T20:34:31+00:00",
-      "regions": [
-        "mexico"
-      ]
-    },
-    {
-      "title": "Farmacias del Ahorro acuerda compra de Farmacias Benavides; sumarán más de 3 mil sucursales",
-      "publisher": "Milenio",
-      "publisher_url": "https://www.milenio.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbWNKXzAwcXBWTV85cGkzRVEyZnFGdFI1MmdQY2dhcmVrcVdrQll6bjN0UkkxRkhlc3RhVWtvTzduSGN6NGJlU2Q3ZndKWm9NbDVoUDlxNHdQaGJsLUhuZzBYMHBxVHdzMmxsMkJHa2MwQ0RHWHR4OElOWkVERE5tOHp5anZhdTQtUmfSAYoBQVVfeXFMUHNVYlp4V0pyME53THNOLWh2UUNwcjNuNWp3cVhzanpWTjNteHBCdHJuQTJyVVR5VUxEdVNRMjk3YnNVd292cUhYUTBRcTJWeGtOX0ZWN2RpTzd1VE1TXzcyaEJnVlJsQk91NVBLZUhBbUwtT1Z4VDROSTAzLVRQTHpsNkIycy1vOFVR?oc=5",
-      "published_at": "2026-11-13T20:30:38+00:00",
-      "regions": [
-        "mexico"
-      ]
-    },
-    {
-      "title": "Farmacias del Ahorro compra 96.56% de Benavides y suma más de 3 mil sucursales",
-      "publisher": "El Financiero",
-      "publisher_url": "https://www.elfinanciero.com.mx",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbTNwUWctVFAxM0VJeFZYN2JOWVNza21iSVNvdU5tbTU5cXc3UGItSFZIOXNKd09VYTFvRmk3TWF0NUVjTlItNUwzcS1SNENRU2Ffc0ZMbkRuR1ZQS1BhcHhHSGRzc18zcEUybW5zWnA5b1dlS3hsalgxZnZxVmhJc0lfdXA0MjNHeTNObVhKa3hFeVpvS0sya3NaRWNPdWkwNUg2aWhyU2RLandqSVkwNFN2aUhXdkEzWVNESFNWR3VjQ1R1WVlNaw?oc=5",
-      "published_at": "2026-11-13T20:24:32+00:00",
-      "regions": [
-        "mexico"
-      ]
-    },
-    {
-      "title": "Novo's haemophilia drug gets EU approval",
-      "publisher": "Reuters",
-      "publisher_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOamhwT3l4TXFRdmE2NjNhbzBnSTZURG9rNDJQOXFiYUdLZkZQUlo3NEwxTEVySjZzSk44Z1k4WWZpZDc2c0NoTjFBZWlnZ2FzZkg0TXViM1dLSFZVM3lpOEZuS1VmbENIM0Vsc3g3OXBFSU9IdzVZbFd4aC1BemJSdnRvWUs4NWhlMkkxLVZhUmtzU3FPVDdJ?oc=5",
-      "published_at": "2026-11-13T19:59:28+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "Farmacias del Ahorro suma 3 mil sucursales al comprar Benavides",
-      "publisher": "Milenio",
-      "publisher_url": "https://www.milenio.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOY2xPM3pJbC1RbUd3ems5NGpxTTRPZ0gweXd0RTBQZkJfcUJHbF9GblpxakV1NmZydHk0UWV6VkFfd1hYY2pVV2NWbEd5LWlBYTZWbE9TZWQ4OVBiVkhfczdTdG9saVM3Y1hyMURJMkhZZll1Yng5TnJXWU1FRW1nejQ3dlljLW1tR3AxTXlyQTVXSVFCdl9OQXo0MFVVZ09MYl9wVDV5UHJxZ9IBqgFBVV95cUxNOFNSRk1uNTdNcXMtWTdvTElBTmpTV0w5TlNFQW5zalJtMTlFWWk2MmZ4S1RsbGNFRW1vTU81dUVySUNpb1FIMW5iSmJNcjZMZmVza1RTS095a0pNaGY2RWZiRDJSak9MN2lpQnJIWVhOQ0hHSTZ1OGZHS1JyS0Y3NjZfZWpySW5uMXJhTjVRa1ZyVF8zaHdNUmFfOXctbDZLbjZBd2MwSk9OQQ?oc=5",
-      "published_at": "2026-11-13T19:25:15+00:00",
-      "regions": [
-        "mexico"
-      ]
-    },
-    {
-      "title": "Farmacias del Ahorro acuerda la compra de Farmacias Benavides",
-      "publisher": "Expansión",
-      "publisher_url": "https://expansion.mx",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSFZaWDVMVGZNZDRTU3p5YUxZdC1LQ0psU21YZ0p2YklGZVlZblNRSlVpVHZVdjExSHYyS0x3b1VLMmFOcU81ckstbVdnUVZpUDMtVEtBRXlKanMwLTg0dG9vT0RPOGJ2b0xGZGlfV3AtSGtTV09PczhVOVgzTEE4SzZhVmwzdnNoS1lTMkluQlVuNk5uUjg3aW1kVWJQTkNz0gGuAUFVX3lxTE01cnBhTWNCOWw2a1Nkd2hfclFPbnFnZnFTaV9vVkw4eFI1cVlQSFRWbjBKNkVmZnBCV0dNUlRfSTE5Z0lSUFJ3bkxUX0x0czR6MGZsdkpmVHNaX2JlWWVPUENFSHVXQ3NLRGdkLWlkQW54TkpwbUxyTXJtWEREcGVVQktHNmZRNS10VEd3NWtaeFZ0c003WDEyYjZRbnM5SEczYWZwZVkxUDJVQjZHdw?oc=5",
-      "published_at": "2026-11-13T17:28:00+00:00",
-      "regions": [
-        "mexico"
-      ]
-    },
-    {
-      "title": "Congress’s Top Doctor Resigns Amid IG Findings of Lax Drug Handling",
-      "publisher": "WSJ",
-      "publisher_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNR0kzd29fdzk5QVJNbFY5ckduWmU5NGdHMDNFTVpJVTZ5VU9VVXVJcWpxWVE4VnIwdHZ4OUs1cGpxTTcwZDVCaDNncDFQWHhQSFl1ZTJjZHY0ampKWkJuUVFKbjNzd0N5SjF4WDZQcnhhdVFLYUVwVFhsd2Z5c3FvbHBnWm9ST2xZTkxobUVESDBmSDZacHhSUg?oc=5",
-      "published_at": "2026-11-13T17:28:00+00:00",
-      "regions": [
-        "global",
-        "usa"
-      ]
-    },
-    {
-      "title": "Comisión de Salud da dictamen favorable a ley que garantiza el acceso a medicamentos",
-      "publisher": "La Hora",
-      "publisher_url": "https://lahora.gt",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSHFWd3o3c2tkZEpOVFAwdTdDSWVCVjdVeDNjWkxQQ2lNbDlDWlAxUGhaUHBCcDY0Ul8yNEM3R1hPeWJpZ3B6VkJiWERjaEJVZEtjb0ZIaTl6Q3VLdnNYSnVhOWVTY2w4bjR1Y21WSzNiU2FYTENEOE5NV1J2blFqM2l1Sld5TUFlTGhua2RHemdObEJQdnFLVzIzU1pqZlFnYlJldm5VQmFUMDltclZ6YXhOem5pbURLdVVfSmphLThsMkRYbThOOE9XazIzQQ?oc=5",
-      "published_at": "2026-11-13T17:27:13+00:00",
-      "regions": [
-        "centroamerica"
-      ]
-    },
-    {
-      "title": "Farmacias del Ahorro compra Farmacias Benavides • Negocios",
-      "publisher": "Forbes México",
-      "publisher_url": "https://forbes.com.mx",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBvOUpiMDhKTmJBWjlyNVJZc1gzUVI0cDhscEFDWExGNTkyb3NsdE1veHRIOGdwMVhGQXdMVUoyS051ZFE0QUJveVRyQS1xM29SN21tcnp4ZHFHeEpCTjctQW9YZzBESXZvdFZGRGo1amdhVWZFRkt6Tk53?oc=5",
-      "published_at": "2026-11-13T17:24:00+00:00",
-      "regions": [
-        "mexico"
-      ]
-    },
-    {
-      "title": "The Biotech Growth Trust PLC - Transaction in Own Shares – Company Announcement",
-      "publisher": "Financial Times",
-      "publisher_url": "https://markets.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWjByZTNFV29LU2Z0XzRvMWVSNmZSLWViMFVpNElNNDl2ajEzbHFGVWQwY1o2aVlOTXM0UjF3NWVLYVUyQVdZQ1ZuZEZRamxkbU50VmNwYmI3UXpPTjFWNmNKeEpfWXNKVVFINTFsanIxdTQ1MnNkN0VwOUF4SUYzS1ZTV2RSaVRUT0VWOGFHWlZkWE5V?oc=5",
-      "published_at": "2026-11-13T17:19:00+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "This drug wholesaler's transformation is paying off. Here's why the stock still looks attractive",
-      "publisher": "CNBC",
-      "publisher_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYmNKUmstTGRXLUVEVWR4N29kMHhTX0QxeTdGaEpscVhTb19zYy1FWElJbGNpdmJkMFdVV1B6UmZjT0VSOHEySXptNlQxZFJNTEZIQmxCeE1UaF9RVTBDT2tSLTlzWTRQWHladWZCRldzekNIckJuNzd5eXpyaWM0U2VHeFM?oc=5",
-      "published_at": "2026-11-13T17:12:37+00:00",
-      "regions": [
-        "usa"
-      ]
-    },
-    {
-      "title": "EU panel backs AstraZeneca hypertension drug baxdrostat",
-      "publisher": "Reuters",
-      "publisher_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWGFLbWZyNm93cXhRb3BTcDZhMlhFTzRGUU5GUXkyOTF0VENtVFU3MWxWSmtIT1p2UUtvQVB2R1BrWmtGYnNycHcwSzFtWU1MRVl0OFZRaUJhUEo5ajkwMjg0djN3bFNwb3pVaVhFaGRfVTBoeXpubFBQWVZscDRqRHE1QUwyMVNJWW9HcUdDNjNsX1hvVjh1RXFyeURKSVZiS3NIeERaYmVldEt2c2tNU2sxdzF5TkI5SkdsZ1ZEYV96VTVBc2c?oc=5",
-      "published_at": "2026-11-13T16:11:47+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "EQS-News: Sino Biological Launches 4RISE(TM) High-Throughput Wet-Lab Services to Accelerate AI-Driven Drug Discovery – Company Announcement - FT.com",
-      "publisher": "Financial Times",
-      "publisher_url": "https://markets.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYjFDOUVVdlZjeWJnem54SWJDODkxekxleVVfRmFLSEI1ekZOUFBfRUxTLVJDS3RCMTNOVkltVXRJZS1uVEpTZzVucmNCWUZNcHlCUjJqS29fRTBsaW9BaHB2ajNsNlpWUXgwa1B5ZHFXWFQzZk9TZmlsX2lPZXpzck44RGVOdURUMW91MXM0S29fSjk0bzkyY0dIUmtaOXpoRHlubGM1T1h3UQ?oc=5",
-      "published_at": "2026-11-13T15:39:00+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "Novo submits sickle cell drug; Flagship, Gates Foundation deepen ties",
-      "publisher": "BioPharma Dive",
-      "publisher_url": "https://www.biopharmadive.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQXzcwRUNHYlY3M1JSYWdwTUFXektjdW4wbGRjWDVZMVVQdVMzS1QxSjU0MUk4djdQaXlWeFNCMDBtS243b0JldEVoQWhoS3R6N2w0emtXcTF1cHNJVVlnOGtEUU5KM3ZZdFhOaWFWamtYYWhaRzVMMmh3MDVMTzcwWmE2R0RDS1RKZ0hVR0p4N3V5R2ZVdGZoa3RTSUNlMVU0aGVsc2VaeVdscEdEbWtZTkZ1QzNJTWM?oc=5",
-      "published_at": "2026-11-13T15:24:43+00:00",
-      "regions": [
-        "global",
-        "usa"
-      ]
-    },
-    {
-      "title": "¿Dónde llevar medicamentos caducados? En el municipio de Soledad hay una opción para evitar contaminar",
-      "publisher": "El Universal San Luis Potosí",
-      "publisher_url": "https://sanluis.eluniversal.com.mx",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNamNfT2dHTkhhRG5lZzExd3AwcUNRUzB6d1lqRDFxcmFSaWQtWFZ4alRLOThiNEFOMkJYNEV0TkhSYUhmVkRCZDBSZkFhVTlUekNNbEVZbzcwMUxVMHQ1OXhBSDBMN2NPLUFSLWhReTZFUWJKMnppUmZ2WFZqRU5QUTZGR09SdmhOOGNBMk9zSXNSZW15Ym15N2ZueVF5Vk9TcWIxVG5Va21YRzc1SHluZDBteHdNUXUwZE9KN2tmZ1F6MGRMaEJaWGxoNUIwaGw2Sm5aTm9jdTlCTFU?oc=5",
-      "published_at": "2026-11-13T15:11:26+00:00",
-      "regions": [
-        "mexico"
-      ]
-    },
-    {
-      "title": "Sino Biological Launches 4RISE™ High-Throughput Wet-Lab Services to Accelerate AI-Driven Drug Discovery",
-      "publisher": "Financial Times",
-      "publisher_url": "https://markets.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZGROUUs4dzkxUnh0WHE3aXNETFZLc1g2d3JqZ1VsVnFrRG1kdnhSMGxYRzVkbFVxUFhaNXVqUWpoWVZLakhsTmdZdXVCemVEOTRqUTQtV2JUcl9MWi1kaGRmeEU0eEdhR2pvcGtoOEZDXzNiOFVmMDhWZ1JJaHZRNmNqeTFMaHo3ZTN3Ynp2VW9yQWZVX05VNg?oc=5",
-      "published_at": "2026-11-13T15:05:00+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "Pharmalittle: We're reading about Lilly conflict questions, a DEA OK for a narcolepsy pill, and more",
-      "publisher": "STAT",
-      "publisher_url": "https://www.statnews.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPX3BQMEZ6cEhpalk5ZmJSX0gxcDZBSE5qNXdfQWlpN0JWMzlnbmE1QmdVVW1KaEVaeTNBd00xRkswaERYUVBMNXd4bldFbE1ZMzVYajNpV3k2TEhPckpJb2gzTHBtY2xVTkZaSm52eGhrMFVLWHZqVUgtcS11bHFpM2FYNTBsbERTcTA0M3Rfektoang4ZjdUOWN0WXlmLTVPWWJ3WlBzQQ?oc=5",
-      "published_at": "2026-11-13T14:43:57+00:00",
-      "regions": [
-        "global",
-        "usa"
-      ]
-    },
-    {
-      "title": "This week in charts: Brain drugs are back on venture capitalists’ minds",
-      "publisher": "BioPharma Dive",
-      "publisher_url": "https://www.biopharmadive.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMWhERlZPTjF6N1MwaGlNNEhBRmkxNTZSWlhwS0wzNUNONm5QZDRFODl5bnJfUXU0dG9BcEFHb1lJcXVmX2FBbGpOQlAxUlMxVUFnTHJWQmNSUmVsa0hqdnc5aGxaVnd3WXp0aE96dEJTNDZFdWdVV2hNN00tZllHV2NxYWtxMVllTDRXUFIzR0thbFdob2ZFeW1MRS1HaEdVTzRnMg?oc=5",
-      "published_at": "2026-11-13T14:35:34+00:00",
-      "regions": [
-        "global",
-        "usa"
-      ]
-    },
-    {
-      "title": "Doximity to Provide New Clinical AI Tools Across NewYork-Presbyterian, Columbia University and Weill Cornell Medicine – Company Announcement - FT.com",
-      "publisher": "Financial Times",
-      "publisher_url": "https://markets.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNel95SDVoUUJYSVhXZjkyaTZvWE91TWQ0aGFSZlZzcERmQTc0eGRRMk5QTkNBbm1OM1lBMGI2c2xnS3Nrc2VJeHJRNXRuQnZJdjlxckk2SmJVbjEyTDZPR2RzQmVPMGRwYk1iLXhlQ1YxZjVTUm5VMVo5ODZ1RWdIb3NWVEEzMU5jd2Z1bk5CblRrMFZCdUU5cFRmdkZyakxUOGRTOHdB?oc=5",
-      "published_at": "2026-11-13T14:00:00+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "The future of heart drug research in the wake of study setbacks",
-      "publisher": "STAT",
-      "publisher_url": "https://www.statnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUE1GSG5HcUVVcWg3X3FEUXY5OW5SNkNrS2phREhUZWtkNVBfTjByTEpSOUtxWEtFbUFQUnVNMk53NFpWeGpaTWtqdEJvem1fa21NcF9MLVFLbEZocWNuWGVfdFctNmJDZ0lFMVpZNjVQMHFaV0pCM2l3VG11dmNoNVpRUjJXUXhHOWxxbjh0WXFNbTNtXzZoRHR5ekFBc25ZRUE?oc=5",
-      "published_at": "2026-11-13T13:41:34+00:00",
-      "regions": [
-        "global",
-        "usa"
-      ]
-    },
-    {
-      "title": "Fierce Pharma Asia—China’s Big Pharma ambition; Treasury’s China crackdown; Takeda’s narcolepsy launch",
-      "publisher": "Fierce Pharma",
-      "publisher_url": "https://www.fiercepharma.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcHNXbkJaanZuNFpoQnBTMnc4VEx3UUtFQVdycXllaDlJemRUcndIVXR2ZC1ZaTFiNjNfU2oyZW9OSUs4WUdxcW51Tl96QXNNaHF2ZTdKeFNnVE5CaTU3Zk5BTEpGMkw1cHNPRmxyN2UtNDlDUDRqMUJ5VFZteWx0SjNHbW1COWF3VVc3VC1hb2pXZ2lZVHZxeHQ2UjI1QmtZUHRGbWE0TVR6bWdU?oc=5",
-      "published_at": "2026-11-13T13:38:51+00:00",
-      "regions": [
-        "global",
-        "usa"
-      ]
-    },
-    {
-      "title": "Tandem Mobi Now FDA Cleared as World's First and Only Tubeless AID System with up to Seven Days of Wear",
-      "publisher": "Financial Times",
-      "publisher_url": "https://markets.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWGptVXdoNF9Db0NsM21wZjlwdmgyRS04WGdBbjM1bW9KY2tIUndBYlI0NHNBSjRZbEYtUlpYeV9TT0JaX0hIVk56WjR6YXNjc0s5alFzWkcyeXplVThFbkQ2ZlQ5NXNfOFV1WWMzS181T3pNV1RzY2IxRTVCUUtTNzh1OG85R29lVEFnUGs3TFBCVjhuRlhFNnBCalNIX1A3d1pESURn?oc=5",
-      "published_at": "2026-11-13T13:30:00+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "Neurosterix' $105m round leads the week's biotech financings",
-      "publisher": "pharmaphorum",
-      "publisher_url": "https://pharmaphorum.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNc1FNakNiTmxBSTdkWDFNQV9feFpFc29vYTdyZlpTc3ByUFoxOUpXM2pMUU1QektNYnFHejMzSHNURU84eDZqX0c0aWNYc1EtTGIyVlVFdlJSN3NaREEwVmRWYWtCSFROMDhNdktERldXekFaNUtoQjlzdjlNWlhhTFQtWGMzMG1kcTRr?oc=5",
-      "published_at": "2026-11-13T12:21:13+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "Paxman Announces FDA Advancement of Its Neuropathy Device De Novo Application to Substantive Review",
-      "publisher": "Financial Times",
-      "publisher_url": "https://markets.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZnZ3aGU1RGNRMS1WZ2JUb0oyTy00T3JXOHFXRmU2bVVITzMxNVh3bl81TGxuVkRVajg0b01NTG1oUnVLOGY2ZFB4N2VSSl9XSHF2MGxrU19XVC1iQmRfSEF0aExRZF9KVEJ5X0MtcVJKNVBOS3BhWmRiaU1MbHBvd3VRZ3FneGRRLWVCRmF2ekFNLXE4NnV2OGFOOVQyMm94bUd6RWNPR2xRNG5Ta2N5dmhjdEVSaFhVQ2Iw?oc=5",
-      "published_at": "2026-11-13T11:45:00+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "Bora Group 3Q26: Revenue and Net Income Expansion Continues U.S. Manufacturing and Biologics Footprint Complete; Margin Expansion to Follow as Utilization Improves – Company Announcement - FT.com",
-      "publisher": "Financial Times",
-      "publisher_url": "https://markets.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSGZuMllkUUJ0aXZNVzdHa19iVmxQM2R4TEd1ZGozanliMWxzcWFibUw1WVdraUgxOHBhNjVHNUdyNUNmVlhZY0FkX0J3NXFpZFhBLU1SWHRFaFZMb19MS2dvWTJwVXZZR0JES0k4WC1uSDhKeGRyNXd0M1RtQWlqOE1FSk1RZC01ZWFmeF85UmlQT21rYmxvNXVzc0hERWRMZlFCRDNFUXdaZw?oc=5",
-      "published_at": "2026-11-13T11:15:00+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "Euronews Culture's Film of the Week: 'Club Kid' - Sex, drugs & sudden parenthood",
-      "publisher": "Euronews.com",
-      "publisher_url": "https://www.euronews.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQWY0ekZ5Yjl3VUU4YVBlamZOWXkzVVJWczR3bmdwaEZHUHBGV0FNckVvTnhqQXdVQ05QSzhXZlhoNWdlTC1peGlmNm0wT3FVNTJ0TEtrYTlDN0pPaWNLeFpXNkk0aTA4YTZGWVRtRWR1dEtfbXpUaU1KRHJSbXN3YkhmNlpFYU5LWWY1WTFOYk01WlAxbTNYYzdHbXpxQi1vNjE0RXE3Tm40MVk?oc=5",
-      "published_at": "2026-11-13T11:06:36+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "Animal testing: Can medicine finally go cruelty-free?",
-      "publisher": "DW.com",
-      "publisher_url": "https://www.dw.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRGZMVUplaFZneVR1T3dXdzE4V0xkOFpERWJqRGRQczZnVVA4WksxY0ladE9wUmk4elVLaGM4T1pENjZJcDRsRHNJakxIMTJrdVJ2Qm1rN0I4SWxQNXB1YUlyNjdyWm9vSjc4V2d4TGp3cVJZN0h1bHlJNlFEOTN2OVI1cncxRTlWY0VneC1nZkFGZw?oc=5",
-      "published_at": "2026-11-13T11:01:52+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
     {
       "title": "Cupón Farmacias del Ahorro: hasta 70% en Noviembre 2026",
       "publisher": "El Universal",
       "publisher_url": "https://www.eluniversal.com.mx",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVnI0QTNHaVkxbzBYemh6MWZfVjFvT2prNlU0SS1VVE54UHpiU196eTlBVS1zWk0wM3FNbXhrSWlxLXZLZkVjejZ0allBM2w4SFBlSE9BVEJybUVoYWdtRXJsMFlKYi1VNWtaY3gyVUVJQ0w2cmZIc21fRmxPOTBpRUJB?oc=5",
-      "published_at": "2026-11-13T10:01:26+00:00",
+      "published_at": "2026-11-14T04:11:01+00:00",
       "regions": [
         "mexico"
-      ]
-    },
-    {
-      "title": "Por qué la simple vacuna de la gripe podría ser un arma sorpresa contra el cáncer",
-      "publisher": "Prensa Libre",
-      "publisher_url": "https://www.prensalibre.com",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdXE2WThlTVM1UFZVRHpyQVpCWFA5cDFwM2dUaWJnR3o2Rk5rLThTQUdVQ2pMM3BJYmp5elIzWktZNmhGVkVSUDRhNVBqRDc0OGpDeTRjd2NzRW9jdU1WQ2ttc3RkLWhxOThQZGl2RzhaX01TU09mVndCZHZ0MjZ6OFgycU9JaGVBTnVpM2FqTExmS2ZzakVfMFdvcEQ2TE90ejRGOTRqWjJmVXcxaHQwaUp1UFNQa0pvRXFDZHVOV2tBU3RMUE1RZF92WQ?oc=5",
-      "published_at": "2026-11-13T06:05:00+00:00",
-      "regions": [
-        "centroamerica"
-      ]
-    },
-    {
-      "title": "Big Pharma’s race to stop Alzheimer’s before it starts",
-      "publisher": "Financial Times",
-      "publisher_url": "https://www.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTnNrUjdPOC1NYXJ5RWpOdHFObEpodzVDb0NYcnl4OVYwV1hMRWhhM1lzalVUWmRHUFVHenBMYTg2M1RjZWE5aWRPZTZSeVhyWFlzNTVnTlJBbkI0TDlPNW1rUGU3a29HZHFaTUpULXU3VEx5VWJ4ZkdSSlZvUzdQSU5VSEE?oc=5",
-      "published_at": "2026-11-13T05:00:08+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "Molecular Partners to Present at Inaugural UBS Global Biopharma Conference – Company Announcement",
-      "publisher": "Financial Times",
-      "publisher_url": "https://markets.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWWctbGlfY1JnQXVGYTNDajk0TFd4X3FtWC1pYk5LNU1BR01VdkJoT2Ytdjg2eFBja0hsVjJxc01GekNFWHBzdHowT0NwdndCUWp1dkpfeW9Qc2M5SmZFSWI0dkRaeVlDQ3VGRU5ZT0dwQklfWUY0M2Z2ZXRJZ1VqZHBEeDNHXzZsZG0yQ055UVhpazJzaFcw?oc=5",
-      "published_at": "2026-11-13T05:00:00+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "China Resources Pharmaceutical Group Ltd",
-      "publisher": "Financial Times",
-      "publisher_url": "https://markets-origin.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQU3N6cEsxNWVVdkVMQzNqSEx6QVZpSjR5cUV4TWd5aFZYdUVsaElldi1CcngtakZIRkRpdElCd2xjY2RuVDBHd2c5aUxiV3VPeTZDdlF5ZWV3YUxxRnhzb25iLTF6UlJiZ3YySThsSW9IT2RfQy1QWjQxblFVQ0MtTk4taGhPTW93NUZKTDJ0OUxXdWZfNmJpRWYyMA?oc=5",
-      "published_at": "2026-11-13T04:20:10+00:00",
-      "regions": [
-        "europa"
       ]
     }
   ],
