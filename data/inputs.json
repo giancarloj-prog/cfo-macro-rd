@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-14T06:41:26+00:00",
+  "checked_at": "2026-11-14T16:38:03+00:00",
   "series": {
     "resins": {
       "name": "Resinas termoplásticas",
@@ -263,7 +263,7 @@
         "qoq": 0.95,
         "yoy": 10.13
       },
-      "verified_at": "2026-11-14T06:41:26+00:00"
+      "verified_at": "2026-11-14T16:38:03+00:00"
     },
     "corrugated": {
       "name": "Cartón corrugado",
@@ -527,7 +527,7 @@
         "qoq": 2.9,
         "yoy": 8.25
       },
-      "verified_at": "2026-11-14T06:41:26+00:00"
+      "verified_at": "2026-11-14T16:38:03+00:00"
     },
     "paperboard": {
       "name": "Cajas plegadizas",
@@ -791,7 +791,7 @@
         "qoq": 1.34,
         "yoy": -2.18
       },
-      "verified_at": "2026-11-14T06:41:26+00:00"
+      "verified_at": "2026-11-14T16:38:03+00:00"
     },
     "ethanol": {
       "name": "Etanol",
@@ -1055,7 +1055,7 @@
         "qoq": 9.67,
         "yoy": 9.05
       },
-      "verified_at": "2026-11-14T06:41:26+00:00"
+      "verified_at": "2026-11-14T16:38:03+00:00"
     },
     "aluminum": {
       "name": "Aluminio primario",
@@ -1321,7 +1321,7 @@
       },
       "download_url": "https://thedocs.worldbank.org/en/doc/74e8be41ceb20fa0da750cda2f6b9e4e-0050012026/related/CMO-Historical-Data-Monthly.xlsx",
       "methodology": "Histórico completo reconstruido con Banco Mundial; no se empalma con FMI/FRED.",
-      "verified_at": "2026-11-14T06:41:26+00:00"
+      "verified_at": "2026-11-14T16:38:03+00:00"
     },
     "sugar": {
       "name": "Azúcar mundial",
@@ -1587,7 +1587,7 @@
       },
       "download_url": "https://thedocs.worldbank.org/en/doc/74e8be41ceb20fa0da750cda2f6b9e4e-0050012026/related/CMO-Historical-Data-Monthly.xlsx",
       "methodology": "Histórico completo reconstruido con Banco Mundial; no se empalma con FMI/FRED.",
-      "verified_at": "2026-11-14T06:41:26+00:00"
+      "verified_at": "2026-11-14T16:38:03+00:00"
     },
     "gscpi": {
       "id": "gscpi",
@@ -1851,42 +1851,42 @@
   "source_health": {
     "resins": {
       "ok": true,
-      "checked_at": "2026-11-14T06:41:26+00:00",
+      "checked_at": "2026-11-14T16:38:03+00:00",
       "error": null
     },
     "corrugated": {
       "ok": true,
-      "checked_at": "2026-11-14T06:41:26+00:00",
+      "checked_at": "2026-11-14T16:38:03+00:00",
       "error": null
     },
     "paperboard": {
       "ok": true,
-      "checked_at": "2026-11-14T06:41:26+00:00",
+      "checked_at": "2026-11-14T16:38:03+00:00",
       "error": null
     },
     "ethanol": {
       "ok": true,
-      "checked_at": "2026-11-14T06:41:26+00:00",
+      "checked_at": "2026-11-14T16:38:03+00:00",
       "error": null
     },
     "aluminum": {
       "ok": true,
-      "checked_at": "2026-11-14T06:41:26+00:00",
+      "checked_at": "2026-11-14T16:38:03+00:00",
       "error": null
     },
     "sugar": {
       "ok": true,
-      "checked_at": "2026-11-14T06:41:26+00:00",
+      "checked_at": "2026-11-14T16:38:03+00:00",
       "error": null
     },
     "gscpi": {
       "ok": false,
-      "checked_at": "2026-11-14T06:41:26+00:00",
+      "checked_at": "2026-11-14T16:38:03+00:00",
       "error": "ValueError: Sin edición GSCPI identificada"
     },
     "fda": {
       "ok": true,
-      "checked_at": "2026-11-14T06:41:26+00:00",
+      "checked_at": "2026-11-14T16:38:03+00:00",
       "error": null
     }
   },
@@ -2249,6 +2249,6 @@
         "presentations": []
       }
     ],
-    "verified_at": "2026-11-14T06:41:26+00:00"
+    "verified_at": "2026-11-14T16:38:03+00:00"
   }
 }

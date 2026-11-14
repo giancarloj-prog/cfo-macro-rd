@@ -1,7 +1,7 @@
 {
   "date": "2026-11-14",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-14T06:41:30+00:00",
+  "checked_at": "2026-11-14T16:38:07+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -29,20 +29,92 @@
     "usa": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 1
     },
     "europa": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 6
     },
     "global": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 2
     }
   },
   "items": [
+    {
+      "title": "Innovative Immunology Biotech Windward Bio Lists on Nasdaq – Company Announcement",
+      "publisher": "Financial Times",
+      "publisher_url": "https://markets.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOLVprQ19KckE5aUl6X3B0VEV6VjdLdU9kUFF2ZHQ4RGMyZzJWVk9jUkY2M1Q4S1FuU0hDNXQ3MVlVOVNQREliM0RoeWpFaW5sc2tXUkNvMGx2a0FNN282Y01FaGIwS0JXaFlySVBSWW9JZG03X08xYmgxQ3JqalF2TmFmeVFJNDBJZTBvT1hIbzc5MTFwbUR0cA?oc=5",
+      "published_at": "2026-11-14T15:57:00+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "Eli Radiopharma",
+      "publisher": "pharmaphorum",
+      "publisher_url": "https://pharmaphorum.com",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE03eDBvUzNBZk1LTGdKUGEweEVvZE1DdkNVVkZnRDJvZW5RUGV4YTBocnExSTNFbjJ0alA5SlBNOEYyWlQ0M2NHQXR1d0dvVmZaSXhEVnJOaw?oc=5",
+      "published_at": "2026-11-14T14:21:38+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "Makers of obesity drugs hit back at claims of negative side effects",
+      "publisher": "Financial Times",
+      "publisher_url": "https://www.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOR1NkcmVzQ1NHdUJTZkdUR1ZBR19GMmhndndQRjZKbUVENi1VTXBCeEY2andSWURTdWV5RzJhUmZuSldlWTZEYkxVdmJzcWU2LXFEb0daTnZFY0FMMXhaa1JGb1hSeGpkV1dtR2RibkY4RUlUeG01UWJaTFkzbEFkMWktaXQ?oc=5",
+      "published_at": "2026-11-14T11:00:09+00:00",
+      "regions": [
+        "europa",
+        "global"
+      ]
+    },
+    {
+      "title": "CARsgen's CAR-T Product Satri-cel Included in China's Commercial Health Insurance Innovative Drug List",
+      "publisher": "Financial Times",
+      "publisher_url": "https://markets.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObDRXVGdQOXkxdm4wS0x4N0t2aUFWNzB3TGtFQnNQWEpVLUtTdmR0azFmMzJIMlEyZlFXNllsM3d6b2xBQUc5cWFXOENydGJpNksxY2taVXM3Y2RvWHBhZ0t5djNuZmZ0NjF2TGZYUFIzbFFrMlROOEFHVWNhS05vcHJuRnFfcjBsYjY5OGVIeHZGRE5McXZtNg?oc=5",
+      "published_at": "2026-11-14T09:55:00+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "Preclinical Biotech Unnatural Products Lands $1.15 Billion M&A Deal",
+      "publisher": "WSJ",
+      "publisher_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWXpYUnZxOWw4YW5fSzRXUHZaYlh4akxWWV9fZjhlLWltVmt3d3FKTVJHSzdUUUpXNlFnM0twVlA1MFdfRzNqb2RtWXdKcU1UQ0xhM1N3VTd5REU2ZzQ4TGpFYXQtMFFseUtLaDBGUTZIVHhzbVZPcW82V0lPQjI1YWFuXzlRUlFmTGFua0Y0b0N3X2hweldwWk45bTZQLVQ3bEhxMllaQ2hfM2dBd1ZqQVgzVDRnUQ?oc=5",
+      "published_at": "2026-11-14T07:11:29+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Grand Pharmaceutical Group Ltd, MX6A:DUS directors and dealings - FT.com",
+      "publisher": "Financial Times",
+      "publisher_url": "https://markets-origin.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5iWXVuMWo2Ti1Hc04yNTJFa3NjVTNYamdSLTZqRDJudUFJd3UxSW44cTktYmhuYXBmVVFXLVJoRmFiLXZ2cm15YlhDaUFZbnNkUjE5YXdnMTU5T25QYWMyQkhIVEJZU0VXNU05OUcwRUN0dkIzVVo1ZUg2MjZBN2c?oc=5",
+      "published_at": "2026-11-14T05:45:35+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "Oncodesign Precision Medicine Opm SA, ALOPM:PAR financials - FT.com",
+      "publisher": "Financial Times",
+      "publisher_url": "https://markets-origin.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaGtEeC1XVFkySGU5X0JGM0lGU0ItN0tQZmhZWFdTUWU4VktlSldGU3NjTmhXQ29oaVNMVXpOYWZaNFJrNkhnVUVHVkxUNGstTGU5M2RwZVItX01hd2tfTVVZM01hOU1WMVJJSDhiSmZDenJvZnhxbklpeUZBRXV3aTIweWktb0w1REZFZGx0UWx6UHgzbmRrSGM2WnByWFdZTkE?oc=5",
+      "published_at": "2026-11-14T04:26:55+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
     {
       "title": "Cupón Farmacias del Ahorro: hasta 70% en Noviembre 2026",
       "publisher": "El Universal",
