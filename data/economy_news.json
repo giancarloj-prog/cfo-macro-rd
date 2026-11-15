@@ -1,7 +1,7 @@
 {
   "date": "2026-11-15",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-15T06:47:47+00:00",
+  "checked_at": "2026-11-15T17:14:03+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -23,7 +23,7 @@
     "bcrd": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 1
     },
     "fiscal": {
       "ok": true,
@@ -33,12 +33,12 @@
     "dgii": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 3
     },
     "finance": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 1
     },
     "securities": {
       "ok": true,
@@ -48,7 +48,7 @@
     "economy": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 2
     },
     "economist_andy": {
       "ok": true,
@@ -68,7 +68,7 @@
     "economist_raul": {
       "ok": true,
       "error": null,
-      "count": 2
+      "count": 1
     },
     "economist_jose_luis": {
       "ok": true,
@@ -82,6 +82,72 @@
     }
   },
   "items": [
+    {
+      "title": "Inflación, tasa de interés y expectativas 2027",
+      "publisher": "eldia.com.do",
+      "publisher_url": "https://eldia.com.do",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5yelVyQXg5czFBcldpRUxMYXVsQ0ZmeWRjbVlIejFVQUs5cXlBUDJhY0ktdlNJcU42eWNsM2hhWnFBQTk0dFBPa09VYnVTSXBJM21uRFpLMlk4RGp0SVRCODdYbFhONXpVNzNCTklnVVFPTnoyc0E?oc=5",
+      "published_at": "2026-11-15T16:47:44+00:00",
+      "topics": [
+        "bcrd",
+        "economy",
+        "finance"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "bcrd",
+        "economy",
+        "finance"
+      ]
+    },
+    {
+      "title": "Carlos Durán denuncia fallas en facturación electrónica y pide solución urgente a DGII",
+      "publisher": "El Nuevo Diario",
+      "publisher_url": "https://elnuevodiario.com.do",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdXdfSGkyOVE0TC1DaUhZSWJuSEZ0WkdOR1pqV1AwUUVNcklUVEpMbXNYa0pWVXNLcVdJM0lwS1A4cmRKMGNXQW5KS1NnUWltVlk3RHd0SEZ5STRTQWUxeVlrYjJzWk5kWk1sNHRkZU1JOE44amtTRjU5YmRuSHduX2NwZVpud2lyNmRYbHdIU3c1dTRqc2ZxdjlYX1d3a1ItN1N3R05vcjFFT2ZiR0gwOGpVejlraVU?oc=5",
+      "published_at": "2026-11-15T15:50:28+00:00",
+      "topics": [
+        "dgii"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "dgii"
+      ]
+    },
+    {
+      "title": "DGII trabaja hasta este mediodía para facilitar incorporación a facturación electrónica",
+      "publisher": "Listín Diario",
+      "publisher_url": "https://listindiario.com",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNb0pzVThyOEpCb0JaaFZyTGVhUHZxM2o0Mm5CSzdRUWxxdnhiOHVUNkJUNFEyUXR2OWtWQmxkblkzVVBjd1ZqY0NDLTFJeEs0Y05fYUJZb2ZtUGo4VHNJMkNZQy1PMEE1bVdfN3I3T1h1ZHBvNlJCZ1B3S25OMFFnZHRDNVd0VVF0aklpaGJvMVZqMG0xODg4QXVFR3Z1ZWN3cEFqZVdveGRkT2k5enpnVjVkME1JaVFLVnNqQWVtYXRjVmtLakJUVDUwUEktVDFVdGxqLTBwSXJveW_SAeABQVVfeXFMT3VhLTl4WDQybGxpQ3M4akpFWGNPZGFVUXphSlRwaXpZaDJna2s4Q2pqbGhUUFowTEhZTGdHcHNZSjdzRWVLVm9wMjdDWjQ0N2RSN192QU1jMGQzd1g2TVNRMl9MMGhMVDlEQVhzdFBpTXdhSHNCN1dKZUN3NS10WVdPMEVxb3RxU3Z6TGZnQlFuMGtVckhzZzdBa0ZhX1h6dGw2M25vd2JHTUhMV25qeFZBaGJoQkdRNE9FUlc4LV9lSDJLTjZ2aHBYdGpKUnUwaXpyX2JNN1lnU2hWM1VQeTQ?oc=5",
+      "published_at": "2026-11-15T14:47:13+00:00",
+      "topics": [
+        "dgii"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "dgii"
+      ]
+    },
+    {
+      "title": "Vence este domingo plazo para acogerse a la facturación electrónica; DGII descarta nueva prórroga",
+      "publisher": "El Nuevo Diario",
+      "publisher_url": "https://elnuevodiario.com.do",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTllFdXNGZk9yM0hfa1l4c1VfS2FIVjh1MWpSWWJMblEzLXhBdS1tYU0yeVpYMXlOTHlvcGl4OFcxQnVQSHdXT2pnOFM0WFdSdnp1OWdieFVyQVpTR2gwN0VwNFN5ay01RUdQVlEzUTR5aGs1aVFVbFRyblVrbm9rc3FMS0JuUU1jdmhSYnhORFNZR01oZTRtOVRYWWJOZmVySmJLVTFGNEVFX3dhMlJFUzJOTjZHTnlTQXNGUWdtb2YwcWNf?oc=5",
+      "published_at": "2026-11-15T12:35:27+00:00",
+      "topics": [
+        "dgii",
+        "economy"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "dgii",
+        "economy"
+      ]
+    },
     {
       "title": "Créditos al sector agropecuario cayeron -13.4% en primeros nueve meses de 2026",
       "publisher": "Periódico elDinero",
