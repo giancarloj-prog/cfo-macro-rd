@@ -1,7 +1,7 @@
 {
-  "date": "2026-11-14",
+  "date": "2026-11-15",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-15T01:58:16+00:00",
+  "checked_at": "2026-11-15T06:47:47+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -33,17 +33,17 @@
     "dgii": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 0
     },
     "finance": {
       "ok": true,
       "error": null,
-      "count": 3
+      "count": 0
     },
     "securities": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 0
     },
     "economy": {
       "ok": true,
@@ -68,7 +68,7 @@
     "economist_raul": {
       "ok": true,
       "error": null,
-      "count": 3
+      "count": 2
     },
     "economist_jose_luis": {
       "ok": true,
@@ -82,21 +82,6 @@
     }
   },
   "items": [
-    {
-      "title": "Banreservas incorpora a más de 2,000 personas al sistema financiero en Barahona",
-      "publisher": "Acento",
-      "publisher_url": "https://acento.com.do",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQ0ZZci1mVk9KbFR1aWd4QTFtckE3SWtXZWF6Mlp4RFUtVVNRUnFVY2l1Q3gzUHA4eno2R1RrbGxXaDJFbC0zazVuYThMTUh4Z1dlSXVkWWxRY21qclZUUGt3bUFVeVFsX3lYRTYzUlFKcnlralNwWER0RVRfNUhkTzNiM2NIdFdtNkxmTUY2WFZ4X0l5X3ZuTXMxRUVnVXlRZ1NGdXRtN0k4ajNGVnI4ajczelhsVGM2X2tuMUJOTdIBvwFBVV95cUxQQ0ZZci1mVk9KbFR1aWd4QTFtckE3SWtXZWF6Mlp4RFUtVVNRUnFVY2l1Q3gzUHA4eno2R1RrbGxXaDJFbC0zazVuYThMTUh4Z1dlSXVkWWxRY21qclZUUGt3bUFVeVFsX3lYRTYzUlFKcnlralNwWER0RVRfNUhkTzNiM2NIdFdtNkxmTUY2WFZ4X0l5X3ZuTXMxRUVnVXlRZ1NGdXRtN0k4ajNGVnI4ajczelhsVGM2X2tuMUJOTQ?oc=5",
-      "published_at": "2026-11-14T22:00:52+00:00",
-      "topics": [
-        "securities"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "securities"
-      ]
-    },
     {
       "title": "Créditos al sector agropecuario cayeron -13.4% en primeros nueve meses de 2026",
       "publisher": "Periódico elDinero",
@@ -113,53 +98,6 @@
       "economist_match": "search",
       "searches": [
         "economist_juan_ariel"
-      ]
-    },
-    {
-      "title": "Banca local incorpora lentamente los riesgos climáticos en créditos",
-      "publisher": "El Caribe",
-      "publisher_url": "https://www.elcaribe.com.do",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNenY3MHVwVW5VOU9Lcmh3SFhmN1hENE1SU0k4TUtlZzF0NmJ6QzlUSTl1OC1fTFlPY3RNTUVwSUdDdmxjOWdzczZqanpuZ195Z0dETXFQMVpwRlFUUkhaTlVhVWRCLVZBNlVZbTV3RGZyMi1vbWM3ZHR2cUtjbURzV3lBNXQycmEwNXNrODBzSk1hUm1xYWY4b2JsUUdQYUxVY2pydmRPQU1yc2sxSEpKU1BR?oc=5",
-      "published_at": "2026-11-14T18:00:00+00:00",
-      "topics": [
-        "finance"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "finance"
-      ]
-    },
-    {
-      "title": "Foro Económico elDinero 2026 planteará los desafíos de una nueva fiscalidad para la economía dominicana",
-      "publisher": "Periódico elDinero",
-      "publisher_url": "https://eldinero.com.do",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNnI4cDJEQjlsazRiM0ZHX1k1M2VQZGdSbFBtblNoYzcwTnVmMGxvcWdyVEJnVlZ5a1h3OWlWRGtkTjRnbGxBWm11NXI5N1lpT3J2czNTbnZjOWRqRUl2WUZoakU2aUp0dGEwQWoxZzFDc0xpSDRtVno1cEt3blRTTlZEVXdrdlhLQ3pOQ19XZU9iUVc3eFJRRmxQbkVES2dGc0ZwbzlSMkV3VUtCN21FdmN0SUxxREpodEY4aQ?oc=5",
-      "published_at": "2026-11-14T17:59:44+00:00",
-      "topics": [
-        "dgii",
-        "finance"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "dgii",
-        "finance"
-      ]
-    },
-    {
-      "title": "Banco Popular ratifica su liderazgo digital en el ranking de la Superintendencia de Bancos",
-      "publisher": "Listín Diario",
-      "publisher_url": "https://listindiario.com",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUG5kVndUeWtrSzZ4YUVuLTdHWklMMDBiNjRpY3RldjNhSmlJMnNUd2pxMG9KNUhIVEhGRFlWV1NETU4zU3RTcW1ZazNBeXdVdG1abjZGN2piRno3MGFzNGhBbFJvbnQ1aXZ5TVV0cUdvbExZbHRUbkdoNmtaVnF4X2VoRkdWVGxhanh3bGIwYno5UjN3QnUwSWIwMFM2ZjZkMmtiY1NOTVNFVmZNb2pGLU9aRWt0alFNUnJ6M1RtUUc2VFNLelYySzd4Z1h6LWdCRmfSAdcBQVVfeXFMTm9yc19mNUotNENZUGEyTWhQbUd1TFRpZGRfTndKTXVqQ0hub1VuZnJkdXgtamE5NkpqZFJjWmtRRTdtU0JlbkVKaVZHdjF6YlpsLXJGS0Joc08tZjgtckpMVW1KbGR3VVd2WjMwM0w5R0VTUE1ud29MSDJoNUJ3SjNUdy1FbDJESk9tTVlRSW9tdzJTcnJXbmRnR0VENDNBV1Y4VFRHbzlkRVIxNHNlQW9HSkFUR0VmeWgxc0FVOXdxWllicVZ1Szd6OXRwWmhTYkZGeXljeHM?oc=5",
-      "published_at": "2026-11-14T04:00:00+00:00",
-      "topics": [
-        "finance"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "finance"
       ]
     },
     {
@@ -266,57 +204,6 @@
         "raul"
       ],
       "economist_match": "search",
-      "searches": [
-        "economist_raul"
-      ]
-    },
-    {
-      "title": "Una página sin margen",
-      "publisher": "Diario Libre",
-      "publisher_url": "https://www.diariolibre.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOR08tWHlXbkpxV1phX25XOFNpWUd3TVRSRzFFR1JBekFrM3A1RkRpMWc3dGYxSTFHMksyYVQtRTRtOUtHNlJYeGYtRUlvb2hIRkY4N05YWDkyeEdTWGNMcjZYSnFTR2JZS0p1R2hFb2ZDeUNOOTVSeEVXOHhGSHBiQTM5RktCU0dqdnZYV0NwMWdzV001RHczS3I4M3l0U2FGeHVBdm1RdGdqR03SAbABQVVfeXFMTmlHa2VWOXBYMGY1LU84eFVhei1LZk90V3BjaWRwbUJzNko0TElCQ29VTldjaWY5MWF1WG1pbHhJYnZta2NNRU1WRlNIUzV0X3E3T3R5clhoRlNjUTA4bWZkc2htdFZibWNFbnBpanRwLTlzc2VUdWoxeEpIVlpQNDY2R3pvN2lQMWc0aW1NRjhiZVVvVElUcHFvU2I1OHo1UDZLRWh0cThzd3FtSFVHV3Y?oc=5",
-      "published_at": "2026-11-09T03:00:00+00:00",
-      "topics": [
-        "opinion"
-      ],
-      "economists": [
-        "jaime"
-      ],
-      "economist_match": "search",
-      "searches": [
-        "economist_jaime"
-      ]
-    },
-    {
-      "title": "Panel-republica-dominicana-frente-al-impacto-global-de-los-combustibles",
-      "publisher": "Periódico elDinero",
-      "publisher_url": "https://eldinero.com.do",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNakhQUndReE1yRVNqS0JfTGMxVU9Yd1JISUNTR1NEcjNDVk0xZUw3bHZWS2syckVYZ0h1RnVOalRvVnRqekVmSElUMWdMSVEwLVNhVWFqdVVXVFZjbzdxalZoenlUSWdjeWthTFpYQlMxTmZBR1Z6Q0JucXNNSmJ5Z0ZCRTBTUjdMMWE4R3lTQ1RIWC1RajJZRmZmVUFXcHlJZkZvQkhkQ2dDZ3AxdXU2bUdPcWxtT09CMEhDOF94LUxTRE9Ud2lWdmdRNFFkYjQzWkFFNzZ0VXlIb2lWUktDczYwWkZqZ3ExOFg5dU9aaUNXM25WYjlBUGNJVE00d1NJS0ZkWXVB?oc=5",
-      "published_at": "2026-11-08T18:41:17+00:00",
-      "topics": [
-        "opinion"
-      ],
-      "economists": [
-        "jaime"
-      ],
-      "economist_match": "search",
-      "searches": [
-        "economist_jaime"
-      ]
-    },
-    {
-      "title": "Raúl Ovalle",
-      "publisher": "Periódico elDinero",
-      "publisher_url": "https://eldinero.com.do",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQV1BpamxlcXFRcjcyMTdOTjJCM3p1RVNuTjdjdkloQ1pNU3R2MklDQTlVVTFLekpJWXplTklZMFY0aGY5WjlXQ1RWei12VXBLclJoVjZtdk9fOXBTWDlXNHlYb2RWaFJXOGZyWkpmNTk2T2FIVUhkNjgwTkRaeHhxNGFQU3V6UEM5emtqS1Q5aDlNM0xVVUl2MDJpdUdPeFNwMzdMOWZ3cnhReWdLQW5ZazdHbFlkMWVMenpFSkFMbzhIY0l0UDJ6Vm5PeElvMWF0cnFnd0dZT3UxV3R5LVViUnJ2WmlQOU5KUWc?oc=5",
-      "published_at": "2026-11-08T18:41:04+00:00",
-      "topics": [
-        "opinion"
-      ],
-      "economists": [
-        "raul"
-      ],
-      "economist_match": "headline",
       "searches": [
         "economist_raul"
       ]
