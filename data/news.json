@@ -1,7 +1,7 @@
 {
   "date": "2026-11-14",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-14T21:33:26+00:00",
+  "checked_at": "2026-11-15T01:58:17+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -12,37 +12,127 @@
   },
   "source_health": {
     "rd": {
-      "ok": false,
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28medicamentos+OR+farmac%C3%A9utica+OR+farmacia+OR+vacunas%29+%28site%3Alistindiario.com+OR+site%3Adiariolibre.com+OR+site%3Aacento.com.do%29++after%3A2026-11-13+before%3A2026-11-16&hl=es-419&gl=DO&ceid=DO%3Aes-419; 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28medicamentos+OR+farmac%C3%A9utica+OR+farmacia+OR+vacunas%29+%28site%3Aeldia.com.do+OR+site%3Aelnuevodiario.com.do+OR+site%3Ahoy.com.do%29++after%3A2026-11-13+before%3A2026-11-16&hl=es-419&gl=DO&ceid=DO%3Aes-419; 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28medicamentos+OR+farmac%C3%A9utica+OR+farmacia+OR+vacunas%29+%28site%3Aelcaribe.com.do%29++after%3A2026-11-13+before%3A2026-11-16&hl=es-419&gl=DO&ceid=DO%3Aes-419",
+      "ok": true,
+      "error": null,
       "count": 0
     },
     "centroamerica": {
-      "ok": false,
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28medicamentos+OR+farmac%C3%A9utica+OR+farmacia+OR+vacunas%29+%28site%3Aprensalibre.com+OR+site%3Alahora.gt+OR+site%3Anacion.com%29++after%3A2026-11-13+before%3A2026-11-16&hl=es-419&gl=MX&ceid=MX%3Aes-419; 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28medicamentos+OR+farmac%C3%A9utica+OR+farmacia+OR+vacunas%29+%28site%3Acrhoy.com+OR+site%3Alaprensagrafica.com+OR+site%3Aelsalvador.com%29++after%3A2026-11-13+before%3A2026-11-16&hl=es-419&gl=MX&ceid=MX%3Aes-419; 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28medicamentos+OR+farmac%C3%A9utica+OR+farmacia+OR+vacunas%29+%28site%3Aelmundo.sv+OR+site%3Alaprensa.hn+OR+site%3Aelheraldo.hn%29++after%3A2026-11-13+before%3A2026-11-16&hl=es-419&gl=MX&ceid=MX%3Aes-419; 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28medicamentos+OR+farmac%C3%A9utica+OR+farmacia+OR+vacunas%29+%28site%3Aprensa.com+OR+site%3Alaestrella.com.pa+OR+site%3Alaprensani.com%29++after%3A2026-11-13+before%3A2026-11-16&hl=es-419&gl=MX&ceid=MX%3Aes-419; 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28medicamentos+OR+farmac%C3%A9utica+OR+farmacia+OR+vacunas%29+%28site%3Aconfidencial.digital%29++after%3A2026-11-13+before%3A2026-11-16&hl=es-419&gl=MX&ceid=MX%3Aes-419",
+      "ok": true,
+      "error": null,
       "count": 0
     },
     "mexico": {
-      "ok": false,
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28medicamentos+OR+farmac%C3%A9utica+OR+farmacia+OR+vacunas%29+%28site%3Aeluniversal.com.mx+OR+site%3Aeleconomista.com.mx+OR+site%3Aelfinanciero.com.mx%29++after%3A2026-11-13+before%3A2026-11-16&hl=es-419&gl=MX&ceid=MX%3Aes-419; 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28medicamentos+OR+farmac%C3%A9utica+OR+farmacia+OR+vacunas%29+%28site%3Amilenio.com+OR+site%3Aexpansion.mx+OR+site%3Aforbes.com.mx%29++after%3A2026-11-13+before%3A2026-11-16&hl=es-419&gl=MX&ceid=MX%3Aes-419",
-      "count": 0
+      "ok": true,
+      "error": null,
+      "count": 5
     },
     "usa": {
-      "ok": false,
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28pharma+OR+drug+OR+biotech+OR+pharmaceutical+OR+medicine%29+%28site%3Areuters.com+OR+site%3Aapnews.com+OR+site%3Acnn.com%29+%28FDA+OR+US+OR+USA+OR+%22United+States%22+OR+American%29+after%3A2026-11-13+before%3A2026-11-16&hl=en-US&gl=US&ceid=US%3Aen; 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28pharma+OR+drug+OR+biotech+OR+pharmaceutical+OR+medicine%29+%28site%3Awsj.com+OR+site%3Acnbc.com+OR+site%3Anytimes.com%29+%28FDA+OR+US+OR+USA+OR+%22United+States%22+OR+American%29+after%3A2026-11-13+before%3A2026-11-16&hl=en-US&gl=US&ceid=US%3Aen; 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28pharma+OR+drug+OR+biotech+OR+pharmaceutical+OR+medicine%29+%28site%3Astatnews.com+OR+site%3Afiercepharma.com+OR+site%3Abiopharmadive.com%29+%28FDA+OR+US+OR+USA+OR+%22United+States%22+OR+American%29+after%3A2026-11-13+before%3A2026-11-16&hl=en-US&gl=US&ceid=US%3Aen",
+      "ok": true,
+      "error": null,
       "count": 0
     },
     "europa": {
-      "ok": false,
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28pharma+OR+drug+OR+biotech+OR+pharmaceutical+OR+medicine%29+%28site%3Areuters.com+OR+site%3Abbc.com+OR+site%3Abbc.co.uk%29+%28Europe+OR+Europa+OR+European+OR+EU+OR+EMA+OR+UK%29+after%3A2026-11-13+before%3A2026-11-16&hl=en-US&gl=US&ceid=US%3Aen; 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28pharma+OR+drug+OR+biotech+OR+pharmaceutical+OR+medicine%29+%28site%3Aft.com+OR+site%3Atheguardian.com+OR+site%3Aeuronews.com%29+%28Europe+OR+Europa+OR+European+OR+EU+OR+EMA+OR+UK%29+after%3A2026-11-13+before%3A2026-11-16&hl=en-US&gl=US&ceid=US%3Aen; 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28pharma+OR+drug+OR+biotech+OR+pharmaceutical+OR+medicine%29+%28site%3Adw.com+OR+site%3Aelpais.com+OR+site%3Aelmundo.es%29+%28Europe+OR+Europa+OR+European+OR+EU+OR+EMA+OR+UK%29+after%3A2026-11-13+before%3A2026-11-16&hl=en-US&gl=US&ceid=US%3Aen; 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28pharma+OR+drug+OR+biotech+OR+pharmaceutical+OR+medicine%29+%28site%3Aeldiario.es+OR+site%3Apharmaphorum.com%29+%28Europe+OR+Europa+OR+European+OR+EU+OR+EMA+OR+UK%29+after%3A2026-11-13+before%3A2026-11-16&hl=en-US&gl=US&ceid=US%3Aen",
-      "count": 0
+      "ok": true,
+      "error": null,
+      "count": 8
     },
     "global": {
-      "ok": false,
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28pharma+OR+drug+OR+biotech+OR+pharmaceutical+OR+medicine%29+%28site%3Areuters.com+OR+site%3Aapnews.com+OR+site%3Acnn.com%29++after%3A2026-11-13+before%3A2026-11-16&hl=en-US&gl=US&ceid=US%3Aen; 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28pharma+OR+drug+OR+biotech+OR+pharmaceutical+OR+medicine%29+%28site%3Awsj.com+OR+site%3Aft.com+OR+site%3Abbc.com%29++after%3A2026-11-13+before%3A2026-11-16&hl=en-US&gl=US&ceid=US%3Aen; 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28pharma+OR+drug+OR+biotech+OR+pharmaceutical+OR+medicine%29+%28site%3Atheguardian.com+OR+site%3Astatnews.com+OR+site%3Afiercepharma.com%29++after%3A2026-11-13+before%3A2026-11-16&hl=en-US&gl=US&ceid=US%3Aen; 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28pharma+OR+drug+OR+biotech+OR+pharmaceutical+OR+medicine%29+%28site%3Abiopharmadive.com%29++after%3A2026-11-13+before%3A2026-11-16&hl=en-US&gl=US&ceid=US%3Aen",
-      "count": 0
+      "ok": true,
+      "error": null,
+      "count": 4
     }
   },
   "items": [
+    {
+      "title": "Genscript Biotech Corp (1548.HK) | Stock Price & Latest News",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ydmFURDhvNWg3WlpfR1BCNUk3cTR2c1Vuc1l2ak5NeWxkTF9uR3V3bGFnNU1rOEFaMFRBcXA5elcwbmpPNl9zQVdmaVNIQWNSbU90WnlKZThHcnpTbElfM2s1Y3p3eU5NUjg3c1Z5MA?oc=5",
+      "published_at": "2026-11-14T23:55:58+00:00",
+      "regions": [
+        "global"
+      ]
+    },
+    {
+      "title": "México y Reino Unido blindan reglas del TIPAT e impulsan alianza farmacéutica y tecnológica",
+      "publisher": "Milenio",
+      "publisher_url": "https://www.milenio.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbklwYjd3b0dxQnp3TFdqLUtsUmozREFBYll3YjNOeVpqZVJvY2VFWVlJalcxWF9JNWlOQnJOVTVDbXpiN0E0YXJQR1lJeGhVVWpDc083VjZpWm92eTNjUUJ5YjRHLXZWQ2YwVldoVXpOc1ZCX1BoT3FTLVFERnV3aWhqTWFNMzk3MW4zMC1kNWxqVlJOZV9aeUR1RzFtWlBUMENsVtIBpAFBVV95cUxNMHFON1R3Vm9Lc3Qzd1IxZ3BzVGVQelRGMTV4ZlNFb3p4NkItcnJGMjRuYkYxcGI1dU44THNaWl9DMVNid2tKeG80TFZ4VGgtMm8tRTdMVzU1WEZ2NEFsbEZNOGtfV0lXRWZpaU5idjIzUm9BejZHRUlYdHEzZzc1Qlk0alNxaFQ4ME45Q0RfY3VwbERRVWNjQjhVaXRQaDRkUWEtNA?oc=5",
+      "published_at": "2026-11-14T20:25:00+00:00",
+      "regions": [
+        "mexico"
+      ]
+    },
+    {
+      "title": "Alerta por sarampión en Sudamérica en plena visita del Papa León que reúne multitudes; Uruguay, Argentina y Perú refuerzan vacunación",
+      "publisher": "El Universal",
+      "publisher_url": "https://www.eluniversal.com.mx",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOZFdYcDVSbW9aTUp2S19wOEhfaV92ZHliUV9ZVkJEUjdGMG8yNU1BZ2ZWbTZsdkpXYlpBUWNISjUxSjRHOWlOTWpBb2ZKR2F6WEpBVXJTNnJXazZVck5aUUxvMGFzMzZSWFZuY0lTbWc0eXpTYVJRRUJ1TzFnTTV1VDkwSUhMMWVIMVBJQWF5c1duQ3pNNjVJcjlSQ1ZrRDhLR21zTzRlTlg3bTRDOEphY2VEUE1SaVNEY0k1akZHRkFlSDc1QndwRUFjWkQ2VDNiajRrc210RzRIRzV0WUVuTGtjeV9VUXNNbHUxT1NXOWlhZ2VXcFgwRldpSXVHQQ?oc=5",
+      "published_at": "2026-11-14T20:23:08+00:00",
+      "regions": [
+        "mexico"
+      ]
+    },
+    {
+      "title": "Australia to receive COVID-19 vaccine within months",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB6WU8xSE1MdzY2aHVfdGJ6aHJtRDdKdWtUbVpCY0V1R2NSTENrMlc2elJTUVQtbXFFcU8zYnhZVFJvMXVOcXBpZFZ3UWdLZVhVS2RkMzlqVFV0VS1C?oc=5",
+      "published_at": "2026-11-14T19:15:06+00:00",
+      "regions": [
+        "global"
+      ]
+    },
+    {
+      "title": "Cupón Farmacias del Ahorro Buen Fin 2026: hasta 70%",
+      "publisher": "El Universal",
+      "publisher_url": "https://www.eluniversal.com.mx",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVnI0QTNHaVkxbzBYemh6MWZfVjFvT2prNlU0SS1VVE54UHpiU196eTlBVS1zWk0wM3FNbXhrSWlxLXZLZkVjejZ0allBM2w4SFBlSE9BVEJybUVoYWdtRXJsMFlKYi1VNWtaY3gyVUVJQ0w2cmZIc21fRmxPOTBpRUJB?oc=5",
+      "published_at": "2026-11-14T18:24:14+00:00",
+      "regions": [
+        "mexico"
+      ]
+    },
+    {
+      "title": "Salud de NL alerta por bajas temperaturas; realizan jornadas de vacunación",
+      "publisher": "Milenio",
+      "publisher_url": "https://www.milenio.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTGZHV1lyQzZsZTE4M1hWTDNONi1XQXZmTEd2UUszbVdRR2pPYmtHa2lSNHpZaXpwTVUxeENPa3hRMnM5LThwRkVFakNycjBkbmlHNHVPaGNCRlZNNFcxVWpEUms4d3FJMzF1U0FDN1M4bEY2TTB4LVNUOUVFbWRIcHJWdFNZUmRNS1FRRzIwUER1YVJlZm9od3RSWFZ0WlXSAZ8BQVVfeXFMT19fT252TlJLNWg4UlptNmtZYVJKX3J0MTZObU50TmlON2JfbXo1b3hqYlhEVGEyZkk1VkxPWU14RzVuSG1xemszeG4zQ2ZXTTN1b085VWpRWnlIbmdyNEpwQzNqZmw3OG1xR3dldXZ6bXZfOWkzYmFBYmVJSUY2VmFBMm1YNFJyWUhSSl9LR1RkNFVicWdjT1lEZ3NvQkhv?oc=5",
+      "published_at": "2026-11-14T17:50:00+00:00",
+      "regions": [
+        "mexico"
+      ]
+    },
+    {
+      "title": "Farmacéuticas aprovechan el auge de las apps de IA en China para llegar a médicos, mientras represión trastoca el marketing",
+      "publisher": "Forbes México",
+      "publisher_url": "https://forbes.com.mx",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQREQxTU1qa1hCemRHdXNjWWJleVBINWVBVjJuZHdWUC1pbmJaUVh3UVdrN21tNTB3UXQ2MUdXeGV3clpqYUo2V1hmTFE0aC1BSzM3bUt4MERERkZwR3pFVXV1eGM3UTVmXzZ5Q1dRT293NUVnTlN5bmM4ODhhQXdKeDRMVDV5VWRHRHJ6MzQ3cjZkTWtod3NuVlBNX1FvUXB1TUZjVkRwOWt1Y0VvYWw5bjlsa1A3Q0E2NEVaSTRwYXdrWmVZbjlsQkNxZXdqRkwweFlLX09WcHZDMFl6aXc?oc=5",
+      "published_at": "2026-11-14T17:32:00+00:00",
+      "regions": [
+        "mexico"
+      ]
+    },
+    {
+      "title": "Lilly says its obesity drugs helped patients lose weight in clinical trials",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOc3Fwd2JPd1BmUzdyUXZnazRZdlN4RlpjSFhFb3lDRWdzRUhHTndaUC05OFRhYXdxcF9SVktnN2kwbDc2U1BRQTZWcjBabV8ya2w0TFlMMkhrM0YzS0N4MGszTkFqelh3X0tfQ1lJcS1WTExfVnp2Z3U3QjI5d21zN0NoelF4QkRTUVhzcmdNWlgwV0ttQmF4bWNqUU03Tk10QTJOWkdkc0xsMllaeHVPRVZmdmdyZk5EWEpXSzZLTnpweVE?oc=5",
+      "published_at": "2026-11-14T17:03:43+00:00",
+      "regions": [
+        "global"
+      ]
+    },
+    {
+      "title": "Amylyx Pharmaceuticals Presents Results from Phase 3 LUCIDITY Clinical Trial of Avexitide in Post-Bariatric Hypoglycemia at ObesityWeek® 2026 Annual Meeting – Company Announcement - FT.com",
+      "publisher": "Financial Times",
+      "publisher_url": "https://markets.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZmY1TzZaSlRYRnVIWV9iOTVRaWVWMzRtMXludnE1Q3ZNR0FfM0Jkb3ZuVDd2RnZab3BGaWdEVXQ5bGNLb0llOGczLVZQSDYzaVZnUktYelVDOUh4SjYtSW1PQzF3dENDQ2pIdllIdHN4bWNpbG13ZVJrV1R1dG4xMVQ1MlRJRFlpbkRObDdLS2Zyek9pVEtONmZkN0hzUmJKSi04Rll3?oc=5",
+      "published_at": "2026-11-14T17:00:00+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
     {
       "title": "Innovative Immunology Biotech Windward Bio Lists on Nasdaq – Company Announcement",
       "publisher": "Financial Times",
@@ -85,44 +175,33 @@
       ]
     },
     {
-      "title": "Preclinical Biotech Unnatural Products Lands $1.15 Billion M&A Deal",
-      "publisher": "WSJ",
-      "publisher_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWXpYUnZxOWw4YW5fSzRXUHZaYlh4akxWWV9fZjhlLWltVmt3d3FKTVJHSzdUUUpXNlFnM0twVlA1MFdfRzNqb2RtWXdKcU1UQ0xhM1N3VTd5REU2ZzQ4TGpFYXQtMFFseUtLaDBGUTZIVHhzbVZPcW82V0lPQjI1YWFuXzlRUlFmTGFua0Y0b0N3X2hweldwWk45bTZQLVQ3bEhxMllaQ2hfM2dBd1ZqQVgzVDRnUQ?oc=5",
-      "published_at": "2026-11-14T07:11:29+00:00",
-      "regions": [
-        "global",
-        "usa"
-      ]
-    },
-    {
-      "title": "Grand Pharmaceutical Group Ltd, MX6A:DUS directors and dealings - FT.com",
+      "title": "Teva Pharmaceutical Industries Limited, TEVA:HAM financials - FT.com",
       "publisher": "Financial Times",
       "publisher_url": "https://markets-origin.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5iWXVuMWo2Ti1Hc04yNTJFa3NjVTNYamdSLTZqRDJudUFJd3UxSW44cTktYmhuYXBmVVFXLVJoRmFiLXZ2cm15YlhDaUFZbnNkUjE5YXdnMTU5T25QYWMyQkhIVEJZU0VXNU05OUcwRUN0dkIzVVo1ZUg2MjZBN2c?oc=5",
-      "published_at": "2026-11-14T05:45:35+00:00",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPV2ZSLVF6YmMyOHlhdDVhUVRlMWFZa0pjTHQxTmlPTnQ1dGp2dllabW5ETk1mb0ZkTnd4LUF4UE1WWk9NN0RXTWJiXzF4YzNOVTBCVlI0aGZfOXdxWDRpRG5XLUtpZnRsbXotZXd5U1hfUko2ZVRpNTN3OGpvdU9GQzVLNXd5c1kyOW4wc05vNHA1WnJncm41VFpqMHZ4akFy?oc=5",
+      "published_at": "2026-11-14T09:21:13+00:00",
       "regions": [
         "europa"
       ]
     },
     {
-      "title": "Oncodesign Precision Medicine Opm SA, ALOPM:PAR financials - FT.com",
+      "title": "Consun Pharmaceutical Group Ltd, 1681:HKG directors and dealings - FT.com",
       "publisher": "Financial Times",
       "publisher_url": "https://markets-origin.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaGtEeC1XVFkySGU5X0JGM0lGU0ItN0tQZmhZWFdTUWU4VktlSldGU3NjTmhXQ29oaVNMVXpOYWZaNFJrNkhnVUVHVkxUNGstTGU5M2RwZVItX01hd2tfTVVZM01hOU1WMVJJSDhiSmZDenJvZnhxbklpeUZBRXV3aTIweWktb0w1REZFZGx0UWx6UHgzbmRrSGM2WnByWFdZTkE?oc=5",
-      "published_at": "2026-11-14T04:26:55+00:00",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpVlN6aUk0VTlsaUlxdzl4NGxrREZldFlsMkZxQmpvdC1xZW5DTFhrYVNib1pKc1l5Ym93aHdWckpKc0RCMTVWUFoxbmxrNlZJWFBKN1lMWm1Hak9vSXVha2p3dWFDWnRWb3NsQWVxM1M3cHBVVTFiYVZhVmcwRFE?oc=5",
+      "published_at": "2026-11-14T08:14:14+00:00",
       "regions": [
         "europa"
       ]
     },
     {
-      "title": "Cupón Farmacias del Ahorro: hasta 70% en Noviembre 2026",
-      "publisher": "El Universal",
-      "publisher_url": "https://www.eluniversal.com.mx",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVnI0QTNHaVkxbzBYemh6MWZfVjFvT2prNlU0SS1VVE54UHpiU196eTlBVS1zWk0wM3FNbXhrSWlxLXZLZkVjejZ0allBM2w4SFBlSE9BVEJybUVoYWdtRXJsMFlKYi1VNWtaY3gyVUVJQ0w2cmZIc21fRmxPOTBpRUJB?oc=5",
-      "published_at": "2026-11-14T04:11:01+00:00",
+      "title": "Oncodesign Precision Medicine Opm SA, ZR8:FRA forecasts - FT.com",
+      "publisher": "Financial Times",
+      "publisher_url": "https://markets-origin.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9XYkJTcmxVTlhiVXZ6YzZ4VVFHLVFkdmhNcmRBaTNxNkxDT1J1WTZjcWZTeVVaUFkyLXNQVnR4aXM0T2JpM3JiREY1ZUp3M01FUVJDSmhyRkVzOF81Q1ZxdktPTEZvMVhsUVRVLUZhN0Q2VWhIUkhBb0lqcmw5Zw?oc=5",
+      "published_at": "2026-11-14T07:29:41+00:00",
       "regions": [
-        "mexico"
+        "europa"
       ]
     }
   ],
