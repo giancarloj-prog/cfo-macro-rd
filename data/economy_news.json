@@ -1,7 +1,7 @@
 {
   "date": "2026-11-15",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-15T21:52:41+00:00",
+  "checked_at": "2026-11-16T02:12:08+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -21,67 +21,222 @@
   },
   "source_health": {
     "bcrd": {
-      "ok": false,
-      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28%22Banco+Central%22+OR+BCRD+OR+%22pol%C3%ADtica+monetaria%22%29+%28%22Rep",
-      "count": 0
+      "ok": true,
+      "error": null,
+      "count": 1
     },
     "fiscal": {
-      "ok": false,
-      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28Hacienda+OR+DIGEPRES+OR+%22deuda+p%C3%BAblica%22+OR+%22presupuesto+nacion",
+      "ok": true,
+      "error": null,
       "count": 0
     },
     "dgii": {
-      "ok": false,
-      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28DGII+OR+ITBIS+OR+%22reforma+fiscal%22+OR+%22impuestos+internos%22%29+%28%",
-      "count": 0
+      "ok": true,
+      "error": null,
+      "count": 11
     },
     "finance": {
-      "ok": false,
-      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28banca+OR+%22sector+financiero%22+OR+%22superintendencia+de+bancos%22+OR+%",
-      "count": 0
+      "ok": true,
+      "error": null,
+      "count": 3
     },
     "securities": {
-      "ok": false,
-      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28%22mercado+de+valores%22+OR+SIMV+OR+%22puestos+de+bolsa%22+OR+%22bolsa+de",
+      "ok": true,
+      "error": null,
       "count": 0
     },
     "economy": {
-      "ok": false,
-      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28econom%C3%ADa+OR+inflaci%C3%B3n+OR+PIB+OR+empleo+OR+remesas+OR+exportacio",
-      "count": 0
+      "ok": true,
+      "error": null,
+      "count": 3
     },
     "economist_andy": {
-      "ok": false,
-      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28%22Andy+Dauhajre%22+OR+%22Andy+Dahajre%22+OR+%22Andy+Dajuhare%22+OR+%22An",
-      "count": 0
+      "ok": true,
+      "error": null,
+      "count": 3
     },
     "economist_jaime": {
-      "ok": false,
-      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28%22Jaime+Aristy%22+OR+%22Jaime+Aristy+Escuder%22%29+after%3A2026-11-07+be",
+      "ok": true,
+      "error": null,
       "count": 0
     },
     "economist_juan_ariel": {
-      "ok": false,
-      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28%22Juan+Ariel+Jim%C3%A9nez%22+OR+%22Juan+Ariel+Jimenez%22%29+after%3A2026",
-      "count": 0
+      "ok": true,
+      "error": null,
+      "count": 1
     },
     "economist_raul": {
-      "ok": false,
-      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28%22Ra%C3%BAl+Ovalle%22+OR+%22Raul+Ovalle%22%29+after%3A2026-11-07+before%",
-      "count": 0
+      "ok": true,
+      "error": null,
+      "count": 2
     },
     "economist_jose_luis": {
-      "ok": false,
-      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28%22Jos%C3%A9+Luis+de+Ram%C3%B3n%22+OR+%22Jose+Luis+de+Ramon%22%29+after%3",
+      "ok": true,
+      "error": null,
       "count": 0
     },
     "economist_nassim": {
-      "ok": false,
-      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28%22Nassim+Alemany%22%29+after%3A2026-11-07+before%3A2026-11-16&hl=es-419&",
+      "ok": true,
+      "error": null,
       "count": 0
     }
   },
   "items": [
+    {
+      "title": "Exsubdirector de la DGII cree el ITBIS no es malo; el verdadero problema es la informalidad",
+      "publisher": "El Nuevo Diario",
+      "publisher_url": "https://elnuevodiario.com.do",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQa0ltZUluY0ZxUkxIUkU5MTNOS3JzR2g2RDBfN2c2V3hXckdadUY4a2xudWhCdEZ1RHdlbUdNbXFIdkFWYTVkQ0ItRTdxTy00a3NJRldMejFxZm9pM3FSNEZKbi15STBSZWxES3gzTGcwTnEwWlc1Vm91XzVhVnZOTHJFRHVJZXJGWkVxZkxINVR1RzV2dGNCNkpzZ0h0dG42N1hmZEFXb0N6a3ZENjRuMG5yQTJETy1xMERKVA?oc=5",
+      "published_at": "2026-11-16T01:45:34+00:00",
+      "topics": [
+        "dgii",
+        "economy"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "dgii",
+        "economy"
+      ]
+    },
+    {
+      "title": "CONACERD pide a la DGII no sancionar a colmados y pequeños comercios por retrasos en facturación electrónica",
+      "publisher": "Acento",
+      "publisher_url": "https://acento.com.do",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQT3lhNm9UMWNmTjlHQ0NYZnB3aXV3eGo1TkNocXFzTm9zMlZrc1VkNzV6TmRONkNlRF9ZTGMwUUhoNDE2M1FrOTlhbVQxb0VOYzJtSXpJcldVaGpaTi1abDJ6VUMxem9lUlZPRmkwQWdxcW1BY0xkdmRjb2twdm40NVFvVTJmUUxCN282NHBxNWk1UXlvaWFCUUdfLWxSXzNBbTlpOFhyWV92TGdJWjNxZDZYdnJjOHlXVU55cVNibEhsczB3YlVvNE9YU3FqZzcxakZ1VExOYndIYTZpcnp1dXFQTENrOENGa1HSAeoBQVVfeXFMUE95YTZvVDFjZk45R0NDWGZwd2l1d3hqNU5DaHFxc05vczJWa3NVZDc1ek5kTjZDZURfWUxjMFFIaDQxNjNRazk5YW1UMW9FTmMybUl6SXJXVWhqWk4tWmwyelVDMXpvZVJWT0ZpMEFncXFtQWNMZHZkY29rcHZuNDVRb1UyZlFMQjdvNjRwcTVpNVF5b2lhQlFHXy1sUl8zQW05aThYcllfdkxnSVozcWQ2WHZyYzh5V1VOeXFTYmxIbHMwd2JVbzRPWFNxamc3MWpGdVRMTmJ3SGE2aXJ6dXVxUExDazhDRmtR?oc=5",
+      "published_at": "2026-11-15T23:15:19+00:00",
+      "topics": [
+        "dgii"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "dgii"
+      ]
+    },
+    {
+      "title": "¿Falla la facturación electrónica? Esto respondió la DGII tras denuncia de Carlos Durán",
+      "publisher": "Hoy Digital",
+      "publisher_url": "https://hoy.com.do",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQakl2U2o0M3M0WlNmWDVmR1daS3hER0xuVDRUYWNLVkpscllGTXliRlZMQnpRa2VjQ0doMjJobkJWeUE1TzZVaTZXd3k4N05pWkFKTmtFdDVSbmZPUTBEQkRnbGkwcnRXcVIwU0RndmsyQWV4bUtXSzJDTDNDNUxZZlpzanp3OVcyWmZJMUNmdlg0aWlOS05pUWhGSdIBoAFBVV95cUxPVk14dm9oZ1k0VmRGTWI4ejNBbnFHc3JjWVduRW42aDJhdDJtY3pidm11cHhfd0Rrbk9tZ1AxY1FBblVTWlI0OUdkcEp0YzUtbHlZdUNNY3FJYjlEVUZhSGhkR29TaWFPTTVkYVdjSmdueFhaakVpMFloVFd1WTVvYmFzbU5TSUxEOElHZlpsYnQtX2x5UkhuMUtxYlNja1hi?oc=5",
+      "published_at": "2026-11-15T20:49:24+00:00",
+      "topics": [
+        "dgii"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "dgii"
+      ]
+    },
+    {
+      "title": "La DGII niega fallas en sus servicios de facturación electrónica a horas de vencerse plazo",
+      "publisher": "Diario Libre",
+      "publisher_url": "https://www.diariolibre.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNXZTSzZPX1lkanowaGotUDcyTWtkMkhwaFk1Q1dxU1FFSDZxY0p0cC1rNXdfYnBiTGRBVnNUdk5LNEVfUFZ0RWUyN1kySGYwaDdyUGVpOEpwNjJrZFZReV9nd3FPSFVmV3RSejMwS3NqNEZkbEVPYURvRDU5TUk3bk00aGNGbWZxby1aeGlWRVNGZ2ZTVy1vdERxLWVLQVlSbmhzQ0FBMDZGaXdqZC1pZDFXRDRhR19PZElNazlYS24xRlpJ0gHKAUFVX3lxTE54N1EwWk52M1pqYmRTWXdiTmlUV2MwU2hyazdqQVQyYl9ycEpqV3VTemkxNnZ2bHFOaTFnTTdRVkY3dkpxclFNZWRjX25FbzQwVHFwdTc3OVFMREJtZm84Ql9ERVBoellHMkdCNngxRmlUSzN2Y0tUdmExdXBsYVpoa0hTWWpGeUc2R1VIblByQ3FXSFpnVENmd1pkTjBTRmRzZVp2NktPS3FjTm9TMm1ONGdGdC1MUEdQaXdXU3BGSzFzTWtrV3dHbkE?oc=5",
+      "published_at": "2026-11-15T20:00:00+00:00",
+      "topics": [
+        "dgii"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "dgii"
+      ]
+    },
+    {
+      "title": "Crédito crece con más cautela en entidades financieras del país",
+      "publisher": "El Caribe",
+      "publisher_url": "https://www.elcaribe.com.do",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRGlWR3dDVDdJMENzeU1ZUW00SVFPWlBoT2VlTjUyMkpBeUhZRmh4OGRCX3lMakYwc2dneENEaGRJQ056NmFtVTlGa0RwZXR4VVByUFlzMm9KdGgyNkVHWFQ3YWZ5ZDV5aG13Vmxka0c0MGtuanlHXzA4bWtvU1dSM2s0dW9CTDNEbGtyNG1la1E1Xy1fZFlfY2ZnQ0l3cWVvVWpERHZ1V1BRM2Ra?oc=5",
+      "published_at": "2026-11-15T20:00:00+00:00",
+      "topics": [
+        "finance"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "finance"
+      ]
+    },
+    {
+      "title": "Carlos Durán estalla contra la DGII por lentitud en la facturación electrónica que provoca filas en el \"Taconazo\"",
+      "publisher": "El Dia.com.do",
+      "publisher_url": "https://eldia.com.do",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOUUM2enVERzQ0eXJMcmNPeF9QOEx3MWM0RlJqd2dfTjJDSWdZbldnMWRvLUdWWklsUkVydVV0LVFrX08yTG12YzRiRWtIN3YyTjJ4TU4xSGRwR2RmVkpyUEU3VmdfSXNWS2N3YXRxTU5GbjltbUJnMEtfRHhjNFNqQTVNY0UyaXBobmJMZ0FWVkRoVG1IRGliclFIcTB1VHAtM2lteDlMdE4zWDlEeVRodVFUYUNWVWhQVml0LW1lQ1Bra2loVzVFU1hwYWgyekdxNVFYVHIxZUFNanY4ZTRZdjQ4MGl2UTBv?oc=5",
+      "published_at": "2026-11-15T19:56:15+00:00",
+      "topics": [
+        "dgii"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "dgii"
+      ]
+    },
+    {
+      "title": "DGII aclara que su sistema de Facturación Electrónica opera con normalidad",
+      "publisher": "El Dia.com.do",
+      "publisher_url": "https://eldia.com.do",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQM2lWY2J6ZWY0dzZQYlhkb1lKTXFKSEFPUlFEMFNkV3FPbUVqbHRFRkUyT0ZjclFENVJ0aEZXNkcxemV1eHhRNkxxRERfVmlvY2hybUJWQXJ5MWpJWXdwZmF1NHpSWXFhQ29sb3p6d0VNTXpldm5pUnJkNE1naEZKWlB4d0R3U0JrclQ4cE5nSGYyR0MxWU1mT0U3WFY?oc=5",
+      "published_at": "2026-11-15T19:33:41+00:00",
+      "topics": [
+        "dgii"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "dgii"
+      ]
+    },
+    {
+      "title": "DGII dice no hay fallos con facturación electrónica tras denuncia de Carlos Durán",
+      "publisher": "Listín Diario",
+      "publisher_url": "https://listindiario.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUFR2YjhtTGNDMi0zZ05nMEtxbTBHcmdyTDRjbExnOUk1QXZ3NzFKYWNqdzBhMnJVMUV4cFl5LUpNNl9OZFBSQ3NsQ0NuM1FOT2RlWFRWbUdNb3cyLTNONmpLRkJ6UUlGUFA4VkRUcW5OLURaV3BqMDRLR3EwS3k1TFNKNWVCYUdSZXc2Qi0wNHg5M3h1U1l5eHdvX1lTX3o5RHItMXJBUnFYenpjVlg2b2hEQi1SMXZySWd3ci1qYjJWaTTSAcgBQVVfeXFMTk80a2V0ZUdYWmJyNlV3OFNFTXYyM2FvTE9FQWo5U2xsUVRST29PSjc3WFRDaFpIcUtxVnRLdEdRWUhPOW4wYUVkRUVaRXJDVFk4S2JVdGdLWEZOMHk4M0s3dXUtdUtCTldmT1dybzYtUFhWTVJXVTVNSVltN0hYM1E2eldhSTJjLWVGN2R5d0tvWmhDenpMZ1dGbVlKeU96NlhqdTEzMjFEdWw3Nk9XaTJ0WktFWUM2bXJveHpnQ3VzUnNlaWVkd1E?oc=5",
+      "published_at": "2026-11-15T18:46:15+00:00",
+      "topics": [
+        "dgii"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "dgii"
+      ]
+    },
+    {
+      "title": "DGII reacciona tras denuncia de Carlos Durán; asegura facturación electrónica opera con normalidad",
+      "publisher": "El Nuevo Diario",
+      "publisher_url": "https://elnuevodiario.com.do",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOLWhyU3FBY0xHUDRaWE5jSHA3VThZOXNRRC04RW9vOFY4V2hOa1NPMXRXb2VVSmFXajJFSGI2cFo2VEtSMkw1T3ZYY3gtUzQ1c1JHQlBZYnc4aGJnX0tieXlpOFpIbWhIZk85aXJrVUhiel9BM0l0NWR4MzZTbkZPSFJiVjQ5OHlBM01CdUM4STd0ZE9HckF5SzZlUlp1OWU4SkxtTEROT3NGbEJWRzNkT2VvX1c4UnRnNF9OUGhZcVJpSzNBYnc?oc=5",
+      "published_at": "2026-11-15T18:15:29+00:00",
+      "topics": [
+        "dgii"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "dgii"
+      ]
+    },
+    {
+      "title": "Economistas advierten riesgos de inflación y tasas altas para 2027",
+      "publisher": "Diario Libre",
+      "publisher_url": "https://www.diariolibre.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTmY1cFhiTUJBNEFIZ2owc3dlYXBDTGJCcGdYQ21ZSXlLYnhQdkcwQ2plSDNjdW9RS050THQyc0NfWEczUVUyaTlrdkcwVEFrY1B5Zkp6X1pEVnZDY3BIdEdOMndkS2pMekVPT0Ftdm5vY2lwMWFZaklHNXRGNGJMbWU5blFZWVp3OHA2dXhEYUVOX2NZdW9Obnl4enAzbUFLRlpxcTlCdllNTnVjRDR0UG5CWFdiVHBhNEM0aHlZSVVfNGlpb2JFUdIBzgFBVV95cUxNLXpKRFk4RkZhRDZWWkdNZ3Y2Tzk4REZzZGdxRWM5UzktMmF3dnRtTlJlX081cVJFNF90VHRvRC1vZHhHLTNlVGd1ZEhBYkJCQWJ2ZlV2ZFRoX2YzS2VkSHZXc2I0WG5uV0ZSdS1wV0FlbFZPQi1KSnlWTVFJZ1dnNXYzamV1NmpjOXBObXZvY0x4VlhFUkZRc2tadkF0SEY4b19OUGNKTWlxdzU4amRMcHRJVHBOV3VCaGxWdkE4ZFRnTG9nbkJNTEtTMy1VQQ?oc=5",
+      "published_at": "2026-11-15T17:58:00+00:00",
+      "topics": [
+        "economy",
+        "finance",
+        "opinion"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "economy",
+        "finance"
+      ]
+    },
     {
       "title": "Inflación, tasa de interés y expectativas 2027",
       "publisher": "eldia.com.do",

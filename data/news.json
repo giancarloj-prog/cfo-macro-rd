@@ -1,7 +1,7 @@
 {
   "date": "2026-11-15",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-15T21:52:59+00:00",
+  "checked_at": "2026-11-16T02:12:09+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -12,37 +12,269 @@
   },
   "source_health": {
     "rd": {
-      "ok": false,
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28medicamentos+OR+farmac%C3%A9utica+OR+farmacia+OR+vacunas%29+%28site%3Alistindiario.com+OR+site%3Adiariolibre.com+OR+site%3Aacento.com.do%29++after%3A2026-11-14+before%3A2026-11-17&hl=es-419&gl=DO&ceid=DO%3Aes-419; 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28medicamentos+OR+farmac%C3%A9utica+OR+farmacia+OR+vacunas%29+%28site%3Aeldia.com.do+OR+site%3Aelnuevodiario.com.do+OR+site%3Ahoy.com.do%29++after%3A2026-11-14+before%3A2026-11-17&hl=es-419&gl=DO&ceid=DO%3Aes-419; 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28medicamentos+OR+farmac%C3%A9utica+OR+farmacia+OR+vacunas%29+%28site%3Aelcaribe.com.do%29++after%3A2026-11-14+before%3A2026-11-17&hl=es-419&gl=DO&ceid=DO%3Aes-419",
-      "count": 0
+      "ok": true,
+      "error": null,
+      "count": 1
     },
     "centroamerica": {
-      "ok": false,
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28medicamentos+OR+farmac%C3%A9utica+OR+farmacia+OR+vacunas%29+%28site%3Aprensalibre.com+OR+site%3Alahora.gt+OR+site%3Anacion.com%29++after%3A2026-11-14+before%3A2026-11-17&hl=es-419&gl=MX&ceid=MX%3Aes-419; 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28medicamentos+OR+farmac%C3%A9utica+OR+farmacia+OR+vacunas%29+%28site%3Acrhoy.com+OR+site%3Alaprensagrafica.com+OR+site%3Aelsalvador.com%29++after%3A2026-11-14+before%3A2026-11-17&hl=es-419&gl=MX&ceid=MX%3Aes-419; 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28medicamentos+OR+farmac%C3%A9utica+OR+farmacia+OR+vacunas%29+%28site%3Aelmundo.sv+OR+site%3Alaprensa.hn+OR+site%3Aelheraldo.hn%29++after%3A2026-11-14+before%3A2026-11-17&hl=es-419&gl=MX&ceid=MX%3Aes-419; 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28medicamentos+OR+farmac%C3%A9utica+OR+farmacia+OR+vacunas%29+%28site%3Aprensa.com+OR+site%3Alaestrella.com.pa+OR+site%3Alaprensani.com%29++after%3A2026-11-14+before%3A2026-11-17&hl=es-419&gl=MX&ceid=MX%3Aes-419; 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28medicamentos+OR+farmac%C3%A9utica+OR+farmacia+OR+vacunas%29+%28site%3Aconfidencial.digital%29++after%3A2026-11-14+before%3A2026-11-17&hl=es-419&gl=MX&ceid=MX%3Aes-419",
+      "ok": true,
+      "error": null,
       "count": 0
     },
     "mexico": {
-      "ok": false,
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28medicamentos+OR+farmac%C3%A9utica+OR+farmacia+OR+vacunas%29+%28site%3Aeluniversal.com.mx+OR+site%3Aeleconomista.com.mx+OR+site%3Aelfinanciero.com.mx%29++after%3A2026-11-14+before%3A2026-11-17&hl=es-419&gl=MX&ceid=MX%3Aes-419; 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28medicamentos+OR+farmac%C3%A9utica+OR+farmacia+OR+vacunas%29+%28site%3Amilenio.com+OR+site%3Aexpansion.mx+OR+site%3Aforbes.com.mx%29++after%3A2026-11-14+before%3A2026-11-17&hl=es-419&gl=MX&ceid=MX%3Aes-419",
-      "count": 0
+      "ok": true,
+      "error": null,
+      "count": 3
     },
     "usa": {
-      "ok": false,
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28pharma+OR+drug+OR+biotech+OR+pharmaceutical+OR+medicine%29+%28site%3Areuters.com+OR+site%3Aapnews.com+OR+site%3Acnn.com%29+%28FDA+OR+US+OR+USA+OR+%22United+States%22+OR+American%29+after%3A2026-11-14+before%3A2026-11-17&hl=en-US&gl=US&ceid=US%3Aen; 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28pharma+OR+drug+OR+biotech+OR+pharmaceutical+OR+medicine%29+%28site%3Awsj.com+OR+site%3Acnbc.com+OR+site%3Anytimes.com%29+%28FDA+OR+US+OR+USA+OR+%22United+States%22+OR+American%29+after%3A2026-11-14+before%3A2026-11-17&hl=en-US&gl=US&ceid=US%3Aen; 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28pharma+OR+drug+OR+biotech+OR+pharmaceutical+OR+medicine%29+%28site%3Astatnews.com+OR+site%3Afiercepharma.com+OR+site%3Abiopharmadive.com%29+%28FDA+OR+US+OR+USA+OR+%22United+States%22+OR+American%29+after%3A2026-11-14+before%3A2026-11-17&hl=en-US&gl=US&ceid=US%3Aen",
-      "count": 0
+      "ok": true,
+      "error": null,
+      "count": 24
     },
     "europa": {
-      "ok": false,
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28pharma+OR+drug+OR+biotech+OR+pharmaceutical+OR+medicine%29+%28site%3Areuters.com+OR+site%3Abbc.com+OR+site%3Abbc.co.uk%29+%28Europe+OR+Europa+OR+European+OR+EU+OR+EMA+OR+UK%29+after%3A2026-11-14+before%3A2026-11-17&hl=en-US&gl=US&ceid=US%3Aen; 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28pharma+OR+drug+OR+biotech+OR+pharmaceutical+OR+medicine%29+%28site%3Aft.com+OR+site%3Atheguardian.com+OR+site%3Aeuronews.com%29+%28Europe+OR+Europa+OR+European+OR+EU+OR+EMA+OR+UK%29+after%3A2026-11-14+before%3A2026-11-17&hl=en-US&gl=US&ceid=US%3Aen; 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28pharma+OR+drug+OR+biotech+OR+pharmaceutical+OR+medicine%29+%28site%3Adw.com+OR+site%3Aelpais.com+OR+site%3Aelmundo.es%29+%28Europe+OR+Europa+OR+European+OR+EU+OR+EMA+OR+UK%29+after%3A2026-11-14+before%3A2026-11-17&hl=en-US&gl=US&ceid=US%3Aen; 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28pharma+OR+drug+OR+biotech+OR+pharmaceutical+OR+medicine%29+%28site%3Aeldiario.es+OR+site%3Apharmaphorum.com%29+%28Europe+OR+Europa+OR+European+OR+EU+OR+EMA+OR+UK%29+after%3A2026-11-14+before%3A2026-11-17&hl=en-US&gl=US&ceid=US%3Aen",
-      "count": 0
+      "ok": true,
+      "error": null,
+      "count": 13
     },
     "global": {
-      "ok": false,
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28pharma+OR+drug+OR+biotech+OR+pharmaceutical+OR+medicine%29+%28site%3Areuters.com+OR+site%3Aapnews.com+OR+site%3Acnn.com%29++after%3A2026-11-14+before%3A2026-11-17&hl=en-US&gl=US&ceid=US%3Aen; 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28pharma+OR+drug+OR+biotech+OR+pharmaceutical+OR+medicine%29+%28site%3Awsj.com+OR+site%3Aft.com+OR+site%3Abbc.com%29++after%3A2026-11-14+before%3A2026-11-17&hl=en-US&gl=US&ceid=US%3Aen; 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28pharma+OR+drug+OR+biotech+OR+pharmaceutical+OR+medicine%29+%28site%3Atheguardian.com+OR+site%3Astatnews.com+OR+site%3Afiercepharma.com%29++after%3A2026-11-14+before%3A2026-11-17&hl=en-US&gl=US&ceid=US%3Aen; 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28pharma+OR+drug+OR+biotech+OR+pharmaceutical+OR+medicine%29+%28site%3Abiopharmadive.com%29++after%3A2026-11-14+before%3A2026-11-17&hl=en-US&gl=US&ceid=US%3Aen",
-      "count": 0
+      "ok": true,
+      "error": null,
+      "count": 38
     }
   },
   "items": [
+    {
+      "title": "Congress’s Top Doctor Resigns Amid IG Findings of Lax Drug Handling",
+      "publisher": "WSJ",
+      "publisher_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNR0kzd29fdzk5QVJNbFY5ckduWmU5NGdHMDNFTVpJVTZ5VU9VVXVJcWpxWVE4VnIwdHZ4OUs1cGpxTTcwZDVCaDNncDFQWHhQSFl1ZTJjZHY0ampKWkJuUVFKbjNzd0N5SjF4WDZQcnhhdVFLYUVwVFhsd2Z5c3FvbHBnWm9ST2xZTkxobUVESDBmSDZacHhSUg?oc=5",
+      "published_at": "2026-11-16T00:50:48+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "1Xtra Talks with Richie Brave | Drug and alcohol addiction: A journey to abstinency",
+      "publisher": "BBC",
+      "publisher_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1LUkR4MVJLX1JlWDU5bGlpZ3BPRC1lV01aUjFhRlI4TTVxcjJuaFZoYU15TDBINk1xUmw1YWgyOVo3eGVXYmFwdmI1dE5WQTha?oc=5",
+      "published_at": "2026-11-16T00:35:16+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "Johnson & Johnson looking to buy eye disease biotech for up to $3.4bn",
+      "publisher": "Financial Times",
+      "publisher_url": "https://www.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWDRqWENmN2tjMWhudjdBR1NRdVVpOE5RWExub25YdTZya052VFRUWjF1UWk4cFQtcF9aakhVRVhnQVkyQjR4TUJvSEVnNk5DdERNXzFQUERZa1c1VlNiYkNHOHJ1elgxUzAxNEVvbjcya2hxYjZZeXM3REhya0JKWGtLWXg?oc=5",
+      "published_at": "2026-11-15T23:54:31+00:00",
+      "regions": [
+        "europa",
+        "global"
+      ]
+    },
+    {
+      "title": "Mexican drug lord Miguel Angel Felix Gallardo dies age 80",
+      "publisher": "BBC",
+      "publisher_url": "https://www.bbc.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBqaVI1akZQUDZneWVSZTBXUm5nTzVBbTlZM0NXWDR3V1AzcmZfY0ZKN1ZBQVlxbTZQUHJzYzFEV0gzaHZjNnlVLXNmMTluOE1xQjBVRnB4ZVdpRGU2TEE?oc=5",
+      "published_at": "2026-11-15T23:52:10+00:00",
+      "regions": [
+        "europa",
+        "global"
+      ]
+    },
+    {
+      "title": "Notorious Mexican drug lord, who was convicted of killing US DEA agent, dies at 80",
+      "publisher": "CNN",
+      "publisher_url": "https://www.cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWTZ6djlUZzI4OGVmLW9jaVM2azFsUy10SnJpTmtUSXVMamZsRzVLTTNVcUdzVEFmRlZZX3ZwOFppUjR6QVVraTJjNzdkRGZ0Q2VBOEVHRk1zNWJrTlhTSllxT0lEQUFZMXhRbjBlUkFGeFVPUDRjRmxUemNZbGNaWA?oc=5",
+      "published_at": "2026-11-15T23:37:37+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Pfizer Signs $1.5 Billion Deal With Blackstone to Fund Weight-Loss-Drug Development",
+      "publisher": "WSJ",
+      "publisher_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONVlfM2ROY2lvTjZOWExrVFNEc2dBWmRvTnhnUTVnVXkyWUZBQjVCYlBGZXltOGQ1NmhJMk5BLTZTczhLaDRubGF4bF83blVKS3ZvMTE2NHQtUTBXYjhKelcyNDV0X0pSaGFIYlVVbUhGUWktektBRTgtZEVpaEd6eWlqSlJuNTRIZkRYMUU2NVljVmQ2a0NfLWRXUDNIXzFfOFNTV1ZXZDI0eEdTRTZXR3FRb3p0eDh1MGxlTzZ4LVFiRGs?oc=5",
+      "published_at": "2026-11-15T23:28:28+00:00",
+      "regions": [
+        "global"
+      ]
+    },
+    {
+      "title": "US FDA declines to approve Summit lung cancer drug after trial misses key survival goal",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSkdFR0ppNThGcnFUbE1vVHBkWG5GQkFrQ3B5M2x0VFh4bDNRVFdXUm9LazNYYUI4WnpBdXpQQ0NpS2llVWFEcE1LTWpLRWVqdFp4eTRibUtROW16ZU5XeXRmc1RwaTZCbzV2UXlKcEhvaHpCNlJSeTFucnl4ZXZvUWVWbXl2MUtHY1hXUzJ3SEFCR3ZZUDY2VGFuTC1lek80UmRZTGlxRkItd2I4S1lrcnotSF8tVG5tTnJySnBoMlJ0NXJtcEo5bjROV1c?oc=5",
+      "published_at": "2026-11-15T23:24:24+00:00",
+      "regions": [
+        "europa",
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Understanding Immunogenicity in AAV Gene Therapy, Free Precision for Medicine White Paper",
+      "publisher": "Fierce Pharma",
+      "publisher_url": "https://fp-resources.fiercepharma.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBsSzlMQ202T2ZPMFZJemdDNll0NkUtZk9fMXUzd0xBN1Q5Nmg0aXoyNUlIZUZ1bWF1bUxwenR2cENTWnF5SFozdzN5dGRJWnhrY3pKN0QxSHhYR2Z6SkVQUXk2UzgzVzdvOEVtSA?oc=5",
+      "published_at": "2026-11-15T22:56:46+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Drug and alcohol addiction: A journey to abstinency",
+      "publisher": "BBC",
+      "publisher_url": "https://www.bbc.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1tS0hVZ2sxOVhsXy1QUW1zVXVmbnAtTEVkSDhqanNxTi1xdkxnTHNHZEZyMlJnZFNoeW1UQ2VMWkV5UXIwZ2F6NktXbEhxbHItUkljeQ?oc=5",
+      "published_at": "2026-11-15T22:51:08+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "Miguel Ángel Félix Gallardo, Architect of Mexico’s Modern Drug Trade, Dies at 80",
+      "publisher": "WSJ",
+      "publisher_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOa2NoVVlfcDZSM0Mtdm5fYVpFcXY0ZFdRNG1KNl9uNXN5X3NBLUl3Mjh3Z0cyWTduQUZEa2lCODhtREFzbmJ1cmNIc3VJbndxSGIyNlYtbkg4anhJNWVIaWlSUEt3RmRCSnBKSXpoYXJPVTBYd3ZYMTVCYXF6Rjh1QzR3VUpXejRDUWFuSEE4eDRMV2NsWlF0b05XOXNtbXQtYWxRSXlxUzR2SjlvVUd5eXpMVmctbVkwZGp6ZF9BUm5kX1E?oc=5",
+      "published_at": "2026-11-15T22:13:00+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Guatemala: Emergency declared over drug violence",
+      "publisher": "BBC",
+      "publisher_url": "https://www.bbc.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1CMXIxVE1OdEU1ZjQwNTI0ZEtWZHZIOXA3bUlPQXh5S01VUGU1blJYaDE3ZGNTeHhnYW5yWk4tR19sUy0yZkd1eHdWeUpEWGs3c0Y3QmZ4M2txVE5SeFE?oc=5",
+      "published_at": "2026-11-15T22:05:24+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "UroGen Pharma Ltd. (URGN.ZY) | Stock Price & Latest News",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5BcEVrVE9TVW80MkU2cHZlMFdxS0VTZC1JaWxjZ2EwWDRUbzhtWXFiNjE1YVBhR3Y1VDBsZW83M1YxQ1FpTGtfdmZneUpzei13U0tBbjYyUS1EMGxwWEl0MG1wbk8zUUprdXotQnEyVVlTY2c?oc=5",
+      "published_at": "2026-11-15T22:03:26+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Huaren Pharmaceutical Co Ltd (300110.SZ) | Stock Price & Latest News",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE10Tm9wZjNvNU9Hc0VoN3FLV1ByTENCODAyeHE4WnhxY1ZLd1Nvc1o1MlRkeW9jcHNUYzktQTdWUEljVTU4clFlWWZTNDlHUG1zNVVYdGVjQ2hERmVDM3psd1E1RV93TVJxUExLQ2RuRQ?oc=5",
+      "published_at": "2026-11-15T21:48:40+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Traws Pharma Inc (TRAW.OQ) | Stock Price & Latest News",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xYWZyd3hENFVkaDNiM2JwdXhzSlhDbUQtVEdvM2ZRRmlzVDctN2ZGNFg5Y3EwMlBJTkRnS2hzeDhmOEpJZDBSVU83akFFTGVNSDdWUEEtTGVac2hGZldDS0hGWWY0dDNOX2Jyeg?oc=5",
+      "published_at": "2026-11-15T21:29:52+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Shanghai Henlius Biotech, Inc. (2696.HK) | Stock Price & Latest News",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5UVjVPZk50QXM3NEdJWG9DeUFGY0E2NXBQNE50U1JTWHhGOFdCMlVMdTJEQTZNQnF6Y0FYZS1fQnZRRFBtVzVETndyV0MzSmk3X1RkY094Tk91c1BtNFBZQ2JIUmJ4Zk9NVlhMWkRBWQ?oc=5",
+      "published_at": "2026-11-15T21:17:55+00:00",
+      "regions": [
+        "global"
+      ]
+    },
+    {
+      "title": "¿Qué sabemos de ivonescimab, el medicamento con resultados contra el cáncer de pulmón que EU rechazó?",
+      "publisher": "El Financiero",
+      "publisher_url": "https://www.elfinanciero.com.mx",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQWFl6cTR1NjdzbWgwZWI5Ym9KNUpyVHpmMmNJcGpsTVU2QTN4NURoVWI4TnZPbnhPQTNvQno3UjNoZ21Fd3JmeUdBd2FlY0pGckNXaDBWQjFrQW9DemV6a0I3b1hiZFo0eHVuS21GZ0RlcFhlWGttRE82bFd1c3VfcklYUXBwa29OdGpOaW9PbTNlX3NqTERzdUJJdXpZcUMtdTJfajVYa2xlTTFPMVAxQTAycG1UcFBkZUY4YkNfSDhYbkpjRHRkUExxWFFLQ1lKZnIwcGh3NzNXc0xWbGFJQ2Z3?oc=5",
+      "published_at": "2026-11-15T20:56:04+00:00",
+      "regions": [
+        "mexico"
+      ]
+    },
+    {
+      "title": "Hallan medicamentos en vivienda en construcción cerca del aeropuerto de barahona",
+      "publisher": "El Caribe",
+      "publisher_url": "https://www.elcaribe.com.do",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOd05UUlJUbDhRM0pTWkdhU2htWTllam8yVFQ0RnpwcUl0bm1uQ2xDUEEtN1NSSWhPUDRHdzQ5YjktS3ZrUS1paG9TQVN3R29KYlhWLU05cU9oRTZzdWlRQ1BzSXg5aVVZOURrMGNUYjdLRlVIZ0ZKZ2NtMVhPMFdmZGpLTE1kbFFZNnc?oc=5",
+      "published_at": "2026-11-15T20:47:09+00:00",
+      "regions": [
+        "rd"
+      ]
+    },
+    {
+      "title": "Illuminating Immunohistochemistry: From Biomarker to Clinical Trial Assay, Free Precision for Medicine On-Demand Webinar",
+      "publisher": "Fierce Pharma",
+      "publisher_url": "https://fp-resources.fiercepharma.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbzFrb1Ric2VWQ2lIVTZlTzFDNzVlbno2N2oyOUV0NkoyZG51YWtqSDMxV1QxWnNUQjY0V3pMZ0pRMHRyLWZCQ2VaQUswaGc5dUt6U01ja1JVOXNkdHYtaDV6SWtxVG9LTkxQNEhDZnJPc2xhQjhNSVB6QmEyVjBTc1F0UktPWWpNdkpWX2czRDJoLTVpeWpGbV9VQ3BRYnc?oc=5",
+      "published_at": "2026-11-15T20:34:14+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "F.D.A. Rejects Closely Watched Lung Cancer Drug From China",
+      "publisher": "The New York Times",
+      "publisher_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQOVd2cEJobjZyaWdnc0I5Q1Q0WEtQYW1WT2QxbHNJWGxPblJFZU42OHp0SkZrWWVKb18yY3h4Q1ZWM0phUmRvWVl0ZU1QbEtPdFdQc0ZfNnF1UlRiWWc2bUdWazh5N2ttRG1qY3BQUVdzMEJwcDRtRVNCdWlqS0NhaA?oc=5",
+      "published_at": "2026-11-15T20:33:07+00:00",
+      "regions": [
+        "usa"
+      ]
+    },
+    {
+      "title": "Ni con Farmacias Benavides alcanza al Dr. Simi; Farmacias del Ahorro podrá llegar a poco más de 3,000 tiendas",
+      "publisher": "Expansión",
+      "publisher_url": "https://expansion.mx",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcG96Ri1kbVpqMnNuNXdoRW44YnplTl9yaUJZUWRFSkRrendjcWNtRVRLVE5FZGc0T29vbUFvZ0swVVUxcDBHV09sRnF6ODVCTEJIWUlETlU0enJKX3RabWFCOUl2NmwzdEs0T0tDelhwUVZuekthOURPVEw3dGNWZTZoV0JFb0s0SV9qbXFLNTBHRm8tMzU2ZmNnODNVZw?oc=5",
+      "published_at": "2026-11-15T19:30:00+00:00",
+      "regions": [
+        "mexico"
+      ]
+    },
+    {
+      "title": "Medicamento contra cáncer de pulmón reduce 48% riesgo de progresión, pero FDA rechaza aprobarlo",
+      "publisher": "El Economista",
+      "publisher_url": "https://www.eleconomista.com.mx",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcU1FRzlzVFg0S2tQR3ZGRXE4RkZoWVVDMXk3R2pKU2poOU9tSFVxQnl4VlctNHE4OWxlQ3ktbE51ZnF4QnIzWXhDYTVmWVZvOFdqZk9uMkJKSHJ5cTdFMWg5VHQ0aEctU1dEMmdNTU1kM0M2ZjdlSEdKYk5BNE5MQy1tRlhPRTBVckRQaW1SV1BINFN6bEd5NlhyZGlyVkoxVTNJNnhSNWpxblZoMjI2UzktczJhRjl2QzJzeV9HOG1EUzZKT3ZZZlU0azR5OVo4RWU40gHYAUFVX3lxTE5sbk82NFVLV1I4UEhwU3B0OUYyajFzTlA0VVZJcHhzQUVKS1FOUXNmdG9BdXhXWjVqNFZjYkFuWTVhN2dtbk1HVnBwX0tBRWFUOWpHS1RPQTlBTHprdE9xYk41OXJuYzhSTjI0dzBGMU9aV296VWZEZzV1UEdQcUZlU19kQkV2T19DMF82NmVkZ242VEUtWEw1NVdOMy1YX2RLaWlwTUV6ekJzclN2bGx2OTl6ZHljU0UtQjAxclBsYTBZTWlfdl9zUkI5emY0dWJaVHlJUEJkOQ?oc=5",
+      "published_at": "2026-11-15T18:59:56+00:00",
+      "regions": [
+        "mexico"
+      ]
+    },
+    {
+      "title": "FDA won't approve Summit, Akeso's ivonescimab",
+      "publisher": "pharmaphorum",
+      "publisher_url": "https://pharmaphorum.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9sc3JqdXlTRms2bG16aGgxM3BNZHdhZUlGMTNHZmNBdjBwR3lnTi1YSFJ3V3dmMUh2LTQxZlg5MkREeURSaDA5WG1HVDdhcVU1OEdhSXNEbHZVU1ZuX1lNWTRFbjN3VlRjUHBacHcybkUyR19PSHpHTm1FRUw?oc=5",
+      "published_at": "2026-11-15T18:33:30+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
     {
       "title": "FDA rejects cancer drug invented in China in blow to Beijing’s biotech sector",
       "publisher": "Financial Times",
@@ -55,26 +287,86 @@
       ]
     },
     {
+      "title": "Helus Pharma to Present Topline Results from Phase 3 APPROACH Study Evaluating HLP003 as Adjunctive Treatment in Major Depressive Disorder on November 16, 2026 – Company Announcement - FT.com",
+      "publisher": "Financial Times",
+      "publisher_url": "https://markets.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZi01bkQ0MjRDQ0ZhQ1gyNDBuMlI5a3NjYVRSc215c0w4VENXazNhVXQwZVQ4NTBsZFJkWldsamlIYkU0VWNZdm9QRmlCOHVMWVFDRmVzZG1Mc0d2WU1jQkYxd2h2cmFhU2otTktYNDdXdmQ2Y1NrSEFDUGpPeWdDZjdJdnUwU2x3YzhZTnNoMk53RlMtdTNr?oc=5",
+      "published_at": "2026-11-15T16:00:00+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
       "title": "FDA rejects lung cancer treatment ivonescimab from Summit Therapeutics",
       "publisher": "STAT",
       "publisher_url": "https://www.statnews.com",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZXFPV1FyNFd1Mm90OUJQdk9XajZya0tYVE1kSkV4RHhnZkMyM21KYzFRbzlQUmh2ZWE3MG5KR3NFQXJMcTNQY3lBYlZpRTV3V2lEcC0taUlvTm5zbHFSNi1RS0t4bTIxOGt4cGUzbGIwZllqUkZZeURVcF9rei1rUzhkMGZKaEU1djljSTljQXdKb2d2b1FDMVZoWng0YTJtbXJjdQ?oc=5",
-      "published_at": "2026-11-15T15:06:02+00:00",
+      "published_at": "2026-11-15T15:06:48+00:00",
       "regions": [
         "global",
         "usa"
       ]
     },
     {
-      "title": "US FDA declines to approve Summit lung cancer drug after trial misses key survival goal",
-      "publisher": "Reuters",
-      "publisher_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSkdFR0ppNThGcnFUbE1vVHBkWG5GQkFrQ3B5M2x0VFh4bDNRVFdXUm9LazNYYUI4WnpBdXpQQ0NpS2llVWFEcE1LTWpLRWVqdFp4eTRibUtROW16ZU5XeXRmc1RwaTZCbzV2UXlKcEhvaHpCNlJSeTFucnl4ZXZvUWVWbXl2MUtHY1hXUzJ3SEFCR3ZZUDY2VGFuTC1lek80UmRZTGlxRkItd2I4S1lrcnotSF8tVG5tTnJySnBoMlJ0NXJtcEo5bjROV1c?oc=5",
-      "published_at": "2026-11-15T13:21:03+00:00",
+      "title": "\"Building Strong Drug Development Strategies: Simplifying Complexity in Potent Oral Dosage Forms\"",
+      "publisher": "Fierce Pharma",
+      "publisher_url": "https://fp-resources.fiercepharma.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZWJ4Qk1obkwtYWhocnBQTm5vaE5nMWxNbkJJX3hVQ1hJc0pUNWo3dEdSa1FFNkg5dFl5RHA0cWd0Q25BV2tCRjlfbnBPZHhDaW9aV3ctWXRIRS1pSGZXQ2dZbHEtdTQyQk5vallyUDNlWGZCZ2xkN2VTMHdtaWpKSS01c2pDd2xXYmJHamhBc05HQjN2dEVKVi0xTFE?oc=5",
+      "published_at": "2026-11-15T14:46:11+00:00",
       "regions": [
-        "europa",
         "global",
         "usa"
+      ]
+    },
+    {
+      "title": "A Marketer's Guide to connecting your data in Pharma, Free Acxiom USA eBook",
+      "publisher": "Fierce Pharma",
+      "publisher_url": "https://fp-resources.fiercepharma.com",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWXpXemlLOW1UTFlQbHRvVUJxRi11eDhSdHBWcUI1YXlVWmZZMnlsTndJRWt6bDRSOXhpeC05dUN0M0pNYUM4RTduclMySmtFalVsc2Y2NWpXRWowdG0zZG5sNnZkV3Nyc0xjbjBPY3JFTFNqMUVXbWhxRjVidmRLWVo0WVBGb2ZycUNEYlNzSC1EN0t4bFBnZlA2Q21tWFQ2S1VkQUkxbzR1MzVpcHRsYm9yaWFFMkxFaGQwVmdjNXJMcjhmM0stT0dzSG9mUXM?oc=5",
+      "published_at": "2026-11-15T14:45:01+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Pharma R&D insourcing model evolution towards outcome ownership., Free Eurofins Live Webinar",
+      "publisher": "Fierce Pharma",
+      "publisher_url": "https://fp-resources.fiercepharma.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPc1NJWjNrb21LMmx3UnRMT1NqOGY5Qk5sRDFRbTVleDU3ek4wQTl0U01lNnlILUtRYlFuMWFXQl85QXV1RVFwenE5eGpOUVczZjdTWUZBYzJ6VVR6ejNpc1lnY0tpSDZYQUptS3VCZkU2M2poTG5qU2RkT0pPZTJZTzhHZFdkeEVBRWVrVm4yX08xSndQeEpRTy1VQW4?oc=5",
+      "published_at": "2026-11-15T14:43:16+00:00",
+      "regions": [
+        "global"
+      ]
+    },
+    {
+      "title": "\"Ten Most Common Reasons for FDA 483 Inspectional Observations in Pharmaceutical Environments\"",
+      "publisher": "Fierce Pharma",
+      "publisher_url": "https://fp-resources.fiercepharma.com",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOS3d6S3lPakJNV3dpMlBzMmdDanBsN2ppY3JOaHh3SENyODZEMVd3TVdqUFpDWVh3UEthTFJHemhLVkNZbDMwSVZpc0xYQ1h0a2hpQUJ4Tk13VHNxdXpFNkI4ZDdYRVZvT1N1WlI3aFBMZEJJckhqZG5TY213cWY3dVRTWWxTT2tNOVd1WjA5ZUROWjFYbmM5d3kxTi02Y0tmdW1xZ0FvTGdlVHV3TXZRZkx2ckZzRWtzcXhtNWtDalZwYlRNRmZoSnloM25uajRZaUx1UXRfdUlkdUF3R1JuZkdnSm0xLWFxUWl2X1FpUFk1clYwSkNQQmQ3WlJCZEd0MXgtSDlTdm8zdw?oc=5",
+      "published_at": "2026-11-15T14:41:47+00:00",
+      "regions": [
+        "global"
+      ]
+    },
+    {
+      "title": "Sihuan Pharmaceutical Holdings Group Ltd (0460.HK) | Stock Price & Latest News",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE56bXNsdUFLMHR1RWh1Z1FMVnJtWHUzbnNWNGxlczVVeFRzcERKaVd2cnNGWTRlaXU5Rm1FYTRMd09aQ1E3RkxSZ3dzaXBfYkVodTB3WkhtZm5MSmtqZ0JBUnMyelBLQ3ZSWThfaS1MQQ?oc=5",
+      "published_at": "2026-11-15T14:28:49+00:00",
+      "regions": [
+        "global"
+      ]
+    },
+    {
+      "title": "\"Molecular Diagnostics and Monitoring in Precision Oncology\"",
+      "publisher": "Fierce Pharma",
+      "publisher_url": "https://fp-resources.fiercepharma.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORzJ4Ui1WY0hnRm1GeVB1a2xNZzJDRjVGd0trTktBM0pSQkI2VjdMMldMYUhBYm04SnFQX3pJN2hJSWM4TlNWdWptOTR2cWpob3hnbzJ6UjE2clBSaC1FaGlxT2RoQW13dnVLUW8wRmtITF9IQ2pKTG9kMi1mYkEtU0NreGRScEQxWWFKZ250ZG1OLTctX3lLWHdDbFFxQVZa?oc=5",
+      "published_at": "2026-11-15T13:56:13+00:00",
+      "regions": [
+        "global"
       ]
     },
     {
@@ -127,8 +419,7 @@
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQTFKWFgtdnRnQm5uRk5YZXpJRjZWRkJYaVQ2aFQ1Wm5mTGtqX05IMWZGc0djcWMzY0JnRWlGSmhtVU1oelk4TE9oQ3dJQmx0UHhIMnNtVHB1TE0zV3VGaklrSkdKaGd5Zkw1anNjYXAwVFd4SGNWU1UxOGNvYmpobDItSWN4TC13SWhMTE1RaWV2ZDdyckRhajNUeG9pNnpyclNjLUxB?oc=5",
       "published_at": "2026-11-15T12:00:00+00:00",
       "regions": [
-        "europa",
-        "global"
+        "europa"
       ]
     },
     {
@@ -142,11 +433,11 @@
       ]
     },
     {
-      "title": "How a Former Katz’s Waiter Created a Hit Podcast About Drug Addiction",
-      "publisher": "WSJ",
-      "publisher_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdlZOeWRPTlNFdmpCTXg1cXhOUEtwdXFPTUQ5TGlmRnowcTNSRTBPYkdxeHpVVXYxU21TLVNzNF9NNVZ0cEY3NnVFVWd4WGNMYWZsemRLYnllUm03M2VwNWJZazVNZ0lyakNqNHRBQW51RHhEd0hPa05wUjVReHJGQw?oc=5",
-      "published_at": "2026-11-15T11:11:56+00:00",
+      "title": "\"Unlocking The Benefits Of Customs Warehouse For Pharmaceutical Supply Chains\"",
+      "publisher": "Fierce Pharma",
+      "publisher_url": "https://fp-resources.fiercepharma.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbXdTN0w5X0NxT3JCN19FNXZrVUg5enZham1OaW9jZXdqajdxVHVZYi1DX3BNSm5weHhsUnB3dG85ZWRHUGc2MkNFUE5GZ1BGeXpIMUpVSlBpQTNiMmNFLXhzZHZFWnJGZlJQN2cwdXlnWldQbTRUMGZvNkdvT3FMTUxKMXN2STlrVG1yd0gzS3FBRGNab0xBNjFNaUM4WDF0?oc=5",
+      "published_at": "2026-11-15T10:27:57+00:00",
       "regions": [
         "global",
         "usa"
@@ -160,6 +451,17 @@
       "published_at": "2026-11-15T10:21:20+00:00",
       "regions": [
         "global"
+      ]
+    },
+    {
+      "title": "\"Ensure Precision in Pharma QC with Advanced Balances\"",
+      "publisher": "Fierce Pharma",
+      "publisher_url": "https://fp-resources.fiercepharma.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPN3R6NUNSSTV5dGdLSjhlbmR1VmJ5X2IxODdkeUxSLV9hVnZFMFBYenRrclAwWmFKVUgzX3NtZlRmbWgzWG9PZnFacjNma3RES0UwVnRIMEFCcE5QOXZwVzNYa0NxeGRvNUVReTk2V25Uc2F6aHhoa0U4Y2ZWY2J6akM2VkVQZXlRQ01UM0xRbFRQd3Q2ZFRJVlRFc3dnZw?oc=5",
+      "published_at": "2026-11-15T09:19:45+00:00",
+      "regions": [
+        "global",
+        "usa"
       ]
     },
     {
@@ -180,19 +482,7 @@
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBSZ204RG56dHp4M2pqd2tONHBCeGJfelpqNWw3NkVMRU5SdEVyMEZtYjY2VnBaRFJuaV9aZ3dncVFNdy1IcHh1bHpyQ1dXQWxIc3V0bDk5NUZRMGc?oc=5",
       "published_at": "2026-11-15T07:10:26+00:00",
       "regions": [
-        "europa",
-        "global"
-      ]
-    },
-    {
-      "title": "Nymox Pharmaceutical Corp (NYMXF.PK) | Stock Price & Latest News",
-      "publisher": "Reuters",
-      "publisher_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5VMVBTbjBvQ2RQOE9uTUVlYkZTVG9uYThRM2VUYkhGU1ZueGRycE5COXA3NHBMR0hiMDNQZ1lCYjlxWUpzVUVSTS1sTk9uVWJWN1NLMk1jOW83di03TXhaRTAwUGpCZU93eUNsZkh3?oc=5",
-      "published_at": "2026-11-15T06:13:37+00:00",
-      "regions": [
-        "global",
-        "usa"
+        "europa"
       ]
     },
     {
@@ -201,17 +491,6 @@
       "publisher_url": "https://fp-resources.fiercepharma.com",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcXU1MnFOR19ZUlJXbGRiMnFvZnZvWXRSdlo1ZTR6STh6RzMzamRqcHhmQXliMV9lakl6TXNkVkx6VFg4ODRPaEU2VHBsak1EYzE3TjVjTkl4YkdxdkJoSmVVNkl5aWtPUnMwR2NlN0d2b05WYkM5TzJpRWZOemFDZGdyMTFfOHo5dzdZWUN3ZkZJVjdpTF9KQU5rVjJqRjZ4QnoxQTJB?oc=5",
       "published_at": "2026-11-15T06:09:43+00:00",
-      "regions": [
-        "global",
-        "usa"
-      ]
-    },
-    {
-      "title": "Preclinical Biotech Unnatural Products Lands $1.15 Billion M&A Deal",
-      "publisher": "WSJ",
-      "publisher_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWXpYUnZxOWw4YW5fSzRXUHZaYlh4akxWWV9fZjhlLWltVmt3d3FKTVJHSzdUUUpXNlFnM0twVlA1MFdfRzNqb2RtWXdKcU1UQ0xhM1N3VTd5REU2ZzQ4TGpFYXQtMFFseUtLaDBGUTZIVHhzbVZPcW82V0lPQjI1YWFuXzlRUlFmTGFua0Y0b0N3X2hweldwWk45bTZQLVQ3bEhxMllaQ2hfM2dBd1ZqQVgzVDRnUQ?oc=5",
-      "published_at": "2026-11-15T05:42:16+00:00",
       "regions": [
         "global",
         "usa"
@@ -229,13 +508,13 @@
       ]
     },
     {
-      "title": "Acceso oportuno, continuo y equitativo a medicamentos: sigue siendo una quimera para miles de panameños",
-      "publisher": "La Estrella de Panamá",
-      "publisher_url": "https://www.laestrella.com.pa",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNYXBON3NKOGpBRm1UWG5xSGNGeV9mUHB0aEYwaVVfSlRCYVFLcVh1eFg2SG5ONWx0Mm1XMWlBbXBMM19Mal90UGpxanRjTjhjQjB0MHFpZ2oxMDk0LVNFVEc5NTg1bUlqaVJUWDBjUDdseGJuNXpDcGlOUUlMd3lva1hDQkk2Z05aUHNRekZyQkhta3hjNUh2ZnVmMEctdHctU1NKaEt3aUswWWItQ3llV05hUnI3WWtMa3NLdHp3MFZqZmszLTJ4clB4a3I0YmppTXpNNnlrWTFIbGo0TE1ubW9FMW4xTko1c0VhQVhnb3JWTzlN0gH6AUFVX3lxTFBjRjBtbHJRVjczZlFRX0hCV3U5VHk0VlQ2QnZjcnNZOUFOdXdBdXA4SHlhZE1DTW5vdmtvMU5DcFU4TVpVWHRFM1ZMMFBPSzIxTkljVE1yWFVtS29OVFZUMEtjTjRMWjJaUm94UkNRbGx1VlBkRDYybkgwSFMzMVJRVHdhWGxYUnoyLWRPb1FNVzN0U1ZtOVVpZ3N1Q05SNXNaV253MWljN1M2VnF4TmxXN2IyVEdscUlvbF9MdmQwdHVaSTZ6LUpzR1JDQU5LeVBzaWdzTy1LeU9ac05Xdmg2V3R6YTBTTm5MRXl4bUFXZG1oRHo3dDEybFE?oc=5",
-      "published_at": "2026-11-15T05:00:00+00:00",
+      "title": "Pharma Foods International Co Ltd (2929.T) | Stock Price & Latest News",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4teTk3SmNJbk5nSllVMEg2NGNiVHc4RFBDaS0wZ2dSUmZWdy1LWldmZURWUTVlVWpUX2l4ZFdVdjFGVXR5bEFXUEFhdU5mZDZFbVlWRlBVZEg4cVJ2UHh1eVlsMU11SEstV0ow?oc=5",
+      "published_at": "2026-11-15T04:34:15+00:00",
       "regions": [
-        "centroamerica"
+        "global"
       ]
     },
     {
@@ -244,6 +523,16 @@
       "publisher_url": "https://www.reuters.com",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE45Ynh6bUR4UUUyMzJWOUZYWklmcEp1VW9WdFo2S01rY3N5aG1kSTNjUnlWZUcwRXUtZjBwWWJtVlllWG5sRzY1eXU2ZU1FS2dBeFl4SGxlUzBFOHhPb2hYYjhjNHFBY2pGQkxreWxyRQ?oc=5",
       "published_at": "2026-11-15T04:09:17+00:00",
+      "regions": [
+        "global"
+      ]
+    },
+    {
+      "title": "Vytrus Biotech SA (VYT.MC) | Stock Price & Latest News",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Zd2ZnazJkRWxKalppNUJPYUJvZW5aYzd0aml5V203V28wMFVVQWFpZE1FWWoza1JNRzAwczVsTDE4akNXWkZPMkZiSjZ2cm80ejlzak9FeE9POC14LVZQT3pldWVHNEU0MVlJ?oc=5",
+      "published_at": "2026-11-15T04:06:19+00:00",
       "regions": [
         "global",
         "usa"
