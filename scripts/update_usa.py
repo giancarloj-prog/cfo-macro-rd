@@ -102,6 +102,24 @@ def inflation_us():
         if not -30 <= value <= 100:raise ValueError('CPI-U interanual fuera de rango')
         return {'value':value,'period':f'{period[2]}-{MONTHS[period[1].lower()]:02d}','source':'BLS · CPI-U','url':CPI,'unit':'percent','description':'Inflación general interanual · sin ajuste estacional'}
     except (requests.RequestException,ValueError):
+        # October 2026 has no published all-items YoY: BLS did not collect
+        # October 2025 CPI, so the annual comparison cannot be calculated.
+        # Keep the latest *published* annual rate, September 2026, by
+        # rechecking the dated BLS archive instead of marking a source failure.
+        archive = 'https://www.bls.gov/news.release/archives/cpi_10142026.htm'
+        try:
+            current = text(page(CPI))
+            if re.search(r'CONSUMER PRICE INDEX\\s*[-–]\\s*OCTOBER\\s+2026', current, re.I):
+                archived = text(page(archive))
+                if re.search(r'CONSUMER PRICE INDEX\\s*[-–]\\s*SEPTEMBER\\s+2026', archived, re.I):
+                    match = re.search(r'Over the last 12 months, the all items index increased\\s+([\\d.]+)\\s+percent', archived, re.I)
+                    if match and 0 <= float(match[1]) <= 100:
+                        return {'value':float(match[1]),'period':'2026-09',
+                                'source':'BLS · CPI-U (última tasa interanual publicada)',
+                                'url':archive,'unit':'percent',
+                                'description':'Inflación general interanual · sin ajuste estacional. Octubre 2026 sin tasa YoY publicada por falta de base octubre 2025.'}
+        except (requests.RequestException, ValueError):
+            pass
         # FRED mirrors the BLS non-seasonally-adjusted all-items CPI (CPIAUCNS).
         # This avoids relying solely on the frequently timing-out BLS API.
         try:
