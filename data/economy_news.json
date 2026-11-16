@@ -1,7 +1,7 @@
 {
-  "date": "2026-11-15",
+  "date": "2026-11-16",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-16T02:12:08+00:00",
+  "checked_at": "2026-11-16T06:45:52+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -33,22 +33,22 @@
     "dgii": {
       "ok": true,
       "error": null,
-      "count": 11
+      "count": 0
     },
     "finance": {
       "ok": true,
       "error": null,
-      "count": 3
+      "count": 1
     },
     "securities": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 1
     },
     "economy": {
       "ok": true,
       "error": null,
-      "count": 3
+      "count": 2
     },
     "economist_andy": {
       "ok": true,
@@ -58,7 +58,7 @@
     "economist_jaime": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 1
     },
     "economist_juan_ariel": {
       "ok": true,
@@ -68,7 +68,7 @@
     "economist_raul": {
       "ok": true,
       "error": null,
-      "count": 2
+      "count": 1
     },
     "economist_jose_luis": {
       "ok": true,
@@ -83,166 +83,11 @@
   },
   "items": [
     {
-      "title": "Exsubdirector de la DGII cree el ITBIS no es malo; el verdadero problema es la informalidad",
-      "publisher": "El Nuevo Diario",
-      "publisher_url": "https://elnuevodiario.com.do",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQa0ltZUluY0ZxUkxIUkU5MTNOS3JzR2g2RDBfN2c2V3hXckdadUY4a2xudWhCdEZ1RHdlbUdNbXFIdkFWYTVkQ0ItRTdxTy00a3NJRldMejFxZm9pM3FSNEZKbi15STBSZWxES3gzTGcwTnEwWlc1Vm91XzVhVnZOTHJFRHVJZXJGWkVxZkxINVR1RzV2dGNCNkpzZ0h0dG42N1hmZEFXb0N6a3ZENjRuMG5yQTJETy1xMERKVA?oc=5",
-      "published_at": "2026-11-16T01:45:34+00:00",
-      "topics": [
-        "dgii",
-        "economy"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "dgii",
-        "economy"
-      ]
-    },
-    {
-      "title": "CONACERD pide a la DGII no sancionar a colmados y pequeños comercios por retrasos en facturación electrónica",
-      "publisher": "Acento",
-      "publisher_url": "https://acento.com.do",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQT3lhNm9UMWNmTjlHQ0NYZnB3aXV3eGo1TkNocXFzTm9zMlZrc1VkNzV6TmRONkNlRF9ZTGMwUUhoNDE2M1FrOTlhbVQxb0VOYzJtSXpJcldVaGpaTi1abDJ6VUMxem9lUlZPRmkwQWdxcW1BY0xkdmRjb2twdm40NVFvVTJmUUxCN282NHBxNWk1UXlvaWFCUUdfLWxSXzNBbTlpOFhyWV92TGdJWjNxZDZYdnJjOHlXVU55cVNibEhsczB3YlVvNE9YU3FqZzcxakZ1VExOYndIYTZpcnp1dXFQTENrOENGa1HSAeoBQVVfeXFMUE95YTZvVDFjZk45R0NDWGZwd2l1d3hqNU5DaHFxc05vczJWa3NVZDc1ek5kTjZDZURfWUxjMFFIaDQxNjNRazk5YW1UMW9FTmMybUl6SXJXVWhqWk4tWmwyelVDMXpvZVJWT0ZpMEFncXFtQWNMZHZkY29rcHZuNDVRb1UyZlFMQjdvNjRwcTVpNVF5b2lhQlFHXy1sUl8zQW05aThYcllfdkxnSVozcWQ2WHZyYzh5V1VOeXFTYmxIbHMwd2JVbzRPWFNxamc3MWpGdVRMTmJ3SGE2aXJ6dXVxUExDazhDRmtR?oc=5",
-      "published_at": "2026-11-15T23:15:19+00:00",
-      "topics": [
-        "dgii"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "dgii"
-      ]
-    },
-    {
-      "title": "¿Falla la facturación electrónica? Esto respondió la DGII tras denuncia de Carlos Durán",
-      "publisher": "Hoy Digital",
-      "publisher_url": "https://hoy.com.do",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQakl2U2o0M3M0WlNmWDVmR1daS3hER0xuVDRUYWNLVkpscllGTXliRlZMQnpRa2VjQ0doMjJobkJWeUE1TzZVaTZXd3k4N05pWkFKTmtFdDVSbmZPUTBEQkRnbGkwcnRXcVIwU0RndmsyQWV4bUtXSzJDTDNDNUxZZlpzanp3OVcyWmZJMUNmdlg0aWlOS05pUWhGSdIBoAFBVV95cUxPVk14dm9oZ1k0VmRGTWI4ejNBbnFHc3JjWVduRW42aDJhdDJtY3pidm11cHhfd0Rrbk9tZ1AxY1FBblVTWlI0OUdkcEp0YzUtbHlZdUNNY3FJYjlEVUZhSGhkR29TaWFPTTVkYVdjSmdueFhaakVpMFloVFd1WTVvYmFzbU5TSUxEOElHZlpsYnQtX2x5UkhuMUtxYlNja1hi?oc=5",
-      "published_at": "2026-11-15T20:49:24+00:00",
-      "topics": [
-        "dgii"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "dgii"
-      ]
-    },
-    {
-      "title": "La DGII niega fallas en sus servicios de facturación electrónica a horas de vencerse plazo",
-      "publisher": "Diario Libre",
-      "publisher_url": "https://www.diariolibre.com",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNXZTSzZPX1lkanowaGotUDcyTWtkMkhwaFk1Q1dxU1FFSDZxY0p0cC1rNXdfYnBiTGRBVnNUdk5LNEVfUFZ0RWUyN1kySGYwaDdyUGVpOEpwNjJrZFZReV9nd3FPSFVmV3RSejMwS3NqNEZkbEVPYURvRDU5TUk3bk00aGNGbWZxby1aeGlWRVNGZ2ZTVy1vdERxLWVLQVlSbmhzQ0FBMDZGaXdqZC1pZDFXRDRhR19PZElNazlYS24xRlpJ0gHKAUFVX3lxTE54N1EwWk52M1pqYmRTWXdiTmlUV2MwU2hyazdqQVQyYl9ycEpqV3VTemkxNnZ2bHFOaTFnTTdRVkY3dkpxclFNZWRjX25FbzQwVHFwdTc3OVFMREJtZm84Ql9ERVBoellHMkdCNngxRmlUSzN2Y0tUdmExdXBsYVpoa0hTWWpGeUc2R1VIblByQ3FXSFpnVENmd1pkTjBTRmRzZVp2NktPS3FjTm9TMm1ONGdGdC1MUEdQaXdXU3BGSzFzTWtrV3dHbkE?oc=5",
-      "published_at": "2026-11-15T20:00:00+00:00",
-      "topics": [
-        "dgii"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "dgii"
-      ]
-    },
-    {
-      "title": "Crédito crece con más cautela en entidades financieras del país",
-      "publisher": "El Caribe",
-      "publisher_url": "https://www.elcaribe.com.do",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRGlWR3dDVDdJMENzeU1ZUW00SVFPWlBoT2VlTjUyMkpBeUhZRmh4OGRCX3lMakYwc2dneENEaGRJQ056NmFtVTlGa0RwZXR4VVByUFlzMm9KdGgyNkVHWFQ3YWZ5ZDV5aG13Vmxka0c0MGtuanlHXzA4bWtvU1dSM2s0dW9CTDNEbGtyNG1la1E1Xy1fZFlfY2ZnQ0l3cWVvVWpERHZ1V1BRM2Ra?oc=5",
-      "published_at": "2026-11-15T20:00:00+00:00",
-      "topics": [
-        "finance"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "finance"
-      ]
-    },
-    {
-      "title": "Carlos Durán estalla contra la DGII por lentitud en la facturación electrónica que provoca filas en el \"Taconazo\"",
-      "publisher": "El Dia.com.do",
-      "publisher_url": "https://eldia.com.do",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOUUM2enVERzQ0eXJMcmNPeF9QOEx3MWM0RlJqd2dfTjJDSWdZbldnMWRvLUdWWklsUkVydVV0LVFrX08yTG12YzRiRWtIN3YyTjJ4TU4xSGRwR2RmVkpyUEU3VmdfSXNWS2N3YXRxTU5GbjltbUJnMEtfRHhjNFNqQTVNY0UyaXBobmJMZ0FWVkRoVG1IRGliclFIcTB1VHAtM2lteDlMdE4zWDlEeVRodVFUYUNWVWhQVml0LW1lQ1Bra2loVzVFU1hwYWgyekdxNVFYVHIxZUFNanY4ZTRZdjQ4MGl2UTBv?oc=5",
-      "published_at": "2026-11-15T19:56:15+00:00",
-      "topics": [
-        "dgii"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "dgii"
-      ]
-    },
-    {
-      "title": "DGII aclara que su sistema de Facturación Electrónica opera con normalidad",
-      "publisher": "El Dia.com.do",
-      "publisher_url": "https://eldia.com.do",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQM2lWY2J6ZWY0dzZQYlhkb1lKTXFKSEFPUlFEMFNkV3FPbUVqbHRFRkUyT0ZjclFENVJ0aEZXNkcxemV1eHhRNkxxRERfVmlvY2hybUJWQXJ5MWpJWXdwZmF1NHpSWXFhQ29sb3p6d0VNTXpldm5pUnJkNE1naEZKWlB4d0R3U0JrclQ4cE5nSGYyR0MxWU1mT0U3WFY?oc=5",
-      "published_at": "2026-11-15T19:33:41+00:00",
-      "topics": [
-        "dgii"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "dgii"
-      ]
-    },
-    {
-      "title": "DGII dice no hay fallos con facturación electrónica tras denuncia de Carlos Durán",
-      "publisher": "Listín Diario",
-      "publisher_url": "https://listindiario.com",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUFR2YjhtTGNDMi0zZ05nMEtxbTBHcmdyTDRjbExnOUk1QXZ3NzFKYWNqdzBhMnJVMUV4cFl5LUpNNl9OZFBSQ3NsQ0NuM1FOT2RlWFRWbUdNb3cyLTNONmpLRkJ6UUlGUFA4VkRUcW5OLURaV3BqMDRLR3EwS3k1TFNKNWVCYUdSZXc2Qi0wNHg5M3h1U1l5eHdvX1lTX3o5RHItMXJBUnFYenpjVlg2b2hEQi1SMXZySWd3ci1qYjJWaTTSAcgBQVVfeXFMTk80a2V0ZUdYWmJyNlV3OFNFTXYyM2FvTE9FQWo5U2xsUVRST29PSjc3WFRDaFpIcUtxVnRLdEdRWUhPOW4wYUVkRUVaRXJDVFk4S2JVdGdLWEZOMHk4M0s3dXUtdUtCTldmT1dybzYtUFhWTVJXVTVNSVltN0hYM1E2eldhSTJjLWVGN2R5d0tvWmhDenpMZ1dGbVlKeU96NlhqdTEzMjFEdWw3Nk9XaTJ0WktFWUM2bXJveHpnQ3VzUnNlaWVkd1E?oc=5",
-      "published_at": "2026-11-15T18:46:15+00:00",
-      "topics": [
-        "dgii"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "dgii"
-      ]
-    },
-    {
-      "title": "DGII reacciona tras denuncia de Carlos Durán; asegura facturación electrónica opera con normalidad",
-      "publisher": "El Nuevo Diario",
-      "publisher_url": "https://elnuevodiario.com.do",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOLWhyU3FBY0xHUDRaWE5jSHA3VThZOXNRRC04RW9vOFY4V2hOa1NPMXRXb2VVSmFXajJFSGI2cFo2VEtSMkw1T3ZYY3gtUzQ1c1JHQlBZYnc4aGJnX0tieXlpOFpIbWhIZk85aXJrVUhiel9BM0l0NWR4MzZTbkZPSFJiVjQ5OHlBM01CdUM4STd0ZE9HckF5SzZlUlp1OWU4SkxtTEROT3NGbEJWRzNkT2VvX1c4UnRnNF9OUGhZcVJpSzNBYnc?oc=5",
-      "published_at": "2026-11-15T18:15:29+00:00",
-      "topics": [
-        "dgii"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "dgii"
-      ]
-    },
-    {
-      "title": "Economistas advierten riesgos de inflación y tasas altas para 2027",
-      "publisher": "Diario Libre",
-      "publisher_url": "https://www.diariolibre.com",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTmY1cFhiTUJBNEFIZ2owc3dlYXBDTGJCcGdYQ21ZSXlLYnhQdkcwQ2plSDNjdW9RS050THQyc0NfWEczUVUyaTlrdkcwVEFrY1B5Zkp6X1pEVnZDY3BIdEdOMndkS2pMekVPT0Ftdm5vY2lwMWFZaklHNXRGNGJMbWU5blFZWVp3OHA2dXhEYUVOX2NZdW9Obnl4enAzbUFLRlpxcTlCdllNTnVjRDR0UG5CWFdiVHBhNEM0aHlZSVVfNGlpb2JFUdIBzgFBVV95cUxNLXpKRFk4RkZhRDZWWkdNZ3Y2Tzk4REZzZGdxRWM5UzktMmF3dnRtTlJlX081cVJFNF90VHRvRC1vZHhHLTNlVGd1ZEhBYkJCQWJ2ZlV2ZFRoX2YzS2VkSHZXc2I0WG5uV0ZSdS1wV0FlbFZPQi1KSnlWTVFJZ1dnNXYzamV1NmpjOXBObXZvY0x4VlhFUkZRc2tadkF0SEY4b19OUGNKTWlxdzU4amRMcHRJVHBOV3VCaGxWdkE4ZFRnTG9nbkJNTEtTMy1VQQ?oc=5",
-      "published_at": "2026-11-15T17:58:00+00:00",
-      "topics": [
-        "economy",
-        "finance",
-        "opinion"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "economy",
-        "finance"
-      ]
-    },
-    {
-      "title": "Inflación, tasa de interés y expectativas 2027",
+      "title": "La economía dominicana en 2027 y el nuevo escenario en EE. UU.",
       "publisher": "eldia.com.do",
       "publisher_url": "https://eldia.com.do",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5yelVyQXg5czFBcldpRUxMYXVsQ0ZmeWRjbVlIejFVQUs5cXlBUDJhY0ktdlNJcU42eWNsM2hhWnFBQTk0dFBPa09VYnVTSXBJM21uRFpLMlk4RGp0SVRCODdYbFhONXpVNzNCTklnVVFPTnoyc0E?oc=5",
-      "published_at": "2026-11-15T16:47:44+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTFlIMEF6S2tLRFBqMVdlWjhyWDdaUU9OUHdtZ3c4UWx4d0dPYjBhN2pLVUpHWTFUOE1yd096UlFEeFBTdGtnRDRXM1o1dXhJUUswUkVxY2UwdTlzdFBoWk8zSGYwT0kzeGxVNDNFYXJqQS16dkd5ZlVkeHVqLTF2S2JRandnaGNqVXc?oc=5",
+      "published_at": "2026-11-16T04:01:00+00:00",
       "topics": [
         "bcrd",
         "economy",
@@ -257,50 +102,50 @@
       ]
     },
     {
-      "title": "Carlos Durán denuncia fallas en facturación electrónica y pide solución urgente a DGII",
-      "publisher": "El Nuevo Diario",
-      "publisher_url": "https://elnuevodiario.com.do",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdXdfSGkyOVE0TC1DaUhZSWJuSEZ0WkdOR1pqV1AwUUVNcklUVEpMbXNYa0pWVXNLcVdJM0lwS1A4cmRKMGNXQW5KS1NnUWltVlk3RHd0SEZ5STRTQWUxeVlrYjJzWk5kWk1sNHRkZU1JOE44amtTRjU5YmRuSHduX2NwZVpud2lyNmRYbHdIU3c1dTRqc2ZxdjlYX1d3a1ItN1N3R05vcjFFT2ZiR0gwOGpVejlraVU?oc=5",
-      "published_at": "2026-11-15T15:50:28+00:00",
+      "title": "APB y los puestos de bolsa impulsan acceso empresas",
+      "publisher": "El Dia.com.do",
+      "publisher_url": "https://eldia.com.do",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5qN1Vja1Z3bUpfZFFBTV9qVVRjSWdYUG5fU29YdmVaNk5vRVVSNHZIYnV2MF85ZHhzT1FER3ZkbEd0OHE0am51MnNySXZOaGoxd2hhVXBfeTNjdlpPLXVSMFluYmtQaWR3LUJUNzdmdzhsaFprMmdqZDl3bk03dw?oc=5",
+      "published_at": "2026-11-16T04:01:00+00:00",
       "topics": [
-        "dgii"
+        "securities"
       ],
       "economists": [],
       "economist_match": null,
       "searches": [
-        "dgii"
+        "securities"
       ]
     },
     {
-      "title": "DGII trabaja hasta este mediodía para facilitar incorporación a facturación electrónica",
-      "publisher": "Listín Diario",
-      "publisher_url": "https://listindiario.com",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNb0pzVThyOEpCb0JaaFZyTGVhUHZxM2o0Mm5CSzdRUWxxdnhiOHVUNkJUNFEyUXR2OWtWQmxkblkzVVBjd1ZqY0NDLTFJeEs0Y05fYUJZb2ZtUGo4VHNJMkNZQy1PMEE1bVdfN3I3T1h1ZHBvNlJCZ1B3S25OMFFnZHRDNVd0VVF0aklpaGJvMVZqMG0xODg4QXVFR3Z1ZWN3cEFqZVdveGRkT2k5enpnVjVkME1JaVFLVnNqQWVtYXRjVmtLakJUVDUwUEktVDFVdGxqLTBwSXJveW_SAeABQVVfeXFMT3VhLTl4WDQybGxpQ3M4akpFWGNPZGFVUXphSlRwaXpZaDJna2s4Q2pqbGhUUFowTEhZTGdHcHNZSjdzRWVLVm9wMjdDWjQ0N2RSN192QU1jMGQzd1g2TVNRMl9MMGhMVDlEQVhzdFBpTXdhSHNCN1dKZUN3NS10WVdPMEVxb3RxU3Z6TGZnQlFuMGtVckhzZzdBa0ZhX1h6dGw2M25vd2JHTUhMV25qeFZBaGJoQkdRNE9FUlc4LV9lSDJLTjZ2aHBYdGpKUnUwaXpyX2JNN1lnU2hWM1VQeTQ?oc=5",
-      "published_at": "2026-11-15T14:47:13+00:00",
+      "title": "Inflación positiva, sí, por los elevados precios del petróleo",
+      "publisher": "Hoy Digital",
+      "publisher_url": "https://hoy.com.do",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTjExd3MxMlVIdFN2Z3RBaVRjZGFMNi1qZEFoeVdQNWlHQUtUUVotMlA5ekFjNmRtb0djX0FQel9vTU9wNTh5MG9jbGM3NHJkT3VXWmhEcThDSTlCd05ER0Y1NDZwVS1Vd05Gek1haHNscktpekR6T0NQYmJVb0lEZlVjOC1aZnJMTjQtZtIBkgFBVV95cUxPcUl0WjVXV1IzUUpoRmFNTF9tQUEzdlZpdTkzN3lWSHpHcmQ3cENKdWJMam9TN1VXNk1pc2hUemxMcjkwMHFxUlVGSkd2cUNzSkR2MHlaMXFuQno2Zk1zZ284c3dOcHc0bFlIWHVVMU1OcWRXVmdVWW93MUQ1dEI1OEY5ZWRqX1lMa3RJU3NPOS1ZZw?oc=5",
+      "published_at": "2026-11-16T04:00:00+00:00",
       "topics": [
-        "dgii"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "dgii"
-      ]
-    },
-    {
-      "title": "Vence este domingo plazo para acogerse a la facturación electrónica; DGII descarta nueva prórroga",
-      "publisher": "El Nuevo Diario",
-      "publisher_url": "https://elnuevodiario.com.do",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTllFdXNGZk9yM0hfa1l4c1VfS2FIVjh1MWpSWWJMblEzLXhBdS1tYU0yeVpYMXlOTHlvcGl4OFcxQnVQSHdXT2pnOFM0WFdSdnp1OWdieFVyQVpTR2gwN0VwNFN5ay01RUdQVlEzUTR5aGs1aVFVbFRyblVrbm9rc3FMS0JuUU1jdmhSYnhORFNZR01oZTRtOVRYWWJOZmVySmJLVTFGNEVFX3dhMlJFUzJOTjZHTnlTQXNGUWdtb2YwcWNf?oc=5",
-      "published_at": "2026-11-15T12:35:27+00:00",
-      "topics": [
-        "dgii",
         "economy"
       ],
       "economists": [],
       "economist_match": null,
       "searches": [
-        "dgii",
         "economy"
+      ]
+    },
+    {
+      "title": "El apriete navideño",
+      "publisher": "Diario Libre",
+      "publisher_url": "https://www.diariolibre.com",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTGx0X183WFlaTGdreS1xYnZxc0ZaeC1oS1dZVGViWGdUVHVaTERoX1QtVzN2RFpvUWlGUWo1STdxd01ZUzVBLS1LbFhXWXZEYXRoYjhEU2hMbWlpTHQweWZHRnJ3UW1adWQzeVFkMW5fSjNhYzQtWTF4R0tkVzFzdUd1eUZmRVY3QWVCZkdmdlFUQk50cUNfMUNYRUlqTHlhb0dkcDVLYjBWVDh5ZUUwT2otemgySXNjM05vZE9XdXJwdnh6M1HSAcYBQVVfeXFMUExsdF9fN1hZWkxna3ktcWJ2cXNGWngtaEtXWVRlYlhnVFR1WkxEaF9ULVczdkRab1FpRlFqNUk3cXdNWVM1QS0tS2xYV1l2RGF0aGI4RFNoTG1paUx0MHlmR0Zyd1FtWnVkM3lRZDFuX0ozYWM0LVkxeEdLZFcxc3VHdXlGZkVWN0FlQmZHZnZRVEJOdHFDXzFDWEVJakx5YW9HZHA1S2IwVlQ4eWVFME9qLXpoMklzYzNOb2RPV3VycHZ4ejNR?oc=5",
+      "published_at": "2026-11-16T03:00:00+00:00",
+      "topics": [
+        "opinion"
+      ],
+      "economists": [
+        "jaime"
+      ],
+      "economist_match": "search",
+      "searches": [
+        "economist_jaime"
       ]
     },
     {
@@ -410,23 +255,6 @@
       "economist_match": "search",
       "searches": [
         "economist_juan_ariel"
-      ]
-    },
-    {
-      "title": "Ovalle: Fondo de RD$50,000 millones para combustibles se agotará en febrero-marzo y ya no hay espacio para otra reforma",
-      "publisher": "Periódico elDinero",
-      "publisher_url": "https://eldinero.com.do",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQeUhxbzdLX2ItclFrY29rWGwyaElINFpWTHY1MzRiSWJJSUYzMUgzU0FHdHQyRmVBYjZoVld6T0NsRFB1LXpRNW1lOTI3a1hmdi12NnVTeVRULUY1X0pEUksxWi04ZTU3SEhEQmt0V3pubUVDc1JnemhTVlRDSXVBTTYzcnNBX2RtYlMwZGlyQ3dMVUxHS29XRk9ETkNIUUFZQVNxU2c2WUhQTXp5NE1URDI5Zm1tbHZSVzJZUHBrcmg2LW55Wk92ZEI0R1NBUWdwcTNSUFFIVHRYN0VRY0JpWWpn?oc=5",
-      "published_at": "2026-11-09T16:05:11+00:00",
-      "topics": [
-        "opinion"
-      ],
-      "economists": [
-        "raul"
-      ],
-      "economist_match": "search",
-      "searches": [
-        "economist_raul"
       ]
     }
   ],
