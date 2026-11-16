@@ -1,7 +1,7 @@
 {
   "date": "2026-11-16",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-16T19:30:09+00:00",
+  "checked_at": "2026-11-16T20:31:38+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -12,37 +12,59 @@
   },
   "source_health": {
     "rd": {
-      "ok": true,
-      "error": null,
-      "count": 1
+      "ok": false,
+      "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=(medicamentos+OR+farmac%C3%A9utica+OR+farmacia+OR+vacunas)+(site:elcaribe.com.do)++after:2026-11-15+before:2026-11-18&hl=es-419&gl=US&ceid=US:es-419",
+      "count": 2
     },
     "centroamerica": {
-      "ok": true,
-      "error": null,
+      "ok": false,
+      "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%28medicamentos+OR+farmac%C3%A9utica+OR+farmacia+OR+vacunas%29+%28site%3Aconfidencial.digital%29++after%3A2026-11-15+before%3A2026-11-18&hl=es-419&gl=MX&ceid=MX%3Aes-419",
       "count": 0
     },
     "mexico": {
-      "ok": true,
-      "error": null,
-      "count": 1
+      "ok": false,
+      "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%28medicamentos+OR+farmac%C3%A9utica+OR+farmacia+OR+vacunas%29+%28site%3Amilenio.com+OR+site%3Aexpansion.mx+OR+site%3Aforbes.com.mx%29++after%3A2026-11-15+before%3A2026-11-18&hl=es-419&gl=MX&ceid=MX%3Aes-419",
+      "count": 0
     },
     "usa": {
       "ok": true,
       "error": null,
-      "count": 27
+      "count": 20
     },
     "europa": {
-      "ok": true,
-      "error": null,
-      "count": 35
+      "ok": false,
+      "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%28pharma+OR+drug+OR+biotech+OR+pharmaceutical+OR+medicine%29+%28site%3Adw.com+OR+site%3Aelpais.com+OR+site%3Aelmundo.es%29+%28Europe+OR+Europa+OR+European+OR+EU+OR+EMA+OR+UK%29+after%3A2026-11-15+before%3A2026-11-18&hl=en-US&gl=US&ceid=US%3Aen",
+      "count": 31
     },
     "global": {
-      "ok": true,
-      "error": null,
-      "count": 32
+      "ok": false,
+      "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%28pharma+OR+drug+OR+biotech+OR+pharmaceutical+OR+medicine%29+%28site%3Awsj.com+OR+site%3Aft.com+OR+site%3Abbc.com%29++after%3A2026-11-15+before%3A2026-11-18&hl=en-US&gl=US&ceid=US%3Aen",
+      "count": 17
     }
   },
   "items": [
+    {
+      "title": "Leo Pharma IPO plans stalled by market volatility: Bloomberg",
+      "publisher": "Fierce Pharma",
+      "publisher_url": "https://www.fiercepharma.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUmdPcjZaRnlDV3JoRldPa25IYWZ2eEg3NHV1aWd0WEllenl3SU9DZzIydEo0R2ZJSFktbFNONWwzbGUtbThFNnVUNzZDekFfYk4zQUJfdXRpWVhUNWd0YXdCaHZlak5FU0RUdXo1NmxEVlFIN2txam05RVItZFhvTko5WlpRUVVUSlE?oc=5",
+      "published_at": "2026-11-16T19:52:00+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "As an oncologist, I’ve received my fair share of thank you notes, but nothing like this | Ranjana Srivastava",
+      "publisher": "The Guardian",
+      "publisher_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVDhnWWlldkRIazZIMkhUSXB3TnotQ2k5eGoyUEFIV21IejUyMUNzaVFyWHJ1c0R2VEJhbEVVOVhxOHByYmNYQlROb2MtVHZINXJmdXpGVXVFTTk1VFV5U2dUOWRCR2RCaEJNVldlNWxmei04TElCXy00elAwaFI0VFFmOEh2bUl3RVZnM3B5QzhwQWJw?oc=5",
+      "published_at": "2026-11-16T19:29:00+00:00",
+      "regions": [
+        "europa",
+        "global"
+      ]
+    },
     {
       "title": "Venture firm Flagship bets £100 million to build AI-driven drug companies in Britain",
       "publisher": "Reuters",
@@ -51,8 +73,17 @@
       "published_at": "2026-11-16T19:19:09+00:00",
       "regions": [
         "europa",
-        "global",
-        "usa"
+        "global"
+      ]
+    },
+    {
+      "title": "Promese/Cal licitación RD$1,251 millones para abastecer hospitales y Farmacias del Pueblo hasta junio de 2027",
+      "publisher": "Acento",
+      "publisher_url": "https://acento.com.do",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQZ3B0Q1UtLTloSTl4eUJaZVVNYktydDJLZVFDS0J1dnM3U0tvWUExOFJNNjlkenhoUEljNXdDbF9ZdU9nWVJwY3poREwwTmxfTVkxLUxsdDRGaDgySzJVMWFIeG55S1Q1Um9lLXNqdlRqZ0dVSVlCN3d5RDY1ZnE3bmtDQ0owRWxaTW9XWEdzU1hTWl9RS19uSTJ1NDNaT1IyWFU5NkhZWk84Y2NFcExCSUw2Z3BxV2NxVDRuZmFFUkQ5S1JJUjBMSGp3OXpROHhIZkRpOVNoZHhPenpjakpwOGtYdlV3WmY00gHoAUFVX3lxTFBncHRDVS0tOWhJOXh5QlplVU1iS3J0MktlUUNLQnV2czdTS29ZQTE4Uk02OWR6eGhQSWM1d0NsX1l1T2dZUnBjemhETDBObF9NWTEtTGx0NEZoODJLMlUxYUh4bnlLVDVSb2Utc2p2VGpnR1VJWUI3d3lENjVmcTdua0NDSjBFbFpNb1dYR3NTWFNaX1FLX25JMnU0M1pPUjJYVTk2SFlaTzhjY0VwTEJJTDZncHFXY3FUNG5mYUVSRDlLUklSMExIanc5elE4eEhmRGk5U2hkeE96emNqSnA4a1h2VXdaZjQ?oc=5",
+      "published_at": "2026-11-16T18:59:14+00:00",
+      "regions": [
+        "rd"
       ]
     },
     {
@@ -73,8 +104,7 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNR0kzd29fdzk5QVJNbFY5ckduWmU5NGdHMDNFTVpJVTZ5VU9VVXVJcWpxWVE4VnIwdHZ4OUs1cGpxTTcwZDVCaDNncDFQWHhQSFl1ZTJjZHY0ampKWkJuUVFKbjNzd0N5SjF4WDZQcnhhdVFLYUVwVFhsd2Z5c3FvbHBnWm9ST2xZTkxobUVESDBmSDZacHhSUg?oc=5",
       "published_at": "2026-11-16T18:50:51+00:00",
       "regions": [
-        "global",
-        "usa"
+        "global"
       ]
     },
     {
@@ -118,8 +148,7 @@
       "published_at": "2026-11-16T17:31:42+00:00",
       "regions": [
         "europa",
-        "global",
-        "usa"
+        "global"
       ]
     },
     {
@@ -184,8 +213,7 @@
       "published_at": "2026-11-16T16:32:19+00:00",
       "regions": [
         "europa",
-        "global",
-        "usa"
+        "global"
       ]
     },
     {
@@ -217,8 +245,7 @@
       "published_at": "2026-11-16T15:54:27+00:00",
       "regions": [
         "europa",
-        "global",
-        "usa"
+        "global"
       ]
     },
     {
@@ -240,8 +267,7 @@
       "published_at": "2026-11-16T15:24:59+00:00",
       "regions": [
         "europa",
-        "global",
-        "usa"
+        "global"
       ]
     },
     {
@@ -352,17 +378,6 @@
       ]
     },
     {
-      "title": "As an oncologist, I’ve received my fair share of thank you notes, but nothing like this | Ranjana Srivastava",
-      "publisher": "The Guardian",
-      "publisher_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVDhnWWlldkRIazZIMkhUSXB3TnotQ2k5eGoyUEFIV21IejUyMUNzaVFyWHJ1c0R2VEJhbEVVOVhxOHByYmNYQlROb2MtVHZINXJmdXpGVXVFTTk1VFV5U2dUOWRCR2RCaEJNVldlNWxmei04TElCXy00elAwaFI0VFFmOEh2bUl3RVZnM3B5QzhwQWJw?oc=5",
-      "published_at": "2026-11-16T14:02:00+00:00",
-      "regions": [
-        "europa",
-        "global"
-      ]
-    },
-    {
       "title": "The Biotech Growth Trust PLC - Net Asset Value(s) – Company Announcement",
       "publisher": "Financial Times",
       "publisher_url": "https://markets.ft.com",
@@ -397,7 +412,7 @@
       "publisher": "WSJ",
       "publisher_url": "https://www.wsj.com",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQ2dhcGhQN0I4enlFX1VrNWQ3MW9HWm5rVU92R3pyb2pjblZSQUtzb1A4aVB0SlIyTWFoQ3lxZkw4d1Yza3ZRQ0E3Wmo4czhmSU5nUGYwdjhMTm94b1NtakJUU0p4bG5CYzJDM3lWbnFZZGIyUjVsLUY4WHNWYVpQbVZGcmI4TFBZaFBhT05XQVk1MzVVcEw3aFNWbWRfcWtzMFg2SWZmMkZ1c21UaF9GbjJlVGxTUHExSWtYelpn?oc=5",
-      "published_at": "2026-11-16T13:15:00+00:00",
+      "published_at": "2026-11-16T13:19:38+00:00",
       "regions": [
         "global",
         "usa"
@@ -475,6 +490,16 @@
       ]
     },
     {
+      "title": "Bruker Announces that Institute Director, Biopharma Entrepreneur and Immunology Leader Dr. Eicke Latz will join its Board of Directors – Company Announcement",
+      "publisher": "Financial Times",
+      "publisher_url": "https://markets.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdjBraDBTNnpUMHpJaTR0cWEzdGtvWElMRHlBWXFzdlNSTU5aLUdXRnVCc05KdXkzNTFNS250dFE0OHZEZnVsTUplRlRnVVhZTTlNczFJT0RfeWNYemMyNGVZZkpyb2dyUXRZNlBGdENUcnUwSFppX21qREVxcUJGSHEyVlhCazVGZGFRcktfM0dEUlRPazd3am9vbmtOaUpfeW9fZ2xB?oc=5",
+      "published_at": "2026-11-16T12:00:00+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
       "title": "LEO Pharma owners see market conditions as unsuitable for IPO, CEO says",
       "publisher": "Reuters",
       "publisher_url": "https://www.reuters.com",
@@ -482,8 +507,7 @@
       "published_at": "2026-11-16T11:46:08+00:00",
       "regions": [
         "europa",
-        "global",
-        "usa"
+        "global"
       ]
     },
     {
@@ -558,8 +582,7 @@
       "published_at": "2026-11-16T08:37:02+00:00",
       "regions": [
         "europa",
-        "global",
-        "usa"
+        "global"
       ]
     },
     {
@@ -577,7 +600,7 @@
       "publisher": "BBC",
       "publisher_url": "https://www.bbc.com",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5kaG1NcTZUZjlZZHJEd0g0ODFSX05nc1lpYlhiRXRCbllYUldfZUYyNnBXNnMwdG5fWkhGWTJlQzlSV1VOdk9iM1FOQzJnQlNqSEtNRVBqOA?oc=5",
-      "published_at": "2026-11-16T07:14:46+00:00",
+      "published_at": "2026-11-16T07:14:41+00:00",
       "regions": [
         "europa"
       ]
