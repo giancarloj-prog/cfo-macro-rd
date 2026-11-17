@@ -1,7 +1,7 @@
 {
   "date": "2026-11-17",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-17T08:05:44+00:00",
+  "checked_at": "2026-11-17T19:13:22+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -23,27 +23,27 @@
     "bcrd": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 1
     },
     "fiscal": {
-      "ok": false,
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%28Hacienda+OR+DIGEPRES+OR+%22deuda+p%C3%BAblica%22+OR+%22presupuesto+nacional",
+      "ok": true,
+      "error": null,
       "count": 0
     },
     "dgii": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 10
     },
     "finance": {
       "ok": true,
       "error": null,
-      "count": 4
+      "count": 3
     },
     "securities": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 3
     },
     "economy": {
       "ok": true,
@@ -58,30 +58,229 @@
     "economist_jaime": {
       "ok": true,
       "error": null,
-      "count": 2
+      "count": 0
     },
     "economist_juan_ariel": {
-      "ok": false,
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=(%22Juan+Ariel+Jim%C3%A9nez%22+OR+%22Juan+Ariel+Jimenez%22)+after:2026-11-09+b",
-      "count": 0
+      "ok": true,
+      "error": null,
+      "count": 1
     },
     "economist_raul": {
-      "ok": false,
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%28%22Ra%C3%BAl+Ovalle%22+OR+%22Raul+Ovalle%22%29+after%3A2026-11-09+before%3A",
-      "count": 0
+      "ok": true,
+      "error": null,
+      "count": 2
     },
     "economist_jose_luis": {
-      "ok": false,
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%28%22Jos%C3%A9+Luis+de+Ram%C3%B3n%22+OR+%22Jose+Luis+de+Ramon%22%29+after%3A2",
+      "ok": true,
+      "error": null,
       "count": 0
     },
     "economist_nassim": {
-      "ok": false,
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%28%22Nassim+Alemany%22%29+after%3A2026-11-09+before%3A2026-11-18&hl=es-419&gl",
+      "ok": true,
+      "error": null,
       "count": 0
     }
   },
   "items": [
+    {
+      "title": "Facturación electrónica: DGII definirá cuáles negocios califican como pequeños",
+      "publisher": "El Dia.com.do",
+      "publisher_url": "https://eldia.com.do",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTEo1V2pMZF8xQUFWS1hGMWFfS3VZTHlrSGUzVGJDOUNnLU1KZm5HbC1nTnFrX1dKZnA5dXNsZUpITi1rb05jZl9vdzY0TTlrZndXS3pxdGc4amp3RjluN09SVmk5T0RsVHg2blR3U2VidmV5bW1JZ05Ja21pREVIVFVQY0tGWHZxWjI1ZFVPTFJxVGVJQUdHRHlJUnJ5aEoy?oc=5",
+      "published_at": "2026-11-17T16:53:21+00:00",
+      "topics": [
+        "dgii"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "dgii"
+      ]
+    },
+    {
+      "title": "DGII asegura que no persigue a los colmados por la facturación electrónica",
+      "publisher": "El Dia.com.do",
+      "publisher_url": "https://eldia.com.do",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNb29qS29nY3JKT2ZRS1pwSFpBRVowTUVjUWt0QVRfRDc5UV92VHp2c2JfRDF5alIwM0IxSE5nQ185dGxvRFFVVi1MUUtaSzBpZ0pieWJraUVtRGpEUU1Od1ZqQVpLcV9oTEktS3liRFk4TE03LWpMZzRNaWdMLTF6R0puMXFTSVhkazVZSVdidF81ekNISVptRG1XaVo?oc=5",
+      "published_at": "2026-11-17T16:19:09+00:00",
+      "topics": [
+        "dgii"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "dgii"
+      ]
+    },
+    {
+      "title": "Comerciantes respaldan tregua de la DGII por facturación electrónica y piden más facilidades",
+      "publisher": "El Dia.com.do",
+      "publisher_url": "https://eldia.com.do",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNkYyQWZBdzlyM0VHcGlRVUZyMmU4X3RlNHhlNmJmcFFZNzdteDBGYVBwbllFMDEzNXlDS2d3cVBWbXNuQlByWEZSY0xiSGlzR3VhaWNMSDUxaHgxeldXOHd4YlRYSnVIVGlNZUJBYk96dzVielN5c0lUWFRjS1JXb1d5TFJGLVlxcWhmWWd4bzlIU1JvZmxsMkREd2hLRVYzMmNPM1RQNmxJUjRDeTdGY1ZYYmY?oc=5",
+      "published_at": "2026-11-17T14:58:50+00:00",
+      "topics": [
+        "dgii"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "dgii"
+      ]
+    },
+    {
+      "title": "Guerrero destaca supervisión bancaria dominicana",
+      "publisher": "El Caribe",
+      "publisher_url": "https://www.elcaribe.com.do",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQThWcE5zXzNjOG93SGtUYnBzb01xcE01ZnlJMG02ZFdSbFk2RGVFaUJGY25kZDg3NnB5cXllbVVtR2dyU0tjUDdsVERWdkJTMFNBRkVxbFVWWkhOYi1UUWNURlRVeUtCOGc2WFdlRURrVURTRk5hWFZpdDFTSVh1RExCQ2d2ZFJJUDdBVUd2OA?oc=5",
+      "published_at": "2026-11-17T14:51:59+00:00",
+      "topics": [
+        "bcrd",
+        "finance"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "bcrd",
+        "finance"
+      ]
+    },
+    {
+      "title": "Superintendencia de Bancos garantiza normalidad en RD pese a fallas en EE. UU.",
+      "publisher": "El Caribe",
+      "publisher_url": "https://www.elcaribe.com.do",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaWlkWUx0eExlUDItRnJiTkJHd2l0aEhEcXRpWlFYZ1VHNlZSLUtKU2xhbmFsVHVsbmwxWDBGX3FzdkJjZGUwWnI3MWhVVEtpR1ZvTlVaX0U5NmhLNVlnVWRNVWV6Wi1zdktHWlA2NWRuSjF4UHVZV2x3dGNTSDlyWFMyT2w0RFNCcS1wUjJOa2dkWjJET1hhZkU1VklESFlDVzBjR3pHc0lhQnI4dWctOFZGUThDbFpTSElr?oc=5",
+      "published_at": "2026-11-17T14:14:00+00:00",
+      "topics": [
+        "finance"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "finance"
+      ]
+    },
+    {
+      "title": "La Nacional presenta opciones de financiamiento hipotecario a dominicanos en España",
+      "publisher": "Acento",
+      "publisher_url": "https://acento.com.do",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORlZaUXJqNE9nSDliUVNRNmR5Vi1QZHFOT1FiRlNycnF1RWhiWERtNkpPZUFlRjY0eVVfUzJYdWcxR2xKa0JiSk81OWhOcUJiSGJUbV9BMk51MV82Tll6bmZ3STAzNnZCMXU4R3lDZXlKeThsQVVTTlNicnRBQXkxdkE4MUc3VU5XSUk3YWxnUTRCV3l5NGFqaGxSQWFwN0FmSldMZklMVlNyaWRsOWlPQnNDbjl6NmVXMEJuX1FiZjhjNnBvQ3fSAcYBQVVfeXFMTkZWWlFyajRPZ0g5YlFTUTZkeVYtUGRxTk9RYkZTcnJxdUVoYlhEbTZKT2VBZUY2NHlVX1MyWHVnMUdsSmtCYkpPNTloTnFCYkhiVG1fQTJOdTFfNk5Zem5md0kwMzZ2QjF1OEd5Q2V5Snk4bEFVU05TYnJ0QUF5MXZBODFHN1VOV0lJN2FsZ1E0Qld5eTRhamhsUkFhcDdBZkpXTGZJTFZTcmlkbDlpT0JzQ245ejZlVzBCbl9RYmY4YzZwb0N3?oc=5",
+      "published_at": "2026-11-17T13:59:21+00:00",
+      "topics": [
+        "securities"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "securities"
+      ]
+    },
+    {
+      "title": "DGII ampliará plazo para facturación electrónica un día después de descartar otra prórroga",
+      "publisher": "Diario Libre",
+      "publisher_url": "https://www.diariolibre.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTTd0cUJmZEhSZnpnV0ZUV3RNQ2JnTXBJT084XzFhWEREcy14VGtxN3dscXJ1QU9UTkFiOHhGaHdMWXRPOW5ZRkNCMmYzak5QejUtS3ZpQ1dSZHIxY0JYNjlyaGVZVjhaNk5ZQXJXdkVZQW1ZVTdIeXhBNFhvcXJSNFVwSk5xeXNkQ2FtcWhaMHY0UjBpTjR0TFZIRnJ3anBUTEQ2aG0xUGNWV3lxWC1SU2lKQdIBuAFBVV95cUxNZG9SSzA2bUkzOVltX1VaczVnSnczT0xYcnNRV3ZYZVJrVGZ2QWpmUnB0QVRtYnBmUHM3TDAtZkZ0OS1hU3FXWjY4R19qTFJ5WTVxYzVBamlTdERCYkszUnVycTJMdVRmMEdneURqSlhWWHF5eHpqUHIybi1nWlYyUXQ1Z0hZQVZfNVFtUEhPSXNfY1lhd3dXbi1TQkNnZGJpU3NTekphWlFCZnZ5SlJJMjBuSlluandW?oc=5",
+      "published_at": "2026-11-17T13:51:00+00:00",
+      "topics": [
+        "dgii"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "dgii"
+      ]
+    },
+    {
+      "title": "DGII extiende plazo para la incorporación de facturación electrónica",
+      "publisher": "El Caribe",
+      "publisher_url": "https://www.elcaribe.com.do",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTlMtalQwY2Ytek4wUTRxenJ4OTVEV2tXNl9IQmRwZDNqbkNMN3dCYnAxaHdZQXlnRGU3cGRSVVdtNldVcGM2MVF3bUVOUk1tUnlYWUc3T1g5VDNpV013R0xGZDlscEgzRWlzdERkN1B2eTlIcTUwaUZ5aXgtbU9CejgwbTNOZUJrb3Jhc0FOeUc4NG1lNjloQ1pTdF9rbVRaX01wbW96c1JZOWFVVnRQMw?oc=5",
+      "published_at": "2026-11-17T13:22:20+00:00",
+      "topics": [
+        "dgii"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "dgii"
+      ]
+    },
+    {
+      "title": "DGII ampliará plazo a micro y pequeñas empresas para acogerse a la facturación electrónica",
+      "publisher": "Periódico elDinero",
+      "publisher_url": "https://eldinero.com.do",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUWpKcUpyY0ZsX0d4SGwtUTYzNnNBcnIxT0hOYzdXNmlCR1F6VF9wR191Um84R3NnUmttRUpFVFVLNHNieFhwMVZvUDRqTHdpUXA5SXh2TG16WlNhZV94UkN0bGhQZ1p5anM2Z3JEMDRLNkdVTWotWTJEd0w2LUF0RUs5ZXZldmJWemhMbXhiMWV4Nm5vYURwYUw2WWc4ZVBjZlEzVW1NejRXN2lpSk1nVTdKdzVjendJVlhYblJ5Zw?oc=5",
+      "published_at": "2026-11-17T13:06:09+00:00",
+      "topics": [
+        "dgii"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "dgii"
+      ]
+    },
+    {
+      "title": "DGII anuncia nuevo plazo de facturación electrónica para micro y pequeños contribuyentes",
+      "publisher": "Listín Diario",
+      "publisher_url": "https://listindiario.com",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOczBabEpkVVFnVXpLSE40QjNOZkNNQ2FuSzNweWNwbERTWkZUeU5LMkYtUnlxVmVHc21PVmNOWDg3bTJVME5RMnUzRm5PZm1McmlXSTFmVDd5cG11dVk5bWFDTVdhTnViZmdNWFBIdzRKMGlOb04yYXJsUXRxd2RRT202ZVZ6QTljeFNXc25wdnByRWt3QUxwcUZmdG1jLS1IdWJtSFFKNHo4bThFeU1CZ19wZFVEQ0dJT3BNV0lEb0xWUFh1NThHbmMyNGp2SzlRZ3VV0gHYAUFVX3lxTE5wZzNJYTFsMjVvUDhpRW96RVFyTTRZY1JtWXlZYV9HZU5oVTlqVHFPVWkyR0d4b1pkNGtZUVVyWFlWMjJleERGWThRRXZPb19INi1xdkQyV0xENDhuMW1hOThxYzFmRXdyYWRqZXN0MjN4ZXRvZVVZTV9FcHhwNW9xeW9wYXdQbllZT3NVTFY1UlZhT1RQTUw3R3VYcEFNM0lfV0hDdE9STXBER180c2xUZHhMbjg3ODlSYWdKOUwzVkpZdnNtUEUxYVhReEh2bEp5M2lheFBJUg?oc=5",
+      "published_at": "2026-11-17T12:46:51+00:00",
+      "topics": [
+        "dgii"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "dgii"
+      ]
+    },
+    {
+      "title": "DGII recula y decide ampliar plazo para incorporación a facturación electrónica",
+      "publisher": "El Nuevo Diario",
+      "publisher_url": "https://elnuevodiario.com.do",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQR2V3MGFaalJzZDczdEZIemxiSVNHUF80ZkhEWkFEeWxnbXdnSWFXS0UwVk5lSTQ4T2tKYlRwdzZ2dnVaa2JxQzZoYXk0V2Q3QlB0Yko0WGR2TVZYemFwajB5VWY2ZDdlVE1iYkM1RmRoVXAzenlsYTl3V0dUYTBnMGhYWUNVUGlYZ2d6VmdGdE83TjVnNEJ4SVdUTEJCZDVPYTgxcDRjUlhNbTVsZnc?oc=5",
+      "published_at": "2026-11-17T12:25:21+00:00",
+      "topics": [
+        "dgii"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "dgii"
+      ]
+    },
+    {
+      "title": "DGII anuncia ampliación del plazo para facturación electrónica tras descartar nueva prórroga",
+      "publisher": "Acento",
+      "publisher_url": "https://acento.com.do",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORnU4QU1GM2xsNl95MVlsbzkwNF9wX1NSV0RGVG1sQ0F6dXZVQ0tnelp6Uko3dU5md0ZpQzNZQUNWemxlbEZSRzZBbk9Cc1VDVUJkLUFabkVsdTdyRWFTS3A2cnpDM2owUjBwWjRmb2pkUHJNTU1zS2RsNXlVcmhFMUVheHhFN3JlcEpSbVZiVGIxd0pHODR0SlE2X0huOGxYUnkzMElNYl90RElfSi1QY1Flc3FRaGo2VFNrbDJNcGtGS2ZXVEQzNlBQdm4wLWVHRXfSAdIBQVVfeXFMTkZ1OEFNRjNsbDZfeTFZbG85MDRfcF9TUldERlRtbENBenV2VUNLZ3paelJKN3VOZndGaUMzWUFDVnpsZWxGUkc2QW5PQnNVQ1VCZC1BWm5FbHU3ckVhU0twNnJ6QzNqMFIwcFo0Zm9qZFByTU1Nc0tkbDV5VXJoRTFFYXh4RTdyZXBKUm1WYlRiMXdKRzg0dEpRNl9IbjhsWFJ5MzBJTWJfdERJX0otUGNRZXNxUWhqNlRTa2wyTXBrRktmV1REMzZQUHZuMC1lR0V3?oc=5",
+      "published_at": "2026-11-17T11:40:52+00:00",
+      "topics": [
+        "dgii",
+        "securities"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "dgii",
+        "securities"
+      ]
+    },
+    {
+      "title": "El Nuevo Diario AM - La DGII asegura no hay «presión» para los que faltan por incorporarse a facturación electrónica.",
+      "publisher": "El Nuevo Diario",
+      "publisher_url": "https://elnuevodiario.com.do",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPaGc2cXdsZUc5blhBcDlQNWU5N25tSFF4RUhPT2JUdEczQzJrb0FQTWkwNVQtcmE1ekUtTWZKYXRZYk0xZG01MTJaQ21vQ01xczIya0tYaXkyeTNzWjMzZzlreDlmdkNrWFktQmdkZ1puUDUzbG1xVG9RMGw3bmNpS1lNSzU4bG5ZNEhMSVFmc0pmbEpCaWNiRDRFNHJKNVlQY2FqN1JwUFJnNGt6Ylk5X2VqX2xWc1hadWVZN2NFNUI3V1FLd0hQNFRhb2hYQVZmS0Y4MkpVQ0ZWOFpRWUE?oc=5",
+      "published_at": "2026-11-17T11:01:09+00:00",
+      "topics": [
+        "dgii"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "dgii"
+      ]
+    },
     {
       "title": "El 36 % de la banca se prepara para clasificar su cartera de créditos como verde",
       "publisher": "Diario Libre",
@@ -193,7 +392,7 @@
       "economists": [
         "raul"
       ],
-      "economist_match": null,
+      "economist_match": "search",
       "searches": [
         "economist_raul",
         "economy",

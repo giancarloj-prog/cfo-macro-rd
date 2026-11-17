@@ -1,7 +1,7 @@
 {
   "date": "2026-11-17",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-17T08:05:45+00:00",
+  "checked_at": "2026-11-17T19:13:23+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -12,45 +12,421 @@
   },
   "source_health": {
     "rd": {
-      "ok": false,
-      "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%28medicamentos+OR+farmac%C3%A9utica+OR+farmacia+OR+vacunas%29+%28site%3Alistindiario.com+OR+site%3Adiariolibre.com+OR+site%3Aacento.com.do%29++after%3A2026-11-16+before%3A2026-11-19&hl=es-419&gl=DO&ceid=DO%3Aes-419",
-      "count": 0
+      "ok": true,
+      "error": null,
+      "count": 2
     },
     "centroamerica": {
-      "ok": false,
-      "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%28medicamentos+OR+farmac%C3%A9utica+OR+farmacia+OR+vacunas%29+%28site%3Aprensa.com+OR+site%3Alaestrella.com.pa+OR+site%3Alaprensani.com%29++after%3A2026-11-16+before%3A2026-11-19&hl=es-419&gl=MX&ceid=MX%3Aes-419",
+      "ok": true,
+      "error": null,
       "count": 0
     },
     "mexico": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 4
     },
     "usa": {
-      "ok": false,
-      "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%28pharma+OR+drug+OR+biotech+OR+pharmaceutical+OR+medicine%29+%28site%3Areuters.com+OR+site%3Aapnews.com+OR+site%3Acnn.com%29+%28FDA+OR+US+OR+USA+OR+%22United+States%22+OR+American%29+after%3A2026-11-16+before%3A2026-11-19&hl=en-US&gl=US&ceid=US%3Aen; 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%28pharma+OR+drug+OR+biotech+OR+pharmaceutical+OR+medicine%29+%28site%3Astatnews.com+OR+site%3Afiercepharma.com+OR+site%3Abiopharmadive.com%29+%28FDA+OR+US+OR+USA+OR+%22United+States%22+OR+American%29+after%3A2026-11-16+before%3A2026-11-19&hl=en-US&gl=US&ceid=US%3Aen",
-      "count": 0
+      "ok": true,
+      "error": null,
+      "count": 16
     },
     "europa": {
-      "ok": false,
-      "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%28pharma+OR+drug+OR+biotech+OR+pharmaceutical+OR+medicine%29+%28site%3Areuters.com+OR+site%3Abbc.com+OR+site%3Abbc.co.uk%29+%28Europe+OR+Europa+OR+European+OR+EU+OR+EMA+OR+UK%29+after%3A2026-11-16+before%3A2026-11-19&hl=en-US&gl=US&ceid=US%3Aen; 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%28pharma+OR+drug+OR+biotech+OR+pharmaceutical+OR+medicine%29+%28site%3Aft.com+OR+site%3Atheguardian.com+OR+site%3Aeuronews.com%29+%28Europe+OR+Europa+OR+European+OR+EU+OR+EMA+OR+UK%29+after%3A2026-11-16+before%3A2026-11-19&hl=en-US&gl=US&ceid=US%3Aen; 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%28pharma+OR+drug+OR+biotech+OR+pharmaceutical+OR+medicine%29+%28site%3Aeldiario.es+OR+site%3Apharmaphorum.com%29+%28Europe+OR+Europa+OR+European+OR+EU+OR+EMA+OR+UK%29+after%3A2026-11-16+before%3A2026-11-19&hl=en-US&gl=US&ceid=US%3Aen",
-      "count": 0
+      "ok": true,
+      "error": null,
+      "count": 18
     },
     "global": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 16
     }
   },
   "items": [
+    {
+      "title": "GSK cancer drug approved by US regulators",
+      "publisher": "Financial Times",
+      "publisher_url": "https://www.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSW8yZDdnQ2F4X3FyRWlWUmpIZENEVnQ5NGFIMTVqZ1pnLUNacVRZTU92c29wYU1Ic2V6NjlBcndBZ216WC1VM1oydmhMZWxPWmQ2TTlSN0ZEWTJ0Vl9UUlExRjFxRVhCN2pFeTBObW8tREVJWWhVWk9wWVI3MGYyd2VmTWI?oc=5",
+      "published_at": "2026-11-17T19:04:49+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "Cosentyx bags FDA nod for 11th indication as Novartis looks to buffer 2029 patent cliff",
+      "publisher": "Fierce Pharma",
+      "publisher_url": "https://www.fiercepharma.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUFlycFRmd0tsZGw3OGxSd1BGUGU3VXR4V2RMUHJjUXBXNGtsNGJpSGJFYU9HN0VzWWJFeHM4YmJhT3BxSTlrLWNVdzZ2dUh3N0xxLVZ4SnRnMWxWbkJxZWZSR1FteFJRVTBmd3l3NEdjX2ZqREZuWERNMElwMTdhRy1yeUZmNFVQNFE5X1FGcWZlSWlGdDlkMERCWF9LNjg2WUxmSTY1cjk1UQ?oc=5",
+      "published_at": "2026-11-17T19:00:00+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "In Court | Stockport Drug and Rape: 'Special Serum'",
+      "publisher": "BBC",
+      "publisher_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB3UE1GeHlTOTlhSjhhNlFaSVo4RGhjTDZQbUFPbVphekJ4RE5kbkxtVUNHTXRlcHQzZFJjaEFRV0NaQWN4cFZTZ2dhRjZwSk9Q?oc=5",
+      "published_at": "2026-11-17T18:51:54+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "Stockport Drug and Rape: 'Special Serum'",
+      "publisher": "BBC",
+      "publisher_url": "https://www.bbc.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9JVlNLTXUwd0VpWThvOWNKSjlDTE1haEZCenBtUGVsV212NHZ0VmtjTUtaVDl6UlFCbHh5cVVHU3FJcEZ4SVJaUUhzXzZUN3ZUV2h3Yg?oc=5",
+      "published_at": "2026-11-17T18:44:37+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "GSK scores FDA approval for Nelkarmi, its 2nd lung cancer drug from Nuvalent deal",
+      "publisher": "Fierce Pharma",
+      "publisher_url": "https://www.fiercepharma.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUVpJYm1oclczRGVvMFVaTGwyREwtUF91Ni1FY3Y5eDhUUmFjclkzenZrMERveS1aaUxQdmVUeVNDSlRmTm5xOEl1QXVhVjdZQlFaSWFQWkZlMkNRUWVnT1owTmhfRDVWQnBHT25NcEw2N25FdlF1NXFsWEhmRHlFdmxKZG95SnQ5VGVOWGV1MVIxLUtmYkpna3lMeG92OE53ekF0djd3?oc=5",
+      "published_at": "2026-11-17T18:30:00+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "US FDA approves GSK's second lung cancer drug from historic Nuvalent deal",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWVhEaDZHcy1VazlpRl9vTmtGYk4wN25BRkZmY0RVNE81UTZOOHJ3TjFRcXJTZ1YtZkR0UzBDU0NhTHZ1LVk1WWFYUWNMeml2TlJjUVhEV1FoQnlac1FGQ3RzQW5DcDh3eWpsR0hyU0d4djBybzVqX0h1bm9DeWJoUkV0NzVSTmxLWmRVRmFtU1ZfS1FsN2c1SlVwQlNvMmIxUjVFSGRuTXFSZHZ5d0c2UDBVWVZhVk1jSUUwa2RmanZzdVU?oc=5",
+      "published_at": "2026-11-17T18:24:43+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "GOP, MAHA leaders clash over FDA nominee’s record on vapes",
+      "publisher": "STAT",
+      "publisher_url": "https://www.statnews.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeWtpSERtRGFGY001U0tKbUNhRTcxSzVZLVZlMWh0dDFWR1lNelV6X3R3NnR6ZjdkSVNObTJBSzRZS2Y4MHQ1ZEVIdkJzYkJLSEUxazlERjhlNldZOGN1S2cxV3NHaEd3TkdsSEpDdlBUYnZNSEhPMkJLSHZoYnpxN0VtTS1FZUpfdzgwbUxfd0xET19tZ3g2cDlWMEQzZXNQd2ZSQQ?oc=5",
+      "published_at": "2026-11-17T18:19:33+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
     {
       "title": "As an oncologist, I’ve received my fair share of thank you notes, but nothing like this | Ranjana Srivastava",
       "publisher": "The Guardian",
       "publisher_url": "https://www.theguardian.com",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVDhnWWlldkRIazZIMkhUSXB3TnotQ2k5eGoyUEFIV21IejUyMUNzaVFyWHJ1c0R2VEJhbEVVOVhxOHByYmNYQlROb2MtVHZINXJmdXpGVXVFTTk1VFV5U2dUOWRCR2RCaEJNVldlNWxmei04TElCXy00elAwaFI0VFFmOEh2bUl3RVZnM3B5QzhwQWJw?oc=5",
-      "published_at": "2026-11-17T06:24:00+00:00",
+      "published_at": "2026-11-17T18:15:00+00:00",
       "regions": [
+        "europa",
         "global"
+      ]
+    },
+    {
+      "title": "Sarampión en México: Gobierno reporta 14 casos activos y 11 millones de vacunas",
+      "publisher": "El Economista",
+      "publisher_url": "https://www.eleconomista.com.mx",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUmZYczkwUnJDOUxiSmhIV1dBTVAxaEkycnZmMWJ2YlNOZVBPUG9JM0gtZlA5TDYyam5XLVVsQ3piVVFFMDA4TnB6eHo1cE1nNFUzQjZ1MUxjOW5uV0toZmk5N1RfVTFQUnJ6dXRidGw0WlpJb2NzSlBETHAxOE1xVjVrN1ZrSmxZUUVrZ0N0S2RqRFpOY3Z5LUJUVmF5anpJaW83SlZZTU1tMElZanIwWkNuYUhRQmV6X1R1bXpxQTVfQURyYllfdld6eWHSAdIBQVVfeXFMTlE1MllHOVRPVElkcWdHdjlnVGRRNzczSTE2dXJqN2poY1pobzBDUlhFUWdaZFhiMElNQW1oUFRKa1gyMTBiOTRFcDJlai1Ra1RKdU9EdWJMYVNKSkpaTFltQlVlRE9TM09CTXkyMEZQZmJobGpDajNCUVdySGhDTi1IempLcFdvVWlGdTBXanpqb3Z2S0xHQ28zR0FkeERSb2xOSjRGV2N6TmtpNUdfZkRDaW5ndFA2RXpxSkJJOWk5bkVVaF8wWUVOa2RfRFpheGpB?oc=5",
+      "published_at": "2026-11-17T17:38:20+00:00",
+      "regions": [
+        "mexico"
+      ]
+    },
+    {
+      "title": "Vacunación contra sarampión reduce casos activos a 14 en México",
+      "publisher": "Milenio",
+      "publisher_url": "https://www.milenio.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUVVLbjNneG5VYklaSVNpQjlsYl9oMmlMY1lidVppS2JjUUVRN29RN0JzQThIaHVjemtrYlF2WDVnaUx3NC1iWjVRQU43SHdKekFhNDhnZ2E2UmhLWlhRam51a2lTcWFia21helpBeTVteWk1T2otM2dXYTJVb3VoQjhUVWVra056LVB4NzMyVkNtd0ppb09KZnc1blHSAZwBQVVfeXFMTjgzU1BPUjc3VHhVT0lnOFBaSGowLWI1V3NzbVhpRm40WGcxcTEzLVJBdXZWYzdyaEs1MXZ0Vmk5SFpGRlRhRkhiREQzUllSd2NSNzBRVVZQT1VoQWlDa01WSFFlMFo5S2hlaDdvRS1OVHZHMEMxU1V0aVJkYjkxbXkzQU0yQWw5dEZKLTdvYWIwTlpKZF8wd3ZMeW4z?oc=5",
+      "published_at": "2026-11-17T17:35:43+00:00",
+      "regions": [
+        "mexico"
+      ]
+    },
+    {
+      "title": "Roche breast cancer pill cleared by FDA",
+      "publisher": "BioPharma Dive",
+      "publisher_url": "https://www.biopharmadive.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQU2FvNEwxSG1HTGVRd0JpOXdqTjEwMXQtdGFQS2ZES2tKUUtobU9ENkxJbTdOMUN3TFJpaXN2VFp1T2dLeVdGZE85Rk5Ld1VKajNORENVSEdLSjRJX0FrTWxJZG90c1ZpX2NRMXM2aC15dXVOV0c1bjF4SnBON19XX2hxNGd1X0ZBa0Q2NVA2M0dNRS1jUFlXWnR2M09SZw?oc=5",
+      "published_at": "2026-11-17T17:29:08+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "EU, México y Bolivia pierden su estatus libre de sarampión, reporta la OPS; virus se propaga principalmente entre personas no vacunadas",
+      "publisher": "El Universal",
+      "publisher_url": "https://www.eluniversal.com.mx",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNRENjbHJMZXpadVFULUdxUnMxc0JkS2ZrRF9mUTVFenp6bGR3SXgyQUl0b2VETEhxYXZNLV90Z3lyTGhDUllzSFVUc0dYZnhhN2dmZjI0c3RzMnYyY1dWdFZINTlmX0Vwb2FsUGdHak5KZ0pJRFozd3ZsODhtWlFIbGhWbUVaMEhFTkVybURCR2Q0eEQteF9wZjNMbWUybUJCYjBtWmVSZFVJZFpsOFdIeHJfWXAzQkh1R3g5MGZHR0h2QmFwME8wOEg2eUVybjMtZ3h1WkZ2WmJLXzhGY3hJOWRrdk0zZmRfcUNadDhET2V1NDNpd2Mtc3hGbHBwTUpaZC1wQ2Fn?oc=5",
+      "published_at": "2026-11-17T17:24:00+00:00",
+      "regions": [
+        "mexico"
+      ]
+    },
+    {
+      "title": "Flagship opens biotech-creation outpost in the U.K.",
+      "publisher": "STAT",
+      "publisher_url": "https://www.statnews.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOckFBSWQtdVhNZ0FRXzlFR1R2VkFvZWs4VHBWc0xlbzRRYnYxNTFpUTBNS1E3bjFYeGdyWTVSeUo4TllKXzlxREpFejlrSGFxUUJUX2hKWFMtWURqZ3dMcTFnUU1MN014S2pIYUJ6eEd4cl94OVNFaGw0NU9wV0QzbmFOZnY0R3pRSG9HdVVHaEhqTDdIc2t3?oc=5",
+      "published_at": "2026-11-17T17:09:34+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "(VIDEO) Mujer con artritis reumatoide clama por medicamento de alto costo tras dos años en lista de espera",
+      "publisher": "El Nuevo Diario",
+      "publisher_url": "https://elnuevodiario.com.do",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNb3pKRWZKN3lDcEJTeWNjWGdaa2NWNEh0M0hFZG8zY1ZIeTRaYkMzVWpXaWNNU3FmUS1nbDNsTTR4SDBsVzZWNUhYajNkdWxhUnpPMDNUcEZRcmdPcnh1T3dHT19WdmZDcXJNWWt6TGhvQjhtUUMtS25mYWNld1pUdXNENHRsY2pobENiODVMX0N1V0VVeDNOWWpzWVk2QkVBcVdaa2c0Q3NCc09BZDZyaE1HekdJWkktOFJFTnNSOElqS081ZzdLcVBIenVDdFNHRGRxcHFn?oc=5",
+      "published_at": "2026-11-17T16:20:58+00:00",
+      "regions": [
+        "rd"
+      ]
+    },
+    {
+      "title": "AI drugmaker Isomorphic restocks with $5B fundraise",
+      "publisher": "BioPharma Dive",
+      "publisher_url": "https://www.biopharmadive.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQLUo0bFR6REVlQnZEOFNKRDBuN3VjYk9QVjVxRFhzcHN4N0c5emEyWEFTOUt2ZjVjVnA5WW1iMXlmWml4NGloWnJ4ZDlGbXkzemEwLXhJcFVCUDc5clpNcEZydkNqek94N290UkJIeFNvcHZDSG5wZDNUdFdiRkFoWTBDREh0bXd1TUtsSFJ2SQ?oc=5",
+      "published_at": "2026-11-17T16:08:58+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Viatris takes the wheel as Cadillac F1 team's new global pharma partner",
+      "publisher": "Fierce Pharma",
+      "publisher_url": "https://www.fiercepharma.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWExxa09zLXRNSVY3YlM3Z2h1UHR6b3FQc2ZTelpvUEN2cDlHaHE0RUNPcjNNZGU4SWJNbnQ1WGJoRnc5NkxLc1ZqUkdaNmJtcExBcGRFYTdKczRnZG14clByZ0pYNXFkT2w2Y1JxMEZXb2ZSSHN2WndUMkNMeGtHSEZwT2xNTG9IbkZ6dEhWR1N5ekM5YWRsVTRXbjFzT3JtRUIwcA?oc=5",
+      "published_at": "2026-11-17T16:08:00+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Roche’s next big breast cancer drug, Wilserdly, secures FDA approval as 4th oral SERD",
+      "publisher": "Fierce Pharma",
+      "publisher_url": "https://www.fiercepharma.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMnNLRjNiQUxlcDVYc1FFd2JtbFJ3cWVHSHVxa1ZNNFgzVHc4Y1ZsUnNSeXhzdjZvb2xmY0hhRGVsY3U0ZDd2bFlxbFo0cm8xdGl0M1hObzZZd09yajJhN25lSDBiTEwxSXd6QUh6OVdoX3c0ZUMyOW1mdTI5dkM2aWs2a3JSaWVRSVNxVGZYbTB1eVZhZV9JUFh2c2d5UW9NYUNPVmFxMzZBR0k0RTB2N0MwTHY?oc=5",
+      "published_at": "2026-11-17T15:50:20+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "US FDA proposes to withdraw approval for Salerno's cholesterol medication",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUTRKWjVOQnR5WDU4SS1Ob3RPYjhNN0twcGxwcFYwVkVxQlFQbUJzc1U5MFFtelY2WnA5Q0lFaEdBSm1QYm5CZVdlOUZsdXJ6cWxJRi1FLWUwT19rbEc3NTZCSnh1dGhzNmd2VXhZeUlEMUppazUyTnhrbGtaYU13S2ZRNGVFN3VCLTBOV0w1T05IWmpMc2M5SDdpYzRVVlEyY3NTNHpGQ0xkZU5vb0Radk5nS01jUktjMEE?oc=5",
+      "published_at": "2026-11-17T14:54:26+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Sellas vaccine extends survival in blood cancer trial, shares surge",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQa3FEUmx6RWVvS3AzWXBDaDZvTUdmdUo4RjlwWmlrdDEyYUxrNUxVVTFybndQRGExYVA5SWdmWndNZkJkR1pkcVdvdVVtX21qZjNsZUFfd0VnMnRTTjVRTEtVSGpsNHk5R0N5eHFxRlROQmpCYk1TdVl5bm9qZ1AySlVNN1lvUVZYb1FRUVdFWDVUZVJFcExyYWNVb3VQWjZNLXZSNGQyLW9TeEJqWTdWSFJ2eVd6R3VON29KclpPTEFBTk55akk2aQ?oc=5",
+      "published_at": "2026-11-17T14:54:03+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Pharmalittle: We're reading about a Roche breast cancer pill, obesity drugs in children, and more",
+      "publisher": "STAT",
+      "publisher_url": "https://www.statnews.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxObm82Z1hQcnowYmFaRU1zOWlocXVfZHE4YXZhY3JhQ3FOOXhXQ0lNZ3NRWHB1RWVPZTRBVnBGSGFnYUlsb0tuU3J1NC1HSGlzZG43elU4eDBWNnU5bFN4WVh6TDdfWEdYYW5Ma3BibXp1VndTUzQwNmNXWTBQV210TWd5bDlKS251NDBiWVFvUmhnaHNpMWprbklzOXVtdw?oc=5",
+      "published_at": "2026-11-17T14:29:35+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "USV chided by FDA over contamination risks at India site",
+      "publisher": "Fierce Pharma",
+      "publisher_url": "https://www.fiercepharma.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcVRzckduZElQQXUxT1UyeFdHRUtFX1VKUUp0WDlTSmtJczZCM3MzVUViZjdZTnN1ZlVlOS05ZkctY0p0ejNMVlE4OFpPYUppSmxET3FRbVV0cXUxdzN5Z0Nhd1JqRGw1OFQ3SzY5RkcxVENXZFRNdVBZWGR3QS1ZdUJGZDlVNEU3T1JFN3V2aUhpc2dQTjN5emRRbzYzNEVsNE5kMlhoUExhc1NQ?oc=5",
+      "published_at": "2026-11-17T14:12:50+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "The Biotech Growth Trust PLC - Net Asset Value(s) – Company Announcement",
+      "publisher": "FT Markets Data",
+      "publisher_url": "https://markets.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYUt5YjAyMVcybmRfbXZyZnF5VTE2aDVsWlY0YUpCd2dGcUZDUWNMU2Y5bW5GbXRWc215bWtaTXJ5VlE2MFlwZVI5MHBKRnpkRzYzZDRjUXVmWjNwSXlrNEhSQXpXTldudk5Fcm90V0lKeWttbEpVYnpEMTVvd1pZZ2FlYUJSYjkxZEVUclV1MG9TWlNt?oc=5",
+      "published_at": "2026-11-17T13:25:00+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "Marrow sets out to challenge genetic medicines for severe blood diseases",
+      "publisher": "BioPharma Dive",
+      "publisher_url": "https://www.biopharmadive.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOc001aHVsX21LMFhzaVpsQVJlWnFwbThSdUQwMktCVWpKQVVBeUwyYVBaSGdWa3FEaEdkQ195VlpLc3hJcTJscElqdVc3MkZFYlV1azIwYjBwMnppU2tyQWFWMVQ3OE9OLVFwT0tFUTdvUm9EVHhHMWxsNFlfY3VTREUzcDl2UTB1SHZkRkdKRGxOOU1RVHBfNjVFVmc?oc=5",
+      "published_at": "2026-11-17T13:08:57+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Encuentran medicamentos en el área del Aeropuerto Internacional María Montez",
+      "publisher": "El Caribe",
+      "publisher_url": "https://www.elcaribe.com.do",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQ2RfNkRBNUdIZ2J6cTFtWjNMMm9NamdVc3hRUkd1NnJBT0p2MkdiZHg4cGZtTDkzQVBiX01fdjE4eFdQT05TcUYxeGJJV1RFUWRUX0ZCQ3dZd1hCd1p4NkRyQmkwT1hubEhmakItaTdkOWJsTHNkZ29qU19GdHM1MVlxSGFNajhTUnVMZGtsTFZMUWUtQ0xLMGVROHZzYnA5RHFJczQ4M29WLTNJS0xtcTF2QXgtN1ppd0hZ?oc=5",
+      "published_at": "2026-11-17T12:47:33+00:00",
+      "regions": [
+        "rd"
+      ]
+    },
+    {
+      "title": "AriBio’s oral Alzheimer’s drug meets monotherapy goal in phase 3 as Fosun weighs licensing option",
+      "publisher": "Fierce Pharma",
+      "publisher_url": "https://www.fiercepharma.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUmktYmEzYTJteVh1QUhLSFh0TEVkVDcxMDdmaHFkWHNGTW9Dd0swTTMybnFYQWpFMUpia2w4WUhaUVZEYVAxcG9mNjhqTEl0aHA5U3o0Y3ZFVklJbGl6TGtnSTd5QkgzcjRNUkJONTJWczBQQlhVX0paSW5leVNLcnZNU3pqQlkxUHcyT1NsbFdwaXhDZ3RmcldVdHFGQ1hEcmpyR0QyZFhlUEJ4RHY5c3VmYVM5RTcxREwzTkJFeHlwZw?oc=5",
+      "published_at": "2026-11-17T12:43:00+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Karyopharm Announces FDA Acceptance of Supplemental New Drug Application for XPOVIO® (selinexor) Plus Ruxolitinib for the Treatment of Patients with Myelofibrosis – Company Announcement - FT.com",
+      "publisher": "FT Markets Data",
+      "publisher_url": "https://markets.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQ1NIdklnS3hIOU9OTTVmOWpVUTUtcTRET2o2cGM4MGhMelFVMWxOTmJTVjZiSk5uNnBLLU5wMFJzU0FtRk56dGRiamZtdWpldjdpdko3eEprb3Z3S0d2QmdIWERWQUgySGpVMTVpdXdNUmh4eklVenY5MDgxWmZreEUtS2RBZUpUaUFXNTkxbnRrQ2JNT2tIVw?oc=5",
+      "published_at": "2026-11-17T12:30:00+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "Sellas’ experimental blood cancer immunotherapy reduced risk of death in clinical trial",
+      "publisher": "STAT",
+      "publisher_url": "https://www.statnews.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeS0wYzFpWVF6bzNsZzRnWGlNYnFfWnQ0LWdXVi1lZGFUQlBhN2ZrNi0yMzZVQWY1Z2lzRnU3SHFveFh4ZVctVE83MkIwVFJJUFQtSGpRMTZvaWF0SnV1eDVadExIVHpmM1NiTDdkR1FodU9yQ3RWbmZyVlIteWpHX2daRTdFSGFnMHhJVE04d1ZnTjJqbDhGV0ln?oc=5",
+      "published_at": "2026-11-17T12:04:36+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "LSL PHARMA GROUP PROVIDES UPDATE ON STERI-MED PRODUCTION AND SIGNS AGREEMENTS FOR SEVEN OPHTHALMIC PRODUCTS – Company Announcement - FT.com",
+      "publisher": "FT Markets Data",
+      "publisher_url": "https://markets.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVVZMRGxDM29IRjZVY0hlVzA3ZjdNamhRUktMMjVsd29fSkRFZDVLR2VKcnM2VFNqWHJpTzJ2b3RIVUFrdGU5X1laZVJmQVJyYmUwVEVsYW1hd0pFTG9XTzlNUnloazZqTmp3aUt1SmEtNVZ2dXNZSG9MRDZYSXAtaTl4X1VmNmdycDJFeWk1U25sV3o5a0E?oc=5",
+      "published_at": "2026-11-17T12:00:00+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "Gunmen kill Costa Rican journalist who reported on drugs trade",
+      "publisher": "BBC",
+      "publisher_url": "https://www.bbc.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA4UDhoV2NPZjdBajRuTlkzMklZZnNMd2hmb1BwRTh5eHJWb0dWcTE4VWZ6cXlxbXkxeVpQQ0cxVXpJbVA1aTR4OXFINU1KMElXUnN3RUI1MHdSOXFVZFE?oc=5",
+      "published_at": "2026-11-17T11:58:16+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "Fearing Chinese Rivals, U.S. Biotech Adopts a New Norm: Share Nothing",
+      "publisher": "The New York Times",
+      "publisher_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOM0xxanh2N09mN29SWGxxaFhoZkNDa3lJMzNmY29DVzdFSWJBVDM2eFRqSXhoOUNtaWFLelRJNWtuUWUyWUl5TFBuVFNDZjdHUUJodmVYUFJXOS0wY0lPeHU4OEFBbGNDUTNXdXBBWmNYNnkxLXN4Zmpjc0JfX1A0ZUZVdlA1UkJBSlNnSFQwNHM3TzVhSXloeGwxSVhYWmRiQW1JdG5idDMwekNZVUNiODFhYw?oc=5",
+      "published_at": "2026-11-17T11:57:52+00:00",
+      "regions": [
+        "usa"
+      ]
+    },
+    {
+      "title": "Roche joins the oral SERD club as FDA clears Wilserdly",
+      "publisher": "pharmaphorum",
+      "publisher_url": "https://pharmaphorum.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZDFsUkZmc01HRkhJNUF5M2ljSFB1bE9SWEpVSXpkMmRjam5yWTcyem03OGxBT0o5ZU1yRVktSXdvYVpWN2RXb1YtZS1leDZ0dUxaZjl1bUNLeFdZNnlKOWVYSlhBSDJqQmdMc3hobDdWNS1lMUk3NzZCZTlPSmpwWGNHcw?oc=5",
+      "published_at": "2026-11-17T11:22:12+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "'Our son was murdered over a £20 drug debt'",
+      "publisher": "BBC",
+      "publisher_url": "https://www.bbc.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0UGhRSmZHUGFjZWhmSGJWcnZfWEt1blRXbkpyUE5BLUhVUm9iT01ILU41cXVtdWRCb1UyYlZCaldQRWg5RGRjV2VJeGUyLUFkNWZoSWxmNUxvV00?oc=5",
+      "published_at": "2026-11-17T10:10:28+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "Ascletis Submits IND Application to the U.S. FDA for ASC36_37o FDC, a Potentially First-in-Class Once-Weekly Oral Quadruple Peptide Agonist Targeting Amylin Receptor, GLP-1R, GIPR and GCGR, for the Treatment of Obesity – Company Announcement - F",
+      "publisher": "FT Markets Data",
+      "publisher_url": "https://markets.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTjhBS3cwelpMUTlzMGEtcndQWmE3WF9PZFVMQ3p4RjJpbGw1N1huREhDdHRMbEVjdlVnbWtGQ3NhRjdtS2tyTElyVW8yU1Rmb0R6VExoZnRxb1MxUUZ2RXh4NGVJcVhnbUh5cFB0M3VDdnB4U1VUdDNsMzQ5NzdUalk3b1lOMVNBeTJndkYzTG9VdWFZNHIwSg?oc=5",
+      "published_at": "2026-11-17T09:10:00+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "RaySearch software enables first conformal FLASH proton therapy clinical trial – Company Announcement",
+      "publisher": "FT Markets Data",
+      "publisher_url": "https://markets.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNS1JydEZ2WnlUTHJuNnYyUWRuNXh2cjJmZG5mR3B1cDJsU0xYc09Qcm9DejNJNDZmemJJQ2RvUWFoNmFuc2dJZzdpc0JRdHFIN3dtY1NIZEN6cGxoNks0SWtaZU9sS0dweHFaMzRqY1hTdkZMWkJudkJ3aC1Fa1Z2RWsxa1ZLM3lxMmxoaHE0TzlXdjBFT3N0MGVDWnMzQjY4OWZhQ0E0MGc0SElYd01hQWpId0hZTzFHS1FZ?oc=5",
+      "published_at": "2026-11-17T08:00:00+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "Una vacuna contra la indiferencia",
+      "publisher": "Milenio",
+      "publisher_url": "https://www.milenio.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcGMwZklBcF9vMkh4alR5N3l3R1VnUWdLamVJelZsRzhOR2RnaUo4LUtsMDczTlhuc1JVQTJSbzFHOVFzYTlTR0daOE9OQ0F3X19oQXZyNktzUHZOTVpCUVdEWXpCeEhtVXZSTDRMWDFBd01fUVM5QXR5ZnB2dmFISzJpdVBmSllERHFTMEJybk44M0s2RHfSAZYBQVVfeXFMUFNDV0g4QXl4aWU3d2lEaVh0d29DcGhCQnA4RUdMd2lid1BRY052bmR2c0tJemRHdklYbi1pTFlrbFp0V2R1SWxPNzZWOUFsRVEySVR3dDFCVkd2RVotcHFqMWNkTkRxNDBtQTBsZ0Q2ZHc1VWI2R1dPQ21Qb1RFWGh6c29LU2xyYno3RjB3Y0ZHRG1QMFd3?oc=5",
+      "published_at": "2026-11-17T07:57:20+00:00",
+      "regions": [
+        "mexico"
+      ]
+    },
+    {
+      "title": "The Biotech Growth Trust PLC - Half-year Financial Report – Company Announcement",
+      "publisher": "FT Markets Data",
+      "publisher_url": "https://markets.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVXFPaTU3WE1EOF92aGZiZkQydEM2RHE2ejJtNjdHS0xXcTZwdjl5MTZrRlp4M082cGQyX3F3ekNtX1JUUVE4d2E1OF9YWk1MWXNNU3kzV0otV3dxWXRjTFl0clZUUVE1YTdZMkI0b2N3UG5qYXczX2ZEeHlrWVMyckFUT3RrTnBscXlfUDk0Q1NzdGtk?oc=5",
+      "published_at": "2026-11-17T07:00:00+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "Vicore Pharma to Participate in the DNB Carnegie Nordic Healthcare Conference – Company Announcement",
+      "publisher": "FT Markets Data",
+      "publisher_url": "https://markets.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZ281eVphVVFla09zU2ROTGFzdFpsbVc5Z0FUd3kxZEJOcEdTY1dxQjBycVlNcjNIeG5feGFyRFVlWWVMVTF3di1NX3QzTThzSDJ2cDRmZ2FaMkF3ZkJvQjNLM21oWUt1RlZ6ZU11V25hWnBRaXlWTG9UTVc3dThFcG1UYkV0cDY4YllmVlE3WXNMQ0xPbVpCblNjOWFjV3ZrS2gyRlp5UHotUzUzWnJoUkxEUjRkenNGOFJZ?oc=5",
+      "published_at": "2026-11-17T07:00:00+00:00",
+      "regions": [
+        "europa"
       ]
     }
   ],
