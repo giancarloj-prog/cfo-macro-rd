@@ -1,7 +1,7 @@
 {
   "date": "2026-11-18",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-18T15:07:01+00:00",
+  "checked_at": "2026-11-18T15:12:41+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -26,9 +26,9 @@
       "count": 1
     },
     "fiscal": {
-      "ok": false,
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%28Hacienda+OR+DIGEPRES+OR+%22deuda+p%C3%BAblica%22+OR+%22presupuesto+nacional",
-      "count": 0
+      "ok": true,
+      "error": null,
+      "count": 1
     },
     "dgii": {
       "ok": true,
@@ -41,8 +41,8 @@
       "count": 1
     },
     "securities": {
-      "ok": false,
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%28%22mercado+de+valores%22+OR+SIMV+OR+%22puestos+de+bolsa%22+OR+%22bolsa+de+v",
+      "ok": true,
+      "error": null,
       "count": 0
     },
     "economy": {
@@ -51,14 +51,14 @@
       "count": 0
     },
     "economist_andy": {
-      "ok": false,
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=(%22Andy+Dauhajre%22+OR+%22Andy+Dahajre%22+OR+%22Andy+Dajuhare%22+OR+%22Andr%C",
-      "count": 0
+      "ok": true,
+      "error": null,
+      "count": 3
     },
     "economist_jaime": {
-      "ok": false,
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%28%22Jaime+Aristy%22+OR+%22Jaime+Aristy+Escuder%22%29+after%3A2026-11-10+befo",
-      "count": 0
+      "ok": true,
+      "error": null,
+      "count": 1
     },
     "economist_juan_ariel": {
       "ok": true,
@@ -71,13 +71,13 @@
       "count": 2
     },
     "economist_jose_luis": {
-      "ok": false,
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%28%22Jos%C3%A9+Luis+de+Ram%C3%B3n%22+OR+%22Jose+Luis+de+Ramon%22%29+after%3A2",
+      "ok": true,
+      "error": null,
       "count": 0
     },
     "economist_nassim": {
-      "ok": false,
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%28%22Nassim+Alemany%22%29+after%3A2026-11-10+before%3A2026-11-19&hl=es-419&gl",
+      "ok": true,
+      "error": null,
       "count": 0
     }
   },
@@ -95,6 +95,21 @@
       "economist_match": null,
       "searches": [
         "bcrd"
+      ]
+    },
+    {
+      "title": "Ramfis Trujillo: la matanza de Hacienda María y el trágico final de su vida en España",
+      "publisher": "El Nuevo Diario",
+      "publisher_url": "https://elnuevodiario.com.do",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcUhFR1YtNVJDOUw1NnY4Z3NKc3ZveG9HbUxVbXE4T2tqWTdsN1hXUVltZXFoYWNLM2pLWnNhczBCSWxfX0tKVE5nc0lJTXRla3JPQnh0Ql9LUHRTYk5MMEM0SG9sSjZrTENGUE5pMlpQTEZmOW0wLVVLQ0JzQVdqQ2xDcHdXVFZGbURxNWx6NjUtT2hDUGxIX0s4TzRHRFdBSFNGYVVNN3hLUFZKaVlQWGt5SDE?oc=5",
+      "published_at": "2026-11-18T13:41:07+00:00",
+      "topics": [
+        "fiscal"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "fiscal"
       ]
     },
     {

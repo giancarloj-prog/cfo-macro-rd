@@ -1,7 +1,7 @@
 {
   "date": "2026-11-18",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-18T15:07:02+00:00",
+  "checked_at": "2026-11-18T15:12:42+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -12,8 +12,8 @@
   },
   "source_health": {
     "rd": {
-      "ok": false,
-      "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%28medicamentos+OR+farmac%C3%A9utica+OR+farmacia+OR+vacunas%29+%28site%3Aeldia.com.do+OR+site%3Aelnuevodiario.com.do+OR+site%3Ahoy.com.do%29++after%3A2026-11-17+before%3A2026-11-20&hl=es-419&gl=DO&ceid=DO%3Aes-419",
+      "ok": true,
+      "error": null,
       "count": 0
     },
     "centroamerica": {
@@ -22,9 +22,9 @@
       "count": 1
     },
     "mexico": {
-      "ok": false,
-      "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%28medicamentos+OR+farmac%C3%A9utica+OR+farmacia+OR+vacunas%29+%28site%3Aeluniversal.com.mx+OR+site%3Aeleconomista.com.mx+OR+site%3Aelfinanciero.com.mx%29++after%3A2026-11-17+before%3A2026-11-20&hl=es-419&gl=MX&ceid=MX%3Aes-419",
-      "count": 0
+      "ok": true,
+      "error": null,
+      "count": 1
     },
     "usa": {
       "ok": true,
@@ -32,17 +32,39 @@
       "count": 9
     },
     "europa": {
-      "ok": false,
-      "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%28pharma+OR+drug+OR+biotech+OR+pharmaceutical+OR+medicine%29+%28site%3Aft.com+OR+site%3Atheguardian.com+OR+site%3Aeuronews.com%29+%28Europe+OR+Europa+OR+European+OR+EU+OR+EMA+OR+UK%29+after%3A2026-11-17+before%3A2026-11-20&hl=en-US&gl=US&ceid=US%3Aen",
-      "count": 9
+      "ok": true,
+      "error": null,
+      "count": 13
     },
     "global": {
-      "ok": false,
-      "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%28pharma+OR+drug+OR+biotech+OR+pharmaceutical+OR+medicine%29+%28site%3Atheguardian.com+OR+site%3Astatnews.com+OR+site%3Afiercepharma.com%29++after%3A2026-11-17+before%3A2026-11-20&hl=en-US&gl=US&ceid=US%3Aen",
-      "count": 13
+      "ok": true,
+      "error": null,
+      "count": 16
     }
   },
   "items": [
+    {
+      "title": "Bristol's schizophrenia drug helps Alzheimer's-related psychosis symptoms, preliminary data shows",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbzFyVHJ2Njd6U0VwQnJsWkFrUGUtSlVsWHVHd2JuVjhVbVJxaHQ3X3N2bUszYjBnLVJ4ckVyVms3MVpXOGgyQkZnTVB3YTZndkRYcnJ6QVQyWHRDNnRTZXNrVlhUR0JEM29MSFp0WUM4M0x6UWpoclRjQVlfazhnaklXd2pzbkw1b3QyRzdIMTZTQmFGQy1HcHNlWGFaOTFPVmFQR0pvVE92b0pqVEotRExQUWVOeVRnZWxTdjYzbXpKMWd0ZzdPcGdLUnpQZzR4V19iRnlXQzdTRkU?oc=5",
+      "published_at": "2026-11-18T15:06:12+00:00",
+      "regions": [
+        "europa",
+        "global"
+      ]
+    },
+    {
+      "title": "FDA publishes rejection letter for Summit drug; Nuvalent buyout pays more dividends for GSK",
+      "publisher": "BioPharma Dive",
+      "publisher_url": "https://www.biopharmadive.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQLTJOcjU4QUNMWlVIRDAzT3J4Y1VqeEhLajR0M1JxSHhHeldUNGV1aWhTc2tIQTcwMDNrR3dNX2xydzlRTkk2V2tqNnp4VXFuUVd6VFRKU3JHNldTSHluNEVLR05XZ1Y2MlVuSEdxcXJ1ZXluanpTMnN2U3Z6OWczNm4xYl9GTDRWcDRrSzFwbHFRblYwc05iTWI5YWJYTTRE?oc=5",
+      "published_at": "2026-11-18T15:00:00+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
     {
       "title": "FDA moves to yank Salerno's liquid cholesterol drug approval on missing reports",
       "publisher": "Fierce Pharma",
@@ -71,17 +93,6 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaGE3Zm45bjB1UjlPSDcwNVAyME1JQlJpbVJDaXhUenZ4ckZFeGttOFhicWdJUFc4WGRDR3pvN3JPMTlHQVp6Y0Jzd2VCT3FlZHNYUU1OXzlVbW5BZzJ2TURWamVaWnhsYnoxQTFVUUhtbnFISUNaeGUxQ0tvVmFUVWVpa1c2T2p2V2VKbzBOZlJITlVnLVZBWXc1dzRMdw?oc=5",
       "published_at": "2026-11-18T14:39:37+00:00",
       "regions": [
-        "usa"
-      ]
-    },
-    {
-      "title": "FDA publishes rejection letter for Summit drug; Nuvalent buyout pays more dividends for GSK",
-      "publisher": "BioPharma Dive",
-      "publisher_url": "https://www.biopharmadive.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQLTJOcjU4QUNMWlVIRDAzT3J4Y1VqeEhLajR0M1JxSHhHeldUNGV1aWhTc2tIQTcwMDNrR3dNX2xydzlRTkk2V2tqNnp4VXFuUVd6VFRKU3JHNldTSHluNEVLR05XZ1Y2MlVuSEdxcXJ1ZXluanpTMnN2U3Z6OWczNm4xYl9GTDRWcDRrSzFwbHFRblYwc05iTWI5YWJYTTRE?oc=5",
-      "published_at": "2026-11-18T14:39:12+00:00",
-      "regions": [
-        "global",
         "usa"
       ]
     },
@@ -177,6 +188,16 @@
       ]
     },
     {
+      "title": "¿Y si marchan contra el desabasto de medicamentos?, escribe Raudel Ávila",
+      "publisher": "El Universal",
+      "publisher_url": "https://www.eluniversal.com.mx",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWG51bHRLQ3Z2ZTlyd2thQ1NqVUF5cmoxMkRIbHRnc1dHZjdTQWRLTzJHa0NVM2NCWC1HVXlqMVR0SkkzemU1T1h0MElFZTl5d3hUOUxrS1NpVEJiM3lCZ1NXTGFCbU9WWWo0ZDhEeXNLM0J4c05IdFNDcWtuSFN6Smgxc1dlVkx5UThETV9XSlMyQUt5TEt1eGxHTkNOaVRiY0xR?oc=5",
+      "published_at": "2026-11-18T11:39:00+00:00",
+      "regions": [
+        "mexico"
+      ]
+    },
+    {
       "title": "White House drops Heidi Overton pick for FDA chief",
       "publisher": "pharmaphorum",
       "publisher_url": "https://pharmaphorum.com",
@@ -193,6 +214,7 @@
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZWk2VGV4VXcwZGRrRnRVVDlBODRIT1RZTUVWZUc1eThENDVfRFN3Wk96SW5wM0g0RjhBcjlITlBFQlIydW5nV1dlX283MVdpQUlRakZ0Y25WM2pNdW5qMWVTQXNPcFZYZ2w4bm9BYXc4X3FDNE1EdjY4TTFGbkZ1RXJKcEY?oc=5",
       "published_at": "2026-11-18T11:00:05+00:00",
       "regions": [
+        "europa",
         "global"
       ]
     },
@@ -258,6 +280,17 @@
       ]
     },
     {
+      "title": "AFL suspends Tom Papley after second drug test confirms presence of cocaine and MDMA",
+      "publisher": "The Guardian",
+      "publisher_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOa0Z2T3ZTTEktSWxsZnhua1JYS1dfeEJIc2hpUzBLQXhDLTVuc3lWZXNzSnJKZ09VS3pDUjlsZVRsaE9HbUNTdlpCcDk2SzMyVkVTTmExbktia1dEeWJMMjlUbEsxRThvcnNQTW5hX3RpTHNpZnJveUFXQ1hxdXkzUGktcDE3bjNYNzItMGpKRE5saHlrbTMzSldUaHpYbzlOUjlXYm5oLUpuTmV6cURmVVZ3V0NZUnlM?oc=5",
+      "published_at": "2026-11-18T07:31:00+00:00",
+      "regions": [
+        "europa",
+        "global"
+      ]
+    },
+    {
       "title": "Innate Pharma Presents Initial Phase 1 Clinical Data for IPH4502 at ENA 2026 – Company Announcement",
       "publisher": "Financial Times",
       "publisher_url": "https://markets.ft.com",
@@ -274,6 +307,7 @@
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNTZnSXFQbnA1bTFrWUZHbGFneXhZSDFocWhaS1RuajhycU9LUVFhQkNmcldOQWdZamdqWFpXVVBPMlV0ajdJUW1IaW5BSmxwaXRjN01zR3dnSmlwd294clY5cGtHUF9vYVppa3AtdGZtclAxOW8zaGlRRjdBRVlSZUZmRGpGMUlxVFJJSS0taUFhZw?oc=5",
       "published_at": "2026-11-18T07:19:33+00:00",
       "regions": [
+        "global",
         "usa"
       ]
     },
@@ -295,6 +329,16 @@
       "published_at": "2026-11-18T05:49:00+00:00",
       "regions": [
         "usa"
+      ]
+    },
+    {
+      "title": "Europe faces growing threat from drug-resistant superbugs",
+      "publisher": "Euronews.com",
+      "publisher_url": "https://www.euronews.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcDVUaFBWLXRqTDJ1T1FkYmFrUnhmcWJkRVBPVjJfbXNuMDhDVWtid0JPUWtjNnVSQ05kNno0dTBmaS11eVhuekZvQmpGUXhMcTNnUkVLM2xOZmZsUVlsNGxwZkxsVkM0UDhfaGJyOFdrUC1HZWJkUWpQZFNVQUNTSklfZ3FkTnlTWVRkWG9TMDdnMEl2aHg5T1VfYl9tQ3FxY3RxY2FUZmZNcWJES2ZPbXNIRDBnU0phZ0w4eklONk9MemYx?oc=5",
+      "published_at": "2026-11-18T05:00:17+00:00",
+      "regions": [
+        "europa"
       ]
     },
     {
