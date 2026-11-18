@@ -1,7 +1,7 @@
 {
   "date": "2026-11-18",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-18T15:12:41+00:00",
+  "checked_at": "2026-11-18T18:53:52+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -23,17 +23,17 @@
     "bcrd": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 2
     },
     "fiscal": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 2
     },
     "dgii": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 2
     },
     "finance": {
       "ok": true,
@@ -43,17 +43,17 @@
     "securities": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 1
     },
     "economy": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 3
     },
     "economist_andy": {
       "ok": true,
       "error": null,
-      "count": 3
+      "count": 4
     },
     "economist_jaime": {
       "ok": true,
@@ -82,6 +82,117 @@
     }
   },
   "items": [
+    {
+      "title": "MICM y AIRD advierten que el comercio ilícito amenaza la seguridad nacional y la economía dominicana",
+      "publisher": "Hoy Digital",
+      "publisher_url": "https://hoy.com.do",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPc251eDhSRnFOb05ENEY3TW96azRJRFVVeldfQ1dUcXlQVEowUEVqRXRzTnJhWHRfbHhuY1FLakNheFVRdjJpN2tjcTJQS2E3eDA1S2tEVVNBaE8ySU41OXhuYVNRcHRWY3lYNEQyMVo5Qnh0OGQyLVFDcWtxX19qQi1abnZFRS12WEhxUGM5ZFFmTjJpckV3bDM3TGJUcUxpeEJpaW03YWszUGUtZUhyWGZDNHV6QlpEaV9Nc1V6Mk5vd9IBxwFBVV95cUxPcnBtdnRhN3E4WmhFYlplMjdEVTQ3TS1FRUtTYzNQeXZJZ0tqdE1NQ0k5ZVp3N3VPbUhyWlcwLWxaMEpKTWxuTVVzLWE3OW8tV0tfZ2ZDZ1V6bEU2LWRkMWoyTjNDc01ZUDdnZ3NONUtGSHMzcXZzTlBqMUdtVGtNMHFyanc3ZVJJZUt0MEZEazlZTmNkdDgtWnozbWs3YnRHbnY5X1FaeFF3RWtiSGs5a2lNVVZwQ09tSWRYNko1aHVtSXBVbzZN?oc=5",
+      "published_at": "2026-11-18T18:02:13+00:00",
+      "topics": [
+        "economy"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "economy"
+      ]
+    },
+    {
+      "title": "Directores de Aduanas y DGII consideran que no es viable fusionar ambas institucione",
+      "publisher": "eldia.com.do",
+      "publisher_url": "https://eldia.com.do",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYlR0SGYyZE40OXVhWEdHUEFKcF9Oa24zaUhTeHB2VjU4S082aVQtLTJ0YWFkSDAxN2hGRnpQeDFRVUdYVlU4YlFJYlVNVWx2Wks0QkllNXdEU3E5UGhPUGx4NW90UXVCRlpGY2owRlFxODJDMVBNQ2ZhSlJjVm8teWxHaDZCREJETnhpU0lhYXVIQ3JpRUxXSzBJcUUwNTdPUHZnWlhoSHVCUQ?oc=5",
+      "published_at": "2026-11-18T17:54:40+00:00",
+      "topics": [
+        "dgii"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "dgii"
+      ]
+    },
+    {
+      "title": "Facturación electrónica: DGII excluye a colmados de la obligatoriedad de implementar el sistema",
+      "publisher": "Hoy Digital",
+      "publisher_url": "https://hoy.com.do",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZFJUMlEyMU9JR0FDNkFuMXdhaTFwYXpweVl6SURHUkRjY0NObWdVLTZEYVM4U3l0RjNzSzFJVDBJRkR6VXNseGhBb0I0cXV6bXR0OGpGWHdOX251Zk9ZSjFIejdyVXJ2VmVEc3JWTzVsb09FdXlrRUFQdUhKczZkVlp1NUNtb2ppaVNYVENXeGF3ZnZIT012RXg3YUhYVWZ6WGNETklVSVTSAagBQVVfeXFMT2RSVDJRMjFPSUdBQzZBbjF3YWkxcGF6cHlZeklER1JEY2NDTm1nVS02RGFTOFN5dEYzc0sxSVQwSUZEelVzbHhoQW9CNHF1em10dDhqRlh3Tl9udWZPWUoxSHo3clVydlZlRHNyVk81bG9PRXV5a0VBUHVISnM2ZFZadTVDbW9qaWlTWFRDV3hhd2Z2SE9NdkV4N2FIWFVmelhjRE5JVUlU?oc=5",
+      "published_at": "2026-11-18T17:15:25+00:00",
+      "topics": [
+        "dgii"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "dgii"
+      ]
+    },
+    {
+      "title": "Exportaciones de empresas lideradas por mujeres alcanzan US$ 2,758.4 millones hasta septiembre",
+      "publisher": "Acento",
+      "publisher_url": "https://acento.com.do",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdXlmX1VIaXc3NG1KQTJ0QXRfbHlpS20tVmpJdTNuZjJuNndxMEllZG95T29MMzNzbXFUajBDeE0wak9zWnNuc205RkgyX2s3ZHZ3elp5N2FPSzQwVkZ3WTZPSUpuczBNdEhVNzRqWW5HeFBhZF9OX2diOE92NWlVQTBYUXJUV0w1Y2lQZFI4dlNqenJvb05nN2JiRTQtZU5LUUpXQ1dQRFJ2ZlpPTG9RUEh5N1FxMUYtS2lZeUxla2FaMmJFZFNFTmZlNk9PWFZSdkHSAdIBQVVfeXFMTXV5Zl9VSGl3NzRtSkEydEF0X2x5aUttLVZqSXUzbmYybjZ3cTBJZWRveU9vTDMzc21xVGowQ3hNMGpPc1pzbnNtOUZIMl9rN2R2d3paeTdhT0s0MFZGd1k2T0lKbnMwTXRIVTc0alluR3hQYWRfTl9nYjhPdjVpVUEwWFFyVFdMNWNpUGRSOHZTanpyb29OZzdiYkU0LWVOS1FKV0NXUERSdmZaT0xvUVBIeTdRcTFGLUtpWXlMZWthWjJiRWRTRU5mZTZPT1hWUnZB?oc=5",
+      "published_at": "2026-11-18T17:00:40+00:00",
+      "topics": [
+        "economy"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "economy"
+      ]
+    },
+    {
+      "title": "Albizu recibe visita de ejecutivos de Scotiabank y destaca robustez del sistema financiero dominicano",
+      "publisher": "El Nuevo Diario",
+      "publisher_url": "https://elnuevodiario.com.do",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxON0JoNmtSSllGS1FfbnJBaGJlcTBFekVtdkdPZW94bWpuemhoSUZ4cy1TeTFUMU5BTFBsQVpZV1ZEV3IwdDVna3BGRE5SOEdFTy1KVllBdmdQYUhlTkNiWHRqQ2FxNjdkRVJNMXdaN1lua0Q0YVVmV0htdGJqa1hIVnBubG1nMEl3QnUtVU9PSElJX3VXR2IyVkVJU09TcUE5c09LLWI3VDRwWjZpWUdoWkN2Ymw1OU5ZU3N1MHpYMHJNem9JTXZQVmUwTQ?oc=5",
+      "published_at": "2026-11-18T16:20:27+00:00",
+      "topics": [
+        "bcrd",
+        "economy"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "bcrd",
+        "economy"
+      ]
+    },
+    {
+      "title": "Gobierno pide elevar déficit fiscal a RD$ 365,968 millones y suspender regla de responsabilidad fiscal",
+      "publisher": "Acento",
+      "publisher_url": "https://acento.com.do",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZWxtQ0RNMFV6TVJaRmhlT1dyc3Q1d1Eybl9ZQ3FhQnRfcFRmWlAwdU1sNzNMSzBGeVpRNS1fSnZraVlCOF9VNTQzeTF4d3lERldBSWR4MzM0SklzeDF4Wnd1RnNaaFgyUmc5UENKV0paRXk2cTVUT3N3cGIzT2gzbk1wbXZVUzVkckl3M3FFSmNTSmwtV0lqcW0wbElCMG9fVmRNR2RYNUVwM2huUWVrRjFRcUw5WlctQl9xUVQzQ3E2NDlWTVFYMEFQX1VsejU4U1lzQkpRV3FSa3Nh0gHcAUFVX3lxTE5lbG1DRE0wVXpNUlpGaGVPV3JzdDV3UTJuX1lDcWFCdF9wVGZaUDB1TWw3M0xLMEZ5WlE1LV9KdmtpWUI4X1U1NDN5MXh3eURGV0FJZHgzMzRKSXN4MXhad3VGc1poWDJSZzlQQ0pXSlpFeTZxNVRPc3dwYjNPaDNuTXBtdlVTNWRySXczcUVKY1NKbC1XSWpxbTBsSUIwb19WZE1HZFg1RXAzaG5RZWtGMVFxTDlaVy1CX3FRVDNDcTY0OVZNUVgwQVBfVWx6NThTWXNCSlFXcVJrc2E?oc=5",
+      "published_at": "2026-11-18T16:00:12+00:00",
+      "topics": [
+        "fiscal",
+        "securities"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "fiscal",
+        "securities"
+      ]
+    },
+    {
+      "title": "Dauhajre: la reforma impositiva debe ser lo más sencilla posible y llegar después de un recorte del gasto",
+      "publisher": "Periódico elDinero",
+      "publisher_url": "https://eldinero.com.do",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSTVtdHlSeXlhd25CNlNyQU41Qk1xQUVsQUZzVnBrSnJaR09EMlBYZ01oYktQWEFJQUxianJFbmQyLVlhcGtfZTZvdzNvbmZKb2dteWFZeVZPRW5CSTY2SmJMZ0dId01fdHpYVXBtcDJRNXFPaGVfUWNiUmxscU1QOWd4NEVPb20tOTJFcExUSmRkb2Zicjcxby14bXhCMFZCUUFhS2FUMGxpUzFjbThvNTBMb2lsSzNiTTkzRnlubXJTNnBIRGhlN0gwSDN3LXpWelE?oc=5",
+      "published_at": "2026-11-18T15:24:36+00:00",
+      "topics": [
+        "opinion"
+      ],
+      "economists": [
+        "andy"
+      ],
+      "economist_match": "search",
+      "searches": [
+        "economist_andy"
+      ]
+    },
     {
       "title": "Más allá del relato (I): El tablero económico y social para medir a los gobiernos (1996-2026)",
       "publisher": "El Nuevo Diario",

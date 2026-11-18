@@ -1,7 +1,7 @@
 {
   "date": "2026-11-18",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-18T15:12:42+00:00",
+  "checked_at": "2026-11-18T18:53:53+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -14,7 +14,7 @@
     "rd": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 3
     },
     "centroamerica": {
       "ok": true,
@@ -29,29 +29,119 @@
     "usa": {
       "ok": true,
       "error": null,
-      "count": 9
+      "count": 11
     },
     "europa": {
       "ok": true,
       "error": null,
-      "count": 13
+      "count": 16
     },
     "global": {
       "ok": true,
       "error": null,
-      "count": 16
+      "count": 6
     }
   },
   "items": [
+    {
+      "title": "An Unspoken Rule Spreads Through Biotech: Share Nothing",
+      "publisher": "The New York Times",
+      "publisher_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOM0xxanh2N09mN29SWGxxaFhoZkNDa3lJMzNmY29DVzdFSWJBVDM2eFRqSXhoOUNtaWFLelRJNWtuUWUyWUl5TFBuVFNDZjdHUUJodmVYUFJXOS0wY0lPeHU4OEFBbGNDUTNXdXBBWmNYNnkxLXN4Zmpjc0JfX1A0ZUZVdlA1UkJBSlNnSFQwNHM3TzVhSXloeGwxSVhYWmRiQW1JdG5idDMwekNZVUNiODFhYw?oc=5",
+      "published_at": "2026-11-18T18:06:00+00:00",
+      "regions": [
+        "usa"
+      ]
+    },
+    {
+      "title": "Medicamentos sin registro sanitario se comercializan por redes sociales y consultorios médicos",
+      "publisher": "El Dia.com.do",
+      "publisher_url": "https://eldia.com.do",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQc0F4RnVxSl9CM1BTamFkYUt3X0JDeDJHNUt2MUFpdU1jcVF1M3l0WEJ1Y2ZSUWU5bDJ4b29TU0dYMFN0UGJ2S0ZYdHVBZXRlbWlWWnU4MDd0UmJySkM4TEdpZldSR3NhSlJHU3BjQk5lS0ZhcUhjakI2QUlhRy1PMDJvMmdDZ19ZeG1nZ0ZJR0RpQ2J3dGhfUXpUT0Q2N0NFUE5SY3RVUlZfVFAzWHQ4YmRRTVgzdWs?oc=5",
+      "published_at": "2026-11-18T17:54:40+00:00",
+      "regions": [
+        "rd"
+      ]
+    },
+    {
+      "title": "Farmacia Carol comparte los detalles de la novena edición de su Feria de la Belleza",
+      "publisher": "Listín Diario",
+      "publisher_url": "https://listindiario.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQkhmaGpuSmF1UkVSSGVlWEVySlRzYWJhUHhVc3VCd204bElHMzc1TndPenJKNmpuOElJTE1WdFJnZ3oySEd3ZFkwaUpKOTVtQlEyU2dFQzVGc3BLQ080OGZ4dnZGTHNLYTJBU0xVUVM3YVJRa0trZXRnbC1rVlpfNF9aSjNSbUJjTkhlb29YVkxobWEzOXlENWZPLXY5clNVc3YyaktPT3N4cU1mU3l1NmUxWldueTBIcFVGT9IBwgFBVV95cUxPajVNcjJWVlc4eTNwTjZRcUExSTB4a2JRSlZGWUV1a3I3RUs4ZmRRTjhZMmZfZzNoclBIa0dpRXAxYU1NTHFlN05VNUVXN1JCRnZZUGZiTUxXSDVuRkhfU05tNDRMQU5TazJKb3Q3eEtTVy10OTI1YjVwTWxXeHlHQlI2RVlqU3pSMGY3cnU3WWpvd1ZlbmFxWlEzRFp6ZlBldnBqakZsWGFUeFVCTTdpc1J1d1VvSEpveFBPMENydUtPZw?oc=5",
+      "published_at": "2026-11-18T17:23:46+00:00",
+      "regions": [
+        "rd"
+      ]
+    },
+    {
+      "title": "White House pulls nomination for FDA nominee Overton",
+      "publisher": "BioPharma Dive",
+      "publisher_url": "https://www.biopharmadive.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQ1l6TXJ2eFVoaHZIRm5CRERkN0FVd2R1R3hwZGloQU9tVEZhQ01xQnhLX3VoVW9DeTZDdXBwWUZQWDhLeFA2elFla05VdDNOVWFEbUwtWEJGV2RXYklBS2Nld2lJSmpyMFN3aGFjM0VnbHVRMlNDNi13dHF6dm1xa0RiODFpSG1meTF2bVhxLWUyNDN4QlJDOTVnLU40bGE1VHRDYlR3Zng?oc=5",
+      "published_at": "2026-11-18T17:13:19+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "How Virtual Cells Could Transform Medicine",
+      "publisher": "The New York Times",
+      "publisher_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE96alR0UGdHdEs5VjdQb1RubTVlMklNY2FTLVVTLWpvWU9xSVVtNktQRFZZeUNTLXVxVU41VlFMclhMN1RqeUxvVlNZbDBrSENpY1JiVHFuSnVnRUlYZFd5T3o1dFRaWkp0eEZocDloN3h0SFQyeDVmSDhn?oc=5",
+      "published_at": "2026-11-18T16:53:46+00:00",
+      "regions": [
+        "usa"
+      ]
+    },
+    {
+      "title": "Beren clinches long-awaited FDA nod for cyclodextrin drug in Niemann-Pick disease",
+      "publisher": "Fierce Pharma",
+      "publisher_url": "https://www.fiercepharma.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOV211WjVwQ3ZEcE5ETFRRel90em05bUk0a2JGZFg5VjlhWTdwVlRxbWhJMmdKRTdKWEQ5cmlkTDl6UW9NeTA1YW1WUHhXTUF3eWVoYjNMdDFQVFNiU0dIcDdxWVp3aXRMTURIYXZVTWxTbC1xVWh4bUJWTnN6NGZWcHgxVng1cXMydW1OQWV3UUFVUGVKV1hr?oc=5",
+      "published_at": "2026-11-18T16:37:36+00:00",
+      "regions": [
+        "usa"
+      ]
+    },
+    {
+      "title": "Study says 'Viagra-like' drug can slow Alzheimer’s",
+      "publisher": "BBC",
+      "publisher_url": "https://www.bbc.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1DSGQ0Q2EtWUFpWllodlQweTVnOF9GcS1HT3NXVmRZQi1uWFNsLVFfcGlHZjJHVjNCcVAwWTFBZllMRU5rVkxkYmdwYkNvSkJCMDhSaQ?oc=5",
+      "published_at": "2026-11-18T16:29:46+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "Farmacia Carol rediseña su área de belleza en Churchill",
+      "publisher": "El Caribe",
+      "publisher_url": "https://www.elcaribe.com.do",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORzNHN1VtMlNnMXhxYUpBYnhNallRbEcwUWQ3OUNvVGpnX0FsQjlCQ0VobmZZU0tNZ1g4djBicVlMUk5rWHZ4X2VSa0R6SGdtMFE2YXlQVmlSZWdfQlAxMzhNSnVQS2tOdEh6a0xodHNKbjhnVTBTQVRLZ19HNzhSaG1nN0JSSUNhcmhMTVRZc0pxV2ZTbjVlLW9TNUw?oc=5",
+      "published_at": "2026-11-18T15:29:39+00:00",
+      "regions": [
+        "rd"
+      ]
+    },
+    {
+      "title": "'Our Son Was Stabbed Over a £20 Drug Debt'",
+      "publisher": "BBC",
+      "publisher_url": "https://www.bbc.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWmMzUnRqMDgyNVN2UDM0T29oR2lRZ294aERDaVUyMEQzQWk0N3c1N0EyUS0tV2VTTHZmWGUxWE5JS2NsYnBkb3RJN2EybFBMaGlaWUJQOTZLRDZlZTJzNklsZUtWY3JmZ2dNNEpKc3Zqb0FZNXd5SDhqeHBManRRZkswNzVVaWktRTRVUVNQWjY?oc=5",
+      "published_at": "2026-11-18T15:28:49+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
     {
       "title": "Bristol's schizophrenia drug helps Alzheimer's-related psychosis symptoms, preliminary data shows",
       "publisher": "Reuters",
       "publisher_url": "https://www.reuters.com",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbzFyVHJ2Njd6U0VwQnJsWkFrUGUtSlVsWHVHd2JuVjhVbVJxaHQ3X3N2bUszYjBnLVJ4ckVyVms3MVpXOGgyQkZnTVB3YTZndkRYcnJ6QVQyWHRDNnRTZXNrVlhUR0JEM29MSFp0WUM4M0x6UWpoclRjQVlfazhnaklXd2pzbkw1b3QyRzdIMTZTQmFGQy1HcHNlWGFaOTFPVmFQR0pvVE92b0pqVEotRExQUWVOeVRnZWxTdjYzbXpKMWd0ZzdPcGdLUnpQZzR4V19iRnlXQzdTRkU?oc=5",
-      "published_at": "2026-11-18T15:06:12+00:00",
+      "published_at": "2026-11-18T15:09:32+00:00",
       "regions": [
-        "europa",
-        "global"
+        "europa"
       ]
     },
     {
@@ -76,17 +166,6 @@
       ]
     },
     {
-      "title": "Congress’s Top Doctor Resigns Amid IG Findings of Lax Drug Handling",
-      "publisher": "WSJ",
-      "publisher_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNR0kzd29fdzk5QVJNbFY5ckduWmU5NGdHMDNFTVpJVTZ5VU9VVXVJcWpxWVE4VnIwdHZ4OUs1cGpxTTcwZDVCaDNncDFQWHhQSFl1ZTJjZHY0ampKWkJuUVFKbjNzd0N5SjF4WDZQcnhhdVFLYUVwVFhsd2Z5c3FvbHBnWm9ST2xZTkxobUVESDBmSDZacHhSUg?oc=5",
-      "published_at": "2026-11-18T14:45:46+00:00",
-      "regions": [
-        "global",
-        "usa"
-      ]
-    },
-    {
       "title": "FDA discloses reasons for rejecting Summit drug",
       "publisher": "STAT",
       "publisher_url": "https://www.statnews.com",
@@ -104,16 +183,6 @@
       "published_at": "2026-11-18T14:29:35+00:00",
       "regions": [
         "usa"
-      ]
-    },
-    {
-      "title": "British cancer drug developer Ellipses Pharma considers London listing",
-      "publisher": "Reuters",
-      "publisher_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYVlmMEpxVDhBVkxPLXZweTNNQnduX1BXVVhoX2N0SkJKcDJQMVUtaGZEaFNfeWpWWmttejRDMGxfdmFjYy1lQVVZNElYRGJTaU1KeHVtWWcwUjBkb09UNTJiMFdBSmhKeWhMLWg4YWE4OHV1d1A0MmRubDRKWmlRS216OHU0N1Nmankyc3B4NWVIb1FUazZrSVRRWFg0VVF6SnV2MC1NWUd4T2xHcGtIWFNrVFh1TlVJY0RVTGhfWkRhYWc?oc=5",
-      "published_at": "2026-11-18T13:52:23+00:00",
-      "regions": [
-        "global"
       ]
     },
     {
@@ -143,28 +212,7 @@
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5MaWZsX2VfTzBLVERCYmlTdG9VMFRUUHBCUE5VdENuamt5aktOTXkwd2xmcGlxb0NzX0pLek9Mdjg3WGkycXMzSkR0dl95MUpqZDlDWGZCTnQ1N2c?oc=5",
       "published_at": "2026-11-18T13:35:09+00:00",
       "regions": [
-        "europa",
-        "global"
-      ]
-    },
-    {
-      "title": "The Biotech Growth Trust PLC - Net Asset Value(s) – Company Announcement",
-      "publisher": "Financial Times",
-      "publisher_url": "https://markets.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTG5uRktPd0pPMlFQUHAxRVRPVmZYaWFBdy0zSFRPV0Q1aU5hdkJDaE9VRThHRHZGYzhEN0VRWXd4c0E4YzlQY2VFekYwSndDM0QzdVlpaF9Cc2g3SUtBWmw2V1JuTVdOS0hOS1JNSldDWl91cVg0U1VfdW1MNzgzZUh0azc3TEFDLXBHQV91TWpaaUhY?oc=5",
-      "published_at": "2026-11-18T13:16:00+00:00",
-      "regions": [
-        "global"
-      ]
-    },
-    {
-      "title": "Andrews Research & Education Foundation and Vector Science and Therapeutics Announce Collaboration for the Clinical Evaluation and Development of Peptides for Sports Medicine and Regenerative Medicine Applications – Company Announcement - FT.",
-      "publisher": "Financial Times",
-      "publisher_url": "https://markets.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSDE1Qk5FM01PcWpjN1FxQ0dGRTFhZkdETHU1Q0V1bFVRWnpwUlh0c2xuVk1MSzY4QXNVWGVLUGZfeHl6NVRYQ1k1RU44UkZLYWNSSHVKWlhsY29iTnQwSzlVczU4ZDJ5bnZzUWFDOGtKY3ZSS1MwQWoyMUllcHJ6WWIzUmFZd2VHYkdVenFDbktRbmxZdGc?oc=5",
-      "published_at": "2026-11-18T12:30:00+00:00",
-      "regions": [
-        "global"
+        "europa"
       ]
     },
     {
@@ -180,8 +228,8 @@
     {
       "title": "Lethal amount of drugs in bottle of Billingham child who died",
       "publisher": "BBC",
-      "publisher_url": "https://www.bbc.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1qN2thWUlRcDVUWlEtUTVkQWdVQzRYeWUzTk5GdmJTYmV5Rmw3V3dYZUlYaFQtRUdBRG04bGQzN1hyN2pJSHVpTndGSjFBb2l6dzUzZmRSSExGQ2dENFE?oc=5",
+      "publisher_url": "http://news.bbc.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE04R2htdjkxNy1PUGJMa1kwQkZ2YVNaNi1pOHo1VWdYMGZOR19UdTF4QjZYZk5wRzZvZV82OEswWkZQWkh3TVdVQ3RpQTAwMGZldXRubWVvSWxNR1ZyQkE?oc=5",
       "published_at": "2026-11-18T12:06:29+00:00",
       "regions": [
         "europa"
@@ -229,36 +277,6 @@
       ]
     },
     {
-      "title": "How Virtual Cells Could Transform Medicine",
-      "publisher": "The New York Times",
-      "publisher_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE96alR0UGdHdEs5VjdQb1RubTVlMklNY2FTLVVTLWpvWU9xSVVtNktQRFZZeUNTLXVxVU41VlFMclhMN1RqeUxvVlNZbDBrSENpY1JiVHFuSnVnRUlYZFd5T3o1dFRaWkp0eEZocDloN3h0SFQyeDVmSDhn?oc=5",
-      "published_at": "2026-11-18T10:02:15+00:00",
-      "regions": [
-        "usa"
-      ]
-    },
-    {
-      "title": "Ellipses Pharma Ltd",
-      "publisher": "Reuters",
-      "publisher_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kOXZETDVvdV9JcjExbzA1dGhkbURpVlp2bTlsdUo5czFpVGZTZERvWjhjMUJROXk5ZXZJTWczcmNCTkZNWVRELWpOMTZZSGVreWNVZmxqdFQtNUpNQ1ZIQ2tB?oc=5",
-      "published_at": "2026-11-18T09:31:33+00:00",
-      "regions": [
-        "global"
-      ]
-    },
-    {
-      "title": "Ellipses Pharma explores a London Stock Exchange listing opportunity – Company Announcement",
-      "publisher": "Financial Times",
-      "publisher_url": "https://markets.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOTVYZlhtS0pSdXdwWXlvMkhIZFFWT1U3NFVtbVJzUFpUeVlGc0hDcGQydWdYNjJnWnA4WDB1ZVdWWk1mNFZWcW0zOFJIQWR1aFE2cXZKMTdCVXJpT3dFRzgxWXp2TXF6Y2RFUWxGWndPeDExMmVwNnhYZm4wVlJydnlVYjlPZkVvYTNHVUFjamlrQmZjV2RyOU1KaWJzWFJHQUotOEZn?oc=5",
-      "published_at": "2026-11-18T08:30:00+00:00",
-      "regions": [
-        "global"
-      ]
-    },
-    {
       "title": "AI can give drug hunters more answers. The real advantage is asking deeper questions.",
       "publisher": "pharmaphorum",
       "publisher_url": "https://pharmaphorum.com",
@@ -291,16 +309,6 @@
       ]
     },
     {
-      "title": "Innate Pharma Presents Initial Phase 1 Clinical Data for IPH4502 at ENA 2026 – Company Announcement",
-      "publisher": "Financial Times",
-      "publisher_url": "https://markets.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTVo4cVRfS2dHOWEzQk9HWVJRZ24yTzlNdG9yelJfS21HNkRaUThld0tmaHFPdHItbFYyWnhmRDJPbzM0T0JhbXB6d3NhcndKRG5aUUZLYk9GY2puQlZVUlpXSEg1R1A4Rk1DNGRpTV9ZdWNiYXJpS2tFS3cwUWxESUg0dm5nSG9xV21ZR0NFX2c0eHE5MlpRanlsQ2JQMkczcU9wMGdn?oc=5",
-      "published_at": "2026-11-18T07:30:00+00:00",
-      "regions": [
-        "global"
-      ]
-    },
-    {
       "title": "White House pulls nomination of Heidi Overton to lead FDA",
       "publisher": "STAT",
       "publisher_url": "https://www.statnews.com",
@@ -309,16 +317,6 @@
       "regions": [
         "global",
         "usa"
-      ]
-    },
-    {
-      "title": "Dicot Pharma initiates phase 2b clinical study in erectile dysfunction – Company Announcement",
-      "publisher": "Financial Times",
-      "publisher_url": "https://markets.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYnllVTB5YmgxRDVLWkU3WEJ4Si1BcXB3R2FIdHJwMzNvdERJTzUwYktVcUw4NzFPdjBCTmUzYXM0cW1IcnNBLTJHMlJjVkxTbHFrclFxckRielFoeHY0aDFuU2w3RUFOUlExTG1nUHY0YkphMXZZeHIxVThKWTExSGRGMkx3YjZ2dUtaQkxJRXh3Y3NGcDJua0Z0ak1JcVZaTEZZTXE0eHJjMFBiV1RXRXJDZFVEWlJjNWFB?oc=5",
-      "published_at": "2026-11-18T06:00:00+00:00",
-      "regions": [
-        "global"
       ]
     },
     {
@@ -342,16 +340,6 @@
       ]
     },
     {
-      "title": "Zealand Pharma announces initiation of the Phase 2 ZYNERGY trial of petrelintide co-administered with enicepatide in people with obesity or overweight – Company Announcement",
-      "publisher": "Financial Times",
-      "publisher_url": "https://markets.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYXVET2FONGVRWnRTamhNU29tdnJONDEtM2l4VHh6aEJJQ1AyQWpldEdKZjZrWS1qd3NTV21TQ1BPUmlHYjdpb0N5ekdzTXpERjBHX0RMUzNWV25oLVhGUDMxZkdtcFNHNGtYWEk2ZUVKYkRIVWVfUjZ2TkZhVENXNXFwNnNIXzFNWHIteUZCMU9tMlQ5TXRxSFRaaw?oc=5",
-      "published_at": "2026-11-18T05:00:00+00:00",
-      "regions": [
-        "global"
-      ]
-    },
-    {
       "title": "Vacuna del VPH lucha contra la desinformación, aún así en 18 años se ha vacunado a casi un millón de niños",
       "publisher": "La Prensa Panamá",
       "publisher_url": "https://www.prensa.com",
@@ -359,6 +347,16 @@
       "published_at": "2026-11-18T04:56:13+00:00",
       "regions": [
         "centroamerica"
+      ]
+    },
+    {
+      "title": "Drugs trade",
+      "publisher": "BBC",
+      "publisher_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5kaG1NcTZUZjlZZHJEd0g0ODFSX05nc1lpYlhiRXRCbllYUldfZUYyNnBXNnMwdG5fWkhGWTJlQzlSV1VOdk9iM1FOQzJnQlNqSEtNRVBqOA?oc=5",
+      "published_at": "2026-11-18T04:40:18+00:00",
+      "regions": [
+        "europa"
       ]
     }
   ],
