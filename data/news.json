@@ -1,7 +1,7 @@
 {
   "date": "2026-11-18",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-18T07:42:17+00:00",
+  "checked_at": "2026-11-18T15:07:02+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -12,8 +12,8 @@
   },
   "source_health": {
     "rd": {
-      "ok": true,
-      "error": null,
+      "ok": false,
+      "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%28medicamentos+OR+farmac%C3%A9utica+OR+farmacia+OR+vacunas%29+%28site%3Aeldia.com.do+OR+site%3Aelnuevodiario.com.do+OR+site%3Ahoy.com.do%29++after%3A2026-11-17+before%3A2026-11-20&hl=es-419&gl=DO&ceid=DO%3Aes-419",
       "count": 0
     },
     "centroamerica": {
@@ -22,35 +22,289 @@
       "count": 1
     },
     "mexico": {
-      "ok": true,
-      "error": null,
+      "ok": false,
+      "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%28medicamentos+OR+farmac%C3%A9utica+OR+farmacia+OR+vacunas%29+%28site%3Aeluniversal.com.mx+OR+site%3Aeleconomista.com.mx+OR+site%3Aelfinanciero.com.mx%29++after%3A2026-11-17+before%3A2026-11-20&hl=es-419&gl=MX&ceid=MX%3Aes-419",
       "count": 0
     },
     "usa": {
-      "ok": false,
-      "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%28pharma+OR+drug+OR+biotech+OR+pharmaceutical+OR+medicine%29+%28site%3Awsj.com+OR+site%3Acnbc.com+OR+site%3Anytimes.com%29+%28FDA+OR+US+OR+USA+OR+%22United+States%22+OR+American%29+after%3A2026-11-17+before%3A2026-11-20&hl=en-US&gl=US&ceid=US%3Aen",
-      "count": 1
-    },
-    "europa": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 9
+    },
+    "europa": {
+      "ok": false,
+      "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%28pharma+OR+drug+OR+biotech+OR+pharmaceutical+OR+medicine%29+%28site%3Aft.com+OR+site%3Atheguardian.com+OR+site%3Aeuronews.com%29+%28Europe+OR+Europa+OR+European+OR+EU+OR+EMA+OR+UK%29+after%3A2026-11-17+before%3A2026-11-20&hl=en-US&gl=US&ceid=US%3Aen",
+      "count": 9
     },
     "global": {
       "ok": false,
       "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%28pharma+OR+drug+OR+biotech+OR+pharmaceutical+OR+medicine%29+%28site%3Atheguardian.com+OR+site%3Astatnews.com+OR+site%3Afiercepharma.com%29++after%3A2026-11-17+before%3A2026-11-20&hl=en-US&gl=US&ceid=US%3Aen",
-      "count": 0
+      "count": 13
     }
   },
   "items": [
+    {
+      "title": "FDA moves to yank Salerno's liquid cholesterol drug approval on missing reports",
+      "publisher": "Fierce Pharma",
+      "publisher_url": "https://www.fiercepharma.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZVhQdDVBRlk3RnpEUDh3WE5FakprRDc1NnJhV2xHVzBFY21qVGlUZGhRS3kxRVhUTTVDYmM4MDg2dG5HcGN1MDJSejVrOGc1R21FVEhiVXlpV2xvd2RJQjhSQVRrZXJPdXNNTUY2ejdhTDZNU3ZtLXo3cDBjM0Y5WXptcG1YdlZTekRQUllFbHZSRWgxcVd4Unh5bXJNdjZyZW5EeHBXOFpoRjQ?oc=5",
+      "published_at": "2026-11-18T14:54:30+00:00",
+      "regions": [
+        "usa"
+      ]
+    },
+    {
+      "title": "Congress’s Top Doctor Resigns Amid IG Findings of Lax Drug Handling",
+      "publisher": "WSJ",
+      "publisher_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNR0kzd29fdzk5QVJNbFY5ckduWmU5NGdHMDNFTVpJVTZ5VU9VVXVJcWpxWVE4VnIwdHZ4OUs1cGpxTTcwZDVCaDNncDFQWHhQSFl1ZTJjZHY0ampKWkJuUVFKbjNzd0N5SjF4WDZQcnhhdVFLYUVwVFhsd2Z5c3FvbHBnWm9ST2xZTkxobUVESDBmSDZacHhSUg?oc=5",
+      "published_at": "2026-11-18T14:45:46+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "FDA discloses reasons for rejecting Summit drug",
+      "publisher": "STAT",
+      "publisher_url": "https://www.statnews.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaGE3Zm45bjB1UjlPSDcwNVAyME1JQlJpbVJDaXhUenZ4ckZFeGttOFhicWdJUFc4WGRDR3pvN3JPMTlHQVp6Y0Jzd2VCT3FlZHNYUU1OXzlVbW5BZzJ2TURWamVaWnhsYnoxQTFVUUhtbnFISUNaeGUxQ0tvVmFUVWVpa1c2T2p2V2VKbzBOZlJITlVnLVZBWXc1dzRMdw?oc=5",
+      "published_at": "2026-11-18T14:39:37+00:00",
+      "regions": [
+        "usa"
+      ]
+    },
+    {
+      "title": "FDA publishes rejection letter for Summit drug; Nuvalent buyout pays more dividends for GSK",
+      "publisher": "BioPharma Dive",
+      "publisher_url": "https://www.biopharmadive.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQLTJOcjU4QUNMWlVIRDAzT3J4Y1VqeEhLajR0M1JxSHhHeldUNGV1aWhTc2tIQTcwMDNrR3dNX2xydzlRTkk2V2tqNnp4VXFuUVd6VFRKU3JHNldTSHluNEVLR05XZ1Y2MlVuSEdxcXJ1ZXluanpTMnN2U3Z6OWczNm4xYl9GTDRWcDRrSzFwbHFRblYwc05iTWI5YWJYTTRE?oc=5",
+      "published_at": "2026-11-18T14:39:12+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Pharmalittle: We're reading about Overton FDA nomination being yanked, a Merck setback, and more",
+      "publisher": "STAT",
+      "publisher_url": "https://www.statnews.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMFhTQkNqUmY5bC1jMmFVY1lzem1zSzIwREltQWZBUWZZdHRqOXdiRFBCZkJROEdVSEdYMzdLUDdYek1xdHNoTnBQNC1oNTFvS2xzT3AyODhPeDZ4dUVmUTBMVTZHWGJLaWU0dVdjQXJpT3l5Z3kyM29lSkVPbVBJMmhNRVNKbmp5aGFIODRyc0t0RTMxaE1sU09EMHI2bjRmTE9iV0tnTWJsUUpt?oc=5",
+      "published_at": "2026-11-18T14:29:35+00:00",
+      "regions": [
+        "usa"
+      ]
+    },
+    {
+      "title": "British cancer drug developer Ellipses Pharma considers London listing",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYVlmMEpxVDhBVkxPLXZweTNNQnduX1BXVVhoX2N0SkJKcDJQMVUtaGZEaFNfeWpWWmttejRDMGxfdmFjYy1lQVVZNElYRGJTaU1KeHVtWWcwUjBkb09UNTJiMFdBSmhKeWhMLWg4YWE4OHV1d1A0MmRubDRKWmlRS216OHU0N1Nmankyc3B4NWVIb1FUazZrSVRRWFg0VVF6SnV2MC1NWUd4T2xHcGtIWFNrVFh1TlVJY0RVTGhfWkRhYWc?oc=5",
+      "published_at": "2026-11-18T13:52:23+00:00",
+      "regions": [
+        "global"
+      ]
+    },
+    {
+      "title": "Raazi Hussain: From medicine to music",
+      "publisher": "BBC",
+      "publisher_url": "https://www.bbc.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5JUXYxM3ZWR3JTeHYxTUxoTXZteTNiclJuTUs0bDlkUVR0YmZTWU1LLU1lVl9XRnMtdVAxTnEtVnRPejB5Z1Nkd2xxUnRnWF95RzdRdA?oc=5",
+      "published_at": "2026-11-18T13:36:52+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "Drug death numbers on the rise in Kent, report says",
+      "publisher": "BBC",
+      "publisher_url": "https://www.bbc.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE02c2pHcWZxdHFodjBTRWt5YXY2b3JiUFhTY3BTR08wRURNR01QWk9LaGJNaGdLUTg3WmlLTXgxaHlfcnhEb184RHQtMVRKYnRXM1VsZGlZbXBUcnVRSnc?oc=5",
+      "published_at": "2026-11-18T13:35:09+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "Drug death numbers in Kent on the rise, according to council report",
+      "publisher": "BBC",
+      "publisher_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5MaWZsX2VfTzBLVERCYmlTdG9VMFRUUHBCUE5VdENuamt5aktOTXkwd2xmcGlxb0NzX0pLek9Mdjg3WGkycXMzSkR0dl95MUpqZDlDWGZCTnQ1N2c?oc=5",
+      "published_at": "2026-11-18T13:35:09+00:00",
+      "regions": [
+        "europa",
+        "global"
+      ]
+    },
+    {
+      "title": "The Biotech Growth Trust PLC - Net Asset Value(s) – Company Announcement",
+      "publisher": "Financial Times",
+      "publisher_url": "https://markets.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTG5uRktPd0pPMlFQUHAxRVRPVmZYaWFBdy0zSFRPV0Q1aU5hdkJDaE9VRThHRHZGYzhEN0VRWXd4c0E4YzlQY2VFekYwSndDM0QzdVlpaF9Cc2g3SUtBWmw2V1JuTVdOS0hOS1JNSldDWl91cVg0U1VfdW1MNzgzZUh0azc3TEFDLXBHQV91TWpaaUhY?oc=5",
+      "published_at": "2026-11-18T13:16:00+00:00",
+      "regions": [
+        "global"
+      ]
+    },
+    {
+      "title": "Andrews Research & Education Foundation and Vector Science and Therapeutics Announce Collaboration for the Clinical Evaluation and Development of Peptides for Sports Medicine and Regenerative Medicine Applications – Company Announcement - FT.",
+      "publisher": "Financial Times",
+      "publisher_url": "https://markets.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSDE1Qk5FM01PcWpjN1FxQ0dGRTFhZkdETHU1Q0V1bFVRWnpwUlh0c2xuVk1MSzY4QXNVWGVLUGZfeHl6NVRYQ1k1RU44UkZLYWNSSHVKWlhsY29iTnQwSzlVczU4ZDJ5bnZzUWFDOGtKY3ZSS1MwQWoyMUllcHJ6WWIzUmFZd2VHYkdVenFDbktRbmxZdGc?oc=5",
+      "published_at": "2026-11-18T12:30:00+00:00",
+      "regions": [
+        "global"
+      ]
+    },
+    {
+      "title": "Beren's Niemann-Pick drug Lembaz cleared by FDA",
+      "publisher": "pharmaphorum",
+      "publisher_url": "https://pharmaphorum.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5DRzJaN2s2bW1jVWR2QXg0dmlqdXp4NEdHVG1maVR5OFYxamMxQ2dNNno3b0ZORGFoZmJxOEIwN1Z2a3otb3cxaUU3M09zdjVzSVZkN2h4MmhfdlJRczNWaWczTE4wYU45WkhyNmRDdE5pRFZ2V0o4aTlDX2VfZw?oc=5",
+      "published_at": "2026-11-18T12:19:51+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "Lethal amount of drugs in bottle of Billingham child who died",
+      "publisher": "BBC",
+      "publisher_url": "https://www.bbc.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1qN2thWUlRcDVUWlEtUTVkQWdVQzRYeWUzTk5GdmJTYmV5Rmw3V3dYZUlYaFQtRUdBRG04bGQzN1hyN2pJSHVpTndGSjFBb2l6dzUzZmRSSExGQ2dENFE?oc=5",
+      "published_at": "2026-11-18T12:06:29+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "White House drops Heidi Overton pick for FDA chief",
+      "publisher": "pharmaphorum",
+      "publisher_url": "https://pharmaphorum.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQ2lVTEtQOUEtZExTb2dOTmdDMTZBbFh2NzZ2U0tnVkMwWWVhSzdzbWctaVgyZXB3X0NXMUZyancxQTdHMUZJcEFxMDdWMHFtSGIzSGxCZW9KRVBJVVIzakNrZnBiY0c2MVJMQXg2Q0M2WnZGVWhWSmotMllmQnB1by1n?oc=5",
+      "published_at": "2026-11-18T11:28:44+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "Floodgates open for unproven wellness drugs after US lifts peptide curbs",
+      "publisher": "Financial Times",
+      "publisher_url": "https://www.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZWk2VGV4VXcwZGRrRnRVVDlBODRIT1RZTUVWZUc1eThENDVfRFN3Wk96SW5wM0g0RjhBcjlITlBFQlIydW5nV1dlX283MVdpQUlRakZ0Y25WM2pNdW5qMWVTQXNPcFZYZ2w4bm9BYXc4X3FDNE1EdjY4TTFGbkZ1RXJKcEY?oc=5",
+      "published_at": "2026-11-18T11:00:05+00:00",
+      "regions": [
+        "global"
+      ]
+    },
+    {
+      "title": "GSK gets second cancer drug approval from Nuvalent buy",
+      "publisher": "pharmaphorum",
+      "publisher_url": "https://pharmaphorum.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUk1hOFJ3b05yOHFWYUF6Y0M0ZncxMVlCVEpPeHRuMk9yUFhyOFJRTEF4aGpVOWtxR1ZWWkQwdnFaRnowWjNSSFJvWURQdVR4cTB6d2ZkclQ3cmM2b2RkWU1IZ3JZTmpHVXVUckxRNVVfM0ZYWmYzaS11U3V4cUp4T0d3NmdVZw?oc=5",
+      "published_at": "2026-11-18T10:19:02+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "How Virtual Cells Could Transform Medicine",
+      "publisher": "The New York Times",
+      "publisher_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE96alR0UGdHdEs5VjdQb1RubTVlMklNY2FTLVVTLWpvWU9xSVVtNktQRFZZeUNTLXVxVU41VlFMclhMN1RqeUxvVlNZbDBrSENpY1JiVHFuSnVnRUlYZFd5T3o1dFRaWkp0eEZocDloN3h0SFQyeDVmSDhn?oc=5",
+      "published_at": "2026-11-18T10:02:15+00:00",
+      "regions": [
+        "usa"
+      ]
+    },
+    {
+      "title": "Ellipses Pharma Ltd",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kOXZETDVvdV9JcjExbzA1dGhkbURpVlp2bTlsdUo5czFpVGZTZERvWjhjMUJROXk5ZXZJTWczcmNCTkZNWVRELWpOMTZZSGVreWNVZmxqdFQtNUpNQ1ZIQ2tB?oc=5",
+      "published_at": "2026-11-18T09:31:33+00:00",
+      "regions": [
+        "global"
+      ]
+    },
+    {
+      "title": "Ellipses Pharma explores a London Stock Exchange listing opportunity – Company Announcement",
+      "publisher": "Financial Times",
+      "publisher_url": "https://markets.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOTVYZlhtS0pSdXdwWXlvMkhIZFFWT1U3NFVtbVJzUFpUeVlGc0hDcGQydWdYNjJnWnA4WDB1ZVdWWk1mNFZWcW0zOFJIQWR1aFE2cXZKMTdCVXJpT3dFRzgxWXp2TXF6Y2RFUWxGWndPeDExMmVwNnhYZm4wVlJydnlVYjlPZkVvYTNHVUFjamlrQmZjV2RyOU1KaWJzWFJHQUotOEZn?oc=5",
+      "published_at": "2026-11-18T08:30:00+00:00",
+      "regions": [
+        "global"
+      ]
+    },
+    {
+      "title": "AI can give drug hunters more answers. The real advantage is asking deeper questions.",
+      "publisher": "pharmaphorum",
+      "publisher_url": "https://pharmaphorum.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWGVzNTVENnlsRnZpU0wya3ZkemJtb3d2LXE5eURrZnBoeGZ0d2RnSEh4Wm1UUlhLRVpjVDktTkNmdmR5bVFkTmVTWWFqdm5Wazk2aFhWbGJHTE5tTXVFMXJWMTgzX2kxc0F4bTN6VUJweF9scThXUnoyMWVNVXA5djJyYkJvUzg2ZENnRXlXX1BUbTJnd3NhZ292TlQzb2M3SmFvLUVuRQ?oc=5",
+      "published_at": "2026-11-18T08:00:00+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "GSK Gets FDA Approval for New Lung-Cancer Drug",
+      "publisher": "WSJ",
+      "publisher_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOU1pFbjgyNlNyS3RWaVNTYVVUZnZHWUNlS1p2TXpudFNBVS12bEtURkoyT1RESmZTVlF3UUFCRVpranEzQ3BYLVctbGlVREZZR1c3UUduQXZKREVrZ3FKRUNEWER4TkhqWjFmVlNnMHZwcEpMOTMwdENoZXZ1OEFPQWZhbHRSaFJpUUZ6cEpIdjBQLTA?oc=5",
+      "published_at": "2026-11-18T07:43:00+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Innate Pharma Presents Initial Phase 1 Clinical Data for IPH4502 at ENA 2026 – Company Announcement",
+      "publisher": "Financial Times",
+      "publisher_url": "https://markets.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTVo4cVRfS2dHOWEzQk9HWVJRZ24yTzlNdG9yelJfS21HNkRaUThld0tmaHFPdHItbFYyWnhmRDJPbzM0T0JhbXB6d3NhcndKRG5aUUZLYk9GY2puQlZVUlpXSEg1R1A4Rk1DNGRpTV9ZdWNiYXJpS2tFS3cwUWxESUg0dm5nSG9xV21ZR0NFX2c0eHE5MlpRanlsQ2JQMkczcU9wMGdn?oc=5",
+      "published_at": "2026-11-18T07:30:00+00:00",
+      "regions": [
+        "global"
+      ]
+    },
     {
       "title": "White House pulls nomination of Heidi Overton to lead FDA",
       "publisher": "STAT",
       "publisher_url": "https://www.statnews.com",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNTZnSXFQbnA1bTFrWUZHbGFneXhZSDFocWhaS1RuajhycU9LUVFhQkNmcldOQWdZamdqWFpXVVBPMlV0ajdJUW1IaW5BSmxwaXRjN01zR3dnSmlwd294clY5cGtHUF9vYVppa3AtdGZtclAxOW8zaGlRRjdBRVlSZUZmRGpGMUlxVFJJSS0taUFhZw?oc=5",
-      "published_at": "2026-11-18T07:18:45+00:00",
+      "published_at": "2026-11-18T07:19:33+00:00",
       "regions": [
         "usa"
+      ]
+    },
+    {
+      "title": "Dicot Pharma initiates phase 2b clinical study in erectile dysfunction – Company Announcement",
+      "publisher": "Financial Times",
+      "publisher_url": "https://markets.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYnllVTB5YmgxRDVLWkU3WEJ4Si1BcXB3R2FIdHJwMzNvdERJTzUwYktVcUw4NzFPdjBCTmUzYXM0cW1IcnNBLTJHMlJjVkxTbHFrclFxckRielFoeHY0aDFuU2w3RUFOUlExTG1nUHY0YkphMXZZeHIxVThKWTExSGRGMkx3YjZ2dUtaQkxJRXh3Y3NGcDJua0Z0ak1JcVZaTEZZTXE0eHJjMFBiV1RXRXJDZFVEWlJjNWFB?oc=5",
+      "published_at": "2026-11-18T06:00:00+00:00",
+      "regions": [
+        "global"
+      ]
+    },
+    {
+      "title": "White House pulls FDA nominee Heidi Overton after wavering support from Senate Republicans",
+      "publisher": "AP News",
+      "publisher_url": "https://apnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcll5dHZkX3V1YXFqb0d6X0ZVUmZDV0htM096X3VQcEFUbVE5SlAtRFFkenNqM1ZhVjlmM3BvTlRRNWR3ZmxRYUttYnNOcUIwdmI5SXFBQlhMcEVVRFlMWEdGazdrVUl5aWhwZ0JWeVoxeHU2bHhORHAyZkxhUEtsSzhyOU9qMWdFa3Yxc3d0UGhieXZzVTQ1Z21OTGctRW9kcEE?oc=5",
+      "published_at": "2026-11-18T05:49:00+00:00",
+      "regions": [
+        "usa"
+      ]
+    },
+    {
+      "title": "Zealand Pharma announces initiation of the Phase 2 ZYNERGY trial of petrelintide co-administered with enicepatide in people with obesity or overweight – Company Announcement",
+      "publisher": "Financial Times",
+      "publisher_url": "https://markets.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYXVET2FONGVRWnRTamhNU29tdnJONDEtM2l4VHh6aEJJQ1AyQWpldEdKZjZrWS1qd3NTV21TQ1BPUmlHYjdpb0N5ekdzTXpERjBHX0RMUzNWV25oLVhGUDMxZkdtcFNHNGtYWEk2ZUVKYkRIVWVfUjZ2TkZhVENXNXFwNnNIXzFNWHIteUZCMU9tMlQ5TXRxSFRaaw?oc=5",
+      "published_at": "2026-11-18T05:00:00+00:00",
+      "regions": [
+        "global"
       ]
     },
     {
