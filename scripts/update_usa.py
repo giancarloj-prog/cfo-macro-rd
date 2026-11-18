@@ -93,65 +93,59 @@ CPI='https://www.bls.gov/news.release/cpi.nr0.htm'
 SP500='https://fred.stlouisfed.org/series/SP500'
 
 def inflation_us():
+    """Latest CPI-U annual change with an actually available year-ago base."""
+    import csv, io
+    errors = []
+    values = {}
+    # Primary numerical source: BLS CPI-U, all items, not seasonally adjusted.
+    url = 'https://api.bls.gov/publicAPI/v1/timeseries/data/CUUR0000SA0'
     try:
-        content=text(page(CPI))
-        period=re.search(r'CONSUMER PRICE INDEX\s*[-–]\s*('+'|'.join(MONTHS)+r')\s+(20\d{2})',content,re.I)
-        rate=re.search(r'Over the last 12 months, the all items index (increased|decreased|declined|rose|fell)\s+([\d.]+)\s+percent',content,re.I)
-        if not period or not rate:raise ValueError('Faltan el mes y la inflación general CPI-U interanual')
-        value=float(rate[2])*(-1 if rate[1].lower() in ('decreased','declined','fell') else 1)
-        if not -30 <= value <= 100:raise ValueError('CPI-U interanual fuera de rango')
-        return {'value':value,'period':f'{period[2]}-{MONTHS[period[1].lower()]:02d}','source':'BLS · CPI-U','url':CPI,'unit':'percent','description':'Inflación general interanual · sin ajuste estacional'}
-    except (requests.RequestException,ValueError):
-        # October 2026 has no published all-items YoY: BLS did not collect
-        # October 2025 CPI, so the annual comparison cannot be calculated.
-        # Keep the latest *published* annual rate, September 2026, by
-        # rechecking the dated BLS archive instead of marking a source failure.
-        archive = 'https://www.bls.gov/news.release/archives/cpi_10142026.htm'
-        try:
-            current = text(page(CPI))
-            if re.search(r'CONSUMER PRICE INDEX\\s*[-–]\\s*OCTOBER\\s+2026', current, re.I):
-                archived = text(page(archive))
-                if re.search(r'CONSUMER PRICE INDEX\\s*[-–]\\s*SEPTEMBER\\s+2026', archived, re.I):
-                    match = re.search(r'Over the last 12 months, the all items index increased\\s+([\\d.]+)\\s+percent', archived, re.I)
-                    if match and 0 <= float(match[1]) <= 100:
-                        return {'value':float(match[1]),'period':'2026-09',
-                                'source':'BLS · CPI-U (última tasa interanual publicada)',
-                                'url':archive,'unit':'percent',
-                                'description':'Inflación general interanual · sin ajuste estacional. Octubre 2026 sin tasa YoY publicada por falta de base octubre 2025.'}
-        except (requests.RequestException, ValueError):
-            pass
-        # FRED mirrors the BLS non-seasonally-adjusted all-items CPI (CPIAUCNS).
-        # This avoids relying solely on the frequently timing-out BLS API.
-        try:
-            import csv, io
-            url='https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCNS'
-            response=requests.get(url,headers=UA,timeout=20)
-            response.raise_for_status()
-            values={}
-            for row in csv.DictReader(io.StringIO(response.text)):
-                date=row.get('observation_date') or row.get('DATE')
-                raw=row.get('CPIAUCNS','')
-                if date and re.fullmatch(r'\d{4}-\d{2}-01',date) and re.fullmatch(r'\d+(?:\.\d+)?',raw):
-                    values[date[:7]]=float(raw)
-            if not values:raise ValueError('FRED CPIAUCNS sin observaciones')
-            latest=max(values)
-            prior=f'{int(latest[:4])-1}{latest[4:]}'
-            if prior not in values or values[prior]<=0:raise ValueError('Falta comparación anual en FRED')
-            value=round((values[latest]/values[prior]-1)*100,1)
-            if not -30<=value<=100:raise ValueError('Inflación calculada fuera de rango')
-            return {'value':value,'period':latest,'source':'BLS · CPI-U (vía FRED)','url':'https://fred.stlouisfed.org/series/CPIAUCNS','unit':'percent','series_id':'CPIAUCNS','description':'Inflación general interanual · sin ajuste estacional'}
-        except (requests.RequestException,ValueError,KeyError,TypeError):
-            pass
-        url='https://api.bls.gov/publicAPI/v1/timeseries/data/CUUR0000SA0'
-        r=requests.get(url,headers=UA,timeout=35);r.raise_for_status();payload=r.json()
-        if payload.get('status')!='REQUEST_SUCCEEDED':raise ValueError('BLS API no disponible')
-        series=payload['Results']['series']
-        if not series or series[0]['seriesID']!='CUUR0000SA0':raise ValueError('Serie CPI-U incorrecta')
-        values={f"{x['year']}-{int(x['period'][1:]):02d}":float(x['value']) for x in series[0]['data'] if re.fullmatch(r'M(?:0[1-9]|1[0-2])',x['period']) and re.fullmatch(r'-?\d+(?:\.\d+)?',str(x['value']))}
-        latest=max(values);prior=f'{int(latest[:4])-1}{latest[4:]}'
-        if prior not in values or values[prior]<=0:raise ValueError('Falta el mes comparable del CPI-U')
-        value=round((values[latest]/values[prior]-1)*100,1)
-        return {'value':value,'period':latest,'source':'BLS · CPI-U','url':CPI,'unit':'percent','series_id':'CUUR0000SA0','description':'Inflación general interanual · sin ajuste estacional'}
+        r = requests.get(url, headers=UA, timeout=35)
+        r.raise_for_status()
+        payload = r.json()
+        if payload.get('status') != 'REQUEST_SUCCEEDED':
+            raise ValueError('BLS API no disponible')
+        series = payload['Results']['series']
+        if not series or series[0]['seriesID'] != 'CUUR0000SA0':
+            raise ValueError('Serie CPI-U incorrecta')
+        for x in series[0]['data']:
+            if re.fullmatch(r'M(?:0[1-9]|1[0-2])', x['period']) and re.fullmatch(r'\\d+(?:\\.\\d+)?', str(x['value'])):
+                values[f"{x['year']}-{int(x['period'][1:]):02d}"] = float(x['value'])
+    except (requests.RequestException, ValueError, KeyError, TypeError, IndexError) as exc:
+        errors.append('BLS: ' + str(exc))
+    # FRED mirrors the same unadjusted BLS series, and often retains
+    # a longer history than the public BLS API's default response.
+    try:
+        fred_url = 'https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCNS'
+        response = requests.get(fred_url, headers=UA, timeout=25)
+        response.raise_for_status()
+        for row in csv.DictReader(io.StringIO(response.text)):
+            date = row.get('observation_date') or row.get('DATE')
+            raw = row.get('CPIAUCNS', '')
+            if date and re.fullmatch(r'\\d{4}-\\d{2}-01', date) and re.fullmatch(r'\\d+(?:\\.\\d+)?', raw):
+                values[date[:7]] = float(raw)
+    except (requests.RequestException, ValueError, KeyError, TypeError) as exc:
+        errors.append('FRED: ' + str(exc))
+    if not values:
+        raise ValueError('Sin observaciones CPI-U verificables; ' + '; '.join(errors))
+    latest = max(values)
+    # Never calculate YoY from a different month or invent a missing base.
+    comparable = [(month, f'{int(month[:4])-1}{month[4:]}')
+                  for month in sorted(values, reverse=True)
+                  if f'{int(month[:4])-1}{month[4:]}' in values
+                  and values[f'{int(month[:4])-1}{month[4:]}'] > 0]
+    if not comparable:
+        raise ValueError('No hay dos observaciones CPI-U del mismo mes separadas por 12 meses')
+    month, prior = comparable[0]
+    value = round((values[month] / values[prior] - 1) * 100, 1)
+    if not -30 <= value <= 100:
+        raise ValueError('Inflación CPI-U interanual fuera de rango')
+    description = 'Inflación general interanual · sin ajuste estacional'
+    if month < latest:
+        description += f' · Último mes con comparación anual disponible: {month}; índice más reciente: {latest}'
+    return {'value':value, 'period':month, 'source':'BLS · CPI-U (BLS API / FRED)',
+            'url':'https://fred.stlouisfed.org/series/CPIAUCNS',
+            'unit':'percent', 'series_id':'CUUR0000SA0', 'description':description}
 
 def sp500_fred():
     content=text(page(SP500))
