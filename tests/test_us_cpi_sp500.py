@@ -25,8 +25,28 @@ class USAAdditionsTests(unittest.TestCase):
 
     def test_cpi_api_skips_unpublished_months_and_annual_average(self):
         r=Mock();r.json.return_value={'status':'REQUEST_SUCCEEDED','Results':{'series':[{'seriesID':'CUUR0000SA0','data':[{'year':'2026','period':'M10','value':'-'},{'year':'2026','period':'M13','value':'9999'},{'year':'2026','period':'M09','value':'103.7'},{'year':'2025','period':'M09','value':'100'}]}]}}
-        with patch.object(u,'page',side_effect=ValueError('Unavailable')),patch.object(u.requests,'get',return_value=r):x=u.inflation_us()
-        self.assertEqual((x['value'],x['period']),(3.7,'2026-09'))
+        with patch.object(u, 'page', side_effect=ValueError('Unavailable')), patch.object(u.requests, 'get', return_value=r) as get:
+            x = u.inflation_us()
+        self.assertEqual((x['value'], x['period']), (3.7, '2026-09'))
+        get.assert_called_once()
+
+    def test_cpi_fred_uses_latest_comparable_month_when_api_times_out(self):
+        soup = BeautifulSoup(
+            'CONSUMER PRICE INDEX - OCTOBER 2026 '
+            'The CPI-U increased 0.4 percent on a seasonally adjusted basis. '
+            'BLS cannot publish 12-month percent changes for October.',
+            'html.parser',
+        )
+        fred = Mock(text='observation_date,CPIAUCNS\n'
+                         '2025-09-01,100\n2025-10-01,\n'
+                         '2026-09-01,103.7\n2026-10-01,104.1\n')
+        with patch.object(u, 'page', return_value=soup), patch.object(
+            u.requests, 'get', side_effect=[u.requests.Timeout(), fred]
+        ):
+            result = u.inflation_us()
+        self.assertEqual((result['value'], result['period'], result['series_id']),
+                         (3.7, '2026-09', 'CPIAUCNS'))
+        self.assertIn('2026-10', result['description'])
 
     def test_fallback_discards_current_intraday_candle(self):
         ts=lambda date:int(datetime.fromisoformat(date).timestamp())
