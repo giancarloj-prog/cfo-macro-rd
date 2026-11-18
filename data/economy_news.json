@@ -1,7 +1,7 @@
 {
-  "date": "2026-11-17",
+  "date": "2026-11-18",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-18T01:39:26+00:00",
+  "checked_at": "2026-11-18T07:42:16+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -23,32 +23,32 @@
     "bcrd": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 0
     },
     "fiscal": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 0
     },
     "dgii": {
       "ok": true,
       "error": null,
-      "count": 16
+      "count": 0
     },
     "finance": {
       "ok": true,
       "error": null,
-      "count": 5
+      "count": 0
     },
     "securities": {
       "ok": true,
       "error": null,
-      "count": 8
+      "count": 0
     },
     "economy": {
       "ok": true,
       "error": null,
-      "count": 3
+      "count": 0
     },
     "economist_andy": {
       "ok": true,
@@ -58,12 +58,12 @@
     "economist_jaime": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 2
     },
     "economist_juan_ariel": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 2
     },
     "economist_raul": {
       "ok": true,
@@ -83,144 +83,20 @@
   },
   "items": [
     {
-      "title": "Mercado de valores dominicano busca triplicar cuentas de inversión, pero debe agilizar proceso",
-      "publisher": "Periódico elDinero",
-      "publisher_url": "https://eldinero.com.do",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSkZkN2lMTks3RnRhblV6TVIwNzlKclRJaWlCdGFOMzR2VTNxWGVtM2wyNVlQM2ZVcGVGLWphU3JOcTltUk1NYW9haUhMLTFDUmtfcWRNd0xzbXBIMXZBYXdqRTRyTWlNbjYwOTlRV0tCZ0ZOX1FCY2dDNFJTSDRmbWx3dS1vQjRxN19nY0U4RUYwbXZEOXVneDFJbVQtY2M2alRjVUw3bm9ERXRKTnZER1RzMmMxRjJNQVBEZ1p4aV9aUEU?oc=5",
-      "published_at": "2026-11-18T00:44:35+00:00",
+      "title": "Juan Ariel Jiménez advierte que crecimiento económico no llega al bolsillo de los dominicanos",
+      "publisher": "El Nuevo Diario",
+      "publisher_url": "https://elnuevodiario.com.do",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMWN3eklYR1RiNXN2ZjlNNC0wSVBkOW9BbmVKV3N0ZkRuUGZEQ1h6d1NVSUdsSG1raXFMVlhxdEI2bklBeEl3cVBiZFZPNzl1ckRXSThycm1CNkNpVFhhMXpHYVhvV1FWLXRVbHAyODBjTnNtVWRXb09WMFVMYVFsbzhGUWJ4d0lYbDZDUDg0dml6elUzaVo3S3pjWXZBeGVINkttQlROQ18tS0IyM3RsQ3M5N1QxNDJDQXpZNTg4c1U?oc=5",
+      "published_at": "2026-11-18T02:06:27+00:00",
       "topics": [
-        "securities"
+        "opinion"
       ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "securities"
-      ]
-    },
-    {
-      "title": "ABA dice principal reto de la banca dominicana es ampliar su profundidad financiera",
-      "publisher": "Periódico elDinero",
-      "publisher_url": "https://eldinero.com.do",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWlhNZVFVYVZzckFpUlI2aS1TOXZCUGZINXlmZ09UM3RyVzEzb0x6cmNhcjN4ZjBpR2pZTmZVQ3NDenpwUC0wcmNqYVdCa2padklnS052RVA2R0NQNldiaGJtQmxsQUhlSzk3cVIzV3FuZEpySnU5cUNkM1lUdzNZczQtUWRETDlxRDZDY19VNGJLN25Oa01BTDJlWUZaQzhYRFF1SUxIQWVQQkZKWmRWQkNodkFWQQ?oc=5",
-      "published_at": "2026-11-17T23:42:26+00:00",
-      "topics": [
-        "economy",
-        "finance"
+      "economists": [
+        "juan_ariel"
       ],
-      "economists": [],
-      "economist_match": null,
+      "economist_match": "headline",
       "searches": [
-        "economy",
-        "finance"
-      ]
-    },
-    {
-      "title": "Enrique de Marchena considera oportuno revisar los incentivos fiscales al turismo",
-      "publisher": "Periódico elDinero",
-      "publisher_url": "https://eldinero.com.do",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNX1llV25ZMEhYYXloSG9QRkROeU1vM0lYRUdvd05qZkRUczYzTER6V0FWQ3J3T2NSMTRVUDB1bGREYUUzcXlWSlp0ajYyNEtKWk9DRjdvZTlWMWRrX1d4SlRfeWpzWm5xdkNqcldVeUw2ejN2ek1aSlQ5cDJzME5TNlFndkdZUEsweE9tbGp5NDEtczRRbk9GLTlCNmVKSHZMclY1SXNpU3J3TTFiT2d1a05nZw?oc=5",
-      "published_at": "2026-11-17T23:21:58+00:00",
-      "topics": [
-        "finance"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "finance"
-      ]
-    },
-    {
-      "title": "Patrimonio de los fondos de inversión se duplica en tres años, destaca presidente de Adosafi",
-      "publisher": "Periódico elDinero",
-      "publisher_url": "https://eldinero.com.do",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRU9Hejg1LUhrTURwZTdzTzNTQzFWMUZCdGpZbkxCZ2xpZmpTenFnMWJDOEdoMVpJMnhPdE5aQlZka3B1MUtzZ3czbnNqUkNUeEhEeEFnWTZWLXdBSXcyd0d1NU9KTFFNU1QzX2h5Mm1SVFpncU1JdEh0RGZDZW90UGN0Nk4tRC15S1o3cmlDOTNXUlVDMV92eFFPT0xrTTBkUEJ3ZzBqeDcyYjhtUklkWjFtUms4YnZuSUNsSFNYNXE?oc=5",
-      "published_at": "2026-11-17T22:36:53+00:00",
-      "topics": [
-        "securities"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "securities"
-      ]
-    },
-    {
-      "title": "Banco Popular gana premios como mejor banco digital de consumo y empresas",
-      "publisher": "Acento",
-      "publisher_url": "https://acento.com.do",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQnMwWlVORk52ZUlXcUI1emxkNld3RUl3UEJ4QkJpZEZ6U19WOWU5TnM2OW53cVVtSHJ0Zi1URXgwdFRhMGE3TXNXWDNudmRZLTIxdG9TUmJwNmFGeW8zeFNUU3lJeDRYUUVmUEp5V0FCQmVjanFBWXRXX2xCaG0tMnBrc21QU0dDZmNNN0k5MDcwWmVoY2xRNlR2WFpKSXJGZXpCMWR1cHA4bjZqTlZmQmdXZXhPTDNx0gG4AUFVX3lxTE9CczBaVU5GTnZlSVdxQjV6bGQ2V3dFSXdQQnhCQmlkRnpTX1Y5ZTlOczY5bndxVW1IcnRmLVRFeDB0VGEwYTdNc1dYM252ZFktMjF0b1NSYnA2YUZ5bzN4U1RTeUl4NFhRRWZQSnlXQUJCZWNqcUFZdFdfbEJobS0ycGtzbVBTR0NmY003STkwNzBaZWhjbFE2VHZYWkpJckZlekIxZHVwcDhuNmpOVmZCZ1dleE9MM3E?oc=5",
-      "published_at": "2026-11-17T21:59:01+00:00",
-      "topics": [
-        "finance",
-        "securities"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "securities"
-      ]
-    },
-    {
-      "title": "Jaime Senior destaca facturación electrónica puede impulsar crecimiento de m mipymes y reducir evasión fiscal",
-      "publisher": "Periódico elDinero",
-      "publisher_url": "https://eldinero.com.do",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNeTdKWFl4VTFNdFdzOGxOTktyYVJjd3pPR0pfZkpWQWJFeDlvbTM4eXpsdHVEeUpyNk1BM0o2VmNmNlN1VjhGRVd1NE9FX3QtdzJscEFRWkZWbHJHY0duT3ZnbUFmWGN5eExYQUdVMjFhcFc0ZEdIM1RNeFNlaWhoaEdndmRmdXVZRGhCSmp5VXpXNEI0emlEblVyajhULWRkUTlGaHZKNWkxSXdMb3ZTclVHbjlqVGl3N3MzaUJSTjRhSUk4T2tjWmd5N0xTYjg3QlJrSS1pU2I?oc=5",
-      "published_at": "2026-11-17T21:24:26+00:00",
-      "topics": [
-        "dgii",
-        "securities"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "dgii",
-        "securities"
-      ]
-    },
-    {
-      "title": "Jaime Senior plantea ampliar la base del ITBIS para fortalecer las recaudaciones",
-      "publisher": "Periódico elDinero",
-      "publisher_url": "https://eldinero.com.do",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPa004VmVnQVc5cDJmYWlONVczUjFnWF9wTkw3YWpKd2VyQ3lHVWdiTW5aa0JkcmUzVk5QdHRsTmlvZnM2Q0NURkZmYWFkN090ZTFmT2k4MmZtbVNKYmhyVURHMUJCNkQ4ckl5OEpJVnRmejJjeEJ0RGdLRnM5bUNjUVRweklWZHdSd0pnVXV5d1JpRjhlVjdPMGpwbjhLX1VnYVlFNnI3OWRvQzR5SkZhR3lR?oc=5",
-      "published_at": "2026-11-17T21:22:18+00:00",
-      "topics": [
-        "dgii"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "dgii"
-      ]
-    },
-    {
-      "title": "Franklin Glass: eliminación del impuesto a seguros de vida permitiría captar más de US$300 millones en inversiones para RD",
-      "publisher": "Periódico elDinero",
-      "publisher_url": "https://eldinero.com.do",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNNFNSa2RQYnhzYzQ1M19VZU1pdlByY3YzRGw1MFVkZUNMOVl2MnlTT3RYaEIybVlFc0lERFA2azRnLUFhQ0FXbkhXVnBzR2pNNTdjWGhHZXZGQ3czRkpkbC16Z09FNnFrZG53dFQ3SkxjaG9sVXhhWlVuSEg2bFBMUVFxOWkwY19Oa0NKbE5DSlpGMnEwZHRVZWI5SG84cnc1S1NrZ3ZrQXpVZF9YU3NTZ21fNkg0WUNDTUM2LVFIdmEzWDVSelJRZERNRENKeWVMS0taNVBjeTNlX0EtS3RzMXFlM3BfSkk?oc=5",
-      "published_at": "2026-11-17T20:56:31+00:00",
-      "topics": [
-        "dgii",
-        "fiscal"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "fiscal"
-      ]
-    },
-    {
-      "title": "Sanz Lovatón llama a priorizar acuerdos entre Gobierno y sector privado para impulsar la economía",
-      "publisher": "Periódico elDinero",
-      "publisher_url": "https://eldinero.com.do",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWWlQMmNrRjdtZzBFWmotWXhXYmRqeGNQNXBnWk93amdSZXh3clIyQXRzd2xsM1lUNndUMWZzZ3dTRGR5QkhiMHNSZ0t6RURqdy0wU3dMRUV2ckx5S1FzVEtjb09kT3RiZUhjZ3pkc2dCc2M3d05HR3dpT3BEQXZvbmpqeXBFOGIyLUNIMzhQR2RqNXJoa0V1QzZPd193SHZMMnQyd1lwa0swdndmOWtLZFgwVTJwMnhwLVNwU21vWmk2OEE2TkJqLQ?oc=5",
-      "published_at": "2026-11-17T20:51:31+00:00",
-      "topics": [
-        "economy"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "economy"
+        "economist_juan_ariel"
       ]
     },
     {
@@ -237,364 +113,11 @@
       "economists": [
         "andy"
       ],
-      "economist_match": null,
+      "economist_match": "search",
       "searches": [
         "economist_andy",
         "finance",
         "securities"
-      ]
-    },
-    {
-      "title": "Bolsa de Nueva York arrastrada a la baja por incertidumbre sobre Nvidia",
-      "publisher": "Acento",
-      "publisher_url": "https://acento.com.do",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVVVlZ0R3ejg0VDFlZGoySlR6U05QbXhvOGRPYjBnZVNLTlBFUHZDTnZQRU5GTnBqOWpkQXZpYl9CY0FHbGhGZmpVSkhXYjRkdmNPX19CbUlRajMycWQyUzlDSkV0Ry1YblIzN2hBdnBseGQ5aW85RktPZWVRZGdDX0djMlJUcF9pZ3NEb2tycmQtcllfNG1uOGJybV80OXhnQ0xQUUlaN3NiV21mSUkwMG9EcnpyQdIBtgFBVV95cUxPVVVlZ0R3ejg0VDFlZGoySlR6U05QbXhvOGRPYjBnZVNLTlBFUHZDTnZQRU5GTnBqOWpkQXZpYl9CY0FHbGhGZmpVSkhXYjRkdmNPX19CbUlRajMycWQyUzlDSkV0Ry1YblIzN2hBdnBseGQ5aW85RktPZWVRZGdDX0djMlJUcF9pZ3NEb2tycmQtcllfNG1uOGJybV80OXhnQ0xQUUlaN3NiV21mSUkwMG9EcnpyQQ?oc=5",
-      "published_at": "2026-11-17T20:15:56+00:00",
-      "topics": [
-        "securities"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "securities"
-      ]
-    },
-    {
-      "title": "Empresarios de Santo Domingo Norte piden apoyo de la DGII para las pequeñas empresas",
-      "publisher": "Acento",
-      "publisher_url": "https://acento.com.do",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPeTFaUUVMY1B5M2FfakpRd2o5LU9TVUhPRmNmWWxaeFZLMGFHNnRkeTB2M19SNGZPeGZkZWRNaWlhWi0xTVd1Y2ptdGlpS2JIUTc4YzVzN1BoZ1ZTaWNieHU4TWdwZmh6dms4UkVhLTBVLWpubkZvcGEzZUxjTzBYTG03T01kU2VwWXRmeEgzbE5GZVQyYkYwZVZSTWtoZkhKMzZQeTVZdmdMSDNlTUo0RmhnYlJvMGo5aFY1R3VuSnAtdldrSEU40gHHAUFVX3lxTE95MVpRRUxjUHkzYV9qSlF3ajktT1NVSE9GY2ZZbFp4VkswYUc2dGR5MHYzX1I0Zk94ZmRlZE1paWFaLTFNV3Vjam10aWlLYkhRNzhjNXM3UGhnVlNpY2J4dThNZ3BmaHp2azhSRWEtMFUtam5uRm9wYTNlTGNPMFhMbTdPTWRTZXBZdGZ4SDNsTkZlVDJiRjBlVlJNa2hmSEozNlB5NVl2Z0xIM2VNSjRGaGdiUm8wajloVjVHdW5KcC12V2tIRTg?oc=5",
-      "published_at": "2026-11-17T20:00:28+00:00",
-      "topics": [
-        "dgii"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "dgii"
-      ]
-    },
-    {
-      "title": "Comunicadores piden a la DGII excluir pequeños medios digitales de la facturación electrónica obligatoria",
-      "publisher": "El Nuevo Diario",
-      "publisher_url": "https://elnuevodiario.com.do",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQN3ZkbGNRUXVaRlRUOUtoX1ZDMmg3TGdvZm85dlRxUGF2aG9Hd1lneEdCd0NOQ1RuMW1GczgzeXNiUktjVmpJanhFdTF1M3NDeGZYckVhMjdFWGhwWFZVcnlxdzRpNmZhek1KVFhqd180VWtkSzFkU3M0amdPc3BRSEt1YVJDWjlyRzBTU0FGWE1pS0FJUEZoRko4U2hPUnNhQkVzenZWWDVObldSWXVLWEZSU21Cd1VVQktKYURqZ3JlQm16bG5TX2h5aFJMS3ND?oc=5",
-      "published_at": "2026-11-17T19:55:22+00:00",
-      "topics": [
-        "dgii"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "dgii"
-      ]
-    },
-    {
-      "title": "“La nueva fiscalidad no es parte del futuro, es el ahora”, afirma director de la DGII",
-      "publisher": "Periódico elDinero",
-      "publisher_url": "https://eldinero.com.do",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTnh0bFI1VmhpdGdZN2t3c2IxOURtUjZKZlh3b0NGZXJ0SWRGcGU0VWZFd1c1QUdSei1mWHhoTEVRcjAxNGVhZ3I4TEpIb2drUTJYbXMyX1hHMG5ROW1yejd1OUxtc1dxYnNQXzBWQ3ZLSGFVY0ZyMHBzUUdWcDduQ2NvSWRtNm9kOFVDN2xvZloyay1CQTY0dGNiZnRNT1Zqc2lSdm1GenVxek0yMFhWc3Uxcw?oc=5",
-      "published_at": "2026-11-17T19:51:59+00:00",
-      "topics": [
-        "dgii",
-        "economy"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "dgii",
-        "economy"
-      ]
-    },
-    {
-      "title": "Política Con 6to. Sentido - Caso Carlos Durán y la facturación electrónica ¿Qué dice la DGII?",
-      "publisher": "El Nuevo Diario",
-      "publisher_url": "https://elnuevodiario.com.do",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWXNudWdSYUpDUEVQX2dfaFR4SWo2Y1EzYUJjcUxHVzdqbzE3ZU9ZajhTenE4Ri1MdDlNbzk4Q294N1VzLXdlZExZOWNzaXBmOC1MWUJfM2tpOWhQUEV6bDE0Qy1FQ0ZLZG9FbUpGbnBHQUlhY25XRENpejJSeVg2UEt4T2pqcTdIMmFZcGJwTnoybnd1WEhtMDNHT3hMTjVwX0VBZ0ExS1hnUlN3VXpZZ194MkpYbHFMTVJpLVRB?oc=5",
-      "published_at": "2026-11-17T19:50:57+00:00",
-      "topics": [
-        "dgii"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "dgii"
-      ]
-    },
-    {
-      "title": "Facturación electrónica: DGII definirá cuáles negocios califican como pequeños",
-      "publisher": "El Dia.com.do",
-      "publisher_url": "https://eldia.com.do",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTEo1V2pMZF8xQUFWS1hGMWFfS3VZTHlrSGUzVGJDOUNnLU1KZm5HbC1nTnFrX1dKZnA5dXNsZUpITi1rb05jZl9vdzY0TTlrZndXS3pxdGc4amp3RjluN09SVmk5T0RsVHg2blR3U2VidmV5bW1JZ05Ja21pREVIVFVQY0tGWHZxWjI1ZFVPTFJxVGVJQUdHRHlJUnJ5aEoy?oc=5",
-      "published_at": "2026-11-17T16:53:21+00:00",
-      "topics": [
-        "dgii"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "dgii"
-      ]
-    },
-    {
-      "title": "DGII asegura que no persigue a los colmados por la facturación electrónica",
-      "publisher": "El Dia.com.do",
-      "publisher_url": "https://eldia.com.do",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNb29qS29nY3JKT2ZRS1pwSFpBRVowTUVjUWt0QVRfRDc5UV92VHp2c2JfRDF5alIwM0IxSE5nQ185dGxvRFFVVi1MUUtaSzBpZ0pieWJraUVtRGpEUU1Od1ZqQVpLcV9oTEktS3liRFk4TE03LWpMZzRNaWdMLTF6R0puMXFTSVhkazVZSVdidF81ekNISVptRG1XaVo?oc=5",
-      "published_at": "2026-11-17T16:19:09+00:00",
-      "topics": [
-        "dgii"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "dgii"
-      ]
-    },
-    {
-      "title": "Comerciantes respaldan tregua de la DGII por facturación electrónica y piden más facilidades",
-      "publisher": "El Dia.com.do",
-      "publisher_url": "https://eldia.com.do",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNkYyQWZBdzlyM0VHcGlRVUZyMmU4X3RlNHhlNmJmcFFZNzdteDBGYVBwbllFMDEzNXlDS2d3cVBWbXNuQlByWEZSY0xiSGlzR3VhaWNMSDUxaHgxeldXOHd4YlRYSnVIVGlNZUJBYk96dzVielN5c0lUWFRjS1JXb1d5TFJGLVlxcWhmWWd4bzlIU1JvZmxsMkREd2hLRVYzMmNPM1RQNmxJUjRDeTdGY1ZYYmY?oc=5",
-      "published_at": "2026-11-17T14:58:50+00:00",
-      "topics": [
-        "dgii"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "dgii"
-      ]
-    },
-    {
-      "title": "Guerrero destaca supervisión bancaria dominicana",
-      "publisher": "El Caribe",
-      "publisher_url": "https://www.elcaribe.com.do",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQThWcE5zXzNjOG93SGtUYnBzb01xcE01ZnlJMG02ZFdSbFk2RGVFaUJGY25kZDg3NnB5cXllbVVtR2dyU0tjUDdsVERWdkJTMFNBRkVxbFVWWkhOYi1UUWNURlRVeUtCOGc2WFdlRURrVURTRk5hWFZpdDFTSVh1RExCQ2d2ZFJJUDdBVUd2OA?oc=5",
-      "published_at": "2026-11-17T14:51:59+00:00",
-      "topics": [
-        "bcrd",
-        "finance"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "bcrd",
-        "finance"
-      ]
-    },
-    {
-      "title": "Superintendencia de Bancos garantiza normalidad en RD pese a fallas en EE. UU.",
-      "publisher": "El Caribe",
-      "publisher_url": "https://www.elcaribe.com.do",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaWlkWUx0eExlUDItRnJiTkJHd2l0aEhEcXRpWlFYZ1VHNlZSLUtKU2xhbmFsVHVsbmwxWDBGX3FzdkJjZGUwWnI3MWhVVEtpR1ZvTlVaX0U5NmhLNVlnVWRNVWV6Wi1zdktHWlA2NWRuSjF4UHVZV2x3dGNTSDlyWFMyT2w0RFNCcS1wUjJOa2dkWjJET1hhZkU1VklESFlDVzBjR3pHc0lhQnI4dWctOFZGUThDbFpTSElr?oc=5",
-      "published_at": "2026-11-17T14:14:00+00:00",
-      "topics": [
-        "finance"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "finance"
-      ]
-    },
-    {
-      "title": "La Nacional presenta opciones de financiamiento hipotecario a dominicanos en España",
-      "publisher": "Acento",
-      "publisher_url": "https://acento.com.do",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORlZaUXJqNE9nSDliUVNRNmR5Vi1QZHFOT1FiRlNycnF1RWhiWERtNkpPZUFlRjY0eVVfUzJYdWcxR2xKa0JiSk81OWhOcUJiSGJUbV9BMk51MV82Tll6bmZ3STAzNnZCMXU4R3lDZXlKeThsQVVTTlNicnRBQXkxdkE4MUc3VU5XSUk3YWxnUTRCV3l5NGFqaGxSQWFwN0FmSldMZklMVlNyaWRsOWlPQnNDbjl6NmVXMEJuX1FiZjhjNnBvQ3fSAcYBQVVfeXFMTkZWWlFyajRPZ0g5YlFTUTZkeVYtUGRxTk9RYkZTcnJxdUVoYlhEbTZKT2VBZUY2NHlVX1MyWHVnMUdsSmtCYkpPNTloTnFCYkhiVG1fQTJOdTFfNk5Zem5md0kwMzZ2QjF1OEd5Q2V5Snk4bEFVU05TYnJ0QUF5MXZBODFHN1VOV0lJN2FsZ1E0Qld5eTRhamhsUkFhcDdBZkpXTGZJTFZTcmlkbDlpT0JzQ245ejZlVzBCbl9RYmY4YzZwb0N3?oc=5",
-      "published_at": "2026-11-17T13:59:21+00:00",
-      "topics": [
-        "securities"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "securities"
-      ]
-    },
-    {
-      "title": "DGII ampliará plazo para facturación electrónica un día después de descartar otra prórroga",
-      "publisher": "Diario Libre",
-      "publisher_url": "https://www.diariolibre.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTTd0cUJmZEhSZnpnV0ZUV3RNQ2JnTXBJT084XzFhWEREcy14VGtxN3dscXJ1QU9UTkFiOHhGaHdMWXRPOW5ZRkNCMmYzak5QejUtS3ZpQ1dSZHIxY0JYNjlyaGVZVjhaNk5ZQXJXdkVZQW1ZVTdIeXhBNFhvcXJSNFVwSk5xeXNkQ2FtcWhaMHY0UjBpTjR0TFZIRnJ3anBUTEQ2aG0xUGNWV3lxWC1SU2lKQdIBuAFBVV95cUxNZG9SSzA2bUkzOVltX1VaczVnSnczT0xYcnNRV3ZYZVJrVGZ2QWpmUnB0QVRtYnBmUHM3TDAtZkZ0OS1hU3FXWjY4R19qTFJ5WTVxYzVBamlTdERCYkszUnVycTJMdVRmMEdneURqSlhWWHF5eHpqUHIybi1nWlYyUXQ1Z0hZQVZfNVFtUEhPSXNfY1lhd3dXbi1TQkNnZGJpU3NTekphWlFCZnZ5SlJJMjBuSlluandW?oc=5",
-      "published_at": "2026-11-17T13:51:00+00:00",
-      "topics": [
-        "dgii"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "dgii"
-      ]
-    },
-    {
-      "title": "DGII extiende plazo para la incorporación de facturación electrónica",
-      "publisher": "El Caribe",
-      "publisher_url": "https://www.elcaribe.com.do",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTlMtalQwY2Ytek4wUTRxenJ4OTVEV2tXNl9IQmRwZDNqbkNMN3dCYnAxaHdZQXlnRGU3cGRSVVdtNldVcGM2MVF3bUVOUk1tUnlYWUc3T1g5VDNpV013R0xGZDlscEgzRWlzdERkN1B2eTlIcTUwaUZ5aXgtbU9CejgwbTNOZUJrb3Jhc0FOeUc4NG1lNjloQ1pTdF9rbVRaX01wbW96c1JZOWFVVnRQMw?oc=5",
-      "published_at": "2026-11-17T13:22:20+00:00",
-      "topics": [
-        "dgii"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "dgii"
-      ]
-    },
-    {
-      "title": "DGII ampliará plazo a micro y pequeñas empresas para acogerse a la facturación electrónica",
-      "publisher": "Periódico elDinero",
-      "publisher_url": "https://eldinero.com.do",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUWpKcUpyY0ZsX0d4SGwtUTYzNnNBcnIxT0hOYzdXNmlCR1F6VF9wR191Um84R3NnUmttRUpFVFVLNHNieFhwMVZvUDRqTHdpUXA5SXh2TG16WlNhZV94UkN0bGhQZ1p5anM2Z3JEMDRLNkdVTWotWTJEd0w2LUF0RUs5ZXZldmJWemhMbXhiMWV4Nm5vYURwYUw2WWc4ZVBjZlEzVW1NejRXN2lpSk1nVTdKdzVjendJVlhYblJ5Zw?oc=5",
-      "published_at": "2026-11-17T13:06:09+00:00",
-      "topics": [
-        "dgii"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "dgii"
-      ]
-    },
-    {
-      "title": "DGII anuncia nuevo plazo de facturación electrónica para micro y pequeños contribuyentes",
-      "publisher": "Listín Diario",
-      "publisher_url": "https://listindiario.com",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOczBabEpkVVFnVXpLSE40QjNOZkNNQ2FuSzNweWNwbERTWkZUeU5LMkYtUnlxVmVHc21PVmNOWDg3bTJVME5RMnUzRm5PZm1McmlXSTFmVDd5cG11dVk5bWFDTVdhTnViZmdNWFBIdzRKMGlOb04yYXJsUXRxd2RRT202ZVZ6QTljeFNXc25wdnByRWt3QUxwcUZmdG1jLS1IdWJtSFFKNHo4bThFeU1CZ19wZFVEQ0dJT3BNV0lEb0xWUFh1NThHbmMyNGp2SzlRZ3VV0gHYAUFVX3lxTE5wZzNJYTFsMjVvUDhpRW96RVFyTTRZY1JtWXlZYV9HZU5oVTlqVHFPVWkyR0d4b1pkNGtZUVVyWFlWMjJleERGWThRRXZPb19INi1xdkQyV0xENDhuMW1hOThxYzFmRXdyYWRqZXN0MjN4ZXRvZVVZTV9FcHhwNW9xeW9wYXdQbllZT3NVTFY1UlZhT1RQTUw3R3VYcEFNM0lfV0hDdE9STXBER180c2xUZHhMbjg3ODlSYWdKOUwzVkpZdnNtUEUxYVhReEh2bEp5M2lheFBJUg?oc=5",
-      "published_at": "2026-11-17T12:46:51+00:00",
-      "topics": [
-        "dgii"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "dgii"
-      ]
-    },
-    {
-      "title": "DGII recula y decide ampliar plazo para incorporación a facturación electrónica",
-      "publisher": "El Nuevo Diario",
-      "publisher_url": "https://elnuevodiario.com.do",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQR2V3MGFaalJzZDczdEZIemxiSVNHUF80ZkhEWkFEeWxnbXdnSWFXS0UwVk5lSTQ4T2tKYlRwdzZ2dnVaa2JxQzZoYXk0V2Q3QlB0Yko0WGR2TVZYemFwajB5VWY2ZDdlVE1iYkM1RmRoVXAzenlsYTl3V0dUYTBnMGhYWUNVUGlYZ2d6VmdGdE83TjVnNEJ4SVdUTEJCZDVPYTgxcDRjUlhNbTVsZnc?oc=5",
-      "published_at": "2026-11-17T12:25:21+00:00",
-      "topics": [
-        "dgii"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "dgii"
-      ]
-    },
-    {
-      "title": "DGII anuncia ampliación del plazo para facturación electrónica tras descartar nueva prórroga",
-      "publisher": "Acento",
-      "publisher_url": "https://acento.com.do",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORnU4QU1GM2xsNl95MVlsbzkwNF9wX1NSV0RGVG1sQ0F6dXZVQ0tnelp6Uko3dU5md0ZpQzNZQUNWemxlbEZSRzZBbk9Cc1VDVUJkLUFabkVsdTdyRWFTS3A2cnpDM2owUjBwWjRmb2pkUHJNTU1zS2RsNXlVcmhFMUVheHhFN3JlcEpSbVZiVGIxd0pHODR0SlE2X0huOGxYUnkzMElNYl90RElfSi1QY1Flc3FRaGo2VFNrbDJNcGtGS2ZXVEQzNlBQdm4wLWVHRXfSAdIBQVVfeXFMTkZ1OEFNRjNsbDZfeTFZbG85MDRfcF9TUldERlRtbENBenV2VUNLZ3paelJKN3VOZndGaUMzWUFDVnpsZWxGUkc2QW5PQnNVQ1VCZC1BWm5FbHU3ckVhU0twNnJ6QzNqMFIwcFo0Zm9qZFByTU1Nc0tkbDV5VXJoRTFFYXh4RTdyZXBKUm1WYlRiMXdKRzg0dEpRNl9IbjhsWFJ5MzBJTWJfdERJX0otUGNRZXNxUWhqNlRTa2wyTXBrRktmV1REMzZQUHZuMC1lR0V3?oc=5",
-      "published_at": "2026-11-17T11:40:52+00:00",
-      "topics": [
-        "dgii",
-        "securities"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "dgii",
-        "securities"
-      ]
-    },
-    {
-      "title": "El Nuevo Diario AM - La DGII asegura no hay «presión» para los que faltan por incorporarse a facturación electrónica.",
-      "publisher": "El Nuevo Diario",
-      "publisher_url": "https://elnuevodiario.com.do",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPaGc2cXdsZUc5blhBcDlQNWU5N25tSFF4RUhPT2JUdEczQzJrb0FQTWkwNVQtcmE1ekUtTWZKYXRZYk0xZG01MTJaQ21vQ01xczIya0tYaXkyeTNzWjMzZzlreDlmdkNrWFktQmdkZ1puUDUzbG1xVG9RMGw3bmNpS1lNSzU4bG5ZNEhMSVFmc0pmbEpCaWNiRDRFNHJKNVlQY2FqN1JwUFJnNGt6Ylk5X2VqX2xWc1hadWVZN2NFNUI3V1FLd0hQNFRhb2hYQVZmS0Y4MkpVQ0ZWOFpRWUE?oc=5",
-      "published_at": "2026-11-17T11:01:09+00:00",
-      "topics": [
-        "dgii"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "dgii"
-      ]
-    },
-    {
-      "title": "El 36 % de la banca se prepara para clasificar su cartera de créditos como verde",
-      "publisher": "Diario Libre",
-      "publisher_url": "https://www.diariolibre.com",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQkI2cTQ4TW1uRVkzNUZ0cDZ4WE1IWllLcDZVcjAyZGxyVFpsQUVsRTNJVUMxYVR5aW02bWRsNUV4RHVWcV92X1VYUGxoYUVTVEtqWVE1cThMYlpVZzNuWEhiY1FxWEhnaXUtbXJDOUkxdjh0T1B4ejRKLXNHY1JBNlh1NUZVWkVDeDdwNGZWWEhZRmdmV1pXOHdQQXFtWjJTbVRPYVdHcUhWMUFtYi1MTnkwc2dERERFTVkwZDBJS0M2LURsaGRkSDQyONIB0AFBVV95cUxORE12RG5HX2tyeURVODNCYWxtbzhrT2ZfZm5LSHpMeDkxeE1PSkJ2MS1Qa3ByTVZWNDVzWWpic25OSXNPSVBOUGtqYWg3ZGcxVTZ3U2hGNmxRWjZsVXdXdnc2ZzU2d09tSUdYYzdROWR0ekplbkVhOFNpeVZPSlhmdWk2UEpPalBUbmktMlVORjJEVjlIcGp0ZjJfV3JXX01NWUhEN2hfZzF0QU5pZkQ5YTNfVGZMN1hJQnVpSEhLR3BreUVENmcyZHUyYTI2Q3B4?oc=5",
-      "published_at": "2026-11-17T06:40:40+00:00",
-      "topics": [
-        "finance"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "finance"
-      ]
-    },
-    {
-      "title": "Nueve de cada diez bancos ven el riesgo climático; nueve de cada diez no lo miden",
-      "publisher": "Acento",
-      "publisher_url": "https://acento.com.do",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQU2JkUFpKZENnbDB6cHBNRjNoSmxWem0tX1poYzcwdWFnUmtBRDBVdGNUakRCNjBVemNRNDFXMHM3VmVBU0wyOUktMjJNOGN2SFAydFlkUlg4X2VINTk4MHlwcDRzOHdkajk2a2J2TE9OZTRiRVJNUUs0UTVDWlpXTzFWTlYzQ05tT0VpSy12Z0c4QzBSdXp3UHI1dlpta3o4TlRlQjd2RVMwSHhCUjFubDhVQnF5cVk3eFJIaHo1em9wZ9IBwgFBVV95cUxQU2JkUFpKZENnbDB6cHBNRjNoSmxWem0tX1poYzcwdWFnUmtBRDBVdGNUakRCNjBVemNRNDFXMHM3VmVBU0wyOUktMjJNOGN2SFAydFlkUlg4X2VINTk4MHlwcDRzOHdkajk2a2J2TE9OZTRiRVJNUUs0UTVDWlpXTzFWTlYzQ05tT0VpSy12Z0c4QzBSdXp3UHI1dlpta3o4TlRlQjd2RVMwSHhCUjFubDhVQnF5cVk3eFJIaHo1em9wZw?oc=5",
-      "published_at": "2026-11-17T06:00:31+00:00",
-      "topics": [
-        "finance",
-        "securities"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "finance",
-        "securities"
-      ]
-    },
-    {
-      "title": "87% de la banca reconoce riesgos financieros de tipo ambiental",
-      "publisher": "El Caribe",
-      "publisher_url": "https://www.elcaribe.com.do",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOFRKbnYzV3ZYck1qZG5EZm5COGp0cGJNczVMdW5CcnJaX0dnekxxOUM1STQ5ckpVeE8xLW9VdWFYZzVYaGFhM2VlTlBWbVRZcGlFa2ZYZkZyOWN4X1hoNm80LWxYNVBPZWFHRFJucWtVQl9HTWhWblRCc0FWMmxVTTlzVXdkRjFOdUNSMTJLb0dEWUlnenZnRUFwZHVYX3JlODZMdjU0aw?oc=5",
-      "published_at": "2026-11-17T04:37:36+00:00",
-      "topics": [
-        "finance"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "finance"
-      ]
-    },
-    {
-      "title": "Banco Promerica logra calificación AA- de Moody’s y consolida un hito",
-      "publisher": "El Caribe",
-      "publisher_url": "https://www.elcaribe.com.do",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZ2dCQXA1RU5XbFl6aHoyaU03R0dxYV92Q3dEWVVSeWphX3dhRGZjbVZTbkwxdTZZaG1VRWhIb1hXYVJHVW44REM2V25IWVNKR3ZTQk9leUZUajVrd1B3TnJrM21fM1A3QUJVX3ZQdTg0Wm1yWUdndllhMENMUkxqZUdmb081eEl0Yjdkbmx3TEo3UloyU1dNcVhNREN4eVI1UmV5al9OZUFnTnZLYzlSclBR?oc=5",
-      "published_at": "2026-11-17T04:33:23+00:00",
-      "topics": [
-        "finance"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "finance"
-      ]
-    },
-    {
-      "title": "Banreservas impulsa mipymes que generan el 61.6 % del empleo",
-      "publisher": "Hoy Digital",
-      "publisher_url": "https://hoy.com.do",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQU1aS1ZpZ25DUDBYOVRLVjQ3QnFaRS1oNGFhY2xVdHpsS2g5b2JOWXAyeUdlV2RUTmhXRDhkWjNEOG40Ti14VUlXai1oaDkzcHFoRnd5Tm1TMkMtdWk2eEdfenJNZHktemcwZXFfOGRzZnZBa0ZYRlpHT3VpRmR4aGI3WTh2Tm5aX1NSczNkMjJKc0pRWXZB0gGXAUFVX3lxTE5BTVpLVmlnbkNQMFg5VEtWNDdCcVpFLWg0YWFjbFV0emxLaDlvYk5ZcDJ5R2VXZFROaFdEOGRaM0Q4bjROLXhVSVdqLWhoOTNwcWhGd3lObVMyQy11aTZ4R196ck1keS16ZzBlcV84ZHNmdkFrRlhGWkdPdWlGZHhoYjdZOHZOblpfU1JzM2QyMkpzSlFZdkE?oc=5",
-      "published_at": "2026-11-17T04:00:00+00:00",
-      "topics": [
-        "economy"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "economy"
       ]
     },
     {
