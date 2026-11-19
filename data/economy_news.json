@@ -1,7 +1,7 @@
 {
-  "date": "2026-11-18",
+  "date": "2026-11-19",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-19T01:15:25+00:00",
+  "checked_at": "2026-11-19T07:38:22+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -23,32 +23,32 @@
     "bcrd": {
       "ok": true,
       "error": null,
-      "count": 2
+      "count": 1
     },
     "fiscal": {
       "ok": true,
       "error": null,
-      "count": 6
+      "count": 2
     },
     "dgii": {
       "ok": true,
       "error": null,
-      "count": 6
+      "count": 1
     },
     "finance": {
       "ok": true,
       "error": null,
-      "count": 2
+      "count": 0
     },
     "securities": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 0
     },
     "economy": {
       "ok": true,
       "error": null,
-      "count": 5
+      "count": 3
     },
     "economist_andy": {
       "ok": true,
@@ -68,7 +68,7 @@
     "economist_raul": {
       "ok": true,
       "error": null,
-      "count": 3
+      "count": 2
     },
     "economist_jose_luis": {
       "ok": true,
@@ -83,11 +83,62 @@
   },
   "items": [
     {
-      "title": "DGII clausuró más de 60 negocios por competencia ilícita",
-      "publisher": "El Dia.com.do",
-      "publisher_url": "https://eldia.com.do",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTzd1eUtXQXRJT3JaVjg4R1ozR1ZkUUNkQXdVWTlPdUQ4OXhDTmVKclJMVWQxMmdJSTAwc1ZDbDYzWllNRndaX3lzWUs2UFF4Qmg5ZHdyN0Q5LTdpNGRuV2syMnNEdGFOVThld3Bpb19lY1gyWlExZ3kwaGRMNTR4MQ?oc=5",
-      "published_at": "2026-11-18T22:24:20+00:00",
+      "title": "Andy Dauhajre muestra reforma del gasto antes de la impositiva",
+      "publisher": "Periódico elDinero",
+      "publisher_url": "https://eldinero.com.do",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNalVKZ3dISmVydWlWM3p6RTM1Wll2WVJBZG9ocGhEMnBiUkdNdzJvYWk3di1qVm1nY0w3ZnEweE5Bc050YzFERTkxYWtNajFnamxxaGlsWldFY01lenZ5MlpVZlljbGhIaVcwTllZRDFkSlZPTWZ6cklSSU9wclB3Qmk2aEZNWXk5cVFtRnhMdXdlck9jdjUxV0JR?oc=5",
+      "published_at": "2026-11-19T06:48:41+00:00",
+      "topics": [
+        "opinion"
+      ],
+      "economists": [
+        "andy"
+      ],
+      "economist_match": "headline",
+      "searches": [
+        "economist_andy"
+      ]
+    },
+    {
+      "title": "¿Cómo se encuentra la deuda pública a septiembre de 2026?",
+      "publisher": "Diario Libre",
+      "publisher_url": "https://www.diariolibre.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWW1xdjN6S0FHX1VCZEVrUlRRcmtpZlZ6X3drY3c5R1BxSWJGdUhBR21kX1JKandZOGJxNVhLX3lIS1pRNFdSV0hCYW1obmVEYTd6bG1xWFQtdmNhLUtIOThiaEFrUXpjeW5wYU4taEp1SlhQQ3hLYXZna0JCN2ZEcmMxX2dtNFFtUHhRcGoyS2dDbTR6WjNWSFJwTlZaNmk2alZiX3ZhWGpZSFRHTnlfV3d1c00wUnAyZklZVtIBwgFBVV95cUxOTm1QaXFTaDBfOXBBTUtlSDVwR3VXS3lRR0Q5S2hIaFpmNmlBNjhKcGZBVzU1dGIxSnpoYWJ1b19mYmMxbENTR0VMc3NPb1NSTzZ5c0JCVW93alpSeHJIcldIdUwyZU9VZW5IenRyWE1jX25aSGFzbU9rNTJhWGdmTml3eDhvVTFqSVJURVBBTjVOOE5tWG11c2IzVC1ZSENiU1ZEeXBhTVhpbnQ0WHNvcTlSclZMTmJqN21DYURfWEFYdw?oc=5",
+      "published_at": "2026-11-19T04:57:38+00:00",
+      "topics": [
+        "bcrd",
+        "fiscal"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "bcrd",
+        "fiscal"
+      ]
+    },
+    {
+      "title": "Magín anuncia aumento de la inversión pública a RD $230,000 MM",
+      "publisher": "El Caribe",
+      "publisher_url": "https://www.elcaribe.com.do",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZGwxM1dBS3Y0Y3RRT0lPNDBJS3gxeUFsZlF2MXhPQ2JiNUo4NzVGREZXMVpDWi11aXZFOVFqX0FtMGxMcFozX1lmOWNOQTQwVTgxZG45ajB3cEhRNjdGY0RoX3NSZnNmdVFibjg0b0hsTUUzcGhlU0xsWTlkUlBjc3JHdEFFQnE2T3MxWU10eFRheXBldWx2MjdrS0lrMWZ6bm5jcW5QMFQ?oc=5",
+      "published_at": "2026-11-19T04:00:00+00:00",
+      "topics": [
+        "economy",
+        "fiscal"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "economy",
+        "fiscal"
+      ]
+    },
+    {
+      "title": "Diputado solicita prórroga factura electrónica a DGII",
+      "publisher": "Hoy Digital",
+      "publisher_url": "https://hoy.com.do",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOGR5S3pWeWZleTdJVHZJR0R3ZnUwREZiQmRWa083eURfVGNkck0xZVN1SGtWZUJEemdYUFRXdWZWY2VjdDhYZ2ZTX0g0RTkzT29XTm5XR1FReXZaSGY0MnppcHhoSi1vT1ZoSFlhQ2UzTDR0MDZxc0JZUzlKSlF6ekl1dVFQVlJCb3JxN1I2Z0JiTU9xSDVIRDAzTdIBmwFBVV95cUxPOGR5S3pWeWZleTdJVHZJR0R3ZnUwREZiQmRWa083eURfVGNkck0xZVN1SGtWZUJEemdYUFRXdWZWY2VjdDhYZ2ZTX0g0RTkzT29XTm5XR1FReXZaSGY0MnppcHhoSi1vT1ZoSFlhQ2UzTDR0MDZxc0JZUzlKSlF6ekl1dVFQVlJCb3JxN1I2Z0JiTU9xSDVIRDAzTQ?oc=5",
+      "published_at": "2026-11-19T04:00:00+00:00",
       "topics": [
         "dgii"
       ],
@@ -95,6 +146,36 @@
       "economist_match": null,
       "searches": [
         "dgii"
+      ]
+    },
+    {
+      "title": "Gobierno busca aumentar la inversión pública",
+      "publisher": "Hoy Digital",
+      "publisher_url": "https://hoy.com.do",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMDR6a1A0YmUwcTZTVHphME9YMEgzSEVtc04xaTFMOVY2c0JMYU5rUVpDS2F1aFAxeEtoWkE4TVZWMEJBZUgtVFNjUF9nd2swMVdQQXRNUVg0ZWlzQ2MxeXVUUmI0VG1Lc1N5QUliRnB3UUMtMnlZSTZZbXQ5RjREbkRqYW5YSEdi0gGOAUFVX3lxTE90YlJuWlBSM2d6MEYyem9jUGZDTlNZQ0c2b2hUMUJZMHhCMjlkR2VsN2lva0JTN2JXZ3lLdVBjaGs1bEZ6WUFnZ2J4X19LV0lYbXUwUkJEWUlmTWtEbThhMlJ4SUpEbkdBR3h4S21haDZWOUo5LUlYb1hCSjdrV0N4ek1YV3AwOEVBck55Smc?oc=5",
+      "published_at": "2026-11-19T04:00:00+00:00",
+      "topics": [
+        "economy"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "economy"
+      ]
+    },
+    {
+      "title": "Ito anuncia una alianza para abrir mercados a las exportaciones",
+      "publisher": "El Caribe",
+      "publisher_url": "https://www.elcaribe.com.do",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWU15a0ExejlRZFRNUndDLVFRTV9OUDFOb2VfY2p1N2pxNWdHQzgxaTI0MkhubnRIdURPS3U4VTBGdE1MTi1DWDJJQk5CRE1KRGlvS0FxcFpSZTVoNU5ybGFFVE1oOERPZ1hnay1fQ2RkQUZkU2dOck5hbTBDakRjUWU2LWFCTHl3MzJnM2huYUVXMnJ2dVJJSm1RcXVSVVZTM1ZER2Y4NHhmczBpdUJJa2Q0N2g?oc=5",
+      "published_at": "2026-11-19T04:00:00+00:00",
+      "topics": [
+        "economy"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "economy"
       ]
     },
     {
@@ -132,36 +213,6 @@
       ]
     },
     {
-      "title": "Lectores de Acento apoyan que la DGII extienda plazo de facturación electrónica",
-      "publisher": "Acento",
-      "publisher_url": "https://acento.com.do",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPa0ZjNWJWSjVWV0E3Y2NjSkJhX3JaUjFvcG5idkU1V2pfMHpXQ3ZscWkxbWduWlJoS2pncWZib0RtSWNQSHpueHJ5dlZRY2ZaU18xWFNSNjJxeEtLU3B3eUZCaEVnaTNIZkNlQ3J0VllvZFFrZ3F6SFlLblZZSlhlOUJGZG10cS1IallvNGV1MnEtYm9oMXA4NUhfazQ5RkpVUmx1M01mdlVKR0ZHUkpGUFUxbVllN3hId0ZuUVdOM1JXTzDSAcMBQVVfeXFMT2tGYzViVko1VldBN2NjY0pCYV9yWlIxb3BuYnZFNVdqXzB6V0N2bHFpMW1nblpSaEtqZ3FmYm9EbUljUEh6bnhyeXZWUWNmWlNfMVhTUjYycXhLS1Nwd3lGQmhFZ2kzSGZDZUNydFZZb2RRa2dxekhZS25WWUpYZTlCRmRtdHEtSGpZbzRldTJxLWJvaDFwODVIX2s0OUZKVVJsdTNNZnZVSkdGR1JKRlBVMW1ZZTd4SHdGblFXTjNSV08w?oc=5",
-      "published_at": "2026-11-18T21:00:27+00:00",
-      "topics": [
-        "dgii"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "dgii"
-      ]
-    },
-    {
-      "title": "Pedro Urrutia dice DGII no anda detrás de colmaderos; asegura FE busca que impuesto pagado entre a la institución",
-      "publisher": "El Nuevo Diario",
-      "publisher_url": "https://elnuevodiario.com.do",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOMVVad3JjWks2bEF6WFJETGQ0WVBtWEVaMlpvUjJLeU94eUhUdy16WGUtN1ZOVkVvOXcwRS12c290WVdpYkp2NzlmVTZnZDYyRHA2bVdVZHdQUk00TUdtWl9NdmdMcGlBTkFzdkJVdTVEaGlhMG94WnIxWUpwLVViSXVLWEdlT0Y1RXZCZTVWWlIyb3k1cU84R3NyZWx6eVdNVjA3Q1BoWmxLZXRqWFNMZTNNTTZKNDZSaGVUczlpbGctU0dfOUo2X2pfV2ZRbFZNVFAzeWxZcVN0UQ?oc=5",
-      "published_at": "2026-11-18T20:51:35+00:00",
-      "topics": [
-        "dgii"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "dgii"
-      ]
-    },
-    {
       "title": "¿Reforma fiscal, menos impuestos o mejor gasto? Cinco claves que dejó el Foro Económico elDinero 2026",
       "publisher": "Periódico elDinero",
       "publisher_url": "https://eldinero.com.do",
@@ -177,213 +228,6 @@
       "economist_match": "search",
       "searches": [
         "economist_andy"
-      ]
-    },
-    {
-      "title": "Banco Popular expone al FMI su visión de la economía dominicana",
-      "publisher": "Acento",
-      "publisher_url": "https://acento.com.do",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOY2FkUGZJZHBxSjBBSU5BYTNKWmotakprR2VZR0tJMTB6d1VPdDdHa0JFWkFlWEpQWjFzS2Z5SFhESXkxelNsY1kzYkI1OG5JOUZIWjBEN01sWVdHSWlLZGpjNkpmdExaUkdnbl9nVWZYdzVsV2xHWkxXektaSDhBMVpoQXpPdlA2TFY2WFhfMjBmWG02R1Vlcml6c0ZNSWZwVC1haTI5aDJMX2vSAasBQVVfeXFMTmNhZFBmSWRwcUowQUlOQWEzSlpqLWpKa0dlWUdLSTEwendVT3Q3R2tCRVpBZVhKUFoxc0tmeUhYREl5MXpTbGNZM2JCNThuSTlGSFowRDdNbFlXR0lpS2RqYzZKZnRMWlJHZ25fZ1VmWHc1bFdsR1pMV3pLWkg4QTFaaEF6T3ZQNkxWNlhYXzIwZlhtNkdVZXJpenNGTUlmcFQtYWkyOWgyTF9r?oc=5",
-      "published_at": "2026-11-18T20:45:40+00:00",
-      "topics": [
-        "economy",
-        "finance"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "economy",
-        "finance"
-      ]
-    },
-    {
-      "title": "Magín Díaz anuncia aumento de la inversión pública a RD$ 230,000 millones",
-      "publisher": "Acento",
-      "publisher_url": "https://acento.com.do",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbW11ZmxVdUlacURiYWg0YVJndXBESTBzQmxwQzNFZnFmcF9IREowd1pDMFFNaUZzc0JEOGlNTy1qTDdfTlpEQWRIV3lxRE94MUl0b1hnTF9WX1hyM2hhekx3cGJjU1A3ZGFvTkgtUUdwbGpvdHRZYmdscXZ3N1Rwc1BiOHBHRi1tR0hPY1NTYTRoUUxtWS1zYlR0b0NUM2s5ZnhxUkJ3WG5UaHl2OE93cmZ5eVJrUdIBtgFBVV95cUxNbW11ZmxVdUlacURiYWg0YVJndXBESTBzQmxwQzNFZnFmcF9IREowd1pDMFFNaUZzc0JEOGlNTy1qTDdfTlpEQWRIV3lxRE94MUl0b1hnTF9WX1hyM2hhekx3cGJjU1A3ZGFvTkgtUUdwbGpvdHRZYmdscXZ3N1Rwc1BiOHBHRi1tR0hPY1NTYTRoUUxtWS1zYlR0b0NUM2s5ZnhxUkJ3WG5UaHl2OE93cmZ5eVJrUQ?oc=5",
-      "published_at": "2026-11-18T19:59:47+00:00",
-      "topics": [
-        "bcrd",
-        "economy",
-        "fiscal"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "bcrd",
-        "economy",
-        "fiscal"
-      ]
-    },
-    {
-      "title": "Hacienda justifica nueva reformulación presupuestaria por crisis internacional, aumento de subsidios e inversión pública",
-      "publisher": "El Nuevo Diario",
-      "publisher_url": "https://elnuevodiario.com.do",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZEl2YjNkZGxrQVQ1SW91U1JpRTZQVkNQZ0FRTUkxc0hLaGNZdkc2OXNxLW5IY29BSFBJVVBmWFczQThzMklfR1QxUm85dVpwZFQ1NTdSWFl2ZTRuLS1GZ1hkM2hXdF9Mc0psZUJlbjllbGx3dkFmemtfYlZma2padVYwcUJMWFVUQndKMzY0aTVsTFpHWWozM1JoM3hONzdJYWhGeDI5ZWxKa0FTazdFanpUdlZySU9oZjFOdE1JVWpfUXdxbTB1RlV6X3hyX2ZPeWlfLXhaa1lrT2RCdU1MZ2otRQ?oc=5",
-      "published_at": "2026-11-18T19:55:47+00:00",
-      "topics": [
-        "fiscal"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "fiscal"
-      ]
-    },
-    {
-      "title": "Gobierno aumentará inversión pública a RD$230,000 millones para impulsar la economía",
-      "publisher": "El Dia.com.do",
-      "publisher_url": "https://eldia.com.do",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRTl2eGtWNzE4OVA0MENvMkZsdm1sMHZGbEhFbHZJQ2V0SWtyM0lGczRQSEstbmdOQVpPTV84SlZTYU4wVk1OanRkcWdsX3ZLNDJoMTRQRFlaSGpIVE53Y0hZSUVNTmlUWV80MGpLbHdBQ1Z1d1dnMTlxVFJ3U0pGNGpkWXpVZ2NEZGlNNUJ2MUhRZFd2d2lBdnluVXhZTDlac19hbEhZOA?oc=5",
-      "published_at": "2026-11-18T19:43:16+00:00",
-      "topics": [
-        "economy",
-        "fiscal"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "economy",
-        "fiscal"
-      ]
-    },
-    {
-      "title": "DGII explica por qué algunos contribuyentes temen a la facturación electrónica",
-      "publisher": "El Dia.com.do",
-      "publisher_url": "https://eldia.com.do",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQVhCdUhfMmJTNm5yS1RBRVdDSEttc1ZHRFN0VUtmQjNlUVJaa1R0dzljMjZJT25ndDRCNnU3a2E0NmVKUmRMRlpVV1ZsMDNVcUJhR3AxazlFMlRyVFdRTmxrcVV2MWpQVFRqN0pjajFKVDV4RXhvcHJKN09ZdjZ0SjRzQ1dZZVJoeXBWSHhUM1N1OXBnY21VSldxR1JTWnZrM1E?oc=5",
-      "published_at": "2026-11-18T19:31:36+00:00",
-      "topics": [
-        "dgii"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "dgii"
-      ]
-    },
-    {
-      "title": "Valdez Albizu destaca fortaleza del sistema financiero dominicano ante ejecutivos de Scotiabank",
-      "publisher": "Hoy Digital",
-      "publisher_url": "https://hoy.com.do",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxON2VpNnFXZXRCWlc5S09INXQ3U1JMbTNXVmZaN2ZIYm5Hd2RJd1hXODZOSGJVaWZ4REFRaUNLMkVicDBWTHBESTJmZnJlb2NjQkNUVW9jWEhCRkZqVHRENzVDNmdzaE9EWm5IR1FPeE5PTUlRa0RVSmlYcWRNRS1jMGtOdnFJZ0Q3emw2ZnNabXlIYXkzV2RyckNQTC10T3ZIN2VfXzBHNWpuWkt4c1dZcTZSQ1N6bUVMemJmSWlKY1N6cl8wYXhF0gHHAUFVX3lxTE43ZWk2cVdldEJaVzlLT0g1dDdTUkxtM1dWZlo3Zkhibkd3ZEl3WFc4Nk5IYlVpZnhEQVFpQ0syRWJwMFZMcERJMmZmcmVvY2NCQ1RVb2NYSEJGRmpUdEQ3NUM2Z3NoT0RabkhHUU94Tk9NSVFrRFVKaVhxZE1FLWMwa052cUlnRDd6bDZmc1pteUhheTNXZHJyQ1BMLXRPdkg3ZV9fMEc1am5aS3hzV1lxNlJDU3ptRUx6YmZJaUpjU3pyXzBheEU?oc=5",
-      "published_at": "2026-11-18T18:58:52+00:00",
-      "topics": [
-        "fiscal"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "fiscal"
-      ]
-    },
-    {
-      "title": "MICM y AIRD advierten que el comercio ilícito amenaza la seguridad nacional y la economía dominicana",
-      "publisher": "Hoy Digital",
-      "publisher_url": "https://hoy.com.do",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPc251eDhSRnFOb05ENEY3TW96azRJRFVVeldfQ1dUcXlQVEowUEVqRXRzTnJhWHRfbHhuY1FLakNheFVRdjJpN2tjcTJQS2E3eDA1S2tEVVNBaE8ySU41OXhuYVNRcHRWY3lYNEQyMVo5Qnh0OGQyLVFDcWtxX19qQi1abnZFRS12WEhxUGM5ZFFmTjJpckV3bDM3TGJUcUxpeEJpaW03YWszUGUtZUhyWGZDNHV6QlpEaV9Nc1V6Mk5vd9IBxwFBVV95cUxPcnBtdnRhN3E4WmhFYlplMjdEVTQ3TS1FRUtTYzNQeXZJZ0tqdE1NQ0k5ZVp3N3VPbUhyWlcwLWxaMEpKTWxuTVVzLWE3OW8tV0tfZ2ZDZ1V6bEU2LWRkMWoyTjNDc01ZUDdnZ3NONUtGSHMzcXZzTlBqMUdtVGtNMHFyanc3ZVJJZUt0MEZEazlZTmNkdDgtWnozbWs3YnRHbnY5X1FaeFF3RWtiSGs5a2lNVVZwQ09tSWRYNko1aHVtSXBVbzZN?oc=5",
-      "published_at": "2026-11-18T18:02:13+00:00",
-      "topics": [
-        "economy"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "economy"
-      ]
-    },
-    {
-      "title": "Directores de Aduanas y DGII consideran que no es viable fusionar ambas instituciones",
-      "publisher": "El Dia.com.do",
-      "publisher_url": "https://eldia.com.do",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYlR0SGYyZE40OXVhWEdHUEFKcF9Oa24zaUhTeHB2VjU4S082aVQtLTJ0YWFkSDAxN2hGRnpQeDFRVUdYVlU4YlFJYlVNVWx2Wks0QkllNXdEU3E5UGhPUGx4NW90UXVCRlpGY2owRlFxODJDMVBNQ2ZhSlJjVm8teWxHaDZCREJETnhpU0lhYXVIQ3JpRUxXSzBJcUUwNTdPUHZnWlhoSHVCUQ?oc=5",
-      "published_at": "2026-11-18T17:54:40+00:00",
-      "topics": [
-        "dgii"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "dgii"
-      ]
-    },
-    {
-      "title": "Directores de Aduanas y DGII consideran que no es viable fusionar ambas institucione",
-      "publisher": "eldia.com.do",
-      "publisher_url": "https://eldia.com.do",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYlR0SGYyZE40OXVhWEdHUEFKcF9Oa24zaUhTeHB2VjU4S082aVQtLTJ0YWFkSDAxN2hGRnpQeDFRVUdYVlU4YlFJYlVNVWx2Wks0QkllNXdEU3E5UGhPUGx4NW90UXVCRlpGY2owRlFxODJDMVBNQ2ZhSlJjVm8teWxHaDZCREJETnhpU0lhYXVIQ3JpRUxXSzBJcUUwNTdPUHZnWlhoSHVCUQ?oc=5",
-      "published_at": "2026-11-18T17:54:40+00:00",
-      "topics": [
-        "dgii"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "dgii"
-      ]
-    },
-    {
-      "title": "Facturación electrónica: DGII excluye a colmados de la obligatoriedad de implementar el sistema",
-      "publisher": "Hoy Digital",
-      "publisher_url": "https://hoy.com.do",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZFdFaVRYeHNBU3ZYOE1heFhHamtWZnlLSVhmdWhwTXl4YUpNT0doQ2RDYjNGdkd0LWppQkpWUWNYQmRtZ05kRjI3R2xMQU9MVnpYekxQZkNYVjVya2dMNW9YUjV1VktjTGY3UWZuSkNQckMySGhKdFhNSGsxLXVOcmRRd0ZweTVlTkw0aFNpSll5VnU5ZV82cjR0VGJQbGs3QTQw0gGoAUFVX3lxTE9kUlQyUTIxT0lHQUM2QW4xd2FpMXBhenB5WXpJREdSRGNjQ05tZ1UtNkRhUzhTeXRGM3NLMUlUMElGRHpVc2x4aEFvQjRxdXptdHQ4akZYd05fbnVmT1lKMUh6N3JVcnZWZURzclZPNWxvT0V1eWtFQVB1SEpzNmRWWnU1Q21vamlpU1hUQ1d4YXdmdkhPTXZFeDdhSFhVZnpYY0ROSVVJVA?oc=5",
-      "published_at": "2026-11-18T17:15:25+00:00",
-      "topics": [
-        "dgii"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "dgii"
-      ]
-    },
-    {
-      "title": "Exportaciones de empresas lideradas por mujeres alcanzan US$ 2,758.4 millones hasta septiembre",
-      "publisher": "Acento",
-      "publisher_url": "https://acento.com.do",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdXlmX1VIaXc3NG1KQTJ0QXRfbHlpS20tVmpJdTNuZjJuNndxMEllZG95T29MMzNzbXFUajBDeE0wak9zWnNuc205RkgyX2s3ZHZ3elp5N2FPSzQwVkZ3WTZPSUpuczBNdEhVNzRqWW5HeFBhZF9OX2diOE92NWlVQTBYUXJUV0w1Y2lQZFI4dlNqenJvb05nN2JiRTQtZU5LUUpXQ1dQRFJ2ZlpPTG9RUEh5N1FxMUYtS2lZeUxla2FaMmJFZFNFTmZlNk9PWFZSdkHSAdIBQVVfeXFMTXV5Zl9VSGl3NzRtSkEydEF0X2x5aUttLVZqSXUzbmYybjZ3cTBJZWRveU9vTDMzc21xVGowQ3hNMGpPc1pzbnNtOUZIMl9rN2R2d3paeTdhT0s0MFZGd1k2T0lKbnMwTXRIVTc0alluR3hQYWRfTl9nYjhPdjVpVUEwWFFyVFdMNWNpUGRSOHZTanpyb29OZzdiYkU0LWVOS1FKV0NXUERSdmZaT0xvUVBIeTdRcTFGLUtpWXlMZWthWjJiRWRTRU5mZTZPT1hWUnZB?oc=5",
-      "published_at": "2026-11-18T17:00:40+00:00",
-      "topics": [
-        "economy"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "economy"
-      ]
-    },
-    {
-      "title": "Albizu recibe visita de ejecutivos de Scotiabank y destaca robustez del sistema financiero dominicano",
-      "publisher": "El Nuevo Diario",
-      "publisher_url": "https://elnuevodiario.com.do",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxON0JoNmtSSllGS1FfbnJBaGJlcTBFekVtdkdPZW94bWpuemhoSUZ4cy1TeTFUMU5BTFBsQVpZV1ZEV3IwdDVna3BGRE5SOEdFTy1KVllBdmdQYUhlTkNiWHRqQ2FxNjdkRVJNMXdaN1lua0Q0YVVmV0htdGJqa1hIVnBubG1nMEl3QnUtVU9PSElJX3VXR2IyVkVJU09TcUE5c09LLWI3VDRwWjZpWUdoWkN2Ymw1OU5ZU3N1MHpYMHJNem9JTXZQVmUwTQ?oc=5",
-      "published_at": "2026-11-18T16:20:27+00:00",
-      "topics": [
-        "bcrd",
-        "economy"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "bcrd",
-        "economy"
-      ]
-    },
-    {
-      "title": "Gobierno pide elevar déficit fiscal a RD$ 365,968 millones y suspender regla de responsabilidad fiscal",
-      "publisher": "Acento",
-      "publisher_url": "https://acento.com.do",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZWxtQ0RNMFV6TVJaRmhlT1dyc3Q1d1Eybl9ZQ3FhQnRfcFRmWlAwdU1sNzNMSzBGeVpRNS1fSnZraVlCOF9VNTQzeTF4d3lERldBSWR4MzM0SklzeDF4Wnd1RnNaaFgyUmc5UENKV0paRXk2cTVUT3N3cGIzT2gzbk1wbXZVUzVkckl3M3FFSmNTSmwtV0lqcW0wbElCMG9fVmRNR2RYNUVwM2huUWVrRjFRcUw5WlctQl9xUVQzQ3E2NDlWTVFYMEFQX1VsejU4U1lzQkpRV3FSa3Nh0gHcAUFVX3lxTE5lbG1DRE0wVXpNUlpGaGVPV3JzdDV3UTJuX1lDcWFCdF9wVGZaUDB1TWw3M0xLMEZ5WlE1LV9KdmtpWUI4X1U1NDN5MXh3eURGV0FJZHgzMzRKSXN4MXhad3VGc1poWDJSZzlQQ0pXSlpFeTZxNVRPc3dwYjNPaDNuTXBtdlVTNWRySXczcUVKY1NKbC1XSWpxbTBsSUIwb19WZE1HZFg1RXAzaG5RZWtGMVFxTDlaVy1CX3FRVDNDcTY0OVZNUVgwQVBfVWx6NThTWXNCSlFXcVJrc2E?oc=5",
-      "published_at": "2026-11-18T16:00:12+00:00",
-      "topics": [
-        "fiscal",
-        "securities"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "fiscal",
-        "securities"
       ]
     },
     {
@@ -419,51 +263,6 @@
       "economist_match": "search",
       "searches": [
         "economist_andy"
-      ]
-    },
-    {
-      "title": "Más allá del relato (I): El tablero económico y social para medir a los gobiernos (1996-2026)",
-      "publisher": "El Nuevo Diario",
-      "publisher_url": "https://elnuevodiario.com.do",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRmFlamJvQmx0aThfb3FqWjhPZkFYeGh3dDZremJ6c013ZEFTcFhGcnBqMzM4Y01fVGRUVFE3MDBUUlVBemJiM1ROeXpYMXBtZHFhTHNudks4WXdhUEdSbDRjcnZRTDNuT0lVNEwtY21GTXVPYlR2MjU3QUNZX1NFTEhXYmN5bWtGOVEwRGxjbmdxcWxEV2drbDNCU2g0aWNIcy1TVHBEV1RGVHpkcmFFWWJCVW9MMWNjRVE?oc=5",
-      "published_at": "2026-11-18T14:41:18+00:00",
-      "topics": [
-        "bcrd"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "bcrd"
-      ]
-    },
-    {
-      "title": "Ramfis Trujillo: la matanza de Hacienda María y el trágico final de su vida en España",
-      "publisher": "El Nuevo Diario",
-      "publisher_url": "https://elnuevodiario.com.do",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcUhFR1YtNVJDOUw1NnY4Z3NKc3ZveG9HbUxVbXE4T2tqWTdsN1hXUVltZXFoYWNLM2pLWnNhczBCSWxfX0tKVE5nc0lJTXRla3JPQnh0Ql9LUHRTYk5MMEM0SG9sSjZrTENGUE5pMlpQTEZmOW0wLVVLQ0JzQVdqQ2xDcHdXVFZGbURxNWx6NjUtT2hDUGxIX0s4TzRHRFdBSFNGYVVNN3hLUFZKaVlQWGt5SDE?oc=5",
-      "published_at": "2026-11-18T13:41:07+00:00",
-      "topics": [
-        "fiscal"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "fiscal"
-      ]
-    },
-    {
-      "title": "Pagos digitales: más del 50% de servicios fintech contratados por la banca dominicana",
-      "publisher": "Periódico elDinero",
-      "publisher_url": "https://eldinero.com.do",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQXRSdkNGaTBReFE0MWdwUU95amZoU0swRVByOHE5R2ZCVlFPeVZnNXdzb0FFVUVYWXE0dlVTMzhXaEhUTzRCLVlSWUl6RWdfQlV6eFpyXzgtbjNPZm42ajFDb1Z0eThHMWNlZGhUZjdmVTZtcTYzT2JqY1Z2NV8tblhhejh2ajE2NFA5Mk5jMTVmT09ObnVTODdLLTVVQ2RZeXRaWUFJdkRTZnBkNFVBU2djR2Jmdw?oc=5",
-      "published_at": "2026-11-18T13:12:12+00:00",
-      "topics": [
-        "finance"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "finance"
       ]
     },
     {
@@ -600,44 +399,6 @@
       "searches": [
         "economist_andy",
         "economy"
-      ]
-    },
-    {
-      "title": "«¿Inmigración empobrecedora?» de Andy Dauhajre (3 de 3)",
-      "publisher": "Acento",
-      "publisher_url": "https://acento.com.do",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPODhtUFR6bUlFODZHR2VVVERkSi1ZUUhQcy1mWTZmRlV1YWxQNWRfbVZxOGdUQnhtQTN4MEJqMWtXNTFFS3pJYVQ1cnYzZzJUZWw5UU9CVDNMVlJqMS1LY3liQ2RzVE9tdHYydV9UWGZXZEpDSTRfd09ldEszZ2t5N0xKV2NBT3h4cXJ1RnVhX0d1MDlDRW9F0gGXAUFVX3lxTE84OG1QVHptSUU4NkdHZVVURGRKLVlRSFBzLWZZNmZGVXVhbFA1ZF9tVnE4Z1RCeG1BM3gwQmoxa1c1MUVLeklhVDVydjNnMlRlbDlRT0JUM0xWUmoxLUtjeWJDZHNUT210djJ1X1RYZldkSkNJNF93T2V0SzNna3k3TEpXY0FPeHhxcnVGdWFfR3UwOUNFb0U?oc=5",
-      "published_at": "2026-11-13T03:05:03+00:00",
-      "topics": [
-        "opinion"
-      ],
-      "economists": [
-        "andy"
-      ],
-      "economist_match": "headline",
-      "searches": [
-        "economist_andy"
-      ]
-    },
-    {
-      "title": "República Dominicana es la quinta economía de AL que más paga intereses de la deuda",
-      "publisher": "Periódico elDinero",
-      "publisher_url": "https://eldinero.com.do",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaU1FSFJaS3lnMHdFZjBTTWZWeHBPUE1LNWFfYTZnamIyV0VwVnY1WUlkcThncWFIeGNQekJ6LXNFVHJMdHBncGxOSWg0QUFYc2NLblJsaTVsZVNzeGt5dm9TQ0VaQmpxSS1NUTV3TVp4aEpCN0JhNV9TTHdkVE9KQ0RVSDNacGttSVcwVzNQWDl0bF9PaTQwTWVabjdpcDJxY0Z5T0RJMGdGV3VlSlF2NGlZSkRxdw?oc=5",
-      "published_at": "2026-11-12T05:54:53+00:00",
-      "topics": [
-        "economy",
-        "fiscal",
-        "opinion"
-      ],
-      "economists": [
-        "raul"
-      ],
-      "economist_match": "search",
-      "searches": [
-        "economist_raul",
-        "economy",
-        "fiscal"
       ]
     }
   ],
