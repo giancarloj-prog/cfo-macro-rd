@@ -1,7 +1,7 @@
 {
   "date": "2026-11-19",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-19T07:38:22+00:00",
+  "checked_at": "2026-11-19T19:00:58+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -23,7 +23,7 @@
     "bcrd": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 2
     },
     "fiscal": {
       "ok": true,
@@ -31,14 +31,14 @@
       "count": 2
     },
     "dgii": {
-      "ok": true,
-      "error": null,
-      "count": 1
+      "ok": false,
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%28DGII+OR+ITBIS+OR+%22reforma+fiscal%22+OR+%22impuestos+internos%22%29+%28%22",
+      "count": 0
     },
     "finance": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 1
     },
     "securities": {
       "ok": true,
@@ -48,7 +48,7 @@
     "economy": {
       "ok": true,
       "error": null,
-      "count": 3
+      "count": 6
     },
     "economist_andy": {
       "ok": true,
@@ -66,9 +66,9 @@
       "count": 2
     },
     "economist_raul": {
-      "ok": true,
-      "error": null,
-      "count": 2
+      "ok": false,
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%28%22Ra%C3%BAl+Ovalle%22+OR+%22Raul+Ovalle%22%29+after%3A2026-11-11+before%3A",
+      "count": 0
     },
     "economist_jose_luis": {
       "ok": true,
@@ -82,6 +82,68 @@
     }
   },
   "items": [
+    {
+      "title": "BCRD celebra acto de premiación del Concurso Anual de Economía Biblioteca “Juan Pablo Duarte” 2026",
+      "publisher": "El Nuevo Diario",
+      "publisher_url": "https://elnuevodiario.com.do",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWERWcG5qaGZYOFdFN1k4UnZKdXlzQUUyMUJ3TThIVERvVWNSSXVlSVhnVEZuQm43eWZSZU80dWtRZUFzU1RZU2oyQTlWeUdwMDN1Uy14U2paa0RQMm54NENTRDZwNHpxRnhNNjB0QWtJajhUbEthSnR4cFVVSk5FVXV5NTdacFA1UGMyTGNZMl9yR3dNNC1BMVg3Rmlucl9uT3pyRVFyNWQ1NGdScUIzdjdmM2VBT21NYjhROVZlNWhWZnNG?oc=5",
+      "published_at": "2026-11-19T16:35:50+00:00",
+      "topics": [
+        "bcrd",
+        "economy"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "bcrd",
+        "economy"
+      ]
+    },
+    {
+      "title": "Banco Popular destaca ante misión del FMI su confianza en la economía dominicana",
+      "publisher": "El Nuevo Diario",
+      "publisher_url": "https://elnuevodiario.com.do",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOejFXY2lPa2UzeG5HMWV1UmdXX0JyRXBacDdSUUdTelREdzg3THdyY05BRWtocWxBUmp4S2txMUY1MzZhdlphV0JpejVITEE3ZlVITDFBMlY0VzJGZHFDV0x5WXZwR1ROeG95bU5VNFVfZHotTWxQenRNc1hoc1RVRnkxUDNrdHZGWGQ2OVp5Szg2YUdxQUxmQm03T3JGLUFySGVKOVgtME1TRzNRZ3hn?oc=5",
+      "published_at": "2026-11-19T16:05:50+00:00",
+      "topics": [
+        "finance"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "finance"
+      ]
+    },
+    {
+      "title": "Industria farmacéutica dominicana exporta US$550 millones y registra más de 17,600 empleos formales",
+      "publisher": "El Nuevo Diario",
+      "publisher_url": "https://elnuevodiario.com.do",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbVRJaERDSmU5VXZvRXJITHBSeEx0R1M2SjY0LUVtbS0xOVp4Sm5tN0laaUZmaGFiOTZwM0NTZGJPRDBjTWhJRUhvTkNLbXNZTEZldzAtcS1aWC1KUFdVS21ISnBKYXVuV2pGbWhkRHJHaEwxdGRWY0VYOXBRQ2tnZTNlM2thV0tBaVZ3LVAxNGJuWm5IZ2FPX3NDWUdaT1prNHRmSnVJYWpTYmVTaGdJSmhkejdZTHhlbkRWR216WVNnQWp4anc?oc=5",
+      "published_at": "2026-11-19T15:42:43+00:00",
+      "topics": [
+        "economy"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "economy"
+      ]
+    },
+    {
+      "title": "Mercedes Ramos es reconocida en el Foro Económico elDinero 2026",
+      "publisher": "Periódico elDinero",
+      "publisher_url": "https://eldinero.com.do",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbG1Kby1IeTIyY0lwV3dramNRRWNjbFRkQTBQdF9ERzVjbHRlMGVoM29tLTVndkFaa0VvSU1aSE1yRmM5VHZJbkVCdTBFT241SVVQbmY5VHBVSXNEWGFPaDZWc1Y1dEdpTVY4bGlLWXdlYkRmWDV2WVJBNTFPNlRndWd0cVVIdUs0dVFGSFE4cUkxVG5acjJpdTA5ZHlIV19Uc29VWHdqSDBXS0dPdU9IdWZiOW5DQQ?oc=5",
+      "published_at": "2026-11-19T09:43:07+00:00",
+      "topics": [
+        "economy"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "economy"
+      ]
+    },
     {
       "title": "Andy Dauhajre muestra reforma del gasto antes de la impositiva",
       "publisher": "Periódico elDinero",
@@ -103,7 +165,7 @@
       "title": "¿Cómo se encuentra la deuda pública a septiembre de 2026?",
       "publisher": "Diario Libre",
       "publisher_url": "https://www.diariolibre.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWW1xdjN6S0FHX1VCZEVrUlRRcmtpZlZ6X3drY3c5R1BxSWJGdUhBR21kX1JKandZOGJxNVhLX3lIS1pRNFdSV0hCYW1obmVEYTd6bG1xWFQtdmNhLUtIOThiaEFrUXpjeW5wYU4taEp1SlhQQ3hLYXZna0JCN2ZEcmMxX2dtNFFtUHhRcGoyS2dDbTR6WjNWSFJwTlZaNmk2alZiX3ZhWGpZSFRHTnlfV3d1c00wUnAyZklZVtIBwgFBVV95cUxOTm1QaXFTaDBfOXBBTUtlSDVwR3VXS3lRR0Q5S2hIaFpmNmlBNjhKcGZBVzU1dGIxSnpoYWJ1b19mYmMxbENTR0VMc3NPb1NSTzZ5c0JCVW93alpSeHJIcldIdUwyZU9VZW5IenRyWE1jX25aSGFzbU9rNTJhWGdmTml3eDhvVTFqSVJURVBBTjVOOE5tWG11c2IzVC1ZSENiU1ZEeXBhTVhpbnQ0WHNvcTlSclZMTmJqN21DYURfWEFYdw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTm1QaXFTaDBfOXBBTUtlSDVwR3VXS3lRR0Q5S2hIaFpmNmlBNjhKcGZBVzU1dGIxSnpoYWJ1b19mYmMxbENTR0VMc3NPb1NSTzZ5c0JCVW93alpSeHJIcldIdUwyZU9VZW5IenRyWE1jX25aSGFzbU9rNTJhWGdmTml3eDhvVTFqSVJURVBBTjVOOE5tWG11c2IzVC1ZSENiU1ZEeXBhTVhpbnQ0WHNvcTlSclZMTmJqN21DYURfWEFYd9IBwgFBVV95cUxOTm1QaXFTaDBfOXBBTUtlSDVwR3VXS3lRR0Q5S2hIaFpmNmlBNjhKcGZBVzU1dGIxSnpoYWJ1b19mYmMxbENTR0VMc3NPb1NSTzZ5c0JCVW93alpSeHJIcldIdUwyZU9VZW5IenRyWE1jX25aSGFzbU9rNTJhWGdmTml3eDhvVTFqSVJURVBBTjVOOE5tWG11c2IzVC1ZSENiU1ZEeXBhTVhpbnQ0WHNvcTlSclZMTmJqN21DYURfWEFYdw?oc=5",
       "published_at": "2026-11-19T04:57:38+00:00",
       "topics": [
         "bcrd",
@@ -134,21 +196,6 @@
       ]
     },
     {
-      "title": "Diputado solicita prórroga factura electrónica a DGII",
-      "publisher": "Hoy Digital",
-      "publisher_url": "https://hoy.com.do",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOGR5S3pWeWZleTdJVHZJR0R3ZnUwREZiQmRWa083eURfVGNkck0xZVN1SGtWZUJEemdYUFRXdWZWY2VjdDhYZ2ZTX0g0RTkzT29XTm5XR1FReXZaSGY0MnppcHhoSi1vT1ZoSFlhQ2UzTDR0MDZxc0JZUzlKSlF6ekl1dVFQVlJCb3JxN1I2Z0JiTU9xSDVIRDAzTdIBmwFBVV95cUxPOGR5S3pWeWZleTdJVHZJR0R3ZnUwREZiQmRWa083eURfVGNkck0xZVN1SGtWZUJEemdYUFRXdWZWY2VjdDhYZ2ZTX0g0RTkzT29XTm5XR1FReXZaSGY0MnppcHhoSi1vT1ZoSFlhQ2UzTDR0MDZxc0JZUzlKSlF6ekl1dVFQVlJCb3JxN1I2Z0JiTU9xSDVIRDAzTQ?oc=5",
-      "published_at": "2026-11-19T04:00:00+00:00",
-      "topics": [
-        "dgii"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "dgii"
-      ]
-    },
-    {
       "title": "Gobierno busca aumentar la inversión pública",
       "publisher": "Hoy Digital",
       "publisher_url": "https://hoy.com.do",
@@ -176,6 +223,21 @@
       "economist_match": null,
       "searches": [
         "economy"
+      ]
+    },
+    {
+      "title": "Diputado solicita prórroga factura electrónica a DGII",
+      "publisher": "Hoy Digital",
+      "publisher_url": "https://hoy.com.do",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOGR5S3pWeWZleTdJVHZJR0R3ZnUwREZiQmRWa083eURfVGNkck0xZVN1SGtWZUJEemdYUFRXdWZWY2VjdDhYZ2ZTX0g0RTkzT29XTm5XR1FReXZaSGY0MnppcHhoSi1vT1ZoSFlhQ2UzTDR0MDZxc0JZUzlKSlF6ekl1dVFQVlJCb3JxN1I2Z0JiTU9xSDVIRDAzTdIBmwFBVV95cUxPOGR5S3pWeWZleTdJVHZJR0R3ZnUwREZiQmRWa083eURfVGNkck0xZVN1SGtWZUJEemdYUFRXdWZWY2VjdDhYZ2ZTX0g0RTkzT29XTm5XR1FReXZaSGY0MnppcHhoSi1vT1ZoSFlhQ2UzTDR0MDZxc0JZUzlKSlF6ekl1dVFQVlJCb3JxN1I2Z0JiTU9xSDVIRDAzTQ?oc=5",
+      "published_at": "2026-11-19T04:00:00+00:00",
+      "topics": [
+        "dgii"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "dgii"
       ]
     },
     {
