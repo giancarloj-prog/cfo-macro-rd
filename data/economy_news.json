@@ -1,7 +1,7 @@
 {
   "date": "2026-11-19",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-19T19:00:58+00:00",
+  "checked_at": "2026-11-20T01:18:23+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -23,17 +23,17 @@
     "bcrd": {
       "ok": true,
       "error": null,
-      "count": 2
+      "count": 5
     },
     "fiscal": {
       "ok": true,
       "error": null,
-      "count": 2
+      "count": 3
     },
     "dgii": {
-      "ok": false,
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%28DGII+OR+ITBIS+OR+%22reforma+fiscal%22+OR+%22impuestos+internos%22%29+%28%22",
-      "count": 0
+      "ok": true,
+      "error": null,
+      "count": 2
     },
     "finance": {
       "ok": true,
@@ -48,12 +48,12 @@
     "economy": {
       "ok": true,
       "error": null,
-      "count": 6
+      "count": 10
     },
     "economist_andy": {
       "ok": true,
       "error": null,
-      "count": 5
+      "count": 4
     },
     "economist_jaime": {
       "ok": true,
@@ -66,9 +66,9 @@
       "count": 2
     },
     "economist_raul": {
-      "ok": false,
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%28%22Ra%C3%BAl+Ovalle%22+OR+%22Raul+Ovalle%22%29+after%3A2026-11-11+before%3A",
-      "count": 0
+      "ok": true,
+      "error": null,
+      "count": 2
     },
     "economist_jose_luis": {
       "ok": true,
@@ -82,6 +82,121 @@
     }
   },
   "items": [
+    {
+      "title": "Expresidente del Banco Central de Chile afirma RD se mantiene líder en crecimiento económico regional",
+      "publisher": "El Dia.com.do",
+      "publisher_url": "https://eldia.com.do",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVEs1dEJvZE15aFFKcXZfcXRSUlFzUUNRSTNnM1lyYkpuM3dmREkzRXQ1SUpLcGxydEpsNUs5TFRfeHY0NV84Z2tqclpyMFVGT05wdjBTVEdvSTJpeXdLVmZQM2dfbTNPWGlQNVd3UURFalRWdF9sVTBod09oSERDTnpGTk5pS0dWMlpCNW1hdGJtUmg5OXVENVlPbzA1eE90cGhIQXlfTEwwTmpvUWx2QWw4SDRvdzlRYUttcGJTdy0?oc=5",
+      "published_at": "2026-11-20T01:06:05+00:00",
+      "topics": [
+        "bcrd",
+        "finance"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "bcrd"
+      ]
+    },
+    {
+      "title": "Exministro de Hacienda colombiano: “RD llega con fortaleza al actual contexto de crisis internacional”",
+      "publisher": "Periódico elDinero",
+      "publisher_url": "https://eldinero.com.do",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWHhIU3k4M0JOVHNfMzhXOGxnVktvMmdmN1lwYjMteXoxVXpVQmNwT0phOEg4bWR6M3JjUmxvRFNNZkZST3RnQ0xsRWFVQTBFcEhSSS1FOFl2a2E2Nm11RG0tZjFCcnhJQ0F5eF9rQ2t2R3dOTmtwX3FMWWdkNXVpSjJoNVBHQ0Y5dHhWZER1ZThLUjMzY0ZXYXcxODlVV3ZPMHg2UVVCbkFuQ3cwZ1luWk9YX3ZMSXpXcUF1YTJtcF85NXlrYUhmbmd4RG40dw?oc=5",
+      "published_at": "2026-11-19T23:39:15+00:00",
+      "topics": [
+        "economy",
+        "fiscal"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "economy",
+        "fiscal"
+      ]
+    },
+    {
+      "title": "BID explora nuevas inversiones turísticas sostenibles en República Dominicana",
+      "publisher": "Acento",
+      "publisher_url": "https://acento.com.do",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdEh4WDNQd3F2R3ZRUlBuUUVQcngyMDhoT01BQVdTZjZCTlA5SGE1bnRVOU5TVHBvbWV2dkZxVmVVOHhvNVBTRHVVTVd2bklDNnhDanQ5WVNyc0p6UW84UExMdUhnOUVOWGlBSHVKcXhNeWJZdGpRSFhYRU4zeFdXa1VtejlrSDVyS0RzcDNoZlZuU0h3RWZZUGZYekcwejZOWlh1QXhseDlZbzNvRFhmSF95cjZTc1dxRXdfOdIBvAFBVV95cUxPdEh4WDNQd3F2R3ZRUlBuUUVQcngyMDhoT01BQVdTZjZCTlA5SGE1bnRVOU5TVHBvbWV2dkZxVmVVOHhvNVBTRHVVTVd2bklDNnhDanQ5WVNyc0p6UW84UExMdUhnOUVOWGlBSHVKcXhNeWJZdGpRSFhYRU4zeFdXa1VtejlrSDVyS0RzcDNoZlZuU0h3RWZZUGZYekcwejZOWlh1QXhseDlZbzNvRFhmSF95cjZTc1dxRXdfOQ?oc=5",
+      "published_at": "2026-11-19T23:00:31+00:00",
+      "topics": [
+        "economy"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "economy"
+      ]
+    },
+    {
+      "title": "BCRD entrega premios del Concurso de Economía Biblioteca Juan Pablo Duarte 2026",
+      "publisher": "Acento",
+      "publisher_url": "https://acento.com.do",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQVJWaTVGdFVOWlEwRTdOUlczNmsyTjFZYTFhVXVjdDJFRlNVblNXaWw3c0FfeHA4VTA3d3BHT2U0akhBd2JFdlJ3elRDemdmRGk4bjJkRnA3bGxwOWE5OVVocEk1SzB2MG01eWR6VndFcWRXbnZiSzhxNTdNWnlXbnpXR202aExKY25jdFU1Qjd6amx3bUw2ZVF2ZHZ0OVhlT29pcGtKcnJQTU5QUmVYYTh3b19wTWZXRVFkcFZzbnnSAcABQVVfeXFMTUFSVmk1RnRVTlpRMEU3TlJXMzZrMk4xWWExYVV1Y3QyRUZTVW5TV2lsN3NBX3hwOFUwN3dwR09lNGpIQXdiRXZSd3pUQ3pnZkRpOG4yZEZwN2xscDlhOTlVaHBJNUswdjBtNXlkelZ3RXFkV252Yks4cTU3TVp5V256V0dtNmhMSmNuY3RVNUI3empsd21MNmVRdmR2dDlYZU9vaXBrSnJyUE1OUFJlWGE4d29fcE1mV0VRZHBWc255?oc=5",
+      "published_at": "2026-11-19T22:59:15+00:00",
+      "topics": [
+        "bcrd",
+        "economy"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "bcrd",
+        "economy"
+      ]
+    },
+    {
+      "title": "Juan Ariel Jiménez recibe en Harvard a expresidenta Partido Republicano de EE. UU.",
+      "publisher": "El Nuevo Diario",
+      "publisher_url": "https://elnuevodiario.com.do",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUmVUYUFBSGJBZXkzNUVFaTJoellUcWpnaFRzZU1xZTlKd0lkdXl5NkdYYmlVXzA2eFcyTGVEMW1Mb0JiZXl1R2hDT2JJWFQtelA0RjFhYmpsUnc2MDBjQklsdU0yNHhvWTR4RE14ckk0LS02M3d0Q3p2WUE0S0RMVXVrenJfZ0hzem4xZDRIMldvQ1VqQ3lXaEstM3RZVlo1QjZFc1JoM2NDZVpVdGR3?oc=5",
+      "published_at": "2026-11-19T22:56:29+00:00",
+      "topics": [
+        "opinion"
+      ],
+      "economists": [
+        "juan_ariel"
+      ],
+      "economist_match": "headline",
+      "searches": [
+        "economist_juan_ariel"
+      ]
+    },
+    {
+      "title": "Expresidente del Banco Central de Chile prevé que economía de RD crezca, pero advierte sobre riesgos",
+      "publisher": "Diario Libre",
+      "publisher_url": "https://www.diariolibre.com",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYVp4OVpWMlNpNnZHZTVtQVk3eHFGY1F2cFhfd2pZM0pOeTk5d3UwNlB4QnFwRlBkS3RPQXRxb1lKclljMGxNS2tNN3ItOGJuU3RpVm4wODk0TFZhWW5HN3JZSkJ1R1NMMDZxLXJHXzBVUkNKdi04VkktOGZ0aENvdFRscHcyYzlWeXVpUWo1R2RaX2lUeG45SW9hNjNpbHROVU93VklfNmVET0NqZ2F4MmZDNjZZUVlPODJianF5SUhRYzhBQ0I2SUFDT3nSAdIBQVVfeXFMTkFBSXdrR2UtNlFUVFpyMGRlSXY0bmt2Q18wbVNuamIxVjd1b2xBc3JhVG9lbHQwTlNzbGR5WFRUY1BoeDNvM05aZHE4UkxudnM0MUJ0VDZIdnhDRy1UMjIweDlKdmpZWV9FTEY4T2RUbHZrRDlBMVRrRkJNVHVyOWUxbGQxZWxFRUs2akZMN01iNVBrbVRxUFV6bGdxd08wUVZrenFrdmJtODdFdlRsNjkwR1dIVUJLZWlsTHdsODZxTGNHNlJxVEI2ZC1HREVvdlJ3?oc=5",
+      "published_at": "2026-11-19T21:39:00+00:00",
+      "topics": [
+        "bcrd",
+        "economy",
+        "finance"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "bcrd",
+        "economy"
+      ]
+    },
+    {
+      "title": "“RD se mantiene líder en crecimiento económico regional con un 4.6 % al cierre del 2026”",
+      "publisher": "Acento",
+      "publisher_url": "https://acento.com.do",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQN3RjNm95clVidUdwU1pHb2NJU1NWbGJhRjBZcEZDTExaZ012dTVZck9LRTUzdm1sNDBjdm5kRkJwQTV6TWtFbTdmbjJ1MVBkdjBQdlhUd01zekpIWUR0dmJ0S1ZxSlluZDR4LV9UMU8tenFBVXV3V0REYjhHcHczMjJyZllUZGhCbVBCbUtjaVpoWnZLdWhTWXpKR1ZXXzBLRlVBTkREUFBzeE03NFZUVzF0czk0WjAxdXJYN25DdkxUR185YzBj0gHHAUFVX3lxTFA3dGM2b3lyVWJ1R3BTWkdvY0lTU1ZsYmFGMFlwRkNMTFpnTXZ1NVlyT0tFNTN2bWw0MGN2bmRGQnBBNXpNa0VtN2ZuMnUxUGR2MFB2WFR3TXN6SkhZRHR2YnRLVnFKWW5kNHgtX1QxTy16cUFVdXdXRERiOEdwdzMyMnJmWVRkaEJtUEJtS2NpWmhadkt1aFNZekpHVldfMEtGVUFORERQUHN4TTc0VlRXMXRzOTRaMDF1clg3bkN2TFRHXzljMGM?oc=5",
+      "published_at": "2026-11-19T21:15:29+00:00",
+      "topics": [
+        "finance"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "finance"
+      ]
+    },
     {
       "title": "BCRD celebra acto de premiación del Concurso Anual de Economía Biblioteca “Juan Pablo Duarte” 2026",
       "publisher": "El Nuevo Diario",
@@ -119,7 +234,7 @@
       "publisher": "El Nuevo Diario",
       "publisher_url": "https://elnuevodiario.com.do",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbVRJaERDSmU5VXZvRXJITHBSeEx0R1M2SjY0LUVtbS0xOVp4Sm5tN0laaUZmaGFiOTZwM0NTZGJPRDBjTWhJRUhvTkNLbXNZTEZldzAtcS1aWC1KUFdVS21ISnBKYXVuV2pGbWhkRHJHaEwxdGRWY0VYOXBRQ2tnZTNlM2thV0tBaVZ3LVAxNGJuWm5IZ2FPX3NDWUdaT1prNHRmSnVJYWpTYmVTaGdJSmhkejdZTHhlbkRWR216WVNnQWp4anc?oc=5",
-      "published_at": "2026-11-19T15:42:43+00:00",
+      "published_at": "2026-11-19T15:45:50+00:00",
       "topics": [
         "economy"
       ],
@@ -136,11 +251,13 @@
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbG1Kby1IeTIyY0lwV3dramNRRWNjbFRkQTBQdF9ERzVjbHRlMGVoM29tLTVndkFaa0VvSU1aSE1yRmM5VHZJbkVCdTBFT241SVVQbmY5VHBVSXNEWGFPaDZWc1Y1dEdpTVY4bGlLWXdlYkRmWDV2WVJBNTFPNlRndWd0cVVIdUs0dVFGSFE4cUkxVG5acjJpdTA5ZHlIV19Uc29VWHdqSDBXS0dPdU9IdWZiOW5DQQ?oc=5",
       "published_at": "2026-11-19T09:43:07+00:00",
       "topics": [
+        "dgii",
         "economy"
       ],
       "economists": [],
       "economist_match": null,
       "searches": [
+        "dgii",
         "economy"
       ]
     },
@@ -165,7 +282,7 @@
       "title": "¿Cómo se encuentra la deuda pública a septiembre de 2026?",
       "publisher": "Diario Libre",
       "publisher_url": "https://www.diariolibre.com",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTm1QaXFTaDBfOXBBTUtlSDVwR3VXS3lRR0Q5S2hIaFpmNmlBNjhKcGZBVzU1dGIxSnpoYWJ1b19mYmMxbENTR0VMc3NPb1NSTzZ5c0JCVW93alpSeHJIcldIdUwyZU9VZW5IenRyWE1jX25aSGFzbU9rNTJhWGdmTml3eDhvVTFqSVJURVBBTjVOOE5tWG11c2IzVC1ZSENiU1ZEeXBhTVhpbnQ0WHNvcTlSclZMTmJqN21DYURfWEFYd9IBwgFBVV95cUxOTm1QaXFTaDBfOXBBTUtlSDVwR3VXS3lRR0Q5S2hIaFpmNmlBNjhKcGZBVzU1dGIxSnpoYWJ1b19mYmMxbENTR0VMc3NPb1NSTzZ5c0JCVW93alpSeHJIcldIdUwyZU9VZW5IenRyWE1jX25aSGFzbU9rNTJhWGdmTml3eDhvVTFqSVJURVBBTjVOOE5tWG11c2IzVC1ZSENiU1ZEeXBhTVhpbnQ0WHNvcTlSclZMTmJqN21DYURfWEFYdw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWW1xdjN6S0FHX1VCZEVrUlRRcmtpZlZ6X3drY3c5R1BxSWJGdUhBR21kX1JKandZOGJxNVhLX3lIS1pRNFdSV0hCYW1obmVEYTd6bG1xWFQtdmNhLUtIOThiaEFrUXpjeW5wYU4taEp1SlhQQ3hLYXZna0JCN2ZEcmMxX2dtNFFtUHhRcGoyS2dDbTR6WjNWSFJwTlZaNmk2alZiX3ZhWGpZSFRHTnlfV3d1c00wUnAyZklZVtIBwgFBVV95cUxOTm1QaXFTaDBfOXBBTUtlSDVwR3VXS3lRR0Q5S2hIaFpmNmlBNjhKcGZBVzU1dGIxSnpoYWJ1b19mYmMxbENTR0VMc3NPb1NSTzZ5c0JCVW93alpSeHJIcldIdUwyZU9VZW5IenRyWE1jX25aSGFzbU9rNTJhWGdmTml3eDhvVTFqSVJURVBBTjVOOE5tWG11c2IzVC1ZSENiU1ZEeXBhTVhpbnQ0WHNvcTlSclZMTmJqN21DYURfWEFYdw?oc=5",
       "published_at": "2026-11-19T04:57:38+00:00",
       "topics": [
         "bcrd",
@@ -196,6 +313,21 @@
       ]
     },
     {
+      "title": "Diputado solicita prórroga factura electrónica a DGII",
+      "publisher": "Hoy Digital",
+      "publisher_url": "https://hoy.com.do",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOGR5S3pWeWZleTdJVHZJR0R3ZnUwREZiQmRWa083eURfVGNkck0xZVN1SGtWZUJEemdYUFRXdWZWY2VjdDhYZ2ZTX0g0RTkzT29XTm5XR1FReXZaSGY0MnppcHhoSi1vT1ZoSFlhQ2UzTDR0MDZxc0JZUzlKSlF6ekl1dVFQVlJCb3JxN1I2Z0JiTU9xSDVIRDAzTdIBmwFBVV95cUxPOGR5S3pWeWZleTdJVHZJR0R3ZnUwREZiQmRWa083eURfVGNkck0xZVN1SGtWZUJEemdYUFRXdWZWY2VjdDhYZ2ZTX0g0RTkzT29XTm5XR1FReXZaSGY0MnppcHhoSi1vT1ZoSFlhQ2UzTDR0MDZxc0JZUzlKSlF6ekl1dVFQVlJCb3JxN1I2Z0JiTU9xSDVIRDAzTQ?oc=5",
+      "published_at": "2026-11-19T04:00:00+00:00",
+      "topics": [
+        "dgii"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "dgii"
+      ]
+    },
+    {
       "title": "Gobierno busca aumentar la inversión pública",
       "publisher": "Hoy Digital",
       "publisher_url": "https://hoy.com.do",
@@ -223,21 +355,6 @@
       "economist_match": null,
       "searches": [
         "economy"
-      ]
-    },
-    {
-      "title": "Diputado solicita prórroga factura electrónica a DGII",
-      "publisher": "Hoy Digital",
-      "publisher_url": "https://hoy.com.do",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOGR5S3pWeWZleTdJVHZJR0R3ZnUwREZiQmRWa083eURfVGNkck0xZVN1SGtWZUJEemdYUFRXdWZWY2VjdDhYZ2ZTX0g0RTkzT29XTm5XR1FReXZaSGY0MnppcHhoSi1vT1ZoSFlhQ2UzTDR0MDZxc0JZUzlKSlF6ekl1dVFQVlJCb3JxN1I2Z0JiTU9xSDVIRDAzTdIBmwFBVV95cUxPOGR5S3pWeWZleTdJVHZJR0R3ZnUwREZiQmRWa083eURfVGNkck0xZVN1SGtWZUJEemdYUFRXdWZWY2VjdDhYZ2ZTX0g0RTkzT29XTm5XR1FReXZaSGY0MnppcHhoSi1vT1ZoSFlhQ2UzTDR0MDZxc0JZUzlKSlF6ekl1dVFQVlJCb3JxN1I2Z0JiTU9xSDVIRDAzTQ?oc=5",
-      "published_at": "2026-11-19T04:00:00+00:00",
-      "topics": [
-        "dgii"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "dgii"
       ]
     },
     {
