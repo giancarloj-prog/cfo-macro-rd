@@ -1,7 +1,7 @@
 {
-  "date": "2026-11-19",
+  "date": "2026-11-20",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-20T01:18:24+00:00",
+  "checked_at": "2026-11-20T07:28:59+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -14,583 +14,62 @@
     "rd": {
       "ok": true,
       "error": null,
-      "count": 3
+      "count": 2
     },
     "centroamerica": {
       "ok": true,
       "error": null,
-      "count": 2
+      "count": 0
     },
     "mexico": {
       "ok": true,
       "error": null,
-      "count": 5
+      "count": 0
     },
     "usa": {
       "ok": true,
       "error": null,
-      "count": 15
+      "count": 1
     },
     "europa": {
       "ok": true,
       "error": null,
-      "count": 32
+      "count": 0
     },
     "global": {
       "ok": true,
       "error": null,
-      "count": 23
+      "count": 1
     }
   },
   "items": [
     {
-      "title": "How Virtual Cells Could Transform Medicine",
-      "publisher": "The New York Times",
-      "publisher_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE96alR0UGdHdEs5VjdQb1RubTVlMklNY2FTLVVTLWpvWU9xSVVtNktQRFZZeUNTLXVxVU41VlFMclhMN1RqeUxvVlNZbDBrSENpY1JiVHFuSnVnRUlYZFd5T3o1dFRaWkp0eEZocDloN3h0SFQyeDVmSDhn?oc=5",
-      "published_at": "2026-11-20T01:00:00+00:00",
-      "regions": [
-        "usa"
-      ]
-    },
-    {
-      "title": "The Interview | Michael Freeman, forensic medicine expert: Why I dispute official ruling on Epstein’s death",
-      "publisher": "BBC",
-      "publisher_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBDTnRDNnE1Q1NoUFQ5OUJfSkhGd21BdEJ5YUp6a1JodlIydzV5WTBFb3Y5ZjVmX05QZnZkRDNqUDlGaXN1dzQ0WDVkUnBTOEVk?oc=5",
-      "published_at": "2026-11-20T00:51:23+00:00",
-      "regions": [
-        "europa",
-        "global"
-      ]
-    },
-    {
-      "title": "Michael Freeman, forensic medicine expert: Why I dispute official ruling on Epstein’s death",
-      "publisher": "BBC",
-      "publisher_url": "https://www.bbc.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1MbWJCeXhDd0JxZ21vSGZiSVhMenRhVGF2N2o2N0U1OHoyRnZTUUFCQ2lvUXZQRTJuaUNzOGticHMzNFNrU01FUGpGMGFlN2pyOFVR?oc=5",
-      "published_at": "2026-11-20T00:38:53+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "Big drugmakers tell House committee they will halt clinical trials at some hospitals in China",
-      "publisher": "STAT",
-      "publisher_url": "https://www.statnews.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZGI0Y3BxUnl3djl4M1pTTG1UVHo2TFBLRUFWTTIwZHFNaUFZa1V3ZjJIcThQV2xDRXdHQklmZ2FaTThIaGNhNjRKNHlBc2JaYUJ0S0MySjEwTkphSFFXZm5rdS0zYUJpQWxXZHQ5Q09RLVhLNlJ2TTlhYVU5RzUyX251TkhSa1YwdmdNYmp4TThvMkR5Rl9KeTFJTmZfbmpoeng5NnhZLXRINm9GLVJKMXMxeWZkMV9wMFBoOUJGOA?oc=5",
-      "published_at": "2026-11-20T00:04:51+00:00",
-      "regions": [
-        "global",
-        "usa"
-      ]
-    },
-    {
-      "title": "Bausch + Lomb's eye-drop drug fails to reduce pain after laser surgery in trial",
-      "publisher": "Reuters",
-      "publisher_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPREQ2WlJlXzNZbGE4WmRZOVpLTzgtbUpTQ2JqejAxYXdYcG0xcElJV1UyQW05TnpzUWw5THZCNDE4cFBkM2pDX0RCR2Zaa1Z1SF9uV3VXMC0yc0p2LUlFS3RHVjl6LXBITGhGa0pEc0hMVlNRV1RNVkR3QnJzd21qRnpqbGtKR21PbGhvOTRkS0dob3Y5Qm1YbXJDZEZJaV83U2ZkTVZQaVZHbDRXNVNTUkN3YlF3cGdYV0lnWFgwWHdqMnBNblNnQkVB?oc=5",
-      "published_at": "2026-11-19T22:29:32+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "Study raises doubts about combining vaccine, monoclonal antibody to protect against malaria",
-      "publisher": "STAT",
-      "publisher_url": "https://www.statnews.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNmt0cFJJcVhKM3VObDBIb1NncndSQTNXNGRBOUlWVEhSd0RyR0JTNVpUSlk5MDBUNm9BSklIZm9TOTc4WGs3bDJKSkFyTDRlS3BfcGpRQjJzNkNQOUR0dUp6QlVIRlZ1SHdWdFhuMFJmUTBYbmh1TzQ5VUtnTUVnODdFVzNiX1VRWGVXdFRxeEhoQzhKWjc4MU05YWkyVGtR?oc=5",
-      "published_at": "2026-11-19T22:24:46+00:00",
-      "regions": [
-        "usa"
-      ]
-    },
-    {
-      "title": "Celldex ends eczema drug development after mid-stage trial failure",
-      "publisher": "Reuters",
-      "publisher_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMzNhSll2RUJEdG1oRGcwUXFnSEllcFF3MjM1eWpWdndUTklMWEc2Y0UwbWI3amRqZkVvVHAxQ3R1MHRxYVhJY2IzVTBrdDJNNi1vcTJBUHpKQ1JhX2pXUXlsTzhkajVsRVdBRkZ1eEtTbzJZall6LUFiOEdXWGpValdXWGFUcmJua3JPTjVYVzFKcE1vdTVELU91T3JmemVIcWMwYjQ1eEtONmtab29sQnhxVURxNktmOHhPQ2J0VDVzSDJpdGdPdVNPSzNIZS1fY1hINA?oc=5",
-      "published_at": "2026-11-19T21:37:17+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "Four men found guilty of raping woman drugged by husband in UK",
-      "publisher": "Euronews.com",
-      "publisher_url": "https://www.euronews.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeXd0anNlMkZwWUtCamphcjNCSlkxVEhTSldGWHlkUm9kQnlOazQxT0NMZ0NtdU5DNmphNjlYVG94VXJiajVGQ1RfcEpPaEw4THB3UkNBVzYzY1BIekNHczFDVFhkR25ydmpscHc1LWdtQXM4MHV4VC15SU0zZ1hHR0U0M1VXdDVPOGJHNkc0MnJ6YWxTQURWREsyWGNQNW8?oc=5",
-      "published_at": "2026-11-19T21:19:02+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "Colegio de Químico Farmacéuticos",
-      "publisher": "www.laprensa.hn",
-      "publisher_url": "https://www.laprensa.hn",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBoN05EWnlVc0R6NW5VVTBqZmlVeU1vOTE4MkttYmEzajl4WmhJeUtUelZuMWNwd3N3T2p5bS04OWNLbnpUS0NiS09LLUVlVXYzeGd3dTczd2lTV19DelBWNEZkaUpwOF9nUTJtMkV1SUV1eWZyYkZDelE3WmtqSDA?oc=5",
-      "published_at": "2026-11-19T19:01:56+00:00",
-      "regions": [
-        "centroamerica"
-      ]
-    },
-    {
-      "title": "No one asked for my consent, woman in UK drug rape case like Pelicot's says",
-      "publisher": "Reuters",
-      "publisher_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQb0NmMG5wamhQdDR5c0xVNUYzNUtGOUozM2pPUjRmWWZkVnFJSzF0MS1wUEhXbWlwaXdnNG8wMGhMcjl4RmVxUVQyYzRBMUFhVG01VkJnRG5aNVE0SmlFbU9KS1VRVnM4cjBsQ1B0NTdYUHY5N1BxaVVnQWxCakdzRDFqa0NCUDJTelJvVmxrNWk5RVVMSFROaXN6MWRSUTJPSHJwdjB2LUVLNEVDQ2FxZQ?oc=5",
-      "published_at": "2026-11-19T18:54:23+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "HK-listed Guangzhou Innogen signs over $1 billion licensing deal for diabetes drug",
-      "publisher": "Reuters",
-      "publisher_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNHh6NUdBM0VaWWpBdFF5ZWpkbVVZaFlaXzNmX2hQN3dTanBrTk8xVXhQSEJ1WnZHS09EcG9mRV9TdEtBYkZlS2Mxc21WbWVCSUNDcThtOVlFVU1pNDJNbTdxN2J6QUI4WkJLcXVlWURyejFGQVFJR2cxMWRVSmN2d3VwQnd1T2RhUG9PZU90ZWh3Qks1UEpzSXBSWXVXUEItbXhVVDh3Um45TV9OSFBMdU1IRklVd1NocHI5Q2htUWhDLTFlRHBoY1ZB?oc=5",
-      "published_at": "2026-11-19T18:26:05+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "Drug drones and violence persist at 'unsafe' prison",
-      "publisher": "BBC",
-      "publisher_url": "https://www.bbc.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBwWmVyYVlJNHpyOWdsWm8xN0NQQ2hDcldYZEZpdWxNekl6TDR2SUQ2ZUV3LU52Z21RcVJaaUQ0TFhOdEpLakQ3TEd2WXBJMmJmdGpVTzZqejRBOWxlOGc?oc=5",
-      "published_at": "2026-11-19T17:54:56+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "Drug drones and violence persist at 'unsafe' HMP Bullingdon",
-      "publisher": "BBC",
-      "publisher_url": "http://www.bbc.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8tTDBKaEdZdkw5bFdQSVdRT2lHMUxiQnlVaU1PUkRjOS13UnU3T29VbTBmS1hhZ0ZJU2FmUzlDZ092UnlIa19JekhHaGF4dklhQWdYZ2JOUFFvMDVa?oc=5",
-      "published_at": "2026-11-19T17:54:56+00:00",
-      "regions": [
-        "europa",
-        "global"
-      ]
-    },
-    {
-      "title": "Sudden withdrawal of Trump’s FDA pick blindsided officials and left key senator fuming, sources say",
-      "publisher": "CNN",
-      "publisher_url": "https://www.cnn.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQODRvVkpDZk16NXc4eTJsS2RFNnBxei11d3EzRnc2aFZFekV2RTJHSFY1d2JmWTRuc3lad2lMWTlZU0ViQjJyTmZYblQ2aE1od1RpX3hobThQWUk5YkNLTF9nalNjRGc3dnRPTzFYZ2hlVjFhQU5kTVVRZkFVU1dDemVkOF8xV2tNYjZV?oc=5",
-      "published_at": "2026-11-19T17:40:28+00:00",
-      "regions": [
-        "usa"
-      ]
-    },
-    {
-      "title": "Sanofi gains FDA clearance for Gaucher disease pill",
-      "publisher": "BioPharma Dive",
-      "publisher_url": "https://www.biopharmadive.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSzZ1eDBrN3c4aV8wRE5oN0hqRFF3ejBRYXltLWk2WTVQTldvVzZDaEdxMkFXcFdCUF9hbXNiUUl0cFhoY3BsWmtJVUctVXJlQU0yTEQyTFVmT0cxOFVPQ29EaUtoOEVDelNKYnhvUXRRQW5MaW5QbTNXVTJIbmFCS056X1I3VFVpc043UFRvZ2lkeUhy?oc=5",
-      "published_at": "2026-11-19T17:18:14+00:00",
-      "regions": [
-        "global",
-        "usa"
-      ]
-    },
-    {
-      "title": "Lawmakers want U.S. biotech to outcompete China",
-      "publisher": "STAT",
-      "publisher_url": "https://www.statnews.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVWRtZURoX1gwNG9vNjJLaXNJT3lpNVV0WkQ3ai1pZlB0OXdLOFVTaVVBUW1idE9XNmhUQnEwSmNnQnR3MDhWeFpjQ0x0RjZnVllaSjBZS3dub0tSVnRfYWEtWEVVSEo0NmxYdVlJMVNLNlh5QlB1X2ZneWZicjdwTktBUjVXdjZ0TWZSc0xoNEJZVTFpUFhaWVlaZw?oc=5",
-      "published_at": "2026-11-19T17:09:47+00:00",
-      "regions": [
-        "global",
-        "usa"
-      ]
-    },
-    {
-      "title": "In Court | Stockport Drug and Rape: 'Chillin’ With The Missus'",
-      "publisher": "BBC",
-      "publisher_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5sVTA2SE5TNks4UW4tdlNrT2dfcXM1c3FxSDJkaHlnMWtENVZfMk90Z0lSOEhuVXZmNlpwakpya2Z0MmJFdEZTeHhfSXFhNndH?oc=5",
-      "published_at": "2026-11-19T16:58:25+00:00",
-      "regions": [
-        "europa",
-        "global"
-      ]
-    },
-    {
-      "title": "Stockport Drug and Rape: 'Chillin’ With The Missus'",
-      "publisher": "BBC",
-      "publisher_url": "https://www.bbc.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9BcVdjSzlROGFFLWM1V1pKNTY3RTlYQVFLSUctaUI0VUJaejN2WWVmRjVzTkR5Q3VDYVpxWWMwaGJXS2lqQk9FcmdKMXllekJDU2hVRg?oc=5",
-      "published_at": "2026-11-19T16:52:49+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "China could ‘corner’ biopharma sector with new plan, US panel warns",
-      "publisher": "BioPharma Dive",
-      "publisher_url": "https://www.biopharmadive.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNk9fSzNrWU93S3RvM243NjVjQk8yY2oxVWQzMEp3TFBJTzRYdDVLeDdMU0pkeWxBVHdNY2VhNk9FSXpRYktINjk1VThRaTdDQkkyblhoT0xwUGMxSkY0UGZkbGllQ1RlV1VhZzZCZ3BIejd5VHZYVlJzdHhxV1E1SkVwUDJDbzZYaWxHS29ncmptWHB5cklqaFJadw?oc=5",
-      "published_at": "2026-11-19T16:52:30+00:00",
-      "regions": [
-        "global",
-        "usa"
-      ]
-    },
-    {
-      "title": "Four men guilty of sex crimes against woman drugged by husband in UK case with echoes of Pelicot",
-      "publisher": "Reuters",
-      "publisher_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVGVDYllRRjh6Y3htYVl1WEJoRkR0QkF1d0x1OFNyQnp0N0RjQTQ5V21pbXZGQTIyalJmR2VsZHFvMGJqMTlZRjFWbUhZb3hrN3J5M1VCN1lmVlh1c3ZFYXJrdHh5RkRrQm5TS1B6QzNtWm9rSUk4ZW1XSThzbXYwSmNsTGlib0JaUkhMZUxlWUhwVVktZmN1ckM1aHd1N0JmUVFtRGlaM0RWMUJhSmVBM0ZPUk43cURpQm13dDJR?oc=5",
-      "published_at": "2026-11-19T16:49:05+00:00",
-      "regions": [
-        "europa",
-        "global",
-        "usa"
-      ]
-    },
-    {
-      "title": "Regeneron breaks into neurology with FDA nod in crowded myasthenia gravis",
-      "publisher": "Fierce Pharma",
-      "publisher_url": "https://www.fiercepharma.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObV9VWXhRNzNobFZsNUY5czJPSVdMSHpEMXI5OWhRdFBkOGNkWjVMYk1JNzNyMDVSVVhrWDFYaWNHMVBGSmtlYkM4MEMzcXc4U1VZYS1OaFhldjFKSkxtM3paVG9pUnFLdE41dC1QbXowRmwyZ25nekdKazVpcDViVFpvUmVlNFVtSEVnckp4ZURmTUh1Smx3di0tZDFlMWZnRGZ1Ym1hNGxGOTByNGU0SzBB?oc=5",
-      "published_at": "2026-11-19T16:16:24+00:00",
-      "regions": [
-        "global",
-        "usa"
-      ]
-    },
-    {
-      "title": "How Joanne Young was drugged by husband and raped by strangers over 13 years",
-      "publisher": "BBC",
-      "publisher_url": "https://www.bbc.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE03TnpWWjNHMnZseU50MlpZcXNGQUVyUndXZS1tMUc5ZkhKbWlIaUV5ajRYSW1wdzJoZnZfTEhWNUFrTVpaalBsX1FyUl8zZ2lzSGhSV1Q3X05ETXdhTkE?oc=5",
-      "published_at": "2026-11-19T16:08:53+00:00",
-      "regions": [
-        "europa",
-        "global"
-      ]
-    },
-    {
-      "title": "Tras revisión en Penal de Puerto Vallarta, aseguran puntas metálicas, herramientas y medicamentos",
-      "publisher": "Milenio",
-      "publisher_url": "https://www.milenio.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQb1hKVnlFbTU3WklXaGV4anljeFlURFpkR1BLaFpIbWpnbUM0aTFVVVVWcjh5MVktcmJzcERPYkhTX1pPUEMwTnVIODZOOFpORlN1UGE0YkN1NTV3TzZOUFhiR1VidzFYNEZiUDRDeTM0cUp4R1A4ZmZHUHEyb1dSNDFqcHl6Z9IBhgFBVV95cUxQaUYxMXpuMmVqSjd3VkQtUzgyYlBsaXJudndJalhmVEhiTjhSRXg1cFRhdlRwdEI0U1g4TkpTakh6U1RIRjVuNDNFREdGZExYYXlGSTYwZlpHVlBleVhRRnA1RGVQT1BldDF6cEdUdExZX3cybkZHNEYwb3NFVzZCeWlsSzh5UQ?oc=5",
-      "published_at": "2026-11-19T16:08:10+00:00",
-      "regions": [
-        "mexico"
-      ]
-    },
-    {
-      "title": "Industria farmacéutica dominicana exporta US$550 millones y registra más de 17,600 empleos formales",
-      "publisher": "El Nuevo Diario",
-      "publisher_url": "https://elnuevodiario.com.do",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbVRJaERDSmU5VXZvRXJITHBSeEx0R1M2SjY0LUVtbS0xOVp4Sm5tN0laaUZmaGFiOTZwM0NTZGJPRDBjTWhJRUhvTkNLbXNZTEZldzAtcS1aWC1KUFdVS21ISnBKYXVuV2pGbWhkRHJHaEwxdGRWY0VYOXBRQ2tnZTNlM2thV0tBaVZ3LVAxNGJuWm5IZ2FPX3NDWUdaT1prNHRmSnVJYWpTYmVTaGdJSmhkejdZTHhlbkRWR216WVNnQWp4anc?oc=5",
-      "published_at": "2026-11-19T15:45:50+00:00",
-      "regions": [
-        "rd"
-      ]
-    },
-    {
-      "title": "J&J draws FDA rebuke for misstating Inlexzo’s bladder-sparing benefits",
-      "publisher": "Fierce Pharma",
-      "publisher_url": "https://www.fiercepharma.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUXF6b2Y0bWV2OXVJek9jUjVZOW1EcDNDdk1iQzBXWHFWMVU1UGNDMDBoZDd4TVNEQkZ5ejNmdnVaSkZHaTN5Qms4Z09kakpuRlVRV29RUFRPZ0drcGZpTWU0SjVwc1dNazdHWm5Jc1RwVkY4ajYzZ2duZHhLb0lJcGNfUEtZN0pxU2c2bUo3VEtnVHVVVktHWnpoTU5EVF82OU1UX2Zn?oc=5",
-      "published_at": "2026-11-19T15:45:47+00:00",
-      "regions": [
-        "global",
-        "usa"
-      ]
-    },
-    {
-      "title": "With FDA nod, Regeneron brings an RNAi drug to autoimmune disease",
-      "publisher": "BioPharma Dive",
-      "publisher_url": "https://www.biopharmadive.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNa1Bpay1BS0xvdmEtQXVnV0l6Z1U3d1Fvby1nZ1BFMTNPdVluSEdlRVNxN1F5TU1LTGpmbkU0RTF1RmJfVlNKT01YcUFTaHVlclJqeHF2ZGdMdXh3X2tWeV9Vb013c1FFdDV0eGpZNjBnRTJBclczOFo3NmlKSHprVW5KVFlISjFablBMTjZaeWRNdDVEcXRhQ19vX3ZCNFVmdFpGMDBMQ2thM0JpLUt3?oc=5",
-      "published_at": "2026-11-19T15:13:13+00:00",
-      "regions": [
-        "global",
-        "usa"
-      ]
-    },
-    {
-      "title": "La industria farmacéutica de RD creció a un promedio anual de 7 % en una década",
-      "publisher": "Diario Libre",
-      "publisher_url": "https://www.diariolibre.com",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVU9fSnY5UjcyQW5OTURGR0xRSExneURQWEFnM0VZR2lVRy0xSmUzUUNfVzhFVmFWRm5MMU9MeUhpa1lCN0xSTWZuV0s4aE9lVkw1WGswQWJVQUtUdFNTQnRGR04tcnZ1dXhnYTdzMFFIUm1rT0NfcUowb0s5b1l4UW1DOVprd2h4cVRYanhlNERpcUVVd1FsNnMtQzFYUGppNEZnalQyQ2RNdXVBdjdIWmllR3FUeDR4N0taeVNmYWphZzN6d3VR0gHMAUFVX3lxTE1XdFN1QjFiRkxZTUNpLVpIUW9LeTVnbThtWEpna0dQbUtPandrbnZwZVJhZDhpcGdlSWRST1l0cFZTWDdkQVBHSmw0SXlScHR3NWJUeXByemljNUJzQU1MTFNWS1I4Q2lrdFNzOFF1aEFvaVloNWpDZmJLVWdya0lfdzhRbDNEUXFRUzdKNFA0RFJzTGlzLWh0d09ielVZWjRvV3BKcmVORXoyekdPdGFtLVlJVVZ6UTZKVUdXRGs5bWtneng5WV9TV3FDZw?oc=5",
-      "published_at": "2026-11-19T15:11:00+00:00",
-      "regions": [
-        "rd"
-      ]
-    },
-    {
-      "title": "¿Puede Estados Unidos bajar el precio de sus medicamentos sin cambiar el acceso en América Latina?",
-      "publisher": "El Economista",
-      "publisher_url": "https://www.eleconomista.com.mx",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQU1RYbk1zdjdCRlZxNG9uNmtQUU8xUlpFdTd4Tkpnam9yNHVoUEk0WnYzakUwZlpRajRqc1pxUk9Ma24tMExVdUhmYlJPV29Ddzd2T2JvajlYNFhuU3F5eGtsaXVjdTVncmVyN1hUVkFROU16VjBfX21uajhQN3BPQkdwQmk4cGhJRUNRT2RmeFVkM0JtVnhPMmxDZXk2bDBoMGprT0ZHQTQ2dUJCcWVOd1kwMDBWd1pJMWcyOWhnUXpiZEtWMk1oN1MxVdIB0AFBVV95cUxPa3FOdlpwZGYzdlFYeER5Y2x3TmQ1LXpORndVZHliVVhHZzZIQ1ZtenJqTmNfRlN3NUdYallaTi00RnJqdFhwNnJ6ZEpxd2tmd0V4Y0VhM3VhTEFONTFhTmdkcFRYaV9zMlp4Q2V1NHkxTDRCMXVpQ1pYR3RLTHFaS2pMOFJLY050WHdJbjV6UnV6UHN3NXF5QXIyMDByVXNaYU9acmhFazhDUk9ERTgxa3R6TmJxYjhJTnE1SlY2Nl9STUdyd0FISTdTeDdqTHZH?oc=5",
-      "published_at": "2026-11-19T15:09:31+00:00",
-      "regions": [
-        "mexico"
-      ]
-    },
-    {
-      "title": "Men guilty of abusing Joanne Young, who was drugged and advertised for sex by husband",
-      "publisher": "BBC",
-      "publisher_url": "https://www.bbc.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5rTE9TeEFCRXlJZUlLUUFsUjhmRm1LTU9zSXVQQVBJSHRxenlLSXpvQkFBUUdnbm54MlVzeFU5VWczMzlqcTBRZVI1Qk44OU1FOHpfWUVkV2FDQTJvT1E?oc=5",
-      "published_at": "2026-11-19T15:04:28+00:00",
-      "regions": [
-        "europa",
-        "global"
-      ]
-    },
-    {
-      "title": "Woman raped by strangers after being drugged by husband calls for consent law changes",
-      "publisher": "The Guardian",
-      "publisher_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQLUhhMnVhNEROSTF2WGxZU1dTVldmbFVBelp1UmdoSzVna293ZG5YdFJUeXNyWGNqM2Jicmx5akN3cmVOQi1GVFVGS1NnRXdiamdzdDZISGJBQm56Zkc0dmRIN2k5YWo4U2tBU0ZrTHdKcmtyU2g2RWdwcXlidWJvU0ZPMHh6VHZ1LWJ6YjJaUWxTbjlwNFZaTGVZODd3WkZfUzlmNmMwZVBwMzhTZVpqRWMxZlNJM2c?oc=5",
-      "published_at": "2026-11-19T15:02:00+00:00",
-      "regions": [
-        "europa",
-        "global"
-      ]
-    },
-    {
-      "title": "Anti-vaccine group once led by RFK Jr says Meta removed posts after Guardian report",
-      "publisher": "The Guardian",
-      "publisher_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMDlNUS1GeGEtcjdXdk14OGd6eUowSHVXSzVhOHFVellRdW5malBndE44WXhXbUZpZmpUeS1UTFN1LTM5WVJLY09BdVBzaVQwVWNQMVNOeFFPZlY3WDJURkVvbzNfY3E4U1N1aVpodW0tUEMtMWJiY0VBaHVFcnRaeFdlNTRCcXprU2hhNQ?oc=5",
-      "published_at": "2026-11-19T14:47:00+00:00",
-      "regions": [
-        "global"
-      ]
-    },
-    {
-      "title": "Pharmalittle: We're reading about a Merck AI deal, China and the pharma supply chain, and more",
-      "publisher": "STAT",
-      "publisher_url": "https://www.statnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTVVpVzNpM0NlRXphcUJDd2JmQm5YTy00azcyU0hFVGVmbEUxd3lPZHRaaW1nZW1ZM2NJMlJXQlRsbEtWejk5RjZuRmFoakdBWnlJV3J2WU9ZQ3RWVkpuaGhsWndIekdOUk0tSHI3RExlanpkVTFQelVUMlI1dzBFcWlseWpnRHhGVll1eVJKWFBUQlR1RFpkOUxhcU05TjhlUjhWQjNWNTg?oc=5",
-      "published_at": "2026-11-19T13:49:45+00:00",
-      "regions": [
-        "global",
-        "usa"
-      ]
-    },
-    {
-      "title": "Johnson & Johnson Seeks U.S. FDA Approval for CAPLYTA in Bipolar Mania, Marking Fifth Potential Indication",
-      "publisher": "Financial Times",
-      "publisher_url": "https://markets.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUE9WZ2FEU1JBR1JYUU43QVhqcTFqX3NKbERnWlM5XzhxZlNIOFRydG1BLUtsZmJHdXRHRVZ1M05uV1ZzNERUNS1GQmhqVExtUHJqRWV3cGZKVEZBVWxUYk1hN05SVENMYnptV1BxVHQ0U0NYcWhydVFnSHVIVktDbmNldXlpbUZvMlQtUDdMcW9IX2JxZDNuVg?oc=5",
-      "published_at": "2026-11-19T13:01:00+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "GE HealthCare's Phase 2 Results Support Advancement of Investigational Manganese-Based MRI Contrast Agent Mangaciclanol Into Phase 3 of LUMINA Clinical Trial – Company Announcement - FT.com",
-      "publisher": "Financial Times",
-      "publisher_url": "https://markets.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxON3ZYRGl3ZlExcFZRLUhxZEdSRWFSZVE2TDlTVGtkMVg5RGcxT0I2Y3VMZno5MmhnX3VfVU52alFoS1dQaTAzbWNPbGk3dzFuQld4QlNEczhXeENfRVVUdVRmMGJGYmc1TER5S3p6aHR6cTFIWTNVRDMxaEExSXJFcUFVZDd4SkxsUC13alhrWkI2WXB6WkZmdnF1bXhRcVNGZmktMFNB?oc=5",
-      "published_at": "2026-11-19T13:00:00+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "Regeneron's three-monthly gMG drug Livsayis cleared by FDA",
-      "publisher": "pharmaphorum",
-      "publisher_url": "https://pharmaphorum.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMmxzdG4ySkl1MVA0RnpCZGNVU2huMzZKbUE2RVlWbHJaYmJDYmpaZHY1WWYyYTJtWk02NlJWZEdiU21JeFZaZENueXVNWktHUms0U2tKMjdkLXlXb08zbERlT3lNTEdHbDdYa2ZMZjVEM0FZY2YxWFFPODI4T09ITW1hd2NlWGcwZFJwTQ?oc=5",
-      "published_at": "2026-11-19T12:48:57+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "Preclinical Biotech Unnatural Products Lands $1.15 Billion M&A Deal",
+      "title": "Congress’s Top Doctor Resigns Amid IG Findings of Lax Drug Handling",
       "publisher": "WSJ",
       "publisher_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWXpYUnZxOWw4YW5fSzRXUHZaYlh4akxWWV9fZjhlLWltVmt3d3FKTVJHSzdUUUpXNlFnM0twVlA1MFdfRzNqb2RtWXdKcU1UQ0xhM1N3VTd5REU2ZzQ4TGpFYXQtMFFseUtLaDBGUTZIVHhzbVZPcW82V0lPQjI1YWFuXzlRUlFmTGFua0Y0b0N3X2hweldwWk45bTZQLVQ3bEhxMllaQ2hfM2dBd1ZqQVgzVDRnUQ?oc=5",
-      "published_at": "2026-11-19T12:45:29+00:00",
-      "regions": [
-        "global"
-      ]
-    },
-    {
-      "title": "Marina murder accused 'on some sort of drug', court hears",
-      "publisher": "BBC",
-      "publisher_url": "https://www.bbc.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBaZjJfWTRya193dHVRS2RBTi1WbFlCTmp5bTJ2MDhUWFBXWEVYWkNwb2lNaUs1YkdHOWN3MUpuTkFCSDhRT0JFd3hzRTNiakhNRTQ2dlRVNUY1MXp4bEE?oc=5",
-      "published_at": "2026-11-19T12:31:05+00:00",
-      "regions": [
-        "europa",
-        "global"
-      ]
-    },
-    {
-      "title": "Alnylam Collaborator Regeneron Secures FDA Approval of Livsayis™ (cemdisiran), the Seventh FDA-Approved Therapeutic from Alnylam's RNAi Platform in Less Than Nine Years – Company Announcement - FT.com",
-      "publisher": "Financial Times",
-      "publisher_url": "https://markets.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcUxwODNLMzlHd3FSYlA1eXVXTjJkaWxiNkowN2wwdFhKTTZYdEJNWGNCb3IxMklXYm5QV3FaRkNoVjdvNi1LaThpb0ZsbURDQTVFYVhsN3NXTXBqWUNPOEtRS1F2eURPNDVGY1AxaktSODRCd3R4Zm95ZVlVVWg0SlI0bV9VVVZod0ZkdnNQcTdKdWJWdVY2Z0ZXd29aVVhDSVB5dWxR?oc=5",
-      "published_at": "2026-11-19T12:00:00+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "Farmacias del Ahorro compra Benavides: ¿qué cambia para los clientes?",
-      "publisher": "Expansión",
-      "publisher_url": "https://expansion.mx",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTlREaWtuNTJPcXZQRm5TZXR6ZGY4cWZGM1pxSzlvVWdDV0xhdjAtMGdoZC1Rb0FPVXhPdzl6TGRkalNkZ05zY2hSYVZkUnJfZk9XUHRDRl9rSGNxSkE0MDFCMHctbWJxcHRFRklZcGkwalNycUNXOXg2elFEczU0ODA0MzBWeVJkTUFoNlUyUVB0Y2tCX0VRUDlMc3czV2F4bG01NnB5V3R0aU3SAasBQVVfeXFMTk5URGlrbjUyT3F2UEZuU2V0emRmOHFmRjNacUs5b1VnQ1dMYXYwLTBnaGQtUW9BT1V4T3c5ekxkZGpTZGdOc2NoUmFWZFJyX2ZPV1B0Q0Zfa0hjcUpBNDAxQjB3LW1icXB0RUZJWXBpMGpTcnFDVzl4NnpRRHM1NDgwNDMwVnlSZE1BaDZVMlFQdGNrQl9FUVA5THN3M1dheGxtNTZweVd0dGlN?oc=5",
-      "published_at": "2026-11-19T11:55:00+00:00",
-      "regions": [
-        "mexico"
-      ]
-    },
-    {
-      "title": "The Biotech Growth Trust PLC - Net Asset Value(s) – Company Announcement",
-      "publisher": "Financial Times",
-      "publisher_url": "https://markets.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQY2VPNHlySHA1SWZuM242eElxTUFGbVNNNHl3QzVLX040MWVPQURxZk9rUXBIanJ3MHJOVkp0MjhPMFRMTDhUb1p6TktyNm16ckxOZ2FkcVdNcEh2U1dWUER1cEhjeXBKMkRad1c3ZU1SaGkzaDJLZzRGWklGZzd4MUZTbWxjOWF3REt3UlBaMC1ZRDVr?oc=5",
-      "published_at": "2026-11-19T11:55:00+00:00",
-      "regions": [
-        "europa",
-        "global"
-      ]
-    },
-    {
-      "title": "Merck, Isomorphic Labs partner to develop oncology drug candidates",
-      "publisher": "STAT",
-      "publisher_url": "https://www.statnews.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcU5QNWJhVlJOUkc5c01UeEJfMVEyd3RnVnFYX0JpZncxY2dsVllsRV9hLVR5a28xQ09LUkNqN2kwdEprUjFxVnhBNmt3aF9UeXd1aDBuNl9vUU1ILThpRF9BQV8tbjl6VnpuZmJaNmRmV0REcWxrWGs1YnBXSDRIREljOF9mUGR0NUh2bjhmeFBsdEFTdW1PcXpRR2E1N0pnS0JYNg?oc=5",
-      "published_at": "2026-11-19T11:49:45+00:00",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNR0kzd29fdzk5QVJNbFY5ckduWmU5NGdHMDNFTVpJVTZ5VU9VVXVJcWpxWVE4VnIwdHZ4OUs1cGpxTTcwZDVCaDNncDFQWHhQSFl1ZTJjZHY0ampKWkJuUVFKbjNzd0N5SjF4WDZQcnhhdVFLYUVwVFhsd2Z5c3FvbHBnWm9ST2xZTkxobUVESDBmSDZacHhSUg?oc=5",
+      "published_at": "2026-11-20T07:07:15+00:00",
       "regions": [
         "global",
         "usa"
       ]
     },
     {
-      "title": "Dicot Pharma receives approval to initiate phase 2b study of LIB-01 in the EU – Company Announcement",
-      "publisher": "Financial Times",
-      "publisher_url": "https://markets.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQc2ZUTVROS216S0Izcl9KaGtMdmwyd2c4UDZvRnVmY1c0XzFSWVhHNm1HV2hZdVc5NnJTem9HSUE3Sjg2TmJFMlRyQkIycVhjN1ItNXlXc3Nva2JwWXItSUVYZUpYLVZpY25OSGl4TTVpMnNPUi00NWpsb0JrMUJ2RXlod0FQM2pHX1Z3VWFLQlNkVXc2YzVvS3dJSGZNeDcycTY3M0Q2UDJQSkFSWXBTcUtndGF5VEs2Y1I0?oc=5",
-      "published_at": "2026-11-19T11:45:00+00:00",
+      "title": "Estudio revela exportaciones y empleos de la industria farmacéutica del país",
+      "publisher": "Listin Diario",
+      "publisher_url": "https://listindiario.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORXhUSUIyVE5JcVBvVXg3YUhKd3FfcERxdVkxX1Nrb3ppSzVYRkk3cldjQWpGQmczSlgtcjhaS29DYXl1M3JFX0pkMzhnWDVrUzVzVnNJbXYwMndLcmJKN055NERMbGM5NlNsZFA3bmd4OW1hNTdOb3U2dUNwNmRhdWloWFdKUGp6ZV8tOG92WXBKQ1R4cXZiTjdDS2xNU1FWTFYyVTFHYjZHM01CLW1MbkoyajFsTU40VHZNdl9pZ0vSAcYBQVVfeXFMTWZmSDAyZ1A2LUhRQmpQNks1SnNPUnFJVURmclBvTG80dUpHY29hN25ETEZjbWlkQ25OWkZQd1VrUlVNMkNuQTNtSEctMTJfanNSNVRzUW1tdExmQWRNUFdDdFc3aHU1a2ViVDBNbWlmQ1VVTnpCbUEzMWpudmVsRXVpdm0yai1ScjdRZTFfVXBoVGFFdHFnSlVkRHhpei1xM05vVkw1ZHhkeUh2V19sVUVhU2RxblR1dVdraHR3b3JPUjJmUnhn?oc=5",
+      "published_at": "2026-11-20T04:00:00+00:00",
       "regions": [
-        "europa",
-        "global"
+        "rd"
       ]
     },
     {
-      "title": "In cancer drug development, the spotlight shifts onto Erasca’s KRAS-targeted treatment",
-      "publisher": "STAT",
-      "publisher_url": "https://www.statnews.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOR3pZYjRzY09MREJnc2tNNzRId2IxM2xQUHU5NjVGdXFoOVlkazFFcWRQNEVoaDN5cVk3Q2prbzVsQzZMMmJtNkRPNGRZVzF2SFZpYkFZLUJKcGN2eG5fU3ZiV2Zta2R3UXd1SWp6OWZIaWpFdjJVSlJOTHJZenVRUHF5QVYtcWgxRHRWOFFoTEd6QU1DQnI1SWVR?oc=5",
-      "published_at": "2026-11-19T11:34:45+00:00",
-      "regions": [
-        "global",
-        "usa"
-      ]
-    },
-    {
-      "title": "FDA clears Sanofi's Type 3 Gaucher therapy Infilbray",
-      "publisher": "pharmaphorum",
-      "publisher_url": "https://pharmaphorum.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNenhMbkpvek1xREhrYjNMWVdXN2Vxd1NDSk9XMEs4NURPaTh4WS12aVVub2U3TWRXUms5bWxqLUFJX3gtUkU0ZEFUV0FEdHdFME85alhubk9kSjB5Z19VWHhTb3JvcHZFN0FNMXY3QnZwZmN6NU9UUXdMR0hKVkRheG1fX0J5MzRY?oc=5",
-      "published_at": "2026-11-19T11:14:17+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "Innogen Pharmaceuticals Enters into Licensing Agreement with Arcera Life Sciences for Efsubaglutide Alfa, Accelerating International Expansion – Company Announcement - FT.com",
-      "publisher": "Financial Times",
-      "publisher_url": "https://markets.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTTY2dFZXc2NJeXUyYUxSckYyZVIyTEN3VkdYaWN2MUVCcnh0T2wtNE5ZZjAxaHlIWndZX2xFaFhkMmM5blBVaC1zaWFWcGhyeW5IUy1hcERGYTNISkhJQVdxaVgwazcyRWNTRWlhc0tXR0tsWk1jLVVWWF9kVU5ya09BdWgxRHVvZHZFOWMtbjU4R1ZZX3VkQQ?oc=5",
-      "published_at": "2026-11-19T10:05:00+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "Cupón Farmacias del Ahorro: hasta 50% en Noviembre 2026",
-      "publisher": "El Universal",
-      "publisher_url": "https://www.eluniversal.com.mx",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVnI0QTNHaVkxbzBYemh6MWZfVjFvT2prNlU0SS1VVE54UHpiU196eTlBVS1zWk0wM3FNbXhrSWlxLXZLZkVjejZ0allBM2w4SFBlSE9BVEJybUVoYWdtRXJsMFlKYi1VNWtaY3gyVUVJQ0w2cmZIc21fRmxPOTBpRUJB?oc=5",
-      "published_at": "2026-11-19T08:45:25+00:00",
-      "regions": [
-        "mexico"
-      ]
-    },
-    {
-      "title": "Novartis raises blockbuster drug forecasts to $18 billion as it seeks to prove growth can last",
-      "publisher": "CNBC",
-      "publisher_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE85SmhxWE1LWUJoT1ViSWRzYTFoOVpUNS11MTQ2b2I2LW5KRFZQYjk4YzMyZmZvd0xPYV9GRFVkcWNMZWRSTnFwSHhOZzdkUHBSci04UERObjdoOTdkQ2dNb2V1UmNrSlFiRUtrXzFFNWp5d9IBd0FVX3lxTE95d1FWeFJsOFF6Snl3c05ETWhZWnYyZVh6cUdVOXdsUGNiWmxtUnlYM1ROSFdqc1ZDTWMwZHN3bTRaN3lPS3ZoVkdoNDFrYzFwcnhacGlPenI4ODM0a1BYTk1TQU9XY3BUWl9QNjQ5dkJPQ19tU3BR?oc=5",
-      "published_at": "2026-11-19T08:33:36+00:00",
-      "regions": [
-        "usa"
-      ]
-    },
-    {
-      "title": "Sin hoja de ruta contra el sarampión; expertos advierten falta de datos para orientar la vacunación",
-      "publisher": "El Universal",
-      "publisher_url": "https://www.eluniversal.com.mx",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQXlLUWZRblhkZV84M1JXa2pqQ09UcVVfR2pDVVJZVFVqN1d6NEExMkZmcWlveUxqUU1wT3drWTQ5aDRaaTh4YVowOUw5S1A1ZnlNRTBSdVoxUS1SU3hDcWNLM0g2cXVIYy1hSzhpemNxZExiM0FWZ2tIYlJORnFkODYxTDkyNXhXbFo3OW9CM0pSVnJoSkxGZldncXowd0pHZHJvQThpOExjeUlHQnlJeWtidVEyaDFfV3dBamx0VW0yY3ZrRW9pSjdHLVBpc0RGMS1R0gHnAUFVX3lxTE1OaFRNNmtyVDJHS2pSSGg2d2daNkJfcGVwaVJOaGp2Z194RTNVUmN1Z0Npc0ljNE1jNW9vSDEtX3pubUtycHB2dlY0cXZqTi0yZm5FaWFNMDlqcjl6WWFzMWdRWTJ4TndJamt4ZzgySjl1Q3BJNktWbkFYWE5OZEVBXzUteWJHc1REdEhfaWJZd1A0cnpaQ3lkMUhCMHpIR0ljdUFaZlVyaHRVNnJjZk1fbmNJaVIwMnBMVzJ2UWd6NXBOOHpUWjc5VlEzTHVtcXNrNzE1UUVUbVJlMnRZWDd6aEdPRUNxTQ?oc=5",
-      "published_at": "2026-11-19T07:27:12+00:00",
-      "regions": [
-        "mexico"
-      ]
-    },
-    {
-      "title": "Weight-loss drugs used in nearly one in 10 homes in Great Britain, study finds",
-      "publisher": "The Guardian",
-      "publisher_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZEh2Z0t4bjFHQ2I0eXJ2a01iQUtaVUxJb1Bvb2RXVGVhU2owMlNmWTFhNFVtcjN3ekRxUDlsTjQtSjBWSmpiMXhLMGNadFNaNk1id1Q4UUhQakI2V0hvREJ0eU1ybW9Nak1vcHJQZ0V4MHAxYjF0ZTNoVXVCaldTWFhMMVo0WmF1eXhmZERDZUVFWU1pZnNYZkRmdFpiVGtYS0ZnaUxSS1NqQVRDR1Zpa09FNHk?oc=5",
-      "published_at": "2026-11-19T05:08:00+00:00",
-      "regions": [
-        "europa",
-        "global"
-      ]
-    },
-    {
-      "title": "Hegseth in Colombia to deepen anti-drug ties after surprise Venezuela stopover",
-      "publisher": "Euronews.com",
-      "publisher_url": "https://www.euronews.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQndQaWVuR0FOeTh0emxYQW41cHhleVRILU5BLXlYWV91aEpDV2RQa2tLMVNNWlo3RXpIVFN1cWU5TE0tOGNTX20xOU5KdDQ1WXhxemdieGZORTJrb0NzSG5XOEtpcXJRT1JRcHFpcHE1M0pheWlQVHpnMHRoT21xOE1oNkNQeFVpTTRNbXQwWlRvT1ZNVFlTS3lsZ19WdWdmallvbjdYWTNqQ3FKemVfUDJBY2o?oc=5",
-      "published_at": "2026-11-19T05:06:54+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "Press Release: Sanofi’s next-generation rabies vaccine, VaxRabeo, approved in the EU for all ages",
-      "publisher": "Financial Times",
-      "publisher_url": "https://markets.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWGJicGhPWHJMVXFzY2V2dDJUVEJiS2JlanNqRlMtQkg3X3NnUzZhS1pKaW00QXl4a2hJVmlIUkZ5TGZmZERMeUZiZWV1anZEU09aMFA1eXVGdjMxNWYwQ1VpZWpCOGpCSWZPVUF4TkVkWG15Q1lhYlJVeEtJczlKRFZxcmJmdHhiS0daTzJBbVpNMHM2R1plQWE4VQ?oc=5",
-      "published_at": "2026-11-19T05:00:00+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "Escasez de medicamentos; CSS apunta a contratistas",
-      "publisher": "La Prensa Panamá",
-      "publisher_url": "https://www.prensa.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYWQtNWpqVmw5MlpPZm5GRUtVMl9aMGRYY3BPbXliV2hycEEzT1JyVzJRbzhPX09pTjdrWUJibjdDejZRNWg2UU5MejNGYnJTUUpDUU5TYWpDVEVjV0NpTHZKblZvZjRsZHNBaDNfay1NMjRsLWdoLWlyQjBjLUhOdE50U3NGNlN3Tmc?oc=5",
-      "published_at": "2026-11-19T04:31:36+00:00",
-      "regions": [
-        "centroamerica"
-      ]
-    },
-    {
-      "title": "Vacunar en escuelas para virus Papiloma es muy eficiente",
-      "publisher": "Hoy Digital",
-      "publisher_url": "https://hoy.com.do",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZHNnYnFHUkgtRGd2Nkl2NUF2eFY5ODU3QTB0V04tZjJ4cEJUZDRZeFJDQ3d6QmVPejlNV0hJVldGYks2a1JEdmhGdE8wa05rMGRwLXl2S21SdXJEOHhqRXVNaFhGVmVpQkpRMGNmS0RPNFFXRUdpaVUwOFdOZEEwWnZPWlR3SFM00gGOAUFVX3lxTE4xa0wyX2ttMFp0WHVXaUFOYlo2aFRmaEFkTkEzZGVnM0NRT1c3aW9YeWwwVXU0SWVDLU1oMHFIbkRiRUQ0OTJ0WTA5Y0cyN1VhYXdmSmhNSnhDbXRLTkZna2lncWN4cHd2bzlyakdkQjNxa3ZNLU96OWtjMEFkWW1KY2lwZ0dUWnA2UDJLTHc?oc=5",
-      "published_at": "2026-11-19T04:00:00+00:00",
+      "title": "Destacan eficacia de la vacunación escolar contra el VPH",
+      "publisher": "Listín Diario",
+      "publisher_url": "https://listindiario.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQLVRkaWJDWlhmU0xuM2NobG1CaE91bTRiUEJXVzF2VlVvV2JJby1Qb3Y0bEJ6c1dpc2FHNTJuc2N3UHVPc1ZBY1YwczVDVFBweFNtLUl6OWpTWGNUc0hZM3Nab2lwSjBfQ0hoX3ZrZ0JMemk0QjZwYmNfcUQ2RTlHdlNPakp5d3NEOWQ4azc1a1dfZzliMmtmWlFlS081VURYa0dwYTZrUGZUaW1fMDFCT0VR0gG3AUFVX3lxTE9VTmhFTWJXQTBPNG1XenBsb0ZFNFBrdExoSFNCcWFhNHhhb28wWUVERnF4VTI2SjlOWW9jNzV6Wnk0RWJRSWxSOUpZaks1S3V4SFg3QTBveVdXTlAyQ3dDYndYcFVfZnZVRUhKLU9ZaWxWekJNZk9QWXZxNktEejRPVTA3alg3c2FDYVk2aDZXWGFlTkpqVXVrUG9pVGJ3ZnhldFhreHpXOWM3WFRXNXJ4bDZ0S3A3dw?oc=5",
+      "published_at": "2026-11-20T04:00:00+00:00",
       "regions": [
         "rd"
       ]
