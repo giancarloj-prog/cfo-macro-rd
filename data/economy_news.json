@@ -1,7 +1,7 @@
 {
   "date": "2026-11-20",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-20T07:28:58+00:00",
+  "checked_at": "2026-11-20T18:39:02+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -33,7 +33,7 @@
     "dgii": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 1
     },
     "finance": {
       "ok": true,
@@ -43,7 +43,7 @@
     "securities": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 3
     },
     "economy": {
       "ok": true,
@@ -53,7 +53,7 @@
     "economist_andy": {
       "ok": true,
       "error": null,
-      "count": 4
+      "count": 5
     },
     "economist_jaime": {
       "ok": true,
@@ -68,7 +68,7 @@
     "economist_raul": {
       "ok": true,
       "error": null,
-      "count": 2
+      "count": 1
     },
     "economist_jose_luis": {
       "ok": true,
@@ -82,6 +82,66 @@
     }
   },
   "items": [
+    {
+      "title": "¿Qué es la aplicación 1,2,3,4 de la DGII y a quiénes beneficia?",
+      "publisher": "Periódico elDinero",
+      "publisher_url": "https://eldinero.com.do",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeGYxNkdjY1JEX2RtajR6SVB1SGZ2a0loUXlVU0o5RGZpeDdTWEptVGRxTjdLdHlCWmNWZVRJc1N2eWgtcURjUjlvQWU4QXZucER3WjVuUndEZUFaUUtqLTZCTzdYR2xfb3YyWnVIS3QzM3lva1psUU9qdVowbUdIeGt1aGJoQWhXZ3k0ekpfcmRKNzUz?oc=5",
+      "published_at": "2026-11-20T17:59:16+00:00",
+      "topics": [
+        "dgii"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "dgii"
+      ]
+    },
+    {
+      "title": "El Poder Ejecutivo confirma a Ernesto Bournigal Read como superintendente del Mercado de Valores",
+      "publisher": "Listín Diario",
+      "publisher_url": "https://listindiario.com",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPM0dMUTd6a2U3VkFadzI1aGJvZFc1ajROSnF6T0NLR1ZFWnU3RGtaTlZvbjRkMWNxX3dGY0I5Q2xQdVAyRVNGV3JwWm9UbXBtaGZlUnJmbFNUcHdmQ1I0M2dIYTAwbEJqM2c4MUxzd01HMEFXaG5CaUNnMUF6Z3hGRmFHdEswM0dRYlA0OTlrNHg5M2xvNEtDWjhtbnotYjJORjhCRlhmbFFPdHJZRFpOMGxBZzNIbjhSMUpCdWNzYjV2NzNTd2xhcWpqRDRoS2RwRkVsemdsUGVLUdIB3wFBVV95cUxQcjJXTENMdVdwT0t2UFVKODJndExFRjB2T3ZUTGdIVnEwRHBJYWczUHZFS0hicXk4dXNFdjJDNF9RN1NqSGNuVTRxZmIxUkNlRkllQ1lGRE9Fb2pNM3lqLUcycWw5TWJsdFd5a3NvcGgyRlhoemtqT19YdUZobmU4QjZfeDZZSkNsOWtFZk5ZVll4Y0tsR0x0cDJ4ejhUV0FSdDU1em9uNjk2Rnp1NU5YcGtzd1ZrR1BBNnJVWlhVTlcyRHAxdGpmSzIyVmxJcWRkamt6emhYbWExZVlONUQw?oc=5",
+      "published_at": "2026-11-20T17:02:36+00:00",
+      "topics": [
+        "securities"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "securities"
+      ]
+    },
+    {
+      "title": "Ernesto Bournigal seguirá cuatro años más al frente de la Superintendencia del Mercado de Valores",
+      "publisher": "Acento",
+      "publisher_url": "https://acento.com.do",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOYjV6SERiTHU3cjlNY0t1Yjh0WDhjTjVZVUVFSFNjM2NZZDJhZ3IwdmhwTEl0d19pT0cwMjE5bzlubkczRThPcFF4dUlENnJaSVliRE1jRkZDVHcyTVJ2aC1UcHNUUVh4YjlVMV94aFBJbzYtWjdzTzhaMlRYQ2dLMER0bE1JMFFxRGUyVDlBRHBnWVl3WG9KeXpiY0dIZXltT0tSZXVyOW56TzJjWUJhTXE1TU9DdFZoMlVveFVIcVlqaU5ldkJSeno5S19uMWJVWU96b0hJVmJwTzjSAdsBQVVfeXFMTmI1ekhEYkx1N3I5TWNLdWI4dFg4Y041WVVFRUhTYzNjWWQyYWdyMHZocExJdHdfaU9HMDIxOW85bm5HM0U4T3BReHVJRDZyWklZYkRNY0ZGQ1R3Mk1SdmgtVHBzVFFYeGI5VTFfeGhQSW82LVo3c084WjJUWENnSzBEdGxNSTBRcURlMlQ5QURwZ1lZd1hvSnl6YmNHSGV5bU9LUmV1cjluek8yY1lCYU1xNU1PQ3RWaDJVb3hVSHFZamlOZXZCUnp6OUtfbjFiVVlPem9ISVZicE84?oc=5",
+      "published_at": "2026-11-20T17:00:15+00:00",
+      "topics": [
+        "securities"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "securities"
+      ]
+    },
+    {
+      "title": "Abinader ratifica a los miembros de la Junta Monetaria y al superintendente del Mercado de Valores",
+      "publisher": "El Dia.com.do",
+      "publisher_url": "https://eldia.com.do",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVk5yejBmTUFwNHYzejVHVFBFdWZaM29hcTJhYTItVkgzXy15Tk16aGFuMElMV1Z2V2NhM3JZUDFaRWJuRGMxYVAwWnBYOTdmZlc0V05wOUhiWHp2UmtjMnh1ZDZMS2JDZlpKRXQ0RWkwWUZ0OExBMDhlVzdseTdOV1pSTTRSTGNrXy1iRXZmSmIyRmVFS1k3TFBhQVFxS18xYndpcVpQaVh4Z21xXzR0OElWcDM5SDdGQV9PbA?oc=5",
+      "published_at": "2026-11-20T16:41:50+00:00",
+      "topics": [
+        "securities"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "securities"
+      ]
+    },
     {
       "title": "Creen sostenibilidad es eje vital para atraer inversiones al turismo",
       "publisher": "Hoy Digital",
@@ -333,6 +393,23 @@
       "economist_match": "search",
       "searches": [
         "economist_juan_ariel"
+      ]
+    },
+    {
+      "title": "Foro Económico elDinero 2026 planteará los desafíos de una nueva fiscalidad para la economía dominicana",
+      "publisher": "Periódico elDinero",
+      "publisher_url": "https://eldinero.com.do",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNnI4cDJEQjlsazRiM0ZHX1k1M2VQZGdSbFBtblNoYzcwTnVmMGxvcWdyVEJnVlZ5a1h3OWlWRGtkTjRnbGxBWm11NXI5N1lpT3J2czNTbnZjOWRqRUl2WUZoakU2aUp0dGEwQWoxZzFDc0xpSDRtVno1cEt3blRTTlZEVXdrdlhLQ3pOQ19XZU9iUVc3eFJRRmxQbkVES2dGc0ZwbzlSMkV3VUtCN21FdmN0SUxxREpodEY4aQ?oc=5",
+      "published_at": "2026-11-14T17:59:44+00:00",
+      "topics": [
+        "opinion"
+      ],
+      "economists": [
+        "andy"
+      ],
+      "economist_match": "search",
+      "searches": [
+        "economist_andy"
       ]
     }
   ],
