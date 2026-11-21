@@ -1,7 +1,7 @@
 {
   "date": "2026-11-21",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-21T07:23:51+00:00",
+  "checked_at": "2026-11-21T17:36:24+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -19,7 +19,7 @@
     "centroamerica": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 1
     },
     "mexico": {
       "ok": true,
@@ -29,20 +29,84 @@
     "usa": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 4
     },
     "europa": {
       "ok": true,
       "error": null,
-      "count": 2
+      "count": 5
     },
     "global": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 4
     }
   },
   "items": [
+    {
+      "title": "Top Drug Kingpin Is Captured by Mexican Army as Gunfire Erupts",
+      "publisher": "The New York Times",
+      "publisher_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaTR4anpEVkluM0VyUnhEemgxdHk1MGp6bTdPLWtVMUZ1Nlh2MktQQzdwOGtWUmVzNkRHMC0tVS0wWk5Db2dEdGdJa3Z2cFQxdERkTW1RRHBPZU54X3dSaHNSZVJad2pvMXkwY3dPMDRfZU1WMFhyUDhpSE42THVhNzZYTTdpVzBscGlXbXNJNHhKOEo3SS1V?oc=5",
+      "published_at": "2026-11-21T17:08:14+00:00",
+      "regions": [
+        "usa"
+      ]
+    },
+    {
+      "title": "Who Is the Mexican Drug Kingpin Known as El Chapo Isidro?",
+      "publisher": "The New York Times",
+      "publisher_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZnpYODVyWHZiZXNzemxwQTBPS0ZRaXpqVGgzemY4VmwzV01NS2MtMjh6UFhMLU9XX0x6c1R0LXNkZnRUVDRjcHMzUEVXdzFUYmduemNZNmkyYTVpNkhQdFRPV3hKSEJVZWVxbkVKcnEyOU14ei1fTkFwOFpDZTNGTEVSLVRxWC1KTWRkOHYzMGMwYVFP?oc=5",
+      "published_at": "2026-11-21T16:22:00+00:00",
+      "regions": [
+        "usa"
+      ]
+    },
+    {
+      "title": "Mexico Captures Top Drug Boss in Fierce Gunfight",
+      "publisher": "WSJ",
+      "publisher_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOXzBacVJ3Qzh2a21SQlRxaGE3VVdNb085VU55UGVjbXlwNW5qZzN0UE1nV3BMeEx3NUxxUWk4d2hZTno5T2lPRlFXV3Y3Mm1mWlJSNUpvR0VoZjZGODZkdXJmZWVZR29FQjdkT0ZGaTU0ajlSWTFNQ1l5Zm9UWDhNZk1JUUZIcHk0VmtLZjdKTmhYSWhadEVF?oc=5",
+      "published_at": "2026-11-21T15:29:00+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Mexico captures top drug lord \"El Chapo Isidro,\" latest in string of captures",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQa1lhc2ZRS3hPcnFWc3VBdDBIbElGZF9PSlZVSEV4NFNxSXZ1YlZWeWtYUVdrbjZXVXFJM3V6VkgzLTZGSWdWUFZiVGctOFRreU1lUWpWdXp5VmJxYTFBVU9wTk9YcTZNSmt6MDhsNnB6azlRSnVnaUdZNF83dl9Gay1OVm9qQ2NreElTT1EzVFF2STVySzRkQmt3M19lRjlzQjJvVWVQckYzR21YUVRyY1R0MGJNYzJwaVhR?oc=5",
+      "published_at": "2026-11-21T14:50:10+00:00",
+      "regions": [
+        "europa",
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+      "publisher": "BBC",
+      "publisher_url": "https://www.bbc.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9RS2RscnZ2UG8tUGVZQzJzenZRY1NUUGZmM19rT3BuZEZvOTlJamRNOU95QlBaalZUcGZKZUFRRXlMNXdEQmxvWnRKSm95MWp5ZGlWUHhWVUxLMGJ0dHc?oc=5",
+      "published_at": "2026-11-21T13:15:21+00:00",
+      "regions": [
+        "europa",
+        "global"
+      ]
+    },
+    {
+      "title": "Los fármacos suelen ser la primera opción para los pacientes con demencia ¿Existe una mejor opción?",
+      "publisher": "CR Hoy",
+      "publisher_url": "https://crhoy.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaHRyeVJtT1VQNWtianlHTGllak9Va1ZkTDhuZzkwT2RiQXZYNC1uQ1lDd3RUUERvazB6X3NPNnFzQTlkUjJLampMbHF0cEVPWE9mdzE0X05aWXoyWjZGcFVPai1QVC1zbjRYRXF1ZHFLTm1DRXYxdHNHdFdsOE9xZ1VVYTJLVkhQLXRhM3h0UVhXWEJuVGNYYVJaSEI4bnE3ZFFaUnNsX3ZlZkYyelJvTmE5Q2FaS3F3eUhsM3NEeTdxQQ?oc=5",
+      "published_at": "2026-11-21T12:06:49+00:00",
+      "regions": [
+        "centroamerica"
+      ]
+    },
     {
       "title": "Beating Ebola takes more than medicine – I saw what worked in west Africa a decade ago | Kayode Akintola",
       "publisher": "The Guardian",
@@ -59,7 +123,7 @@
       "publisher": "Financial Times",
       "publisher_url": "https://www.ft.com",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdW1HcEVYNXZBSWdoQm9FVG9YVU0tRUwxa3dCaEdCY2taNUVfSGQwM0JpUjByblQ0U1diNl9SMVZtYjZFcHdhcDJSWGpvMm01c3lsVUJPdnNXV2E4ZFVKNXZrUnZ3Q29ad25iYVA5UGRGXzh0Z3A2RS1GcW9jMjhRaHNsdVE?oc=5",
-      "published_at": "2026-11-21T05:06:57+00:00",
+      "published_at": "2026-11-21T05:00:45+00:00",
       "regions": [
         "europa"
       ]

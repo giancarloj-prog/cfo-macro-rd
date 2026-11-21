@@ -1,7 +1,7 @@
 {
   "date": "2026-11-21",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-21T07:23:50+00:00",
+  "checked_at": "2026-11-21T17:36:23+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -23,17 +23,17 @@
     "bcrd": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 1
     },
     "fiscal": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 1
     },
     "dgii": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 1
     },
     "finance": {
       "ok": true,
@@ -58,7 +58,7 @@
     "economist_jaime": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 1
     },
     "economist_juan_ariel": {
       "ok": true,
@@ -83,17 +83,52 @@
   },
   "items": [
     {
+      "title": "Economista llama a contribuyentes a no temer a la facturación electrónica; aclara no cambia la forma de solicitar comprobantes",
+      "publisher": "El Nuevo Diario",
+      "publisher_url": "https://elnuevodiario.com.do",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNSGdBZjFER1VhVW5SRV9sUEpzTnNrWWpXc2ZTbnUtekxNSUhqMkxubks3VDRJSmZwTXd0WFVvQXk5bXZieU45OHc4MFE2ZGNKZ3NBb25NOE1haU5yVGxHNDRTcnZQM3QxdWo3ZnBRREM1aDZnVm5sUmUxX2g4VnJwbVBHRVF2VVZIeFRYa1hzSWZFeFFpbUY3b2pHMi1CX0JFVDVDaTZlVzlNVV9qLWtHNFZ0SDR3ZWRNd1YyWVYwTDFzeHVyMlVWZ3RTN3dWcENsckJza2I2WVVJdldlLUVnRnFmd1ZWQURsLUx3?oc=5",
+      "published_at": "2026-11-21T17:33:25+00:00",
+      "topics": [
+        "dgii",
+        "opinion"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "dgii"
+      ]
+    },
+    {
       "title": "Un mundo incierto y una política fiscal preocupante",
       "publisher": "Hoy Digital",
       "publisher_url": "https://hoy.com.do",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYUFMSlpRQ0pvTUQxRWFEVElqRTJ3RjJZZWREZGtENGo3NlZEUTctNFpJSlpNM0VYWTBuQklOLXpFbVFoR01raUJ4Y2hhTmtWbG1ORHVYdUtKWFVFMWdoN1RIN25NUmJVZmRJM2lhTGNrTE1Dam5rR1NLN29zTGE2bXc0T05WY2ZreGfSAY8BQVVfeXFMTWVBZW5BZXUxV2I2bEZMZ3c5TUY1TDdvN2NEaFEtNENFMmFkelIxYlBrX3ZLVThvcWwyWkR3aFhnM290eUU5Y045bFdPdlFja1FDMVlMOFlKVG9zVjhTZnZjRFpWLVNYN3pQcjQ3bUV3WC15WE9ZNWJLanc4Sk5kZUplQVhSdEVvMkZtbW9OT1U?oc=5",
       "published_at": "2026-11-21T04:05:00+00:00",
       "topics": [
+        "economy",
+        "fiscal"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "economy",
+        "fiscal"
+      ]
+    },
+    {
+      "title": "FMI resalta solidez de la economía en República Dominicana",
+      "publisher": "Hoy Digital",
+      "publisher_url": "https://hoy.com.do",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTi12YnAzNTZDOXIza1lHLTJFN2k0QmNkZkdicEJFbkZJOVh2Rnc1OXlnTjdCNEgtaUc4Z0EzX1llejN6aElOYlNwUl8yQ29QeHA4a2Q1Q1pJQkhUd1lGY01KZTFnbkFBQmVfTjdUTENfa2kzZ2I0alNPeFZoX3dDOG1PMGhfR18zTE5NclZJTWpyV2vSAZgBQVVfeXFMTWMwaUFiR0dZdlAxeVQyS0tMcExjcEFfaVNvbEdHVXJISzhFS3JpR1lHUGdXd1E0VTRDQ3gyQWl4ZFg3aHBId0FHbzJ4WFdEbktBRFlZand1TFhNSE1JYjFpNk5uamRWMDdha0hBVG1hX1NxTUV0YVE3bE11TEVEZlU2LTdzQzVIQVJzLThfaWpvR0V3QlJ1eTg?oc=5",
+      "published_at": "2026-11-21T04:00:00+00:00",
+      "topics": [
+        "bcrd",
         "economy"
       ],
       "economists": [],
       "economist_match": null,
       "searches": [
+        "bcrd",
         "economy"
       ]
     },
