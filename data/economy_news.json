@@ -1,7 +1,7 @@
 {
-  "date": "2026-11-20",
+  "date": "2026-11-21",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-21T00:50:29+00:00",
+  "checked_at": "2026-11-21T07:23:50+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -23,32 +23,32 @@
     "bcrd": {
       "ok": true,
       "error": null,
-      "count": 3
+      "count": 0
     },
     "fiscal": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 0
     },
     "dgii": {
       "ok": true,
       "error": null,
-      "count": 2
+      "count": 0
     },
     "finance": {
       "ok": true,
       "error": null,
-      "count": 2
+      "count": 0
     },
     "securities": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 0
     },
     "economy": {
       "ok": true,
       "error": null,
-      "count": 7
+      "count": 1
     },
     "economist_andy": {
       "ok": true,
@@ -83,221 +83,35 @@
   },
   "items": [
     {
-      "title": "FMI proyecta economía dominicana crecerá 4.6 % al cierre de 2026",
-      "publisher": "El Nuevo Diario",
-      "publisher_url": "https://elnuevodiario.com.do",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQV9oZ2pmbmFlcTdjRGlNVnBhbmZSeW00d3o4WW9BYVVwcHRwX0cwWHZSN2NIMEgzWndCOW9hZ09XQmdvTlNvbEZFdnZsVkZUNThPTDZFWmVvaHg5UlpZYk5tRjR4NkdkRVRvNmItUUktY2hsLW1Jb2VMcXZxa05MOXFCdER2Z2pScG42WmxrTy1lSHBoLXJvdGRVUFM?oc=5",
-      "published_at": "2026-11-20T22:12:26+00:00",
-      "topics": [
-        "bcrd",
-        "economy"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "bcrd",
-        "economy"
-      ]
-    },
-    {
-      "title": "Banco Popular premiado por Asonahores por financiar US$130 millones para hotel en Punta Cana",
-      "publisher": "Acento",
-      "publisher_url": "https://acento.com.do",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQaU9lMzhYQ1pJRXV5UnlKUEl0YlRiZkRCWEVQbG82NXhsdXkxdTc2dGxPOHlTYjJSX25Od1puTS1pOXI4eFV0ZGREanY0b1JXcktZLU5GdTc5MXJ5RXBXZ0hWOWdRYkhjaWtsZ0RvM2owSGNsa1VlZTM4dHVxbkxUa2hjQjA5ZG95Wk11Q2h3UW90ZzczY2pQbjRHeVFpODVHalM0bFJzTlVzNVQ2ZldRa01zSHI3NGwtbV91bDVsRkRDakxTR3o5V1FxTm9JVVnSAc8BQVVfeXFMUGlPZTM4WENaSUV1eVJ5SlBJdGJUYmZEQlhFUGxvNjV4bHV5MXU3NnRsTzh5U2IyUl9uTndabk0taTlyOHhVdGRkRGp2NG9SV3JLWS1ORnU3OTFyeUVwV2dIVjlnUWJIY2lrbGdEbzNqMEhjbGtVZWUzOHR1cW5MVGtoY0IwOWRveVpNdUNod1FvdGc3M2NqUG40R3lRaTg1R2pTNGxSc05VczVUNmZXUWtNc0hyNzRsLW1fdWw1bEZEQ2pMU0d6OVdRcU5vSVVZ?oc=5",
-      "published_at": "2026-11-20T21:45:36+00:00",
-      "topics": [
-        "finance"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "finance"
-      ]
-    },
-    {
-      "title": "La segunda inversión de la diáspora: innovación",
-      "publisher": "Periódico elDinero",
-      "publisher_url": "https://eldinero.com.do",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZjNTRlh4bHpXMUdfNjN4ZjdvWEpRNVVpek04ZG9sUFZOTl8wSmkyMGR4SW1pVDdTTTJBS0h3U1JtZFFlN2U2c0I3cHRVSFZ3c01RWDBzcEd5dFZ1eG9xTGprU3ljVU10N2tsMkhsOWR6cDVtWDhaQ1FvcEdieFRIcjNiVlc?oc=5",
-      "published_at": "2026-11-20T20:27:19+00:00",
-      "topics": [
-        "economy"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "economy"
-      ]
-    },
-    {
-      "title": "El FMI destaca resiliencia de economía dominicana y proyecta crecimiento de 4,6 % este año",
-      "publisher": "El Dia.com.do",
-      "publisher_url": "https://eldia.com.do",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeTAxR2o2YjNlTDZ2T2VleU82QWVaTDQ0QjZMeFBidW5hYV9iX0doT3BGb0xINHJzS2VjTW1kdDhVV09veGRnWHBKNG5qWEI3UXQ5Sk9GbE9EVlprTE1rRUQyZVhnWTVWcVc4c09Lb091T0Vmc0pFRFVsbERwS2hMMHFROFFPOC1NQnkxYnZBY3RyckxNR29BOFVObkM5cm5KeHZzaDNVSlZkbFphT1E?oc=5",
-      "published_at": "2026-11-20T20:06:16+00:00",
-      "topics": [
-        "bcrd",
-        "economy"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "bcrd",
-        "economy"
-      ]
-    },
-    {
-      "title": "FMI condiciona previsión de inflación en RD al comportamiento de los combustibles",
-      "publisher": "Acento",
-      "publisher_url": "https://acento.com.do",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSEU0a0N4MU91eGRiVnR3c1UzaWdWZk5Fc3dKN1N0UUFpYkRPSjk4Nk5tX0ZNeEJyblF0SE9za3Q4QXVhSFRJSHhIQXdBenlxbGJVeVRGLW5wQnZwbV95SjJGbXladkxveEpyZ0VMM0d5VVl0c3FCNUh3STRhdkcxckRPS245UEFoRWl6TDN4dElxZF9kMXg2VFgxQXhua1NoTF9UMlNEaVlBbjZXdENoc0V3ajdrR1ZRZDV0OFRhRWFIelnSAcMBQVVfeXFMT0hFNGtDeDFPdXhkYlZ0d3NVM2lnVmZORXN3SjdTdFFBaWJET0o5ODZObV9GTXhCcm5RdEhPc2t0OEF1YUhUSUh4SEF3QXp5cWxiVXlURi1ucEJ2cG1feUoyRm15WnZMb3hKcmdFTDNHeVVZdHNxQjVId0k0YXZHMXJET0tuOVBBaEVpekwzeHRJcWRfZDF4NlRYMUF4bmtTaExfVDJTRGlZQW42V3RDaHNFd2o3a0dWUWQ1dDhUYUVhSHpZ?oc=5",
-      "published_at": "2026-11-20T20:00:06+00:00",
-      "topics": [
-        "bcrd",
-        "economy"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "bcrd",
-        "economy"
-      ]
-    },
-    {
-      "title": "FMI resalta clima de estabilidad y crecimiento de la economía dominicana frente a choques externos",
-      "publisher": "Listín Diario",
-      "publisher_url": "https://listindiario.com",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNczdNMUVyYndGWTZpaE5SdDJYT251QThGUVdQSEw2NHIzSHJtcGxfbDAyT1lMZmlMSV9rLUFWTS1Pd3laU0JQUHk2RmlZSkhzR2dQWk5hSG5SSm5ieWNkb0VnUzVqTDBJdlhfaGF5Q2RKSVJFSkZEYzJZNlZlUFgwNUtmanRJcjJBV0FlX1hpQ0hNaFVVMWxfd2JHd1VaMldHN1pTY0JBUTF5SW5BY1VCeWd3WlN3WUpnVlB4OVVCc0xGdnlMbENxSmo4R3d1WWEySHYya0QtZXNMRkFveV9OQUUzY9IB6AFBVV95cUxNcHplZW9NaFl4VHVCM2FBNlBoWVFhdmNDWHBOMFJEZEFiSENQNnA4U2pjQXk0OHlkaFcyWXFxUzh0ZTAwWnJCcnpCX19vcmg5OVQ1MXFEV1FZTHBUajR1SFlJWUZ2ZTBaZ2tGcmNsQi1HY212TjRtLWVCNnprdFdqaDRjN2J1VDhrRWhhRnYzQTZJM2s5S0ZUOUNpcUJYNTZfbzJENm14cDJfUXctZ0poNkFhYzlQVXJzWGNFMGg2MGx3X3hKMVBUTzFIb3JXWXk4RzRBcVc1cHVfWXFRLVA0bXRobXBXUF85?oc=5",
-      "published_at": "2026-11-20T19:23:04+00:00",
-      "topics": [
-        "economy"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "economy"
-      ]
-    },
-    {
-      "title": "Magín Díaz proyecta que la economía dominicana crecerá más de 4% en 2027",
-      "publisher": "Periódico elDinero",
-      "publisher_url": "https://eldinero.com.do",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWTB5QVpYaWlNTDdBOXY2bTlSR0EwMUhLQmxzRE05b3VsRGYyRkNXVVB3ZjZjYnJYYUc4MlRYeWhicDhTaHAwRktUN3lhUXdTeTNqWDBWNjhqRHVxd3FjT3d2dlhFSXRGOXdKRGVKNW9xRHYyX0hSZXJpcVVLLUNHNXRzVU5xcVVYNEZLTFRyUWxHSmxXWWdBc1cyUC0tOFRhUENHaFJn?oc=5",
-      "published_at": "2026-11-20T19:20:38+00:00",
-      "topics": [
-        "economy",
-        "fiscal"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "economy",
-        "fiscal"
-      ]
-    },
-    {
-      "title": "¿Qué es la aplicación 1,2,3,4 de la DGII y a quiénes beneficia?",
-      "publisher": "Periódico elDinero",
-      "publisher_url": "https://eldinero.com.do",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeGYxNkdjY1JEX2RtajR6SVB1SGZ2a0loUXlVU0o5RGZpeDdTWEptVGRxTjdLdHlCWmNWZVRJc1N2eWgtcURjUjlvQWU4QXZucER3WjVuUndEZUFaUUtqLTZCTzdYR2xfb3YyWnVIS3QzM3lva1psUU9qdVowbUdIeGt1aGJoQWhXZ3k0ekpfcmRKNzUz?oc=5",
-      "published_at": "2026-11-20T18:00:22+00:00",
-      "topics": [
-        "dgii"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "dgii"
-      ]
-    },
-    {
-      "title": "El Poder Ejecutivo confirma a Ernesto Bournigal Read como superintendente del Mercado de Valores",
-      "publisher": "Listín Diario",
-      "publisher_url": "https://listindiario.com",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPM0dMUTd6a2U3VkFadzI1aGJvZFc1ajROSnF6T0NLR1ZFWnU3RGtaTlZvbjRkMWNxX3dGY0I5Q2xQdVAyRVNGV3JwWm9UbXBtaGZlUnJmbFNUcHdmQ1I0M2dIYTAwbEJqM2c4MUxzd01HMEFXaG5CaUNnMUF6Z3hGRmFHdEswM0dRYlA0OTlrNHg5M2xvNEtDWjhtbnotYjJORjhCRlhmbFFPdHJZRFpOMGxBZzNIbjhSMUpCdWNzYjV2NzNTd2xhcWpqRDRoS2RwRkVsemdsUGVLUdIB3wFBVV95cUxQcjJXTENMdVdwT0t2UFVKODJndExFRjB2T3ZUTGdIVnEwRHBJYWczUHZFS0hicXk4dXNFdjJDNF9RN1NqSGNuVTRxZmIxUkNlRkllQ1lGRE9Fb2pNM3lqLUcycWw5TWJsdFd5a3NvcGgyRlhoemtqT19YdUZobmU4QjZfeDZZSkNsOWtFZk5ZVll4Y0tsR0x0cDJ4ejhUV0FSdDU1em9uNjk2Rnp1NU5YcGtzd1ZrR1BBNnJVWlhVTlcyRHAxdGpmSzIyVmxJcWRkamt6emhYbWExZVlONUQw?oc=5",
-      "published_at": "2026-11-20T17:02:36+00:00",
-      "topics": [
-        "securities"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "securities"
-      ]
-    },
-    {
-      "title": "Ernesto Bournigal seguirá cuatro años más al frente de la Superintendencia del Mercado de Valores",
-      "publisher": "Acento",
-      "publisher_url": "https://acento.com.do",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOYjV6SERiTHU3cjlNY0t1Yjh0WDhjTjVZVUVFSFNjM2NZZDJhZ3IwdmhwTEl0d19pT0cwMjE5bzlubkczRThPcFF4dUlENnJaSVliRE1jRkZDVHcyTVJ2aC1UcHNUUVh4YjlVMV94aFBJbzYtWjdzTzhaMlRYQ2dLMER0bE1JMFFxRGUyVDlBRHBnWVl3WG9KeXpiY0dIZXltT0tSZXVyOW56TzJjWUJhTXE1TU9DdFZoMlVveFVIcVlqaU5ldkJSeno5S19uMWJVWU96b0hJVmJwTzjSAdsBQVVfeXFMTmI1ekhEYkx1N3I5TWNLdWI4dFg4Y041WVVFRUhTYzNjWWQyYWdyMHZocExJdHdfaU9HMDIxOW85bm5HM0U4T3BReHVJRDZyWklZYkRNY0ZGQ1R3Mk1SdmgtVHBzVFFYeGI5VTFfeGhQSW82LVo3c084WjJUWENnSzBEdGxNSTBRcURlMlQ5QURwZ1lZd1hvSnl6YmNHSGV5bU9LUmV1cjluek8yY1lCYU1xNU1PQ3RWaDJVb3hVSHFZamlOZXZCUnp6OUtfbjFiVVlPem9ISVZicE84?oc=5",
-      "published_at": "2026-11-20T17:00:15+00:00",
-      "topics": [
-        "securities"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "securities"
-      ]
-    },
-    {
-      "title": "Abinader ratifica a los miembros de la Junta Monetaria y al superintendente del Mercado de Valores",
-      "publisher": "El Dia.com.do",
-      "publisher_url": "https://eldia.com.do",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVk5yejBmTUFwNHYzejVHVFBFdWZaM29hcTJhYTItVkgzXy15Tk16aGFuMElMV1Z2V2NhM3JZUDFaRWJuRGMxYVAwWnBYOTdmZlc0V05wOUhiWHp2UmtjMnh1ZDZMS2JDZlpKRXQ0RWkwWUZ0OExBMDhlVzdseTdOV1pSTTRSTGNrXy1iRXZmSmIyRmVFS1k3TFBhQVFxS18xYndpcVpQaVh4Z21xXzR0OElWcDM5SDdGQV9PbA?oc=5",
-      "published_at": "2026-11-20T16:41:50+00:00",
-      "topics": [
-        "securities"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "securities"
-      ]
-    },
-    {
-      "title": "Industria farmacéutica dominicana exporta US$550 millones",
-      "publisher": "El Caribe",
-      "publisher_url": "https://www.elcaribe.com.do",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNLThPLWE1emhvMzB3Qy1BTGZyWTRMRGdQbGhwekJNa2QyeF9GZzVicFF3SU9UTVZiSTJaWWVqYmhEMVRmUExRZXRjdi04WU5JY0xJM0tZdEJzSl90Y1YxVEMwZ0cwOWR2b1dSWW5Yb3ZVdUpRZ2g0VUV4RDFjazM0OGF3Vm1JYXZXV0V2NVJHUk5MNHBCaW9mMFQ1QVBIbGVN?oc=5",
-      "published_at": "2026-11-20T15:22:08+00:00",
-      "topics": [
-        "dgii"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "dgii"
-      ]
-    },
-    {
-      "title": "Industria farmacéutica difunde sus números: exporta US$ 550 millones",
-      "publisher": "El Dia.com.do",
-      "publisher_url": "https://eldia.com.do",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQ045Tjc0RTJhWUFmMVlsYk54MVo2RlNWQXJGR1dVeFk3QUd2Ri1aNDkta2NMZnJ2X0FRMV93V1hxSVhYN2w4Uk1BYTAwREx3RTV2UTNqN2pFeEtYNnRkVVpDNndiSmR1N3E0R3hlaG5KWmxRaGVObjd6TmpwRnJwMm5aRzFIdVBiWThQV1p3QmJIUQ?oc=5",
-      "published_at": "2026-11-20T13:34:14+00:00",
-      "topics": [
-        "economy"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "economy"
-      ]
-    },
-    {
-      "title": "Creen sostenibilidad es eje vital para atraer inversiones al turismo",
+      "title": "Un mundo incierto y una política fiscal preocupante",
       "publisher": "Hoy Digital",
       "publisher_url": "https://hoy.com.do",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNalh2RVBaTXVhVnFOY1FqeHYzZmZocnNnWUtTX0RvV1hRM3ZZaFZuX2VlWDNuOTZIY1NFbFZTTjBYZlhzVFcxRHVzOHd2RzJveldYMXMtUkRadnBaSXdZZzJGNldOVnZIdWxtQWw3cngwTzh0YkdFZGw3b1NDVDk1RTlqc3p6MV93Y0JTeWNPMUJDa0FJRzBPeXhlTTFURTjSAaQBQVVfeXFMTndaWkNuXzZ2cDh2bmcxX0I1Ni1fU1Rwa2g2dlFLYmdDdkpyZEhmWl9pd3M0MWdFLVB2OW03UTR6ay1iZTJENmdCYjhHejlVcXBxQmt0a3ZQc2dOcTdiLVE0OUhYcjlpVkUwNUI1emFIMmNQT2ItLUhDalRmNVRVellUcUVON2ZodDFvNVZoWGVMOGR4VTRFdUhBQTh3RWxRM1ZIbDM?oc=5",
-      "published_at": "2026-11-20T04:00:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYUFMSlpRQ0pvTUQxRWFEVElqRTJ3RjJZZWREZGtENGo3NlZEUTctNFpJSlpNM0VYWTBuQklOLXpFbVFoR01raUJ4Y2hhTmtWbG1ORHVYdUtKWFVFMWdoN1RIN25NUmJVZmRJM2lhTGNrTE1Dam5rR1NLN29zTGE2bXc0T05WY2ZreGfSAY8BQVVfeXFMTWVBZW5BZXUxV2I2bEZMZ3c5TUY1TDdvN2NEaFEtNENFMmFkelIxYlBrX3ZLVThvcWwyWkR3aFhnM290eUU5Y045bFdPdlFja1FDMVlMOFlKVG9zVjhTZnZjRFpWLVNYN3pQcjQ3bUV3WC15WE9ZNWJLanc4Sk5kZUplQVhSdEVvMkZtbW9OT1U?oc=5",
+      "published_at": "2026-11-21T04:05:00+00:00",
       "topics": [
-        "finance"
+        "economy"
       ],
       "economists": [],
       "economist_match": null,
       "searches": [
-        "finance"
+        "economy"
+      ]
+    },
+    {
+      "title": "Andy-Dauhajre-foro-economico",
+      "publisher": "Periódico elDinero",
+      "publisher_url": "https://eldinero.com.do",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOS1ZUG1fRThIaWdEQ1BzWkVMejUxcFpUbnVLTjFSREhpRkd4MTRrSFc4T1ZOZG5mdjNvbFUwLXlZSHFHU0pvcE51NEtQVDRON0QyM3c5dG8taWhYSC1QUlNJcGlGOFE3MF8tQTl4cmc2ZldRc2tCX1VRTWFVTWVTLV82aWthY0dnQU9PZ3JDTnhCUm50ZGJjNm14ZXZ1YjE2TFZLc2RIeTlmTTNocjZCdDUxSDZhVHNjVDFKSGFDZkE?oc=5",
+      "published_at": "2026-11-21T01:11:49+00:00",
+      "topics": [
+        "opinion"
+      ],
+      "economists": [
+        "andy"
+      ],
+      "economist_match": "search",
+      "searches": [
+        "economist_andy"
       ]
     },
     {
@@ -535,41 +349,6 @@
       "economist_match": "search",
       "searches": [
         "economist_jaime"
-      ]
-    },
-    {
-      "title": "Créditos al sector agropecuario cayeron -13.4% en primeros nueve meses de 2026",
-      "publisher": "Periódico elDinero",
-      "publisher_url": "https://eldinero.com.do",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcE9xVlgtXzdQdjNsVnM1WnZjLTM5Q2doZzNWZFpwdVl2Rmk4VkJXWndSc1BkY0FUeXV1aFh4OWN0T2tjRFZ4ejVHLThEMXpucDlYVF9kbnhTU0RaNkwzTHdjOE9MQWFGUjZfVWpPTTBZckJjY21EaHFSWXlILXpWbm1KdVJQcC0yZThVNjJneTFrTl9VWU1pMWNmSENRWW80QTNKM3VVQkotUHY1?oc=5",
-      "published_at": "2026-11-14T18:12:26+00:00",
-      "topics": [
-        "finance",
-        "opinion"
-      ],
-      "economists": [
-        "juan_ariel"
-      ],
-      "economist_match": "search",
-      "searches": [
-        "economist_juan_ariel"
-      ]
-    },
-    {
-      "title": "Foro Económico elDinero 2026 planteará los desafíos de una nueva fiscalidad para la economía dominicana",
-      "publisher": "Periódico elDinero",
-      "publisher_url": "https://eldinero.com.do",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNnI4cDJEQjlsazRiM0ZHX1k1M2VQZGdSbFBtblNoYzcwTnVmMGxvcWdyVEJnVlZ5a1h3OWlWRGtkTjRnbGxBWm11NXI5N1lpT3J2czNTbnZjOWRqRUl2WUZoakU2aUp0dGEwQWoxZzFDc0xpSDRtVno1cEt3blRTTlZEVXdrdlhLQ3pOQ19XZU9iUVc3eFJRRmxQbkVES2dGc0ZwbzlSMkV3VUtCN21FdmN0SUxxREpodEY4aQ?oc=5",
-      "published_at": "2026-11-14T17:59:44+00:00",
-      "topics": [
-        "opinion"
-      ],
-      "economists": [
-        "andy"
-      ],
-      "economist_match": "search",
-      "searches": [
-        "economist_andy"
       ]
     }
   ],
