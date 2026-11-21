@@ -1,7 +1,7 @@
 {
   "date": "2026-11-20",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-20T18:39:03+00:00",
+  "checked_at": "2026-11-21T00:50:30+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -14,7 +14,7 @@
     "rd": {
       "ok": true,
       "error": null,
-      "count": 4
+      "count": 5
     },
     "centroamerica": {
       "ok": true,
@@ -29,7 +29,7 @@
     "usa": {
       "ok": true,
       "error": null,
-      "count": 14
+      "count": 16
     },
     "europa": {
       "ok": true,
@@ -39,18 +39,83 @@
     "global": {
       "ok": true,
       "error": null,
-      "count": 14
+      "count": 20
     }
   },
   "items": [
+    {
+      "title": "Congress’s Top Doctor Resigns Amid IG Findings of Lax Drug Handling",
+      "publisher": "WSJ",
+      "publisher_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNR0kzd29fdzk5QVJNbFY5ckduWmU5NGdHMDNFTVpJVTZ5VU9VVXVJcWpxWVE4VnIwdHZ4OUs1cGpxTTcwZDVCaDNncDFQWHhQSFl1ZTJjZHY0ampKWkJuUVFKbjNzd0N5SjF4WDZQcnhhdVFLYUVwVFhsd2Z5c3FvbHBnWm9ST2xZTkxobUVESDBmSDZacHhSUg?oc=5",
+      "published_at": "2026-11-21T00:00:52+00:00",
+      "regions": [
+        "global"
+      ]
+    },
+    {
+      "title": "FDA rejects Capricor Therapeutics' Duchenne therapy, a decision that was a long time coming",
+      "publisher": "STAT",
+      "publisher_url": "https://www.statnews.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Nakdta19TM0VQMjFkMU5pcHJVajVsY2hsRDdlb3RkbEFSYm1TaERxR0RMSHdjbXhvNF9SUDhwZUxGM2VPdGxKSnZ3VjhKa29Hc3dEenZPSF8tU0RBZzBnaW1KWU5SR1R0Z3BJZ0luaEFGV3dMUi1KanpUcVkxbEE?oc=5",
+      "published_at": "2026-11-20T23:50:01+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "US FDA declines to approve Capricor's Duchenne treatment citing unreliable trial data; shares slump",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUUJ5QjBndGJPNTFwMHRqRzZVNHRqd0JpaW1oc2UxeGd0RXpYNDNWQlE2Yl9vLVBfbUxZS3ZqeG1iTnh3Um1vZXJRWU5aenBiaFlYRmRBVy00eFpYRVJFNHN0NTk2TVdWOXNfbHZKckxpRi05WDNJM2VaLWRjR1l0c3JrYkYyZEU0UFItS2NQR19Pb1cwWG1BNW43Y19mZE9EajUwZHA4RUJTOVFoOWdnbG5tT1pzdDhvVlI3MEZlcU50YWd0a2c?oc=5",
+      "published_at": "2026-11-20T23:42:00+00:00",
+      "regions": [
+        "europa",
+        "global",
+        "usa"
+      ]
+    },
     {
       "title": "Texas Prisoner Moaned as Drugs Flowed During Execution, Witnesses Say",
       "publisher": "The New York Times",
       "publisher_url": "https://www.nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNE1PdVV3RnE5VjdUVF9zZDFZYmttZDBRR0oxNGNIR29aVUJ6aXRrVmRzXzk5eXdKcEppV1RNZ3lSMVZIS3RFNkw2aklwNnF2d2EwYnhUaE1jRUQxbFhzQ1BlZFFIOW5HbXNHVHgxQUFmWGtsQzVHdm80SFJtOWFYa1J3dldzNmtLMHFHNDU4U0ZqZ2VtVXc?oc=5",
-      "published_at": "2026-11-20T17:31:55+00:00",
+      "published_at": "2026-11-20T20:17:01+00:00",
       "regions": [
         "usa"
+      ]
+    },
+    {
+      "title": "Reales de la industria farmacéutica",
+      "publisher": "eldia.com.do",
+      "publisher_url": "https://eldia.com.do",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9qbjJIY1pFaVRjRUt2Mk1uZ2VNWERwNzVQY3pxeEw1ekJxS1IwWjFqTUltUThXZG9vbkdERFZZa2dRUXNhZTRyZENzOWpQSEZnLXppd1BrVzRKZWtCODduSkVfQ1FmNmQ5?oc=5",
+      "published_at": "2026-11-20T19:48:24+00:00",
+      "regions": [
+        "rd"
+      ]
+    },
+    {
+      "title": "Medicare pilot will test ‘food is medicine’ and other lifestyle programs to counter chronic diseases",
+      "publisher": "STAT",
+      "publisher_url": "https://www.statnews.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVHVrampqQ0NUN3pXeXdHSzkwX2w1amotOXBuMjhmaWd6Nm9tdlRpMTJNZDlYcF9PSnhBelY2YzZMUnBobVBKYVlZOTd4c1IzdGZaaUp2MWJCdGRsd0pnY3VSMF82VXR1RjJ5cnBiM3M1WXhWQ1BkckptTDd0djdIR0N6bkdSREE?oc=5",
+      "published_at": "2026-11-20T19:34:52+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "I, too, was raped by my partner while drugged and unconscious. There are more survivors than you think | Zoe Watts",
+      "publisher": "The Guardian",
+      "publisher_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZzZveENrLS1JRWJEck00bE5WbFhvc2pVNllsQXpBMlhIVFNOOVpYZGlSbXNpTXQ2UlpwS0tGSTB6R3ZpMXdILW5NN0lGdVJJd2d0NlVzMkRVS21NMmFUY1lKOXlUdUFvMHh2bElnQkgzQWF3RHdQLVRyS0hqUTU1NEkzbjJNUWJDS1BRWDBvMDkzV2tTcnY3Mng4SEQ5R1NUS2ZydGN4WnlqS0pubXZ0OHJLR0R5LXV4?oc=5",
+      "published_at": "2026-11-20T17:59:00+00:00",
+      "regions": [
+        "europa",
+        "global"
       ]
     },
     {
@@ -83,16 +148,6 @@
       "published_at": "2026-11-20T15:22:08+00:00",
       "regions": [
         "rd"
-      ]
-    },
-    {
-      "title": "The Biotech Growth Trust PLC - Director/PDMR Shareholding – Company Announcement",
-      "publisher": "Financial Times",
-      "publisher_url": "https://markets.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMW0wVmVpTkFtMEgtWklzS3J5QVgxTl9VeDB1ZGdnOXl0VC1UWmlZSVgtSFg2dWx3aDNUdFd2dFN1UEtYbWRWMUtwZEpUTmRIRTBGbm5SSmZ4R2xpUlN1cWpfQlYtX2hmbW5Ea21yTUNOaG5sSjg1dFRSaEVzb3lQZUdXdDl2Ry1YNFNON1R1QWl5RFhj?oc=5",
-      "published_at": "2026-11-20T15:22:00+00:00",
-      "regions": [
-        "europa"
       ]
     },
     {
@@ -140,6 +195,17 @@
       ]
     },
     {
+      "title": "Pharmalittle: We're reading about Sanofi eyeing Insmed, AI speeding drug development, and more",
+      "publisher": "STAT",
+      "publisher_url": "https://www.statnews.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWEhiOFdlWEZLeTEzVXNvSk1YVUhhc0ZVZ2o3V2VSSUhZaDZsMTkzN0ExbWhzcVoyT1pnSXRFbWR0M2tIX1JqQmh4ejh0Q1B1akNXUlFlQU1KWFp1X3NaOUQyTGZPZ2Fjd2twZUxUR2lLZmtVSWd4RGdvbGN3RTJJVVI2QmNPWEUzSllBOUpxYVJKcG9rNzczcXdLc2Y?oc=5",
+      "published_at": "2026-11-20T14:39:23+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
       "title": "Merck's drug prolongs survival in advanced stomach, esophageal cancers in trial",
       "publisher": "Reuters",
       "publisher_url": "https://www.reuters.com",
@@ -147,17 +213,6 @@
       "published_at": "2026-11-20T14:38:53+00:00",
       "regions": [
         "europa"
-      ]
-    },
-    {
-      "title": "Pharmalittle: We're reading about Sanofi eyeing Insmed, AI speeding drug development, and more",
-      "publisher": "STAT",
-      "publisher_url": "https://www.statnews.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWEhiOFdlWEZLeTEzVXNvSk1YVUhhc0ZVZ2o3V2VSSUhZaDZsMTkzN0ExbWhzcVoyT1pnSXRFbWR0M2tIX1JqQmh4ejh0Q1B1akNXUlFlQU1KWFp1X3NaOUQyTGZPZ2Fjd2twZUxUR2lLZmtVSWd4RGdvbGN3RTJJVVI2QmNPWEUzSllBOUpxYVJKcG9rNzczcXdLc2Y?oc=5",
-      "published_at": "2026-11-20T14:35:23+00:00",
-      "regions": [
-        "global",
-        "usa"
       ]
     },
     {
@@ -178,9 +233,7 @@
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeHRjRzhscVBqZmg2dDN2UEd2ckVTaGZiVElQQXNhbklKVzE3REJyWGNXNWV0SldWQWstNnBCbDdyYWFOeDloRmNLWmxOMENjazhjcUo1WFBzdXVnTUxLdW5nYnVwZXpJTG9tV0hVTHNONUxCYXhKMEJzN1hCTGJUMEJKVU9tYVpseGJxVmNGcXFqMDZDVjR3VVJGakQ2bGV5bEJqRFZ1VFA0Nm1XMFVF?oc=5",
       "published_at": "2026-11-20T14:28:12+00:00",
       "regions": [
-        "europa",
-        "global",
-        "usa"
+        "europa"
       ]
     },
     {
@@ -198,7 +251,7 @@
       "publisher": "STAT",
       "publisher_url": "https://www.statnews.com",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNS1c4Y05aUnlpTzBVTG5BeG9lWFd0bzBDdXl1Um9vQXhOZnUtZUNkSktYaER0eTBzVU5SWHRIWkE5SEtTdkdBLWMyaDRNTmlwWkszUHZULTFpdU02X0QxS1FiWWRQQ1RzQW5jdlJ1YlprZ1g5dDhsZlFTUHVfOUtYNEl1Q0xITnN6YzB2TnpNbk42NmNTNmoyVA?oc=5",
-      "published_at": "2026-11-20T14:05:23+00:00",
+      "published_at": "2026-11-20T14:19:59+00:00",
       "regions": [
         "global",
         "usa"
@@ -222,16 +275,6 @@
       "published_at": "2026-11-20T13:34:14+00:00",
       "regions": [
         "rd"
-      ]
-    },
-    {
-      "title": "Savara Informed That FDA Will Not Take Action on the Molgramostim BLA for Autoimmune Pulmonary Alveolar Proteinosis (Autoimmune PAP) by the PDUFA Date – Company Announcement - FT.com",
-      "publisher": "Financial Times",
-      "publisher_url": "https://markets.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYWpzdVhEM1hkQnZGZlhjeUxRTWVQLWxFM25ybDdqN3hkeHhOQ2xNTnU0NC11VWF0dXR2VWs3R3h0TXRQVmVQeDN3QlBONE1yUlk2T29tb0NXU0xpelFFVWxneHVOYUlvQUlROFFwYUU0ck9WVEFlcjgzdXJHWEU4Q2FaUEk4TjBrbWlTakN2V2Fyb2dkX0x1amhMOUhvZk04VTdBYnFR?oc=5",
-      "published_at": "2026-11-20T13:30:00+00:00",
-      "regions": [
-        "europa"
       ]
     },
     {
@@ -277,34 +320,14 @@
       ]
     },
     {
-      "title": "I, too, was raped by my partner while drugged and unconscious. There are more survivors than you think | Zoe Watts",
-      "publisher": "The Guardian",
-      "publisher_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZzZveENrLS1JRWJEck00bE5WbFhvc2pVNllsQXpBMlhIVFNOOVpYZGlSbXNpTXQ2UlpwS0tGSTB6R3ZpMXdILW5NN0lGdVJJd2d0NlVzMkRVS21NMmFUY1lKOXlUdUFvMHh2bElnQkgzQWF3RHdQLVRyS0hqUTU1NEkzbjJNUWJDS1BRWDBvMDkzV2tTcnY3Mng4SEQ5R1NUS2ZydGN4WnlqS0pubXZ0OHJLR0R5LXV4?oc=5",
-      "published_at": "2026-11-20T12:04:00+00:00",
-      "regions": [
-        "europa",
-        "global"
-      ]
-    },
-    {
       "title": "NEWSLETTER: GLP-1 drugs tied to heart improvements in patients with obesity and heart failure",
       "publisher": "Reuters",
       "publisher_url": "https://www.reuters.com",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTWxKU3Y0c0o3VkZOOXBaVWZnd0paUEQ5dlREY0ZFbjRGTHNtU0laeVhQRE9hdVowbzhNMWZ3NEhmNlIyYVR0NzdEbkF1d2tYand2Z3NTcGc5VlBjNVRWMmxzd1Vqc1psakZxS1BmUDJrSEhCcVVuaWFpczBTdU9aQVVfT3RnV1pPQVFtNVp1N0hSVVl2SGoxUFhwM042S19UNWpCa0xzbHk4VE5ocXMwZGY2ak1ublZfYVJtdkFHd1hGN0RjWmYzWnNyQU1vWTVhRWRCS082QnFVLXc?oc=5",
       "published_at": "2026-11-20T12:03:37+00:00",
       "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "Video: 4 British Men Convicted of Sexually Assaulting Woman Drugged by Husband",
-      "publisher": "The New York Times",
-      "publisher_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNT3NrcE0zeEVvUjNJalBJNUpXUjg2RnNjazd6MmY1cndKX2w5R3hOQ05QamFQcmNia29OYkF3eldpYWg4OC0wNFNXSGF0RDFlVjN5dDZiT1d2X0s1S0RVZFBwbjVlTTlkeG9PbFJSNmpKdXZtSmMyUll5eWhCdzRwVjVEajdlVFdmWkt0SHNFV3l3Qmw3Q0dvMWhxR1FxbTlt?oc=5",
-      "published_at": "2026-11-20T11:58:40+00:00",
-      "regions": [
-        "usa"
+        "europa",
+        "global"
       ]
     },
     {
@@ -335,7 +358,8 @@
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE80aVJOZzZYMDEydHBSNi1HYzZ2OENrMVBOcmw5c2thalBKNGNSUGdHX0h4RUcxcWZlelJoTGM3ckxObnlMZ1Y0RkNYOWJuS0s4VGZyM3dzc2JoR0hhT3cyc041N3VDdmR5emViQjRjbERIUUg1eGc?oc=5",
       "published_at": "2026-11-20T10:18:35+00:00",
       "regions": [
-        "europa"
+        "europa",
+        "global"
       ]
     },
     {
@@ -346,6 +370,16 @@
       "published_at": "2026-11-20T10:14:55+00:00",
       "regions": [
         "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "He Thought Poison Would Change Medicine, and Make Him Rich",
+      "publisher": "The New York Times",
+      "publisher_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQ2EtWHhiMnI2X3A5M1l6aHZPcURKQUNyc3pEaE9GLTk3b3FvUW1JZHFBN1M1czg5aGpWV2NZdlkxNmtLbzBJTHpZaDNSVWxSNDZFRk9pc25hLXB5Tnl1NW90TTlCU0R4aHVJOENXdzYzVGpCU01WYV9kY1kzQV9rYVIySlpKbU5S?oc=5",
+      "published_at": "2026-11-20T10:00:58+00:00",
+      "regions": [
         "usa"
       ]
     },
@@ -370,10 +404,20 @@
       ]
     },
     {
+      "title": "Medicine",
+      "publisher": "BBC",
+      "publisher_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE11ZnRZcTljLTNYRS1DLWV4Z1R2UzV2SE84S0JQdjNwTHJ6TGF5UUJxSmpQQ29aOFA0cUtYM0o1RVJDNHAtTTNBN3N4SFRRRVhFY1JSdXZIQQ?oc=5",
+      "published_at": "2026-11-20T04:24:35+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
       "title": "Estudio revela exportaciones y empleos de la industria farmacéutica del país",
       "publisher": "Listín Diario",
       "publisher_url": "https://listindiario.com",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORXhUSUIyVE5JcVBvVXg3YUhKd3FfcERxdVkxX1Nrb3ppSzVYRkk3cldjQWpGQmczSlgtcjhaS29DYXl1M3JFX0pkMzhnWDVrUzVzVnNJbXYwMndLcmJKN055NERMbGM5NlNsZFA3bmd4OW1hNTdOb3U2dUNwNmRhdWloWFdKUGp6ZV8tOG92WXBKQ1R4cXZiTjdDS2xNU1FWTFYyVTFHYjZHM01CLW1MbkoyajFsTU40VHZNdl9pZ0vSAcYBQVVfeXFMTWZmSDAyZ1A2LUhRQmpQNks1SnNPUnFJVURmclBvTG80dUpHY29hN25ETEZjbWlkQ25OWkZQd1VrUlVNMkNuQTNtSEctMTJfanNSNVRzUW1tdExmQWRNUFdDdFc3aHU1a2ViVDBNbWlmQ1VVTnpCbUEzMWpudmVsRXVpdm0yai1ScjdRZTFfVXBoVGFFdHFnSlVkRHhpei1xM05vVkw1ZHhkeUh2V19sVUVhU2RxblR1dVdraHR3b3JPUjJmUnhn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZmZIMDJnUDYtSFFCalA2SzVKc09ScUlVRGZyUG9MbzR1Skdjb2E3bkRMRmNtaWRDbk5aRlB3VWtSVU0yQ25BM21IRy0xMl9qc1I1VHNRbW10TGZBZE1QV0N0VzdodTVrZWJUME1taWZDVVVOekJtQTMxam52ZWxFdWl2bTJqLVJyN1FlMV9VcGhUYUV0cWdKVWREeGl6LXEzTm9WTDVkeGR5SHZXX2xVRWFTZHFuVHV1V2todHdvck9SMmZSeGfSAcYBQVVfeXFMTWZmSDAyZ1A2LUhRQmpQNks1SnNPUnFJVURmclBvTG80dUpHY29hN25ETEZjbWlkQ25OWkZQd1VrUlVNMkNuQTNtSEctMTJfanNSNVRzUW1tdExmQWRNUFdDdFc3aHU1a2ViVDBNbWlmQ1VVTnpCbUEzMWpudmVsRXVpdm0yai1ScjdRZTFfVXBoVGFFdHFnSlVkRHhpei1xM05vVkw1ZHhkeUh2V19sVUVhU2RxblR1dVdraHR3b3JPUjJmUnhn?oc=5",
       "published_at": "2026-11-20T04:00:00+00:00",
       "regions": [
         "rd"
