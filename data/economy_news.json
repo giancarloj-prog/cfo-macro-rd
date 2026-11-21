@@ -1,7 +1,7 @@
 {
   "date": "2026-11-21",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-21T17:36:23+00:00",
+  "checked_at": "2026-11-21T23:19:24+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -28,7 +28,7 @@
     "fiscal": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 0
     },
     "dgii": {
       "ok": true,
@@ -87,7 +87,7 @@
       "publisher": "El Nuevo Diario",
       "publisher_url": "https://elnuevodiario.com.do",
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNSGdBZjFER1VhVW5SRV9sUEpzTnNrWWpXc2ZTbnUtekxNSUhqMkxubks3VDRJSmZwTXd0WFVvQXk5bXZieU45OHc4MFE2ZGNKZ3NBb25NOE1haU5yVGxHNDRTcnZQM3QxdWo3ZnBRREM1aDZnVm5sUmUxX2g4VnJwbVBHRVF2VVZIeFRYa1hzSWZFeFFpbUY3b2pHMi1CX0JFVDVDaTZlVzlNVV9qLWtHNFZ0SDR3ZWRNd1YyWVYwTDFzeHVyMlVWZ3RTN3dWcENsckJza2I2WVVJdldlLUVnRnFmd1ZWQURsLUx3?oc=5",
-      "published_at": "2026-11-21T17:33:25+00:00",
+      "published_at": "2026-11-21T17:52:34+00:00",
       "topics": [
         "dgii",
         "opinion"

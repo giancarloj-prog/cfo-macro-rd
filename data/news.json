@@ -1,7 +1,7 @@
 {
   "date": "2026-11-21",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-21T17:36:24+00:00",
+  "checked_at": "2026-11-21T23:19:25+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -14,7 +14,7 @@
     "rd": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 1
     },
     "centroamerica": {
       "ok": true,
@@ -24,33 +24,119 @@
     "mexico": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 1
     },
     "usa": {
       "ok": true,
       "error": null,
-      "count": 4
+      "count": 7
     },
     "europa": {
       "ok": true,
       "error": null,
-      "count": 5
+      "count": 9
     },
     "global": {
       "ok": true,
       "error": null,
-      "count": 4
+      "count": 8
     }
   },
   "items": [
+    {
+      "title": "Mexico captures top drug lord 'El Chapo Isidro,' latest in string of arrests",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQa1lhc2ZRS3hPcnFWc3VBdDBIbElGZF9PSlZVSEV4NFNxSXZ1YlZWeWtYUVdrbjZXVXFJM3V6VkgzLTZGSWdWUFZiVGctOFRreU1lUWpWdXp5VmJxYTFBVU9wTk9YcTZNSmt6MDhsNnB6azlRSnVnaUdZNF83dl9Gay1OVm9qQ2NreElTT1EzVFF2STVySzRkQmt3M19lRjlzQjJvVWVQckYzR21YUVRyY1R0MGJNYzJwaVhR?oc=5",
+      "published_at": "2026-11-21T21:58:48+00:00",
+      "regions": [
+        "europa",
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "FDA again turns back Capricor Duchenne cell therapy",
+      "publisher": "BioPharma Dive",
+      "publisher_url": "https://www.biopharmadive.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQkVnVDZpNkEzanlPd0pHUVFyVkVlcDkzR3owNHA0WEhLel9OLU5uZHdBRnBYWGJnLTNHeUlYZkxuZzQzaVZ5NktvU2ZQODF6aURzOWVNY0pONXVNQkZYOE5RaWNwVUNUcjAwNGFaV2V2eXlPNGtDSUF1bGYzNEdGZUtmUDRyd1I3QzlIemFvekc1Zw?oc=5",
+      "published_at": "2026-11-21T21:18:54+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
     {
       "title": "Top Drug Kingpin Is Captured by Mexican Army as Gunfire Erupts",
       "publisher": "The New York Times",
       "publisher_url": "https://www.nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaTR4anpEVkluM0VyUnhEemgxdHk1MGp6bTdPLWtVMUZ1Nlh2MktQQzdwOGtWUmVzNkRHMC0tVS0wWk5Db2dEdGdJa3Z2cFQxdERkTW1RRHBPZU54X3dSaHNSZVJad2pvMXkwY3dPMDRfZU1WMFhyUDhpSE42THVhNzZYTTdpVzBscGlXbXNJNHhKOEo3SS1V?oc=5",
-      "published_at": "2026-11-21T17:08:14+00:00",
+      "published_at": "2026-11-21T21:12:23+00:00",
       "regions": [
         "usa"
+      ]
+    },
+    {
+      "title": "El Dr. Simi llega a Holbox con un americano para ti y una vacuna para tu perro",
+      "publisher": "Expansión",
+      "publisher_url": "https://expansion.mx",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOU3FaaWxIeUk3ZmYyYWd3bGR0ZWptTVdxTmxhRURpaFJsNklyWVlreVdaQzhrNmtqMmlXUTYzYlMwaUE4emlLdGZsMWFhTGpJT2FwZVRYT2lJajYtSUtMTkF3VjJfZExuc2lYQWVVa2wzM3RiZl9hT3p1bTRDTl8ySGhEeUIzSXI4QkxVS0VuSmFUbG5B0gGiAUFVX3lxTE1mRHY0a2NPaHJZLWRrdlppVUZEeS13eE9BMVZvVDFBb3VFeWUzR2VnMzhhay1LdHFOa1Y0QVZkMVIwMlRYTHc2eDVtc2JUMUcyaTVxYWtHRzFxTk5Rd1RQMmhfN0FaeDdoVTVxM1VYU09RaU5LU1FIbGN3UXY1Y0RQS3pZem5nVlJIallaVWtBYUJwZEF6WnBSWUxRVnpiQkZCdw?oc=5",
+      "published_at": "2026-11-21T20:13:00+00:00",
+      "regions": [
+        "mexico"
+      ]
+    },
+    {
+      "title": "Mexico Captures Top Drug Boss in Fierce Gunfight",
+      "publisher": "WSJ",
+      "publisher_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOXzBacVJ3Qzh2a21SQlRxaGE3VVdNb085VU55UGVjbXlwNW5qZzN0UE1nV3BMeEx3NUxxUWk4d2hZTno5T2lPRlFXV3Y3Mm1mWlJSNUpvR0VoZjZGODZkdXJmZWVZR29FQjdkT0ZGaTU0ajlSWTFNQ1l5Zm9UWDhNZk1JUUZIcHk0VmtLZjdKTmhYSWhadEVF?oc=5",
+      "published_at": "2026-11-21T19:41:00+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Reciente en irregularidades medicamentos",
+      "publisher": "Diario Libre",
+      "publisher_url": "https://www.diariolibre.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE15REVBMHlUSzZhblNjR2M1U0FTRjRydEUzZTdGR2pDaVZfdkFjY2pNbHlTWnozdWJwS1Jla3pfNWlzYU9yaTFqazMwaXZGR3ZuSEcwMFhUc3JWTEZsTXNmeE9QS2tjWElMeDVzejN6bkFHUk5SMXZB?oc=5",
+      "published_at": "2026-11-21T19:17:34+00:00",
+      "regions": [
+        "rd"
+      ]
+    },
+    {
+      "title": "Mexican cartel boss 'El Chapo Isidro' rose from small time trafficker to drug lord before detention",
+      "publisher": "AP News",
+      "publisher_url": "https://apnews.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQ3ctd3FSa0JqbXNDRG9xbGhWYUMwM1hrdnIxU3RMc29OZkM5MWx0NzVvdlVVMmRLMHJMMkpIaUhwTFlpQ2Jwb2ZhWHpHYWFmSGl1RnVBMVUtT1FuTm94amFQa1NfdEgtekhOazdNNTRwbG9VeWdKMF9fdU1xTVFKLU1WWG9LQ0pvR2sxeVl6U3o?oc=5",
+      "published_at": "2026-11-21T19:00:00+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Mexican special forces arrest drug kingpin 'Chapo Isidro'",
+      "publisher": "DW.com",
+      "publisher_url": "https://www.dw.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVlo1Mkh5RlJSeTlGekNOS0REOVh5ZDVsOEpub0xDWUlnVWFwUE55OEFlczNQb01JdlpHTDZoMUFPOGY1NnIzbHpsek85NDViQ2lQMjBfcWI3aUhOWDNaT1I5a3pGUE81NXYyTnBsaFpZLWZWd0hCVkU4S3BPTldYYk03ZU1Fc1FZV1VoZFhmeW11QdIBkgFBVV95cUxNM0lja0h2ZjM4bVpuai0zbmFTN0IzelFzYmdsOEFQSC1DbEhYXzBRNFR6Rnd2NFN6OTQwRHNTZUVNRTA2NUk3Z0I1cndLVmJsc3lSSHluSElKeUhkM1hPOVZRZk9Hc1hFOVRub1JhSHhhcGZEOTNUSDNSM2ZlZ1ZwNG9XamktRlFmVVJXQ2dQOHRPdw?oc=5",
+      "published_at": "2026-11-21T18:33:35+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "Violence erupts in Sinaloa after Mexico captures alleged drug trafficker",
+      "publisher": "Financial Times",
+      "publisher_url": "https://www.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQkhzZ1paUUg5Y1RaTjVwQmpCVi1pVUluRFhfMzBWT092NXJmMGU3VTdfazZnYnVBdHFZVE8xd3U1ZFdWMWF0a2ZCQnVDU3pIYndtU1duTlhlb0paQVBnR3JDaDJmMTBTRmk4VTJNQVFLTnRaaWVlcVRhY2stMjZMclJsemY?oc=5",
+      "published_at": "2026-11-21T17:52:20+00:00",
+      "regions": [
+        "europa",
+        "global"
       ]
     },
     {
@@ -60,29 +146,6 @@
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZnpYODVyWHZiZXNzemxwQTBPS0ZRaXpqVGgzemY4VmwzV01NS2MtMjh6UFhMLU9XX0x6c1R0LXNkZnRUVDRjcHMzUEVXdzFUYmduemNZNmkyYTVpNkhQdFRPV3hKSEJVZWVxbkVKcnEyOU14ei1fTkFwOFpDZTNGTEVSLVRxWC1KTWRkOHYzMGMwYVFP?oc=5",
       "published_at": "2026-11-21T16:22:00+00:00",
       "regions": [
-        "usa"
-      ]
-    },
-    {
-      "title": "Mexico Captures Top Drug Boss in Fierce Gunfight",
-      "publisher": "WSJ",
-      "publisher_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOXzBacVJ3Qzh2a21SQlRxaGE3VVdNb085VU55UGVjbXlwNW5qZzN0UE1nV3BMeEx3NUxxUWk4d2hZTno5T2lPRlFXV3Y3Mm1mWlJSNUpvR0VoZjZGODZkdXJmZWVZR29FQjdkT0ZGaTU0ajlSWTFNQ1l5Zm9UWDhNZk1JUUZIcHk0VmtLZjdKTmhYSWhadEVF?oc=5",
-      "published_at": "2026-11-21T15:29:00+00:00",
-      "regions": [
-        "global",
-        "usa"
-      ]
-    },
-    {
-      "title": "Mexico captures top drug lord \"El Chapo Isidro,\" latest in string of captures",
-      "publisher": "Reuters",
-      "publisher_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQa1lhc2ZRS3hPcnFWc3VBdDBIbElGZF9PSlZVSEV4NFNxSXZ1YlZWeWtYUVdrbjZXVXFJM3V6VkgzLTZGSWdWUFZiVGctOFRreU1lUWpWdXp5VmJxYTFBVU9wTk9YcTZNSmt6MDhsNnB6azlRSnVnaUdZNF83dl9Gay1OVm9qQ2NreElTT1EzVFF2STVySzRkQmt3M19lRjlzQjJvVWVQckYzR21YUVRyY1R0MGJNYzJwaVhR?oc=5",
-      "published_at": "2026-11-21T14:50:10+00:00",
-      "regions": [
-        "europa",
-        "global",
         "usa"
       ]
     },
@@ -108,6 +171,16 @@
       ]
     },
     {
+      "title": "Joanne Young: 'Resurgence of solidarity' by women in husband drug-rape case",
+      "publisher": "BBC",
+      "publisher_url": "https://www.bbc.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE44UEdocm1LaXRTTFlCNkdFY3ZRbURJSW94bFlkN0xNZ0RIWEw0c3NDQm5CRGxsSFVyOTgwT2wyMEkwRmZuSDg0NlJvcDd5SGNzdkQ1WlpHOXFSQVRieFE?oc=5",
+      "published_at": "2026-11-21T07:41:02+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
       "title": "Beating Ebola takes more than medicine – I saw what worked in west Africa a decade ago | Kayode Akintola",
       "publisher": "The Guardian",
       "publisher_url": "https://www.theguardian.com",
@@ -125,7 +198,8 @@
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdW1HcEVYNXZBSWdoQm9FVG9YVU0tRUwxa3dCaEdCY2taNUVfSGQwM0JpUjByblQ0U1diNl9SMVZtYjZFcHdhcDJSWGpvMm01c3lsVUJPdnNXV2E4ZFVKNXZrUnZ3Q29ad25iYVA5UGRGXzh0Z3A2RS1GcW9jMjhRaHNsdVE?oc=5",
       "published_at": "2026-11-21T05:00:45+00:00",
       "regions": [
-        "europa"
+        "europa",
+        "global"
       ]
     }
   ],
