@@ -1,7 +1,7 @@
 {
   "date": "2026-11-22",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-22T07:03:35+00:00",
+  "checked_at": "2026-11-22T17:51:42+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -23,7 +23,7 @@
     "bcrd": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 2
     },
     "fiscal": {
       "ok": true,
@@ -33,7 +33,7 @@
     "dgii": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 2
     },
     "finance": {
       "ok": true,
@@ -56,8 +56,8 @@
       "count": 5
     },
     "economist_jaime": {
-      "ok": true,
-      "error": null,
+      "ok": false,
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=(%22Jaime+Aristy%22+OR+%22Jaime+Aristy+Escuder%22)+after:2026-11-14+before:202",
       "count": 0
     },
     "economist_juan_ariel": {
@@ -71,8 +71,8 @@
       "count": 1
     },
     "economist_jose_luis": {
-      "ok": true,
-      "error": null,
+      "ok": false,
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=(%22Jos%C3%A9+Luis+de+Ram%C3%B3n%22+OR+%22Jose+Luis+de+Ramon%22)+after:2026-11",
       "count": 0
     },
     "economist_nassim": {
@@ -82,6 +82,69 @@
     }
   },
   "items": [
+    {
+      "title": "Así se cotizan las divisas en los principales bancos este 22 de noviembre",
+      "publisher": "El Dia.com.do",
+      "publisher_url": "https://eldia.com.do",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSm1pTE5Pcjd5aW5wYzhWLUcwVlRHbU5QZ0pUWl9VQ25IZkZrdUpQWlgyRTFtLUt2OHpPTGliaHNfMzBhcER3YkFELVVSSGY2ZURrNGpoeG1BWXJHMlo1QkhjakI4MUY1V2xDemxQTVpCWkozSEExMllfTklDcENOakNRVHFIRWtjdWMtU1ZOc0Myd2E4aDBwZ0Fqaw?oc=5",
+      "published_at": "2026-11-22T13:56:13+00:00",
+      "topics": [
+        "bcrd",
+        "finance"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "bcrd"
+      ]
+    },
+    {
+      "title": "¿A cómo está el dólar este domingo? Esta es la tasa del Banco Central",
+      "publisher": "Hoy Digital",
+      "publisher_url": "https://hoy.com.do",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNN1I5M0VZQm5SamdUQjBpVHhfVEJVVmd6NlEwLS1ic25rNE9tODNvMXhKaTd5ZXVmaWdiT0NkUHBGMVNfelFMMW1zWW5IYTgwUXJfRkdzOTdoTjRQMXFYS3h6VEFoVDFxZjUycFZ3bk5YM096dGZKOXY0dEtKS0RZY0w1MNIBgwFBVV95cUxNN1I5M0VZQm5SamdUQjBpVHhfVEJVVmd6NlEwLS1ic25rNE9tODNvMXhKaTd5ZXVmaWdiT0NkUHBGMVNfelFMMW1zWW5IYTgwUXJfRkdzOTdoTjRQMXFYS3h6VEFoVDFxZjUycFZ3bk5YM096dGZKOXY0dEtKS0RZY0w1MA?oc=5",
+      "published_at": "2026-11-22T12:44:09+00:00",
+      "topics": [
+        "bcrd",
+        "finance"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "bcrd"
+      ]
+    },
+    {
+      "title": "El Ministerio de Economía, Planificación y Desarrollo no entregó el 73 % de los soportes de las obras que la Cámara de Cuentas quiso auditar",
+      "publisher": "Acento",
+      "publisher_url": "https://acento.com.do",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOYnFJYjVzT1k2UVV2dV8yb2tQWTJDaDN0eVpFWVJ6UlUxN2pVc09TejRuYVlxRU8wc2tCUFZWRmxqOHZsNGFNbVNGN2IzYUR1UHZ4RVRZVkxaQllROVZ6aUktV2pacDNEeFNpRldzcGlRb28wUk1WaXpJMDhSYzR0OUxiZTMxRnVxbmphUU1vYy0xcUVnUm8tNFJsYUxtWDF5RHluY3A4UUpCM25EeUszY1pSaXU4RlZ6ejFuNzJMbEhMeHJtWUpDeXQzQlhjWlhWWWVKMFlZWjJqRWh5LWR0R3haVTNSempCUlRsQ2Z1X1IyUzdRS2dCSDlhREoyTXNWWk5qVzMyenI1LW1SMnRJSNIBkAJBVV95cUxOYnFJYjVzT1k2UVV2dV8yb2tQWTJDaDN0eVpFWVJ6UlUxN2pVc09TejRuYVlxRU8wc2tCUFZWRmxqOHZsNGFNbVNGN2IzYUR1UHZ4RVRZVkxaQllROVZ6aUktV2pacDNEeFNpRldzcGlRb28wUk1WaXpJMDhSYzR0OUxiZTMxRnVxbmphUU1vYy0xcUVnUm8tNFJsYUxtWDF5RHluY3A4UUpCM25EeUszY1pSaXU4RlZ6ejFuNzJMbEhMeHJtWUpDeXQzQlhjWlhWWWVKMFlZWjJqRWh5LWR0R3haVTNSempCUlRsQ2Z1X1IyUzdRS2dCSDlhREoyTXNWWk5qVzMyenI1LW1SMnRJSA?oc=5",
+      "published_at": "2026-11-22T10:00:13+00:00",
+      "topics": [
+        "dgii"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "dgii"
+      ]
+    },
+    {
+      "title": "Ante el FMI, el espaldarazo bancario a la credibilidad del BanCentral y el compromiso de financiar la industria nacional",
+      "publisher": "Listín Diario",
+      "publisher_url": "https://listindiario.com",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPMkU0OXdrcGgtLTMteTlDQ2lmUVRWSjktSzlRRnB0bzdNRzlIdWtQeGVjQUlJVFY3RW5BNXF6cW1OQkxtVFBidVFldnVGWHY1MUJkUkNkN2hJRmhyRHdJdW94MURYRXRrbXlOaG9HNzA2ckxGY1RITXpKRTJlaUVfUGV2NU1EaXIyT2lQOXFtT3FlU1lLUDJ4Q0stOHplTGN1SDN4RG5jU3BLNWJBbzU2OW5nWGVXQXhjZEZnNDZCSUFJLVlhbnJBanlGYlZKeUlQN3ppbDczNWo3RkFfcHBlamdCb00?oc=5",
+      "published_at": "2026-11-22T04:00:00+00:00",
+      "topics": [
+        "dgii",
+        "finance"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "dgii"
+      ]
+    },
     {
       "title": "Andy-Dauhajre-foro-economico",
       "publisher": "Periódico elDinero",

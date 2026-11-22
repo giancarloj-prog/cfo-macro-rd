@@ -1,7 +1,7 @@
 {
   "date": "2026-11-22",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-22T07:03:35+00:00",
+  "checked_at": "2026-11-22T17:51:43+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -12,14 +12,14 @@
   },
   "source_health": {
     "rd": {
-      "ok": true,
-      "error": null,
-      "count": 0
+      "ok": false,
+      "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%28medicamentos+OR+farmac%C3%A9utica+OR+farmacia+OR+vacunas%29+%28site%3Aelcaribe.com.do%29++after%3A2026-11-21+before%3A2026-11-24&hl=es-419&gl=DO&ceid=DO%3Aes-419",
+      "count": 1
     },
     "centroamerica": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 1
     },
     "mexico": {
       "ok": true,
@@ -29,20 +29,102 @@
     "usa": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 4
     },
     "europa": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 5
     },
     "global": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 3
     }
   },
   "items": [
+    {
+      "title": "Sesal confirma nuevo caso de sarampión en Atlántida y despliega brigadas de vacunación",
+      "publisher": "ElHeraldo.hn",
+      "publisher_url": "https://www.elheraldo.hn",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQl9FU2M2TTduc3diYnVCS0tUTHRsclFYTGFxdEJFYm1DT2JVdnF1Y1JORFVsTE5SZzluNlpMM3lBYUV5b1h1MzdONkpPZEJLVDhNemlhLWZtbGNiZnRSVXFnSXlTR2VvVUVWenVaaUxUN0RzVEZlQ0lCajdUTnkwQnljOHBESlAxMjVJNjVROVNoeHdYNG1OMDYyR2ZxTUFXYlNYWHpVTzZ1VHdrc2lPcVg0eGtuMnhBeFMyb2ROWWk?oc=5",
+      "published_at": "2026-11-22T16:00:00+00:00",
+      "regions": [
+        "centroamerica"
+      ]
+    },
+    {
+      "title": "Mexican Drug Gangs Have Found a New Cash Cow in Microfinancing",
+      "publisher": "WSJ",
+      "publisher_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNTlBZmdmejZOcFFPRGJnZUhJSmRaY29KNGZNMm9ZeUZsQi0zcDdTOGowX0ZwNV9nMVV3WFpGUXpRY3hOZ0xBZzM1NWlGWUFpZmtwNzZhUHhrdTZJWDJhV1E4RUpnSFo3WUFLYzFTN3JldFJ0eGRicTJ2U0I1cGRRNi1INllMZUl4bC14Wl9Yd1RXMEpLSWNNMEp5OTFzcUc2cDN5bDNDNndhUQ?oc=5",
+      "published_at": "2026-11-22T15:31:29+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Mexican drug lord 'El Chapo Isidro' arrested in shoot-out",
+      "publisher": "BBC",
+      "publisher_url": "https://www.bbc.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9sU3JoT0IzX0xIMzdaOTZXRVhNd0llUzBPcFJaY1JxSVM1NWFoS0VWY2JOVHJDSFFvNkFsNjk3aVppUWU2VmlwNVYxcGNMaXlzN1dxVUpBVTRBWUU?oc=5",
+      "published_at": "2026-11-22T12:46:36+00:00",
+      "regions": [
+        "europa",
+        "global"
+      ]
+    },
+    {
+      "title": "Mexican special forces arrest drug kingpin 'Chapo Isidro'",
+      "publisher": "DW.com",
+      "publisher_url": "https://www.dw.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVlo1Mkh5RlJSeTlGekNOS0REOVh5ZDVsOEpub0xDWUlnVWFwUE55OEFlczNQb01JdlpHTDZoMUFPOGY1NnIzbHpsek85NDViQ2lQMjBfcWI3aUhOWDNaT1I5a3pGUE81NXYyTnBsaFpZLWZWd0hCVkU4S3BPTldYYk03ZU1Fc1FZV1VoZFhmeW11QdIBkgFBVV95cUxNM0lja0h2ZjM4bVpuai0zbmFTN0IzelFzYmdsOEFQSC1DbEhYXzBRNFR6Rnd2NFN6OTQwRHNTZUVNRTA2NUk3Z0I1cndLVmJsc3lSSHluSElKeUhkM1hPOVZRZk9Hc1hFOVRub1JhSHhhcGZEOTNUSDNSM2ZlZ1ZwNG9XamktRlFmVVJXQ2dQOHRPdw?oc=5",
+      "published_at": "2026-11-22T11:23:14+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "Video: Top Drug Kingpin Is Captured by Mexican Army Amid Gunfire",
+      "publisher": "The New York Times",
+      "publisher_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMmZ3Y0lQNnRXYjBIVXFZTXMwWFVLSEppaFVBTWYyNno5c2ZfOV8wbU5la0pjbmp1TGlSX3M5clhMbUZHNmFwVDN6TUFOd0g2a3JRWHRUT2Zqb3g4YzllV2tWX0ZuME83Qlg2V0plSTBvTk16Si1ENjFmeFJsdU1OcnpWbEJ1NUMwTENfNU9TdHhPeUtTN1ktMG1oRDhzYjd2?oc=5",
+      "published_at": "2026-11-22T10:16:23+00:00",
+      "regions": [
+        "usa"
+      ]
+    },
+    {
+      "title": "Who Is the Mexican Drug Kingpin Known as El Chapo Isidro?",
+      "publisher": "The New York Times",
+      "publisher_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZnpYODVyWHZiZXNzemxwQTBPS0ZRaXpqVGgzemY4VmwzV01NS2MtMjh6UFhMLU9XX0x6c1R0LXNkZnRUVDRjcHMzUEVXdzFUYmduemNZNmkyYTVpNkhQdFRPV3hKSEJVZWVxbkVKcnEyOU14ei1fTkFwOFpDZTNGTEVSLVRxWC1KTWRkOHYzMGMwYVFP?oc=5",
+      "published_at": "2026-11-22T10:16:00+00:00",
+      "regions": [
+        "usa"
+      ]
+    },
+    {
+      "title": "Noticias de vacunas personalizadas",
+      "publisher": "Acento",
+      "publisher_url": "https://acento.com.do",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9INU5kVFNSSlRDc0dkTDBOQndsSWJIZGVBSjBHckxOSzF6WEVjUXJkQjdUS1Y3dXlNSk9HZl9NOVh3SER1UDJpVnVXS1dBcTNYaW9jMEdHZXB6Sy1vdnJPQnh4X3c?oc=5",
+      "published_at": "2026-11-22T10:05:48+00:00",
+      "regions": [
+        "rd"
+      ]
+    },
+    {
+      "title": "EU and Indonesia sign landmark trade deal from palm oil to pharmaceuticals",
+      "publisher": "DW.com",
+      "publisher_url": "https://www.dw.com",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Ic0hSN0xxaVNqd0JPYzg3N202Zll2Y1J0Vk5pMFVMV0ZrcGJCaDNyZnk4SGY0T05iMFg0Y1BFVW1wMnFITDdiNmMteGw5RXZydFdsazdyVkYwQi1xV0RqRXZRdFEyNE1ZZzdOa2pGODcycDjSAXNBVV95cUxOeFJWM1NmcTJidG5EZDVYVjJULTlpYjdNc3RucEpYNkVhajJhUFVYVTFBbnY0eV83RDcyZFoxcENfZ1NBMjVkSTFGMGJwNkFMbWhpRkVUSTZiVFQ3UjQwYUstS05ybDFhSTJyQ1VOeTZMMm1R?oc=5",
+      "published_at": "2026-11-22T07:49:06+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
     {
       "title": "Quantum computing’s first real-world payoff may come in energy, not drug discovery",
       "publisher": "CNBC",
