@@ -1,7 +1,7 @@
 {
   "date": "2026-11-22",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-22T17:51:43+00:00",
+  "checked_at": "2026-11-22T23:38:48+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -12,8 +12,8 @@
   },
   "source_health": {
     "rd": {
-      "ok": false,
-      "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%28medicamentos+OR+farmac%C3%A9utica+OR+farmacia+OR+vacunas%29+%28site%3Aelcaribe.com.do%29++after%3A2026-11-21+before%3A2026-11-24&hl=es-419&gl=DO&ceid=DO%3Aes-419",
+      "ok": true,
+      "error": null,
       "count": 1
     },
     "centroamerica": {
@@ -24,55 +24,63 @@
     "mexico": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 2
     },
     "usa": {
       "ok": true,
       "error": null,
-      "count": 4
+      "count": 2
     },
     "europa": {
       "ok": true,
       "error": null,
-      "count": 5
+      "count": 6
     },
     "global": {
       "ok": true,
       "error": null,
-      "count": 3
+      "count": 4
     }
   },
   "items": [
     {
-      "title": "Sesal confirma nuevo caso de sarampión en Atlántida y despliega brigadas de vacunación",
-      "publisher": "ElHeraldo.hn",
-      "publisher_url": "https://www.elheraldo.hn",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQl9FU2M2TTduc3diYnVCS0tUTHRsclFYTGFxdEJFYm1DT2JVdnF1Y1JORFVsTE5SZzluNlpMM3lBYUV5b1h1MzdONkpPZEJLVDhNemlhLWZtbGNiZnRSVXFnSXlTR2VvVUVWenVaaUxUN0RzVEZlQ0lCajdUTnkwQnljOHBESlAxMjVJNjVROVNoeHdYNG1OMDYyR2ZxTUFXYlNYWHpVTzZ1VHdrc2lPcVg0eGtuMnhBeFMyb2ROWWk?oc=5",
-      "published_at": "2026-11-22T16:00:00+00:00",
-      "regions": [
-        "centroamerica"
-      ]
-    },
-    {
-      "title": "Mexican Drug Gangs Have Found a New Cash Cow in Microfinancing",
+      "title": "Drug Kingpin’s Capture in Mexico Threatens to Touch Off Bloody Succession Battle",
       "publisher": "WSJ",
       "publisher_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNTlBZmdmejZOcFFPRGJnZUhJSmRaY29KNGZNMm9ZeUZsQi0zcDdTOGowX0ZwNV9nMVV3WFpGUXpRY3hOZ0xBZzM1NWlGWUFpZmtwNzZhUHhrdTZJWDJhV1E4RUpnSFo3WUFLYzFTN3JldFJ0eGRicTJ2U0I1cGRRNi1INllMZUl4bC14Wl9Yd1RXMEpLSWNNMEp5OTFzcUc2cDN5bDNDNndhUQ?oc=5",
-      "published_at": "2026-11-22T15:31:29+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaS0xVWM4dWpacllqX3lQTGlUbUx6YVhleldQWUVfVXg0Q3dReFphcHFUa2N1OWRhNU5SUXBuNEF0VkVpTDByVGhnVWtYdjBuNnMwTE9LRzNtWEhLWmFnSDlTYVFzak1WY1JyeHo5bnFic0thbkFsZjdQX0VOdWxIREROQWRkQVpVU2JLN1FlWk1ubklNcUdfSmlfS1kydTZhNkREODVTell0Z1dpT3BRdHpnOGFpd3BzMWl5Mml4RlQ?oc=5",
+      "published_at": "2026-11-22T22:03:10+00:00",
       "regions": [
-        "global",
-        "usa"
+        "global"
       ]
     },
     {
-      "title": "Mexican drug lord 'El Chapo Isidro' arrested in shoot-out",
-      "publisher": "BBC",
-      "publisher_url": "https://www.bbc.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9sU3JoT0IzX0xIMzdaOTZXRVhNd0llUzBPcFJaY1JxSVM1NWFoS0VWY2JOVHJDSFFvNkFsNjk3aVppUWU2VmlwNVYxcGNMaXlzN1dxVUpBVTRBWUU?oc=5",
-      "published_at": "2026-11-22T12:46:36+00:00",
+      "title": "¡Atención, vecinos de Ecatepec! Gobierno del Edomex y Marina llevan consultas médicas, vacunas y atención para mascotas totalmente gratis",
+      "publisher": "El Economista",
+      "publisher_url": "https://www.eleconomista.com.mx",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNNGt6Q0o2eEtQNEk5dldFbVQzcHVWS0pTd3BXWUxQS25nU21reTdVS2lRekw2ZU05TUE3MXVLcFI0Zlg1YXliajNlM1VxR3hEd2dWVnZIaVUwS05WalNodG52cUZTb1c2bHB5S0lwemp5MUg0cy1rMGw4MlFfQVc4UTNfbFZGTnJHLVlMaU5ZMWJjd1Q0TG56MnRhMS1fRGh2ejB0VEFPSnZVdWNLWGR2RzV6Qzk3dGcxSTVQWWhSUHZWdTZ3dkVQNjVqTjBJQ2ZSWklNSTBnOVBiTGkwVXJOZDlMQVQza0ZoMjZoUDU4NGp0TWdfZ045RWlIaDF2Z2pyeHF4QW9DOFA2bkHSAZACQVVfeXFMTVRWR2hTRTVGdTVnRWlPdi1Zc3JQZG5GUmVJNkZyekk0MHRlbFhuS1diZk56WEdFOHY0Z21TVEdXd2tsZVJ2aDZGRWpSVnFxbXI4a044RFQ4RTZFV19uWWxhd29KMXpYOWdGSnFFeXYzeEpXQm9YcnRvX0xiTTFrazNrYWdDMGZoTktmNTByazQwSXo4UjlZYjFrRWNQWXh1eGZkS3I3Tnkwc0JTYnU3U1AxY3ZxbnlZRTdmblI0UFJjZTJDbGRpLWlLZ0lEQlJFOGZWQnhjdzQxSXF1ZjB0RWpGZEloMWF3eGNpQmNOcnBoa2ZFdzJ6MUJrRmVIYVRtaFhlOHpSVVdZS0t4azBZRnQ?oc=5",
+      "published_at": "2026-11-22T20:43:23+00:00",
       "regions": [
-        "europa",
-        "global"
+        "mexico"
+      ]
+    },
+    {
+      "title": "Cupón Farmacias del Ahorro: hasta 70% en Noviembre 2026",
+      "publisher": "El Universal",
+      "publisher_url": "https://www.eluniversal.com.mx",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVnI0QTNHaVkxbzBYemh6MWZfVjFvT2prNlU0SS1VVE54UHpiU196eTlBVS1zWk0wM3FNbXhrSWlxLXZLZkVjejZ0allBM2w4SFBlSE9BVEJybUVoYWdtRXJsMFlKYi1VNWtaY3gyVUVJQ0w2cmZIc21fRmxPOTBpRUJB?oc=5",
+      "published_at": "2026-11-22T18:56:53+00:00",
+      "regions": [
+        "mexico"
+      ]
+    },
+    {
+      "title": "FDA follows experts' advice and blocks Capricor DMD therapy",
+      "publisher": "pharmaphorum",
+      "publisher_url": "https://pharmaphorum.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQUJVRllEeXVQVHVVbXJIS1dxektDdmNlNUU1WTJZWmIycEtiN2lGN2dac3lXT3c4Ry1CZ3ItMWwzQ2RrdWdOa3hSSkZQcDFERGtkZ25KY0hFZDByNjV1UGFpdUJFa1NyLVpBTU1FVjlDaXlEbE9OQXJFZHcxSVRXc25UVTBidG5jWlBGNzhzYkN1UQ?oc=5",
+      "published_at": "2026-11-22T18:47:40+00:00",
+      "regions": [
+        "europa"
       ]
     },
     {
@@ -80,19 +88,40 @@
       "publisher": "DW.com",
       "publisher_url": "https://www.dw.com",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVlo1Mkh5RlJSeTlGekNOS0REOVh5ZDVsOEpub0xDWUlnVWFwUE55OEFlczNQb01JdlpHTDZoMUFPOGY1NnIzbHpsek85NDViQ2lQMjBfcWI3aUhOWDNaT1I5a3pGUE81NXYyTnBsaFpZLWZWd0hCVkU4S3BPTldYYk03ZU1Fc1FZV1VoZFhmeW11QdIBkgFBVV95cUxNM0lja0h2ZjM4bVpuai0zbmFTN0IzelFzYmdsOEFQSC1DbEhYXzBRNFR6Rnd2NFN6OTQwRHNTZUVNRTA2NUk3Z0I1cndLVmJsc3lSSHluSElKeUhkM1hPOVZRZk9Hc1hFOVRub1JhSHhhcGZEOTNUSDNSM2ZlZ1ZwNG9XamktRlFmVVJXQ2dQOHRPdw?oc=5",
-      "published_at": "2026-11-22T11:23:14+00:00",
+      "published_at": "2026-11-22T17:26:46+00:00",
       "regions": [
         "europa"
       ]
     },
     {
-      "title": "Video: Top Drug Kingpin Is Captured by Mexican Army Amid Gunfire",
-      "publisher": "The New York Times",
-      "publisher_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMmZ3Y0lQNnRXYjBIVXFZTXMwWFVLSEppaFVBTWYyNno5c2ZfOV8wbU5la0pjbmp1TGlSX3M5clhMbUZHNmFwVDN6TUFOd0g2a3JRWHRUT2Zqb3g4YzllV2tWX0ZuME83Qlg2V0plSTBvTk16Si1ENjFmeFJsdU1OcnpWbEJ1NUMwTENfNU9TdHhPeUtTN1ktMG1oRDhzYjd2?oc=5",
-      "published_at": "2026-11-22T10:16:23+00:00",
+      "title": "Sesal confirma nuevo caso de sarampión en Atlántida y despliega brigadas de vacunación",
+      "publisher": "ElHeraldo.hn",
+      "publisher_url": "https://www.elheraldo.hn",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQl9FU2M2TTduc3diYnVCS0tUTHRsclFYTGFxdEJFYm1DT2JVdnF1Y1JORFVsTE5SZzluNlpMM3lBYUV5b1h1MzdONkpPZEJLVDhNemlhLWZtbGNiZnRSVXFnSXlTR2VvVUVWenVaaUxUN0RzVEZlQ0lCajdUTnkwQnljOHBESlAxMjVJNjVROVNoeHdYNG1OMDYyR2ZxTUFXYlNYWHpVTzZ1VHdrc2lPcVg0eGtuMnhBeFMyb2ROWWk?oc=5",
+      "published_at": "2026-11-22T16:55:52+00:00",
       "regions": [
-        "usa"
+        "centroamerica"
+      ]
+    },
+    {
+      "title": "Mexican drug lord 'El Chapo Isidro' arrested in shoot-out",
+      "publisher": "BBC",
+      "publisher_url": "https://www.bbc.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9sU3JoT0IzX0xIMzdaOTZXRVhNd0llUzBPcFJaY1JxSVM1NWFoS0VWY2JOVHJDSFFvNkFsNjk3aVppUWU2VmlwNVYxcGNMaXlzN1dxVUpBVTRBWUU?oc=5",
+      "published_at": "2026-11-22T11:55:25+00:00",
+      "regions": [
+        "europa",
+        "global"
+      ]
+    },
+    {
+      "title": "EU and Indonesia sign landmark trade deal from palm oil to pharmaceuticals",
+      "publisher": "DW.com",
+      "publisher_url": "https://www.dw.com",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Ic0hSN0xxaVNqd0JPYzg3N202Zll2Y1J0Vk5pMFVMV0ZrcGJCaDNyZnk4SGY0T05iMFg0Y1BFVW1wMnFITDdiNmMteGw5RXZydFdsazdyVkYwQi1xV0RqRXZRdFEyNE1ZZzdOa2pGODcycDjSAXNBVV95cUxOeFJWM1NmcTJidG5EZDVYVjJULTlpYjdNc3RucEpYNkVhajJhUFVYVTFBbnY0eV83RDcyZFoxcENfZ1NBMjVkSTFGMGJwNkFMbWhpRkVUSTZiVFQ3UjQwYUstS05ybDFhSTJyQ1VOeTZMMm1R?oc=5",
+      "published_at": "2026-11-22T10:50:46+00:00",
+      "regions": [
+        "europa"
       ]
     },
     {
@@ -116,16 +145,6 @@
       ]
     },
     {
-      "title": "EU and Indonesia sign landmark trade deal from palm oil to pharmaceuticals",
-      "publisher": "DW.com",
-      "publisher_url": "https://www.dw.com",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Ic0hSN0xxaVNqd0JPYzg3N202Zll2Y1J0Vk5pMFVMV0ZrcGJCaDNyZnk4SGY0T05iMFg0Y1BFVW1wMnFITDdiNmMteGw5RXZydFdsazdyVkYwQi1xV0RqRXZRdFEyNE1ZZzdOa2pGODcycDjSAXNBVV95cUxOeFJWM1NmcTJidG5EZDVYVjJULTlpYjdNc3RucEpYNkVhajJhUFVYVTFBbnY0eV83RDcyZFoxcENfZ1NBMjVkSTFGMGJwNkFMbWhpRkVUSTZiVFQ3UjQwYUstS05ybDFhSTJyQ1VOeTZMMm1R?oc=5",
-      "published_at": "2026-11-22T07:49:06+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
       "title": "Quantum computing’s first real-world payoff may come in energy, not drug discovery",
       "publisher": "CNBC",
       "publisher_url": "https://www.cnbc.com",
@@ -143,6 +162,16 @@
       "published_at": "2026-11-22T05:00:48+00:00",
       "regions": [
         "europa",
+        "global"
+      ]
+    },
+    {
+      "title": "Aida Pharmaceuticals Inc (AIDA.PK) | Stock Price & Latest News",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE44UEJ0T1BnZUQ1ZXZMeDJMZmpLUHdXTS1iWkZSX2s2N2lvMmdSaFBFdml5YWpEcVhhLTdQWVNuWXBxQnVJTXh3eWhYZWtuZzZBeFZPN000V1c3aFhTY3FaZktULWdRbjRUNWtQWDY3SQ?oc=5",
+      "published_at": "2026-11-22T04:47:31+00:00",
+      "regions": [
         "global"
       ]
     }

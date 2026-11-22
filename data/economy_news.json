@@ -1,7 +1,7 @@
 {
   "date": "2026-11-22",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-22T17:51:42+00:00",
+  "checked_at": "2026-11-22T23:38:47+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -23,7 +23,7 @@
     "bcrd": {
       "ok": true,
       "error": null,
-      "count": 2
+      "count": 3
     },
     "fiscal": {
       "ok": true,
@@ -33,12 +33,12 @@
     "dgii": {
       "ok": true,
       "error": null,
-      "count": 2
+      "count": 3
     },
     "finance": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 1
     },
     "securities": {
       "ok": true,
@@ -48,7 +48,7 @@
     "economy": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 1
     },
     "economist_andy": {
       "ok": true,
@@ -56,8 +56,8 @@
       "count": 5
     },
     "economist_jaime": {
-      "ok": false,
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=(%22Jaime+Aristy%22+OR+%22Jaime+Aristy+Escuder%22)+after:2026-11-14+before:202",
+      "ok": true,
+      "error": null,
       "count": 0
     },
     "economist_juan_ariel": {
@@ -71,8 +71,8 @@
       "count": 1
     },
     "economist_jose_luis": {
-      "ok": false,
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=(%22Jos%C3%A9+Luis+de+Ram%C3%B3n%22+OR+%22Jose+Luis+de+Ramon%22)+after:2026-11",
+      "ok": true,
+      "error": null,
       "count": 0
     },
     "economist_nassim": {
@@ -82,6 +82,52 @@
     }
   },
   "items": [
+    {
+      "title": "Banco Popular premia 11 emprendimientos con RD$ 8.1 millones en capital semilla",
+      "publisher": "Acento",
+      "publisher_url": "https://acento.com.do",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUFBXTm93cmItRmZnejh6RlZzQjk3UktfWFRCLXhKZVNONzZNSkMwSWxXQ1FkQUVxWkVhNG1uRFdWQnJSRkdlbU1ocWlON1dMVU9KYlhBYlFPZkhKSjlSRWZCZ2R4ZnJNY3FwT3FabU5zX1NLOUViNGJRYkw3UDhTLTZJS1dudjlRQV9QT3RQd2hxcG8xTXhFN0xReEhYZ0hEVG9iV3lpYTk5NVlvWThSZG10VVJMV0F3QTQyUE94b9IBvwFBVV95cUxOUFBXTm93cmItRmZnejh6RlZzQjk3UktfWFRCLXhKZVNONzZNSkMwSWxXQ1FkQUVxWkVhNG1uRFdWQnJSRkdlbU1ocWlON1dMVU9KYlhBYlFPZkhKSjlSRWZCZ2R4ZnJNY3FwT3FabU5zX1NLOUViNGJRYkw3UDhTLTZJS1dudjlRQV9QT3RQd2hxcG8xTXhFN0xReEhYZ0hEVG9iV3lpYTk5NVlvWThSZG10VVJMV0F3QTQyUE94bw?oc=5",
+      "published_at": "2026-11-22T22:00:23+00:00",
+      "topics": [
+        "finance"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "finance"
+      ]
+    },
+    {
+      "title": "El director general de Impuestos Internos, Pedro Porfirio Urrutia San Giovanni",
+      "publisher": "Periódico elDinero",
+      "publisher_url": "https://eldinero.com.do",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPbHY4MV9hanM5a1lKbWFDV1dSdlRua254aVFaY1Q5SXE3bVdQNXRhb2haa0JyQlpickRlc0NSRlVHUExwZW1GdGZhX3lSTFd2Y2xWN2lWSmpidkU1SEg4NjlvN2t2Mkl6Q3lxMTY2Y2ZqQmg1SG5uSUw1SE9EZWY4N2c3WWY3enR3V1pteFpGVEVoaDgtOE0waGZhdk5EdTBWR0Z3bktKYUt5ZkFITExUQXpmcE41XzhEaVZhT1BPSHlER2RmSGd2ZmhGelFqTFJfR05xYjh6SlZhWlZZV1RfS0E3Wk9EbVpYeFAxb2FqTVhoeVlpd0pITFp1MkI?oc=5",
+      "published_at": "2026-11-22T19:42:48+00:00",
+      "topics": [
+        "dgii"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "dgii"
+      ]
+    },
+    {
+      "title": "Economista llama a la sociedad a acordar las reformas en 2027",
+      "publisher": "El Nuevo Diario",
+      "publisher_url": "https://elnuevodiario.com.do",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUHhNZnlCV0ZUelNjN0tqYkdjTER3eEIwb1VZZzMtVDJBaEtYcHBqMng3RldyX01uVWUtSzdnbFNheFlKWVR1elNxVU1Lb0d5a09aZDh0T2hlbTJ6d2FsSHJ5RHpnOV9VMWtUdHZLTTZyaFpYc0dlNVJkQV9WQ1NWZ29YeEFWM0JvNmNRV2tkWVdRbnhTUUE?oc=5",
+      "published_at": "2026-11-22T16:07:25+00:00",
+      "topics": [
+        "economy",
+        "opinion"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "economy"
+      ]
+    },
     {
       "title": "Así se cotizan las divisas en los principales bancos este 22 de noviembre",
       "publisher": "El Dia.com.do",
@@ -102,7 +148,7 @@
       "title": "¿A cómo está el dólar este domingo? Esta es la tasa del Banco Central",
       "publisher": "Hoy Digital",
       "publisher_url": "https://hoy.com.do",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNN1I5M0VZQm5SamdUQjBpVHhfVEJVVmd6NlEwLS1ic25rNE9tODNvMXhKaTd5ZXVmaWdiT0NkUHBGMVNfelFMMW1zWW5IYTgwUXJfRkdzOTdoTjRQMXFYS3h6VEFoVDFxZjUycFZ3bk5YM096dGZKOXY0dEtKS0RZY0w1MNIBgwFBVV95cUxNN1I5M0VZQm5SamdUQjBpVHhfVEJVVmd6NlEwLS1ic25rNE9tODNvMXhKaTd5ZXVmaWdiT0NkUHBGMVNfelFMMW1zWW5IYTgwUXJfRkdzOTdoTjRQMXFYS3h6VEFoVDFxZjUycFZ3bk5YM096dGZKOXY0dEtKS0RZY0w1MA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB5aWxQTThTOExlWFJ3cHlLbzlhVDk5bVh0bUMwbG13QWY3QWZBNmVqQmlFWmVkMU9xMVdWd3FKWkl6NFpHd3FCc0F0YVM4OE14SjliMElwNjFlZkdFVk5IcnkzNVZkRlBPaGNtT1locUR2ejg2aldoSXFhZVB4QdIBgwFBVV95cUxNN1I5M0VZQm5SamdUQjBpVHhfVEJVVmd6NlEwLS1ic25rNE9tODNvMXhKaTd5ZXVmaWdiT0NkUHBGMVNfelFMMW1zWW5IYTgwUXJfRkdzOTdoTjRQMXFYS3h6VEFoVDFxZjUycFZ3bk5YM096dGZKOXY0dEtKS0RZY0w1MA?oc=5",
       "published_at": "2026-11-22T12:44:09+00:00",
       "topics": [
         "bcrd",
@@ -136,12 +182,14 @@
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPMkU0OXdrcGgtLTMteTlDQ2lmUVRWSjktSzlRRnB0bzdNRzlIdWtQeGVjQUlJVFY3RW5BNXF6cW1OQkxtVFBidVFldnVGWHY1MUJkUkNkN2hJRmhyRHdJdW94MURYRXRrbXlOaG9HNzA2ckxGY1RITXpKRTJlaUVfUGV2NU1EaXIyT2lQOXFtT3FlU1lLUDJ4Q0stOHplTGN1SDN4RG5jU3BLNWJBbzU2OW5nWGVXQXhjZEZnNDZCSUFJLVlhbnJBanlGYlZKeUlQN3ppbDczNWo3RkFfcHBlamdCb00?oc=5",
       "published_at": "2026-11-22T04:00:00+00:00",
       "topics": [
+        "bcrd",
         "dgii",
         "finance"
       ],
       "economists": [],
       "economist_match": null,
       "searches": [
+        "bcrd",
         "dgii"
       ]
     },
