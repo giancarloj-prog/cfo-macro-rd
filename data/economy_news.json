@@ -1,7 +1,7 @@
 {
   "date": "2026-11-23",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-23T07:52:53+00:00",
+  "checked_at": "2026-11-23T22:05:16+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -23,12 +23,12 @@
     "bcrd": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 2
     },
     "fiscal": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 4
     },
     "dgii": {
       "ok": true,
@@ -38,7 +38,7 @@
     "finance": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 3
     },
     "securities": {
       "ok": true,
@@ -48,7 +48,7 @@
     "economy": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 5
     },
     "economist_andy": {
       "ok": true,
@@ -58,7 +58,7 @@
     "economist_jaime": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 0
     },
     "economist_juan_ariel": {
       "ok": true,
@@ -83,6 +83,121 @@
   },
   "items": [
     {
+      "title": "FMI reconoce recuperación económica de RD, pero alerta sobre deterioro fiscal",
+      "publisher": "El Dia.com.do",
+      "publisher_url": "https://eldia.com.do",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUjZfb0VUdnNrZG52WmxSQXM2Wi03blJCLUJCd293eTVFb1hRYUtkTDFnNjY5QURGNnV6WFU5czBQTVpEWDktT2pzNzY0TXJZUlpZSDhXREpSbzVjOGptMGxjTWUyVFd2blZNZDJCUHh0Y1lPOHpVRVJOYXBtUFVwRXQyZ3dNVmZUeWZpTDZNa05jWVNDLWFKUTQwQUZmOFU?oc=5",
+      "published_at": "2026-11-23T18:39:36+00:00",
+      "topics": [
+        "economy"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "economy"
+      ]
+    },
+    {
+      "title": "El FMI valida la ruta del Banco Central; las tareas pendientes están en otras instituciones del Estado",
+      "publisher": "Acento",
+      "publisher_url": "https://acento.com.do",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQeDVpMUhfU1lNeHU5M29Nb3phb3Y0OUo0S193Q1VWOG05bjc4OE00OGt5ZDBNT1VRb2psMXdwbm9OVTNENnJaT0tzUFcwZm5ENHZfeVQ5QVVsSjBoaFVYNUNRMHlIX2lNQXhLcTNVWnRSUXBGSHlFUXZocHQ0TWJESlpXWWNHSG5ybm9JajF5b2c0a3h4bXF1YjVJeEpGZXNaM3AxZVhuUkpHbUcyc1V4VWxNQldkVmhNV2NWVlQ1eUpWdUJ4VEd5OGRyZ0EyUldZdlJlUEI4T1dYbmJ0bFHSAd4BQVVfeXFMUHg1aTFIX1NZTXh1OTNvTW96YW92NDlKNEtfd0NVVjhtOW43ODhNNDhreWQwTU9VUW9qbDF3cG5vTlUzRDZyWk9Lc1BXMGZuRDR2X3lUOUFVbEowaGhVWDVDUTB5SF9pTUF4S3EzVVp0UlFwRkh5RVF2aHB0NE1iREpaV1ljR0hucm5vSWoxeW9nNGt4eG1xdWI1SXhKRmVzWjNwMWVYblJKR21HMnNVeFVsTUJXZFZoTVdjVlZUNXlKVnVCeFRHeThkcmdBMlJXWXZSZVBCOE9XWG5idGxR?oc=5",
+      "published_at": "2026-11-23T18:00:28+00:00",
+      "topics": [
+        "bcrd",
+        "finance",
+        "fiscal"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "bcrd",
+        "finance",
+        "fiscal"
+      ]
+    },
+    {
+      "title": "El FMI reconoce desempeño de RD, pero insta a reducir subsidios y cumplir con regla fiscal en 2027",
+      "publisher": "Diario Libre",
+      "publisher_url": "https://www.diariolibre.com",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUWE3UkRqZUkxQ1Y2M2xxMm8ycFpSQmFCUm12R1VKWHdDU1JLbTRoaUZzSDJPNEFwTEtOcEgtbFlrdXRkQUVlblVMVnl2NTBXdS13SW1HTWV1OGtmc2ZCS3F0SjM3M21HUmMyZGE3MGhHdzhuMnpkSkFxV0VWbjJncmx0UzhVdm1UN0JhWXUyZjcwcGIzNmdyb2NYLXhsMkxEQThJWUZ0QVZWWkFaNnFlVFJjcm8xY1Z3WnlMbDFMeWNZZlNNSm5RcEVSLWPSAdIBQVVfeXFMTWhyTzVZRFBiZFpESTVrNXJSVWYwNUh0TDNwakFDWThoVVRnYnZBNm1OR2M4MUVYRDhQZk8yVmZ0S19uTlZOekNoRW1zN2F4S21WSVBoVVU2QTRXMVR4TTFZMUdNajZ5dnl5aG5PLW4wR2NmbE9KczVveFZxMXJfbkt6S3FmWXlaQjdKZ2JOQVdaWDdIVWRxWmRYS2ItX0M1cDFTR0JqVHBJUnN3d2FXaS12ZkNMWG9FdWhadzR0aEM1SWFjVWNqMUlpTlk0WXNqNWpB?oc=5",
+      "published_at": "2026-11-23T17:34:00+00:00",
+      "topics": [
+        "bcrd",
+        "economy",
+        "fiscal"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "bcrd",
+        "economy",
+        "fiscal"
+      ]
+    },
+    {
+      "title": "FMI pide reducir subsidios a combustibles y electricidad para aliviar presión fiscal en República Dominicana",
+      "publisher": "Acento",
+      "publisher_url": "https://acento.com.do",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPWml4eFIyZlRKdTI2ajh0UkVPZEVPNTBvbHJ2Uk9YV0FZMExQN2x3YjNUbHhZSUFjVEt4SFNMNWM2TVJ3eVdESGNNOUpQQl9HTzE5Rk9YREJBYUpxQ21ZeW1IWmJHTmo3ZS1EVm9ZYTgweHBmbnNyWEpMVWhIWEk5Sm1rSkhvNU1XQ2dFZUM2M3Bldm9zYkJ4ZnFqbUw1MFRkNjRNV2FqVDc0RzhhT1JuMnNrSVVzc2dYdDZUTzBzMXBEdVZ2a2JYVWFjaG9fb1hVZjA3cmNjejUxb2gzRHdtaWdGSHFZN3fSAecBQVVfeXFMT1ppeHhSMmZUSnUyNmo4dFJFT2RFTzUwb2xydlJPWFdBWTBMUDdsd2IzVGx4WUlBY1RLeEhTTDVjNk1Sd3lXREhjTTlKUEJfR08xOUZPWERCQWFKcUNtWXltSFpiR05qN2UtRFZvWWE4MHhwZm5zclhKTFVoSFhJOUpta0pIbzVNV0NnRWVDNjNwZXZvc2JCeGZxam1MNTBUZDY0TVdhalQ3NEc4YU9SbjJza0lVc3NnWHQ2VE8wczFwRHVWdmtiWFVhY2hvX29YVWYwN3JjY3o1MW9oM0R3bWlnRkhxWTd3?oc=5",
+      "published_at": "2026-11-23T17:00:05+00:00",
+      "topics": [
+        "economy",
+        "fiscal"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "economy",
+        "fiscal"
+      ]
+    },
+    {
+      "title": "FMI urge a RD eliminar subsidios generalizados a combustibles para frenar presión fiscal y deuda",
+      "publisher": "Periódico elDinero",
+      "publisher_url": "https://eldinero.com.do",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbmJVVm8xa3RzVXprLTFIa1dPdlRMbVBRVE5mRDBzazJ2V1ZlR1VnVVdXWHEzVlFnREV1NDJ2TUpCN1J6ZzVNc1NtcXFTSTRiSlBkLWdMSXJDaVNZM0NYTmM2ajAwSDZFM2pCYmR6ZDd0VVdJLWhOd0VmX0tpc3Fnbk1ISi04YUtMNjJrU2g1cmZnY2MzeWU0ZERhQmxQVmJYemMyQjg5ZUtaQkhacVVwTWZ3RWl0cDdGZEdhMDhRRUhtYmhkSUxz?oc=5",
+      "published_at": "2026-11-23T16:32:50+00:00",
+      "topics": [
+        "fiscal"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "fiscal"
+      ]
+    },
+    {
+      "title": "Comprar GTA 6 requiere 30.7 horas de trabajo con salario mínimo en República Dominicana",
+      "publisher": "Acento",
+      "publisher_url": "https://acento.com.do",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSmRLZDRCd2ZJTTFtQjlYU3NXNTc4YXVyWXZPem11by1GeEJSN2pyM0dHcU5KVVh2S2pSSk9Tb2JGQkJCMEViLVBzcHg5Tlo1V0dJXzNaWkhTa0p6REUtQ3NMUUZuV0pyVUtaQmJ0T3piT1E3SVRkSVlBcTBTTURKNjhpT05YVDYycDM5UTNpbUpJZGh2UkVPZVVUVzVrekYwdmRQV1NKU1QzQ2ZqZUc0aGI5aHRGLWlybnRsQUhsY1RtTTlYV2ZndVhlc9IBywFBVV95cUxPSmRLZDRCd2ZJTTFtQjlYU3NXNTc4YXVyWXZPem11by1GeEJSN2pyM0dHcU5KVVh2S2pSSk9Tb2JGQkJCMEViLVBzcHg5Tlo1V0dJXzNaWkhTa0p6REUtQ3NMUUZuV0pyVUtaQmJ0T3piT1E3SVRkSVlBcTBTTURKNjhpT05YVDYycDM5UTNpbUpJZGh2UkVPZVVUVzVrekYwdmRQV1NKU1QzQ2ZqZUc0aGI5aHRGLWlybnRsQUhsY1RtTTlYV2ZndVhlcw?oc=5",
+      "published_at": "2026-11-23T15:27:46+00:00",
+      "topics": [
+        "economy"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "economy"
+      ]
+    },
+    {
+      "title": "Regulación financiera internacional y sus aristas para garantizar la solidez de sistemas financieros diversos",
+      "publisher": "El Dia.com.do",
+      "publisher_url": "https://eldia.com.do",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQWE5ZkJFa2JaTnF4Wl9JNURoY1BxanNBOWNwa290Qkc4TE9TVnBWWllScTlQZDBoc200WHJwRlktQ2cyOUwzNVF2b2c2Nk1pa0tNMGN2SzVBUkV2dTBLbnRjRkpOUjZydVQxTG1sdVN6eWlleTg1WnZQWG12M1pKZkhKQlZMMlI2d1ZXeVVCLVFyVGNiZGZEeEhTbWNDVURjeGEzWUVscDVxcUhQc1c1UWx5ZnVuTExySEdQSEhOUDJPRm5nZXJpdGI4Yw?oc=5",
+      "published_at": "2026-11-23T11:00:00+00:00",
+      "topics": [
+        "finance"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "finance"
+      ]
+    },
+    {
       "title": "Chiqui Vicioso: “Esta novela es un tributo a los tabaqueros y la ciudad de Santiago”",
       "publisher": "Diario Libre",
       "publisher_url": "https://www.diariolibre.com",
@@ -100,7 +215,7 @@
     },
     {
       "title": "Este 30 de noviembre la DGII decidirá quiénes deben aplicar la facturación electrónica",
-      "publisher": "Listin Diario",
+      "publisher": "Listín Diario",
       "publisher_url": "https://listindiario.com",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPME1HNmRnTGZpdk5ZcE9mMWx4T25SZU8tdnV4RUl0QU5Ja2pzUzNrXzhFUnNkU3VPN2h1TkVNV1JPdTNKbUtlWHE0aDgwWkZ3VTZZUFZKSHVyWEJlMEJEdXJEM3N1OVBnX2tsZUNkY0ZRMFljdU5DSnJ2STlDWl9zX3NQQmdiVWtXWDlEek11Y19XT1ByS3JOZkVoanBnVzBycnRYRFFGNmpBM3dqZ1ZHeHdudUZDU29KTHdaWG5CdkVKbEZqWmfSAcsBQVVfeXFMTldZLUlqU0JnUHhLcVMwTDlKczYyZE5TaGhnRWI1Z1RvMzRubUFLUlFzdjlmbW8xSWlFazlDZnpFcUNsRFVsRk96c0Y3cVZmUlJOT3BlWEZfb3hNb25LUFhpMzBmbE9iT04wa0JhTUItZlVGMm02LURfdDZ3Yzgta2ZtX09pbXRBSVlIcDdRZWxoV1JvSlhiT1FCRHd5QkNUYnhtUHk0Y1lqcmRLOEpBdFl2T09HZHVuNXotVk9zLVY5SmR0cXlGdExHVms?oc=5",
       "published_at": "2026-11-23T04:00:00+00:00",
