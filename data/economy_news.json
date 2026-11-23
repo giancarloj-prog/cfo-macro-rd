@@ -1,7 +1,7 @@
 {
-  "date": "2026-11-22",
+  "date": "2026-11-23",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-22T23:38:47+00:00",
+  "checked_at": "2026-11-23T07:52:53+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -23,7 +23,7 @@
     "bcrd": {
       "ok": true,
       "error": null,
-      "count": 3
+      "count": 0
     },
     "fiscal": {
       "ok": true,
@@ -33,7 +33,7 @@
     "dgii": {
       "ok": true,
       "error": null,
-      "count": 3
+      "count": 1
     },
     "finance": {
       "ok": true,
@@ -53,12 +53,12 @@
     "economist_andy": {
       "ok": true,
       "error": null,
-      "count": 5
+      "count": 6
     },
     "economist_jaime": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 1
     },
     "economist_juan_ariel": {
       "ok": true,
@@ -68,7 +68,7 @@
     "economist_raul": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 0
     },
     "economist_jose_luis": {
       "ok": true,
@@ -83,44 +83,14 @@
   },
   "items": [
     {
-      "title": "Banco Popular premia 11 emprendimientos con RD$ 8.1 millones en capital semilla",
-      "publisher": "Acento",
-      "publisher_url": "https://acento.com.do",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUFBXTm93cmItRmZnejh6RlZzQjk3UktfWFRCLXhKZVNONzZNSkMwSWxXQ1FkQUVxWkVhNG1uRFdWQnJSRkdlbU1ocWlON1dMVU9KYlhBYlFPZkhKSjlSRWZCZ2R4ZnJNY3FwT3FabU5zX1NLOUViNGJRYkw3UDhTLTZJS1dudjlRQV9QT3RQd2hxcG8xTXhFN0xReEhYZ0hEVG9iV3lpYTk5NVlvWThSZG10VVJMV0F3QTQyUE94b9IBvwFBVV95cUxOUFBXTm93cmItRmZnejh6RlZzQjk3UktfWFRCLXhKZVNONzZNSkMwSWxXQ1FkQUVxWkVhNG1uRFdWQnJSRkdlbU1ocWlON1dMVU9KYlhBYlFPZkhKSjlSRWZCZ2R4ZnJNY3FwT3FabU5zX1NLOUViNGJRYkw3UDhTLTZJS1dudjlRQV9QT3RQd2hxcG8xTXhFN0xReEhYZ0hEVG9iV3lpYTk5NVlvWThSZG10VVJMV0F3QTQyUE94bw?oc=5",
-      "published_at": "2026-11-22T22:00:23+00:00",
+      "title": "Chiqui Vicioso: “Esta novela es un tributo a los tabaqueros y la ciudad de Santiago”",
+      "publisher": "Diario Libre",
+      "publisher_url": "https://www.diariolibre.com",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZGVwU3dLSFhyU0hkUFM0aF8wSmx6eEhrckVIWkZnRjcwdXpXR3dCdnRrVlVwVTNTOXEwZllOMlFhaThiYVBRZmRQZjA3YjZKYWx5Qm50SE1nLXNmUUliOVNfLUkyTUg2dDVKRlp3TE9TTWJMc1VtT1IycUdhN3lnREtQNV9VeFIzbVI5SHl5NGVsSEhBWjA0RzVtYXN4Z3haQVVXeUhZRHpJa2N6aks2V21hVnBqemlQeHNfMUhLU3NZTXotSTBF0gHMAUFVX3lxTFBsOFBMVTdOUVRxU1UySWszc2lWTnhQVkdlMXoxd2hiR2J0SENNc19QcXNJMVh3akhNS2ctMWRiWjhBc2kwMzdiamo2ODNlVnNYZGZoREtxOFZiMGFfN3hvckZKNzBlbENYTVRDdllsWTJIZmR3dDJQd2RPZjBTdmdaa3FBQnhtaThVcXdUYVl1bVNUbVZfdUtOakFLay15THhudTJ6bkNmWjhyNGJ5Tjg4T3hpRjFnM2lteDBqcnFrLWd2OVdwWXlhRHlHVg?oc=5",
+      "published_at": "2026-11-23T04:01:00+00:00",
       "topics": [
-        "finance"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "finance"
-      ]
-    },
-    {
-      "title": "El director general de Impuestos Internos, Pedro Porfirio Urrutia San Giovanni",
-      "publisher": "Periódico elDinero",
-      "publisher_url": "https://eldinero.com.do",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPbHY4MV9hanM5a1lKbWFDV1dSdlRua254aVFaY1Q5SXE3bVdQNXRhb2haa0JyQlpickRlc0NSRlVHUExwZW1GdGZhX3lSTFd2Y2xWN2lWSmpidkU1SEg4NjlvN2t2Mkl6Q3lxMTY2Y2ZqQmg1SG5uSUw1SE9EZWY4N2c3WWY3enR3V1pteFpGVEVoaDgtOE0waGZhdk5EdTBWR0Z3bktKYUt5ZkFITExUQXpmcE41XzhEaVZhT1BPSHlER2RmSGd2ZmhGelFqTFJfR05xYjh6SlZhWlZZV1RfS0E3Wk9EbVpYeFAxb2FqTVhoeVlpd0pITFp1MkI?oc=5",
-      "published_at": "2026-11-22T19:42:48+00:00",
-      "topics": [
-        "dgii"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "dgii"
-      ]
-    },
-    {
-      "title": "Economista llama a la sociedad a acordar las reformas en 2027",
-      "publisher": "El Nuevo Diario",
-      "publisher_url": "https://elnuevodiario.com.do",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUHhNZnlCV0ZUelNjN0tqYkdjTER3eEIwb1VZZzMtVDJBaEtYcHBqMng3RldyX01uVWUtSzdnbFNheFlKWVR1elNxVU1Lb0d5a09aZDh0T2hlbTJ6d2FsSHJ5RHpnOV9VMWtUdHZLTTZyaFpYc0dlNVJkQV9WQ1NWZ29YeEFWM0JvNmNRV2tkWVdRbnhTUUE?oc=5",
-      "published_at": "2026-11-22T16:07:25+00:00",
-      "topics": [
-        "economy",
-        "opinion"
+        "dgii",
+        "economy"
       ],
       "economists": [],
       "economist_match": null,
@@ -129,68 +99,67 @@
       ]
     },
     {
-      "title": "Así se cotizan las divisas en los principales bancos este 22 de noviembre",
-      "publisher": "El Dia.com.do",
-      "publisher_url": "https://eldia.com.do",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSm1pTE5Pcjd5aW5wYzhWLUcwVlRHbU5QZ0pUWl9VQ25IZkZrdUpQWlgyRTFtLUt2OHpPTGliaHNfMzBhcER3YkFELVVSSGY2ZURrNGpoeG1BWXJHMlo1QkhjakI4MUY1V2xDemxQTVpCWkozSEExMllfTklDcENOakNRVHFIRWtjdWMtU1ZOc0Myd2E4aDBwZ0Fqaw?oc=5",
-      "published_at": "2026-11-22T13:56:13+00:00",
+      "title": "Este 30 de noviembre la DGII decidirá quiénes deben aplicar la facturación electrónica",
+      "publisher": "Listin Diario",
+      "publisher_url": "https://listindiario.com",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPME1HNmRnTGZpdk5ZcE9mMWx4T25SZU8tdnV4RUl0QU5Ja2pzUzNrXzhFUnNkU3VPN2h1TkVNV1JPdTNKbUtlWHE0aDgwWkZ3VTZZUFZKSHVyWEJlMEJEdXJEM3N1OVBnX2tsZUNkY0ZRMFljdU5DSnJ2STlDWl9zX3NQQmdiVWtXWDlEek11Y19XT1ByS3JOZkVoanBnVzBycnRYRFFGNmpBM3dqZ1ZHeHdudUZDU29KTHdaWG5CdkVKbEZqWmfSAcsBQVVfeXFMTldZLUlqU0JnUHhLcVMwTDlKczYyZE5TaGhnRWI1Z1RvMzRubUFLUlFzdjlmbW8xSWlFazlDZnpFcUNsRFVsRk96c0Y3cVZmUlJOT3BlWEZfb3hNb25LUFhpMzBmbE9iT04wa0JhTUItZlVGMm02LURfdDZ3Yzgta2ZtX09pbXRBSVlIcDdRZWxoV1JvSlhiT1FCRHd5QkNUYnhtUHk0Y1lqcmRLOEpBdFl2T09HZHVuNXotVk9zLVY5SmR0cXlGdExHVms?oc=5",
+      "published_at": "2026-11-23T04:00:00+00:00",
       "topics": [
-        "bcrd",
-        "finance"
+        "dgii"
       ],
       "economists": [],
       "economist_match": null,
       "searches": [
-        "bcrd"
+        "dgii"
       ]
     },
     {
-      "title": "¿A cómo está el dólar este domingo? Esta es la tasa del Banco Central",
+      "title": "Banco Popular premia 11 emprendimientos",
       "publisher": "Hoy Digital",
       "publisher_url": "https://hoy.com.do",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB5aWxQTThTOExlWFJ3cHlLbzlhVDk5bVh0bUMwbG13QWY3QWZBNmVqQmlFWmVkMU9xMVdWd3FKWkl6NFpHd3FCc0F0YVM4OE14SjliMElwNjFlZkdFVk5IcnkzNVZkRlBPaGNtT1locUR2ejg2aldoSXFhZVB4QdIBgwFBVV95cUxNN1I5M0VZQm5SamdUQjBpVHhfVEJVVmd6NlEwLS1ic25rNE9tODNvMXhKaTd5ZXVmaWdiT0NkUHBGMVNfelFMMW1zWW5IYTgwUXJfRkdzOTdoTjRQMXFYS3h6VEFoVDFxZjUycFZ3bk5YM096dGZKOXY0dEtKS0RZY0w1MA?oc=5",
-      "published_at": "2026-11-22T12:44:09+00:00",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcFR2VFhhOVJqWlFhNVh1TzBpeWZfOGU5M09ZQ2NRUkFpNXp1Zk8ySjJRUkNqd1gzaUd4MndfOHlnSi11WkxTR3ZpR1I5OGthT3JrbkpQdTNleDVhVEpXWnlqT21IOFFYS0d4SllseENQZ2h3cnM1MlduTXJIZnpIeVZoXzF0bHhiaXMzYtIBjAFBVV95cUxQcFR2VFhhOVJqWlFhNVh1TzBpeWZfOGU5M09ZQ2NRUkFpNXp1Zk8ySjJRUkNqd1gzaUd4MndfOHlnSi11WkxTR3ZpR1I5OGthT3JrbkpQdTNleDVhVEpXWnlqT21IOFFYS0d4SllseENQZ2h3cnM1MlduTXJIZnpIeVZoXzF0bHhiaXMzYg?oc=5",
+      "published_at": "2026-11-23T04:00:00+00:00",
       "topics": [
-        "bcrd",
         "finance"
       ],
       "economists": [],
       "economist_match": null,
       "searches": [
-        "bcrd"
-      ]
-    },
-    {
-      "title": "El Ministerio de Economía, Planificación y Desarrollo no entregó el 73 % de los soportes de las obras que la Cámara de Cuentas quiso auditar",
-      "publisher": "Acento",
-      "publisher_url": "https://acento.com.do",
-      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOYnFJYjVzT1k2UVV2dV8yb2tQWTJDaDN0eVpFWVJ6UlUxN2pVc09TejRuYVlxRU8wc2tCUFZWRmxqOHZsNGFNbVNGN2IzYUR1UHZ4RVRZVkxaQllROVZ6aUktV2pacDNEeFNpRldzcGlRb28wUk1WaXpJMDhSYzR0OUxiZTMxRnVxbmphUU1vYy0xcUVnUm8tNFJsYUxtWDF5RHluY3A4UUpCM25EeUszY1pSaXU4RlZ6ejFuNzJMbEhMeHJtWUpDeXQzQlhjWlhWWWVKMFlZWjJqRWh5LWR0R3haVTNSempCUlRsQ2Z1X1IyUzdRS2dCSDlhREoyTXNWWk5qVzMyenI1LW1SMnRJSNIBkAJBVV95cUxOYnFJYjVzT1k2UVV2dV8yb2tQWTJDaDN0eVpFWVJ6UlUxN2pVc09TejRuYVlxRU8wc2tCUFZWRmxqOHZsNGFNbVNGN2IzYUR1UHZ4RVRZVkxaQllROVZ6aUktV2pacDNEeFNpRldzcGlRb28wUk1WaXpJMDhSYzR0OUxiZTMxRnVxbmphUU1vYy0xcUVnUm8tNFJsYUxtWDF5RHluY3A4UUpCM25EeUszY1pSaXU4RlZ6ejFuNzJMbEhMeHJtWUpDeXQzQlhjWlhWWWVKMFlZWjJqRWh5LWR0R3haVTNSempCUlRsQ2Z1X1IyUzdRS2dCSDlhREoyTXNWWk5qVzMyenI1LW1SMnRJSA?oc=5",
-      "published_at": "2026-11-22T10:00:13+00:00",
-      "topics": [
-        "dgii"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "dgii"
-      ]
-    },
-    {
-      "title": "Ante el FMI, el espaldarazo bancario a la credibilidad del BanCentral y el compromiso de financiar la industria nacional",
-      "publisher": "Listín Diario",
-      "publisher_url": "https://listindiario.com",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPMkU0OXdrcGgtLTMteTlDQ2lmUVRWSjktSzlRRnB0bzdNRzlIdWtQeGVjQUlJVFY3RW5BNXF6cW1OQkxtVFBidVFldnVGWHY1MUJkUkNkN2hJRmhyRHdJdW94MURYRXRrbXlOaG9HNzA2ckxGY1RITXpKRTJlaUVfUGV2NU1EaXIyT2lQOXFtT3FlU1lLUDJ4Q0stOHplTGN1SDN4RG5jU3BLNWJBbzU2OW5nWGVXQXhjZEZnNDZCSUFJLVlhbnJBanlGYlZKeUlQN3ppbDczNWo3RkFfcHBlamdCb00?oc=5",
-      "published_at": "2026-11-22T04:00:00+00:00",
-      "topics": [
-        "bcrd",
-        "dgii",
         "finance"
+      ]
+    },
+    {
+      "title": "La pobreza es más baja",
+      "publisher": "El Caribe",
+      "publisher_url": "https://www.elcaribe.com.do",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9aRlk0Qi04QTZabG1oVHdPWG5LTllXMHVzelMzWnNzMmU2aWJuWlNscE9tei1BQWl4ekcyV1hMMG1ZeVQ1TGZNTU5JcGlJdnZPOEk1eXo5R2QwbmFuTzRQSlFKcUpFa2pFbl9hbkdn?oc=5",
+      "published_at": "2026-11-23T04:00:00+00:00",
+      "topics": [
+        "opinion"
       ],
-      "economists": [],
-      "economist_match": null,
+      "economists": [
+        "andy"
+      ],
+      "economist_match": "search",
       "searches": [
-        "bcrd",
-        "dgii"
+        "economist_andy"
+      ]
+    },
+    {
+      "title": "La caída del rey Midas",
+      "publisher": "Diario Libre",
+      "publisher_url": "https://www.diariolibre.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZnhIa1I2LVdzS3otRE9idVItczdmSEdZc01QcWVySmM4UE5DdEpUODU0bXpVb180UTBvNmNfbUFwRFlMdWhlX1hwM3ZyOEtzQjhLdGVBQ2cyZ01FZ3E0OElmR2F5ZHU2eTFzUUlSVjNqWkFOcmhqQVczVjZVbl9WMUlFaVh1eUdjejVuS0hzVU1JcGPSAZgBQVVfeXFMTVFlR1oxU21qVi12VHpXV21SRGJNM2JSc2xkdHdoMVplYWczbzE4cUhnVklUNUR4WXg2WmpIZDc2cWxWdEl4bWNsMzBDYkdJMkN0ZW1fM3BxY0VMS0dwSzZsS244ZFo0QnRsSkt4VDVzbkhVQ1RjWTFtWGRxenRQa0JKaVl1N0lJdVdHc2lxeFByb1c2NGplaVg?oc=5",
+      "published_at": "2026-11-23T03:00:00+00:00",
+      "topics": [
+        "opinion"
+      ],
+      "economists": [
+        "jaime"
+      ],
+      "economist_match": "search",
+      "searches": [
+        "economist_jaime"
       ]
     },
     {
@@ -382,50 +351,6 @@
       "economist_match": "search",
       "searches": [
         "economist_andy",
-        "finance",
-        "securities"
-      ]
-    },
-    {
-      "title": "Asociación Cibao reúne a clientes para analizar perspectivas económicas nacionales e internacionales",
-      "publisher": "Periódico elDinero",
-      "publisher_url": "https://eldinero.com.do",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNnZGSkw4WFF6NUZ5aFphSGczN3R4NUZZTlZKZF9aSWhOWUNNaV85Y2xGUnMxM01YSEpudFk2NjE4OFdhZnYwWjhDWXV4WUNqNFZPZlNmTDB4ZzNuVEgydzJKWVhFdjZjWnhuQVQyMTFVRVJpUy0waUQ5SVlkRllzTExmX0x2TklYWXBLU19oa2R5UkRrbmtuYlNLWEpEdFJ4TEhWX0RVaVpuWWlpSFJNTWlUR2NxRnkxM0FXNVNiVmdjOUdMSXB1Qm1leXo?oc=5",
-      "published_at": "2026-11-16T20:19:02+00:00",
-      "topics": [
-        "finance",
-        "opinion"
-      ],
-      "economists": [
-        "jaime",
-        "raul"
-      ],
-      "economist_match": "search",
-      "searches": [
-        "economist_jaime",
-        "economist_raul",
-        "finance"
-      ]
-    },
-    {
-      "title": "Economistas advierten riesgos para el crecimiento económico dominicano en 2027",
-      "publisher": "Acento",
-      "publisher_url": "https://acento.com.do",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOGZqT0ZPellrZFpLamJ0TGlOWkpqeHg1TXpmdE9fZlpVVjFLblZaT2FuR1FPLVVQS3RfU1lzZmc5b3ZrZ3RMQlotbGpIWG51ODlHeFFFbTRpU1JwRlhfRGU5d1FEWjJfVVFmbElhNmt2NWI2TE02OVMxdmdfa3BseUgxc1ljdjE3RGZKVXMtRkZVeFEybThRc0NUNWxtNXRFM2VIY2dsR2xvNU03dDRjc3lVUUk3NzRrcFdmNnNBZ9IBvwFBVV95cUxNOGZqT0ZPellrZFpLamJ0TGlOWkpqeHg1TXpmdE9fZlpVVjFLblZaT2FuR1FPLVVQS3RfU1lzZmc5b3ZrZ3RMQlotbGpIWG51ODlHeFFFbTRpU1JwRlhfRGU5d1FEWjJfVVFmbElhNmt2NWI2TE02OVMxdmdfa3BseUgxc1ljdjE3RGZKVXMtRkZVeFEybThRc0NUNWxtNXRFM2VIY2dsR2xvNU03dDRjc3lVUUk3NzRrcFdmNnNBZw?oc=5",
-      "published_at": "2026-11-16T12:00:21+00:00",
-      "topics": [
-        "economy",
-        "finance",
-        "opinion",
-        "securities"
-      ],
-      "economists": [
-        "raul"
-      ],
-      "economist_match": "search",
-      "searches": [
-        "economist_raul",
-        "economy",
         "finance",
         "securities"
       ]
