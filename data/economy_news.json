@@ -1,7 +1,7 @@
 {
   "date": "2026-11-24",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-24T10:04:49+00:00",
+  "checked_at": "2026-11-24T20:41:36+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -23,22 +23,22 @@
     "bcrd": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 2
     },
     "fiscal": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 4
     },
     "dgii": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 5
     },
     "finance": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 5
     },
     "securities": {
       "ok": true,
@@ -48,7 +48,7 @@
     "economy": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 6
     },
     "economist_andy": {
       "ok": true,
@@ -68,7 +68,7 @@
     "economist_raul": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 1
     },
     "economist_jose_luis": {
       "ok": true,
@@ -82,6 +82,205 @@
     }
   },
   "items": [
+    {
+      "title": "El 81% de las transacciones financieras en RD se realiza por canales digitales y de autoservicio",
+      "publisher": "Periódico elDinero",
+      "publisher_url": "https://eldinero.com.do",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbGJSOWNsRHVWd3c0eVVWMEhBdS1FWmlGeERxbGNUYnJyUVVwM29faUVrSklPVTRwR25ub29VTWM2WXdqdy1xOUJ5NEZLenRTcmdGa2M4TWtRTUh5SlludHFMU3FPWEpyZjBmZE9jSmlVbnFqVnVvMTdNOWJNZ29OdW5FSkY3OFhkYkRESFBCdjl4Z2F3ZHRkRGxwZzhLclFrWjBtY0JsMjliTEQ2SERJOEhUWHBTNFlDYUdSNzA1cGxEckU0RWc?oc=5",
+      "published_at": "2026-11-24T20:24:03+00:00",
+      "topics": [
+        "finance"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "finance"
+      ]
+    },
+    {
+      "title": "Gobierno cierra la puerta a otra reforma fiscal, afirma Magín Díaz",
+      "publisher": "Acento",
+      "publisher_url": "https://acento.com.do",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUXFucFVYZkd6X1dUOEdRT1pvMS11WUVXLUhVaUNJZTg2TlBFYzZKSmpmZlJGV28wZUx6WndQUTVtYXAzSnZXWVRXNFFnc1AyNjdKakJyNUl1TC0ydENjOC1sUGN6UUU2QVVReVF2T29DRU91UWlsLTAyc2hCQzFjUGZtUVQ5dzU2WHpQQ0w5enBIcENweDFXV1pfc0JTaVFjS1hra0tBTnJNLU1sd3fSAa4BQVVfeXFMTlFxbnBVWGZHel9XVDhHUU9abzEtdVlFVy1IVWlDSWU4Nk5QRWM2SkpqZmZSRldvMGVMelp3UFE1bWFwM0p2V1lUVzRRZ3NQMjY3SmpCcjVJdUwtMnRDYzgtbFBjelFFNkFVUXlRdk9vQ0VPdVFpbC0wMnNoQkMxY1BmbVFUOXc1Nlh6UENMOXpwSHBDcHgxV1daX3NCU2lRY0tYa2tLQU5yTS1NbHd3?oc=5",
+      "published_at": "2026-11-24T18:52:34+00:00",
+      "topics": [
+        "dgii",
+        "finance"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "dgii",
+        "finance"
+      ]
+    },
+    {
+      "title": "Segunda modificación presupuestaria elevaría el déficit en RD$ 85,393 millones",
+      "publisher": "Acento",
+      "publisher_url": "https://acento.com.do",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObkxyVEc5clBTQXhFdDRCamcwbTM0eWJ2YjhFM2w3Mkc2ajhZbzZ4NDVkRkJHYnNiYjNyQ3VHc01EaXFqY0ZnVDg1RTlxZDloaXA0SVl3TTVxM2QybTRyWVptMDdneWt2eUxmaE5FYmVZb3JneXQtZUVpRF9tbVVmYUt6ZktPRVZUN19tbVRVWnZ3V014eC0ySV9Bai1GUm1ZV19Xc29lMzAyM2E4MjN3YzljbjBlRjFMcUM5UdIBvAFBVV95cUxObkxyVEc5clBTQXhFdDRCamcwbTM0eWJ2YjhFM2w3Mkc2ajhZbzZ4NDVkRkJHYnNiYjNyQ3VHc01EaXFqY0ZnVDg1RTlxZDloaXA0SVl3TTVxM2QybTRyWVptMDdneWt2eUxmaE5FYmVZb3JneXQtZUVpRF9tbVVmYUt6ZktPRVZUN19tbVRVWnZ3V014eC0ySV9Bai1GUm1ZV19Xc29lMzAyM2E4MjN3YzljbjBlRjFMcUM5UQ?oc=5",
+      "published_at": "2026-11-24T18:00:19+00:00",
+      "topics": [
+        "finance"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "finance"
+      ]
+    },
+    {
+      "title": "\"La reforma fiscal es un tema cerrado para el Gobierno\", afirmó Magín Díaz ante las recomendaciones del FMI",
+      "publisher": "El Dia.com.do",
+      "publisher_url": "https://eldia.com.do",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQM1MwMVJ6SnZpYi01RW9kUS1FVEFIaG5tN0VTeklrMGhEa2pxZnRlV1phc0loR01ucFl3MThKdzNBMnRHeXEzLVRvekNBTGswdy1jX0xWMmpjZWpSZzFncmtZUDNjVE9TZUdsZkU3azZ1djJiYW1OVDlKa1J3MWxRQmk1Y2NRUWV2bDNDYXVIRXlFVWJQTDBaaVMzTmg1MXNyMk91UDk1b3NGVnltYVFTSnlFcjg4bHhFendZR2ZUbGxhWTFn?oc=5",
+      "published_at": "2026-11-24T17:40:20+00:00",
+      "topics": [
+        "dgii",
+        "economy",
+        "fiscal"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "dgii",
+        "economy",
+        "fiscal"
+      ]
+    },
+    {
+      "title": "Magín Díaz afirma que reforma fiscal es un tema cerrado para este gobierno",
+      "publisher": "Hoy Digital",
+      "publisher_url": "https://hoy.com.do",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPLUJKTXlEOWVBVW44M25qeDlHT3JjU3QwcG9CdG5xZ1JEQkRnR0pCWXpncXRkdV9rSF9VSHNRbFB3SDZ5dkxibEJCNkxac2MtTGlFNnh6VVNwb244Wkg3UlRvNFgzYVQyOUVvLTZBRVhRNGdaQTUzTUtXWnR4V21EM0pqVGtZVGltaFNLX0V5Y1REV1pjV2J1aG1URFZGa3ly0gGgAUFVX3lxTE8tQkpNeUQ5ZUFVbjgzbmp4OUdPcmNTdDBwb0J0bnFnUkRCRGdHSkJZemdxdGR1X2tIX1VIc1FsUHdINnl2TGJsQkI2TFpzYy1MaUU2eHpVU3BvbjhaSDdSVG80WDNhVDI5RW8tNkFFWFE0Z1pBNTNNS1dadHhXbUQzSmpUa1lUaW1oU0tfRXljVERXWmNXYnVobVREVkZreXI?oc=5",
+      "published_at": "2026-11-24T17:26:42+00:00",
+      "topics": [
+        "dgii",
+        "fiscal"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "dgii",
+        "fiscal"
+      ]
+    },
+    {
+      "title": "¿Está la República Dominicana al límite entre la deuda y los impuestos? (III)",
+      "publisher": "El Nuevo Diario",
+      "publisher_url": "https://elnuevodiario.com.do",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcU9sdlNVWGJPbUVtZ3VxZEZGVDh0ZFZ2R21VOVRLcFQyejZaVXFUU0EwUXhZZ0JCX1hHY1NsS1AtUlg0Si1aNlczdWpNRHdhcnZ3MC1QVEZlR05GUm9tbDJKekxmMTR1a2JoZnBpOWVkR0NuN1RDbGcxQ1ZnT2lFUzdndWxSZXlWMHZFcjA2dHF0eHpyNzJ6Ry1VRE5ScThtM2U0aTdn?oc=5",
+      "published_at": "2026-11-24T17:13:07+00:00",
+      "topics": [
+        "dgii",
+        "fiscal"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "fiscal"
+      ]
+    },
+    {
+      "title": "Magín Díaz: La reforma fiscal es un tema cerrado para el Gobierno",
+      "publisher": "Diario Libre",
+      "publisher_url": "https://www.diariolibre.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPc3Fha3c3Y2ctV1NOMDZjZEQ0N1NhaHl2b3AtLWJIV2J6bXluLUxvdTlvN2x6bzctM2U2azZ2YWhSV0NVRU80b3prRHV3QnpCNC1xN0VQWFFRRkNVOHVVTHFzcHJ6d2lLRWhTR2tjX09qRXJLMzQ3VXc3OXBvRWNMSTg4V21TT0kzclRFRUhVMElna3JCdHpYWHFQN2lVYlVqM0pQak1ESEttcGV5RnBCU0ZhX0Q3N2pGeHdmWHFia3Z5YmfSAcgBQVVfeXFMTjNJdEJ4Mk9Ielc2Tm93MHdqVV93bmRtUnRWWXJlTmQzTzloblVQYm9iSHFqVWZwMUZzVWFPdTFweXR5RXlzWmpySGVSN3FJSmtZVGVaaS1qVGV2LWhqbDZQYU1QSHdkM1JnTFJKU3RRWkZmaHJfSEZveEJneTk4aDd2TUJ4RXlBVFRCMFkzRENrVFRtbnZDTDFzYk9rbVd4Qkh5Y1huV1l1MXFjUjUwajMwbms1TWRfam83M0NxV2VtSnlKeXhWcFk?oc=5",
+      "published_at": "2026-11-24T16:53:00+00:00",
+      "topics": [
+        "dgii",
+        "fiscal"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "dgii",
+        "fiscal"
+      ]
+    },
+    {
+      "title": "Remesas suman US$ 10,598.4 millones hasta octubre, un crecimiento de 7.3 %",
+      "publisher": "Acento",
+      "publisher_url": "https://acento.com.do",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZ0FmUHQtZDVQSm1GemhBZ3dDUlNRSDlIaXo5VFE2TWdSZmNVYUN4X3FrRWhBRzdsTjZGZXpzZy1GSlFXbzVpbmpURlQyZTZMSW1GSzhDMkNPUjFmRDNQTXZQbkpBbWVvaWFJaEFVNXkwaExDR3AxTVRualdLc1ExQm50Skota3BJWDFkSDU0SkozZjhnVHg2ZFhjZFloQ0h0THllY01EeE9OMEpNYm5JYWVnSdIBswFBVV95cUxQZ0FmUHQtZDVQSm1GemhBZ3dDUlNRSDlIaXo5VFE2TWdSZmNVYUN4X3FrRWhBRzdsTjZGZXpzZy1GSlFXbzVpbmpURlQyZTZMSW1GSzhDMkNPUjFmRDNQTXZQbkpBbWVvaWFJaEFVNXkwaExDR3AxTVRualdLc1ExQm50Skota3BJWDFkSDU0SkozZjhnVHg2ZFhjZFloQ0h0THllY01EeE9OMEpNYm5JYWVnSQ?oc=5",
+      "published_at": "2026-11-24T16:00:22+00:00",
+      "topics": [
+        "economy",
+        "finance"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "economy",
+        "finance"
+      ]
+    },
+    {
+      "title": "¡Más dólares para el país! Remesas superan los US$10,500 millones hasta octubre",
+      "publisher": "Hoy Digital",
+      "publisher_url": "https://hoy.com.do",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNWZSbnFBM19LUjR0ZXdPWm5UamdZc0F5LTBER1pRMjJzNWt6YVMwUncwdFgyVlpxeEVJSjZZVmJRZmpWd3RrMVhXOXRoN1lKbjloQVF3SS1vWGgtNUNHamVJY0wyMDV4anEtTzFkb1VyVXM4T0x6WmVkVEtiU29paXRGS3FZek5xNmJGUHpuWXYtb29TNWQyTUc2T3lZSHNUcnfSAaIBQVVfeXFMTzVmUm5xQTNfS1I0dGV3T1puVGpnWXNBeS0wREdaUTIyczVremFTMFJ3MHRYMlZacXhFSUo2WVZiUWZqVnd0azFYVzl0aDdZSm45aEFRd0ktb1hoLTVDR2plSWNMMjA1eGpxLU8xZG9VclVzOE9MelplZFRLYlNvaWl0RktxWXpOcTZiRlB6bll2LW9vUzVkMk1HNk95WUhzVHJ3?oc=5",
+      "published_at": "2026-11-24T15:43:23+00:00",
+      "topics": [
+        "bcrd",
+        "economy"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "bcrd",
+        "economy"
+      ]
+    },
+    {
+      "title": "Economía dominicana recibe US$10,598 millones en remesas entre enero y octubre",
+      "publisher": "Diario Libre",
+      "publisher_url": "https://www.diariolibre.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZmlCUlpCTUJEbEhnVVZTWm5JdHRrWEtjQlY0a1MyRnNGTEh5ZHUwWFNsWVBraFNJNzJxNDFIY1FaN2ZjVjBZWnhjMlkwRUpmVXJHeHdTQl9OZ2hDLU9GcndpY0xDc0dCbEVsMWZSVTFxQ0pNNDN4MnFWVEwxNm5sUWtfcWI5UHRaRjFOQ3NDN1FWMDJGWXdYMDNNb2ZqaDJSd2tZR1pQbU9UUkFFMDZsNXNxVGlSNnE0SzVSdEpERVZCOGtq0gHKAUFVX3lxTE9LVlFONk5MYUxMdUsyWGwtR3phM1VkNWdsRVZmdzhLZGpxWGhRN09zWTJGUUJacnZGcm8zY3BBMmZHUG1oeW5VMlp1QzNMeGZuZGJrOUowTDRTNnB5RW1USHA0UGZlOU5OSkhjeVlDT2lRVEpacDg5dFY2Tlc1dmhtM2Z5b1R0ZDRGcTBfdUFPdXVDbjV4T0JRT1JrcDljNWZoYTNQNFVyU1NLV2M3RUZFVXAzX2tnRjNGcDg0LWpxWUVTV3E2aWg2ZXc?oc=5",
+      "published_at": "2026-11-24T15:10:00+00:00",
+      "topics": [
+        "economy"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "economy"
+      ]
+    },
+    {
+      "title": "Economista propone reglas automáticas para ajustar los precios de los combustibles",
+      "publisher": "Hoy Digital",
+      "publisher_url": "https://hoy.com.do",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSlRaNzVlVGpUSTgyenV3Q2NzZzNuQ0NYZ00zbWVoUURpUkdfOUE3YVhKc0ZaWTlGVnlBWm1jejE1bzBCVTc0Nloyd0NGbXlhVWNuTHJjaVgxMV9OWWpGcTZRR0lRSzZ1WHNOYU0yZVh5RU45RGtxMGhabXV2M3ZaUEJ4MmlDbGV2TDRqemZfRW43cWM5SVFRb0QweEdRODVxdE9CYmVyVWU2bEnSAbABQVVfeXFMUGlJclIzeVJacU9wUTFLZlJ5NkxickNUNU9UcDJvRG9LZEJVb05kdm15SVB3SVhKMURfbU5ndEVMaUJLLWpjb1dKZnNmS1JfTEIzQjlSdnNWVDAyRlROa2lMNzV3aHFkWTFVSndTVDZ4M1dpbnBsamNROXVHN0V6SEI0N1FtSUV3TEhZNEFtSmtVeHJaUXVKcGpUX1V1dmtzNEMwSmNWRmdpNVlETm1yQVI?oc=5",
+      "published_at": "2026-11-24T14:37:26+00:00",
+      "topics": [
+        "economy",
+        "opinion"
+      ],
+      "economists": [
+        "raul"
+      ],
+      "economist_match": null,
+      "searches": [
+        "economist_raul",
+        "economy"
+      ]
+    },
+    {
+      "title": "Conep advierte sobre retos que frenan el desarrollo económico de RD",
+      "publisher": "El Caribe",
+      "publisher_url": "https://www.elcaribe.com.do",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdV9Tay0yZkJLYWJOWWF6STJaaC1oYlpxWGFNZ3BRd3lVUFA0MGo4M01GMnMwdkNTaWt3cmp2YlpycW9HNWgtbkplZ0lKWWJnVXRpdUlUVG83Uy1YTjZnTktqZU1rczRTaW9QOWdfdVlyWUtZX2hzenFqMm9ibzZURFJKVk5GSjVaRzZMVlU4dFVMNWJCT1ZkNDlhcEMxNWRXM2tNcWZRS3N0VHlOQThF?oc=5",
+      "published_at": "2026-11-24T14:24:26+00:00",
+      "topics": [
+        "dgii"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "dgii"
+      ]
+    },
     {
       "title": "El crédito que más crece en la banca va al sector que acaba de salir de la recesión",
       "publisher": "Acento",
