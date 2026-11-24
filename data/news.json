@@ -1,7 +1,7 @@
 {
   "date": "2026-11-24",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-24T06:06:01+00:00",
+  "checked_at": "2026-11-24T10:04:50+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -29,20 +29,136 @@
     "usa": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 5
     },
     "europa": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 8
     },
     "global": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 8
     }
   },
   "items": [
+    {
+      "title": "Roche says breast cancer pill could be best-selling drug ever",
+      "publisher": "Financial Times",
+      "publisher_url": "https://www.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZkIyVGlIVVMxNEhjeUlNT3pVYWJoZllOaDBYdXFwT3NrZkFDREpoSnUxQnAyVVVWRjhuT2hCUVRucEhaMV9mdHVnN1BkRlhDY0YwTko1UlI3OUdRb05aejhvX2NkeElPd3JlZzI1Qk8wN2RVYkdWWDVhVkR6eWVDV1JyN1Q?oc=5",
+      "published_at": "2026-11-24T09:51:03+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "Sanofi Strikes $41 Billion Deal to Buy U.S. Drugmaker Insmed",
+      "publisher": "WSJ",
+      "publisher_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaVBfakx5WUY1dzBVU0lscUpnMDNrd19fN25wcFpwMU9Wb2ZxdUpOZVJSX2I4NV9sWXlKY2lUeTduMjdLdURsaVVwc2U5dEtQblVuUS12S2RPWl80SjBYdDMzQlpKcTctOFg1SzdRdi1QSWsyakx3ZDFtWWxxSU9DdzRQclZTUHhL?oc=5",
+      "published_at": "2026-11-24T09:33:45+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Pharma has more drug candidates than ever. Now it needs better decisions.",
+      "publisher": "pharmaphorum",
+      "publisher_url": "https://pharmaphorum.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcmdjNU9ldW0xZno2NGlWeWNYNnBUSlFtTHZlS3FRTDYyN1BhSUhyMnlTVXFUODlGcVpPX1g3UEg5alFVWVkyejNrdjJOZEM5NEdoWU05UjNnZ0hyLUJlTGlKcDRjQkdaMUxZd2JOQXBTbjZQbWVLM2dteU5DQzd5YmhJSXMzZlloc2ZLQ21QUHJOaUlSd0wta2pB?oc=5",
+      "published_at": "2026-11-24T09:30:27+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "Mexico Captures Top Drug Boss in Fierce Gunfight",
+      "publisher": "WSJ",
+      "publisher_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOXzBacVJ3Qzh2a21SQlRxaGE3VVdNb085VU55UGVjbXlwNW5qZzN0UE1nV3BMeEx3NUxxUWk4d2hZTno5T2lPRlFXV3Y3Mm1mWlJSNUpvR0VoZjZGODZkdXJmZWVZR29FQjdkT0ZGaTU0ajlSWTFNQ1l5Zm9UWDhNZk1JUUZIcHk0VmtLZjdKTmhYSWhadEVF?oc=5",
+      "published_at": "2026-11-24T09:29:54+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Mexico Took Down a Top Drug Kingpin. Can It Dismantle His Cartel?",
+      "publisher": "WSJ",
+      "publisher_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVTE3aHliRkxuTkV1MXB3TG1VVkc1TnlhWUZnZ29oX3RtRXpxY0taMGt0ZnRwX3VycGg2QW1ndWkwMEM0ZjlVYUFhcjZCcHBISEFSNmdWVkdvNnRNS1dQcF9mQ3E2TDQtbnNsQjJjTVBuOG5LY2ZkTTJZZ25GS19Jdnp5NmpablRRcFJrdm93SnZmdDFnemxiRzZfNHhMbW5WeHc3eUNzd0hVenc?oc=5",
+      "published_at": "2026-11-24T09:12:00+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Watch: Moment troops raid home and capture Mexican drug lord",
+      "publisher": "BBC",
+      "publisher_url": "https://www.bbc.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45UVBBTjQzbTNaYzNEVkVsTG04NDBQdzBWLW1wU3hpRGg2c0RoSW1yaDdsTWV6Qkp4MjByWUt1dzRtc1U3WUJqREk2VkJxLTc0TnNjR0ZYNWlhazA?oc=5",
+      "published_at": "2026-11-24T09:10:25+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "Mexican Drug Gangs Have Found a New Cash Cow in Microfinancing",
+      "publisher": "WSJ",
+      "publisher_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNTlBZmdmejZOcFFPRGJnZUhJSmRaY29KNGZNMm9ZeUZsQi0zcDdTOGowX0ZwNV9nMVV3WFpGUXpRY3hOZ0xBZzM1NWlGWUFpZmtwNzZhUHhrdTZJWDJhV1E4RUpnSFo3WUFLYzFTN3JldFJ0eGRicTJ2U0I1cGRRNi1INllMZUl4bC14Wl9Yd1RXMEpLSWNNMEp5OTFzcUc2cDN5bDNDNndhUQ?oc=5",
+      "published_at": "2026-11-24T09:01:41+00:00",
+      "regions": [
+        "global"
+      ]
+    },
+    {
+      "title": "Sanofi strikes $41bn deal to buy US biotech Insmed",
+      "publisher": "Financial Times",
+      "publisher_url": "https://www.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYTNRampBR19XOHhYbVAyU3dfbDF1UDF1OWl4QUZyUVJvUTZoXzVaOUFwV2hsb2V3YjVKTlVTa1E5b3oxUXlPWDE4WDFpdzB5c21vS1Q3aFdLLVpVTUl5RXdueUNBcVJiOVZjcUNUR0dVTm8xa2hhQVFrYTk0d09Na1Q3TzI?oc=5",
+      "published_at": "2026-11-24T08:30:37+00:00",
+      "regions": [
+        "europa",
+        "global"
+      ]
+    },
+    {
+      "title": "Sanofi to buy Insmed for $41B, picking up two lung disease medicines",
+      "publisher": "STAT",
+      "publisher_url": "https://www.statnews.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNakRyczJmeEQ5cjdSVDBnSFZiVFo4OXFNcF9SamJHcG9fRUQzRjViME9kVUN6bzFTVVFoTmIxZ3FaUmdDZmZ0SGVuNlJEbC1sWVplbVRiRko1Y0k2WHh6a3Y2OTduOEpwNmxydTg5bW1zV0Z4bVNSSGgyamFKd3VqWnVibzFVaG9zZEYtU1pkaUZYWk4yLUxfeGxhd3lTUQ?oc=5",
+      "published_at": "2026-11-24T07:55:31+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Cambridge Uni study says approved drugs might treat more cancers",
+      "publisher": "BBC",
+      "publisher_url": "http://news.bbc.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE82ZTdMZEtRQjRCbWEyQUlfMVFkUXZHOTJhM1BPd0F1Q1RpNXlLcm42WkRsNExsb2tIc1NjRWlUV25KUFVZSnlpTkJwZmxuWng0M0NuTWJyZmRFY1lMbHc?oc=5",
+      "published_at": "2026-11-24T06:30:37+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "Vapes seized in schools spiked with drugs, Met says",
+      "publisher": "BBC",
+      "publisher_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBUY1pfckRpc25FbENWYzQzcFMwdUlqbER5dWgwY2pVdUxtTk4yV3Nwek4wMUw0RVhpREhHWXVvdFdDTEc5OFByd3NKTTU4Y1hzbFVGR3FkY3BpQTA?oc=5",
+      "published_at": "2026-11-24T06:15:12+00:00",
+      "regions": [
+        "europa",
+        "global"
+      ]
+    },
     {
       "title": "CSS impone multas por $12.8 millones por incumplimientos en la entrega de medicamentos",
       "publisher": "La Prensa Panamá",

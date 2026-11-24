@@ -1,7 +1,7 @@
 {
   "date": "2026-11-24",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-24T06:06:00+00:00",
+  "checked_at": "2026-11-24T10:04:49+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -38,7 +38,7 @@
     "finance": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 1
     },
     "securities": {
       "ok": true,
@@ -82,6 +82,21 @@
     }
   },
   "items": [
+    {
+      "title": "El crédito que más crece en la banca va al sector que acaba de salir de la recesión",
+      "publisher": "Acento",
+      "publisher_url": "https://acento.com.do",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOT1Z0eEk2VWxTQm1FVXRyMTVQTHJQUHI0VGdBeDRyVTZMSS0wSDN3bFNsNm8zdWFrdGR0UzBxd2hURDh0c0ZQeFk5S3JOQUNfVlMySTA4c0pxSVlxTWFIMHk2UEZ5QlRTRmJiT2daT3NkQUk4aDhrMkQ5S0NHNUo4aXVER2FDWVY1X21yVmd2TDZXLU9va3dhSVFQZ3VoR0FWeVdUZmlaN0Q4aWt0anJ2QXhGRHNnSjM1bFRWWnNxdlZNdHNFM0HSAcYBQVVfeXFMTk9WdHhJNlVsU0JtRVV0cjE1UExyUFByNFRnQXg0clU2TEktMEgzd2xTbDZvM3Vha3RkdFMwcXdoVEQ4dHNGUHhZOUtyTkFDX1ZTMkkwOHNKcUlZcU1hSDB5NlBGeUJUU0ZiYk9nWk9zZEFJOGg4azJEOUtDRzVKOGl1REdhQ1lWNV9tclZndkw2Vy1Pb2t3YUlRUGd1aEdBVnlXVGZpWjdEOGlrdGpydkF4RkRzZ0ozNWxUVlpzcXZWTXRzRTNB?oc=5",
+      "published_at": "2026-11-24T07:00:29+00:00",
+      "topics": [
+        "finance"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "finance"
+      ]
+    },
     {
       "title": "Vice abordará los retos economía del Cibao ante la Amchamdr",
       "publisher": "El Caribe",
