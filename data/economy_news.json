@@ -1,7 +1,7 @@
 {
-  "date": "2026-11-23",
+  "date": "2026-11-24",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-23T22:05:16+00:00",
+  "checked_at": "2026-11-24T06:06:00+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -23,22 +23,22 @@
     "bcrd": {
       "ok": true,
       "error": null,
-      "count": 2
+      "count": 1
     },
     "fiscal": {
       "ok": true,
       "error": null,
-      "count": 4
+      "count": 0
     },
     "dgii": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 0
     },
     "finance": {
       "ok": true,
       "error": null,
-      "count": 3
+      "count": 0
     },
     "securities": {
       "ok": true,
@@ -48,7 +48,7 @@
     "economy": {
       "ok": true,
       "error": null,
-      "count": 5
+      "count": 1
     },
     "economist_andy": {
       "ok": true,
@@ -63,7 +63,7 @@
     "economist_juan_ariel": {
       "ok": true,
       "error": null,
-      "count": 2
+      "count": 1
     },
     "economist_raul": {
       "ok": true,
@@ -83,164 +83,20 @@
   },
   "items": [
     {
-      "title": "FMI reconoce recuperación económica de RD, pero alerta sobre deterioro fiscal",
-      "publisher": "El Dia.com.do",
-      "publisher_url": "https://eldia.com.do",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUjZfb0VUdnNrZG52WmxSQXM2Wi03blJCLUJCd293eTVFb1hRYUtkTDFnNjY5QURGNnV6WFU5czBQTVpEWDktT2pzNzY0TXJZUlpZSDhXREpSbzVjOGptMGxjTWUyVFd2blZNZDJCUHh0Y1lPOHpVRVJOYXBtUFVwRXQyZ3dNVmZUeWZpTDZNa05jWVNDLWFKUTQwQUZmOFU?oc=5",
-      "published_at": "2026-11-23T18:39:36+00:00",
-      "topics": [
-        "economy"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "economy"
-      ]
-    },
-    {
-      "title": "El FMI valida la ruta del Banco Central; las tareas pendientes están en otras instituciones del Estado",
-      "publisher": "Acento",
-      "publisher_url": "https://acento.com.do",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQeDVpMUhfU1lNeHU5M29Nb3phb3Y0OUo0S193Q1VWOG05bjc4OE00OGt5ZDBNT1VRb2psMXdwbm9OVTNENnJaT0tzUFcwZm5ENHZfeVQ5QVVsSjBoaFVYNUNRMHlIX2lNQXhLcTNVWnRSUXBGSHlFUXZocHQ0TWJESlpXWWNHSG5ybm9JajF5b2c0a3h4bXF1YjVJeEpGZXNaM3AxZVhuUkpHbUcyc1V4VWxNQldkVmhNV2NWVlQ1eUpWdUJ4VEd5OGRyZ0EyUldZdlJlUEI4T1dYbmJ0bFHSAd4BQVVfeXFMUHg1aTFIX1NZTXh1OTNvTW96YW92NDlKNEtfd0NVVjhtOW43ODhNNDhreWQwTU9VUW9qbDF3cG5vTlUzRDZyWk9Lc1BXMGZuRDR2X3lUOUFVbEowaGhVWDVDUTB5SF9pTUF4S3EzVVp0UlFwRkh5RVF2aHB0NE1iREpaV1ljR0hucm5vSWoxeW9nNGt4eG1xdWI1SXhKRmVzWjNwMWVYblJKR21HMnNVeFVsTUJXZFZoTVdjVlZUNXlKVnVCeFRHeThkcmdBMlJXWXZSZVBCOE9XWG5idGxR?oc=5",
-      "published_at": "2026-11-23T18:00:28+00:00",
+      "title": "Vice abordará los retos economía del Cibao ante la Amchamdr",
+      "publisher": "El Caribe",
+      "publisher_url": "https://www.elcaribe.com.do",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNclo1VkREMGFLNzRCR001S3F6TTh0OHhNN2o2bXBKNzVJaGJ6RjVKbFNwbXpUcW5ETHAwZEJ0QzdrbDQ2TEtzR3Z1QUhMSThCeGRETGw3TGZuYkJwRlpTN1VkZ2hSMGprZ0w5bU5ZU3BtWnlGMHBjYnBJV1huR0EwbER5cjF4aUd1LTYxb041VFpyZ0gzYjJVTUFla2lGSW05b0tPcTljamN5UGJqczBv?oc=5",
+      "published_at": "2026-11-24T05:17:04+00:00",
       "topics": [
         "bcrd",
-        "finance",
-        "fiscal"
+        "economy"
       ],
       "economists": [],
       "economist_match": null,
       "searches": [
         "bcrd",
-        "finance",
-        "fiscal"
-      ]
-    },
-    {
-      "title": "El FMI reconoce desempeño de RD, pero insta a reducir subsidios y cumplir con regla fiscal en 2027",
-      "publisher": "Diario Libre",
-      "publisher_url": "https://www.diariolibre.com",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUWE3UkRqZUkxQ1Y2M2xxMm8ycFpSQmFCUm12R1VKWHdDU1JLbTRoaUZzSDJPNEFwTEtOcEgtbFlrdXRkQUVlblVMVnl2NTBXdS13SW1HTWV1OGtmc2ZCS3F0SjM3M21HUmMyZGE3MGhHdzhuMnpkSkFxV0VWbjJncmx0UzhVdm1UN0JhWXUyZjcwcGIzNmdyb2NYLXhsMkxEQThJWUZ0QVZWWkFaNnFlVFJjcm8xY1Z3WnlMbDFMeWNZZlNNSm5RcEVSLWPSAdIBQVVfeXFMTWhyTzVZRFBiZFpESTVrNXJSVWYwNUh0TDNwakFDWThoVVRnYnZBNm1OR2M4MUVYRDhQZk8yVmZ0S19uTlZOekNoRW1zN2F4S21WSVBoVVU2QTRXMVR4TTFZMUdNajZ5dnl5aG5PLW4wR2NmbE9KczVveFZxMXJfbkt6S3FmWXlaQjdKZ2JOQVdaWDdIVWRxWmRYS2ItX0M1cDFTR0JqVHBJUnN3d2FXaS12ZkNMWG9FdWhadzR0aEM1SWFjVWNqMUlpTlk0WXNqNWpB?oc=5",
-      "published_at": "2026-11-23T17:34:00+00:00",
-      "topics": [
-        "bcrd",
-        "economy",
-        "fiscal"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "bcrd",
-        "economy",
-        "fiscal"
-      ]
-    },
-    {
-      "title": "FMI pide reducir subsidios a combustibles y electricidad para aliviar presión fiscal en República Dominicana",
-      "publisher": "Acento",
-      "publisher_url": "https://acento.com.do",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPWml4eFIyZlRKdTI2ajh0UkVPZEVPNTBvbHJ2Uk9YV0FZMExQN2x3YjNUbHhZSUFjVEt4SFNMNWM2TVJ3eVdESGNNOUpQQl9HTzE5Rk9YREJBYUpxQ21ZeW1IWmJHTmo3ZS1EVm9ZYTgweHBmbnNyWEpMVWhIWEk5Sm1rSkhvNU1XQ2dFZUM2M3Bldm9zYkJ4ZnFqbUw1MFRkNjRNV2FqVDc0RzhhT1JuMnNrSVVzc2dYdDZUTzBzMXBEdVZ2a2JYVWFjaG9fb1hVZjA3cmNjejUxb2gzRHdtaWdGSHFZN3fSAecBQVVfeXFMT1ppeHhSMmZUSnUyNmo4dFJFT2RFTzUwb2xydlJPWFdBWTBMUDdsd2IzVGx4WUlBY1RLeEhTTDVjNk1Sd3lXREhjTTlKUEJfR08xOUZPWERCQWFKcUNtWXltSFpiR05qN2UtRFZvWWE4MHhwZm5zclhKTFVoSFhJOUpta0pIbzVNV0NnRWVDNjNwZXZvc2JCeGZxam1MNTBUZDY0TVdhalQ3NEc4YU9SbjJza0lVc3NnWHQ2VE8wczFwRHVWdmtiWFVhY2hvX29YVWYwN3JjY3o1MW9oM0R3bWlnRkhxWTd3?oc=5",
-      "published_at": "2026-11-23T17:00:05+00:00",
-      "topics": [
-        "economy",
-        "fiscal"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "economy",
-        "fiscal"
-      ]
-    },
-    {
-      "title": "FMI urge a RD eliminar subsidios generalizados a combustibles para frenar presión fiscal y deuda",
-      "publisher": "Periódico elDinero",
-      "publisher_url": "https://eldinero.com.do",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbmJVVm8xa3RzVXprLTFIa1dPdlRMbVBRVE5mRDBzazJ2V1ZlR1VnVVdXWHEzVlFnREV1NDJ2TUpCN1J6ZzVNc1NtcXFTSTRiSlBkLWdMSXJDaVNZM0NYTmM2ajAwSDZFM2pCYmR6ZDd0VVdJLWhOd0VmX0tpc3Fnbk1ISi04YUtMNjJrU2g1cmZnY2MzeWU0ZERhQmxQVmJYemMyQjg5ZUtaQkhacVVwTWZ3RWl0cDdGZEdhMDhRRUhtYmhkSUxz?oc=5",
-      "published_at": "2026-11-23T16:32:50+00:00",
-      "topics": [
-        "fiscal"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "fiscal"
-      ]
-    },
-    {
-      "title": "Comprar GTA 6 requiere 30.7 horas de trabajo con salario mínimo en República Dominicana",
-      "publisher": "Acento",
-      "publisher_url": "https://acento.com.do",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSmRLZDRCd2ZJTTFtQjlYU3NXNTc4YXVyWXZPem11by1GeEJSN2pyM0dHcU5KVVh2S2pSSk9Tb2JGQkJCMEViLVBzcHg5Tlo1V0dJXzNaWkhTa0p6REUtQ3NMUUZuV0pyVUtaQmJ0T3piT1E3SVRkSVlBcTBTTURKNjhpT05YVDYycDM5UTNpbUpJZGh2UkVPZVVUVzVrekYwdmRQV1NKU1QzQ2ZqZUc0aGI5aHRGLWlybnRsQUhsY1RtTTlYV2ZndVhlc9IBywFBVV95cUxPSmRLZDRCd2ZJTTFtQjlYU3NXNTc4YXVyWXZPem11by1GeEJSN2pyM0dHcU5KVVh2S2pSSk9Tb2JGQkJCMEViLVBzcHg5Tlo1V0dJXzNaWkhTa0p6REUtQ3NMUUZuV0pyVUtaQmJ0T3piT1E3SVRkSVlBcTBTTURKNjhpT05YVDYycDM5UTNpbUpJZGh2UkVPZVVUVzVrekYwdmRQV1NKU1QzQ2ZqZUc0aGI5aHRGLWlybnRsQUhsY1RtTTlYV2ZndVhlcw?oc=5",
-      "published_at": "2026-11-23T15:27:46+00:00",
-      "topics": [
         "economy"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "economy"
-      ]
-    },
-    {
-      "title": "Regulación financiera internacional y sus aristas para garantizar la solidez de sistemas financieros diversos",
-      "publisher": "El Dia.com.do",
-      "publisher_url": "https://eldia.com.do",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQWE5ZkJFa2JaTnF4Wl9JNURoY1BxanNBOWNwa290Qkc4TE9TVnBWWllScTlQZDBoc200WHJwRlktQ2cyOUwzNVF2b2c2Nk1pa0tNMGN2SzVBUkV2dTBLbnRjRkpOUjZydVQxTG1sdVN6eWlleTg1WnZQWG12M1pKZkhKQlZMMlI2d1ZXeVVCLVFyVGNiZGZEeEhTbWNDVURjeGEzWUVscDVxcUhQc1c1UWx5ZnVuTExySEdQSEhOUDJPRm5nZXJpdGI4Yw?oc=5",
-      "published_at": "2026-11-23T11:00:00+00:00",
-      "topics": [
-        "finance"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "finance"
-      ]
-    },
-    {
-      "title": "Chiqui Vicioso: “Esta novela es un tributo a los tabaqueros y la ciudad de Santiago”",
-      "publisher": "Diario Libre",
-      "publisher_url": "https://www.diariolibre.com",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZGVwU3dLSFhyU0hkUFM0aF8wSmx6eEhrckVIWkZnRjcwdXpXR3dCdnRrVlVwVTNTOXEwZllOMlFhaThiYVBRZmRQZjA3YjZKYWx5Qm50SE1nLXNmUUliOVNfLUkyTUg2dDVKRlp3TE9TTWJMc1VtT1IycUdhN3lnREtQNV9VeFIzbVI5SHl5NGVsSEhBWjA0RzVtYXN4Z3haQVVXeUhZRHpJa2N6aks2V21hVnBqemlQeHNfMUhLU3NZTXotSTBF0gHMAUFVX3lxTFBsOFBMVTdOUVRxU1UySWszc2lWTnhQVkdlMXoxd2hiR2J0SENNc19QcXNJMVh3akhNS2ctMWRiWjhBc2kwMzdiamo2ODNlVnNYZGZoREtxOFZiMGFfN3hvckZKNzBlbENYTVRDdllsWTJIZmR3dDJQd2RPZjBTdmdaa3FBQnhtaThVcXdUYVl1bVNUbVZfdUtOakFLay15THhudTJ6bkNmWjhyNGJ5Tjg4T3hpRjFnM2lteDBqcnFrLWd2OVdwWXlhRHlHVg?oc=5",
-      "published_at": "2026-11-23T04:01:00+00:00",
-      "topics": [
-        "dgii",
-        "economy"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "economy"
-      ]
-    },
-    {
-      "title": "Este 30 de noviembre la DGII decidirá quiénes deben aplicar la facturación electrónica",
-      "publisher": "Listín Diario",
-      "publisher_url": "https://listindiario.com",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPME1HNmRnTGZpdk5ZcE9mMWx4T25SZU8tdnV4RUl0QU5Ja2pzUzNrXzhFUnNkU3VPN2h1TkVNV1JPdTNKbUtlWHE0aDgwWkZ3VTZZUFZKSHVyWEJlMEJEdXJEM3N1OVBnX2tsZUNkY0ZRMFljdU5DSnJ2STlDWl9zX3NQQmdiVWtXWDlEek11Y19XT1ByS3JOZkVoanBnVzBycnRYRFFGNmpBM3dqZ1ZHeHdudUZDU29KTHdaWG5CdkVKbEZqWmfSAcsBQVVfeXFMTldZLUlqU0JnUHhLcVMwTDlKczYyZE5TaGhnRWI1Z1RvMzRubUFLUlFzdjlmbW8xSWlFazlDZnpFcUNsRFVsRk96c0Y3cVZmUlJOT3BlWEZfb3hNb25LUFhpMzBmbE9iT04wa0JhTUItZlVGMm02LURfdDZ3Yzgta2ZtX09pbXRBSVlIcDdRZWxoV1JvSlhiT1FCRHd5QkNUYnhtUHk0Y1lqcmRLOEpBdFl2T09HZHVuNXotVk9zLVY5SmR0cXlGdExHVms?oc=5",
-      "published_at": "2026-11-23T04:00:00+00:00",
-      "topics": [
-        "dgii"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "dgii"
-      ]
-    },
-    {
-      "title": "Banco Popular premia 11 emprendimientos",
-      "publisher": "Hoy Digital",
-      "publisher_url": "https://hoy.com.do",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcFR2VFhhOVJqWlFhNVh1TzBpeWZfOGU5M09ZQ2NRUkFpNXp1Zk8ySjJRUkNqd1gzaUd4MndfOHlnSi11WkxTR3ZpR1I5OGthT3JrbkpQdTNleDVhVEpXWnlqT21IOFFYS0d4SllseENQZ2h3cnM1MlduTXJIZnpIeVZoXzF0bHhiaXMzYtIBjAFBVV95cUxQcFR2VFhhOVJqWlFhNVh1TzBpeWZfOGU5M09ZQ2NRUkFpNXp1Zk8ySjJRUkNqd1gzaUd4MndfOHlnSi11WkxTR3ZpR1I5OGthT3JrbkpQdTNleDVhVEpXWnlqT21IOFFYS0d4SllseENQZ2h3cnM1MlduTXJIZnpIeVZoXzF0bHhiaXMzYg?oc=5",
-      "published_at": "2026-11-23T04:00:00+00:00",
-      "topics": [
-        "finance"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "finance"
       ]
     },
     {
@@ -430,44 +286,6 @@
       "economist_match": "search",
       "searches": [
         "economist_andy"
-      ]
-    },
-    {
-      "title": "Juan Ariel Jiménez advierte que crecimiento económico no llega al bolsillo de los dominicanos",
-      "publisher": "El Nuevo Diario",
-      "publisher_url": "https://elnuevodiario.com.do",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMWN3eklYR1RiNXN2ZjlNNC0wSVBkOW9BbmVKV3N0ZkRuUGZEQ1h6d1NVSUdsSG1raXFMVlhxdEI2bklBeEl3cVBiZFZPNzl1ckRXSThycm1CNkNpVFhhMXpHYVhvV1FWLXRVbHAyODBjTnNtVWRXb09WMFVMYVFsbzhGUWJ4d0lYbDZDUDg0dml6elUzaVo3S3pjWXZBeGVINkttQlROQ18tS0IyM3RsQ3M5N1QxNDJDQXpZNTg4c1U?oc=5",
-      "published_at": "2026-11-18T02:11:13+00:00",
-      "topics": [
-        "opinion"
-      ],
-      "economists": [
-        "juan_ariel"
-      ],
-      "economist_match": "headline",
-      "searches": [
-        "economist_juan_ariel"
-      ]
-    },
-    {
-      "title": "Presidenta de la APB destaca interés del sector financiero en agenda del Foro Económico del Dinero",
-      "publisher": "Periódico elDinero",
-      "publisher_url": "https://eldinero.com.do",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQkdkNk80VjdzQ3hGUVM4S0FyWUQ0OE05LU5qczRIWWJNSlJ4NGFOQ0JMZi1icnA1Z0Z3OFVYOG1jc3J1eDM2TzJDSE9mc3ZxeUJRb29XQy1jZzNCSGxuSFY3WnM3bXR5VzJPcW1LTTYyYmRMRHJPM1hXUnBaekw5MHlmSVAyUmxHOUxSWFcyNl9EUXhWLUl3dHJWYkd0anNVZFNJcDJYTW5tZDE3ZWFpak5DY3ZON2t2bXZaZnM3T1g1SjAxemdpbnRn?oc=5",
-      "published_at": "2026-11-17T20:27:10+00:00",
-      "topics": [
-        "finance",
-        "opinion",
-        "securities"
-      ],
-      "economists": [
-        "andy"
-      ],
-      "economist_match": "search",
-      "searches": [
-        "economist_andy",
-        "finance",
-        "securities"
       ]
     }
   ],
