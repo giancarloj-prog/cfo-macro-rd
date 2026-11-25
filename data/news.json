@@ -1,7 +1,7 @@
 {
   "date": "2026-11-25",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-25T04:14:17+00:00",
+  "checked_at": "2026-11-25T08:49:20+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -29,20 +29,53 @@
     "usa": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 1
     },
     "europa": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 3
     },
     "global": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 2
     }
   },
   "items": [
+    {
+      "title": "GSK says asthma drug comparable to its own approved treatment for rare immune disorder",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZ094ZFBuRWRSQjBEajdkamxkV3RXaWI3d0pGVENhcDhKUHhMSm9FcVQ1UXhqT1hQUnd3ZUpBUGVTNzdHYmJMc05JLU5DSVQ0QnNfWWJ2VDFwZnFpdmhmeklGT2tidEdFVGRLUnlYMnc2VndhLWlSdmo1NTRLUDBXQWVRTmJCNldqWjcxVHN6RXo2QTlVVzBjemFoNU5ETmcyWGdvWmZ6MGJKSERfMkQ5MVlDSl9HU2I5amhhX0NqeHdJdEZiTUI0cDRPZjVjNjBWeFQ3X01IYV9jczNMQzZCOEVSVVhvUQ?oc=5",
+      "published_at": "2026-11-25T08:13:30+00:00",
+      "regions": [
+        "europa",
+        "usa"
+      ]
+    },
+    {
+      "title": "How Sanofi’s $41bn megadeal challenges pharma’s M&A curse",
+      "publisher": "Financial Times",
+      "publisher_url": "https://www.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQ3lkbVA4QjBBT0RvbTAzRUZnOXp5UHotVkhVcXo3RldNVXYybTQ3STR2Q0laeS05cnJFUzRVR1hfazdzYkxCbFhEcmxEVUFXUThuT1N3THdMR29hdTdidzUwM2xGa2ozTmVsYnpERzFPb1A0RkxKSnZ4ZGY4X2NvNDdZeHo?oc=5",
+      "published_at": "2026-11-25T05:01:50+00:00",
+      "regions": [
+        "europa",
+        "global"
+      ]
+    },
+    {
+      "title": "AI is not the cure-all for drug development",
+      "publisher": "Financial Times",
+      "publisher_url": "https://www.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5pbnRveWRjV1k0c3Q3dG9UUFhoMG1KQ0hKQkIwS0VIbENfbXEwTEZBSXJEVHRfMm5tRDh6RkZ0TmYyWTdPUXl0WHJ5YjA4VW01cUc5Qm1WTVZTV0hWcTk4akRQTEJiTGhUVzg2Z0dPdnE?oc=5",
+      "published_at": "2026-11-25T05:01:50+00:00",
+      "regions": [
+        "europa",
+        "global"
+      ]
+    },
     {
       "title": "Farmacia Carol anuncia su feria “Glow Season”",
       "publisher": "El Dia.com.do",

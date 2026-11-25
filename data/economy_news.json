@@ -1,7 +1,7 @@
 {
   "date": "2026-11-25",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-25T04:14:16+00:00",
+  "checked_at": "2026-11-25T08:49:19+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -23,12 +23,12 @@
     "bcrd": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 2
     },
     "fiscal": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 1
     },
     "dgii": {
       "ok": true,
@@ -38,7 +38,7 @@
     "finance": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 1
     },
     "securities": {
       "ok": true,
@@ -83,8 +83,27 @@
   },
   "items": [
     {
+      "title": "El FMI le enmienda la plana al Gobierno en lo fiscal",
+      "publisher": "Acento",
+      "publisher_url": "https://acento.com.do",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbVVxWVBkUmFORDQ0NEw2Qnp1b2sxeXlHS2ctYThZVDVETlc2Zm5zcDJIa3c0VDhJUmpwa2R1Rk8xSDBKYm1jOHdmNVRxZm9KWlJlNWdENzdRalFBV0ZaOFJTUHJYRFV4WUIxTi14aHVpUjJ6TGc3NUk3WFFFSjRhLThvTzV2Q1BzUGl6MzZvQURlRjM1aFcycnpIOVXSAZwBQVVfeXFMT21VcVlQZFJhTkQ0NDRMNkJ6dW9rMXl5R0tnLWE4WVQ1RE5XNmZuc3AySGt3NFQ4SVJqcGtkdUZPMUgwSmJtYzh3ZjVUcWZvSlpSZTVnRDc3UWpRQVdGWjhSU1ByWERVeFlCMU4teGh1aVIyekxnNzVJN1hRRUo0YS04b081dkNQc1BpejM2b0FEZUYzNWhXMnJ6SDlV?oc=5",
+      "published_at": "2026-11-25T07:00:35+00:00",
+      "topics": [
+        "bcrd",
+        "finance",
+        "fiscal"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "bcrd",
+        "finance",
+        "fiscal"
+      ]
+    },
+    {
       "title": "Remesas acumulan US$29,514.4 MM desde el año 2024 el caribe",
-      "publisher": "www.elcaribe.com.do",
+      "publisher": "El Caribe",
       "publisher_url": "https://www.elcaribe.com.do",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQ01MOWRGMXUwRGktZHVieG1TTGZxeUV5Y0FIdUNNOVhJNTljc0kzRTNWZkd1VVIxamhoUFBtT3NTM2FsTmxsTGUySjNMeW1lWkxud0ljb3hoeXhrcDlsMTRvRk1PZU1xQ05GbEdkaEVJQVZpR1RFZS1BM2ZjMzlYQ2RCb0hKbXhrRnU1NWZIYW1iUVJVdFcyYzRScVdHMnktaHBDag?oc=5",
       "published_at": "2026-11-25T04:00:00+00:00",
