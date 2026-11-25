@@ -1,7 +1,7 @@
 {
-  "date": "2026-11-24",
+  "date": "2026-11-25",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-24T20:41:37+00:00",
+  "checked_at": "2026-11-25T04:14:17+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -19,389 +19,38 @@
     "centroamerica": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 0
     },
     "mexico": {
       "ok": true,
       "error": null,
-      "count": 3
+      "count": 0
     },
     "usa": {
       "ok": true,
       "error": null,
-      "count": 17
+      "count": 0
     },
     "europa": {
       "ok": true,
       "error": null,
-      "count": 15
+      "count": 0
     },
     "global": {
       "ok": true,
       "error": null,
-      "count": 20
+      "count": 0
     }
   },
   "items": [
     {
-      "title": "Roche expects approved cancer pill to become its best-selling drug",
-      "publisher": "Reuters",
-      "publisher_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQ0ZIVTBMSV9JZVhObUNuZ09CNXMwd0lHb083NUNCRmNzdWtDcTRTUVlsZjhLbUZPMm1KR0FQN0VoRW1MQUtWcUxEWllKeWU1TDdaNmlsdk95UE9oUGxOdEU0TXFpSmdXWGxuRHhOSVNidzVJbnNkNFRzTzBBblRqdkh0WU5Ra1kxa3dQRUdjMlZxWU1mVloyZnUyQ1FQLWlyNDZCeThPUk1oTER2dEtfd3RjYmhvRVk?oc=5",
-      "published_at": "2026-11-24T19:17:27+00:00",
-      "regions": [
-        "europa",
-        "global",
-        "usa"
-      ]
-    },
-    {
-      "title": "OMS destina dos millones de dólares a Cuba para vacunas y equipos médicos",
-      "publisher": "El Nuevo Diario",
-      "publisher_url": "https://elnuevodiario.com.do",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObi1oMDloRjR4TXBoM0tlZDR1Q3B4eXJsR1R6RGNUeDFvRWdoWnJGU1dQcUJCUWlyb3YzZlhUVGxySmhOak0xdmR5OWZGTlZUdWllQ3BPNUxTc1BZbExWTEczWWFteWZWS0t1SmY4N0Frem1taUw3eFBXS3BOSUhqWGpfTkE0WmxWdkl0d1ZUZ1VnT3VLWUM4SVZDd2ktYlNGc3ptNW1R?oc=5",
-      "published_at": "2026-11-24T18:53:48+00:00",
+      "title": "Farmacia Carol anuncia su feria “Glow Season”",
+      "publisher": "El Dia.com.do",
+      "publisher_url": "https://eldia.com.do",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAtc2VwVjVQdmdEVHpBanJ4bGZId2pRbWpubGw3LTQ2NzZHbjM4Si1pSzFELU9vZ0Y0R1d6eURFZHBINVZuRE5xM2dpUjBna3ctcFZMdWdHVlFRN0ViVnJycXdXNHZWNXZiU09BaGxtU3VUVlk?oc=5",
+      "published_at": "2026-11-25T04:02:00+00:00",
       "regions": [
         "rd"
-      ]
-    },
-    {
-      "title": "Mexico Captures Top Drug Boss in Fierce Gunfight",
-      "publisher": "WSJ",
-      "publisher_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOXzBacVJ3Qzh2a21SQlRxaGE3VVdNb085VU55UGVjbXlwNW5qZzN0UE1nV3BMeEx3NUxxUWk4d2hZTno5T2lPRlFXV3Y3Mm1mWlJSNUpvR0VoZjZGODZkdXJmZWVZR29FQjdkT0ZGaTU0ajlSWTFNQ1l5Zm9UWDhNZk1JUUZIcHk0VmtLZjdKTmhYSWhadEVF?oc=5",
-      "published_at": "2026-11-24T18:29:55+00:00",
-      "regions": [
-        "global"
-      ]
-    },
-    {
-      "title": "In Court | Stockport Drug and Rape: 'It's too risky'",
-      "publisher": "BBC",
-      "publisher_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB2U3hOUXdJRUx3OEpxdDMwYVJJMm9EQlFSV0JYSExFVHJvQWc2REcxaU9iOFNSV213OUxVWi1WTUNxNGVFSUlqcDloYkxCUmNl?oc=5",
-      "published_at": "2026-11-24T17:33:04+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "FDA clears Roche’s oral SERD as treatment in early-stage breast cancer",
-      "publisher": "BioPharma Dive",
-      "publisher_url": "https://www.biopharmadive.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNWF5QzBWSTlEbjduV3ctTFFpMHUwcWI5Nzl2bWFtbkFrYTctdUxYeUV3VTlyWGFfTDFxUUd3SnBxV3VRQlRSUGZwNlRJRXNPQUhGOGtKM2ZUXzE4aUJNdkZDVEQweTQ5MVItSFVmNmpEbzdoZWF5QTQwU0JwRlJKUXlFTVZJd2hadlZzUXI1MnBIQ05XQWUzMVo2ajRDZw?oc=5",
-      "published_at": "2026-11-24T17:30:42+00:00",
-      "regions": [
-        "global",
-        "usa"
-      ]
-    },
-    {
-      "title": "Stockport Drug and Rape: 'It's too risky'",
-      "publisher": "BBC",
-      "publisher_url": "https://www.bbc.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1qU1ZUam1NWjU3c1VzaVNwMjdSZ25SajZZcVVFUUU2TGI2R0hKZGFvcE5UVzZRWWR2VUVISm1EOEdGdHhUT2V5Y1pvUzF6dHFKdE40aA?oc=5",
-      "published_at": "2026-11-24T17:17:21+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "Sanofi, with $41B Insmed buy, inks year’s biggest biopharma acquisition",
-      "publisher": "BioPharma Dive",
-      "publisher_url": "https://www.biopharmadive.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaXFIbFVLMUs0dllpWkEtUGhDdWc4ekFjdFg3eVdPOXdyLWpNM1FOcm4tQkgzXzlTVWcxRTYtRjI4NGdOOUk3US1Ndjhtdk50ZUc0QzBlR3ZyQ2w1Sk9EM3g1ZFM5Wll6UXd0WU83VE81dDQ2eDhFdjN4eGdSX080RWVpcDhlT2lWU1lTUzIxTVlia2NJM3Q0MzBzUzNidw?oc=5",
-      "published_at": "2026-11-24T17:05:33+00:00",
-      "regions": [
-        "global",
-        "usa"
-      ]
-    },
-    {
-      "title": "FDA approves BridgeBio muscular dystrophy drug",
-      "publisher": "BioPharma Dive",
-      "publisher_url": "https://www.biopharmadive.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQzFIRXZSMmktMWxmYUQ2ektJenlzQWd1ZkFMdFdJblIyMXVPYzNxbS1nVUVKbDFXTUxrVjNzSG0xT0tjVk9RTi1Fa2xHS29EYWZmUU1TVHN2X01tOXVCSFdneThNRl9nUEFxX1E1dnIxRzNuOXB4RDBtRXBsUmdDQ3o2WEh3RFY3dVplc0NwbFhMUnFoaG5seVg5MWRHdE1kWVZEcQ?oc=5",
-      "published_at": "2026-11-24T17:00:34+00:00",
-      "regions": [
-        "global",
-        "usa"
-      ]
-    },
-    {
-      "title": "The Biotech Growth Trust PLC - Sanofi SA to acquire BIOG portfolio company, Insmed Inc",
-      "publisher": "Financial Times",
-      "publisher_url": "https://markets.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVEdaWk03RlVGWktGcWt0SDEzMWRMRkpTVkNNcUNtenpHRlBOT1Zxa2FJSnA5T2UyOXFMUFlUWkZrQ19vajJjc0tPYmFSeklJdldQRnF4cEFtdE5xYmdoQy04bVlmSlN2b3BHZmMxbUlFT2N2bkRDNTQ2Ujd5MS1hdXdRRXdpNmJTZjRRYmxNNmVBY1Bw?oc=5",
-      "published_at": "2026-11-24T16:31:00+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "French pharma firm Sanofi bets $41 billion on Insmed's lung treatments",
-      "publisher": "Euronews.com",
-      "publisher_url": "https://www.euronews.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONVN6RURrWDBhZTU3UEFhM1pTekpGTVVZcFc0SUJpNkpLdnoxYlhneVVPSm1LVk9fUWx4ZEZJQTM0MXMzT3FOYlNqV1ZWNWppdzZHTks0MWhwR0JtZWkyd3EwUHFuWGZSR2hhTEg5Y2J2U3lwV21kb3o2d1ZqWE8yYnptVVBpaXNwdi1CdDN6T0ktdzlobHMySGQ3WWlHRm94elVfT2I2U3FYbjRG?oc=5",
-      "published_at": "2026-11-24T15:28:53+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "Proponen campañas de recaudación de medicamentos caducados para evitar venta ilegal en Puebla",
-      "publisher": "Milenio",
-      "publisher_url": "https://www.milenio.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWmJ1Y056RDdyYTRwZTA5c0FpOE92blhwVDBLLVI3R0dvNGJwdHYzRGdMLUMweGRvVWxBY2FranlaZWRvSFlaQVVJR2kyQUNxeU42UDIwcU9VdjVkSTZjN3IyY0UtZEptaXJCcXItX3Nwd3p5Y0ZfRmZsQTdZVlFvYUJldldNbHZYVnVqcmF5amc0R09XMGZ3UklaNzlXd9IBngFBVV95cUxObzB1dW5LeXYxQ0ctcDlSeEFXeFBCQWZvYzZfakJEekJZRDRpdXB1cHFfczRBZDZKTHdBa09OT00zdzd4QnpmSjNjRVpGQmxCRE1FekNRM0gyQVQ4YWN5bjFaTl9LWmFweVprRUFmZ1hkbDVDVEdlak11ZGpmbWEwbk44LUJidHlYdFoxSzhkRzdsVjlFVWtEWnlZa0p1UQ?oc=5",
-      "published_at": "2026-11-24T15:14:00+00:00",
-      "regions": [
-        "mexico"
-      ]
-    },
-    {
-      "title": "Bayer to withdraw kidney drug Kerendia from Germany",
-      "publisher": "Reuters",
-      "publisher_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeWpZZDVzYWlsQ3I4RW5RRDlEM2wzWHhodjNyNmNlR3N0SEpxbVFqbmx6WUpPZXRXc0RobTdxSkd4b0tXbUVYNnBVWXlUNVNqMU5rNGpSZ0FRMHk0SmxGSXBzeTJiWm1lTzhYV2R2SzVMeG1fU2ozMDlBQ1lFOFZvZk9kQndFOU9QNU1zMWVaNlB1TVJ6Qzllcy1pN2Y?oc=5",
-      "published_at": "2026-11-24T15:12:58+00:00",
-      "regions": [
-        "europa",
-        "global",
-        "usa"
-      ]
-    },
-    {
-      "title": "Roche prevé que pastilla contra el cáncer se convierta en su fármaco más vendido",
-      "publisher": "Forbes México",
-      "publisher_url": "https://forbes.com.mx",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNY0pUeThMckxRUHJBY1EyM1pJR3E5SWZFSXhVSUU3SkVqWWUzSXRTbklaSF9zdVAyNnJJcE9zZ01xdDVHc3dDMG15OWJSSURsY01tb1U0NjZXcENLWEJjeGFtX214aFZDcjVGZ1BuZjdsRlVhZF9WZ3BPb3VFcW94enBWTkp0VUpJMVRqMFpBU01FY3Q1bnd6WGJEUERwX0xuSkRTN0VB?oc=5",
-      "published_at": "2026-11-24T15:10:00+00:00",
-      "regions": [
-        "mexico"
-      ]
-    },
-    {
-      "title": "In a rare move, the FDA cites two drugmakers for failing to report clinical trial results to a database",
-      "publisher": "STAT",
-      "publisher_url": "https://www.statnews.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZ2ZSbWkzeVZ4dWR4Qm5xZk1JMUlYNlhDaXJjUWd3UFJYTFNSM0lHcTRIVFNWbi00aEtocWQ1eEhnT0ZnY2ZzQ19JcUVuS1BpTEkyYmlKN0ZoM0NqUkZfUG1wOVg0alREXy1qbDhPa0QzQ3FkYjQteGpNWVRTSEFjWWdrQ3ZzaG94RU9kZ2d0M0l5V1BiZXdacExad05SSWlsODJEYUZoSVVwcVFGZU1RaHZRZlJlOEU?oc=5",
-      "published_at": "2026-11-24T15:05:03+00:00",
-      "regions": [
-        "global",
-        "usa"
-      ]
-    },
-    {
-      "title": "Rinvoq secures FDA nod in vitiligo, portending market showdown with Incyte",
-      "publisher": "Fierce Pharma",
-      "publisher_url": "https://www.fiercepharma.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbXh5LUVfSVBCNUFFZmtSNHoydlpvem9IaGxQbW81cjNoV1dFaVVpRmMzU0VLVV9tTkYwRzE1bGctZGZsR2FDanIwOTJ3bzZTYjlqZTY4UHFOSE5ZNjV1Rm53cTZEY0o2UHlhYjk4SU9fNS1iNWh5cm5oanlDOWstcWdwTXl6VjZWeDdEVGpQSnEtamdEQVRKZEdn?oc=5",
-      "published_at": "2026-11-24T15:00:00+00:00",
-      "regions": [
-        "global",
-        "usa"
-      ]
-    },
-    {
-      "title": "Why Iran's medicine supply chain is seizing up",
-      "publisher": "DW.com",
-      "publisher_url": "https://www.dw.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNc19TVEgzbjVHMmd0Y2kyMzVISUpTZ3VxYXNyWFVnS3NZdkE4SGpHMDhVOHZvMy1wNVpWT1ZwQTg4b25nRDdoOFRUTUM4eVd5N1J0OXYzeFFGZDU1Z1lvaFhOcjEtVlJSNUhJeldXQ3c3eF9yR0UxNVdIQ1pOdGtLZU1WcETSAYQBQVVfeXFMTV95X2U3VGdBdXQyRFlBUlhKR0dqYmt4Q1BXMHBmU2VLcE5YSzg4NExLb0VuM3FuMjE0d2JJdTNjdjBfcElGaTFBYmN0bzVYRHZZTFc2Y2hVamJ3NncxY2xqeDdDRDVYb00wVWpsel9oRGZfeHNJNDV3bURxVVlTTGNjOEJ0?oc=5",
-      "published_at": "2026-11-24T14:39:22+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "Roche’s potential breast cancer blockbuster drug wins second FDA nod",
-      "publisher": "STAT",
-      "publisher_url": "https://www.statnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOGRxQ0Vna1VEcHdDblJLZWpzSzRUMGNvcTVNQ1FfYkJIR1o0eG9IaHVieFZINm9KZ3pQclNTbTNxdzZVNU9PZ0s4eG1oeWhkbVJMelhPYUN0ZktMR0xYTXlYQkkwVndrMkh2MWFCbTRvSFF0NFZsVXhRWjJvUEM2MFQyekd1RlRqZHBKaU9NMHlsVkhYXzFOSm9id09KemVsOF9lYUpOOGNHSm5fVGZ2OEJ5ZVhNajVB?oc=5",
-      "published_at": "2026-11-24T14:33:50+00:00",
-      "regions": [
-        "global",
-        "usa"
-      ]
-    },
-    {
-      "title": "Pharmalittle: We’re reading about Sanofi buying Insmed, Roche touting its breast cancer pill, and more",
-      "publisher": "STAT",
-      "publisher_url": "https://www.statnews.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPM1FMVjZHNFl5enJiMEVIUXhYZnNnTmxSOVd6eTI4aVFGZE9rQ2o1bHczMlVsSWhUdTlfV2FPNnJjc2hpbXFGcGV0NTZUcEI2MDhnMVY1blNHb1pJNC1sMkV2VU82RGZlZzVEcEZwYzRQNUNBSHRhXzk3dnQwMm9MRTJBOXQxZk5FckxoNmJRWUcyVE1STlNN?oc=5",
-      "published_at": "2026-11-24T14:30:21+00:00",
-      "regions": [
-        "global",
-        "usa"
-      ]
-    },
-    {
-      "title": "The Biotech Growth Trust PLC - Net Asset Value(s) – Company Announcement",
-      "publisher": "Financial Times",
-      "publisher_url": "https://markets.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdzdJcVF6TFFtSXF4UzhTYTBoQlZoOEFLSExWSHJvT3VhWGdrQ1lscUFTQklhWnZEM04tTS1oM3R6T2xNbV9wV3VWTUZYaGlzTTl2dGtQZTlEX0RSSWVUUk1VeEg0bnVjNllIZW5GNHV3TE9wcFd6NlZxY25PcWdjaUQwYTF2WmlxTVRnb3J4MjllTWIt?oc=5",
-      "published_at": "2026-11-24T14:19:00+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "Marksans Pharma flagged for 6 observations in wake of FDA inspection",
-      "publisher": "Fierce Pharma",
-      "publisher_url": "https://www.fiercepharma.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZy16emVfeU1MeWxnZ3ZfY2hUM2dnYXFnVXZkMUplRmV6eHdZdFloWVJ2ZG9saWZJWUl5X1NUUjVjNVZIOC1Od3RORlJqX2xkcnF1cjkzcHNlLXdmX0Z5RGtReU1hbFk5Qm1vTVJxZUZhZS1reG5UbF9HV0hULUJwQXR2ZVd1eHIxSTJlaXBUQTIweTNLdjEydXV6VlBvY1RMcHhkQ1l3?oc=5",
-      "published_at": "2026-11-24T13:30:00+00:00",
-      "regions": [
-        "global",
-        "usa"
-      ]
-    },
-    {
-      "title": "Global vaccine group aims to buy 1.5 million doses of new Ebola Bundibugyo shot for Congo",
-      "publisher": "Reuters",
-      "publisher_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQTi1aWEc4NWZDc1BNNzZNM3ZQbXh1ZlJYVXRsUEpRby1YWDJNZFBib0RMRjM4WWVnT3RFNUxqX2NZWDBjcHYzdHFaQ3ZOajd0MFlPMkdPQWtWbjRjQ0lMVzlUNmxvMk94dTQzbzhqN0FvTkJpcXZiOXZ1UlFCdUhKU2x3RTFtRnlpSlZaTi12Um5oS0t4V2V4eEFUNWFubmVHTWQ5RXpITDgtRUI2U0JfNWlNck8yOXZSVjNNam5PUHMwRC1ZVER0aFM2Zm95WllUdElxaVIwcnA3Q2RMbEtBRDhQYzU?oc=5",
-      "published_at": "2026-11-24T13:03:51+00:00",
-      "regions": [
-        "global",
-        "usa"
-      ]
-    },
-    {
-      "title": "FDA approves first limb-girdle muscular dystrophy drug",
-      "publisher": "pharmaphorum",
-      "publisher_url": "https://pharmaphorum.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTmc2YWQ1S090NkpaQTdFa0FZclBPVnp4V3FOLVYtZGt3VV9BUVhyaEFUcUtZQjk5U2NTVk5ZNy01U19pVVJLLXBQeGhOVjhUMmw5R2RDWU1tSzBrMGc1Tk81UExTNGdaZ3JlNWJhOHBfVEJvZ3NBMzFQZVk1aXVFMVRfbDAtM1duVDNLSQ?oc=5",
-      "published_at": "2026-11-24T12:11:44+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "Cupón Farmacias del Ahorro: hasta 70% en Noviembre 2026",
-      "publisher": "El Universal",
-      "publisher_url": "https://www.eluniversal.com.mx",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVnI0QTNHaVkxbzBYemh6MWZfVjFvT2prNlU0SS1VVE54UHpiU196eTlBVS1zWk0wM3FNbXhrSWlxLXZLZkVjejZ0allBM2w4SFBlSE9BVEJybUVoYWdtRXJsMFlKYi1VNWtaY3gyVUVJQ0w2cmZIc21fRmxPOTBpRUJB?oc=5",
-      "published_at": "2026-11-24T11:28:15+00:00",
-      "regions": [
-        "mexico"
-      ]
-    },
-    {
-      "title": "Drugmaker Insmed shares rally 14% after Sanofi agrees to buy it in pharma’s biggest deal in three years",
-      "publisher": "CNBC",
-      "publisher_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5mSVdLNmxnYXl4a2VvR1BfV202ZXZBckFZWVI5WWtGNkFxQ3d0NDRLd0JNdjJUMWJQVzV4NVNGVWNhZ0I2Rml2NWZXTlNFcDhfaE9kUnVpZkxWWEh1RDk5YV9fTWhqcUZyUzVjLWo5ZnlKN0pkM3Rr0gF8QVVfeXFMT2ZKcnhlaEFlTUtDQ3NnYnlrd1g3d3dZTms3YnM4Yk40ZlJ1eG10N3MzSFZiVUFCQ3lkQUtSYzBNTUx0dks4SkF6azhjaVFpb3p2UTFxYnV4d1RNZFJDZ2hxV1hOTHlSMHNPeHNBQTEyVnBsRnpKRVdxTE1wZA?oc=5",
-      "published_at": "2026-11-24T09:59:10+00:00",
-      "regions": [
-        "usa"
-      ]
-    },
-    {
-      "title": "Roche says breast cancer pill could be best-selling drug ever",
-      "publisher": "Financial Times",
-      "publisher_url": "https://www.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZkIyVGlIVVMxNEhjeUlNT3pVYWJoZllOaDBYdXFwT3NrZkFDREpoSnUxQnAyVVVWRjhuT2hCUVRucEhaMV9mdHVnN1BkRlhDY0YwTko1UlI3OUdRb05aejhvX2NkeElPd3JlZzI1Qk8wN2RVYkdWWDVhVkR6eWVDV1JyN1Q?oc=5",
-      "published_at": "2026-11-24T09:51:03+00:00",
-      "regions": [
-        "europa",
-        "global"
-      ]
-    },
-    {
-      "title": "Sanofi Strikes $41 Billion Deal to Buy U.S. Drugmaker Insmed",
-      "publisher": "WSJ",
-      "publisher_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaVBfakx5WUY1dzBVU0lscUpnMDNrd19fN25wcFpwMU9Wb2ZxdUpOZVJSX2I4NV9sWXlKY2lUeTduMjdLdURsaVVwc2U5dEtQblVuUS12S2RPWl80SjBYdDMzQlpKcTctOFg1SzdRdi1QSWsyakx3ZDFtWWxxSU9DdzRQclZTUHhL?oc=5",
-      "published_at": "2026-11-24T09:39:00+00:00",
-      "regions": [
-        "global",
-        "usa"
-      ]
-    },
-    {
-      "title": "Pharma has more drug candidates than ever. Now it needs better decisions.",
-      "publisher": "pharmaphorum",
-      "publisher_url": "https://pharmaphorum.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcmdjNU9ldW0xZno2NGlWeWNYNnBUSlFtTHZlS3FRTDYyN1BhSUhyMnlTVXFUODlGcVpPX1g3UEg5alFVWVkyejNrdjJOZEM5NEdoWU05UjNnZ0hyLUJlTGlKcDRjQkdaMUxZd2JOQXBTbjZQbWVLM2dteU5DQzd5YmhJSXMzZlloc2ZLQ21QUHJOaUlSd0wta2pB?oc=5",
-      "published_at": "2026-11-24T09:30:00+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "Mexico Took Down a Top Drug Kingpin. Can It Dismantle His Cartel?",
-      "publisher": "WSJ",
-      "publisher_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVTE3aHliRkxuTkV1MXB3TG1VVkc1TnlhWUZnZ29oX3RtRXpxY0taMGt0ZnRwX3VycGg2QW1ndWkwMEM0ZjlVYUFhcjZCcHBISEFSNmdWVkdvNnRNS1dQcF9mQ3E2TDQtbnNsQjJjTVBuOG5LY2ZkTTJZZ25GS19Jdnp5NmpablRRcFJrdm93SnZmdDFnemxiRzZfNHhMbW5WeHc3eUNzd0hVenc?oc=5",
-      "published_at": "2026-11-24T09:12:00+00:00",
-      "regions": [
-        "global",
-        "usa"
-      ]
-    },
-    {
-      "title": "Watch: Moment troops raid home and capture Mexican drug lord",
-      "publisher": "BBC",
-      "publisher_url": "https://www.bbc.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45UVBBTjQzbTNaYzNEVkVsTG04NDBQdzBWLW1wU3hpRGg2c0RoSW1yaDdsTWV6Qkp4MjByWUt1dzRtc1U3WUJqREk2VkJxLTc0TnNjR0ZYNWlhazA?oc=5",
-      "published_at": "2026-11-24T09:10:25+00:00",
-      "regions": [
-        "europa",
-        "global"
-      ]
-    },
-    {
-      "title": "Sanofi to buy Insmed for $41B, picking up two lung disease medicines",
-      "publisher": "STAT",
-      "publisher_url": "https://www.statnews.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNakRyczJmeEQ5cjdSVDBnSFZiVFo4OXFNcF9SamJHcG9fRUQzRjViME9kVUN6bzFTVVFoTmIxZ3FaUmdDZmZ0SGVuNlJEbC1sWVplbVRiRko1Y0k2WHh6a3Y2OTduOEpwNmxydTg5bW1zV0Z4bVNSSGgyamFKd3VqWnVibzFVaG9zZEYtU1pkaUZYWk4yLUxfeGxhd3lTUQ?oc=5",
-      "published_at": "2026-11-24T08:25:09+00:00",
-      "regions": [
-        "global",
-        "usa"
-      ]
-    },
-    {
-      "title": "Exclusive | Bayer Signals Next Pharma Deals Might Target More Midstage Assets",
-      "publisher": "WSJ",
-      "publisher_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQT19Hd2hkcmE0VHpmalE3RTlNVVoxS05YcGFKUVdlVkRxR0Rwam1PT2NHdlNNdjFKUTdVSGw5Yk01ZC1PTDFJQjBlX1U2X0Y4OFJia2xweTJvTnRHNnc3R3I5TmJDdkFKUzdVNDBkSVVNVXJWQ3M2eXdPVGpUMW1ZWUNmOFlEV1lSR3dqbTJWNC1MRTAyOHQxc3dwbXRSeEpZd0s4OVVsbkZFYXJZ?oc=5",
-      "published_at": "2026-11-24T07:27:14+00:00",
-      "regions": [
-        "global",
-        "usa"
-      ]
-    },
-    {
-      "title": "Vapes seized in schools spiked with drugs, Met says",
-      "publisher": "BBC",
-      "publisher_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBUY1pfckRpc25FbENWYzQzcFMwdUlqbER5dWgwY2pVdUxtTk4yV3Nwek4wMUw0RVhpREhHWXVvdFdDTEc5OFByd3NKTTU4Y1hzbFVGR3FkY3BpQTA?oc=5",
-      "published_at": "2026-11-24T06:15:12+00:00",
-      "regions": [
-        "europa",
-        "global"
-      ]
-    },
-    {
-      "title": "CSS impone multas por $12.8 millones por incumplimientos en la entrega de medicamentos",
-      "publisher": "La Prensa Panamá",
-      "publisher_url": "https://www.prensa.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOLWJreEkybFNSZ0tZYWxwc3lKcndmXzdqMTdwc2h6TE1uTDloM1NkMW5YSUZXWVpxdzRlU0hfSkRCZHVfRklVN2I0Vl9mN0VGbUlFR3NoekFyeGsyY1RKTjRVWGZCSmg4NlVxbEFqX1hUZnFuMkQtanp5Y2ZQUHVUOTBvRTlVSmw4ZDVTYmgyWVVsXy1zbnNvbmhULU4zY3JHTHFsTzdnSHBMc2JoTFg4dmhaOWRVeUZT?oc=5",
-      "published_at": "2026-11-24T05:31:19+00:00",
-      "regions": [
-        "centroamerica"
-      ]
-    },
-    {
-      "title": "US flew drone over Mexican territory to help capture drug lord in Sinaloa",
-      "publisher": "AP News",
-      "publisher_url": "https://apnews.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZ1ViUXNjOFFGd2Z6UHY0bEthV2ZtZG9wOV9NQnYxU3ZMTG5uMmttZjNTMnpraXZDVjRXbGlRWHN6blBYbzBneDJNM05veEVYYXJTcmtSdl9yUjZBRVUyWmpfNExVSThYM2t3YlQ5UXNheXpLR2ZSM1BPa0JSbG9kdkg4SnFTT1ZSa0VWSE1vQXRmN1RldnRmalltNmU4NmY1Y21IcHJn?oc=5",
-      "published_at": "2026-11-24T04:11:00+00:00",
-      "regions": [
-        "global",
-        "usa"
       ]
     }
   ],
