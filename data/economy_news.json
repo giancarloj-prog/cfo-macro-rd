@@ -1,7 +1,7 @@
 {
   "date": "2026-11-25",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-25T08:49:19+00:00",
+  "checked_at": "2026-11-25T19:58:29+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -23,7 +23,7 @@
     "bcrd": {
       "ok": true,
       "error": null,
-      "count": 2
+      "count": 1
     },
     "fiscal": {
       "ok": true,
@@ -38,7 +38,7 @@
     "finance": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 2
     },
     "securities": {
       "ok": true,
@@ -48,7 +48,7 @@
     "economy": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 3
     },
     "economist_andy": {
       "ok": true,
@@ -82,6 +82,70 @@
     }
   },
   "items": [
+    {
+      "title": "Fuerza del Pueblo critica decisiones monetarias del Banco Central para controlar inflación",
+      "publisher": "Diario Libre",
+      "publisher_url": "https://www.diariolibre.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWmVuRG04OWdiR2w2UUVEdXlpdlU5Vk83VkNpS0RtNUxOVXViXzJPZjBYeUVVT256MlR3ZXhoTnowRVhQbUh2VUxWZlJxY0ZWODU5N2RsRVcxaGN5S1NtOTlLTkgtakU1T05Xa3VpX0I5dGZSd3I1NW45cGxHSS0xeV9VVVQtWnAtcC1HX202Mnoxb1gxcmp4c1lNNzZNZUtyeDN2aksxS3dBQXpuMGxiWmI2cVZvNGNVdDM3RFhPUC1kSzlLczZtddIBzgFBVV95cUxNNFpNME5xRmQxNjUzY3FCUkdaZFNCekdobGNiVWtQeWl4U0pDamxISThNa2xQYzl4QXZlUmY0Y2UtZnRVNzlHdGU5ZDlvQzB2SWVKNEw1cWNEakNSYmhaNVNzd1MyUVpOSkd3eHc0SjhybjZqNmRNNVphNGc3bmNkejgwU2c5VWg4czE5M3h4aV9fZ3F5dHhXVWNwRjBzbk1SbnVWSGgxVWkzS1hXUE1Dd2VTTFRrQ2dlVTlaa0FCQlF3TXNySjNRLUhpOUlxUQ?oc=5",
+      "published_at": "2026-11-25T19:28:00+00:00",
+      "topics": [
+        "bcrd",
+        "economy",
+        "finance"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "bcrd",
+        "economy"
+      ]
+    },
+    {
+      "title": "Christopher Paniagua destaca fortaleza de la economía y agradece confianza en el Banco Popular",
+      "publisher": "Periódico elDinero",
+      "publisher_url": "https://eldinero.com.do",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObWNfRlY4azVrVlhkWFJMWVhaUV9YOURkSHdCY3QycVZJQ1NPRXpMZ2NwdnRNZDI3NGFCMkJJUVA1dWpEcU9Ici1xcl9PTGRMeGhzSTNSX3JLLThYazAtM0VJZXZSMXpWMTFaLXVIajZreG5Tc2o3bHdHMklsM3o4LW43cFE5NW9ReDNqQXlReXZMMjV5VFFxZEdHNVl3RHNRVWkzb0d1YjRCcy1VMlpqRWZoN2JwRm0tOWhZRmZKZGpRSXpx?oc=5",
+      "published_at": "2026-11-25T15:36:13+00:00",
+      "topics": [
+        "economy",
+        "finance"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "economy"
+      ]
+    },
+    {
+      "title": "El Gobierno planea endeudarse en 2027 por encima de lo que permite la ley",
+      "publisher": "Diario Libre",
+      "publisher_url": "https://www.diariolibre.com",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQ0doNmFxOWtfaFFFc2ZjbFk0ZnR0VUlvX3QxMzdpczZabTJaSjA4R2treWRUdGJYbDdrTnlCNEJGVWtlUDJ3dXlPSHNKUWhoRTVZZzFkS3RiN29BcnMwN1hyMmlUTUJFS1JpZHNQeE9mRG9BaWxLYm51NUxSd1NPZmlFWnhoM0ZQeV9PVXVySUExNFFlOXZTSGNTTGRfSlZtSXo3SW15Q3d5V3pzTmp4Zk1SODdlaG5lNGpuZ2dLNVV5UkpBNURLVWMybUlfaDhCZV9CYlBaMl9LY1nSAeABQVVfeXFMTkhZODRnN3ZxUHI3SFJ1R0NkX0xCNlBTa3dtcjRZTE5BNzFkWDJsellYQmVVRFdtSGVGa0hwMnRJQ1NmVzVTamk3eFFRWUZ5ZUFGYXp4Y3UtRFpVeFlIczhXVWZsdTdQdWk3bVlES0tTLTNwbUp2eEZYb0NwQU9QcUxZTEFsSlhYSC1TWTRlMHVYbDdVZTlUVlBXc3NQQnF2dG8xQ2hPNUpoZ2dHblJqcmZXQVNUQ3BLQ2VBQjAwV1RUc28tQXFIdjBVa2kyZUdxQVNOSnZ1MGV2QWhjcDRuQXA?oc=5",
+      "published_at": "2026-11-25T15:25:00+00:00",
+      "topics": [
+        "fiscal"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "fiscal"
+      ]
+    },
+    {
+      "title": "Banco Promerica consolida su fortaleza financiera con calificación AA- de Moody’s",
+      "publisher": "Diario Libre",
+      "publisher_url": "https://www.diariolibre.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeWZHVE1DXzRSXzFmSFhQT2Vyd0V4eFJtNnp2Y3I3OWptVVdlYTV5WHpLRGJrQzJTTXBKbHoxb2lBNm1rakhRRDZUSDh4QXIyaGoyS1NJS2MwblNJUl8tX3JmY2FjRXBqMEtxaUtyY3I4bGRZUGlBeXFqWFZxbnV3ODg4c3ZidFByRlhPNkdNTVcyQXpPUjB2aFJUblhyTzQ5QVI5V0VzOEtkSzRlS29rR0h4bV9qbjRD0gG-AUFVX3lxTE1YQVdWNHN1WWhZT3JRMUJIQWNXb3ZBbXo4RU9Bb0dDMV9vUmg4SVZMRzh4LWVSRUlrbkNzbS1Lb2luWHp0am9meWg5SFlmc21zZHFfdW92bEctajYwblRhc3dWeG1yd1FQT1V2MDI5bV8yUEtISHdfSHdhQ0R6bENISEoxb2E5YlBRQ2c0NzYweC1qSEU1Znc4MHlQa3RZTUtLR1JXWFdPQ3dxb1VteUZJa1o2QlU3MlJwMEpzbHc?oc=5",
+      "published_at": "2026-11-25T14:36:00+00:00",
+      "topics": [
+        "finance"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "finance"
+      ]
+    },
     {
       "title": "El FMI le enmienda la plana al Gobierno en lo fiscal",
       "publisher": "Acento",
