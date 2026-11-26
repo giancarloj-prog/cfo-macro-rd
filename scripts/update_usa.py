@@ -231,7 +231,7 @@ def pmi(kind, previous):
     # The report for the prior calendar month is released in the current month.
     prior=datetime.now(timezone.utc).replace(day=1)-timedelta(days=1)
     month=list(MONTHS)[prior.month-1]
-    candidates=[urljoin(ISM,f'{sub}/{month}/')]
+    candidates=[urljoin(ISM,f'{sub}/{month}/'),urljoin(ISM,f'{sub}/{month}')]
     if previous.get('url') and previous['url'] not in candidates: candidates.append(previous['url'])
     errors=[]
     for url in candidates:
@@ -239,12 +239,13 @@ def pmi(kind, previous):
             soup=page(url)
             if url.startswith('https://www.prnewswire.com/') and not re.search(r'News provided by\s+Institute for Supply Management',text(soup),re.I):
                 raise ValueError('El comunicado no identifica a ISM como emisor')
-            headings=' '.join(h.get_text(' ',strip=True) for h in soup.find_all('h1')).replace('®','')
+            headings=' '.join(h.get_text(' ',strip=True) for h in soup.find_all(['h1','h2','h3'])).replace('®','')
             value=re.search(label+r'\s+PMI\s+at\s+([\d.]+)%',headings,re.I)
             period=re.search(r'('+'|'.join(MONTHS)+r')\s+(20\d{2})\s+ISM\s+'+label,headings,re.I)
             if not value or not period: raise ValueError('Faltan el PMI principal y su mes en el encabezado')
             v=float(value[1]); p=f'{period[2]}-{MONTHS[period[1].lower()]:02d}'
             if not 0 <= v <= 100: raise ValueError('PMI fuera de rango')
+            if p < prior.strftime('%Y-%m') and previous.get('period','') != p: raise ValueError('Informe anterior al mes esperado')
             return {'value':v,'period':p,'source':'ISM','url':url,'unit':'index'}
         except Exception as exc: errors.append(str(exc))
     # ISM also publishes its own releases on PR Newswire. Discover only from
