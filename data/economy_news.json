@@ -1,7 +1,7 @@
 {
-  "date": "2026-11-25",
+  "date": "2026-11-26",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-26T02:53:12+00:00",
+  "checked_at": "2026-11-26T08:35:30+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -23,22 +23,22 @@
     "bcrd": {
       "ok": true,
       "error": null,
-      "count": 7
+      "count": 0
     },
     "fiscal": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 0
     },
     "dgii": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 4
     },
     "finance": {
       "ok": true,
       "error": null,
-      "count": 3
+      "count": 2
     },
     "securities": {
       "ok": true,
@@ -48,7 +48,7 @@
     "economy": {
       "ok": true,
       "error": null,
-      "count": 7
+      "count": 5
     },
     "economist_andy": {
       "ok": true,
@@ -63,12 +63,12 @@
     "economist_juan_ariel": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 0
     },
     "economist_raul": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 2
     },
     "economist_jose_luis": {
       "ok": true,
@@ -83,44 +83,145 @@
   },
   "items": [
     {
-      "title": "La economía dominicana registró un crecimiento interanual del 5,4 % en octubre",
-      "publisher": "El Dia.com.do",
-      "publisher_url": "https://eldia.com.do",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPR25LblNQX2Y0SlAzNUZKX2lEYTRTRURXb1FVUVRHZVUyMjBaSWZ4cG9UX3RuVmdxOElSS0dSRDVTUG54TUtsUkJJaUtxTWlQNzV3RGdzVlRrWmpTdXJZRHVKYVh6bjl4V0E5M3Z5dk8xSDZqU2ZvcGZ6UHVrUFJMUzc4ZXhfRjh4OU16UktnMkp6LXRVWUhMTndhWlpXZw?oc=5",
-      "published_at": "2026-11-26T01:30:32+00:00",
+      "title": "Ovalle propone reformar incentivos fiscales en República Dominicana",
+      "publisher": "Periódico elDinero",
+      "publisher_url": "https://eldinero.com.do",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOLXRMZ0pkUVVCLUxlNnJSYWJZV1JoaUtKR29DaEhuNFA2dnpSalFVbmtzMVZBdjVqRDNyU19pUUxOWXpyMC00RElUejRYYUVURTRYa0k4UFJzUE43T1JlUGFOX3hCSTlPX0ZkbldZY3pkRTAyUERCNzZZY2Q1cjJJX3NteDNXai1UYjh4SjFmTkl0c3dYVl9zczhhQUJWMTlQ?oc=5",
+      "published_at": "2026-11-26T06:30:22+00:00",
       "topics": [
-        "bcrd",
+        "economy",
+        "opinion"
+      ],
+      "economists": [
+        "raul"
+      ],
+      "economist_match": null,
+      "searches": [
+        "economist_raul",
+        "economy"
+      ]
+    },
+    {
+      "title": "Reforma fiscal debe priorizar simplificación del sistema impositivo y seguridad jurídica",
+      "publisher": "Periódico elDinero",
+      "publisher_url": "https://eldinero.com.do",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTWRMa1d0Q3lON1lnWjVnQmRkZW5iWldxYjBTdml5RU5YRlFnLXhZc1VvNHQ4WHJsaG1tcUN5M0ptS21UNG5vZklDcjJJakVKdmJ1WFg5d1pNRWQ1eXJneW55cURBTldvYldXTEQxaG56QlRYSU5PWlhXY0E3OENtb3R0SlJCVzVmaVhDZFBWRGpmSkxkZVM4UTB2ZUNMNGx1NEJzN2NDdDU0WHFDNWdvTGF0MUZZTVNKMi0tLQ?oc=5",
+      "published_at": "2026-11-26T06:00:16+00:00",
+      "topics": [
+        "dgii",
         "economy"
       ],
       "economists": [],
       "economist_match": null,
       "searches": [
-        "bcrd",
+        "dgii",
         "economy"
       ]
     },
     {
-      "title": "Banco Central celebra encendido de árbol y Belén navideños",
-      "publisher": "Acento",
-      "publisher_url": "https://acento.com.do",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaWV5OHBQcXFDMF9qLXpYVUQ5TlNXV01NRm9saGpQc010bmE5X0tnbWlSRE0ycmdmSVNOUXZiZlRtZDA1UjBEd0oyMVk2V1BuOFdwclFfQ0JIZUc1eno1VDRyZ0swbG9wV1NRZHVzUEVGWTRjWDZyenhqVDdlU09laHQ4QnFYYmVrTjM1TDFEcjlwVGQ0V0VMUkpTbnFkb1hqUzdNU9IBpAFBVV95cUxNaWV5OHBQcXFDMF9qLXpYVUQ5TlNXV01NRm9saGpQc010bmE5X0tnbWlSRE0ycmdmSVNOUXZiZlRtZDA1UjBEd0oyMVk2V1BuOFdwclFfQ0JIZUc1eno1VDRyZ0swbG9wV1NRZHVzUEVGWTRjWDZyenhqVDdlU09laHQ4QnFYYmVrTjM1TDFEcjlwVGQ0V0VMUkpTbnFkb1hqUzdNUw?oc=5",
-      "published_at": "2026-11-25T22:00:37+00:00",
+      "title": "ABA propone eliminar el impuesto a las transferencias bancarias",
+      "publisher": "Periódico elDinero",
+      "publisher_url": "https://eldinero.com.do",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORzhPX0M0anQ5dkZKUVNHaUtHYm82OFVpXzg5RW05WlFFRU95MmR0NjdDc183NDRDdTFWYUNLZG9DSkhlV1lfZGM4ZERTM1BSUE1ZYVI3TVNXMkNmekp2dzExaTl5R2RaeE1CSXVnQmg1Mm5nWFZlSU5Ncnd4VTJFaEZZcmZyVGlQaEpXVXFaZ3hYS085Tk55Y1RsVQ?oc=5",
+      "published_at": "2026-11-26T05:55:09+00:00",
       "topics": [
-        "bcrd",
+        "dgii",
         "finance"
       ],
       "economists": [],
       "economist_match": null,
       "searches": [
-        "bcrd"
+        "dgii",
+        "finance"
+      ]
+    },
+    {
+      "title": "Manuel Grullón destaca impacto de la bancarización en microemprendedores",
+      "publisher": "Periódico elDinero",
+      "publisher_url": "https://eldinero.com.do",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQN0lqNVZWSGlXanRlZ0VwaWRyVW1sLVNMWHhmaEt3OVBwWjVkLWRWQW9zZmduOTQwdnBmSFlIRXlyZGZEeDcwNFFIaEdIcDMzakNuZk1GUnFGb092bUsxYlVleFlKZXotQ1dud05DaG9FUk44TVprUjNIdlNXeFhDTHotUmlsYWdMSThDSFQtOEJheTNyY1VxbDRZQ0kwOWV4dnNlcUIxOA?oc=5",
+      "published_at": "2026-11-26T05:55:09+00:00",
+      "topics": [
+        "finance"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "finance"
+      ]
+    },
+    {
+      "title": "Capellán propone integrar a Haití en estrategia económica dominicana",
+      "publisher": "Periódico elDinero",
+      "publisher_url": "https://eldinero.com.do",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTWI2X1VfZ2Q5Mk5zRHpKLVlZSGtoQUJkTm5PejZTNTgyLU02UHNLaDRualo3TjJmc0JkUllieDNQOEZsVElnTFRjZTVCbXo3ZzdlV3BtaWhFTGtwYzdfcms4Z1lNdG5jOHNMYktEd29kYmlUWXVYdTQ1TGplbktOeE1tV3NpMmt0N2F5WGJMY2RRTlU5bUlNOVBjNUFQWjMtOVE?oc=5",
+      "published_at": "2026-11-26T05:55:09+00:00",
+      "topics": [
+        "economy"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "economy"
+      ]
+    },
+    {
+      "title": "Los incentivos fiscales son una parte de lo que necesita el turismo dominicano",
+      "publisher": "Periódico elDinero",
+      "publisher_url": "https://eldinero.com.do",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQY2c4RUROX21aZ2xYa0JFUUZaRVU4cUhXVjdsNXYxOU1qZW41dmJjVTBjbWxwWm1YU3IzdExwSkgyUEZRMGJ5MW9GZG95bXQ0SkprWlVDOGkyd0I3bVdxMFY1U0xycUZvVjJpb1lqQTBtbFpWNExqNlkzcWxxYWJ5dlpfSGpZV2pfQTJCQVVtTm54ZEo5aHlDVVNsYm10TmNmVWxOd3hjMExhdTlqNTRJ?oc=5",
+      "published_at": "2026-11-26T05:50:04+00:00",
+      "topics": [
+        "economy"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "economy"
+      ]
+    },
+    {
+      "title": "Andy Dauhajre propone privatizar las EDE antes de la reforma fiscal",
+      "publisher": "Periódico elDinero",
+      "publisher_url": "https://eldinero.com.do",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRlF6V2pBTFNBRnI3N1l6OVFwUFVtY1JsMVJvdG1RUm9RWlVkak82QjJPNG5TR3VFaXg2aXVtekw2cUo3UzhJeG5xdkVfVkZFbTgtYldsS3hnSnAwN3k4N1hIYXlZN1FZbGJQTWd2WWpGTHFEdGlZdUMyQi00U25aUDZxeGwxelJBQVQ0Mm1oaFpoclVYUVN2MGlRUTdtRkdl?oc=5",
+      "published_at": "2026-11-26T05:09:59+00:00",
+      "topics": [
+        "dgii",
+        "opinion"
+      ],
+      "economists": [
+        "andy"
+      ],
+      "economist_match": "headline",
+      "searches": [
+        "dgii",
+        "economist_andy"
+      ]
+    },
+    {
+      "title": "Gobernar a RD no es como ir a una kermés",
+      "publisher": "Periódico elDinero",
+      "publisher_url": "https://eldinero.com.do",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBLVWRnMHBHUXlSMGh0X0lKZVhqNmgwdU1wWC02ZmdVTm1fVnVPQ3FsdFE5bFlfVFpGQnRGR2RxMGt3M2VsTkFHLThTbGJyU1ZQcmN0eEFCVW03U0s2Rm1iYWFTdXZVaW1LSGJnbVR5SlpvdGQwMzJfRnRpWlc?oc=5",
+      "published_at": "2026-11-26T04:04:47+00:00",
+      "topics": [
+        "opinion"
+      ],
+      "economists": [
+        "andy"
+      ],
+      "economist_match": "search",
+      "searches": [
+        "economist_andy"
       ]
     },
     {
       "title": "Mejoras salariales impactan recaudaciones por impuesto sobre la renta a personas",
       "publisher": "Diario Libre",
       "publisher_url": "https://www.diariolibre.com",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQ000VXhKdjdMa3ZlRE5uYmdHMUQ3RFhvd0Z0YmowNXkwMnRkMWxBSTVWLVZ6SGpMc05USHZnX1NQRFFlZ0d2ZlV0RVphN0xGNXY3QjU3WF9GSVpzZ0x5UG9HQ3hNSHlqN0FZWktJTW5mMGl6UGJHVC1WN0txZmNtUjdMRk1yTTV0b3M3RFVMbDBCLWh3TXBUYjNwWFdsUVRENjZIMThQRDUxN00xdTBnV0FNbktrbkxqamdCdnFhRmI4andObU0wU9IByAFBVV95cUxPQ000VXhKdjdMa3ZlRE5uYmdHMUQ3RFhvd0Z0YmowNXkwMnRkMWxBSTVWLVZ6SGpMc05USHZnX1NQRFFlZ0d2ZlV0RVphN0xGNXY3QjU3WF9GSVpzZ0x5UG9HQ3hNSHlqN0FZWktJTW5mMGl6UGJHVC1WN0txZmNtUjdMRk1yTTV0b3M3RFVMbDBCLWh3TXBUYjNwWFdsUVRENjZIMThQRDUxN00xdTBnV0FNbktrbkxqamdCdnFhRmI4andObU0wUw?oc=5",
-      "published_at": "2026-11-25T21:11:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZnpIUGdsbzc0dU91bkFLbG9rUGZLMDBLMVBxU2VFQkhqeWZyZ1VYTVVWUnp5eEcxY1FjUnBEa0VUcDlwRWpNSU4yZmdodEpZUkNDd1pYTDVvT01aRDRUREZNRDVjemVzQ1NHcFNZSlc0cHdXTTFsb3p2UUFLMEd4MVpzY1h4OGVIbDE4bFdqWHlaRHpya3VLU0lRNG9pV09wNS1VS2hWSVV4TzF6LUQtYy1VdW5xYlFTc3BqQUhpcGF1eXfSAcgBQVVfeXFMUG5URW1EVlZCajBQc2piZVZxMmFzRDBoRnZIakQyYUFaalJFa2thTHJLSVUtc0RadXhKV0dZdVRZQnFRMlZKZzUtWUZWTXFfTGNVN1lYVkFHa2M1R0N1WDYtRzBSZ2JCNU9sN251aU1vakZyb1RiUWRNVzhEbnc3c3IzM3VxNWhUU0dTdU1lcWtiZjFBdXZ3TVZYUU5IcjhlT0g1NExQb0pWbUk5bkhNU3pKR0JZY2YwbUx3Z3RxRnQxMFRWQ1drNTY?oc=5",
+      "published_at": "2026-11-26T04:01:00+00:00",
       "topics": [
         "dgii"
       ],
@@ -131,156 +232,17 @@
       ]
     },
     {
-      "title": "La economía dominicana creció 5.4 % interanual en octubre 2026, dice el Banco Central",
-      "publisher": "Hoy Digital",
-      "publisher_url": "https://hoy.com.do",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcW1zbUM2REhGRjZ5LXpwNkZEdkhwMVdZTWQwaTJCbGVqdnFzRl9tZ1FCWUpfTjhxa3B0UkMzcDlQM1hHam9EM201RXVEaFhQN0VCT05IajNFclRRUHdNbnE2RVdkblFlc1FnSVZXUUZTaHdWcEh1S0JWYlRsVlhGV2RNMXJYOG40VFFaUTVIdUJ3SHk2YldGaVNGaGNxMTV1MWkyVnBUNm01S3JYTjhfNHNzYUbSAboBQVVfeXFMUEQwMXJWVEtUb0JXVE8yR211Y0d6ejhWQkF4VDNMQWRSdi1nbExqYUljWFFuM0hJWkhJNVJ4cGZVaFlGMTJpaWNUdnY4aDI4dnVtZkRpeGI5Um9pb2IyWHEySFlJMEpRTGFteEVyeEVVWUZfWU1MR1hKbkd4SWFLRDRxdFRSZ2tOeU1ZanVNZktjU012dkYzUWZTQUpIbHplSHZudjhjLWFZSXFmZ0pXdnlxWnYybXNHbElB?oc=5",
-      "published_at": "2026-11-25T20:18:12+00:00",
-      "topics": [
-        "bcrd",
-        "economy",
-        "finance"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "bcrd",
-        "economy"
-      ]
-    },
-    {
-      "title": "La economía dominicana crece 5.4 % a octubre, impulsada por la construcción",
-      "publisher": "Diario Libre",
-      "publisher_url": "https://www.diariolibre.com",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcFZxVWlNdVcwUDZMWHhlUi1fanB4TUwyUmFmZDdJTFJVbWlKeXBOay1IX1djMG1lSHl3VmROcDFSOVprRmRXZFE0dmNkZDNPZG85ZHR5bVhrS0FwZ1hISzBWTDZJVWpNcUNXWFpaV1pzQ2tnZW0wYVFJMVBHNDQtZEg5VkFzQW0yR1NITXRUZzJsU0NtQUpROGtZeTN2MnlqMnpXanIyZldjbkZJTl9xLWxjRzJ4eG5FQzFuc0RBNTJqN1JBV2dXMEp30gHPAUFVX3lxTE9nRHdLVHh0bnl3U19VTzdVdXBHYUZkM250bENYSjJqRUl2SlRXY012dDNvblQyNkdhdmZzczdoTkpVejV4dGlkX2ZhM0JkdHFodHNQejdJOWwyN3RZTmt5eGVoOEphazB5WXdwcWEyYlNsS0dmSHZXRHhfdDBFMHpqSmpOWWJKeGJjdU16YjVZaWFOREhMVE9NUTlpRGxKU0dtSEVxYnpwT0lPYTZvZ3hVZXJUTkhBYU1fZ2lhVGQxcHd2c0dxaEh5Y2xBd1NBMA?oc=5",
-      "published_at": "2026-11-25T20:09:00+00:00",
-      "topics": [
-        "bcrd",
-        "economy"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "bcrd",
-        "economy"
-      ]
-    },
-    {
-      "title": "Economía dominicana crece 5.4 % en octubre y acumula expansión de 4.7 % durante 2026",
-      "publisher": "Acento",
-      "publisher_url": "https://acento.com.do",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMVVTQVVvQU9XSzE2RmRKQ2VHWHNPbXJjV0FzSTloSEZjYzc1RkJaZFRGNlZEVFFvMnFmdTBzaGRmR3dQNy00X2djdkdFUDI4TmdCMnhKVVZtekU4a0VrbFBaREdPS2luSmFVTnRSSmptN2hUYVdGdkExQTJ0ZV9pbm1IbWJUOWNMUVdhUjN6ejNBT2d0Z0JMdllPRWZkU2hUVy1nZ1FaTFNfZ2NYN1ViS2Z2Mi1ncjdoU3ZaaWpReGpkQdIBwgFBVV95cUxOMVVTQVVvQU9XSzE2RmRKQ2VHWHNPbXJjV0FzSTloSEZjYzc1RkJaZFRGNlZEVFFvMnFmdTBzaGRmR3dQNy00X2djdkdFUDI4TmdCMnhKVVZtekU4a0VrbFBaREdPS2luSmFVTnRSSmptN2hUYVdGdkExQTJ0ZV9pbm1IbWJUOWNMUVdhUjN6ejNBT2d0Z0JMdllPRWZkU2hUVy1nZ1FaTFNfZ2NYN1ViS2Z2Mi1ncjdoU3ZaaWpReGpkQQ?oc=5",
-      "published_at": "2026-11-25T20:01:53+00:00",
-      "topics": [
-        "bcrd",
-        "economy",
-        "finance"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "bcrd",
-        "economy",
-        "finance"
-      ]
-    },
-    {
-      "title": "Fuerza del Pueblo critica decisiones monetarias del Banco Central para controlar inflación",
-      "publisher": "Diario Libre",
-      "publisher_url": "https://www.diariolibre.com",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWmVuRG04OWdiR2w2UUVEdXlpdlU5Vk83VkNpS0RtNUxOVXViXzJPZjBYeUVVT256MlR3ZXhoTnowRVhQbUh2VUxWZlJxY0ZWODU5N2RsRVcxaGN5S1NtOTlLTkgtakU1T05Xa3VpX0I5dGZSd3I1NW45cGxHSS0xeV9VVVQtWnAtcC1HX202Mnoxb1gxcmp4c1lNNzZNZUtyeDN2aksxS3dBQXpuMGxiWmI2cVZvNGNVdDM3RFhPUC1kSzlLczZtddIBzgFBVV95cUxNNFpNME5xRmQxNjUzY3FCUkdaZFNCekdobGNiVWtQeWl4U0pDamxISThNa2xQYzl4QXZlUmY0Y2UtZnRVNzlHdGU5ZDlvQzB2SWVKNEw1cWNEakNSYmhaNVNzd1MyUVpOSkd3eHc0SjhybjZqNmRNNVphNGc3bmNkejgwU2c5VWg4czE5M3h4aV9fZ3F5dHhXVWNwRjBzbk1SbnVWSGgxVWkzS1hXUE1Dd2VTTFRrQ2dlVTlaa0FCQlF3TXNySjNRLUhpOUlxUQ?oc=5",
-      "published_at": "2026-11-25T19:28:00+00:00",
-      "topics": [
-        "bcrd",
-        "economy",
-        "finance"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "bcrd",
-        "economy"
-      ]
-    },
-    {
-      "title": "Christopher Paniagua destaca fortaleza de la economía y agradece confianza en el Banco Popular",
-      "publisher": "Periódico elDinero",
-      "publisher_url": "https://eldinero.com.do",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObWNfRlY4azVrVlhkWFJMWVhaUV9YOURkSHdCY3QycVZJQ1NPRXpMZ2NwdnRNZDI3NGFCMkJJUVA1dWpEcU9Ici1xcl9PTGRMeGhzSTNSX3JLLThYazAtM0VJZXZSMXpWMTFaLXVIajZreG5Tc2o3bHdHMklsM3o4LW43cFE5NW9ReDNqQXlReXZMMjV5VFFxZEdHNVl3RHNRVWkzb0d1YjRCcy1VMlpqRWZoN2JwRm0tOWhZRmZKZGpRSXpx?oc=5",
-      "published_at": "2026-11-25T15:36:13+00:00",
-      "topics": [
-        "economy",
-        "finance"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "economy"
-      ]
-    },
-    {
-      "title": "El Gobierno planea endeudarse en 2027 por encima de lo que permite la ley",
-      "publisher": "Diario Libre",
-      "publisher_url": "https://www.diariolibre.com",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQ0doNmFxOWtfaFFFc2ZjbFk0ZnR0VUlvX3QxMzdpczZabTJaSjA4R2treWRUdGJYbDdrTnlCNEJGVWtlUDJ3dXlPSHNKUWhoRTVZZzFkS3RiN29BcnMwN1hyMmlUTUJFS1JpZHNQeE9mRG9BaWxLYm51NUxSd1NPZmlFWnhoM0ZQeV9PVXVySUExNFFlOXZTSGNTTGRfSlZtSXo3SW15Q3d5V3pzTmp4Zk1SODdlaG5lNGpuZ2dLNVV5UkpBNURLVWMybUlfaDhCZV9CYlBaMl9LY1nSAeABQVVfeXFMTkhZODRnN3ZxUHI3SFJ1R0NkX0xCNlBTa3dtcjRZTE5BNzFkWDJsellYQmVVRFdtSGVGa0hwMnRJQ1NmVzVTamk3eFFRWUZ5ZUFGYXp4Y3UtRFpVeFlIczhXVWZsdTdQdWk3bVlES0tTLTNwbUp2eEZYb0NwQU9QcUxZTEFsSlhYSC1TWTRlMHVYbDdVZTlUVlBXc3NQQnF2dG8xQ2hPNUpoZ2dHblJqcmZXQVNUQ3BLQ2VBQjAwV1RUc28tQXFIdjBVa2kyZUdxQVNOSnZ1MGV2QWhjcDRuQXA?oc=5",
-      "published_at": "2026-11-25T15:25:00+00:00",
-      "topics": [
-        "fiscal"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "fiscal"
-      ]
-    },
-    {
-      "title": "Banco Promerica consolida su fortaleza financiera con calificación AA- de Moody’s",
-      "publisher": "Diario Libre",
-      "publisher_url": "https://www.diariolibre.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeWZHVE1DXzRSXzFmSFhQT2Vyd0V4eFJtNnp2Y3I3OWptVVdlYTV5WHpLRGJrQzJTTXBKbHoxb2lBNm1rakhRRDZUSDh4QXIyaGoyS1NJS2MwblNJUl8tX3JmY2FjRXBqMEtxaUtyY3I4bGRZUGlBeXFqWFZxbnV3ODg4c3ZidFByRlhPNkdNTVcyQXpPUjB2aFJUblhyTzQ5QVI5V0VzOEtkSzRlS29rR0h4bV9qbjRD0gG-AUFVX3lxTE1YQVdWNHN1WWhZT3JRMUJIQWNXb3ZBbXo4RU9Bb0dDMV9vUmg4SVZMRzh4LWVSRUlrbkNzbS1Lb2luWHp0am9meWg5SFlmc21zZHFfdW92bEctajYwblRhc3dWeG1yd1FQT1V2MDI5bV8yUEtISHdfSHdhQ0R6bENISEoxb2E5YlBRQ2c0NzYweC1qSEU1Znc4MHlQa3RZTUtLR1JXWFdPQ3dxb1VteUZJa1o2QlU3MlJwMEpzbHc?oc=5",
-      "published_at": "2026-11-25T14:36:00+00:00",
-      "topics": [
-        "finance"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "finance"
-      ]
-    },
-    {
-      "title": "El FMI le enmienda la plana al Gobierno en lo fiscal",
-      "publisher": "Acento",
-      "publisher_url": "https://acento.com.do",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbVVxWVBkUmFORDQ0NEw2Qnp1b2sxeXlHS2ctYThZVDVETlc2Zm5zcDJIa3c0VDhJUmpwa2R1Rk8xSDBKYm1jOHdmNVRxZm9KWlJlNWdENzdRalFBV0ZaOFJTUHJYRFV4WUIxTi14aHVpUjJ6TGc3NUk3WFFFSjRhLThvTzV2Q1BzUGl6MzZvQURlRjM1aFcycnpIOVXSAZwBQVVfeXFMT21VcVlQZFJhTkQ0NDRMNkJ6dW9rMXl5R0tnLWE4WVQ1RE5XNmZuc3AySGt3NFQ4SVJqcGtkdUZPMUgwSmJtYzh3ZjVUcWZvSlpSZTVnRDc3UWpRQVdGWjhSU1ByWERVeFlCMU4teGh1aVIyekxnNzVJN1hRRUo0YS04b081dkNQc1BpejM2b0FEZUYzNWhXMnJ6SDlV?oc=5",
-      "published_at": "2026-11-25T07:00:35+00:00",
-      "topics": [
-        "bcrd",
-        "finance",
-        "fiscal"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "bcrd",
-        "finance",
-        "fiscal"
-      ]
-    },
-    {
-      "title": "Remesas acumulan US$29,514.4 MM desde el año 2024 el caribe",
+      "title": "Construcción lidera: economía crece 5.4 por ciento en octubre",
       "publisher": "El Caribe",
       "publisher_url": "https://www.elcaribe.com.do",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQ01MOWRGMXUwRGktZHVieG1TTGZxeUV5Y0FIdUNNOVhJNTljc0kzRTNWZkd1VVIxamhoUFBtT3NTM2FsTmxsTGUySjNMeW1lWkxud0ljb3hoeXhrcDlsMTRvRk1PZU1xQ05GbEdkaEVJQVZpR1RFZS1BM2ZjMzlYQ2RCb0hKbXhrRnU1NWZIYW1iUVJVdFcyYzRScVdHMnktaHBDag?oc=5",
-      "published_at": "2026-11-25T04:00:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQenc2Tk5wUVVQNGcwVGVRZ2w0UEJPdUZNRTh6YTBvbXBjekllSmo3RjlQRDdLOEdKQ1NVRjhFVEh5c0Nldjh3SWY1TVFOV2VhdzBxS1R2Y0lXMi04V2htUWxhYVpEOTlIVkhvS1pFMjNlcnFVeFZNZXFDVjY2anRsN0EwOExwWHRyeUlJWG5TTy1NbmhfQVY1TmpsUzEyRlJrTnFmNVhSNzk?oc=5",
+      "published_at": "2026-11-26T04:00:00+00:00",
       "topics": [
-        "bcrd",
         "economy"
       ],
       "economists": [],
       "economist_match": null,
       "searches": [
-        "bcrd",
         "economy"
       ]
     },
@@ -350,57 +312,6 @@
         "andy"
       ],
       "economist_match": "search",
-      "searches": [
-        "economist_andy"
-      ]
-    },
-    {
-      "title": "Juan Ariel Jiménez recibe en Harvard a expresidenta Partido Republicano de EE. UU.",
-      "publisher": "El Nuevo Diario",
-      "publisher_url": "https://elnuevodiario.com.do",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUmVUYUFBSGJBZXkzNUVFaTJoellUcWpnaFRzZU1xZTlKd0lkdXl5NkdYYmlVXzA2eFcyTGVEMW1Mb0JiZXl1R2hDT2JJWFQtelA0RjFhYmpsUnc2MDBjQklsdU0yNHhvWTR4RE14ckk0LS02M3d0Q3p2WUE0S0RMVXVrenJfZ0hzem4xZDRIMldvQ1VqQ3lXaEstM3RZVlo1QjZFc1JoM2NDZVpVdGR3?oc=5",
-      "published_at": "2026-11-19T22:56:29+00:00",
-      "topics": [
-        "opinion"
-      ],
-      "economists": [
-        "juan_ariel"
-      ],
-      "economist_match": "headline",
-      "searches": [
-        "economist_juan_ariel"
-      ]
-    },
-    {
-      "title": "Mercedes Ramos es reconocida en el Foro Económico elDinero 2026",
-      "publisher": "Periódico elDinero",
-      "publisher_url": "https://eldinero.com.do",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbG1Kby1IeTIyY0lwV3dramNRRWNjbFRkQTBQdF9ERzVjbHRlMGVoM29tLTVndkFaa0VvSU1aSE1yRmM5VHZJbkVCdTBFT241SVVQbmY5VHBVSXNEWGFPaDZWc1Y1dEdpTVY4bGlLWXdlYkRmWDV2WVJBNTFPNlRndWd0cVVIdUs0dVFGSFE4cUkxVG5acjJpdTA5ZHlIV19Uc29VWHdqSDBXS0dPdU9IdWZiOW5DQQ?oc=5",
-      "published_at": "2026-11-19T09:43:07+00:00",
-      "topics": [
-        "opinion"
-      ],
-      "economists": [
-        "andy"
-      ],
-      "economist_match": "search",
-      "searches": [
-        "economist_andy"
-      ]
-    },
-    {
-      "title": "Andy Dauhajre muestra reforma del gasto antes de la impositiva",
-      "publisher": "Periódico elDinero",
-      "publisher_url": "https://eldinero.com.do",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNalVKZ3dISmVydWlWM3p6RTM1Wll2WVJBZG9ocGhEMnBiUkdNdzJvYWk3di1qVm1nY0w3ZnEweE5Bc050YzFERTkxYWtNajFnamxxaGlsWldFY01lenZ5MlpVZlljbGhIaVcwTllZRDFkSlZPTWZ6cklSSU9wclB3Qmk2aEZNWXk5cVFtRnhMdXdlck9jdjUxV0JR?oc=5",
-      "published_at": "2026-11-19T06:48:41+00:00",
-      "topics": [
-        "opinion"
-      ],
-      "economists": [
-        "andy"
-      ],
-      "economist_match": "headline",
       "searches": [
         "economist_andy"
       ]
