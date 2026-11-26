@@ -93,19 +93,18 @@ CPI='https://www.bls.gov/news.release/cpi.nr0.htm'
 SP500='https://fred.stlouisfed.org/series/SP500'
 
 def inflation_from_indices(values, source, url, series_id):
-    """Keep the newest observation even when its annual base is absent."""
-    month = max(m for m,v in values.items() if v > 0)
-    prior = f'{int(month[:4])-1}{month[4:]}'
-    value = None
-    if values.get(prior, 0) > 0:
+    """Use the latest published comparable annual CPI observation."""
+    for month in sorted(values, reverse=True):
+        prior = f'{int(month[:4])-1}{month[4:]}'
+        if values[month] <= 0 or values.get(prior, 0) <= 0:
+            continue
         value = round((values[month] / values[prior] - 1) * 100, 1)
         if not -30 <= value <= 100:
             raise ValueError('Inflación CPI-U interanual fuera de rango')
-    description = 'Inflación general interanual · sin ajuste estacional'
-    if value is None:
-        description += ' · N/A: no existe índice comparable del año anterior'
-    return dict(value=value, period=month, source=source, url=url,
-                unit='percent', series_id=series_id, description=description)
+        return dict(value=value, period=month, source=source, url=url,
+                    unit='percent', series_id=series_id,
+                    description='Inflación general interanual · sin ajuste estacional')
+    raise ValueError('Sin comparación anual CPI-U disponible')
 
 def inflation_us_base():
     import csv, io
@@ -391,7 +390,7 @@ def main():
         try:
             x=jobs[k]()
             old=p['series'].get(k,{})
-            if x['period'] < old.get('period',''): raise ValueError('La fuente devolvió un período anterior; se conserva el dato vigente')
+            if old.get('value') is not None and x['period'] < old.get('period',''): raise ValueError('La fuente devolvió un período anterior; se conserva el dato vigente')
             x['verified_at']=now
             return k,x,None
         except Exception as exc: return k,None,str(exc)
