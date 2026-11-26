@@ -30,7 +30,7 @@ class USAAdditionsTests(unittest.TestCase):
         self.assertEqual((x['value'], x['period']), (3.7, '2026-09'))
         get.assert_called_once()
 
-    def test_cpi_fred_uses_latest_comparable_month_when_api_times_out(self):
+    def test_cpi_fred_keeps_latest_month_without_annual_base(self):
         soup = BeautifulSoup(
             'CONSUMER PRICE INDEX - OCTOBER 2026 '
             'The CPI-U increased 0.4 percent on a seasonally adjusted basis. '
@@ -45,8 +45,8 @@ class USAAdditionsTests(unittest.TestCase):
         ):
             result = u.inflation_us()
         self.assertEqual((result['value'], result['period'], result['series_id']),
-                         (3.7, '2026-09', 'CPIAUCNS'))
-        self.assertIn('2026-10', result['description'])
+                         (None, '2026-10', 'CPIAUCNS'))
+        self.assertIn('N/A', result['description'])
 
     def test_fallback_discards_current_intraday_candle(self):
         ts=lambda date:int(datetime.fromisoformat(date).timestamp())
