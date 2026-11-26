@@ -93,23 +93,21 @@ CPI='https://www.bls.gov/news.release/cpi.nr0.htm'
 SP500='https://fred.stlouisfed.org/series/SP500'
 
 def inflation_from_indices(values, source, url, series_id):
-    """Use the newest month with two positive index levels 12 months apart."""
-    for month in sorted(values, reverse=True):
-        prior = f'{int(month[:4])-1}{month[4:]}'
-        if values[month] <= 0 or values.get(prior, 0) <= 0:
-            continue
+    """Keep the newest observation even when its annual base is absent."""
+    month = max(m for m,v in values.items() if v > 0)
+    prior = f'{int(month[:4])-1}{month[4:]}'
+    value = None
+    if values.get(prior, 0) > 0:
         value = round((values[month] / values[prior] - 1) * 100, 1)
         if not -30 <= value <= 100:
             raise ValueError('Inflación CPI-U interanual fuera de rango')
-        latest = max(values)
-        description = 'Inflación general interanual · sin ajuste estacional'
-        if month < latest:
-            description += f' · Último mes con comparación anual disponible: {month}; índice más reciente: {latest}'
-        return {'value':value, 'period':month, 'source':source, 'url':url,
-                'unit':'percent', 'series_id':series_id, 'description':description}
-    raise ValueError('No hay dos observaciones CPI-U del mismo mes separadas por 12 meses')
+    description = 'Inflación general interanual · sin ajuste estacional'
+    if value is None:
+        description += ' · N/A: no existe índice comparable del año anterior'
+    return dict(value=value, period=month, source=source, url=url,
+                unit='percent', series_id=series_id, description=description)
 
-def inflation_us():
+def inflation_us_base():
     import csv, io
 
     errors = []
@@ -178,6 +176,20 @@ def inflation_us():
     if bls_result is not None:
         return bls_result
     raise ValueError('Sin observaciones CPI-U verificables; ' + '; '.join(errors))
+
+def inflation_us():
+    result = inflation_us_base()
+    try:
+        content = text(page(CPI))
+        period = re.search(r'CONSUMER PRICE INDEX\s*[-–—]\s*('+'|'.join(MONTHS)+r')\s+(20\d{2})', content, re.I)
+        monthly = re.search(r'Consumer Price Index for All Urban Consumers\s*\(CPI-U\)\s+(increased|decreased|rose|fell|declined)\s+(\d+(?:\.\d+)?)\s*percent', content, re.I)
+        if period and monthly and result['period'] == f'{period[2]}-{MONTHS[period[1].lower()]:02d}':
+            value = float(monthly[2]) * (-1 if monthly[1].lower() in ('decreased','fell','declined') else 1)
+            result['monthly'] = value
+            result['description'] += f' · Mensual (ajustada estacionalmente): {value:.1f}%'
+    except (requests.RequestException, ValueError):
+        pass
+    return result
 
 def sp500_fred():
     content=text(page(SP500))
