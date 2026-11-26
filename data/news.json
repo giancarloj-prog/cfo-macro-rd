@@ -1,7 +1,7 @@
 {
   "date": "2026-11-26",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-26T13:45:10+00:00",
+  "checked_at": "2026-11-26T19:41:24+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -14,27 +14,27 @@
     "rd": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 2
     },
     "centroamerica": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 2
     },
     "mexico": {
       "ok": true,
       "error": null,
-      "count": 2
+      "count": 3
     },
     "usa": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 2
     },
     "europa": {
       "ok": true,
       "error": null,
-      "count": 11
+      "count": 20
     },
     "global": {
       "ok": true,
@@ -44,21 +44,112 @@
   },
   "items": [
     {
-      "title": "FDA clears DeepHealth's AI tool for 3D mammograms",
+      "title": "GSK picks up key Chinese approval for HBV drug Hibsago",
       "publisher": "pharmaphorum",
       "publisher_url": "https://pharmaphorum.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1QTFY5OXB2MXR4OWp5ZWxQRXVyTml2NDNUSzQxSk5vNlQ4WG03Vk9yUm85Zl84TS1pc0tDdVl5SVlfd3JCSW1QTGxzZjdRMkZsc0FLSHlzSVFDVUxFU0NwLVA5Wlg5NHEwbFhPeXBTUmdrVk9tbzA3TzlpNHlhV1E?oc=5",
-      "published_at": "2026-11-26T12:33:32+00:00",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaXo2dlZtdFVzV2FsMHY4Y2JaMkhDTmhGei1YaEJlY2NlaC1nejRJcGQwcTA5UlRiYnhCTDRTMWgwellfV1UzSFFXc0VSM1Q4bHp5WmFYVVhYWWtKdDBLM04wbGFfTDJqREU4emdhRlgzVFJkR3NiUXdiSlYyTUxxTWdJNA?oc=5",
+      "published_at": "2026-11-26T19:13:11+00:00",
       "regions": [
         "europa"
       ]
     },
     {
-      "title": "IBA says radiopharma boom drives machine sales, isotope trials carry new opportunities",
-      "publisher": "Reuters",
-      "publisher_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNX0dydjloUlNXT0lUUDlsVEpHeDVYZ2RtNnV0azVfXzgtNF9LVDQwc01ZS0haNHJrQWtEMVphYVhwNTg1NzFWcWpyYi1nY0Z4Q3F1RzlOSjFHbDRvY0ZlcWJGdzBhTHBwVjZvbWZFS0dEX1hlbFhWblVKODhsRUc1RjROeHF1cTV4eUhZamxacm1qN05UbXRsU1k5T3BOR1RPb19McW8tM1dUQjFFQk9WRDRpZVVVMnZ3ek1rUXY0TG1YVDFrS0pmSEFCbzM3QlJXekRVeklPRzhmUUk?oc=5",
-      "published_at": "2026-11-26T12:13:23+00:00",
+      "title": "SKYhigh Dominicana y Farmacia Carol se alían para ofrecer descuentos de RD$500 a pasajeros",
+      "publisher": "El Nuevo Diario",
+      "publisher_url": "https://elnuevodiario.com.do",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNd1ZibEUzMl9mZzRXR0J6REVGVVBkSXVMVElrR1hLd2VscHpuUWtTQ1RDbnVmR2drNDluaVNEYUFBZ20tSE9kTkpzYUtBU3U1anlBb3VuaXpDN1pQSHVOaFBIMVVUT3BKZ1lQUXdkU1dYbVF5ODktSU9rSVNNSDdrVjBHdGhFS3ZUMWFTUDZ5T2hveXA4RGpKeXZ1cHJmdjlfMUV0MHFWSkJxQkFGQW1ibUF2TjVnXzVUaHY0?oc=5",
+      "published_at": "2026-11-26T17:43:58+00:00",
+      "regions": [
+        "rd"
+      ]
+    },
+    {
+      "title": "Héroes de la salud: estas son las 10 personas que cruzan México para salvar vidas con vacunas ¿las conoces?",
+      "publisher": "Milenio",
+      "publisher_url": "https://amp.milenio.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMm8tTUUyYmZqeWRLeWxFWl9KNE91V2lvZV9OS3lMLWdHNlpTS3pESGRiWExJWWVsZFVoV25HS3dFOXFTY1NyRmdjdDZ5NVNPMUNvclpIdGFkUFB3enI1NERhbU5PbEl4ai14QzNBYXdLNlByaVRuY2VUb3pnMXQ4dzBzOW1CQ2pCRTY2NXg3OC02OUcxaEYxcXJHejgyU19ZUHfSAaIBQVVfeXFMTjJvLU1FMmJmanlkS3lsRVpfSjRPdVdpb2VfTkt5TC1nRzZaU0t6REhkYlhMSVllbGRVaFduR0t3RTlxU2NTckZnY3Q2eTVTTzFDb3JaSHRhZFBQd3pyNTREYW1OT2xJeGoteEMzQWF3SzZQcmlUbmNlVG96ZzF0OHcwczltQkNqQkU2NjV4NzgtNjlHMWhGMXFyR3o4MlNfWVB3?oc=5",
+      "published_at": "2026-11-26T17:31:00+00:00",
+      "regions": [
+        "mexico"
+      ]
+    },
+    {
+      "title": "Stockport Drug and Rape: 'Is this my fault?'",
+      "publisher": "BBC",
+      "publisher_url": "https://www.bbc.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA3bHE0Zk51cW5LdmlnVnN1QXE5SFdkc0ZSUjFnTVctTkNQb2Z3WHhZMG5uY0lIVHlpWnFHN0pVU0hfNGpUZkpsSnRYVjBTakxJSlczeQ?oc=5",
+      "published_at": "2026-11-26T17:22:37+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "In Court | Stockport Drug and Rape: 'Is this my fault?'",
+      "publisher": "BBC",
+      "publisher_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9KVkNwSDhzY1ZGYXVIM19MMGY2OTNRWVdxR3pXZnh0dkt2MTV3RDVaaDlBWk5MNUszZHR6akJoeE5NX3lXbjF0eEk1LWwzcWJf?oc=5",
+      "published_at": "2026-11-26T17:09:26+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "First oral HAE drug recommended for NHS use",
+      "publisher": "pharmaphorum",
+      "publisher_url": "https://pharmaphorum.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE52WDdJdEUwdExrS3o5OUVCR2VyWWtDUG1tVlE5ZjVoVTM1TTI1SnpPcDZtZXlZMFlkRkwxUWFpQnNzSjA5dnBmX2RrRk1ud0Z3ejdrSC1RaUphMktoZlNaTjdGWFZxcEtnMmt6dE1yZGQ2RXRmM1dCOQ?oc=5",
+      "published_at": "2026-11-26T16:33:48+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "Violent knifeman told doctor his psychosis drugs weren't working days before train attack",
+      "publisher": "BBC",
+      "publisher_url": "https://www.bbc.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE80X2o3bXREbWl4QlBXYU0xTnYwOE1CaVlWWS1hSXgzZ3VRRlhJbmx4ZzlTek95VmtCd0hNcVNYVldxV2JzM0FzcEFFNVktVnVILXB1SVZPRTZGaERybXc?oc=5",
+      "published_at": "2026-11-26T15:38:38+00:00",
+      "regions": [
+        "europa",
+        "global"
+      ]
+    },
+    {
+      "title": "Drug rape husband says wife 'would have been terrified', court hears",
+      "publisher": "BBC",
+      "publisher_url": "https://www.bbc.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5yZTdTRFNuc2ZUZU5JQ0Z4SDRqR19wcF9qYUZkVF81djNPaXl0TDViU2wwNXVXUElXc3VaazRlc3dudG1KOHE3aTROclFSVVVXbHdBUTBYNS1adzdGZXc?oc=5",
+      "published_at": "2026-11-26T14:51:49+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "La vacuna contra el dengue aún no llega y ya tiene detractores",
+      "publisher": "La Prensa Panamá",
+      "publisher_url": "https://www.prensa.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPd2w3SHJoclpFeUZWbWVGTFRRTDhvQnNDX09Rd3BxTVptSFI2NXJjS2JQTGFBSGxGVVlYUFB2UnY3UVlSdHNHcjgtUzUyaTFDR1ZrdWJiY2lWRnBuZjNEU0Z4OWxUQk5KSldzcHRrM0xOeU5FNkIwQVRfU1NCcFdSSTFmeVF3X0dxNC1zS2dCSWJQLU9YcThqdW5R?oc=5",
+      "published_at": "2026-11-26T14:27:23+00:00",
+      "regions": [
+        "centroamerica"
+      ]
+    },
+    {
+      "title": "Why a long-term approach to R&D investment is key to unlocking pharmaceutical innovation",
+      "publisher": "pharmaphorum",
+      "publisher_url": "https://pharmaphorum.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNenQ4R2piWXhGakxjelQzUkhSNG1oeTk0Sm42LS10S3l3bW9hSUpuZkktdUN0cVY4d0lBUXNLZ0JYZ1RtR0dLWmdCMmhTa1BnZmxkVVNOM3d1QnZ2eWl6a2tYZkNDaTFqaXJNeC02NHZYd0E5Y091OHdZVXl3Z0ZwaEd0dm5XOEhFeTFCOU42eGNRUDBIUnJiUjlMcWU3VFMzSjZXUWdVMA?oc=5",
+      "published_at": "2026-11-26T14:22:10+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "FDA clears DeepHealth's AI tool for 3D mammograms",
+      "publisher": "pharmaphorum",
+      "publisher_url": "https://pharmaphorum.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1QTFY5OXB2MXR4OWp5ZWxQRXVyTml2NDNUSzQxSk5vNlQ4WG03Vk9yUm85Zl84TS1pc0tDdVl5SVlfd3JCSW1QTGxzZjdRMkZsc0FLSHlzSVFDVUxFU0NwLVA5Wlg5NHEwbFhPeXBTUmdrVk9tbzA3TzlpNHlhV1E?oc=5",
+      "published_at": "2026-11-26T12:33:32+00:00",
       "regions": [
         "europa"
       ]
@@ -141,7 +232,8 @@
       "published_at": "2026-11-26T06:23:00+00:00",
       "regions": [
         "europa",
-        "global"
+        "global",
+        "usa"
       ]
     },
     {
@@ -152,7 +244,6 @@
       "published_at": "2026-11-26T06:11:00+00:00",
       "regions": [
         "europa",
-        "global",
         "usa"
       ]
     },
