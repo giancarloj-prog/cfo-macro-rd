@@ -1,79 +1,118 @@
 {
-  "updated": "2026-10-28",
+  "updated": "2026-11-26",
   "sources": [
     "https://www.bancentral.gov.do/a/d/6644-economia-dominicana-experimento-un-crecimiento-interanual-de-46--en-julio",
     "https://bancentral.gov.do/a/d/6671-economia-dominicana-registra-crecimiento-interanual-promedio-de-45--en-eneroagosto-de-2026",
-    "https://www.bancentral.gov.do/a/d/6705"
+    "https://www.bancentral.gov.do/a/d/6705",
+    "https://cdn.bancentral.gov.do/documents/sala-de-prensa/noticias/documents/Soporte%20gr%C3%A1fico%20discurso%20gobernador%2079%20aniversario%20BCRD%20octubre%202026.pdf?v=1792713600148",
+    "https://www.bancentral.gov.do/a/d/6727-bcrd-informa-que-la-economia-dominicana-crecio-54--interanual-en-octubre-2026"
   ],
   "months": [
     "2026-07",
     "2026-08",
-    "2026-09"
+    "2026-09",
+    "2026-10"
   ],
   "overall": {
     "2026-07": 4.6,
     "2026-08": 3.8,
-    "2026-09": 5.6
+    "2026-09": 5.6,
+    "2026-10": 5.4
   },
   "sectors": {
     "Construcción": {
       "2026-07": 8.1,
-      "2026-08": 7.9
+      "2026-08": 7.9,
+      "2026-09": 18,
+      "2026-10": 15.6
     },
     "Manufactura zonas francas": {
       "2026-07": 5.5,
-      "2026-08": 3.4
+      "2026-08": 3.4,
+      "2026-09": 1,
+      "2026-10": 2.6
     },
     "Manufactura local": {
       "2026-07": 3.7,
-      "2026-08": 3.1
+      "2026-08": 3.1,
+      "2026-09": 3.6,
+      "2026-10": 6.8
     },
     "Agropecuaria": {
       "2026-07": 1.9,
-      "2026-08": -1.4
+      "2026-08": -1.4,
+      "2026-09": -2.7,
+      "2026-10": 1.3
     },
     "Servicios financieros": {
       "2026-07": 8.4,
-      "2026-08": 9.4
+      "2026-08": 9.4,
+      "2026-09": 6.9,
+      "2026-10": 6.3
     },
     "Enseñanza": {
       "2026-07": 8,
-      "2026-08": 6.1
+      "2026-08": 6.1,
+      "2026-09": 2.7,
+      "2026-10": 4.7
     },
     "Otras actividades de servicios de mercado": {
       "2026-07": 6.1,
-      "2026-08": 6
+      "2026-08": 6,
+      "2026-09": 6.2,
+      "2026-10": 6.4
     },
     "Hoteles, bares y restaurantes": {
       "2026-07": 5.6,
-      "2026-08": 2.3
+      "2026-08": 2.3,
+      "2026-09": 7.4,
+      "2026-10": 7.8
     },
     "Servicios profesionales": {
       "2026-07": 5.2,
-      "2026-08": 2.7
+      "2026-08": 2.7,
+      "2026-09": 3.9
     },
     "Transporte y almacenamiento": {
       "2026-07": 5.2,
-      "2026-08": 3.7
+      "2026-08": 3.7,
+      "2026-09": 4.3,
+      "2026-10": 5.5
     },
     "Energía y agua": {
       "2026-07": 4.6,
-      "2026-08": 6
+      "2026-08": 6,
+      "2026-09": 5.4,
+      "2026-10": 8.5
     },
     "Comercio": {
-      "2026-08": 3.2
+      "2026-08": 3.2,
+      "2026-09": 1.7,
+      "2026-10": 5.5
     },
     "Administración pública": {
-      "2026-08": 3.1
+      "2026-08": 3.1,
+      "2026-09": 0.6
     },
     "Salud": {
-      "2026-08": 2.8
+      "2026-08": 2.8,
+      "2026-09": 4.2
     },
     "Comunicaciones": {
-      "2026-08": 2.6
+      "2026-08": 2.6,
+      "2026-09": 3.2
     },
     "Minería": {
-      "2026-08": -14.6
+      "2026-08": -14.6,
+      "2026-09": 17.9,
+      "2026-10": -13.6
+    },
+    "Servicios": {
+      "2026-09": 4.5,
+      "2026-10": 4.7
+    },
+    "Actividades inmobiliarias y de alquiler": {
+      "2026-09": 3.6
     }
   }
 }
