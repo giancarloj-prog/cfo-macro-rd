@@ -1,9 +1,9 @@
 {
   "series": {
     "fed_rate": {
-      "value": 4.0,
+      "value": 4,
       "lower": 3.75,
-      "upper": 4.0,
+      "upper": 4,
       "period": "2026-09-17",
       "source": "Federal Reserve",
       "url": "https://www.federalreserve.gov/monetarypolicy/openmarket.htm",
@@ -19,23 +19,23 @@
       "verified_at": "2026-11-26T13:14:37+00:00"
     },
     "ism_manufacturing": {
-      "value": 54.5,
-      "period": "2026-09",
+      "value": 55.5,
+      "period": "2026-10",
       "source": "ISM",
-      "url": "https://www.prnewswire.com/news-releases/manufacturing-pmi-at-54-5-september-2026-ism-manufacturing-pmi-report-302894520.html",
+      "url": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/pmi/october/",
       "unit": "index",
-      "verified_at": "2026-11-26T13:14:37+00:00"
+      "verified_at": "2026-11-26T13:30:00Z"
     },
     "ism_services": {
-      "value": 54.9,
-      "period": "2026-09",
+      "value": 54.5,
+      "period": "2026-10",
       "source": "ISM",
-      "url": "https://www.prnewswire.com/news-releases/services-pmi-at-54-9-september-2026-ism-services-pmi-report-302898421.html",
+      "url": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/services/october/",
       "unit": "index",
-      "verified_at": "2026-11-26T13:14:37+00:00"
+      "verified_at": "2026-11-26T13:30:00Z"
     },
     "world_container_index": {
-      "value": 4176.0,
+      "value": 4176,
       "period": "2026-11-19",
       "source": "Drewry",
       "url": "https://www.drewry.co.uk/supply-chain-advisors/supply-chain-expertise/world-container-index-assessed-by-drewry",
@@ -72,7 +72,7 @@
       "verified_at": "2026-11-26T13:14:37+00:00"
     },
     "gold": {
-      "value": 3591.0,
+      "value": 3591,
       "period": "2026-11-26",
       "unit": "usd_oz",
       "source": "Yahoo Finance · COMEX",
