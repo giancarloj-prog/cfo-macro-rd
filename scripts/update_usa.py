@@ -245,7 +245,7 @@ def pmi(kind, previous):
             if not value or not period: raise ValueError('Faltan el PMI principal y su mes en el encabezado')
             v=float(value[1]); p=f'{period[2]}-{MONTHS[period[1].lower()]:02d}'
             if not 0 <= v <= 100: raise ValueError('PMI fuera de rango')
-            if p < prior.strftime('%Y-%m') and previous.get('period','') != p: raise ValueError('Informe anterior al mes esperado')
+            if p < previous.get('period',''): raise ValueError('Informe anterior al dato guardado')
             return {'value':v,'period':p,'source':'ISM','url':url,'unit':'index'}
         except Exception as exc: errors.append(str(exc))
     # ISM also publishes its own releases on PR Newswire. Discover only from
