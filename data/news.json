@@ -1,7 +1,7 @@
 {
   "date": "2026-11-26",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-26T08:35:31+00:00",
+  "checked_at": "2026-11-26T13:15:53+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -29,36 +29,85 @@
     "usa": {
       "ok": true,
       "error": null,
-      "count": 2
+      "count": 1
     },
     "europa": {
       "ok": true,
       "error": null,
-      "count": 7
+      "count": 11
     },
     "global": {
       "ok": true,
       "error": null,
-      "count": 4
+      "count": 3
     }
   },
   "items": [
     {
-      "title": "Sanofi Strikes $41 Billion Deal to Buy U.S. Drugmaker Insmed",
-      "publisher": "WSJ",
-      "publisher_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaVBfakx5WUY1dzBVU0lscUpnMDNrd19fN25wcFpwMU9Wb2ZxdUpOZVJSX2I4NV9sWXlKY2lUeTduMjdLdURsaVVwc2U5dEtQblVuUS12S2RPWl80SjBYdDMzQlpKcTctOFg1SzdRdi1QSWsyakx3ZDFtWWxxSU9DdzRQclZTUHhL?oc=5",
-      "published_at": "2026-11-26T08:14:14+00:00",
+      "title": "FDA clears DeepHealth's AI tool for 3D mammograms",
+      "publisher": "pharmaphorum",
+      "publisher_url": "https://pharmaphorum.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1QTFY5OXB2MXR4OWp5ZWxQRXVyTml2NDNUSzQxSk5vNlQ4WG03Vk9yUm85Zl84TS1pc0tDdVl5SVlfd3JCSW1QTGxzZjdRMkZsc0FLSHlzSVFDVUxFU0NwLVA5Wlg5NHEwbFhPeXBTUmdrVk9tbzA3TzlpNHlhV1E?oc=5",
+      "published_at": "2026-11-26T12:33:32+00:00",
       "regions": [
-        "global",
-        "usa"
+        "europa"
+      ]
+    },
+    {
+      "title": "IBA says radiopharma boom drives machine sales, isotope trials carry new opportunities",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNX0dydjloUlNXT0lUUDlsVEpHeDVYZ2RtNnV0azVfXzgtNF9LVDQwc01ZS0haNHJrQWtEMVphYVhwNTg1NzFWcWpyYi1nY0Z4Q3F1RzlOSjFHbDRvY0ZlcWJGdzBhTHBwVjZvbWZFS0dEX1hlbFhWblVKODhsRUc1RjROeHF1cTV4eUhZamxacm1qN05UbXRsU1k5T3BOR1RPb19McW8tM1dUQjFFQk9WRDRpZVVVMnZ3ek1rUXY0TG1YVDFrS0pmSEFCbzM3QlJXekRVeklPRzhmUUk?oc=5",
+      "published_at": "2026-11-26T12:13:23+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "Hyphens Pharma licenses Seysara® for ASEAN countries – Company Announcement",
+      "publisher": "Financial Times",
+      "publisher_url": "https://markets.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTTE4SlczTkhSb2pKeVFibWN1RXNDVXBJcl96a1JvcTF5Vkgzakd6ZGsweE5Zc2tnUUpxS0EzVkptWFl6d3lTQXNOUWlCTU9sRnI5Y3p3U2VRV2I3clNEbkxJN0s2TnIyWDdkNjBoM1ptOHZMTFBWbkVwemQ0MFdNTDZQdnV3U0U1MDhTUXEwb2lsYkk2Y3duZA?oc=5",
+      "published_at": "2026-11-26T10:42:00+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "Cheaper, generic HIV prevention drug arrives in Zambia",
+      "publisher": "Euronews.com",
+      "publisher_url": "https://www.euronews.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWTVvcE5wTFpBZ0Z1cGhuNEROMWNsOTlwUUwybFR4ZGxvX1NsX0VhMjViXzNDU1lmRzJfdldRTHlka2tqOUpnNzlrZ01YS01QUVE4RFpna0tjTmFhUWVoaWNkMWVMSVhLemV5YjZFdEZMV3BpYUxuZDZtdko3QmthWjhsMURJWGFjZV9femY3VjBIcEE?oc=5",
+      "published_at": "2026-11-26T09:58:25+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "Medicamentos: ¿por qué Panamá sigue pagando más por lo mismo?",
+      "publisher": "La Prensa Panamá",
+      "publisher_url": "https://www.prensa.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQ1l1RGdTMW80ZnlxdlVRc0V6UkNNcjQwRmxzeG5lOHFLZGs2UGoxZ3AyRVV3MGNmWG5uYjVLRmRDSVQ5QktOT2UydU9rUkRuUGhYZGE3TUxpX3V2R0pmdHgyUmdrSmxXZ2RqVy1COEdvMVItWnd2WlVuYmVUWUZ2Vi1qM0ZXSkdLNjBvQWpUYkdIN3oz?oc=5",
+      "published_at": "2026-11-26T09:56:15+00:00",
+      "regions": [
+        "centroamerica"
+      ]
+    },
+    {
+      "title": "Drug-driving arrest after lorry crash shuts road",
+      "publisher": "BBC",
+      "publisher_url": "https://www.bbc.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE83VFktYmVqSXg1RVNFYU1odWVyNjA3RUQ5YUlkbXJqM0ZoNU1SNVFWLWRYNm4yRjh5MWVEUlhOYUlaY3ZQdUY1Q0JyeF9UZTdSRVQ5OC1fYVVpQ09LSEE?oc=5",
+      "published_at": "2026-11-26T07:29:48+00:00",
+      "regions": [
+        "europa"
       ]
     },
     {
       "title": "Drug-driving arrest after \"overturned\" lorry shuts A36 near Ower",
       "publisher": "BBC",
-      "publisher_url": "https://www.bbc.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE83VFktYmVqSXg1RVNFYU1odWVyNjA3RUQ5YUlkbXJqM0ZoNU1SNVFWLWRYNm4yRjh5MWVEUlhOYUlaY3ZQdUY1Q0JyeF9UZTdSRVQ5OC1fYVVpQ09LSEE?oc=5",
+      "publisher_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54THRERWszeVlGYngySWFFYThZdUxKQ1g3YnFvOTRTMG1iMkJpM3oxNy03UV9xc2IyYlZKam1qdk9POEY0UmExOUdDOEJQWnNzdHdrM0E1RTZYSmM?oc=5",
       "published_at": "2026-11-26T07:29:48+00:00",
       "regions": [
         "europa"
@@ -146,16 +195,6 @@
       "published_at": "2026-11-26T04:13:02+00:00",
       "regions": [
         "mexico"
-      ]
-    },
-    {
-      "title": "Medicamentos: ¿por qué Panamá sigue pagando más por lo mismo?",
-      "publisher": "La Prensa Panamá",
-      "publisher_url": "https://www.prensa.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQ1l1RGdTMW80ZnlxdlVRc0V6UkNNcjQwRmxzeG5lOHFLZGs2UGoxZ3AyRVV3MGNmWG5uYjVLRmRDSVQ5QktOT2UydU9rUkRuUGhYZGE3TUxpX3V2R0pmdHgyUmdrSmxXZ2RqVy1COEdvMVItWnd2WlVuYmVUWUZ2Vi1qM0ZXSkdLNjBvQWpUYkdIN3oz?oc=5",
-      "published_at": "2026-11-26T04:01:44+00:00",
-      "regions": [
-        "centroamerica"
       ]
     }
   ],

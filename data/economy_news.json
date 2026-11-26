@@ -1,7 +1,7 @@
 {
   "date": "2026-11-26",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-26T08:35:30+00:00",
+  "checked_at": "2026-11-26T13:15:53+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -28,12 +28,12 @@
     "fiscal": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 1
     },
     "dgii": {
       "ok": true,
       "error": null,
-      "count": 4
+      "count": 3
     },
     "finance": {
       "ok": true,
@@ -82,6 +82,38 @@
     }
   },
   "items": [
+    {
+      "title": "¿Cuáles son los errores financieros más comunes durante el Viernes Negro?",
+      "publisher": "El Caribe",
+      "publisher_url": "https://www.elcaribe.com.do",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRlF2T29ITzhseENYZ2xTdVh0S2xjZWN4aTBXc05XQzJFdDdoMFY5Yl91cjJkX01wTlpvR205bWdxV0dvTDVYRG1DMTMxRlIxYkZONHdHdTF3MHc0SnRYeDV2c0VfNkdCYkZxYkd2eXdWa2FXMGw5Q3IxY2FPbm1aOW9GUVp5UUlab1cwU0xkclljaWxEdkl0SVVTUjdPYTRoZkE2ZnJSajVaX0l4bGc?oc=5",
+      "published_at": "2026-11-26T11:00:00+00:00",
+      "topics": [
+        "fiscal"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "fiscal"
+      ]
+    },
+    {
+      "title": "Jairon Severino: elDinero crea con su foro anual un espacio de aportes",
+      "publisher": "Periódico elDinero",
+      "publisher_url": "https://eldinero.com.do",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNeW5RTGE1TWpWUnk2RjZFT3hZSEVvSHR6ZnBrZ2cxeFRuc3pxU2Ridk1WWHdVZjlCQ1c0cWc3d1dBYmtPRFJ2ZGtUbTcxQ21lbzJjTDd1N2U4bzdQV000N091dVFXTzVGQVVLaDIwaGstXzA3Q1JzWUhFS2pnTUdUdGtaekxabXFjMDh4Y0NsbDU3U0FINzRuSHBkUnlZbVAycElvT3FZYjdzMFNwcEkxRlpKWDEwTnJCQmR2S1k0akJIUEI4d1RQdlF3RVAxa2kxN3gxNk43b05icDRmTnoyc3N4MU53Zw?oc=5",
+      "published_at": "2026-11-26T07:18:47+00:00",
+      "topics": [
+        "opinion"
+      ],
+      "economists": [
+        "andy"
+      ],
+      "economist_match": "search",
+      "searches": [
+        "economist_andy"
+      ]
+    },
     {
       "title": "Ovalle propone reformar incentivos fiscales en República Dominicana",
       "publisher": "Periódico elDinero",
