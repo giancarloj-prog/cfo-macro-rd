@@ -1,7 +1,7 @@
 {
   "date": "2026-11-25",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-25T19:58:29+00:00",
+  "checked_at": "2026-11-26T02:53:12+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -23,7 +23,7 @@
     "bcrd": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 7
     },
     "fiscal": {
       "ok": true,
@@ -33,12 +33,12 @@
     "dgii": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 1
     },
     "finance": {
       "ok": true,
       "error": null,
-      "count": 2
+      "count": 3
     },
     "securities": {
       "ok": true,
@@ -48,7 +48,7 @@
     "economy": {
       "ok": true,
       "error": null,
-      "count": 3
+      "count": 7
     },
     "economist_andy": {
       "ok": true,
@@ -82,6 +82,108 @@
     }
   },
   "items": [
+    {
+      "title": "La economía dominicana registró un crecimiento interanual del 5,4 % en octubre",
+      "publisher": "El Dia.com.do",
+      "publisher_url": "https://eldia.com.do",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPR25LblNQX2Y0SlAzNUZKX2lEYTRTRURXb1FVUVRHZVUyMjBaSWZ4cG9UX3RuVmdxOElSS0dSRDVTUG54TUtsUkJJaUtxTWlQNzV3RGdzVlRrWmpTdXJZRHVKYVh6bjl4V0E5M3Z5dk8xSDZqU2ZvcGZ6UHVrUFJMUzc4ZXhfRjh4OU16UktnMkp6LXRVWUhMTndhWlpXZw?oc=5",
+      "published_at": "2026-11-26T01:30:32+00:00",
+      "topics": [
+        "bcrd",
+        "economy"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "bcrd",
+        "economy"
+      ]
+    },
+    {
+      "title": "Banco Central celebra encendido de árbol y Belén navideños",
+      "publisher": "Acento",
+      "publisher_url": "https://acento.com.do",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaWV5OHBQcXFDMF9qLXpYVUQ5TlNXV01NRm9saGpQc010bmE5X0tnbWlSRE0ycmdmSVNOUXZiZlRtZDA1UjBEd0oyMVk2V1BuOFdwclFfQ0JIZUc1eno1VDRyZ0swbG9wV1NRZHVzUEVGWTRjWDZyenhqVDdlU09laHQ4QnFYYmVrTjM1TDFEcjlwVGQ0V0VMUkpTbnFkb1hqUzdNU9IBpAFBVV95cUxNaWV5OHBQcXFDMF9qLXpYVUQ5TlNXV01NRm9saGpQc010bmE5X0tnbWlSRE0ycmdmSVNOUXZiZlRtZDA1UjBEd0oyMVk2V1BuOFdwclFfQ0JIZUc1eno1VDRyZ0swbG9wV1NRZHVzUEVGWTRjWDZyenhqVDdlU09laHQ4QnFYYmVrTjM1TDFEcjlwVGQ0V0VMUkpTbnFkb1hqUzdNUw?oc=5",
+      "published_at": "2026-11-25T22:00:37+00:00",
+      "topics": [
+        "bcrd",
+        "finance"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "bcrd"
+      ]
+    },
+    {
+      "title": "Mejoras salariales impactan recaudaciones por impuesto sobre la renta a personas",
+      "publisher": "Diario Libre",
+      "publisher_url": "https://www.diariolibre.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQ000VXhKdjdMa3ZlRE5uYmdHMUQ3RFhvd0Z0YmowNXkwMnRkMWxBSTVWLVZ6SGpMc05USHZnX1NQRFFlZ0d2ZlV0RVphN0xGNXY3QjU3WF9GSVpzZ0x5UG9HQ3hNSHlqN0FZWktJTW5mMGl6UGJHVC1WN0txZmNtUjdMRk1yTTV0b3M3RFVMbDBCLWh3TXBUYjNwWFdsUVRENjZIMThQRDUxN00xdTBnV0FNbktrbkxqamdCdnFhRmI4andObU0wU9IByAFBVV95cUxPQ000VXhKdjdMa3ZlRE5uYmdHMUQ3RFhvd0Z0YmowNXkwMnRkMWxBSTVWLVZ6SGpMc05USHZnX1NQRFFlZ0d2ZlV0RVphN0xGNXY3QjU3WF9GSVpzZ0x5UG9HQ3hNSHlqN0FZWktJTW5mMGl6UGJHVC1WN0txZmNtUjdMRk1yTTV0b3M3RFVMbDBCLWh3TXBUYjNwWFdsUVRENjZIMThQRDUxN00xdTBnV0FNbktrbkxqamdCdnFhRmI4andObU0wUw?oc=5",
+      "published_at": "2026-11-25T21:11:00+00:00",
+      "topics": [
+        "dgii"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "dgii"
+      ]
+    },
+    {
+      "title": "La economía dominicana creció 5.4 % interanual en octubre 2026, dice el Banco Central",
+      "publisher": "Hoy Digital",
+      "publisher_url": "https://hoy.com.do",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcW1zbUM2REhGRjZ5LXpwNkZEdkhwMVdZTWQwaTJCbGVqdnFzRl9tZ1FCWUpfTjhxa3B0UkMzcDlQM1hHam9EM201RXVEaFhQN0VCT05IajNFclRRUHdNbnE2RVdkblFlc1FnSVZXUUZTaHdWcEh1S0JWYlRsVlhGV2RNMXJYOG40VFFaUTVIdUJ3SHk2YldGaVNGaGNxMTV1MWkyVnBUNm01S3JYTjhfNHNzYUbSAboBQVVfeXFMUEQwMXJWVEtUb0JXVE8yR211Y0d6ejhWQkF4VDNMQWRSdi1nbExqYUljWFFuM0hJWkhJNVJ4cGZVaFlGMTJpaWNUdnY4aDI4dnVtZkRpeGI5Um9pb2IyWHEySFlJMEpRTGFteEVyeEVVWUZfWU1MR1hKbkd4SWFLRDRxdFRSZ2tOeU1ZanVNZktjU012dkYzUWZTQUpIbHplSHZudjhjLWFZSXFmZ0pXdnlxWnYybXNHbElB?oc=5",
+      "published_at": "2026-11-25T20:18:12+00:00",
+      "topics": [
+        "bcrd",
+        "economy",
+        "finance"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "bcrd",
+        "economy"
+      ]
+    },
+    {
+      "title": "La economía dominicana crece 5.4 % a octubre, impulsada por la construcción",
+      "publisher": "Diario Libre",
+      "publisher_url": "https://www.diariolibre.com",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcFZxVWlNdVcwUDZMWHhlUi1fanB4TUwyUmFmZDdJTFJVbWlKeXBOay1IX1djMG1lSHl3VmROcDFSOVprRmRXZFE0dmNkZDNPZG85ZHR5bVhrS0FwZ1hISzBWTDZJVWpNcUNXWFpaV1pzQ2tnZW0wYVFJMVBHNDQtZEg5VkFzQW0yR1NITXRUZzJsU0NtQUpROGtZeTN2MnlqMnpXanIyZldjbkZJTl9xLWxjRzJ4eG5FQzFuc0RBNTJqN1JBV2dXMEp30gHPAUFVX3lxTE9nRHdLVHh0bnl3U19VTzdVdXBHYUZkM250bENYSjJqRUl2SlRXY012dDNvblQyNkdhdmZzczdoTkpVejV4dGlkX2ZhM0JkdHFodHNQejdJOWwyN3RZTmt5eGVoOEphazB5WXdwcWEyYlNsS0dmSHZXRHhfdDBFMHpqSmpOWWJKeGJjdU16YjVZaWFOREhMVE9NUTlpRGxKU0dtSEVxYnpwT0lPYTZvZ3hVZXJUTkhBYU1fZ2lhVGQxcHd2c0dxaEh5Y2xBd1NBMA?oc=5",
+      "published_at": "2026-11-25T20:09:00+00:00",
+      "topics": [
+        "bcrd",
+        "economy"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "bcrd",
+        "economy"
+      ]
+    },
+    {
+      "title": "Economía dominicana crece 5.4 % en octubre y acumula expansión de 4.7 % durante 2026",
+      "publisher": "Acento",
+      "publisher_url": "https://acento.com.do",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMVVTQVVvQU9XSzE2RmRKQ2VHWHNPbXJjV0FzSTloSEZjYzc1RkJaZFRGNlZEVFFvMnFmdTBzaGRmR3dQNy00X2djdkdFUDI4TmdCMnhKVVZtekU4a0VrbFBaREdPS2luSmFVTnRSSmptN2hUYVdGdkExQTJ0ZV9pbm1IbWJUOWNMUVdhUjN6ejNBT2d0Z0JMdllPRWZkU2hUVy1nZ1FaTFNfZ2NYN1ViS2Z2Mi1ncjdoU3ZaaWpReGpkQdIBwgFBVV95cUxOMVVTQVVvQU9XSzE2RmRKQ2VHWHNPbXJjV0FzSTloSEZjYzc1RkJaZFRGNlZEVFFvMnFmdTBzaGRmR3dQNy00X2djdkdFUDI4TmdCMnhKVVZtekU4a0VrbFBaREdPS2luSmFVTnRSSmptN2hUYVdGdkExQTJ0ZV9pbm1IbWJUOWNMUVdhUjN6ejNBT2d0Z0JMdllPRWZkU2hUVy1nZ1FaTFNfZ2NYN1ViS2Z2Mi1ncjdoU3ZaaWpReGpkQQ?oc=5",
+      "published_at": "2026-11-25T20:01:53+00:00",
+      "topics": [
+        "bcrd",
+        "economy",
+        "finance"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "bcrd",
+        "economy",
+        "finance"
+      ]
+    },
     {
       "title": "Fuerza del Pueblo critica decisiones monetarias del Banco Central para controlar inflación",
       "publisher": "Diario Libre",
