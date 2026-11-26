@@ -1,7 +1,7 @@
 {
   "date": "2026-11-26",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-26T13:37:06+00:00",
+  "checked_at": "2026-11-26T13:45:10+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -17,9 +17,9 @@
       "count": 1
     },
     "centroamerica": {
-      "ok": false,
-      "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%28medicamentos+OR+farmac%C3%A9utica+OR+farmacia+OR+vacunas%29+%28site%3Aprensa.com+OR+site%3Alaestrella.com.pa+OR+site%3Alaprensani.com%29++after%3A2026-11-25+before%3A2026-11-28&hl=es-419&gl=MX&ceid=MX%3Aes-419",
-      "count": 0
+      "ok": true,
+      "error": null,
+      "count": 1
     },
     "mexico": {
       "ok": true,
@@ -32,9 +32,9 @@
       "count": 1
     },
     "europa": {
-      "ok": false,
-      "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%28pharma+OR+drug+OR+biotech+OR+pharmaceutical+OR+medicine%29+%28site%3Areuters.com+OR+site%3Abbc.com+OR+site%3Abbc.co.uk%29+%28Europe+OR+Europa+OR+European+OR+EU+OR+EMA+OR+UK%29+after%3A2026-11-25+before%3A2026-11-28&hl=en-US&gl=US&ceid=US%3Aen",
-      "count": 6
+      "ok": true,
+      "error": null,
+      "count": 11
     },
     "global": {
       "ok": true,
@@ -64,6 +64,16 @@
       ]
     },
     {
+      "title": "Cupón Farmacias del Ahorro: hasta 70% en Noviembre 2026",
+      "publisher": "El Universal",
+      "publisher_url": "https://www.eluniversal.com.mx",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVnI0QTNHaVkxbzBYemh6MWZfVjFvT2prNlU0SS1VVE54UHpiU196eTlBVS1zWk0wM3FNbXhrSWlxLXZLZkVjejZ0allBM2w4SFBlSE9BVEJybUVoYWdtRXJsMFlKYi1VNWtaY3gyVUVJQ0w2cmZIc21fRmxPOTBpRUJB?oc=5",
+      "published_at": "2026-11-26T11:53:55+00:00",
+      "regions": [
+        "mexico"
+      ]
+    },
+    {
       "title": "Hyphens Pharma licenses Seysara® for ASEAN countries – Company Announcement",
       "publisher": "Financial Times",
       "publisher_url": "https://markets.ft.com",
@@ -74,6 +84,16 @@
       ]
     },
     {
+      "title": "Medicamentos: ¿por qué Panamá sigue pagando más por lo mismo?",
+      "publisher": "La Prensa Panamá",
+      "publisher_url": "https://www.prensa.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQ1l1RGdTMW80ZnlxdlVRc0V6UkNNcjQwRmxzeG5lOHFLZGs2UGoxZ3AyRVV3MGNmWG5uYjVLRmRDSVQ5QktOT2UydU9rUkRuUGhYZGE3TUxpX3V2R0pmdHgyUmdrSmxXZ2RqVy1COEdvMVItWnd2WlVuYmVUWUZ2Vi1qM0ZXSkdLNjBvQWpUYkdIN3oz?oc=5",
+      "published_at": "2026-11-26T10:06:11+00:00",
+      "regions": [
+        "centroamerica"
+      ]
+    },
+    {
       "title": "Cheaper, generic HIV prevention drug arrives in Zambia",
       "publisher": "Euronews.com",
       "publisher_url": "https://www.euronews.com",
@@ -81,16 +101,6 @@
       "published_at": "2026-11-26T09:58:25+00:00",
       "regions": [
         "europa"
-      ]
-    },
-    {
-      "title": "Medicamentos: ¿por qué Panamá sigue pagando más por lo mismo?",
-      "publisher": "La Prensa Panamá",
-      "publisher_url": "https://www.prensa.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQ1l1RGdTMW80ZnlxdlVRc0V6UkNNcjQwRmxzeG5lOHFLZGs2UGoxZ3AyRVV3MGNmWG5uYjVLRmRDSVQ5QktOT2UydU9rUkRuUGhYZGE3TUxpX3V2R0pmdHgyUmdrSmxXZ2RqVy1COEdvMVItWnd2WlVuYmVUWUZ2Vi1qM0ZXSkdLNjBvQWpUYkdIN3oz?oc=5",
-      "published_at": "2026-11-26T09:56:15+00:00",
-      "regions": [
-        "centroamerica"
       ]
     },
     {
@@ -185,16 +195,6 @@
       "published_at": "2026-11-26T04:23:39+00:00",
       "regions": [
         "rd"
-      ]
-    },
-    {
-      "title": "Cupón Farmacias del Ahorro: hasta 70% en Noviembre 2026",
-      "publisher": "El Universal",
-      "publisher_url": "https://www.eluniversal.com.mx",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVnI0QTNHaVkxbzBYemh6MWZfVjFvT2prNlU0SS1VVE54UHpiU196eTlBVS1zWk0wM3FNbXhrSWlxLXZLZkVjejZ0allBM2w4SFBlSE9BVEJybUVoYWdtRXJsMFlKYi1VNWtaY3gyVUVJQ0w2cmZIc21fRmxPOTBpRUJB?oc=5",
-      "published_at": "2026-11-26T04:13:02+00:00",
-      "regions": [
-        "mexico"
       ]
     }
   ],
