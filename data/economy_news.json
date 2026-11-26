@@ -1,7 +1,7 @@
 {
   "date": "2026-11-26",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-26T13:15:53+00:00",
+  "checked_at": "2026-11-26T13:37:05+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -28,7 +28,7 @@
     "fiscal": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 0
     },
     "dgii": {
       "ok": true,
@@ -36,9 +36,9 @@
       "count": 3
     },
     "finance": {
-      "ok": true,
-      "error": null,
-      "count": 2
+      "ok": false,
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%28banca+OR+%22sector+financiero%22+OR+%22superintendencia+de+bancos%22+OR+%22",
+      "count": 0
     },
     "securities": {
       "ok": true,
@@ -48,7 +48,7 @@
     "economy": {
       "ok": true,
       "error": null,
-      "count": 5
+      "count": 4
     },
     "economist_andy": {
       "ok": true,
@@ -168,21 +168,6 @@
       ]
     },
     {
-      "title": "Manuel Grullón destaca impacto de la bancarización en microemprendedores",
-      "publisher": "Periódico elDinero",
-      "publisher_url": "https://eldinero.com.do",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQN0lqNVZWSGlXanRlZ0VwaWRyVW1sLVNMWHhmaEt3OVBwWjVkLWRWQW9zZmduOTQwdnBmSFlIRXlyZGZEeDcwNFFIaEdIcDMzakNuZk1GUnFGb092bUsxYlVleFlKZXotQ1dud05DaG9FUk44TVprUjNIdlNXeFhDTHotUmlsYWdMSThDSFQtOEJheTNyY1VxbDRZQ0kwOWV4dnNlcUIxOA?oc=5",
-      "published_at": "2026-11-26T05:55:09+00:00",
-      "topics": [
-        "finance"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "finance"
-      ]
-    },
-    {
       "title": "Capellán propone integrar a Haití en estrategia económica dominicana",
       "publisher": "Periódico elDinero",
       "publisher_url": "https://eldinero.com.do",
@@ -195,6 +180,21 @@
       "economist_match": null,
       "searches": [
         "economy"
+      ]
+    },
+    {
+      "title": "Manuel Grullón destaca impacto de la bancarización en microemprendedores",
+      "publisher": "Periódico elDinero",
+      "publisher_url": "https://eldinero.com.do",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQN0lqNVZWSGlXanRlZ0VwaWRyVW1sLVNMWHhmaEt3OVBwWjVkLWRWQW9zZmduOTQwdnBmSFlIRXlyZGZEeDcwNFFIaEdIcDMzakNuZk1GUnFGb092bUsxYlVleFlKZXotQ1dud05DaG9FUk44TVprUjNIdlNXeFhDTHotUmlsYWdMSThDSFQtOEJheTNyY1VxbDRZQ0kwOWV4dnNlcUIxOA?oc=5",
+      "published_at": "2026-11-26T05:55:09+00:00",
+      "topics": [
+        "finance"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "finance"
       ]
     },
     {
