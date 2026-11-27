@@ -1,7 +1,7 @@
 {
   "date": "2026-11-27",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-27T08:49:28+00:00",
+  "checked_at": "2026-11-27T19:32:37+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -33,12 +33,12 @@
     "dgii": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 2
     },
     "finance": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 2
     },
     "securities": {
       "ok": true,
@@ -48,7 +48,7 @@
     "economy": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 3
     },
     "economist_andy": {
       "ok": true,
@@ -68,7 +68,7 @@
     "economist_raul": {
       "ok": true,
       "error": null,
-      "count": 2
+      "count": 3
     },
     "economist_jose_luis": {
       "ok": true,
@@ -82,6 +82,87 @@
     }
   },
   "items": [
+    {
+      "title": "Altagracia Tavárez plantea que la educación superior será clave para transformar la economía dominicana hacia 2040",
+      "publisher": "El Nuevo Diario",
+      "publisher_url": "https://elnuevodiario.com.do",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPWGpXbGkxcnZkbXh1b3ZLT24wZzRqTXhNTWtxRkRaaUhHSmRWXzlJSFRmOUs0b1dHQktrSFUyVUNFb3pNa2pFbUhxUWJKUEJFdHZDV1d2d2t2M3pvMUJrUC1CNmU0QlBDUDBzcTgzTkc3bmZNdVRza04zbVRacWhnMTZrWDZleVFkTTY1TjBKMmRESTlhTHJlWkRnNjV0U3pfYk9DcWExLXRNTFNFOTFjMnVXTmowejIxc1pGbmRPbTdxUEpiMHg4WFpqSjFLd1RlZW9Id1N6YnZlMXF4?oc=5",
+      "published_at": "2026-11-27T16:40:08+00:00",
+      "topics": [
+        "economy"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "economy"
+      ]
+    },
+    {
+      "title": "¿Cómo saber si te tocan los RD$1,500? Guía completa y preguntas frecuentes del Bono Navideño 2026",
+      "publisher": "Acento",
+      "publisher_url": "https://acento.com.do",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZmduZlN1VnIwZkVJcm9lRHhFWm5PdkhwdlBGeGtwdHNFZHJSdFQtNHczV3IyX3RHcGtSMzhRaWI3S1hfOGY1bUkxNGt4Tng3YTBZUHN3NFpXZ3FFYWdVZENWV2VoYnlSSGFua0NjeTBwLXZhRWttVEdSX2ZaSlJsMGFFQXFIcm5fdDdpcHlNWnJmZ0NJTy1BVjVzdW5JeGszRzdkN1dSQXE3b2F2ZUxYbFU5bTFWSWZRV0ZaVUZWSU9vZ25lWUFEbHZqTThpY3JwN0JCUVl30gHWAUFVX3lxTFBmZ25mU3VWcjBmRUlyb2VEeEVabk92SHB2UEZ4a3B0c0VkclJ0VC00dzNXcjJfdEdwa1IzOFFpYjdLWF84ZjVtSTE0a3hOeDdhMFlQc3c0WldncUVhZ1VkQ1ZXZWhieVJIYW5rQ2N5MHAtdmFFa21UR1JfZlpKUmwwYUVBcUhybl90N2lweU1acmZnQ0lPLUFWNXN1bkl4azNHN2Q3V1JBcTdvYXZlTFhsVTltMVZJZlFXRlpVRlZJT29nbmVZQURsdmpNOGljcnA3QkJRWXc?oc=5",
+      "published_at": "2026-11-27T16:33:38+00:00",
+      "topics": [
+        "finance"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "finance"
+      ]
+    },
+    {
+      "title": "AmchamDR y congresistas estadounidenses abordan relaciones económicas bilaterales",
+      "publisher": "Diario Libre",
+      "publisher_url": "https://www.diariolibre.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ1I2ZlFiSnRGYjZoWExscE1oaDJuUFMycEE4YUtKTDdobnoxUUJmY3FHeDZnUmxhRnZrWVlZQ0R6dk01VUFMSjNndGo0Wkp1V2dWZk1EbmNfSy1TY241bmRaeWNWNFZCM1JhcXZYN2Zod2ZwQ1NyZ0MzMDZlaEZqSmhVcjMyZkxmZjRQbGZpQnVpSUR1N2o4R1JYcFpabkgwdk5RMjBWRkFmbk5Yc1plbEgyQlh5RXlLQUHSAb8BQVVfeXFMUFd1akRIaFZXOFpjUzVMekdYYmdDMTBUYXNJcG9iWTJXZUhQdkZZZzdadEJxSDB6MkktbUVfcGtCVnBFUXFmaC0zREJmb0dHSG00dDRRWHV2Wi1BUEdUTk9pQkVFcTNWdGF6Y3RhODAtZjlvYUJubHhlVUJDZU0tb19rQXo5bzNCUjg1NzJoSG1mbURLTVFwdHFrc3pzTlJTZTZ2OGNVUlVrZXNWUE5fU1ZrS3loU1M3Z3FHakxGX3M?oc=5",
+      "published_at": "2026-11-27T16:06:00+00:00",
+      "topics": [
+        "economy",
+        "opinion"
+      ],
+      "economists": [
+        "raul"
+      ],
+      "economist_match": null,
+      "searches": [
+        "economist_raul",
+        "economy"
+      ]
+    },
+    {
+      "title": "Impuestos Internos DGII pide aprovecharla amnistía fiscal",
+      "publisher": "El Caribe",
+      "publisher_url": "https://www.elcaribe.com.do",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPT3lKY0lYYVJwaV9QNzVxZmZnNDlvLURPSU9YZmhCTzV6N01md0YxZkViR0xsWjJKdXozX2dfM1pHeXRFXzFVTF9aZWJjcXRFdHpsaEhmNmowcE1VckxhM2g5eUkySkMwMU1EN2RPc0R5dzhCN0NuZmF0LVdfWFQ1cjdiQlRUeks2UjBvTUdMbU5obFdWbkFJVDl2V21OMTBiRG5ZZg?oc=5",
+      "published_at": "2026-11-27T16:00:00+00:00",
+      "topics": [
+        "dgii"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "dgii"
+      ]
+    },
+    {
+      "title": "Inflación, tasa de interés y expectativas 2027",
+      "publisher": "El Nuevo Diario",
+      "publisher_url": "https://elnuevodiario.com.do",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSG1TQUhFSTlaamZmUFNuSnBqQ2h1VHlxM3dDQ3JGckNDdmpKTy1YcGYzZF96NjJyUHZtVmZfdEFzNkNZT3o3d3BfQmh0MklVeUplbjBYSHBYRTh4d205eXRRcTRpNEpTTUhsTGp0Y3JHeTVTVFFlSDhYcGVfQ1p2dg?oc=5",
+      "published_at": "2026-11-27T13:19:11+00:00",
+      "topics": [
+        "economy",
+        "finance"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "economy",
+        "finance"
+      ]
+    },
     {
       "title": "La deuda pública crece casi un 10 % este año impulsada por emisiones internas",
       "publisher": "Diario Libre",

@@ -1,7 +1,7 @@
 {
   "date": "2026-11-27",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-27T08:49:29+00:00",
+  "checked_at": "2026-11-27T19:32:38+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -14,7 +14,7 @@
     "rd": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 2
     },
     "centroamerica": {
       "ok": true,
@@ -24,28 +24,120 @@
     "mexico": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 3
     },
     "usa": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 3
     },
     "europa": {
-      "ok": false,
-      "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%28pharma+OR+drug+OR+biotech+OR+pharmaceutical+OR+medicine%29+%28site%3Aeldiario.es+OR+site%3Apharmaphorum.com%29+%28Europe+OR+Europa+OR+European+OR+EU+OR+EMA+OR+UK%29+after%3A2026-11-26+before%3A2026-11-29&hl=en-US&gl=US&ceid=US%3Aen",
-      "count": 4
+      "ok": true,
+      "error": null,
+      "count": 8
     },
     "global": {
       "ok": true,
       "error": null,
-      "count": 3
+      "count": 5
     }
   },
   "items": [
     {
+      "title": "Cofepris alerta por medicamentos Ozempic y Saxenda falsificados • Salud",
+      "publisher": "Forbes México",
+      "publisher_url": "https://forbes.com.mx",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbEFVRm9BWFI3V1dveC1oQmtGaUFzSERFVElKRTdRV0pLQVhiaHB1dlloNk9SemJELXRoOExjVGF0VHJkNlU2TTJQYU1tOWlRSkFSejhLVExBbXJxQTBUZ0ZobmhFY29IOEFDZmFkb1hfT2N6eDk5Qmd1M0E4bE84WWtyVC14Qnk2ZTZYdzlJYw?oc=5",
+      "published_at": "2026-11-27T18:39:00+00:00",
+      "regions": [
+        "mexico"
+      ]
+    },
+    {
+      "title": "Escuela de Farmacia de la UASD celebra 148 aniversario con ofrenda floral",
+      "publisher": "El Nuevo Diario",
+      "publisher_url": "https://elnuevodiario.com.do",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOY2gwa3hNUFpRdHNHeWoyUkxYSlV5bVg5bjN1WERVdjJ1cjF3ZGc5R3JhdElsQnZVWm82T1ZfckFtamhMekJnV1FsbTdXRUl5Ny1fWWV2NWlyajZWWEU3LUN1UXFUMm45bS1xS1otRkpJcVRiNTVGQzllTmw4TWdtMWJ2eDRuTGF4cThpT1NHNkszZ25QVGkzdTUtUHZ2dDFzZ2dqUnJB?oc=5",
+      "published_at": "2026-11-27T18:25:10+00:00",
+      "regions": [
+        "rd"
+      ]
+    },
+    {
+      "title": "Crece uso de fármacos como Ozempic para tratar la obesidad en Europa; surgieron para atender la diabetes",
+      "publisher": "El Universal",
+      "publisher_url": "https://www.eluniversal.com.mx",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNOHlqT19sU3dTU2hKUHlxYjhUTzRlNmVyLUVkVDBoODhtZDV0b0xMNW5qdFVlTjNpNnVNRzBwVlZfSTNiM3ZSdUdjdE1OSy1tbGhkRE1TajVfRk43ZmtyTlIybWNiMG1hRGNFWmFnblpBOVAwdWsxTTZldU4wLXhscUVtcUVaM1duaW9aQVZaSlFqMWVTZnpzMjhzWnBzU2RWd2xoeE1WQ1VVQWllbVp6YUJPdXNpcldBVzVyT3NDRThNUFFuQWhvUHdwT2dhRHVEZ0k5akE2dF_SAewBQVVfeXFMUFEzcHlFYXB6aU5IeEM2Ylg3MGpYQWtua0hIX0JId18wcnRDRlk1YS1NYWd2RDNrLWthTjNack51UHJNaW0zOFktRk9ESHdBajZueWZ3YWRUQjljVEVkVk05aUV2dlE2aEh5V0ZMeWdHTnpGcVBxRmlyQnRTNXVxYjFKNzVaUnpWMkd2SG9PSl9LVnlZak4wZGNOSDBiR0Z2bVU3ZzhYYl9xLUVfT3pweTBkTmdyYWszajZVQVB2RnkyTUZWam11Sk96MXRDRFNyWTJHemYxRjJjMXNEcjJJZUV5UHBYa0JHOVFBT3A?oc=5",
+      "published_at": "2026-11-27T17:52:21+00:00",
+      "regions": [
+        "mexico"
+      ]
+    },
+    {
+      "title": "Lupin Announces U.S. FDA Approval and Launch of Sitagliptin Tablets, USP in the United States",
+      "publisher": "Financial Times",
+      "publisher_url": "https://markets.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbGFTblUxMXFhMlFuVWpHMW1yT29GQWxjX2ppckZIQlRrbzJETjRjWEZ4cXVIaUV4NVYzeDRkYTktbGVzZ0djd2JyeEVQazBjWml2cFRCTFRUNzFFS0dXSUg3eFJ5V0otLVhjYjFJUjg3MU40cHhPMDd5NV9rM0R0bDZ4UmoxZjBRT0g0Z1lCRU9yNXZ2RXJseA?oc=5",
+      "published_at": "2026-11-27T16:34:00+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "Uso de fármacos como Ozempic se desplaza de diabetes a la obesidad en Europa, según EMA",
+      "publisher": "El Nuevo Diario",
+      "publisher_url": "https://elnuevodiario.com.do",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUDdOMmNFMjlicklld3JiUU9Qd0RWWTM4YWZUQlpRekI4OG0xdThTTHhtYzZmUWxqS0E0WE1nUXhaWlhWeTlvOEtfci1pZ0xKdHpLRWpLQk5UMG9mR1lGZ0FBQXJoTGVmRXFCcTY4MGRFZjBhNGF4TE5JeGozUHpwbUdUNUhWVmRpQ2FyM2dlMEdiR2tablNsRndrTnFHMUNfSnJPbVgzNlFDX2tCTG9MSmJBYWp6TjA?oc=5",
+      "published_at": "2026-11-27T16:30:03+00:00",
+      "regions": [
+        "rd"
+      ]
+    },
+    {
+      "title": "FDA extends assessment of experimental Vertex kidney drug",
+      "publisher": "STAT",
+      "publisher_url": "https://www.statnews.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSlktVUh3aHdqbjVYenhEdjZVWHhhcTBpZ0ZycDFibjc5ekNLdkhSUE43dkVHVG5wSmxmNktrMXgtdV8wNF9OYURFR0p4SWFONlJZNy1WYnQ0bUN5S1NFVllYMTFPNGlVb290T0l3eTh4M3lFSldtU3NiZ0RzLVI5R3FsTzU3WVZOWTBEbmpodWZTNmd3eUUyMFR4bW5VekpXblBBZ0dWZw?oc=5",
+      "published_at": "2026-11-27T16:03:42+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "Tiziana Life Sciences Files Updated Foralumab Annual Safety Report with FDA Confirming Favorable Safety and Tolerability Profile – Company Announcement - FT.com",
+      "publisher": "Financial Times",
+      "publisher_url": "https://markets.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRDNNT0lRbDQ4Y3lNbjJVX3dPRjhGcnMyV04wN25sMjcyM3JGNjMzZ2FJcWhQaU5UQmctQUx0OVdXWEw0TG5kVXYzWl9uVUthWC0xcDBHQUlkSHJoVE9rYVJoOEt6SmN0MjQ5M0NEeDc3Q3NseG03OVI1RU5QS2pyYXA3d3lqYVR2TmlPcktvYjlpV0stOVk0?oc=5",
+      "published_at": "2026-11-27T13:00:00+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "Hetero begins first shipments of generic HIV drug lenacapavir to Africa",
+      "publisher": "pharmaphorum",
+      "publisher_url": "https://pharmaphorum.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTnFSZFhPYlZKNlpfblZBMm13cUFKUFhuRG1MS3VTUGRsUVVFZTJqVHdXaFgtSlZMdHY1WFNLSmxsVGI4aUFQM3lhSUh2c3c5aTh2XzFOSzJiRlotTUdFb1o1aFJXQm5vVUxQV29Xd0NRS1ROT1hJWHVSVFZLS0Q4MTR5MmhUMEVla3ZfZC1kd0U1ZVR5c1VLUktMZw?oc=5",
+      "published_at": "2026-11-27T11:31:59+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "‘We had a drug dealer called Satan on our tour bus’: Britpop stars Echobelly on debauchery, being pals with Oasis – and their spiritual return",
+      "publisher": "The Guardian",
+      "publisher_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPWXRrNnhDdUlPRGZrNGZxVHp1Ul9UUm1vZEJ4aGZrU0JXMFpzQUtIckNYT3h4Zmd5azFCTVBwM2lxaU5qcnBJUnBXcXdpOXlOY1YyYlBqMmM3MzEtb3dONHh6TWM1NGIzSHRFNW1yZWN4cXdGVVJkaGwwQ3h2YnVTQjczbEdkTTRua3VUZmpOa012NlVqa3o4NmsyVHM5ZDQ1TzlXWHRNNkJvbEt2c3lMWEFudlNWa3RuWFhINl9JaC1OcTdPUTJIOEdHdk9DYW5mUnVWNjhZNnJPTmJTelJKWUl0bjlvWTN1R1R4Tld6NHlPcnlLYS1tajdxbUVlNUhWYVhzQXVjMzluY1RKekZz?oc=5",
+      "published_at": "2026-11-27T09:48:00+00:00",
+      "regions": [
+        "europa",
+        "global"
+      ]
+    },
+    {
       "title": "Detienen a cuatro personas tras cometer cuatro asaltos a tiendas Oxxo y farmacias en 84 minutos en La Paz",
-      "publisher": "MILENIO",
+      "publisher": "Milenio",
       "publisher_url": "https://www.milenio.com",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTDhaS0xWaXdfWlVJelA4QTFUblp5TXk4blZmOHh4OThJRjdhRi1nN1B0cmo3U3hMT0haSXNEY3F4THdiUHdZY2Jmb3N5N2h5LTg5eWNLdVI4by0zV3RIelZVSk5ZY0NBUWIxVkQ2cWIyNGdEWnpsWlRWTW4tZ0JuSmYxWWxqWTRoUW5nMGk4TF91dUhZQUt0dFBHejluZVh1amp30gGjAUFVX3lxTFB4c3QycTZXUFQyUDQwMWtzWG15UTd3V0xmYUdGMXZmODRndGpFT1lkdXE1MjFvTl9iYmN6YzkyVm54LXh2anRfYm5uSDdpT3A0R1BVTmM1ZU1yVkRudWhBT2JxQ3RqaGNmbkdWYXp2RmEwR0RsZVBvb05fNmVjN1U4QlZwREhQZmFHMHdSLUJhR09EUllaak9waUpZb2MzTWhzZzg?oc=5",
       "published_at": "2026-11-27T08:01:00+00:00",
@@ -54,22 +146,23 @@
       ]
     },
     {
-      "title": "‘We had a drug dealer called Satan on our tour bus’: Britpop stars Echobelly on debauchery, being pals with Oasis – and their spiritual return",
-      "publisher": "The Guardian",
-      "publisher_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPWXRrNnhDdUlPRGZrNGZxVHp1Ul9UUm1vZEJ4aGZrU0JXMFpzQUtIckNYT3h4Zmd5azFCTVBwM2lxaU5qcnBJUnBXcXdpOXlOY1YyYlBqMmM3MzEtb3dONHh6TWM1NGIzSHRFNW1yZWN4cXdGVVJkaGwwQ3h2YnVTQjczbEdkTTRua3VUZmpOa012NlVqa3o4NmsyVHM5ZDQ1TzlXWHRNNkJvbEt2c3lMWEFudlNWa3RuWFhINl9JaC1OcTdPUTJIOEdHdk9DYW5mUnVWNjhZNnJPTmJTelJKWUl0bjlvWTN1R1R4Tld6NHlPcnlLYS1tajdxbUVlNUhWYVhzQXVjMzluY1RKekZz?oc=5",
-      "published_at": "2026-11-27T08:00:00+00:00",
+      "title": "Gavi set to restore malaria vaccine funding for countries",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNFM0YzdvT25icGFkdENJU3FsY0ZmUG1YN2ZwWlplTjE1bmYyaG1FNzF6SUl5U3RPVkFnRFQyMDlDR1NZUThVOHJPa29LVkctWjB0MzM0RVdERXFkMXVLMXpKZ2FFdURMcWRaX2VPd290LTEwZTVnSGJOVjRfV2JPTUhqTXJZUG1kM1B1UHYtVVVleENiRVI5RDFwT3AxUm9EOGVoUDhqeHlRWWxOREx6emRlVjR2RWhLRF9BcUlTVQ?oc=5",
+      "published_at": "2026-11-27T07:32:00+00:00",
       "regions": [
         "europa",
-        "global"
+        "global",
+        "usa"
       ]
     },
     {
-      "title": "Malaysia: Three military personnel charged for trafficking drugs at air base",
+      "title": "Visit pharmacy to protect GP services, says NHS Surrey and Sussex",
       "publisher": "BBC",
       "publisher_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE56cUdmaXlnbFFiYVJ4eEJmQzFfazFzNEtlM0V5ZFFFZ2ZhdGhQd2hSZ3Bydmg1Z2hmWTRQODRteXRzbXRyOHIwaVJBOGwtQUxwdEtUR1M1eTZFUlU?oc=5",
-      "published_at": "2026-11-27T06:07:06+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1uczdsX05TYV9fNUY5U0hnbGh5aFEteVYtQ0xaeUluajNoMHh2QnFSaXFGVFkxUjVtdVRVNkxwN3ozX09GMV9LLUxLWTJJcGZCd1BYamFac2I3T1k?oc=5",
+      "published_at": "2026-11-27T06:04:27+00:00",
       "regions": [
         "europa",
         "global"
