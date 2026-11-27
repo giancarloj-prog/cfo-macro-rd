@@ -1,7 +1,7 @@
 {
-  "date": "2026-11-26",
+  "date": "2026-11-27",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-27T02:55:11+00:00",
+  "checked_at": "2026-11-27T08:49:29+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -14,401 +14,86 @@
     "rd": {
       "ok": true,
       "error": null,
-      "count": 3
+      "count": 0
     },
     "centroamerica": {
       "ok": true,
       "error": null,
-      "count": 2
+      "count": 0
     },
     "mexico": {
       "ok": true,
       "error": null,
-      "count": 9
+      "count": 1
     },
     "usa": {
       "ok": true,
       "error": null,
-      "count": 3
+      "count": 1
     },
     "europa": {
-      "ok": true,
-      "error": null,
-      "count": 25
+      "ok": false,
+      "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%28pharma+OR+drug+OR+biotech+OR+pharmaceutical+OR+medicine%29+%28site%3Aeldiario.es+OR+site%3Apharmaphorum.com%29+%28Europe+OR+Europa+OR+European+OR+EU+OR+EMA+OR+UK%29+after%3A2026-11-26+before%3A2026-11-29&hl=en-US&gl=US&ceid=US%3Aen",
+      "count": 4
     },
     "global": {
       "ok": true,
       "error": null,
-      "count": 7
+      "count": 3
     }
   },
   "items": [
     {
-      "title": "Cofepris alerta por falsificación de Filatil, Ozempic, Saxenda y Duvalín; advierte riesgos a la salud",
-      "publisher": "El Universal",
-      "publisher_url": "https://www.eluniversal.com.mx",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQV1hreU5zM2xWcDd6a2NXYVgtTzBhSmp2UVRIbWJFQUZpTURFUExyR3RaMVQ1RldOVFU2dFBqMUR0OUZZT19nQXVlY180UU5qSWstcHp1QUdfZWRsM1dFNDZrODB2RzlEc1loT204dUZUT3RRT3doNzZCYXhBOExjUWVFcUtOQVpvWlBkOFZZcXdjRllHTFdsTkFXWElpVk9GWjFweGRld2FPVE5EX2wwNENKQloxQTZZV1RNQlkweERTb0pjdjROY1NKZnJIaVBweFJF?oc=5",
-      "published_at": "2026-11-27T02:17:30+00:00",
+      "title": "Detienen a cuatro personas tras cometer cuatro asaltos a tiendas Oxxo y farmacias en 84 minutos en La Paz",
+      "publisher": "MILENIO",
+      "publisher_url": "https://www.milenio.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTDhaS0xWaXdfWlVJelA4QTFUblp5TXk4blZmOHh4OThJRjdhRi1nN1B0cmo3U3hMT0haSXNEY3F4THdiUHdZY2Jmb3N5N2h5LTg5eWNLdVI4by0zV3RIelZVSk5ZY0NBUWIxVkQ2cWIyNGdEWnpsWlRWTW4tZ0JuSmYxWWxqWTRoUW5nMGk4TF91dUhZQUt0dFBHejluZVh1amp30gGjAUFVX3lxTFB4c3QycTZXUFQyUDQwMWtzWG15UTd3V0xmYUdGMXZmODRndGpFT1lkdXE1MjFvTl9iYmN6YzkyVm54LXh2anRfYm5uSDdpT3A0R1BVTmM1ZU1yVkRudWhBT2JxQ3RqaGNmbkdWYXp2RmEwR0RsZVBvb05fNmVjN1U4QlZwREhQZmFHMHdSLUJhR09EUllaak9waUpZb2MzTWhzZzg?oc=5",
+      "published_at": "2026-11-27T08:01:00+00:00",
       "regions": [
         "mexico"
       ]
     },
     {
-      "title": "Venden Ozempic falsificado en México, Cofepris identifica lotes irregulares",
-      "publisher": "Expansión",
-      "publisher_url": "https://expansion.mx",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQWhja3BBR0xUaUZNM1BmQkIwa1kxMkhuSFBFUUl5bE9NSWw4VEpqdHZEcXpKUkJEbmhGOXFiSXVxZFdxUFRuMHBycUVzUkphNm1reVBucVNDODh5ZFZRbTl4ZV80OWhSd1VYYlRWRVFoWU01MWk1ZW8xYnRnZXgwenhub0M5UDJNUjFXdkFWLUxHRGVS0gGiAUFVX3lxTE11YW1vdEpQM3BMbU1Xc1d3NXpTa0dHRmhjdDNUbGVfTmxsN3FjSEZVdkdienUtcTIzVUQ5YkhURDBzQnVoU1dvMWVham1hTXFNZERKWXZ6WVNERXc5SHdLMnhHMTdjSnZEdF9rcVUtWUNfRjdHcXBaazdlZW14Q19hVkRlUnVVZkJNaG80ZVg0MTRKblhPU21BTmNvWk5uSGF3dw?oc=5",
-      "published_at": "2026-11-27T01:42:00+00:00",
+      "title": "‘We had a drug dealer called Satan on our tour bus’: Britpop stars Echobelly on debauchery, being pals with Oasis – and their spiritual return",
+      "publisher": "The Guardian",
+      "publisher_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPWXRrNnhDdUlPRGZrNGZxVHp1Ul9UUm1vZEJ4aGZrU0JXMFpzQUtIckNYT3h4Zmd5azFCTVBwM2lxaU5qcnBJUnBXcXdpOXlOY1YyYlBqMmM3MzEtb3dONHh6TWM1NGIzSHRFNW1yZWN4cXdGVVJkaGwwQ3h2YnVTQjczbEdkTTRua3VUZmpOa012NlVqa3o4NmsyVHM5ZDQ1TzlXWHRNNkJvbEt2c3lMWEFudlNWa3RuWFhINl9JaC1OcTdPUTJIOEdHdk9DYW5mUnVWNjhZNnJPTmJTelJKWUl0bjlvWTN1R1R4Tld6NHlPcnlLYS1tajdxbUVlNUhWYVhzQXVjMzluY1RKekZz?oc=5",
+      "published_at": "2026-11-27T08:00:00+00:00",
       "regions": [
-        "mexico"
+        "europa",
+        "global"
       ]
     },
     {
-      "title": "Cofepris alerta por venta de Duvalín Untable falsificado: ¿Cómo identificarlo y qué riesgos tiene?",
-      "publisher": "El Financiero",
-      "publisher_url": "https://www.elfinanciero.com.mx",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcXRyUDZkVUlaX1pYUlZqME9xRmFRbm1ST3pJQ2RuM0lVM0wxZTlSa1NBQTBTd0tGTjdPYkFCbjJpQklnNE9kdDBQejgwUnJVVGlVZU9IRlR2VUU1SE55TGt1dXNDZ2F2UXJSZjk5OVJtU2NIV1hGRFFHT3ZpTWpJUDZzb190dWZJT05EQ0pCM0lhOGRya2FHU2ZIZE43QWZvSENoVERNWkZONVI1SWQ4aHJla080UDUyT0JjdllBSFViMmQ2bVNfaWJjRXp2SEZBMmpqXzczdW03OVl3blE?oc=5",
-      "published_at": "2026-11-27T01:09:00+00:00",
+      "title": "Malaysia: Three military personnel charged for trafficking drugs at air base",
+      "publisher": "BBC",
+      "publisher_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE56cUdmaXlnbFFiYVJ4eEJmQzFfazFzNEtlM0V5ZFFFZ2ZhdGhQd2hSZ3Bydmg1Z2hmWTRQODRteXRzbXRyOHIwaVJBOGwtQUxwdEtUR1M1eTZFUlU?oc=5",
+      "published_at": "2026-11-27T06:07:06+00:00",
       "regions": [
-        "mexico"
+        "europa",
+        "global"
       ]
     },
     {
-      "title": "Mexico Captures Top Drug Boss in Fierce Gunfight",
-      "publisher": "WSJ",
-      "publisher_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOXzBacVJ3Qzh2a21SQlRxaGE3VVdNb085VU55UGVjbXlwNW5qZzN0UE1nV3BMeEx3NUxxUWk4d2hZTno5T2lPRlFXV3Y3Mm1mWlJSNUpvR0VoZjZGODZkdXJmZWVZR29FQjdkT0ZGaTU0ajlSWTFNQ1l5Zm9UWDhNZk1JUUZIcHk0VmtLZjdKTmhYSWhadEVF?oc=5",
-      "published_at": "2026-11-26T23:40:20+00:00",
+      "title": "Mixing drugs is now the norm, EU drugs agency warns",
+      "publisher": "Euronews.com",
+      "publisher_url": "https://www.euronews.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRmQzcU9kMHFISkZtYm1HY1JNUUVXX2ZvemdxWDdFSTdmRnVRaGRQZ0xtdGc1RThuclVUaGY4a3QyMnFXNVlyMDdrbmw4WUlJb0lhcTg2UlFSR2hMQW1KTTNRQXJfOXlHRFJxdVBjVktYRFJkTzU0YjRYTFpuRGxTYi1yQU1BYUJoR0JCQ1JrUQ?oc=5",
+      "published_at": "2026-11-27T06:00:52+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "Hetero close to securing Indian approval for generic Gilead HIV-prevention drug, sources say",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUFVUZHJFc1VOYjNmSWlnV3EyLUpBd0NMNlVMR2NtVWs0V1ctVTlpNUFnRzJ5V3o2VWhaSzJEbTd3c1BFbzZZZDhrWjVFdFRrZFZNbjFLTHkyT0wyei10a3NNYUlsbWNwQ2hwck03OW4zTzV4SGVWMHVWY1F1aG5kcFpxYVcxVlQta1lQd2VZX1k0dVNlQ2JsRktKTjJHeUpWcEJEZkJ1NjlXRzkxeG0zRTNOTmpVQXJtT1ROY29XNklGWnd2NF8xVU9rTENGdw?oc=5",
+      "published_at": "2026-11-27T05:50:00+00:00",
       "regions": [
         "global",
         "usa"
-      ]
-    },
-    {
-      "title": "La FDA autoriza a Neuralink probar su nuevo chip cerebral en pacientes",
-      "publisher": "El Universal",
-      "publisher_url": "https://www.eluniversal.com.mx",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNM2FfLUFnM2t3dkRRVEJYZkp5eDNFY0FvbGJVeTZNV3RhUEJQQm8walRxN0g0RzFvQUUxZmI4STM5Tk51RlZ5bjBiNHZZZkt4ZzBqTmZXQjJxSHp2aGJaT3QyclE2SDBDQWtscy1DQzJxbTF3Y29fdmM0ZlBCUk5rOFVWOHgyMDRaZnR2NlV0d0FkTEhKUlVkZ2lZWXd5RV9ZeW1hSnY1UXlJaVc5bUtn0gHDAUFVX3lxTE9JMXRfcklVTDR1Vm0zdGhWaDNIRXJuZmdBMThRVk9sTlozUkl3NVBNX3R1UmVTYjE4bDBVTm55RUhFYXFMeEx6ck96ZDVaTFN3X1kyQmVOVjdJZDFFazJlSG1LZktoczk4TjQwVmVKcF9ZQWJNeXNDdWNUTnhFYkFnQVh5ejh1aHRaSHg3RUFEM0dyWjVoWTZUUnFfZGh6MjVGcmE1OGhzQmlZZm44YWRfS0NKQUVZVnV0Xy1DUkJCSl96MA?oc=5",
-      "published_at": "2026-11-26T23:04:00+00:00",
-      "regions": [
-        "mexico"
-      ]
-    },
-    {
-      "title": "Reciente en Medicamentos contra el VIH",
-      "publisher": "Diario Libre",
-      "publisher_url": "https://www.diariolibre.com",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBicjF4blNLeVY2VjVQakJLd3FzU3RrWXVETmNqZF9RQ1JhWXZOaGdqREZSNHZUUmwxMmFJTUgyNGJoazRIY2w3YUoxblVzeXJKVW5YUXc5blZyS0FwMnZfeGVud2lyNlJHRGxnLTVQdmpBaHFP?oc=5",
-      "published_at": "2026-11-26T21:36:25+00:00",
-      "regions": [
-        "rd"
-      ]
-    },
-    {
-      "title": "No post-match drug testing in South Africa v New Zealand series",
-      "publisher": "BBC",
-      "publisher_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9VcG5EWGE5OUUyOFA1OFRCbFhTcEJ6eGZVZ2tobjdSOEhYaUdPQlZrNFB6cWZJUGIzTXV1UTFXU19fT0NOS0FJbHdVLW5ldnRpNFVFQ08xZUlwUnpnOEVDZVVCZ3BxS2JlckhKdg?oc=5",
-      "published_at": "2026-11-26T21:20:37+00:00",
-      "regions": [
-        "europa",
-        "global"
-      ]
-    },
-    {
-      "title": "Nottingham man jailed for 12 years for drugging and sexually assaulting partner",
-      "publisher": "The Guardian",
-      "publisher_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSnRRMXdJUWxESUx1Y3dSS2diVWgtcTFjOGpyekk5TkEyY2UxNmRoWWNRSC1VVVJtc2xHYzAwck5IbkgxeTMtVk1ZazlwVDZNM2N2U3U0RUNhcmJmMUhUTzBla0VTS2pKMEZmYnVoRjJxWmNvRGJZd1JzYlNQZm1rOFZxOFhxakJjOHY4alY2QnJ6aXUxeGJHLU5Vd1U2bmlMMkwtR01DQWlCOG9iRGxKa0Y0Q2R3QXZBZ2J3RllNWWxwalhPMHc?oc=5",
-      "published_at": "2026-11-26T21:15:00+00:00",
-      "regions": [
-        "europa",
-        "global"
-      ]
-    },
-    {
-      "title": "Confederación Nacional de Organizaciones Populares ofrece más de 300 medicamentos gratuitos en Durango",
-      "publisher": "MILENIO",
-      "publisher_url": "https://amp.milenio.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdEVpRXlIcTZNbnlKNFFoV2NydEtGcHBTSzFCV2V2eHFzUkJjWlJvcExhaTIwbnhSckRmQThfWm4tNE45VVhMOTMySFlqN3N5SUxlcE5LX2RqRkhjSE9wbXNPaWdYWU5ieHJ6YXI4N2Iwd3ZUVUJsQzFsNmVqVmkzeHpBdW_SAYQBQVVfeXFMUHRFaUV5SHE2TW55SjRRaFdjcnRLRnBwU0sxQldldnhxc1JCY1pSb3BMYWkyMG54UnJEZkE4X1puLTROOVVYTDkzMkhZajdzeUlMZXBOS19kakZIY0hPcG1zT2lnWFlOYnhyemFyODdiMHd2VFVCbEMxbDZlalZpM3h6QXVv?oc=5",
-      "published_at": "2026-11-26T21:01:58+00:00",
-      "regions": [
-        "mexico"
-      ]
-    },
-    {
-      "title": "Wife would be 'terrified if woke up', drug rape husband tells court",
-      "publisher": "BBC",
-      "publisher_url": "https://www.bbc.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1mVVlaTjE2TE1yY1dWYklFYzhrSmhJd0VXVm9TT3JMUVdEZ1V6WU1sSWFIM0l4YkFtTVNaYXQ3N0FxZHMyNlFYNHB0Yk1mVk0zZ0dkZDNJVG5XYlE?oc=5",
-      "published_at": "2026-11-26T20:05:09+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "La Vacunación sí da Oportunidades: Sanofi reconoce por 12o año a quienes hacen de la vacunación en México algo extraordinario",
-      "publisher": "El Financiero",
-      "publisher_url": "https://www.elfinanciero.com.mx",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQTVdKT1RrWGRiZWk2ajVER0ZtVFAtVzJudFlUdVZSbWlqcW9sY0IwT2lyR2RKSUtUd21MdHFUUkxVNV9aNEZmWk8wYUg2Z183MENXbVNhV2hpWGFGVDAyWkRWYlhUSGRGYjI2MDZwLXJGVmpmNW8zT2RVX05CdE53ajNTVmozQjNTYzVVQlppYk41enBXWlpRTmRnS3NucHNEM1BFZU9jVW9iU2tiMnV3eHV1Mk4welRmVy1KNndxQ2dlTTBlX2tTRWxJRnQ2M2dIcWt3YmZ1dzNXcHpSOXZkTy0tMUN0VHV4T2E4cndRTXFHQWxleVBSeXZsc3F1bUlHaWlJUlkxWGFzdktyRTZr?oc=5",
-      "published_at": "2026-11-26T19:54:21+00:00",
-      "regions": [
-        "mexico"
-      ]
-    },
-    {
-      "title": "GSK picks up key Chinese approval for HBV drug Hibsago",
-      "publisher": "pharmaphorum",
-      "publisher_url": "https://pharmaphorum.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaXo2dlZtdFVzV2FsMHY4Y2JaMkhDTmhGei1YaEJlY2NlaC1nejRJcGQwcTA5UlRiYnhCTDRTMWgwellfV1UzSFFXc0VSM1Q4bHp5WmFYVVhYWWtKdDBLM04wbGFfTDJqREU4emdhRlgzVFJkR3NiUXdiSlYyTUxxTWdJNA?oc=5",
-      "published_at": "2026-11-26T19:13:11+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "SKYhigh Dominicana y Farmacia Carol se alían para ofrecer descuentos de RD$500 a pasajeros",
-      "publisher": "El Nuevo Diario",
-      "publisher_url": "https://elnuevodiario.com.do",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNd1ZibEUzMl9mZzRXR0J6REVGVVBkSXVMVElrR1hLd2VscHpuUWtTQ1RDbnVmR2drNDluaVNEYUFBZ20tSE9kTkpzYUtBU3U1anlBb3VuaXpDN1pQSHVOaFBIMVVUT3BKZ1lQUXdkU1dYbVF5ODktSU9rSVNNSDdrVjBHdGhFS3ZUMWFTUDZ5T2hveXA4RGpKeXZ1cHJmdjlfMUV0MHFWSkJxQkFGQW1ibUF2TjVnXzVUaHY0?oc=5",
-      "published_at": "2026-11-26T17:43:58+00:00",
-      "regions": [
-        "rd"
-      ]
-    },
-    {
-      "title": "Héroes de la salud: estas son las 10 personas que cruzan México para salvar vidas con vacunas ¿las conoces?",
-      "publisher": "Milenio",
-      "publisher_url": "https://www.milenio.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQzZfSDFWQ3FmWlEzTVJpRjRZRmhFOFZhc2hEVXBhOXRicmUzcWg3bHV1dFViZzE5SjZxeXJOTXJaQ1dUNFVnNWt1ZTg0U0JCckNBNHVaYklDODFwS21tLWVWLWViMlA4WDRRMTFUbDVsYV9uSTgza1lBaV80dl9KV3dBeEU1Tk5uM29Mdm12VnRLTG4wc1kzTDhfLUV5TVFLWXfSAaIBQVVfeXFMTjJvLU1FMmJmanlkS3lsRVpfSjRPdVdpb2VfTkt5TC1nRzZaU0t6REhkYlhMSVllbGRVaFduR0t3RTlxU2NTckZnY3Q2eTVTTzFDb3JaSHRhZFBQd3pyNTREYW1OT2xJeGoteEMzQWF3SzZQcmlUbmNlVG96ZzF0OHcwczltQkNqQkU2NjV4NzgtNjlHMWhGMXFyR3o4MlNfWVB3?oc=5",
-      "published_at": "2026-11-26T17:31:00+00:00",
-      "regions": [
-        "mexico"
-      ]
-    },
-    {
-      "title": "Stockport Drug and Rape: 'Is this my fault?'",
-      "publisher": "BBC",
-      "publisher_url": "https://www.bbc.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA3bHE0Zk51cW5LdmlnVnN1QXE5SFdkc0ZSUjFnTVctTkNQb2Z3WHhZMG5uY0lIVHlpWnFHN0pVU0hfNGpUZkpsSnRYVjBTakxJSlczeQ?oc=5",
-      "published_at": "2026-11-26T17:22:37+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "In Court | Stockport Drug and Rape: 'Is this my fault?'",
-      "publisher": "BBC",
-      "publisher_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9KVkNwSDhzY1ZGYXVIM19MMGY2OTNRWVdxR3pXZnh0dkt2MTV3RDVaaDlBWk5MNUszZHR6akJoeE5NX3lXbjF0eEk1LWwzcWJf?oc=5",
-      "published_at": "2026-11-26T17:09:26+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "First oral HAE drug recommended for NHS use",
-      "publisher": "pharmaphorum",
-      "publisher_url": "https://pharmaphorum.com",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE52WDdJdEUwdExrS3o5OUVCR2VyWWtDUG1tVlE5ZjVoVTM1TTI1SnpPcDZtZXlZMFlkRkwxUWFpQnNzSjA5dnBmX2RrRk1ud0Z3ejdrSC1RaUphMktoZlNaTjdGWFZxcEtnMmt6dE1yZGQ2RXRmM1dCOQ?oc=5",
-      "published_at": "2026-11-26T16:33:48+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "Violent knifeman told doctor his psychosis drugs weren't working days before train attack",
-      "publisher": "BBC",
-      "publisher_url": "https://www.bbc.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE80X2o3bXREbWl4QlBXYU0xTnYwOE1CaVlWWS1hSXgzZ3VRRlhJbmx4ZzlTek95VmtCd0hNcVNYVldxV2JzM0FzcEFFNVktVnVILXB1SVZPRTZGaERybXc?oc=5",
-      "published_at": "2026-11-26T15:38:38+00:00",
-      "regions": [
-        "europa",
-        "global"
-      ]
-    },
-    {
-      "title": "Drug rape husband says wife 'would have been terrified', court hears",
-      "publisher": "BBC",
-      "publisher_url": "https://www.bbc.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5yZTdTRFNuc2ZUZU5JQ0Z4SDRqR19wcF9qYUZkVF81djNPaXl0TDViU2wwNXVXUElXc3VaazRlc3dudG1KOHE3aTROclFSVVVXbHdBUTBYNS1adzdGZXc?oc=5",
-      "published_at": "2026-11-26T14:51:49+00:00",
-      "regions": [
-        "europa",
-        "global"
-      ]
-    },
-    {
-      "title": "La vacuna contra el dengue aún no llega y ya tiene detractores",
-      "publisher": "La Prensa Panamá",
-      "publisher_url": "https://www.prensa.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPd2w3SHJoclpFeUZWbWVGTFRRTDhvQnNDX09Rd3BxTVptSFI2NXJjS2JQTGFBSGxGVVlYUFB2UnY3UVlSdHNHcjgtUzUyaTFDR1ZrdWJiY2lWRnBuZjNEU0Z4OWxUQk5KSldzcHRrM0xOeU5FNkIwQVRfU1NCcFdSSTFmeVF3X0dxNC1zS2dCSWJQLU9YcThqdW5R?oc=5",
-      "published_at": "2026-11-26T14:27:23+00:00",
-      "regions": [
-        "centroamerica"
-      ]
-    },
-    {
-      "title": "Why a long-term approach to R&D investment is key to unlocking pharmaceutical innovation",
-      "publisher": "pharmaphorum",
-      "publisher_url": "https://pharmaphorum.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNenQ4R2piWXhGakxjelQzUkhSNG1oeTk0Sm42LS10S3l3bW9hSUpuZkktdUN0cVY4d0lBUXNLZ0JYZ1RtR0dLWmdCMmhTa1BnZmxkVVNOM3d1QnZ2eWl6a2tYZkNDaTFqaXJNeC02NHZYd0E5Y091OHdZVXl3Z0ZwaEd0dm5XOEhFeTFCOU42eGNRUDBIUnJiUjlMcWU3VFMzSjZXUWdVMA?oc=5",
-      "published_at": "2026-11-26T14:22:10+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "FDA clears DeepHealth's AI tool for 3D mammograms",
-      "publisher": "pharmaphorum",
-      "publisher_url": "https://pharmaphorum.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1QTFY5OXB2MXR4OWp5ZWxQRXVyTml2NDNUSzQxSk5vNlQ4WG03Vk9yUm85Zl84TS1pc0tDdVl5SVlfd3JCSW1QTGxzZjdRMkZsc0FLSHlzSVFDVUxFU0NwLVA5Wlg5NHEwbFhPeXBTUmdrVk9tbzA3TzlpNHlhV1E?oc=5",
-      "published_at": "2026-11-26T12:33:32+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "IBA says radiopharma boom drives machine sales, isotope trials carry new opportunities",
-      "publisher": "Reuters",
-      "publisher_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNX0dydjloUlNXT0lUUDlsVEpHeDVYZ2RtNnV0azVfXzgtNF9LVDQwc01ZS0haNHJrQWtEMVphYVhwNTg1NzFWcWpyYi1nY0Z4Q3F1RzlOSjFHbDRvY0ZlcWJGdzBhTHBwVjZvbWZFS0dEX1hlbFhWblVKODhsRUc1RjROeHF1cTV4eUhZamxacm1qN05UbXRsU1k5T3BOR1RPb19McW8tM1dUQjFFQk9WRDRpZVVVMnZ3ek1rUXY0TG1YVDFrS0pmSEFCbzM3QlJXekRVeklPRzhmUUk?oc=5",
-      "published_at": "2026-11-26T12:13:23+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "Cupón Farmacias del Ahorro: hasta 70% en Noviembre 2026",
-      "publisher": "El Universal",
-      "publisher_url": "https://www.eluniversal.com.mx",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVnI0QTNHaVkxbzBYemh6MWZfVjFvT2prNlU0SS1VVE54UHpiU196eTlBVS1zWk0wM3FNbXhrSWlxLXZLZkVjejZ0allBM2w4SFBlSE9BVEJybUVoYWdtRXJsMFlKYi1VNWtaY3gyVUVJQ0w2cmZIc21fRmxPOTBpRUJB?oc=5",
-      "published_at": "2026-11-26T11:53:55+00:00",
-      "regions": [
-        "mexico"
-      ]
-    },
-    {
-      "title": "Hyphens Pharma licenses Seysara® for ASEAN countries – Company Announcement",
-      "publisher": "Financial Times",
-      "publisher_url": "https://markets.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTTE4SlczTkhSb2pKeVFibWN1RXNDVXBJcl96a1JvcTF5Vkgzakd6ZGsweE5Zc2tnUUpxS0EzVkptWFl6d3lTQXNOUWlCTU9sRnI5Y3p3U2VRV2I3clNEbkxJN0s2TnIyWDdkNjBoM1ptOHZMTFBWbkVwemQ0MFdNTDZQdnV3U0U1MDhTUXEwb2lsYkk2Y3duZA?oc=5",
-      "published_at": "2026-11-26T10:42:00+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "Medicamentos: ¿por qué Panamá sigue pagando más por lo mismo?",
-      "publisher": "La Prensa Panamá",
-      "publisher_url": "https://www.prensa.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQ1l1RGdTMW80ZnlxdlVRc0V6UkNNcjQwRmxzeG5lOHFLZGs2UGoxZ3AyRVV3MGNmWG5uYjVLRmRDSVQ5QktOT2UydU9rUkRuUGhYZGE3TUxpX3V2R0pmdHgyUmdrSmxXZ2RqVy1COEdvMVItWnd2WlVuYmVUWUZ2Vi1qM0ZXSkdLNjBvQWpUYkdIN3oz?oc=5",
-      "published_at": "2026-11-26T10:06:11+00:00",
-      "regions": [
-        "centroamerica"
-      ]
-    },
-    {
-      "title": "Cheaper, generic HIV prevention drug arrives in Zambia",
-      "publisher": "Euronews.com",
-      "publisher_url": "https://www.euronews.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWTVvcE5wTFpBZ0Z1cGhuNEROMWNsOTlwUUwybFR4ZGxvX1NsX0VhMjViXzNDU1lmRzJfdldRTHlka2tqOUpnNzlrZ01YS01QUVE4RFpna0tjTmFhUWVoaWNkMWVMSVhLemV5YjZFdEZMV3BpYUxuZDZtdko3QmthWjhsMURJWGFjZV9femY3VjBIcEE?oc=5",
-      "published_at": "2026-11-26T09:58:25+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "Drug-driving arrest after lorry crash shuts road",
-      "publisher": "BBC",
-      "publisher_url": "https://www.bbc.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE83VFktYmVqSXg1RVNFYU1odWVyNjA3RUQ5YUlkbXJqM0ZoNU1SNVFWLWRYNm4yRjh5MWVEUlhOYUlaY3ZQdUY1Q0JyeF9UZTdSRVQ5OC1fYVVpQ09LSEE?oc=5",
-      "published_at": "2026-11-26T07:29:48+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "Drug-driving arrest after \"overturned\" lorry shuts A36 near Ower",
-      "publisher": "BBC",
-      "publisher_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54THRERWszeVlGYngySWFFYThZdUxKQ1g3YnFvOTRTMG1iMkJpM3oxNy03UV9xc2IyYlZKam1qdk9POEY0UmExOUdDOEJQWnNzdHdrM0E1RTZYSmM?oc=5",
-      "published_at": "2026-11-26T07:29:48+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "El riesgo detrás de los medicamentos de moda",
-      "publisher": "MILENIO",
-      "publisher_url": "https://www.milenio.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYVNpSXJQa185Rmg5SE5FSmpBM0UxOXN6Tk1WYWNIdUhkQ1Yya01zNktQMDhPeF91RGtKZ0wwcGx2LXhnUmMyYlZ6VHRScVlULWdZQ1E1WlA4LVdqRnRzVktoc3VsTHZsdjJCbkVSOTRRZVN5OFR4SXdtcWViQzNCQWpXQ010aVNSZUtLcS1Pbm1ySkw2NGJCaFo1NFQweGFDYkNMTVI3MF_SAagBQVVfeXFMTmVuM0lEeVFkSS1rbTNvZG5DelgyM2JhYTc3N21tbHpMNUoxak1LSUFUME5WOFlZN1Q1YUg3TE8yWE5ORnFGSE1sSVkta2g0U3VqLWxQWHJ2OWltblhXdWJxYl95ZThxNHhnaXc5YjdTNHAwSmpYZHJfekZUdnpzN3N2U3lMX0JmdUY1VGpBNURFNDBKa0RmdE9sdWtqOXl2OGhvZHRSdjZY?oc=5",
-      "published_at": "2026-11-26T06:53:31+00:00",
-      "regions": [
-        "mexico"
-      ]
-    },
-    {
-      "title": "India's Hetero begins shipments of generic HIV prevention drug to Africa",
-      "publisher": "Reuters",
-      "publisher_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcTlhRkUtampYOFF5ZXB0RzJ0QjRoSkhYcnRZTS1JNXlOZVB0UkxtRFJTWHM0OUhubmxBVWQ4RWhkcnp6SGxxNWZJdnBueHdBYmhUcWQ4MWRsQkNDNWlDcXdnS2tPMXdpVUhNcTljdFVzbVlORDVwN2k3UG1LTUk4cnowUG9XanNlXzZMQWF0eVE1Slh5MmFwdmltTEhDYVNkZ1h5UERKX1pWTHdzRl9LZnQ5YmhKVEZsaEk4VXA4dnQ5YWtubE1IanNOb19WNllQb1M0?oc=5",
-      "published_at": "2026-11-26T06:23:00+00:00",
-      "regions": [
-        "europa",
-        "global",
-        "usa"
-      ]
-    },
-    {
-      "title": "Malaysian air force facilities used to transport illicit drugs, minister says",
-      "publisher": "Reuters",
-      "publisher_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUVN6Wm9jSWVPRlVIQTF5YzVHekN3UmhpbmxORG5iZkpmOHd1V05kdmFWZERJOGJQb0FTRXFVUm5Sb1NiUHJ5MUo4djB5bk5DV2EwQ0EzX2dLeU1DcVhuVGh2WDdNeGdwYnByRFp1b1p3clc2bjBNbFByNWFEMWRaRlBwQURfX3dITGNKM2htMzl2VjBxb1h0c2RXamg0Znk3clRrcGFNbDJLSU95emhsc0dOWDVQVFd6dW9sSlpRLUdKekhrTFdz?oc=5",
-      "published_at": "2026-11-26T06:11:00+00:00",
-      "regions": [
-        "usa"
-      ]
-    },
-    {
-      "title": "ADHD drugs in pregnancy do not raise risk of child development issues, study finds",
-      "publisher": "Euronews.com",
-      "publisher_url": "https://www.euronews.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZGZQMnNzak9wbXZpa1NNLUtsSXhjQXVHSXlCc0oybW95YW8tUkxONG5JaXhkRDdUZ0g2c0Nqb2VOV2MxZldDTXRBYV96bWRaeEZtck1ta2p6akhKenlPazdIY2pSYVZQRTFkVWNra3V2Qjk4NGk0RGozeUVxQmJaSWVtNEFZdTZYUFg1WmlCcEhBSGtsYTN6ZnAycDZSX2ZxZTlSMWdQYVpSSXd0ZGZnODZoc3VmMXJI?oc=5",
-      "published_at": "2026-11-26T06:00:27+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "Innate Pharma Releases Its 2027 Financial Calendar – Company Announcement",
-      "publisher": "Financial Times",
-      "publisher_url": "https://markets.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNU1BtOExULUhYRDNzbFlmdUNVSUlocFpiVjkxVW41VGdKUEhrbUxQd1JCTGpjZm94T2doQkUtLW01QzFydHZlZzJoM2xZMVdOVEdsaFhVcDVXNEVGRnM3Z2VLNDhmeTlEdXVRQzZhQmlhYmdqSDFTbzNkdUZaZW5iTDFqOWZjdzNVMXlwbG84SXVkMllqVzFKZmJORF91WFZVWXdRa0dn?oc=5",
-      "published_at": "2026-11-26T06:00:00+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "Tulisa: The Reckoning review – it’s hard to believe how far the disgusting drugs set-up went",
-      "publisher": "The Guardian",
-      "publisher_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORmRvdTVJdlJvX1NRRENsQ0Z6WE9EYk5wdlF0ZlMtR1VGR0RwaW9EYWRpb0lkQ2tuZXp0NGNpSzVReXdwcG5WRHlzd0lWZl8yTHdFU3FuQ19rWGxxX3dlM1J0UGNBM2piZDhscGQyZ3RleGNtVHlsQkpZTkhONk92b2oySHJtSVgzeEFYNlRKMkYzZ0V4bmpPT0hCQnVVYUMtM3N1cQ?oc=5",
-      "published_at": "2026-11-26T05:00:00+00:00",
-      "regions": [
-        "europa",
-        "global"
-      ]
-    },
-    {
-      "title": "Noticias de El enorme poder de la industria farmacéutica",
-      "publisher": "Acento",
-      "publisher_url": "https://acento.com.do",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOTVSa0ZSY0o2RnRPYjFJSE9IdlpqQzY3QmRpZ2dQZl80SmJ2THl0TFJiSE9iVGIzQ3NNakRLOVRzVzZ0SXJQc2VfNEhVSERhZkNFemZta0V0MTJPWGtmUG5KNHp2MG9JVFNIYXFFajNrNlM5WW9SaDdFX203dzdDdjVn?oc=5",
-      "published_at": "2026-11-26T04:23:39+00:00",
-      "regions": [
-        "rd"
       ]
     }
   ],
