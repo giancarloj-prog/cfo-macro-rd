@@ -1,7 +1,7 @@
 {
   "date": "2026-11-26",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-26T19:41:24+00:00",
+  "checked_at": "2026-11-27T02:55:11+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -14,7 +14,7 @@
     "rd": {
       "ok": true,
       "error": null,
-      "count": 2
+      "count": 3
     },
     "centroamerica": {
       "ok": true,
@@ -24,25 +24,138 @@
     "mexico": {
       "ok": true,
       "error": null,
-      "count": 3
+      "count": 9
     },
     "usa": {
       "ok": true,
       "error": null,
-      "count": 2
+      "count": 3
     },
     "europa": {
       "ok": true,
       "error": null,
-      "count": 20
+      "count": 25
     },
     "global": {
       "ok": true,
       "error": null,
-      "count": 3
+      "count": 7
     }
   },
   "items": [
+    {
+      "title": "Cofepris alerta por falsificación de Filatil, Ozempic, Saxenda y Duvalín; advierte riesgos a la salud",
+      "publisher": "El Universal",
+      "publisher_url": "https://www.eluniversal.com.mx",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQV1hreU5zM2xWcDd6a2NXYVgtTzBhSmp2UVRIbWJFQUZpTURFUExyR3RaMVQ1RldOVFU2dFBqMUR0OUZZT19nQXVlY180UU5qSWstcHp1QUdfZWRsM1dFNDZrODB2RzlEc1loT204dUZUT3RRT3doNzZCYXhBOExjUWVFcUtOQVpvWlBkOFZZcXdjRllHTFdsTkFXWElpVk9GWjFweGRld2FPVE5EX2wwNENKQloxQTZZV1RNQlkweERTb0pjdjROY1NKZnJIaVBweFJF?oc=5",
+      "published_at": "2026-11-27T02:17:30+00:00",
+      "regions": [
+        "mexico"
+      ]
+    },
+    {
+      "title": "Venden Ozempic falsificado en México, Cofepris identifica lotes irregulares",
+      "publisher": "Expansión",
+      "publisher_url": "https://expansion.mx",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQWhja3BBR0xUaUZNM1BmQkIwa1kxMkhuSFBFUUl5bE9NSWw4VEpqdHZEcXpKUkJEbmhGOXFiSXVxZFdxUFRuMHBycUVzUkphNm1reVBucVNDODh5ZFZRbTl4ZV80OWhSd1VYYlRWRVFoWU01MWk1ZW8xYnRnZXgwenhub0M5UDJNUjFXdkFWLUxHRGVS0gGiAUFVX3lxTE11YW1vdEpQM3BMbU1Xc1d3NXpTa0dHRmhjdDNUbGVfTmxsN3FjSEZVdkdienUtcTIzVUQ5YkhURDBzQnVoU1dvMWVham1hTXFNZERKWXZ6WVNERXc5SHdLMnhHMTdjSnZEdF9rcVUtWUNfRjdHcXBaazdlZW14Q19hVkRlUnVVZkJNaG80ZVg0MTRKblhPU21BTmNvWk5uSGF3dw?oc=5",
+      "published_at": "2026-11-27T01:42:00+00:00",
+      "regions": [
+        "mexico"
+      ]
+    },
+    {
+      "title": "Cofepris alerta por venta de Duvalín Untable falsificado: ¿Cómo identificarlo y qué riesgos tiene?",
+      "publisher": "El Financiero",
+      "publisher_url": "https://www.elfinanciero.com.mx",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcXRyUDZkVUlaX1pYUlZqME9xRmFRbm1ST3pJQ2RuM0lVM0wxZTlSa1NBQTBTd0tGTjdPYkFCbjJpQklnNE9kdDBQejgwUnJVVGlVZU9IRlR2VUU1SE55TGt1dXNDZ2F2UXJSZjk5OVJtU2NIV1hGRFFHT3ZpTWpJUDZzb190dWZJT05EQ0pCM0lhOGRya2FHU2ZIZE43QWZvSENoVERNWkZONVI1SWQ4aHJla080UDUyT0JjdllBSFViMmQ2bVNfaWJjRXp2SEZBMmpqXzczdW03OVl3blE?oc=5",
+      "published_at": "2026-11-27T01:09:00+00:00",
+      "regions": [
+        "mexico"
+      ]
+    },
+    {
+      "title": "Mexico Captures Top Drug Boss in Fierce Gunfight",
+      "publisher": "WSJ",
+      "publisher_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOXzBacVJ3Qzh2a21SQlRxaGE3VVdNb085VU55UGVjbXlwNW5qZzN0UE1nV3BMeEx3NUxxUWk4d2hZTno5T2lPRlFXV3Y3Mm1mWlJSNUpvR0VoZjZGODZkdXJmZWVZR29FQjdkT0ZGaTU0ajlSWTFNQ1l5Zm9UWDhNZk1JUUZIcHk0VmtLZjdKTmhYSWhadEVF?oc=5",
+      "published_at": "2026-11-26T23:40:20+00:00",
+      "regions": [
+        "global",
+        "usa"
+      ]
+    },
+    {
+      "title": "La FDA autoriza a Neuralink probar su nuevo chip cerebral en pacientes",
+      "publisher": "El Universal",
+      "publisher_url": "https://www.eluniversal.com.mx",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNM2FfLUFnM2t3dkRRVEJYZkp5eDNFY0FvbGJVeTZNV3RhUEJQQm8walRxN0g0RzFvQUUxZmI4STM5Tk51RlZ5bjBiNHZZZkt4ZzBqTmZXQjJxSHp2aGJaT3QyclE2SDBDQWtscy1DQzJxbTF3Y29fdmM0ZlBCUk5rOFVWOHgyMDRaZnR2NlV0d0FkTEhKUlVkZ2lZWXd5RV9ZeW1hSnY1UXlJaVc5bUtn0gHDAUFVX3lxTE9JMXRfcklVTDR1Vm0zdGhWaDNIRXJuZmdBMThRVk9sTlozUkl3NVBNX3R1UmVTYjE4bDBVTm55RUhFYXFMeEx6ck96ZDVaTFN3X1kyQmVOVjdJZDFFazJlSG1LZktoczk4TjQwVmVKcF9ZQWJNeXNDdWNUTnhFYkFnQVh5ejh1aHRaSHg3RUFEM0dyWjVoWTZUUnFfZGh6MjVGcmE1OGhzQmlZZm44YWRfS0NKQUVZVnV0Xy1DUkJCSl96MA?oc=5",
+      "published_at": "2026-11-26T23:04:00+00:00",
+      "regions": [
+        "mexico"
+      ]
+    },
+    {
+      "title": "Reciente en Medicamentos contra el VIH",
+      "publisher": "Diario Libre",
+      "publisher_url": "https://www.diariolibre.com",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBicjF4blNLeVY2VjVQakJLd3FzU3RrWXVETmNqZF9RQ1JhWXZOaGdqREZSNHZUUmwxMmFJTUgyNGJoazRIY2w3YUoxblVzeXJKVW5YUXc5blZyS0FwMnZfeGVud2lyNlJHRGxnLTVQdmpBaHFP?oc=5",
+      "published_at": "2026-11-26T21:36:25+00:00",
+      "regions": [
+        "rd"
+      ]
+    },
+    {
+      "title": "No post-match drug testing in South Africa v New Zealand series",
+      "publisher": "BBC",
+      "publisher_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9VcG5EWGE5OUUyOFA1OFRCbFhTcEJ6eGZVZ2tobjdSOEhYaUdPQlZrNFB6cWZJUGIzTXV1UTFXU19fT0NOS0FJbHdVLW5ldnRpNFVFQ08xZUlwUnpnOEVDZVVCZ3BxS2JlckhKdg?oc=5",
+      "published_at": "2026-11-26T21:20:37+00:00",
+      "regions": [
+        "europa",
+        "global"
+      ]
+    },
+    {
+      "title": "Nottingham man jailed for 12 years for drugging and sexually assaulting partner",
+      "publisher": "The Guardian",
+      "publisher_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSnRRMXdJUWxESUx1Y3dSS2diVWgtcTFjOGpyekk5TkEyY2UxNmRoWWNRSC1VVVJtc2xHYzAwck5IbkgxeTMtVk1ZazlwVDZNM2N2U3U0RUNhcmJmMUhUTzBla0VTS2pKMEZmYnVoRjJxWmNvRGJZd1JzYlNQZm1rOFZxOFhxakJjOHY4alY2QnJ6aXUxeGJHLU5Vd1U2bmlMMkwtR01DQWlCOG9iRGxKa0Y0Q2R3QXZBZ2J3RllNWWxwalhPMHc?oc=5",
+      "published_at": "2026-11-26T21:15:00+00:00",
+      "regions": [
+        "europa",
+        "global"
+      ]
+    },
+    {
+      "title": "Confederación Nacional de Organizaciones Populares ofrece más de 300 medicamentos gratuitos en Durango",
+      "publisher": "MILENIO",
+      "publisher_url": "https://amp.milenio.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdEVpRXlIcTZNbnlKNFFoV2NydEtGcHBTSzFCV2V2eHFzUkJjWlJvcExhaTIwbnhSckRmQThfWm4tNE45VVhMOTMySFlqN3N5SUxlcE5LX2RqRkhjSE9wbXNPaWdYWU5ieHJ6YXI4N2Iwd3ZUVUJsQzFsNmVqVmkzeHpBdW_SAYQBQVVfeXFMUHRFaUV5SHE2TW55SjRRaFdjcnRLRnBwU0sxQldldnhxc1JCY1pSb3BMYWkyMG54UnJEZkE4X1puLTROOVVYTDkzMkhZajdzeUlMZXBOS19kakZIY0hPcG1zT2lnWFlOYnhyemFyODdiMHd2VFVCbEMxbDZlalZpM3h6QXVv?oc=5",
+      "published_at": "2026-11-26T21:01:58+00:00",
+      "regions": [
+        "mexico"
+      ]
+    },
+    {
+      "title": "Wife would be 'terrified if woke up', drug rape husband tells court",
+      "publisher": "BBC",
+      "publisher_url": "https://www.bbc.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1mVVlaTjE2TE1yY1dWYklFYzhrSmhJd0VXVm9TT3JMUVdEZ1V6WU1sSWFIM0l4YkFtTVNaYXQ3N0FxZHMyNlFYNHB0Yk1mVk0zZ0dkZDNJVG5XYlE?oc=5",
+      "published_at": "2026-11-26T20:05:09+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "La Vacunación sí da Oportunidades: Sanofi reconoce por 12o año a quienes hacen de la vacunación en México algo extraordinario",
+      "publisher": "El Financiero",
+      "publisher_url": "https://www.elfinanciero.com.mx",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQTVdKT1RrWGRiZWk2ajVER0ZtVFAtVzJudFlUdVZSbWlqcW9sY0IwT2lyR2RKSUtUd21MdHFUUkxVNV9aNEZmWk8wYUg2Z183MENXbVNhV2hpWGFGVDAyWkRWYlhUSGRGYjI2MDZwLXJGVmpmNW8zT2RVX05CdE53ajNTVmozQjNTYzVVQlppYk41enBXWlpRTmRnS3NucHNEM1BFZU9jVW9iU2tiMnV3eHV1Mk4welRmVy1KNndxQ2dlTTBlX2tTRWxJRnQ2M2dIcWt3YmZ1dzNXcHpSOXZkTy0tMUN0VHV4T2E4cndRTXFHQWxleVBSeXZsc3F1bUlHaWlJUlkxWGFzdktyRTZr?oc=5",
+      "published_at": "2026-11-26T19:54:21+00:00",
+      "regions": [
+        "mexico"
+      ]
+    },
     {
       "title": "GSK picks up key Chinese approval for HBV drug Hibsago",
       "publisher": "pharmaphorum",
@@ -66,8 +179,8 @@
     {
       "title": "Héroes de la salud: estas son las 10 personas que cruzan México para salvar vidas con vacunas ¿las conoces?",
       "publisher": "Milenio",
-      "publisher_url": "https://amp.milenio.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMm8tTUUyYmZqeWRLeWxFWl9KNE91V2lvZV9OS3lMLWdHNlpTS3pESGRiWExJWWVsZFVoV25HS3dFOXFTY1NyRmdjdDZ5NVNPMUNvclpIdGFkUFB3enI1NERhbU5PbEl4ai14QzNBYXdLNlByaVRuY2VUb3pnMXQ4dzBzOW1CQ2pCRTY2NXg3OC02OUcxaEYxcXJHejgyU19ZUHfSAaIBQVVfeXFMTjJvLU1FMmJmanlkS3lsRVpfSjRPdVdpb2VfTkt5TC1nRzZaU0t6REhkYlhMSVllbGRVaFduR0t3RTlxU2NTckZnY3Q2eTVTTzFDb3JaSHRhZFBQd3pyNTREYW1OT2xJeGoteEMzQWF3SzZQcmlUbmNlVG96ZzF0OHcwczltQkNqQkU2NjV4NzgtNjlHMWhGMXFyR3o4MlNfWVB3?oc=5",
+      "publisher_url": "https://www.milenio.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQzZfSDFWQ3FmWlEzTVJpRjRZRmhFOFZhc2hEVXBhOXRicmUzcWg3bHV1dFViZzE5SjZxeXJOTXJaQ1dUNFVnNWt1ZTg0U0JCckNBNHVaYklDODFwS21tLWVWLWViMlA4WDRRMTFUbDVsYV9uSTgza1lBaV80dl9KV3dBeEU1Tk5uM29Mdm12VnRLTG4wc1kzTDhfLUV5TVFLWXfSAaIBQVVfeXFMTjJvLU1FMmJmanlkS3lsRVpfSjRPdVdpb2VfTkt5TC1nRzZaU0t6REhkYlhMSVllbGRVaFduR0t3RTlxU2NTckZnY3Q2eTVTTzFDb3JaSHRhZFBQd3pyNTREYW1OT2xJeGoteEMzQWF3SzZQcmlUbmNlVG96ZzF0OHcwczltQkNqQkU2NjV4NzgtNjlHMWhGMXFyR3o4MlNfWVB3?oc=5",
       "published_at": "2026-11-26T17:31:00+00:00",
       "regions": [
         "mexico"
@@ -121,7 +234,8 @@
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5yZTdTRFNuc2ZUZU5JQ0Z4SDRqR19wcF9qYUZkVF81djNPaXl0TDViU2wwNXVXUElXc3VaazRlc3dudG1KOHE3aTROclFSVVVXbHdBUTBYNS1adzdGZXc?oc=5",
       "published_at": "2026-11-26T14:51:49+00:00",
       "regions": [
-        "europa"
+        "europa",
+        "global"
       ]
     },
     {
@@ -150,6 +264,16 @@
       "publisher_url": "https://pharmaphorum.com",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1QTFY5OXB2MXR4OWp5ZWxQRXVyTml2NDNUSzQxSk5vNlQ4WG03Vk9yUm85Zl84TS1pc0tDdVl5SVlfd3JCSW1QTGxzZjdRMkZsc0FLSHlzSVFDVUxFU0NwLVA5Wlg5NHEwbFhPeXBTUmdrVk9tbzA3TzlpNHlhV1E?oc=5",
       "published_at": "2026-11-26T12:33:32+00:00",
+      "regions": [
+        "europa"
+      ]
+    },
+    {
+      "title": "IBA says radiopharma boom drives machine sales, isotope trials carry new opportunities",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNX0dydjloUlNXT0lUUDlsVEpHeDVYZ2RtNnV0azVfXzgtNF9LVDQwc01ZS0haNHJrQWtEMVphYVhwNTg1NzFWcWpyYi1nY0Z4Q3F1RzlOSjFHbDRvY0ZlcWJGdzBhTHBwVjZvbWZFS0dEX1hlbFhWblVKODhsRUc1RjROeHF1cTV4eUhZamxacm1qN05UbXRsU1k5T3BOR1RPb19McW8tM1dUQjFFQk9WRDRpZVVVMnZ3ek1rUXY0TG1YVDFrS0pmSEFCbzM3QlJXekRVeklPRzhmUUk?oc=5",
+      "published_at": "2026-11-26T12:13:23+00:00",
       "regions": [
         "europa"
       ]
@@ -243,7 +367,6 @@
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUVN6Wm9jSWVPRlVIQTF5YzVHekN3UmhpbmxORG5iZkpmOHd1V05kdmFWZERJOGJQb0FTRXFVUm5Sb1NiUHJ5MUo4djB5bk5DV2EwQ0EzX2dLeU1DcVhuVGh2WDdNeGdwYnByRFp1b1p3clc2bjBNbFByNWFEMWRaRlBwQURfX3dITGNKM2htMzl2VjBxb1h0c2RXamg0Znk3clRrcGFNbDJLSU95emhsc0dOWDVQVFd6dW9sSlpRLUdKekhrTFdz?oc=5",
       "published_at": "2026-11-26T06:11:00+00:00",
       "regions": [
-        "europa",
         "usa"
       ]
     },

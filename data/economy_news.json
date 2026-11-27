@@ -1,7 +1,7 @@
 {
   "date": "2026-11-26",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-26T19:41:23+00:00",
+  "checked_at": "2026-11-27T02:55:09+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -23,7 +23,7 @@
     "bcrd": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 1
     },
     "fiscal": {
       "ok": true,
@@ -38,7 +38,7 @@
     "finance": {
       "ok": true,
       "error": null,
-      "count": 6
+      "count": 4
     },
     "securities": {
       "ok": true,
@@ -48,7 +48,7 @@
     "economy": {
       "ok": true,
       "error": null,
-      "count": 6
+      "count": 7
     },
     "economist_andy": {
       "ok": true,
@@ -82,6 +82,85 @@
     }
   },
   "items": [
+    {
+      "title": "El Banco Central dice que la economía dominicana creció, ¿Qué dice la gente?",
+      "publisher": "Hoy Digital",
+      "publisher_url": "https://hoy.com.do",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZTRRRjVFQjFrNUVqOHpQTTRQVnY4dFJsQng3ZW1FMTdCS2dmemFwZm85SVVjVUJsWmYtZFFmVG5CTElRU21iNVo3X3FpUU1ibnJmTTlmVUtGV05NNURhR3owNENDZEdRd3RfTVRCbHl6cl9lQU5RYzN0TXdERW4teWpud0pqeE1vZXJpRmJlaHk4V084OTVNUl9HcjNMd9IBowFBVV95cUxOWjZWa1JLMk1fejA0VVp1YXJPYWdBLXY5ZFJLQ3pndHNCSWJOVVBlano3MDUtdWpBY0JzeV95X0RUUURVVlhmT2lGVjlpeGEtRzF2ZngtS0JkQll0cTVud3d6R2EwQUdZWXdPelZmVWJKY0lqa1FGRmdBdGVQZ2JLQ2Fsdm5IT1Bkdk1xaGM4RWtxblZPM2R3cWNvcVkxbnVEUl9B?oc=5",
+      "published_at": "2026-11-26T22:25:32+00:00",
+      "topics": [
+        "bcrd",
+        "economy",
+        "finance"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "bcrd",
+        "economy"
+      ]
+    },
+    {
+      "title": "Tax Zapping: la amenaza invisible que desafía a la DGII",
+      "publisher": "El Nuevo Diario",
+      "publisher_url": "https://elnuevodiario.com.do",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNTBHLThsNzVnM18yMS10aTVJOExCWnBCTkNhY3NwdEtPOWJTbGx4WTd2cXZrUnIzQ19JSTVvVFpOLTF1MDE3cVpuMThZdWt6ZTJBdTBGS0kzQmxtVU4xNng0VHpHa25JWlJRVG1MTVkxYzZqRGNyV3lyc2lUdmtlR1R6ckFtdmRqV2ppdA?oc=5",
+      "published_at": "2026-11-26T21:09:19+00:00",
+      "topics": [
+        "dgii"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "dgii"
+      ]
+    },
+    {
+      "title": "Riesgos climáticos y sociales: desafíos que prueban la sostenibilidad de la banca dominicana",
+      "publisher": "Periódico elDinero",
+      "publisher_url": "https://eldinero.com.do",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQS21GWnI4cGFPeFNZY3J3VDIwYjJoWVJNYWtGRDU3ZzhsWVJfdFEtNkwtYzZfZ2dKN1VxN1BRcTd6NFdIeWowRkZRSnVSVnBRRUVrWUg2TWRaQXNVaVEyODliUU5RQnZJSE5kaGZnM2FCVjVUSDRlNklkX2JWRE1VTWpaM0dELThRbG1KaVo5NXdMbzdIa1FTa3JNbHdUQkJVckR4dmkteHpXQXo4SlpnMmJnenBnY211Zm9IUzRFdHY?oc=5",
+      "published_at": "2026-11-26T19:45:27+00:00",
+      "topics": [
+        "finance"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "finance"
+      ]
+    },
+    {
+      "title": "Constructores del Cibao piden claridad en tratamiento fiscal a fideicomisos inmobiliarios",
+      "publisher": "Diario Libre",
+      "publisher_url": "https://www.diariolibre.com",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaGJmMW9jdjNFUm0taDgtYS04SHAzcFdROXlwQ3UyOXZiMHhoY3ZFbHk3emhFeWM5SkI0eEppV3JIZWVTdU92RHczZkpBYzRTWkwxMWJYSVJ5WFBLTVIyS0FLcjBLUnRhNkVGVUVzanhhSTNKNXNYMFA3YkFsVXNhNmV0b0dtbmJFanlHWmhZelZyU3liWWszTG01LUR6Z3VWWHlmdEVUdllJbE1JSWQyYUlpOGxZUTBXbWM1VnBZVmh5VUFUUGxjaDJZbXnSAdIBQVVfeXFMT3F5YjFla1ZxaUp4Rm1YaTdjMnkydEwyd3Y0dnBQcl9nYTdLNkVTcHVtX25vcEhaWFJ2Qmp4bTBub1JOSUtSOVdlWVZPTGV1QVBHbjExeHRna1NFRWxMXzFidjIwR2lHR0RtOGFad2U2MzFSMnhYVlFrandmX1lZT3BpY0NVSWlPWjNEcm9mVnp3VlEyemNJYkxCRUhsbWVZWXlqZ2E0LXFMSEtST0RfNXFtLU1IclQycXIxYWVLcjY5X2Etc2RtOEo2YlcybzhBc3dR?oc=5",
+      "published_at": "2026-11-26T19:40:00+00:00",
+      "topics": [
+        "dgii",
+        "securities"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "dgii"
+      ]
+    },
+    {
+      "title": "La DGII llama a contribuyentes a aprovechar la amnistía fiscal",
+      "publisher": "Diario Libre",
+      "publisher_url": "https://www.diariolibre.com",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZ0VKQW1XVHNhWG1rVWtQeG5LSHgwLUMxOVc1cUZVdzFfNjRkT3dVSC0yajZjaTZKTGNyRllGa0pjTER0THFocnJqUFNlMk10YWZqdzJDRjFwNmlJYUFZVlFpR3JLanZ2bzhLdXpJQzViZ3lkV3lrdFIwZjZRaFAwZUQxWVdCZExFWkEwSS1KX18tRVhvdmNKdVl5bEYxNEZUN1J2a1lURmlRQ3RQNVZpaGRQRmFSZGJ4TDd4N1NvVzBWSS1CTFRR0gHMAUFVX3lxTE9NNGRPbHAxTW55T3loYzhyVU9WS2VqQWRJMTgyRzV1bUtibmFDaXhJUEFPRWx6Rjh4OHVQQ1VCaHY3bEQ2OEhMNWpPcm1LRlFVd19UQXJJbzFoemg3RjNBWkYzSFFVcE5DbjJLVVF5bjdlNW45VnN4Y3AxSEViMEh2eVV2MFVCNzVsMHJtcXRyRmIwcDZHNVRDSTd2enFybzgyVjZWeURiVlB1SDY1WXg2N0FWLWF4U3dKYWZ0SjE2Q2NOYkpWdkNpREFURw?oc=5",
+      "published_at": "2026-11-26T19:29:00+00:00",
+      "topics": [
+        "dgii"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "dgii"
+      ]
+    },
     {
       "title": "DGII llama a regularizar deudas tributarias antes del 31 de diciembre",
       "publisher": "Acento",
@@ -145,6 +224,21 @@
       ]
     },
     {
+      "title": "DGII da plazo hasta el 31 de diciembre para saldar deudas con facilidades de amnistía fiscal",
+      "publisher": "El Dia.com.do",
+      "publisher_url": "https://eldia.com.do",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTTZ5V1huclhQbnhrYUpRZ1k1eHYxeXE3X0ZKX1lzNDJlWjUzN2pQaGlDdmpkdlpwTkx5aTJQLW5Mdkd2cFRfOHVNLVNBMnY4UUxQUUlGSVhrZnJLc1l1cGU4TUlmLUcwN1ZKT2JRaW5USFdKMW1naUFPeHdodER2a0VpV1BiQmlmZ2g0cjRkSC1VYzZHTlFoaU9ZOXdUWVl4QjAwTm1RUzZIOVlPM2lnSzZzSzM0UQ?oc=5",
+      "published_at": "2026-11-26T15:53:56+00:00",
+      "topics": [
+        "dgii"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "dgii"
+      ]
+    },
+    {
       "title": "DGII llama a contribuyentes a aprovechar amnistía fiscal que vence el 31 de diciembre de 2026",
       "publisher": "El Dia.com.do",
       "publisher_url": "https://eldia.com.do",
@@ -164,7 +258,7 @@
       "publisher": "Periódico elDinero",
       "publisher_url": "https://eldinero.com.do",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMzNZX3ByU0lBUnE2VlRfQXBCSzZIemFtS2F2cFlNSjNmSXI1VjhpWF9zMkZvS19JVTB6UDVSdUpiVzlJM29SQ0ExREVtVVpsOVplanhDSWlnbjFrajNnckwyRm5pYTV4OXRvWXJBOFJBMFg2dTJZcF9LS3A1SDNBcnpBYmY4VDhXakZSdzhFcS01OHFPRFE?oc=5",
-      "published_at": "2026-11-26T15:33:45+00:00",
+      "published_at": "2026-11-26T15:41:06+00:00",
       "topics": [
         "finance"
       ],
@@ -273,6 +367,21 @@
       ]
     },
     {
+      "title": "Capellán propone integrar a Haití en estrategia económica dominicana",
+      "publisher": "Periódico elDinero",
+      "publisher_url": "https://eldinero.com.do",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTWI2X1VfZ2Q5Mk5zRHpKLVlZSGtoQUJkTm5PejZTNTgyLU02UHNLaDRualo3TjJmc0JkUllieDNQOEZsVElnTFRjZTVCbXo3ZzdlV3BtaWhFTGtwYzdfcms4Z1lNdG5jOHNMYktEd29kYmlUWXVYdTQ1TGplbktOeE1tV3NpMmt0N2F5WGJMY2RRTlU5bUlNOVBjNUFQWjMtOVE?oc=5",
+      "published_at": "2026-11-26T05:55:09+00:00",
+      "topics": [
+        "economy"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "economy"
+      ]
+    },
+    {
       "title": "ABA propone eliminar el impuesto a las transferencias bancarias",
       "publisher": "Periódico elDinero",
       "publisher_url": "https://eldinero.com.do",
@@ -302,21 +411,6 @@
       "economist_match": null,
       "searches": [
         "finance"
-      ]
-    },
-    {
-      "title": "Capellán propone integrar a Haití en estrategia económica dominicana",
-      "publisher": "Periódico elDinero",
-      "publisher_url": "https://eldinero.com.do",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTWI2X1VfZ2Q5Mk5zRHpKLVlZSGtoQUJkTm5PejZTNTgyLU02UHNLaDRualo3TjJmc0JkUllieDNQOEZsVElnTFRjZTVCbXo3ZzdlV3BtaWhFTGtwYzdfcms4Z1lNdG5jOHNMYktEd29kYmlUWXVYdTQ1TGplbktOeE1tV3NpMmt0N2F5WGJMY2RRTlU5bUlNOVBjNUFQWjMtOVE?oc=5",
-      "published_at": "2026-11-26T05:55:09+00:00",
-      "topics": [
-        "economy"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "economy"
       ]
     },
     {
