@@ -1,7 +1,7 @@
 {
   "date": "2026-11-27",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-27T19:32:37+00:00",
+  "checked_at": "2026-11-28T02:45:23+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -38,7 +38,7 @@
     "finance": {
       "ok": true,
       "error": null,
-      "count": 2
+      "count": 3
     },
     "securities": {
       "ok": true,
@@ -48,7 +48,7 @@
     "economy": {
       "ok": true,
       "error": null,
-      "count": 3
+      "count": 4
     },
     "economist_andy": {
       "ok": true,
@@ -68,7 +68,7 @@
     "economist_raul": {
       "ok": true,
       "error": null,
-      "count": 3
+      "count": 4
     },
     "economist_jose_luis": {
       "ok": true,
@@ -82,6 +82,68 @@
     }
   },
   "items": [
+    {
+      "title": "Superintendencia de Bancos inaugura salón de reuniones en honor a Socorro de la Cruz",
+      "publisher": "El Nuevo Diario",
+      "publisher_url": "https://elnuevodiario.com.do",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRnpiN1hzQ2szbnlyZnEtVXhaRElLMzU0d2ttSjNEN2pkb3VXMnh6bTQwRXd3dTdjRml6S2s5Yi05YWF6S1ZIUHNkRjBvMFY2a08welFpY0xaT1piaXZfYmoxTXJ4NnVpWjhLdUp4VGhIVmZHTVRTY3hnNHQxYnMtUTJOaEZMckhGMFpSd2cxVzItMmNjZHlLX3ZuS1E2dlhTSjU3SkxfMkk1czVYaTRSOUJvcm4?oc=5",
+      "published_at": "2026-11-28T00:35:07+00:00",
+      "topics": [
+        "finance"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "finance"
+      ]
+    },
+    {
+      "title": "Amchamdr aborda con congresistas de EE. UU. impacto de aranceles y oportunidades comerciales",
+      "publisher": "Acento",
+      "publisher_url": "https://acento.com.do",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZzJOWTVwd3J6QWIzMFZ2dVV0ZUlRVFJWNWV1UEZCQ3dMeDlPVU5RSE5WNEdiSTEwbTR4WEdRQjlzTkhtWFNsQjRxekJDWE9EY25jc01nTWtLeXp1bmxYaG15NjRyampFZDVxVDhFTHp3VGE1WXFFamFqamxvV1RVTWFDVVdqY3Jzb3d5RXNzMXB4ZFhpSTUyS29EWjkwaVNjRXBhU281d2c4YTFoWGRKem5OVFI3Mzh1TFBFUFNmcHdMUUdUMlM3aTNqZ0FERkXSAc8BQVVfeXFMTWcyTlk1cHdyekFiMzBWdnVVdGVJUVRSVjVldVBGQkN3THg5T1VOUUhOVjRHYkkxMG00eFhHUUI5c05IbVhTbEI0cXpCQ1hPRGNuY3NNZ01rS3l6dW5sWGhteTY0cmpqRWQ1cVQ4RUx6d1RhNVlxRWphampsb1dUVU1hQ1VXamNyc293eUVzczFweGRYaUk1MktvRFo5MGlTY0VwYVNvNXdnOGExaFhkSnpuTlRSNzM4dUxQRVBTZnB3TFFHVDJTN2kzamdBREZF?oc=5",
+      "published_at": "2026-11-27T21:00:50+00:00",
+      "topics": [
+        "opinion"
+      ],
+      "economists": [
+        "raul"
+      ],
+      "economist_match": "search",
+      "searches": [
+        "economist_raul"
+      ]
+    },
+    {
+      "title": "Banca dominicana apuesta por créditos verdes, pero su oferta aún se concentra en pocos sectores",
+      "publisher": "Periódico elDinero",
+      "publisher_url": "https://eldinero.com.do",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUERSOE9TNGpCQnBHZUtXbGU2enowVm40b29McEJ3Z3c0V05nNU05dzRwVHpiaXRIQzVNcE1QVzBqMDUwU0tINkR4V3hSUDBPVDA5bDM5NVcyS1R4cDNlYkcxamlhUXFpSFZsYXJSTXFGbFBUNTRYdnNidUVWM3MtMmQ4dTg5ZFpXanVsamlsaFQtN1VibC1GcWUwYnZMQWJvcE52WGVURzMtclNHOXg1ZURpRUdHNXdnYm1ibjc5Q1JCRDJ3?oc=5",
+      "published_at": "2026-11-27T20:11:38+00:00",
+      "topics": [
+        "finance"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "finance"
+      ]
+    },
+    {
+      "title": "Amchamdr y congresistas de EE.UU. analizan oportunidades comerciales y de inversión con RD",
+      "publisher": "Periódico elDinero",
+      "publisher_url": "https://eldinero.com.do",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNN2pGX3AxRW9wRENwUzlYSEhKdjYycURxVFBzWElMWTVXOU9QOC1ycTNzLURMNVQ3ZlRMZnFuRDZQdTNfdlBmNGRaaUFsWm91NFp2T2FKZkF3TFVPTi1NdmdGVlJYNXpzZGtRdFlPTjA0b3doVXFZYkJldTY0c2R5YlZxczdNcHpMTng2cWZ2MXlXZHdxVHVyMjlkU3M5X1R6TWVMMXFpb1lLbVh1RWwyUEotdHl2dnctZnliLVF3?oc=5",
+      "published_at": "2026-11-27T18:37:03+00:00",
+      "topics": [
+        "economy"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "economy"
+      ]
+    },
     {
       "title": "Altagracia Tavárez plantea que la educación superior será clave para transformar la economía dominicana hacia 2040",
       "publisher": "El Nuevo Diario",
