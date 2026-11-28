@@ -1,7 +1,7 @@
 {
-  "date": "2026-11-27",
+  "date": "2026-11-28",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-28T02:45:23+00:00",
+  "checked_at": "2026-11-28T08:03:13+00:00",
   "regions": {
     "rd": "República Dominicana",
     "centroamerica": "Centroamérica",
@@ -14,7 +14,7 @@
     "rd": {
       "ok": true,
       "error": null,
-      "count": 3
+      "count": 0
     },
     "centroamerica": {
       "ok": true,
@@ -24,250 +24,64 @@
     "mexico": {
       "ok": true,
       "error": null,
-      "count": 6
+      "count": 1
     },
     "usa": {
       "ok": true,
       "error": null,
-      "count": 3
+      "count": 1
     },
     "europa": {
       "ok": true,
       "error": null,
-      "count": 15
+      "count": 3
     },
     "global": {
       "ok": true,
       "error": null,
-      "count": 5
+      "count": 1
     }
   },
   "items": [
     {
-      "title": "UK flu vaccine: Who should get it this winter and why?",
+      "title": "Pharmacies get new power to swap some prescriptions",
       "publisher": "BBC",
       "publisher_url": "https://www.bbc.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBtWTZZcDNlWS13QWRZbWNybVdMOUJsVDVhX1o0VUd5bzAyMTFWeXVaY2dMeVNyTzNScXBfdE1LWTRiZndTUUJOM3NWUTZMWUlxRGhWVGV6MmFuNl8tVFE?oc=5",
-      "published_at": "2026-11-28T01:03:11+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0xT2tLVmlwQ1BPV1B2NnNOVzhiQnBsUlpOaWJZcUR1YU5MQV9JUnpYU1l2eTdJWktzYUFNUjhVN2Y5dUR4TjlINWJUeFNieTI5RXBtVg?oc=5",
+      "published_at": "2026-11-28T06:38:37+00:00",
       "regions": [
         "europa"
       ]
     },
     {
-      "title": "GAVI compra vacunas experimentales contra el ébola tras brote en la República Democrática del Congo",
-      "publisher": "El Economista",
-      "publisher_url": "https://www.eleconomista.com.mx",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPY0FwN1BvUm94ZjNFQVU2VEhuLXgwRUtnVXVzc1RkYms2N1dzSnNUaGE2bXV1VmJqSXBnZzJLY21uMGQtakI5VmNqa3ZvX1RhR0JNSE5hRDcyNkNzV3d6NHpUdUlGc01CZ0xXVUFoSld2YVhoa1dOZ2xBcmR0emRJckxlT3RxTjBwSnZ6QUczNzUwSGczQ2xDekk4Wi1LVUhUSi1lQzVYX0FMdTl5V25wVEE5c2kzR0tDRDdKelBZRWF5V0N4NzRlMEx4M3VUdG1iaFdYWUJR0gHbAUFVX3lxTFBsaC1rQVMzSVJDZE1vRWVsX014a2Yydm9nT0RPeDRVRTl3SjRTYy1FbEYtc0phQmpPUmtBeFhFeEpjNHd1Y1BWNF9ONkpGZ3hxQS1BYUtNUUZjcUIyaE50azZUWjRwZ2FLeWVHQjhCYmtNREZNdnItLUtYSmFEZWhqdTE3Nmc5QXNvdkcxeGEwNXp3TE41ckRTcU1nUkNsbDlBNDJpaGtvWUdMR3ZaZjBldnFDRzhYRmNxb2IzdXpJM29XcllZaUZ3c1VQWWtlRXhaYW1Gd3pnTll6NA?oc=5",
-      "published_at": "2026-11-27T23:54:04+00:00",
-      "regions": [
-        "mexico"
-      ]
-    },
-    {
-      "title": "OMS acuerda con Venezuela cooperación en la producción de vacunas durante visita de Tedros",
-      "publisher": "El Nuevo Diario",
-      "publisher_url": "https://elnuevodiario.com.do",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWVZuWHEwdmE0dnlwaTVDbXF3M2I0ZUZZQ1JZMEhqVU04cjRCU3N1aFk4OG5aMEJ3azNQRUpWMlpEWmYtak9XV3d1SDFRRjFPRWVEQWFtZmVaLTJtMTBEVU13bG5CU0prc05nMlhCNE5VNEN3aVg5aHV0a1E4TE9oOHV5NGRlam53ZnNOcG1oYkNDMTB5US1WdHZUc0xsYjQ0Ni04NDJvU056SUVXYm9nVHZOTVhmTEJBc1NPMg?oc=5",
-      "published_at": "2026-11-27T21:49:49+00:00",
-      "regions": [
-        "rd"
-      ]
-    },
-    {
-      "title": "Uganda begins Africa's first mRNA Ebola vaccine trial",
-      "publisher": "Euronews.com",
-      "publisher_url": "https://www.euronews.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPclRITVZsOGZqQ2RicnlWUDVlX2V1SmZwNm1UTExWRFBsRUFFVlFTeExqejN6TGYweG9HYms2NXFSNnhfRVUzNEVRUnRaRzR0V2REZzBYY05DR21sUGQtREFtM09YVTRSNFRZMUJ5NHljQjRVSUJSUFItUDRfR1BFUldXZ2xOZVJ5OWlzclFJZzF0QQ?oc=5",
-      "published_at": "2026-11-27T21:45:59+00:00",
+      "title": "Pharmacies get new powers to swap prescriptions during shortages",
+      "publisher": "BBC",
+      "publisher_url": "https://www.bbc.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1FT2l3aTNPa3V3OW15RjJoWnd1UnM4RnlibUdtdU94amVkbTRfV045QmwzZ3BfWXRmXzZuSl9fNW1ZMFBHQ2NzSm5Bd1Jpb2cwUmllUV90Y3dQWG00R1E?oc=5",
+      "published_at": "2026-11-28T06:00:11+00:00",
       "regions": [
         "europa"
       ]
     },
     {
-      "title": "¿Dónde vacunarse contra la influenza, COVID-19 y VPH esta temporada de invierno en Jalisco?",
-      "publisher": "MILENIO",
-      "publisher_url": "https://amp.milenio.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZzlzRjRrMFJlYzY4X2VNVnpOemt3anA5eDFpd29JY1paa0NNS0RQMHBscTZzNjRiVVdMQjNsM0o0aGc0N3ZodDl1WVMtaTJzall1X3dmbXg5bjVtRWhnMGQ0eE9aSlc3eE5PODMyYi1wQnQ3NWJoMHZvUGVHRjd3RkJRTWVzTTlIUkVMTjVHQzlWRDhB0gGUAUFVX3lxTE1nOXNGNGswUmVjNjhfZU1Wek56a3dqcDl4MWl3b0ljWlprQ01LRFAwcGxxNnM2NGJVV0xCM2wzSjRoZzQ3dmh0OXVZUy1pMnNqWXVfd2ZteDluNW1FaGcwZDR4T1pKVzd4Tk84MzJiLXBCdDc1Ymgwdm9QZUdGN3dGQlFNZXNNOUhSRUxONUdDOVZEOEE?oc=5",
-      "published_at": "2026-11-27T20:41:43+00:00",
+      "title": "Exclusive | Bayer Signals Next Pharma Deals Might Target More Midstage Assets",
+      "publisher": "WSJ",
+      "publisher_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQT19Hd2hkcmE0VHpmalE3RTlNVVoxS05YcGFKUVdlVkRxR0Rwam1PT2NHdlNNdjFKUTdVSGw5Yk01ZC1PTDFJQjBlX1U2X0Y4OFJia2xweTJvTnRHNnc3R3I5TmJDdkFKUzdVNDBkSVVNVXJWQ3M2eXdPVGpUMW1ZWUNmOFlEV1lSR3dqbTJWNC1MRTAyOHQxc3dwbXRSeEpZd0s4OVVsbkZFYXJZ?oc=5",
+      "published_at": "2026-11-28T05:58:28+00:00",
       "regions": [
-        "mexico"
-      ]
-    },
-    {
-      "title": "Cofepris lanza alerta sanitaria y de riesgo por Ozempic y Duvalín Untable falsificados",
-      "publisher": "El Economista",
-      "publisher_url": "https://www.eleconomista.com.mx",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUU9fU0l0aUJIWjcwTkRiaGMwWjNobkJHamM5SkhHZ1RPcl96ZUhObEoteks4SkdwRDRxQWNtaHNlaE1WUHRIOGZaRjJKamQwQV9oVmtHQmZyMk51R3NYNkNEdk9GcVMxQUpkRVVRQmhRR000TTNYYVBoelFiWTZsWDZNMnpSdzFVM2hLdXRnV3ZuSVBld1p0TmZNbWl4aEhpUFVPSHZMRnY5ZWI5cnZKVEpzT3JzVVpQbDBTbkp3OENYOC0zZTRuMzdZSkFpLWpySUdB0gHYAUFVX3lxTE9vblM5VlNmU3VtdnR4TXBmeW5NOWFhYnU2QmVVZUZKYU1nQjhtZ0VrakZDb2stTEd4WktNSTFvWmFNd29EbzItdnpjV0EzX2UwTHBDMFR3d050Z0RzNWgwVXZNXzZCdlhFeS1qaTdQcTRUcXJLazNWZ1p0ZzV3TFNFYUU3bzlmY05HV3VtNW9pa2FJZ3NsRFN5ZUt0bFM1MURsaUxsOWwtTE12S2thWjM3UnFBX3BoUVVTR0FkVkZSbWlhYzFJNUJULWZwYnViemVkektZd2VSUw?oc=5",
-      "published_at": "2026-11-27T19:28:47+00:00",
-      "regions": [
-        "mexico"
-      ]
-    },
-    {
-      "title": "Escuela de Farmacia de la UASD celebra 148 aniversario con ofrenda floral",
-      "publisher": "El Nuevo Diario",
-      "publisher_url": "https://elnuevodiario.com.do",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOY2gwa3hNUFpRdHNHeWoyUkxYSlV5bVg5bjN1WERVdjJ1cjF3ZGc5R3JhdElsQnZVWm82T1ZfckFtamhMekJnV1FsbTdXRUl5Ny1fWWV2NWlyajZWWEU3LUN1UXFUMm45bS1xS1otRkpJcVRiNTVGQzllTmw4TWdtMWJ2eDRuTGF4cThpT1NHNkszZ25QVGkzdTUtUHZ2dDFzZ2dqUnJB?oc=5",
-      "published_at": "2026-11-27T18:39:15+00:00",
-      "regions": [
-        "rd"
-      ]
-    },
-    {
-      "title": "Cofepris alerta por medicamentos Ozempic y Saxenda falsificados • Salud",
-      "publisher": "Forbes México",
-      "publisher_url": "https://forbes.com.mx",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbEFVRm9BWFI3V1dveC1oQmtGaUFzSERFVElKRTdRV0pLQVhiaHB1dlloNk9SemJELXRoOExjVGF0VHJkNlU2TTJQYU1tOWlRSkFSejhLVExBbXJxQTBUZ0ZobmhFY29IOEFDZmFkb1hfT2N6eDk5Qmd1M0E4bE84WWtyVC14Qnk2ZTZYdzlJYw?oc=5",
-      "published_at": "2026-11-27T18:39:00+00:00",
-      "regions": [
-        "mexico"
-      ]
-    },
-    {
-      "title": "Vertex Pharma falls after FDA extends review of kidney disease drug",
-      "publisher": "Reuters",
-      "publisher_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOX293bHdtY3RNdVhHV2o5Y1lFRmYyY3F0M0pHa2lTWTRmY0VsR0tKZmZLWWdxazVtelZjZ2ZHTzc1NUhPTDE5OWJLZ1lJcVRCaWFmQTBaVUlTcEdtWlowb1FpWFdjTUxTaXhWR1Nhdy1yNnJ4d0tmU2R1QXNDZ3dkR3J4ZldHUVFNZXlNRURfczFUNC1JeG1wRk5jaUlRU0RvbmZoVVZUQlRfOU80Z2dtQTV1MHJLa3BC?oc=5",
-      "published_at": "2026-11-27T18:18:09+00:00",
-      "regions": [
-        "europa",
         "global",
         "usa"
       ]
     },
     {
-      "title": "Crece uso de fármacos como Ozempic para tratar la obesidad en Europa; surgieron para atender la diabetes",
+      "title": "Cupón Farmacias del Ahorro: hasta 70% en Noviembre 2026",
       "publisher": "El Universal",
       "publisher_url": "https://www.eluniversal.com.mx",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNOHlqT19sU3dTU2hKUHlxYjhUTzRlNmVyLUVkVDBoODhtZDV0b0xMNW5qdFVlTjNpNnVNRzBwVlZfSTNiM3ZSdUdjdE1OSy1tbGhkRE1TajVfRk43ZmtyTlIybWNiMG1hRGNFWmFnblpBOVAwdWsxTTZldU4wLXhscUVtcUVaM1duaW9aQVZaSlFqMWVTZnpzMjhzWnBzU2RWd2xoeE1WQ1VVQWllbVp6YUJPdXNpcldBVzVyT3NDRThNUFFuQWhvUHdwT2dhRHVEZ0k5akE2dF_SAewBQVVfeXFMUFEzcHlFYXB6aU5IeEM2Ylg3MGpYQWtua0hIX0JId18wcnRDRlk1YS1NYWd2RDNrLWthTjNack51UHJNaW0zOFktRk9ESHdBajZueWZ3YWRUQjljVEVkVk05aUV2dlE2aEh5V0ZMeWdHTnpGcVBxRmlyQnRTNXVxYjFKNzVaUnpWMkd2SG9PSl9LVnlZak4wZGNOSDBiR0Z2bVU3ZzhYYl9xLUVfT3pweTBkTmdyYWszajZVQVB2RnkyTUZWam11Sk96MXRDRFNyWTJHemYxRjJjMXNEcjJJZUV5UHBYa0JHOVFBT3A?oc=5",
-      "published_at": "2026-11-27T17:52:21+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVnI0QTNHaVkxbzBYemh6MWZfVjFvT2prNlU0SS1VVE54UHpiU196eTlBVS1zWk0wM3FNbXhrSWlxLXZLZkVjejZ0allBM2w4SFBlSE9BVEJybUVoYWdtRXJsMFlKYi1VNWtaY3gyVUVJQ0w2cmZIc21fRmxPOTBpRUJB?oc=5",
+      "published_at": "2026-11-28T05:46:24+00:00",
       "regions": [
         "mexico"
-      ]
-    },
-    {
-      "title": "Lupin Announces U.S. FDA Approval and Launch of Sitagliptin Tablets, USP in the United States",
-      "publisher": "Financial Times",
-      "publisher_url": "https://markets.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbGFTblUxMXFhMlFuVWpHMW1yT29GQWxjX2ppckZIQlRrbzJETjRjWEZ4cXVIaUV4NVYzeDRkYTktbGVzZ0djd2JyeEVQazBjWml2cFRCTFRUNzFFS0dXSUg3eFJ5V0otLVhjYjFJUjg3MU40cHhPMDd5NV9rM0R0bDZ4UmoxZjBRT0g0Z1lCRU9yNXZ2RXJseA?oc=5",
-      "published_at": "2026-11-27T16:34:00+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "Uso de fármacos como Ozempic se desplaza de diabetes a la obesidad en Europa, según EMA",
-      "publisher": "El Nuevo Diario",
-      "publisher_url": "https://elnuevodiario.com.do",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUDdOMmNFMjlicklld3JiUU9Qd0RWWTM4YWZUQlpRekI4OG0xdThTTHhtYzZmUWxqS0E0WE1nUXhaWlhWeTlvOEtfci1pZ0xKdHpLRWpLQk5UMG9mR1lGZ0FBQXJoTGVmRXFCcTY4MGRFZjBhNGF4TE5JeGozUHpwbUdUNUhWVmRpQ2FyM2dlMEdiR2tablNsRndrTnFHMUNfSnJPbVgzNlFDX2tCTG9MSmJBYWp6TjA?oc=5",
-      "published_at": "2026-11-27T16:30:03+00:00",
-      "regions": [
-        "rd"
-      ]
-    },
-    {
-      "title": "FDA extends assessment of experimental Vertex kidney drug",
-      "publisher": "STAT",
-      "publisher_url": "https://www.statnews.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSlktVUh3aHdqbjVYenhEdjZVWHhhcTBpZ0ZycDFibjc5ekNLdkhSUE43dkVHVG5wSmxmNktrMXgtdV8wNF9OYURFR0p4SWFONlJZNy1WYnQ0bUN5S1NFVllYMTFPNGlVb290T0l3eTh4M3lFSldtU3NiZ0RzLVI5R3FsTzU3WVZOWTBEbmpodWZTNmd3eUUyMFR4bW5VekpXblBBZ0dWZw?oc=5",
-      "published_at": "2026-11-27T16:03:42+00:00",
-      "regions": [
-        "global",
-        "usa"
-      ]
-    },
-    {
-      "title": "Tiziana Life Sciences Files Updated Foralumab Annual Safety Report with FDA Confirming Favorable Safety and Tolerability Profile – Company Announcement - FT.com",
-      "publisher": "Financial Times",
-      "publisher_url": "https://markets.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRDNNT0lRbDQ4Y3lNbjJVX3dPRjhGcnMyV04wN25sMjcyM3JGNjMzZ2FJcWhQaU5UQmctQUx0OVdXWEw0TG5kVXYzWl9uVUthWC0xcDBHQUlkSHJoVE9rYVJoOEt6SmN0MjQ5M0NEeDc3Q3NseG03OVI1RU5QS2pyYXA3d3lqYVR2TmlPcktvYjlpV0stOVk0?oc=5",
-      "published_at": "2026-11-27T13:00:00+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "Hetero begins first shipments of generic HIV drug lenacapavir to Africa",
-      "publisher": "pharmaphorum",
-      "publisher_url": "https://pharmaphorum.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTnFSZFhPYlZKNlpfblZBMm13cUFKUFhuRG1MS3VTUGRsUVVFZTJqVHdXaFgtSlZMdHY1WFNLSmxsVGI4aUFQM3lhSUh2c3c5aTh2XzFOSzJiRlotTUdFb1o1aFJXQm5vVUxQV29Xd0NRS1ROT1hJWHVSVFZLS0Q4MTR5MmhUMEVla3ZfZC1kd0U1ZVR5c1VLUktMZw?oc=5",
-      "published_at": "2026-11-27T11:31:59+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "‘We had a drug dealer called Satan on our tour bus’: Britpop stars Echobelly on debauchery, being pals with Oasis – and their spiritual return",
-      "publisher": "The Guardian",
-      "publisher_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPWXRrNnhDdUlPRGZrNGZxVHp1Ul9UUm1vZEJ4aGZrU0JXMFpzQUtIckNYT3h4Zmd5azFCTVBwM2lxaU5qcnBJUnBXcXdpOXlOY1YyYlBqMmM3MzEtb3dONHh6TWM1NGIzSHRFNW1yZWN4cXdGVVJkaGwwQ3h2YnVTQjczbEdkTTRua3VUZmpOa012NlVqa3o4NmsyVHM5ZDQ1TzlXWHRNNkJvbEt2c3lMWEFudlNWa3RuWFhINl9JaC1OcTdPUTJIOEdHdk9DYW5mUnVWNjhZNnJPTmJTelJKWUl0bjlvWTN1R1R4Tld6NHlPcnlLYS1tajdxbUVlNUhWYVhzQXVjMzluY1RKekZz?oc=5",
-      "published_at": "2026-11-27T09:48:00+00:00",
-      "regions": [
-        "europa",
-        "global"
-      ]
-    },
-    {
-      "title": "Detienen a cuatro personas tras cometer cuatro asaltos a tiendas Oxxo y farmacias en 84 minutos en La Paz",
-      "publisher": "MILENIO",
-      "publisher_url": "https://www.milenio.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTDhaS0xWaXdfWlVJelA4QTFUblp5TXk4blZmOHh4OThJRjdhRi1nN1B0cmo3U3hMT0haSXNEY3F4THdiUHdZY2Jmb3N5N2h5LTg5eWNLdVI4by0zV3RIelZVSk5ZY0NBUWIxVkQ2cWIyNGdEWnpsWlRWTW4tZ0JuSmYxWWxqWTRoUW5nMGk4TF91dUhZQUt0dFBHejluZVh1amp30gGjAUFVX3lxTFB4c3QycTZXUFQyUDQwMWtzWG15UTd3V0xmYUdGMXZmODRndGpFT1lkdXE1MjFvTl9iYmN6YzkyVm54LXh2anRfYm5uSDdpT3A0R1BVTmM1ZU1yVkRudWhBT2JxQ3RqaGNmbkdWYXp2RmEwR0RsZVBvb05fNmVjN1U4QlZwREhQZmFHMHdSLUJhR09EUllaak9waUpZb2MzTWhzZzg?oc=5",
-      "published_at": "2026-11-27T08:01:00+00:00",
-      "regions": [
-        "mexico"
-      ]
-    },
-    {
-      "title": "Gavi set to restore malaria vaccine funding for countries",
-      "publisher": "Reuters",
-      "publisher_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNFM0YzdvT25icGFkdENJU3FsY0ZmUG1YN2ZwWlplTjE1bmYyaG1FNzF6SUl5U3RPVkFnRFQyMDlDR1NZUThVOHJPa29LVkctWjB0MzM0RVdERXFkMXVLMXpKZ2FFdURMcWRaX2VPd290LTEwZTVnSGJOVjRfV2JPTUhqTXJZUG1kM1B1UHYtVVVleENiRVI5RDFwT3AxUm9EOGVoUDhqeHlRWWxOREx6emRlVjR2RWhLRF9BcUlTVQ?oc=5",
-      "published_at": "2026-11-27T07:32:00+00:00",
-      "regions": [
-        "europa",
-        "global",
-        "usa"
-      ]
-    },
-    {
-      "title": "Malaysia: Three military personnel charged for trafficking drugs at air base",
-      "publisher": "BBC",
-      "publisher_url": "http://www.bbc.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBoamppOElCNkZXT3pHTWRlZGVoRUdKWXp1ZHFScmRSOFVmU0tKSWZIYVlSazduM19rdTliVFF6NHBQanFGUUZ3MkJJd25fQVdOWWRZMTl0a2JkTzk3?oc=5",
-      "published_at": "2026-11-27T06:07:06+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "Visit pharmacy to protect GP services, says NHS Surrey and Sussex",
-      "publisher": "BBC",
-      "publisher_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1uczdsX05TYV9fNUY5U0hnbGh5aFEteVYtQ0xaeUluajNoMHh2QnFSaXFGVFkxUjVtdVRVNkxwN3ozX09GMV9LLUxLWTJJcGZCd1BYamFac2I3T1k?oc=5",
-      "published_at": "2026-11-27T06:04:27+00:00",
-      "regions": [
-        "europa",
-        "global"
-      ]
-    },
-    {
-      "title": "Mixing drugs is now the norm, EU drugs agency warns",
-      "publisher": "Euronews.com",
-      "publisher_url": "https://www.euronews.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRmQzcU9kMHFISkZtYm1HY1JNUUVXX2ZvemdxWDdFSTdmRnVRaGRQZ0xtdGc1RThuclVUaGY4a3QyMnFXNVlyMDdrbmw4WUlJb0lhcTg2UlFSR2hMQW1KTTNRQXJfOXlHRFJxdVBjVktYRFJkTzU0YjRYTFpuRGxTYi1yQU1BYUJoR0JCQ1JrUQ?oc=5",
-      "published_at": "2026-11-27T06:00:52+00:00",
-      "regions": [
-        "europa"
-      ]
-    },
-    {
-      "title": "Hetero close to securing Indian approval for generic Gilead HIV-prevention drug, sources say",
-      "publisher": "Reuters",
-      "publisher_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUFVUZHJFc1VOYjNmSWlnV3EyLUpBd0NMNlVMR2NtVWs0V1ctVTlpNUFnRzJ5V3o2VWhaSzJEbTd3c1BFbzZZZDhrWjVFdFRrZFZNbjFLTHkyT0wyei10a3NNYUlsbWNwQ2hwck03OW4zTzV4SGVWMHVWY1F1aG5kcFpxYVcxVlQta1lQd2VZX1k0dVNlQ2JsRktKTjJHeUpWcEJEZkJ1NjlXRzkxeG0zRTNOTmpVQXJtT1ROY29XNklGWnd2NF8xVU9rTENGdw?oc=5",
-      "published_at": "2026-11-27T05:50:00+00:00",
-      "regions": [
-        "europa"
       ]
     }
   ],

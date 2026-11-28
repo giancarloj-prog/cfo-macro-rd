@@ -1,7 +1,7 @@
 {
-  "date": "2026-11-27",
+  "date": "2026-11-28",
   "timezone": "America/Santo_Domingo",
-  "checked_at": "2026-11-28T02:45:23+00:00",
+  "checked_at": "2026-11-28T08:03:13+00:00",
   "topics": {
     "bcrd": "Banco Central",
     "fiscal": "Hacienda y finanzas públicas",
@@ -23,22 +23,22 @@
     "bcrd": {
       "ok": true,
       "error": null,
-      "count": 0
+      "count": 1
     },
     "fiscal": {
       "ok": true,
       "error": null,
-      "count": 1
+      "count": 0
     },
     "dgii": {
       "ok": true,
       "error": null,
-      "count": 2
+      "count": 1
     },
     "finance": {
       "ok": true,
       "error": null,
-      "count": 3
+      "count": 0
     },
     "securities": {
       "ok": true,
@@ -48,7 +48,7 @@
     "economy": {
       "ok": true,
       "error": null,
-      "count": 4
+      "count": 0
     },
     "economist_andy": {
       "ok": true,
@@ -68,7 +68,7 @@
     "economist_raul": {
       "ok": true,
       "error": null,
-      "count": 4
+      "count": 5
     },
     "economist_jose_luis": {
       "ok": true,
@@ -83,18 +83,51 @@
   },
   "items": [
     {
-      "title": "Superintendencia de Bancos inaugura salón de reuniones en honor a Socorro de la Cruz",
-      "publisher": "El Nuevo Diario",
-      "publisher_url": "https://elnuevodiario.com.do",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRnpiN1hzQ2szbnlyZnEtVXhaRElLMzU0d2ttSjNEN2pkb3VXMnh6bTQwRXd3dTdjRml6S2s5Yi05YWF6S1ZIUHNkRjBvMFY2a08welFpY0xaT1piaXZfYmoxTXJ4NnVpWjhLdUp4VGhIVmZHTVRTY3hnNHQxYnMtUTJOaEZMckhGMFpSd2cxVzItMmNjZHlLX3ZuS1E2dlhTSjU3SkxfMkk1czVYaTRSOUJvcm4?oc=5",
-      "published_at": "2026-11-28T00:35:07+00:00",
+      "title": "Banco Central con encendido de su árbol y Belén",
+      "publisher": "El Dia.com.do",
+      "publisher_url": "https://eldia.com.do",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9fd3Z4YTA3TTBjRW5MLVN1bEZLTVNOeTFaTkw3dWZacE5rdjdWMlpZenB5d1hPYWlGNUQ2OXBQb1NZUURRbEV2XzR0VXZqUUd0Wk1EaHRWbDFIbUI5aU9fUy1aVldDbXFqTlZKSUVjdGx4WDdiRWZiaA?oc=5",
+      "published_at": "2026-11-28T04:02:00+00:00",
       "topics": [
+        "bcrd",
         "finance"
       ],
       "economists": [],
       "economist_match": null,
       "searches": [
-        "finance"
+        "bcrd"
+      ]
+    },
+    {
+      "title": "Director de la DGII aboga por ampliar plazo de facturación electrónica",
+      "publisher": "Listín Diario",
+      "publisher_url": "https://listindiario.com",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQaU1PMVRETlM2elFlSFhPaVdGNWJnQ3BVOGJHWjJQZElrYXRlREx5VUZuc3l1WVZBWUxaQmFvOTduVmJOUjRubDViT2NLenRxMHlOTXpJRUpiQ1dkTm91WHVzczV4UGxQMkZaRklvTjhMZVhidnBjc3FNRFFtSmZLbDdYNWF6Q1dPM0RsOXlSc2RBVklCcjdtRGYzR3d2Zm1uSTE2REt1WXpJbkZ3WjFKeTExMm12ZEU4SHJlaVZPQ3JiRmhXT0HSAcsBQVVfeXFMTjNFTTJSQ3hDVzNkcVhNNVdYcUZCS3JqcGJ3RUtsTUVMOUlZQTQ3V1ZJeUR5NEZCQl9IdVZjNFphTVdvLXc2aHRVOEI0QWp1VlYwejlhVWZwRjA1d0cxRXV1QWI3X0dkTnVqeTJTZlhRelJHbkliWnRZbTZYeUo5WXNpUFdYRGZIMlJMY3k3LUlWUUNVT2p1OFgxYVNUeGd0UEJrSGg0Y255QWppU3N2RXE3TGE3XzFiN185X083cndvUC1ONnpseF9rM0E?oc=5",
+      "published_at": "2026-11-28T04:00:00+00:00",
+      "topics": [
+        "dgii"
+      ],
+      "economists": [],
+      "economist_match": null,
+      "searches": [
+        "dgii"
+      ]
+    },
+    {
+      "title": "Amchamdr dialoga sobre inversión con congresistas EE. UU.",
+      "publisher": "El Caribe",
+      "publisher_url": "https://www.elcaribe.com.do",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTG1BbFNZaTRWTjFPWjNIcE1aZC1aUGNmMXhTd1JPSjN2Umdyc3BZR20wemFHNTE2VDhCeW5oOG5DYUZhc0VkM0VLX2NTZUNZSEh5MFVwcTg1bjQ2R2NPMndGV1daUlZiTGtYSnJaYnFwcnhfdWYxbDhnLVpPNWpBMEYtTUtucnFXcmplcTlqTVV6Q3JCNDdVTUJCczd4Wm1DcVE?oc=5",
+      "published_at": "2026-11-28T04:00:00+00:00",
+      "topics": [
+        "opinion"
+      ],
+      "economists": [
+        "raul"
+      ],
+      "economist_match": "search",
+      "searches": [
+        "economist_raul"
       ]
     },
     {
@@ -115,66 +148,6 @@
       ]
     },
     {
-      "title": "Banca dominicana apuesta por créditos verdes, pero su oferta aún se concentra en pocos sectores",
-      "publisher": "Periódico elDinero",
-      "publisher_url": "https://eldinero.com.do",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUERSOE9TNGpCQnBHZUtXbGU2enowVm40b29McEJ3Z3c0V05nNU05dzRwVHpiaXRIQzVNcE1QVzBqMDUwU0tINkR4V3hSUDBPVDA5bDM5NVcyS1R4cDNlYkcxamlhUXFpSFZsYXJSTXFGbFBUNTRYdnNidUVWM3MtMmQ4dTg5ZFpXanVsamlsaFQtN1VibC1GcWUwYnZMQWJvcE52WGVURzMtclNHOXg1ZURpRUdHNXdnYm1ibjc5Q1JCRDJ3?oc=5",
-      "published_at": "2026-11-27T20:11:38+00:00",
-      "topics": [
-        "finance"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "finance"
-      ]
-    },
-    {
-      "title": "Amchamdr y congresistas de EE.UU. analizan oportunidades comerciales y de inversión con RD",
-      "publisher": "Periódico elDinero",
-      "publisher_url": "https://eldinero.com.do",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNN2pGX3AxRW9wRENwUzlYSEhKdjYycURxVFBzWElMWTVXOU9QOC1ycTNzLURMNVQ3ZlRMZnFuRDZQdTNfdlBmNGRaaUFsWm91NFp2T2FKZkF3TFVPTi1NdmdGVlJYNXpzZGtRdFlPTjA0b3doVXFZYkJldTY0c2R5YlZxczdNcHpMTng2cWZ2MXlXZHdxVHVyMjlkU3M5X1R6TWVMMXFpb1lLbVh1RWwyUEotdHl2dnctZnliLVF3?oc=5",
-      "published_at": "2026-11-27T18:37:03+00:00",
-      "topics": [
-        "economy"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "economy"
-      ]
-    },
-    {
-      "title": "Altagracia Tavárez plantea que la educación superior será clave para transformar la economía dominicana hacia 2040",
-      "publisher": "El Nuevo Diario",
-      "publisher_url": "https://elnuevodiario.com.do",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPWGpXbGkxcnZkbXh1b3ZLT24wZzRqTXhNTWtxRkRaaUhHSmRWXzlJSFRmOUs0b1dHQktrSFUyVUNFb3pNa2pFbUhxUWJKUEJFdHZDV1d2d2t2M3pvMUJrUC1CNmU0QlBDUDBzcTgzTkc3bmZNdVRza04zbVRacWhnMTZrWDZleVFkTTY1TjBKMmRESTlhTHJlWkRnNjV0U3pfYk9DcWExLXRNTFNFOTFjMnVXTmowejIxc1pGbmRPbTdxUEpiMHg4WFpqSjFLd1RlZW9Id1N6YnZlMXF4?oc=5",
-      "published_at": "2026-11-27T16:40:08+00:00",
-      "topics": [
-        "economy"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "economy"
-      ]
-    },
-    {
-      "title": "¿Cómo saber si te tocan los RD$1,500? Guía completa y preguntas frecuentes del Bono Navideño 2026",
-      "publisher": "Acento",
-      "publisher_url": "https://acento.com.do",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZmduZlN1VnIwZkVJcm9lRHhFWm5PdkhwdlBGeGtwdHNFZHJSdFQtNHczV3IyX3RHcGtSMzhRaWI3S1hfOGY1bUkxNGt4Tng3YTBZUHN3NFpXZ3FFYWdVZENWV2VoYnlSSGFua0NjeTBwLXZhRWttVEdSX2ZaSlJsMGFFQXFIcm5fdDdpcHlNWnJmZ0NJTy1BVjVzdW5JeGszRzdkN1dSQXE3b2F2ZUxYbFU5bTFWSWZRV0ZaVUZWSU9vZ25lWUFEbHZqTThpY3JwN0JCUVl30gHWAUFVX3lxTFBmZ25mU3VWcjBmRUlyb2VEeEVabk92SHB2UEZ4a3B0c0VkclJ0VC00dzNXcjJfdEdwa1IzOFFpYjdLWF84ZjVtSTE0a3hOeDdhMFlQc3c0WldncUVhZ1VkQ1ZXZWhieVJIYW5rQ2N5MHAtdmFFa21UR1JfZlpKUmwwYUVBcUhybl90N2lweU1acmZnQ0lPLUFWNXN1bkl4azNHN2Q3V1JBcTdvYXZlTFhsVTltMVZJZlFXRlpVRlZJT29nbmVZQURsdmpNOGljcnA3QkJRWXc?oc=5",
-      "published_at": "2026-11-27T16:33:38+00:00",
-      "topics": [
-        "finance"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "finance"
-      ]
-    },
-    {
       "title": "AmchamDR y congresistas estadounidenses abordan relaciones económicas bilaterales",
       "publisher": "Diario Libre",
       "publisher_url": "https://www.diariolibre.com",
@@ -187,72 +160,10 @@
       "economists": [
         "raul"
       ],
-      "economist_match": null,
+      "economist_match": "search",
       "searches": [
         "economist_raul",
         "economy"
-      ]
-    },
-    {
-      "title": "Impuestos Internos DGII pide aprovecharla amnistía fiscal",
-      "publisher": "El Caribe",
-      "publisher_url": "https://www.elcaribe.com.do",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPT3lKY0lYYVJwaV9QNzVxZmZnNDlvLURPSU9YZmhCTzV6N01md0YxZkViR0xsWjJKdXozX2dfM1pHeXRFXzFVTF9aZWJjcXRFdHpsaEhmNmowcE1VckxhM2g5eUkySkMwMU1EN2RPc0R5dzhCN0NuZmF0LVdfWFQ1cjdiQlRUeks2UjBvTUdMbU5obFdWbkFJVDl2V21OMTBiRG5ZZg?oc=5",
-      "published_at": "2026-11-27T16:00:00+00:00",
-      "topics": [
-        "dgii"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "dgii"
-      ]
-    },
-    {
-      "title": "Inflación, tasa de interés y expectativas 2027",
-      "publisher": "El Nuevo Diario",
-      "publisher_url": "https://elnuevodiario.com.do",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSG1TQUhFSTlaamZmUFNuSnBqQ2h1VHlxM3dDQ3JGckNDdmpKTy1YcGYzZF96NjJyUHZtVmZfdEFzNkNZT3o3d3BfQmh0MklVeUplbjBYSHBYRTh4d205eXRRcTRpNEpTTUhsTGp0Y3JHeTVTVFFlSDhYcGVfQ1p2dg?oc=5",
-      "published_at": "2026-11-27T13:19:11+00:00",
-      "topics": [
-        "economy",
-        "finance"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "economy",
-        "finance"
-      ]
-    },
-    {
-      "title": "La deuda pública crece casi un 10 % este año impulsada por emisiones internas",
-      "publisher": "Diario Libre",
-      "publisher_url": "https://www.diariolibre.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaldPeWtOcHZRNEp5TDdCOUI3dkVSQTh3S2pQNlhzaXJrY19KSkVxbUtTVzR6U2UwUEo3dmNEa08xRHVMSHFDeUFMVWVmUHlmamg1b3FWQ2lyLXluamtGWERmRWdwalBiazNXRTdsQ2NUQUZZc0d5LVVXdGdPcl9HT0pVVFdwQ2tvV3l4dGlFb2NiM2lMSVpqc0R0Y2s4Y1Q2UVBKVkJ3eXJVVi14eHB1VGp0ONIBuAFBVV95cUxPcW10bkJtU0taclN6VGRIMV9PbXJCa21hZG9pcW9lSFBZUlltY2ZZVEtfb0NsRDVEc0ZtQTRLemFfYk9vQnlacFN4VmxjVDVESm9qVDJXUEpVTmhZTEFLZURUVTAtMDBRTy05QjhhMVN3R0taRTJnT0RWM09OeGhId2tfSFV2Ymwzb2VyQVRuSlUyV2ltWFU5QjdpZ1RmajJaUERFeTZfbUQxVkJzdFdVcGhfYi0wRUdm?oc=5",
-      "published_at": "2026-11-27T04:01:00+00:00",
-      "topics": [
-        "fiscal"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "fiscal"
-      ]
-    },
-    {
-      "title": "Impuestos Internos exhorta aprovechar amnistía fiscal vigentes hasta el 31 de diciembre 2026",
-      "publisher": "Listín Diario",
-      "publisher_url": "https://listindiario.com",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZGVhbkVReVYxMmhxRjJORzNjY05PLVViLVpiLWJaSGxMUldJa3UtaHl1cmFLVVJaR09aTk1rNmdRNE5pR2FtUktqbXFKQXJMZTh5ZnFLSkNXTUdZeHVYUWpuQW9OTmtNUUFiSkVqUzd3OGtrUGo2M0tfNFRUNlJCcVBlWWtYVkNDZXQ2N1hQYzQ1RTRCNnFZOVJ0MzhrSnE5dnpEdFlWNW1DeHh1LUxnX2s0dDVSUXBsOXEwN3Zic0I2VDlrSXc5b04tTHlLMU5ZQ2Z2ZzNn0gHWAUFVX3lxTE9kZWFuRVF5VjEyaHFGMk5HM2NjTk8tVWItWmItYlpIbExSV0lrdS1oeXVyYUtVUlpHT1pOTWs2Z1E0TmlHYW1SS2ptcUpBckxlOHlmcUtKQ1dNR1l4dVhRam5Bb05Oa01RQWJKRWpTN3c4a2tQajYzS180VFQ2UkJxUGVZa1hWQ0NldDY3WFBjNDVFNEI2cVk5UnQzOGtKcTl2ekR0WVY1bUN4eHUtTGdfazR0NVJRcGw5cTA3dmJzQjZUOWtJdzlvTi1MeUsxTllDZnZnM2c?oc=5",
-      "published_at": "2026-11-27T04:00:00+00:00",
-      "topics": [
-        "dgii"
-      ],
-      "economists": [],
-      "economist_match": null,
-      "searches": [
-        "dgii"
       ]
     },
     {
